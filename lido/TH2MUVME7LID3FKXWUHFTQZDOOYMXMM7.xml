@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lido:lido xmlns:easy="https://schema.easydb.de/EASYDB/1.0/objects/"
+           xmlns:lido="http://www.lido-schema.org"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <lido:lidoRecID lido:source="info:isil/DE-2380"
+                   lido:type="http://terminology.lido-schema.org/identifier_type/local_identifier">DE-2380/40678</lido:lidoRecID>
+   <lido:descriptiveMetadata xml:lang="de">
+      <lido:objectClassificationWrap>
+         <lido:objectWorkTypeWrap>
+            <lido:objectWorkType>
+               <lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://vocab.getty.edu/aat/300069413</lido:conceptID>
+               <lido:term>Modezeichnung</lido:term>
+            </lido:objectWorkType>
+         </lido:objectWorkTypeWrap>
+         <lido:classificationWrap>
+            <lido:classification lido:type="Sammlung">
+               <lido:term>Modezeichnung</lido:term>
+            </lido:classification>
+         </lido:classificationWrap>
+      </lido:objectClassificationWrap>
+      <lido:objectIdentificationWrap>
+         <lido:titleWrap>
+            <lido:titleSet>
+               <lido:appellationValue lido:pref="preferred">Modezeichnung: Drei Figuren</lido:appellationValue>
+            </lido:titleSet>
+         </lido:titleWrap>
+         <lido:repositoryWrap>
+            <lido:repositorySet lido:type="http://terminology.lido-schema.org/repositorySet_type/current_repository_or_location">
+               <lido:repositoryName>
+                  <lido:legalBodyID lido:source="ISIL (ISO 15511)"
+                                    lido:type="http://terminology.lido-schema.org/identifier_type/uri">info:isil/DE-2380</lido:legalBodyID>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Archiv des Lette-Vereins Stiftung
+												des öffentlichen Rechts</lido:appellationValue>
+                  </lido:legalBodyName>
+                  <lido:legalBodyWeblink>http://www.letteverein.berlin/ueber-uns/lette-archiv/</lido:legalBodyWeblink>
+               </lido:repositoryName>
+               <lido:workID lido:type="Inventarnummer">LV_A_0_34_0005</lido:workID>
+               <lido:repositoryLocation>
+                  <lido:namePlaceSet>
+                     <lido:appellationValue>Berlin</lido:appellationValue>
+                  </lido:namePlaceSet>
+               </lido:repositoryLocation>
+            </lido:repositorySet>
+         </lido:repositoryWrap>
+         <lido:objectDescriptionWrap>
+            <lido:objectDescriptionSet>
+               <lido:descriptiveNoteValue>Skizze aus dem Unterricht Modedarstellung im Ausbildungsbereich Mode des Lette-Vereins. - Darstellung von Entwürfen für Damenkleidung. - Urheberin Karina Dajka. - Datierung 1980er Jahre.</lido:descriptiveNoteValue>
+            </lido:objectDescriptionSet>
+         </lido:objectDescriptionWrap>
+      </lido:objectIdentificationWrap>
+      <lido:eventWrap>
+         <lido:eventSet>
+            <lido:event>
+               <lido:eventType>
+                  <lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://terminology.lido-schema.org/lido00007</lido:conceptID>
+                  <lido:term>Herstellung</lido:term>
+               </lido:eventType>
+               <lido:eventActor>
+                  <lido:displayActorInRole>Karina Dajka (Zeichnerin)</lido:displayActorInRole>
+                  <lido:actorInRole>
+                     <lido:actor lido:type="Person">
+                        <lido:nameActorSet>
+                           <lido:appellationValue>Dajka, Karina</lido:appellationValue>
+                        </lido:nameActorSet>
+                     </lido:actor>
+                     <lido:roleActor>
+                        <lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://vocab.getty.edu/aat/300112172</lido:conceptID>
+                        <lido:term>Zeichnerin</lido:term>
+                     </lido:roleActor>
+                  </lido:actorInRole>
+               </lido:eventActor>
+               <lido:eventActor>
+                  <lido:displayActorInRole>Stiftung d. öff. Rechts, Berlin Lette-Verein (Beteiligte Institution)</lido:displayActorInRole>
+                  <lido:actorInRole>
+                     <lido:actor lido:type="Organisation">
+                        <lido:nameActorSet>
+                           <lido:appellationValue>Lette-Verein, Stiftung d. öff. Rechts, Berlin</lido:appellationValue>
+                        </lido:nameActorSet>
+                     </lido:actor>
+                     <lido:roleActor>
+                        <lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://vocab.getty.edu/aat/300026004</lido:conceptID>
+                        <lido:term>Beteiligte Institution</lido:term>
+                     </lido:roleActor>
+                  </lido:actorInRole>
+               </lido:eventActor>
+               <lido:eventDate>
+                  <lido:displayDate>1979-1982</lido:displayDate>
+                  <lido:date>
+                     <lido:earliestDate>1979</lido:earliestDate>
+                     <lido:latestDate>1982</lido:latestDate>
+                  </lido:date>
+               </lido:eventDate>
+               <lido:eventPlace>
+                  <lido:displayPlace>Berlin</lido:displayPlace>
+                  <lido:place>
+                     <lido:namePlaceSet>
+                        <lido:appellationValue>Berlin</lido:appellationValue>
+                     </lido:namePlaceSet>
+                  </lido:place>
+               </lido:eventPlace>
+               <lido:eventMaterialsTech>
+                  <lido:displayMaterialsTech>Papier / Kreidezeichnung</lido:displayMaterialsTech>
+                  <lido:materialsTech>
+                     <lido:termMaterialsTech lido:type="http://terminology.lido-schema.org/termMaterialsTech_type/material">
+                        <lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://vocab.getty.edu/aat/300014109</lido:conceptID>
+                        <lido:term>Papier</lido:term>
+                     </lido:termMaterialsTech>
+                     <lido:termMaterialsTech lido:type="http://terminology.lido-schema.org/termMaterialsTech_type/material">
+                        <lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://vocab.getty.edu/aat/300167812</lido:conceptID>
+                        <lido:term>Wachskreide</lido:term>
+                     </lido:termMaterialsTech>
+                     <lido:termMaterialsTech lido:type="http://terminology.lido-schema.org/termMaterialsTech_type/technique">
+                        <lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://vocab.getty.edu/aat/300395514</lido:conceptID>
+                        <lido:term>Kreidezeichnung</lido:term>
+                     </lido:termMaterialsTech>
+                  </lido:materialsTech>
+               </lido:eventMaterialsTech>
+            </lido:event>
+         </lido:eventSet>
+      </lido:eventWrap>
+      <lido:objectRelationWrap>
+         <lido:subjectWrap>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://vocab.getty.edu/aat/300209261</lido:conceptID>
+                     <lido:term>Kleidung</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://vocab.getty.edu/aat/300379344</lido:conceptID>
+                     <lido:term>Damenbekleidung</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://vocab.getty.edu/aat/300069413</lido:conceptID>
+                     <lido:term>Entwurfszeichnung</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+         </lido:subjectWrap>
+      </lido:objectRelationWrap>
+   </lido:descriptiveMetadata>
+   <lido:administrativeMetadata xml:lang="de">
+      <lido:rightsWorkWrap>
+         <lido:rightsWorkSet>
+            <lido:rightsType>
+               <lido:term>Nutzungsrechte</lido:term>
+            </lido:rightsType>
+            <lido:rightsHolder>
+               <lido:legalBodyName>
+                  <lido:appellationValue>Archiv Lette-Verein, Stiftung des öffentlichen Rechts</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:rightsHolder>
+         </lido:rightsWorkSet>
+      </lido:rightsWorkWrap>
+      <lido:recordWrap>
+         <lido:recordID lido:type="http://terminology.lido-schema.org/identifier_type/local_identifier">40678</lido:recordID>
+         <lido:recordType>
+            <lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://terminology.lido-schema.org/recordType/item-level_record</lido:conceptID>
+            <lido:term>Einzelobjekt</lido:term>
+         </lido:recordType>
+         <lido:recordSource>
+            <lido:legalBodyName>
+               <lido:appellationValue>Archiv des Lette-Vereins Stiftung des
+										öffentlichen Rechts</lido:appellationValue>
+            </lido:legalBodyName>
+            <lido:legalBodyWeblink>http://www.letteverein.berlin/ueber-uns/lette-archiv/</lido:legalBodyWeblink>
+         </lido:recordSource>
+         <lido:recordRights>
+            <lido:rightsType>
+               <lido:conceptID lido:source="http://creativecommons.org"
+                               lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://creativecommons.org/publicdomain/zero/1.0/</lido:conceptID>
+               <lido:term>CC0 1.0 Public Domain Dedication</lido:term>
+            </lido:rightsType>
+            <lido:creditLine>Förderprogramm zur Digitalisierung von Objekten des kulturellen Erbes des Landes Berlin</lido:creditLine>
+         </lido:recordRights>
+         <lido:recordInfoSet>
+            <lido:recordInfoLink lido:formatResource="html">https://easydb.lette-verein.de/detail/40678</lido:recordInfoLink>
+         </lido:recordInfoSet>
+      </lido:recordWrap>
+      <lido:resourceWrap>
+         <lido:resourceSet>
+            <lido:resourceID lido:type="http://terminology.lido-schema.org/identifier_type/local_identifier">LV_A_0_34_0005</lido:resourceID>
+            <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+               <lido:linkResource>https://easydb.lette-verein.de/eas/partitions/2/0/53000/53342/722acf4d521c1cd55c5ff340e9556ae19bab4668/image/jpeg/LV_A_0_34_0005-preview.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceType>
+               <lido:term>Digitalfoto</lido:term>
+            </lido:resourceType>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+                  <lido:term>Namensnennung 4.0 International (CC BY 4.0)</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Archiv Lette-Verein, Stiftung des öffentlichen Rechts</lido:appellationValue>
+                  </lido:legalBodyName>
+               </lido:rightsHolder>
+            </lido:rightsResource>
+         </lido:resourceSet>
+      </lido:resourceWrap>
+   </lido:administrativeMetadata>
+</lido:lido>
+

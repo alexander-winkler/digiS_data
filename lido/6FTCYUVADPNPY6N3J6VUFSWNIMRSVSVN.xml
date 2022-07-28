@@ -1,0 +1,403 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lido:lido xmlns:lido="http://www.lido-schema.org"
+           xmlns:xalan="http://xml.apache.org/xalan">
+   <lido:lidoRecID lido:source="https://berlin.museum-digital.de/index.php?t=institution&amp;instnr=32"
+                   lido:type="local">DE-B185/67367</lido:lidoRecID>
+   <lido:category/>
+   <lido:descriptiveMetadata xml:lang="de">
+      <lido:objectClassificationWrap>
+         <lido:objectWorkTypeWrap>
+            <lido:objectWorkType>
+               <lido:conceptID lido:source="gnd" lido:type="uri">http://d-nb.info/gnd/4067453-8</lido:conceptID>
+               <lido:conceptID lido:source="grobsystematik" lido:type="uri">https://term.museum-digital.de/grobsystematik/tag/14445</lido:conceptID>
+               <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh85039408</lido:conceptID>
+               <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/945</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Handzeichnung</lido:term>
+            </lido:objectWorkType>
+         </lido:objectWorkTypeWrap>
+         <lido:classificationWrap>
+            <lido:classification lido:type="Sammlung">
+               <lido:conceptID lido:source="local" lido:type="collection_id">706</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Ansichten</lido:term>
+            </lido:classification>
+            <lido:classification lido:type="Sammlung">
+               <lido:conceptID lido:source="local" lido:type="collection_id">708</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Brandenburg</lido:term>
+            </lido:classification>
+            <lido:classification lido:type="Sammlung">
+               <lido:conceptID lido:source="local" lido:type="collection_id">705</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Handzeichnungen, Druckgraphik, Gemälde</lido:term>
+            </lido:classification>
+         </lido:classificationWrap>
+      </lido:objectClassificationWrap>
+      <lido:objectIdentificationWrap>
+         <lido:titleWrap>
+            <lido:titleSet>
+               <lido:appellationValue lido:pref="preferred">Lang Heinersdorf (Kr. Züllichau-Schwiebus): sogen. Runenstein</lido:appellationValue>
+            </lido:titleSet>
+         </lido:titleWrap>
+         <lido:repositoryWrap>
+            <lido:repositorySet lido:type="current">
+               <lido:repositoryName>
+                  <lido:legalBodyID lido:type="isil">DE-B185</lido:legalBodyID>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+                  </lido:legalBodyName>
+                  <lido:legalBodyWeblink>http://geschichte-brandenburg.de/</lido:legalBodyWeblink>
+               </lido:repositoryName>
+               <lido:workID lido:type="inventory number">LGV-Archiv, C 12 H-4-091</lido:workID>
+               <lido:repositoryLocation>
+                  <lido:namePlaceSet>
+                     <lido:appellationValue>Berlin</lido:appellationValue>
+                  </lido:namePlaceSet>
+                  <lido:gml>
+                     <gml:Point xmlns:gml="http://www.opengis.net/gml" srsName="EPSG:4326">
+                        <gml:pos>52.51533127 13.40440559</gml:pos>
+                     </gml:Point>
+                  </lido:gml>
+               </lido:repositoryLocation>
+            </lido:repositorySet>
+         </lido:repositoryWrap>
+         <lido:objectDescriptionWrap>
+            <lido:objectDescriptionSet>
+               <lido:descriptiveNoteValue>"In der Nähe des Dorfes Langheinersdorf in der Neumark, seitwärts von dem nach Züllichau führenden Landwege, liegt ein mächtiger, etwa 2 m hoher erratischer Block, in den runenartige Schriftzeichen eingegraben sind." (Biehahn, S. 87). Erich Biehhahn (Berlin-Niederschönhausen) hat sich 1968 mit dem Stein befasst und ihn für eine eigene Veröffentlichung (siehe unten) gezeichnet. Darin konnte er zeigen, dass es sich nicht um echte "Runen" handelt, sondern diese wahrscheinlich erst im 19. Jahrhundert in den Stein geritzt worden sind.&#xD;
+Biehahn (1891-1971) war studierter Philologe und staatlich geprüfter Kunsterzieher. Er arbeitete als Zeichenleher bzw. Kunsterzieher an Schulen in Cottbus, Frankfurt (Oder) und Berlin-Pankow, daneben betätigte er sich auch als Kunstmaler und Literaturhistoriker. 1956-1964 war er wissenschaftlicher Mitarbeiter der der Deutschen Staatsbibliothek in Berlin (Ost). Ein Teil seines Nachlasses befindet sich im Stadtarchiv Frankfurt (Oder).&#xD;
+&#xD;
+Rückseite: Unvollendete Skizze desselben Steines in Feder.&#xD;
+Erworben 1978 (Abgabe der Schriftleitung des Jahrbuchs für brandenburgische Landesgeschichte).&#xD;
+&#xD;
+Literatur (Auswahl): Erich Biehhahn: Nicolai und der Runenstein von Langheinersdorf. In: Jahrbuch für brandenburgische Landesgeschichte 19 (1968), S. 87-91 (Abb. der Zeichnung S. 89). - Zum Zeichner: Nachruf. In: Fontane-Blätter, Bd. 2, H. 6 (1972), S. 454.</lido:descriptiveNoteValue>
+               <lido:sourceDescriptiveNote>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:sourceDescriptiveNote>
+            </lido:objectDescriptionSet>
+         </lido:objectDescriptionWrap>
+         <lido:objectMeasurementsWrap>
+            <lido:objectMeasurementsSet>
+               <lido:displayObjectMeasurements>Blattgröße: Höhe 18,7 cm, Breite 15,4 cm</lido:displayObjectMeasurements>
+               <lido:objectMeasurements/>
+            </lido:objectMeasurementsSet>
+         </lido:objectMeasurementsWrap>
+      </lido:objectIdentificationWrap>
+      <lido:eventWrap>
+         <lido:eventSet>
+            <lido:event>
+               <lido:eventType>
+                  <lido:conceptID lido:type="uri">https://event-types.museum-digital.org/1</lido:conceptID>
+                  <lido:term lido:addedSearchTerm="no">Hergestellt</lido:term>
+               </lido:eventType>
+               <lido:eventActor>
+                  <lido:displayActorInRole>Erich Biehahn (1891-1971)</lido:displayActorInRole>
+                  <lido:actorInRole>
+                     <lido:actor>
+                        <lido:actorID lido:source="allgemein" lido:type="uri">https://provenienz.gbv.de/Erich_Biehahn</lido:actorID>
+                        <lido:actorID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/1023466767</lido:actorID>
+                        <lido:actorID lido:source="viaf" lido:type="uri">https://viaf.org/viaf/455000</lido:actorID>
+                        <lido:actorID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q59530449</lido:actorID>
+                        <lido:actorID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/persinst/125036</lido:actorID>
+                        <lido:nameActorSet>
+                           <lido:appellationValue>Biehahn, Erich</lido:appellationValue>
+                           <lido:appellationValue xml:lang="de">Erich Biehahn</lido:appellationValue>
+                           <lido:appellationValue xml:lang="en">Erich Biehahn</lido:appellationValue>
+                        </lido:nameActorSet>
+                        <lido:vitalDatesActor>
+                           <lido:earliestDate>1891</lido:earliestDate>
+                           <lido:latestDate>1971</lido:latestDate>
+                        </lido:vitalDatesActor>
+                     </lido:actor>
+                  </lido:actorInRole>
+               </lido:eventActor>
+               <lido:eventDate>
+                  <lido:displayDate>1968</lido:displayDate>
+                  <lido:displayDate xml:lang="ar">1968</lido:displayDate>
+                  <lido:displayDate xml:lang="de">1968</lido:displayDate>
+                  <lido:displayDate xml:lang="en">1968</lido:displayDate>
+                  <lido:displayDate xml:lang="es">1968</lido:displayDate>
+                  <lido:displayDate xml:lang="fa">1968</lido:displayDate>
+                  <lido:displayDate xml:lang="fr">1968</lido:displayDate>
+                  <lido:displayDate xml:lang="hu">1968</lido:displayDate>
+                  <lido:displayDate xml:lang="id">1968</lido:displayDate>
+                  <lido:displayDate xml:lang="it">1968</lido:displayDate>
+                  <lido:displayDate xml:lang="ja">1968年</lido:displayDate>
+                  <lido:displayDate xml:lang="ka">1968</lido:displayDate>
+                  <lido:displayDate xml:lang="ko">1968년</lido:displayDate>
+                  <lido:displayDate xml:lang="pl">1968</lido:displayDate>
+                  <lido:displayDate xml:lang="pt">1968</lido:displayDate>
+                  <lido:displayDate xml:lang="ro">1968</lido:displayDate>
+                  <lido:displayDate xml:lang="ru">1968</lido:displayDate>
+                  <lido:displayDate xml:lang="ta">1968</lido:displayDate>
+                  <lido:displayDate xml:lang="tl">1968</lido:displayDate>
+                  <lido:displayDate xml:lang="tr">1968</lido:displayDate>
+                  <lido:displayDate xml:lang="zh">1968年</lido:displayDate>
+                  <lido:date>
+                     <lido:earliestDate>1968</lido:earliestDate>
+                     <lido:latestDate>1968</lido:latestDate>
+                  </lido:date>
+               </lido:eventDate>
+               <lido:eventPlace>
+                  <lido:displayPlace>Łęgowo (Sulechów)</lido:displayPlace>
+                  <lido:displayPlace xml:lang="de">Łęgowo (Sulechów)</lido:displayPlace>
+                  <lido:place>
+                     <lido:placeID lido:source="geonames" lido:type="uri">https://sws.geonames.org/3093685</lido:placeID>
+                     <lido:placeID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/place/57323</lido:placeID>
+                     <lido:namePlaceSet>
+                        <lido:appellationValue>Łęgowo (Sulechów)</lido:appellationValue>
+                        <lido:appellationValue xml:lang="de">Łęgowo (Sulechów)</lido:appellationValue>
+                     </lido:namePlaceSet>
+                     <lido:gml>
+                        <gml:Point xmlns:gml="http://www.opengis.net/gml" srsName="EPSG:4326">
+                           <gml:pos>52.129272460938 15.684300422668</gml:pos>
+                        </gml:Point>
+                     </lido:gml>
+                  </lido:place>
+               </lido:eventPlace>
+            </lido:event>
+         </lido:eventSet>
+         <lido:eventSet>
+            <lido:event>
+               <lido:eventType>
+                  <lido:conceptID lido:type="uri">http://terminology.lido-schema.org/lido00003</lido:conceptID>
+                  <lido:term>Event (non-specified)</lido:term>
+               </lido:eventType>
+               <lido:eventMaterialsTech>
+                  <lido:displayMaterialsTech>Weicher Bleistift auf Zeichenpapier</lido:displayMaterialsTech>
+               </lido:eventMaterialsTech>
+            </lido:event>
+         </lido:eventSet>
+      </lido:eventWrap>
+      <lido:objectRelationWrap>
+         <lido:subjectWrap>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectPlace>
+                     <lido:displayPlace>Łęgowo (Sulechów)</lido:displayPlace>
+                     <lido:displayPlace xml:lang="de">Łęgowo (Sulechów)</lido:displayPlace>
+                     <lido:place>
+                        <lido:placeID lido:source="geonames" lido:type="uri">https://sws.geonames.org/3093685</lido:placeID>
+                        <lido:placeID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/place/57323</lido:placeID>
+                        <lido:namePlaceSet>
+                           <lido:appellationValue>Łęgowo (Sulechów)</lido:appellationValue>
+                           <lido:appellationValue xml:lang="de">Łęgowo (Sulechów)</lido:appellationValue>
+                        </lido:namePlaceSet>
+                        <lido:gml>
+                           <gml:Point xmlns:gml="http://www.opengis.net/gml" srsName="EPSG:4326">
+                              <gml:pos>52.129272460938 15.684300422668</gml:pos>
+                           </gml:Point>
+                        </lido:gml>
+                     </lido:place>
+                  </lido:subjectPlace>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="aat" lido:type="uri">http://vocab.getty.edu/aat/300054698</lido:conceptID>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4053297-5</lido:conceptID>
+                     <lido:conceptID lido:source="iconclass" lido:type="uri">http://iconclass.org/rkd/49L1/</lido:conceptID>
+                     <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh2002006490</lido:conceptID>
+                     <lido:conceptID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/w/index.php?search=&amp;search=Q8192</lido:conceptID>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Schrift</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/6916</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Schrift</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ar">نظام كتابة</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="bn">লিখন পদ্ধতি</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="cs">písmo</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="da">skriftsystem</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="de">Schrift</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="el">Σύστημα γραφής</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="en">Writing system</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="es">Sistema de escritura</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fa">خط</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fi">Kirjoitusjärjestelmä</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fr">Système d'écriture</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="he">כתב</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hi">लिपि</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="id">Aksara</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="it">Sistema di scrittura</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ja">文字体系</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ka">დამწერლობა</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ko">문자</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="nl">Schrift</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pl">system pisma</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pt">Sistema de escrita</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ru">письменность</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sv">Skrift</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sw">maandishi</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ta">எழுத்துமுறை</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="th">ระบบการเขียน</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tl">sistema sa pagsulat</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tr">yazı sistemi</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ur">رسم خط</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="vi">hệ chữ viết</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="zh">文字</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">http://d-nb.info/gnd/4183014-3</lido:conceptID>
+                     <lido:conceptID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q22731</lido:conceptID>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Stein</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/8406</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Stein</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="cs">kámen</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="da">Sten</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="de">Stein</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="en">Stone</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="es">Piedra</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fi">Luonnonkivi</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fr">Pierre naturelle</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hi">पत्थर</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hu">kő</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="id">batu</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="it">Pietra</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ja">石</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="nl">Steen</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pl">Kamień</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pt">Pedra</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ro">piatră</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ru">природный камень</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sv">Sten</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sw">Jiwe</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="zh">石頭</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="aat" lido:type="uri">http://vocab.getty.edu/aat/300219050</lido:conceptID>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4050996-5</lido:conceptID>
+                     <lido:conceptID lido:source="lcsh" lido:type="uri">https://id.loc.gov/authorities/subjects/sh85115851</lido:conceptID>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Runen</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/29666</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Runen</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4212534-0</lido:conceptID>
+                     <lido:conceptID lido:source="iconclass" lido:type="uri">http://iconclass.org/rkd/25HH1124/</lido:conceptID>
+                     <lido:conceptID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q372934</lido:conceptID>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Findling</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/43682</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Findling</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ar">شارد جليدي</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="cs">Bludný balvan</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="da">Vandreblok</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="de">Findling</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="en">Glacial erratic</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="es">Bloque errático</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fa">سرگردان یخبندانی</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fi">Siirtolohkare</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fr">Bloc erratique</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="he">סלע תועה</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hu">Vándorkő</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="it">Masso erratico</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ja">迷子石</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ka">ერატიკული ლოდები</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="nl">Zwerfsteen</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pl">Głaz narzutowy</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pt">Bloco errático</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ru">Эрратические валуны</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sv">Flyttblock</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tr">Eratik bloklar</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="zh">漂砾</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+         </lido:subjectWrap>
+         <lido:relatedWorksWrap/>
+      </lido:objectRelationWrap>
+   </lido:descriptiveMetadata>
+   <lido:administrativeMetadata xml:lang="de">
+      <lido:rightsWorkWrap>
+         <lido:rightsWorkSet>
+            <lido:rightsHolder>
+               <lido:legalBodyName>
+                  <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:rightsHolder>
+         </lido:rightsWorkSet>
+      </lido:rightsWorkWrap>
+      <lido:recordWrap>
+         <lido:recordID lido:type="museum-digital">67367</lido:recordID>
+         <lido:recordType>
+            <lido:term lido:addedSearchTerm="no">item</lido:term>
+         </lido:recordType>
+         <lido:recordSource lido:type="dataProvider">
+            <lido:legalBodyName>
+               <lido:appellationValue>museum-digital</lido:appellationValue>
+            </lido:legalBodyName>
+            <lido:legalBodyWeblink>https://berlin.museum-digital.de/</lido:legalBodyWeblink>
+         </lido:recordSource>
+         <lido:recordSource>
+            <lido:legalBodyID lido:type="isil">DE-B185</lido:legalBodyID>
+            <lido:legalBodyName>
+               <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+            </lido:legalBodyName>
+         </lido:recordSource>
+         <lido:recordRights>
+            <lido:rightsType>
+               <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no">CC BY</lido:term>
+            </lido:rightsType>
+            <lido:rightsHolder>
+               <lido:legalBodyID lido:type="isil">DE-B185</lido:legalBodyID>
+               <lido:legalBodyName>
+                  <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+               </lido:legalBodyName>
+               <lido:legalBodyWeblink>http://geschichte-brandenburg.de/</lido:legalBodyWeblink>
+            </lido:rightsHolder>
+            <lido:creditLine>Förderprogramm zur Digitalisierung von Objekten des kulturellen Erbes des Landes Berlin</lido:creditLine>
+         </lido:recordRights>
+         <lido:recordInfoSet>
+            <lido:recordInfoLink>https://berlin.museum-digital.de/index.php?t=objekt&amp;oges=67367</lido:recordInfoLink>
+            <lido:recordMetadataDate>2021-04-27 07:59:52</lido:recordMetadataDate>
+         </lido:recordInfoSet>
+      </lido:recordWrap>
+      <lido:resourceWrap>
+         <lido:resourceSet lido:sortorder="1">
+            <lido:resourceID lido:source="image" lido:type="local">48910</lido:resourceID>
+            <lido:resourceRepresentation lido:type="masterfile">
+               <lido:linkResource lido:formatResource="image/tiff"/>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_thumb">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/202007/100h_lang-heinersdorf-kr-zuellichau-schwiebus-sogen-runenstein-67367.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_preview">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/202007/200w_lang-heinersdorf-kr-zuellichau-schwiebus-sogen-runenstein-67367.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/202007/lang-heinersdorf-kr-zuellichau-schwiebus-sogen-runenstein-67367.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceType>
+               <lido:term lido:addedSearchTerm="no">image</lido:term>
+            </lido:resourceType>
+            <lido:resourceRelType>
+               <lido:term lido:addedSearchTerm="no">Hauptansicht</lido:term>
+            </lido:resourceRelType>
+            <lido:resourceDescription>Lang Heinersdorf (Kr. Züllichau-Schwiebus): sogen. Runenstein</lido:resourceDescription>
+            <lido:resourceSource lido:type="creator">
+               <lido:legalBodyName>
+                  <lido:appellationValue>Thomas Voßbeck, 2020</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:resourceSource>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+                  <lido:term lido:addedSearchTerm="no">CC BY</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V.</lido:appellationValue>
+                  </lido:legalBodyName>
+               </lido:rightsHolder>
+               <lido:creditLine>Thomas Voßbeck, 2020</lido:creditLine>
+            </lido:rightsResource>
+         </lido:resourceSet>
+      </lido:resourceWrap>
+   </lido:administrativeMetadata>
+</lido:lido>
+

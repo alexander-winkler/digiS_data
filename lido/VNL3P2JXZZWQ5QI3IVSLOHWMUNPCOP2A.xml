@@ -1,0 +1,715 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lido:lido xmlns:gml="http://www.opengis.net/gml"
+           xmlns:lido="http://www.lido-schema.org"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <lido:lidoRecID lido:source="https://berlin.museum-digital.de/index.php?t=institution&amp;instnr=10"
+                   lido:type="local">DE-MUS-232415/91437</lido:lidoRecID>
+   <lido:category/>
+   <lido:descriptiveMetadata xml:lang="de">
+      <lido:objectClassificationWrap>
+         <lido:objectWorkTypeWrap>
+            <lido:objectWorkType>
+               <lido:conceptID lido:source="gnd" lido:type="uri">http://d-nb.info/gnd/4697377-1</lido:conceptID>
+               <lido:conceptID lido:source="grobsystematik" lido:type="uri">https://term.museum-digital.de/grobsystematik/tag/13421</lido:conceptID>
+               <lido:conceptID lido:source="oberbegriffsdatei" lido:type="uri">https://term.museum-digital.de/oberbegriffsdatei/tag/2502</lido:conceptID>
+               <lido:conceptID lido:source="aat" lido:type="uri">http://vocab.getty.edu/aat/300195535</lido:conceptID>
+               <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh85039581</lido:conceptID>
+               <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/4963</lido:conceptID>
+               <lido:term xml:lang="de">Untertasse</lido:term>
+            </lido:objectWorkType>
+         </lido:objectWorkTypeWrap>
+         <lido:classificationWrap>
+            <lido:classification lido:type="Sammlung">
+               <lido:conceptID lido:source="local" lido:type="collection_id">19</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Porzellan, Keramik</lido:term>
+            </lido:classification>
+            <lido:classification>
+               <lido:conceptID lido:source="local" lido:type="series_id">2452</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no">Kaffeeservice "Art Déco-Dekor mit Blumen"</lido:term>
+            </lido:classification>
+         </lido:classificationWrap>
+      </lido:objectClassificationWrap>
+      <lido:objectIdentificationWrap>
+         <lido:titleWrap>
+            <lido:titleSet>
+               <lido:appellationValue lido:pref="preferred">Untertasse "Art Déco-Dekor mit Blumen"</lido:appellationValue>
+            </lido:titleSet>
+         </lido:titleWrap>
+         <lido:repositoryWrap>
+            <lido:repositorySet lido:type="current">
+               <lido:repositoryName>
+                  <lido:legalBodyID lido:type="isil">DE-MUS-232415</lido:legalBodyID>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Mitte Museum/Bezirksamt Mitte von Berlin</lido:appellationValue>
+                  </lido:legalBodyName>
+                  <lido:legalBodyWeblink>https://www.mittemuseum.de/</lido:legalBodyWeblink>
+               </lido:repositoryName>
+               <lido:workID lido:type="inventory number">MM_2006-03i</lido:workID>
+               <lido:repositoryLocation>
+                  <lido:namePlaceSet>
+                     <lido:appellationValue>Berlin</lido:appellationValue>
+                  </lido:namePlaceSet>
+                  <lido:gml>
+                     <gml:Point srsName="EPSG:4326">
+                        <gml:pos>52.52658081 13.34020329</gml:pos>
+                     </gml:Point>
+                  </lido:gml>
+               </lido:repositoryLocation>
+            </lido:repositorySet>
+         </lido:repositoryWrap>
+         <lido:objectDescriptionWrap>
+            <lido:objectDescriptionSet>
+               <lido:descriptiveNoteValue>Untertasse mit konischem Standring und hochgezogener, kannelierter Fahne. Gekerbter Rand mit umlaufendem Ornamentband mit geometrischem Muster und Goldstreifen. Auf flachem Spiegel und Fahne "Art Déco-Dekor mit Blumen" in Korallenrot auf weißem Fond, Aufdruck. &lt;br/&gt;
+Zustand: Dekor mit kleinen Druckfehlern; leichter Goldabrieb; Dekor an Kanneluren abgerieben; korallenrote Farbtupfer auf Standring; Papier des Klebeetiketts wegen Feuchtigkeit leicht faserig und stellenweise abgelöst.&lt;br/&gt;
+&lt;br/&gt;
+Auf der Unterseite die goldene Aufdruckmarke: Roßlauer Stadtwappen, darunter die Buchstaben "ROSSLAU". Datierung: 1927-1932&lt;br/&gt;
+&lt;br/&gt;
+Form: "Cleopatra"; Dekor: "Art-Déco-Dekor mit Blumen" (nach Stadt Dessau (Hg.) 2006).&lt;br/&gt;
+&lt;br/&gt;
+Inventarnummer: MM_2006-03i</lido:descriptiveNoteValue>
+               <lido:sourceDescriptiveNote>Mitte Museum/Bezirksamt Mitte von Berlin</lido:sourceDescriptiveNote>
+            </lido:objectDescriptionSet>
+         </lido:objectDescriptionWrap>
+         <lido:objectMeasurementsWrap>
+            <lido:objectMeasurementsSet>
+               <lido:displayObjectMeasurements>Höhe: 2,1 cm; Durchmesser: 14,7 cm</lido:displayObjectMeasurements>
+               <lido:objectMeasurements/>
+            </lido:objectMeasurementsSet>
+         </lido:objectMeasurementsWrap>
+      </lido:objectIdentificationWrap>
+      <lido:eventWrap>
+         <lido:eventSet>
+            <lido:displayEvent>Hergestellt</lido:displayEvent>
+            <lido:event>
+               <lido:eventID lido:type="local">398395</lido:eventID>
+               <lido:eventType>
+                  <lido:conceptID lido:type="uri">https://event-types.museum-digital.org/1</lido:conceptID>
+                  <lido:term lido:addedSearchTerm="no">Hergestellt</lido:term>
+               </lido:eventType>
+               <lido:eventName>
+                  <lido:appellationValue>Hergestellt - Obj. 91437</lido:appellationValue>
+               </lido:eventName>
+               <lido:eventActor>
+                  <lido:displayActorInRole>Roßlauer Porzellanfabrik H. Schomburg &amp; Söhne</lido:displayActorInRole>
+                  <lido:actorInRole>
+                     <lido:actor>
+                        <lido:actorID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/persinst/156531</lido:actorID>
+                        <lido:nameActorSet>
+                           <lido:appellationValue>Roßlauer Porzellanfabrik H. Schomburg &amp; Söhne</lido:appellationValue>
+                        </lido:nameActorSet>
+                        <lido:vitalDatesActor>
+                           <lido:earliestDate/>
+                           <lido:latestDate/>
+                        </lido:vitalDatesActor>
+                     </lido:actor>
+                  </lido:actorInRole>
+               </lido:eventActor>
+               <lido:eventDate>
+                  <lido:displayDate>1927-1932</lido:displayDate>
+                  <lido:date>
+                     <lido:earliestDate>1927</lido:earliestDate>
+                     <lido:latestDate>1932</lido:latestDate>
+                  </lido:date>
+               </lido:eventDate>
+               <lido:eventPlace>
+                  <lido:displayPlace>Dessau-Roßlau</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ar">دساو روسلاو</lido:displayPlace>
+                  <lido:displayPlace xml:lang="cs">Dessau-Roßlau</lido:displayPlace>
+                  <lido:displayPlace xml:lang="da">Dessau-Roßlau</lido:displayPlace>
+                  <lido:displayPlace xml:lang="de">Dessau-Roßlau</lido:displayPlace>
+                  <lido:displayPlace xml:lang="en">Dessau-Roßlau</lido:displayPlace>
+                  <lido:displayPlace xml:lang="es">Dessau-Roßlau</lido:displayPlace>
+                  <lido:displayPlace xml:lang="fa">دسوا-رسلا</lido:displayPlace>
+                  <lido:displayPlace xml:lang="fi">Dessau-Roßlau</lido:displayPlace>
+                  <lido:displayPlace xml:lang="fr">Dessau-Roßlau</lido:displayPlace>
+                  <lido:displayPlace xml:lang="hu">Dessau-Roßlau</lido:displayPlace>
+                  <lido:displayPlace xml:lang="it">Dessau-Roßlau</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ko">데사우-로슬라우</lido:displayPlace>
+                  <lido:displayPlace xml:lang="nl">Dessau-Roßlau</lido:displayPlace>
+                  <lido:displayPlace xml:lang="pl">Dessau-Roßlau</lido:displayPlace>
+                  <lido:displayPlace xml:lang="pt">Dessau-Roßlau</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ro">Dessau-Roßlau</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ru">Дессау-Рослау</lido:displayPlace>
+                  <lido:displayPlace xml:lang="sv">Dessau-Rosslau</lido:displayPlace>
+                  <lido:displayPlace xml:lang="tr">Dessau-Roßlau</lido:displayPlace>
+                  <lido:displayPlace xml:lang="vi">Dessau-Roßlau</lido:displayPlace>
+                  <lido:displayPlace xml:lang="zh">德绍-罗斯劳</lido:displayPlace>
+                  <lido:place>
+                     <lido:placeID lido:source="geonames" lido:type="uri">https://sws.geonames.org/2937956</lido:placeID>
+                     <lido:placeID lido:source="TGN" lido:type="uri">http://vocab.getty.edu/tgn/7012804</lido:placeID>
+                     <lido:placeID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/7576656-5</lido:placeID>
+                     <lido:placeID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q3828</lido:placeID>
+                     <lido:placeID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/place/488</lido:placeID>
+                     <lido:namePlaceSet>
+                        <lido:appellationValue>Dessau-Roßlau</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ar">دساو روسلاو</lido:appellationValue>
+                        <lido:appellationValue xml:lang="cs">Dessau-Roßlau</lido:appellationValue>
+                        <lido:appellationValue xml:lang="da">Dessau-Roßlau</lido:appellationValue>
+                        <lido:appellationValue xml:lang="de">Dessau-Roßlau</lido:appellationValue>
+                        <lido:appellationValue xml:lang="en">Dessau-Roßlau</lido:appellationValue>
+                        <lido:appellationValue xml:lang="es">Dessau-Roßlau</lido:appellationValue>
+                        <lido:appellationValue xml:lang="fa">دسوا-رسلا</lido:appellationValue>
+                        <lido:appellationValue xml:lang="fi">Dessau-Roßlau</lido:appellationValue>
+                        <lido:appellationValue xml:lang="fr">Dessau-Roßlau</lido:appellationValue>
+                        <lido:appellationValue xml:lang="hu">Dessau-Roßlau</lido:appellationValue>
+                        <lido:appellationValue xml:lang="it">Dessau-Roßlau</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ko">데사우-로슬라우</lido:appellationValue>
+                        <lido:appellationValue xml:lang="nl">Dessau-Roßlau</lido:appellationValue>
+                        <lido:appellationValue xml:lang="pl">Dessau-Roßlau</lido:appellationValue>
+                        <lido:appellationValue xml:lang="pt">Dessau-Roßlau</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ro">Dessau-Roßlau</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ru">Дессау-Рослау</lido:appellationValue>
+                        <lido:appellationValue xml:lang="sv">Dessau-Rosslau</lido:appellationValue>
+                        <lido:appellationValue xml:lang="tr">Dessau-Roßlau</lido:appellationValue>
+                        <lido:appellationValue xml:lang="vi">Dessau-Roßlau</lido:appellationValue>
+                        <lido:appellationValue xml:lang="zh">德绍-罗斯劳</lido:appellationValue>
+                     </lido:namePlaceSet>
+                     <lido:gml>
+                        <gml:Point srsName="EPSG:4326">
+                           <gml:pos>51.833332061768 12.233332633972</gml:pos>
+                        </gml:Point>
+                     </lido:gml>
+                  </lido:place>
+               </lido:eventPlace>
+            </lido:event>
+         </lido:eventSet>
+         <lido:eventSet>
+            <lido:event>
+               <lido:eventType>
+                  <lido:conceptID lido:type="uri">http://terminology.lido-schema.org/lido00003</lido:conceptID>
+                  <lido:term>Event (non-specified)</lido:term>
+               </lido:eventType>
+               <lido:eventMaterialsTech>
+                  <lido:displayMaterialsTech>Porzellan/glasiert; bedruckt; bemalt</lido:displayMaterialsTech>
+               </lido:eventMaterialsTech>
+            </lido:event>
+         </lido:eventSet>
+      </lido:eventWrap>
+      <lido:objectRelationWrap>
+         <lido:subjectWrap>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectActor>
+                     <lido:displayActor>Roßlauer Porzellanfabrik H. Schomburg &amp; Söhne</lido:displayActor>
+                     <lido:actor>
+                        <lido:actorID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/persinst/156531</lido:actorID>
+                        <lido:nameActorSet>
+                           <lido:appellationValue>Roßlauer Porzellanfabrik H. Schomburg &amp; Söhne</lido:appellationValue>
+                        </lido:nameActorSet>
+                        <lido:vitalDatesActor>
+                           <lido:earliestDate/>
+                           <lido:latestDate/>
+                        </lido:vitalDatesActor>
+                     </lido:actor>
+                  </lido:subjectActor>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="aat" lido:type="uri">http://vocab.getty.edu/aat/300010662</lido:conceptID>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4046851-3</lido:conceptID>
+                     <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh85104937</lido:conceptID>
+                     <lido:conceptID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/w/index.php?search=&amp;search=Q130693</lido:conceptID>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Porzellan</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/118</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Porzellan</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ar">بورسلان</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="cs">Porcelán</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="da">Porcelæn</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="de">Porzellan</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="el">πορσελάνη</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="en">Porcelain</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="es">Porcelana</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fa">پرسلان</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fi">Posliini</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fr">Porcelaine</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="he">חרסינה</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hi">पॉर्सिलेन</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hu">porcelán</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="id">Porselen</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="it">Porcellana</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ja">磁器</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ka">ფაიფური</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ko">도자기</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="nl">Porselein</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pl">Porcelana</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pt">Porcelana</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ru">Фарфор</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sv">Porslin</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="th">เครื่องถ้วยเปลือกไข่</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tr">Porselen</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ur">چینی مٹی</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="vi">Sứ</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="zh">瓷器</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="aat" lido:type="uri">http://vocab.getty.edu/aat/300021426</lido:conceptID>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">http://d-nb.info/gnd/4003051-9</lido:conceptID>
+                     <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh85007994</lido:conceptID>
+                     <lido:conceptID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q173782</lido:conceptID>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Art_d%C3%A9co</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/2436</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Art déco</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ar">آرت ديكو</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="cs">Art deco</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="da">Art deco</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="de">Art déco</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="el">Αρ Ντεκό</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="en">Art Deco</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="es">Art déco</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fa">آرت دکو</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fi">Art deco</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fr">Art déco</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="he">אר דקו</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hu">art déco</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="id">Art deco</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="it">Art déco</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ja">アール・デコ</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ka">არტ-დეკო</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ko">아르 데코</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="nl">Art deco</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pl">Art déco</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pt">Art déco</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ro">Art Déco</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ru">Ар-деко</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sv">Art déco</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ta">எழில்படுக் கலை</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="th">อลังการศิลป์</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tl">Art Deco</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tr">Art deco</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="vi">Art Deco</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="zh">装饰风艺术</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="aat" lido:type="uri">http://vocab.getty.edu/aat/300195535</lido:conceptID>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4697377-1</lido:conceptID>
+                     <lido:conceptID lido:source="grobsystematik" lido:type="uri">https://term.museum-digital.de/grobsystematik/tag/13421</lido:conceptID>
+                     <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh85039581.html</lido:conceptID>
+                     <lido:conceptID lido:source="oberbegriffsdatei" lido:type="uri">https://term.museum-digital.de/oberbegriffsdatei/tag/2502</lido:conceptID>
+                     <lido:conceptID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q1422576</lido:conceptID>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Untertasse</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/4963</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Untertasse</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="cs">Podšálek</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="da">Underkop</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="de">Untertasse</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="en">Saucer</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fa">نعلبکی</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fr">Soucoupe</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="id">Lepek</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ja">ソーサー</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ko">잔받침</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="nl">Schotel</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pl">Spodek</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pt">Pires</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ru">Блюдце</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sv">Tefat</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tr">Fincan tabağı</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="zh">茶杯碟</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">http://d-nb.info/gnd/4346926-7</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/7687</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Kaffeegeschirr</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+         </lido:subjectWrap>
+         <lido:relatedWorksWrap>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:displayObject/>
+               </lido:relatedWork>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:displayObject>Stadt Dessau (Hg.), 2006: Askania-Gold und China-Blau. Aus der Geschichte der Roßlauer Porzellanfabrik, Dessau, S. 77 f.</lido:displayObject>
+               </lido:relatedWork>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:displayObject>Teller "Art Déco-Dekor mit Blumen"</lido:displayObject>
+                  <lido:object>
+                     <lido:objectID lido:type="local">DE-MUS-232415/91448</lido:objectID>
+                  </lido:object>
+               </lido:relatedWork>
+               <lido:relatedWorkRelType>
+                  <lido:term>Teil von</lido:term>
+               </lido:relatedWorkRelType>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:displayObject>Teller "Art Déco-Dekor mit Blumen"</lido:displayObject>
+                  <lido:object>
+                     <lido:objectID lido:type="local">DE-MUS-232415/91447</lido:objectID>
+                  </lido:object>
+               </lido:relatedWork>
+               <lido:relatedWorkRelType>
+                  <lido:term>Teil von</lido:term>
+               </lido:relatedWorkRelType>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:displayObject>Teller "Art Déco-Dekor mit Blumen"</lido:displayObject>
+                  <lido:object>
+                     <lido:objectID lido:type="local">DE-MUS-232415/91446</lido:objectID>
+                  </lido:object>
+               </lido:relatedWork>
+               <lido:relatedWorkRelType>
+                  <lido:term>Teil von</lido:term>
+               </lido:relatedWorkRelType>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:displayObject>Teller "Art Déco-Dekor mit Blumen"</lido:displayObject>
+                  <lido:object>
+                     <lido:objectID lido:type="local">DE-MUS-232415/91445</lido:objectID>
+                  </lido:object>
+               </lido:relatedWork>
+               <lido:relatedWorkRelType>
+                  <lido:term>Teil von</lido:term>
+               </lido:relatedWorkRelType>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:displayObject>Teller "Art Déco-Dekor mit Blumen"</lido:displayObject>
+                  <lido:object>
+                     <lido:objectID lido:type="local">DE-MUS-232415/91444</lido:objectID>
+                  </lido:object>
+               </lido:relatedWork>
+               <lido:relatedWorkRelType>
+                  <lido:term>Teil von</lido:term>
+               </lido:relatedWorkRelType>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:displayObject>Teller "Art Déco-Dekor mit Blumen"</lido:displayObject>
+                  <lido:object>
+                     <lido:objectID lido:type="local">DE-MUS-232415/91443</lido:objectID>
+                  </lido:object>
+               </lido:relatedWork>
+               <lido:relatedWorkRelType>
+                  <lido:term>Teil von</lido:term>
+               </lido:relatedWorkRelType>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:displayObject>Untertasse "Art Déco-Dekor mit Blumen"</lido:displayObject>
+                  <lido:object>
+                     <lido:objectID lido:type="local">DE-MUS-232415/91442</lido:objectID>
+                  </lido:object>
+               </lido:relatedWork>
+               <lido:relatedWorkRelType>
+                  <lido:term>Teil von</lido:term>
+               </lido:relatedWorkRelType>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:displayObject>Untertasse "Art Déco-Dekor mit Blumen"</lido:displayObject>
+                  <lido:object>
+                     <lido:objectID lido:type="local">DE-MUS-232415/91441</lido:objectID>
+                  </lido:object>
+               </lido:relatedWork>
+               <lido:relatedWorkRelType>
+                  <lido:term>Teil von</lido:term>
+               </lido:relatedWorkRelType>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:displayObject>Untertasse "Art Déco-Dekor mit Blumen"</lido:displayObject>
+                  <lido:object>
+                     <lido:objectID lido:type="local">DE-MUS-232415/91440</lido:objectID>
+                  </lido:object>
+               </lido:relatedWork>
+               <lido:relatedWorkRelType>
+                  <lido:term>Teil von</lido:term>
+               </lido:relatedWorkRelType>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:displayObject>Untertasse "Art Déco-Dekor mit Blumen"</lido:displayObject>
+                  <lido:object>
+                     <lido:objectID lido:type="local">DE-MUS-232415/91439</lido:objectID>
+                  </lido:object>
+               </lido:relatedWork>
+               <lido:relatedWorkRelType>
+                  <lido:term>Teil von</lido:term>
+               </lido:relatedWorkRelType>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:displayObject>Untertasse "Art Déco-Dekor mit Blumen"</lido:displayObject>
+                  <lido:object>
+                     <lido:objectID lido:type="local">DE-MUS-232415/91438</lido:objectID>
+                  </lido:object>
+               </lido:relatedWork>
+               <lido:relatedWorkRelType>
+                  <lido:term>Teil von</lido:term>
+               </lido:relatedWorkRelType>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:displayObject>Tasse "Art Déco-Dekor mit Blumen"</lido:displayObject>
+                  <lido:object>
+                     <lido:objectID lido:type="local">DE-MUS-232415/91436</lido:objectID>
+                  </lido:object>
+               </lido:relatedWork>
+               <lido:relatedWorkRelType>
+                  <lido:term>Teil von</lido:term>
+               </lido:relatedWorkRelType>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:displayObject>Tasse "Art Déco-Dekor mit Blumen"</lido:displayObject>
+                  <lido:object>
+                     <lido:objectID lido:type="local">DE-MUS-232415/91435</lido:objectID>
+                  </lido:object>
+               </lido:relatedWork>
+               <lido:relatedWorkRelType>
+                  <lido:term>Teil von</lido:term>
+               </lido:relatedWorkRelType>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:displayObject>Tasse "Art Déco-Dekor mit Blumen"</lido:displayObject>
+                  <lido:object>
+                     <lido:objectID lido:type="local">DE-MUS-232415/91434</lido:objectID>
+                  </lido:object>
+               </lido:relatedWork>
+               <lido:relatedWorkRelType>
+                  <lido:term>Teil von</lido:term>
+               </lido:relatedWorkRelType>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:displayObject>Tasse "Art Déco-Dekor mit Blumen"</lido:displayObject>
+                  <lido:object>
+                     <lido:objectID lido:type="local">DE-MUS-232415/91433</lido:objectID>
+                  </lido:object>
+               </lido:relatedWork>
+               <lido:relatedWorkRelType>
+                  <lido:term>Teil von</lido:term>
+               </lido:relatedWorkRelType>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:displayObject>Tasse "Art Déco-Dekor mit Blumen"</lido:displayObject>
+                  <lido:object>
+                     <lido:objectID lido:type="local">DE-MUS-232415/91432</lido:objectID>
+                  </lido:object>
+               </lido:relatedWork>
+               <lido:relatedWorkRelType>
+                  <lido:term>Teil von</lido:term>
+               </lido:relatedWorkRelType>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:displayObject>Milchkännchen "Art Déco-Dekor mit Blumen"</lido:displayObject>
+                  <lido:object>
+                     <lido:objectID lido:type="local">DE-MUS-232415/91431</lido:objectID>
+                  </lido:object>
+               </lido:relatedWork>
+               <lido:relatedWorkRelType>
+                  <lido:term>Teil von</lido:term>
+               </lido:relatedWorkRelType>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:displayObject>Kannendeckel "Art Déco-Dekor mit Blumen"</lido:displayObject>
+                  <lido:object>
+                     <lido:objectID lido:type="local">DE-MUS-232415/91430</lido:objectID>
+                  </lido:object>
+               </lido:relatedWork>
+               <lido:relatedWorkRelType>
+                  <lido:term>Teil von</lido:term>
+               </lido:relatedWorkRelType>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:displayObject>Kaffeekanne "Art Déco-Dekor mit Blumen"</lido:displayObject>
+                  <lido:object>
+                     <lido:objectID lido:type="local">DE-MUS-232415/91429</lido:objectID>
+                  </lido:object>
+               </lido:relatedWork>
+               <lido:relatedWorkRelType>
+                  <lido:term>Teil von</lido:term>
+               </lido:relatedWorkRelType>
+            </lido:relatedWorkSet>
+         </lido:relatedWorksWrap>
+      </lido:objectRelationWrap>
+   </lido:descriptiveMetadata>
+   <lido:administrativeMetadata xml:lang="de">
+      <lido:rightsWorkWrap>
+         <lido:rightsWorkSet>
+            <lido:rightsHolder>
+               <lido:legalBodyName>
+                  <lido:appellationValue>Mitte Museum/Bezirksamt Mitte von Berlin</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:rightsHolder>
+         </lido:rightsWorkSet>
+      </lido:rightsWorkWrap>
+      <lido:recordWrap>
+         <lido:recordID lido:type="museum-digital">91437</lido:recordID>
+         <lido:recordType>
+            <lido:term lido:addedSearchTerm="no">item</lido:term>
+         </lido:recordType>
+         <lido:recordSource lido:type="dataProvider">
+            <lido:legalBodyName>
+               <lido:appellationValue>museum-digital</lido:appellationValue>
+            </lido:legalBodyName>
+            <lido:legalBodyWeblink>https://berlin.museum-digital.de/</lido:legalBodyWeblink>
+         </lido:recordSource>
+         <lido:recordSource>
+            <lido:legalBodyID lido:type="isil">DE-MUS-232415</lido:legalBodyID>
+            <lido:legalBodyName>
+               <lido:appellationValue>Mitte Museum/Bezirksamt Mitte von Berlin</lido:appellationValue>
+            </lido:legalBodyName>
+         </lido:recordSource>
+         <lido:recordRights>
+            <lido:rightsType>
+               <lido:conceptID lido:type="uri">https://creativecommons.org/publicdomain/zero/1.0/</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no">CC 0</lido:term>
+            </lido:rightsType>
+            <lido:rightsHolder>
+               <lido:legalBodyID lido:type="isil">DE-MUS-232415</lido:legalBodyID>
+               <lido:legalBodyName>
+                  <lido:appellationValue>Mitte Museum/Bezirksamt Mitte von Berlin</lido:appellationValue>
+               </lido:legalBodyName>
+               <lido:legalBodyWeblink>https://www.mittemuseum.de/</lido:legalBodyWeblink>
+            </lido:rightsHolder>
+            <lido:creditLine>Förderprogramm zur Digitalisierung von Objekten des kulturellen Erbes des Landes Berlin</lido:creditLine>
+         </lido:recordRights>
+         <lido:recordInfoSet>
+            <lido:recordInfoLink>https://berlin.museum-digital.de/index.php?t=objekt&amp;oges=91437</lido:recordInfoLink>
+            <lido:recordMetadataDate>2021-05-26 12:11:27</lido:recordMetadataDate>
+         </lido:recordInfoSet>
+      </lido:recordWrap>
+      <lido:resourceWrap>
+         <lido:resourceSet lido:sortorder="1">
+            <lido:resourceID lido:source="image" lido:type="local">65618</lido:resourceID>
+            <lido:resourceRepresentation lido:type="masterfile">
+               <lido:linkResource lido:formatResource="image/tiff"/>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_thumb">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/202012/100h_untertasse-art-deco-dekor-mit-blumen-91437.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_preview">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/202012/200w_untertasse-art-deco-dekor-mit-blumen-91437.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="provided_image">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/202012/untertasse-art-deco-dekor-mit-blumen-91437.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceType>
+               <lido:term>image</lido:term>
+            </lido:resourceType>
+            <lido:resourceDescription>Mitte Museum / Friedhelm Hoffmann, Berlin (CC BY-SA)</lido:resourceDescription>
+            <lido:resourceSource lido:type="creator">
+               <lido:legalBodyName>
+                  <lido:appellationValue>Friedhelm Hoffmann</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:resourceSource>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by-sa/4.0/</lido:conceptID>
+                  <lido:term>CC BY-SA</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Mitte Museum/Bezirksamt Mitte von Berlin</lido:appellationValue>
+                  </lido:legalBodyName>
+               </lido:rightsHolder>
+               <lido:creditLine>Friedhelm Hoffmann</lido:creditLine>
+            </lido:rightsResource>
+         </lido:resourceSet>
+         <lido:resourceSet lido:sortorder="2">
+            <lido:resourceID lido:source="image" lido:type="local">65619</lido:resourceID>
+            <lido:resourceRepresentation lido:type="masterfile">
+               <lido:linkResource lido:formatResource="image/tiff"/>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_thumb">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/202012/100h_untertasse-art-deco-dekor-mit-blumen-91437-2.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_preview">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/202012/200w_untertasse-art-deco-dekor-mit-blumen-91437-2.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="provided_image">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/202012/untertasse-art-deco-dekor-mit-blumen-91437-2.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceType>
+               <lido:term>image</lido:term>
+            </lido:resourceType>
+            <lido:resourceRelType>
+               <lido:term>Hauptansicht</lido:term>
+            </lido:resourceRelType>
+            <lido:resourceDescription>Mitte Museum / Friedhelm Hoffmann, Berlin (CC BY-SA)</lido:resourceDescription>
+            <lido:resourceSource lido:type="creator">
+               <lido:legalBodyName>
+                  <lido:appellationValue>Friedhelm Hoffmann</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:resourceSource>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by-sa/4.0/</lido:conceptID>
+                  <lido:term>CC BY-SA</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Mitte Museum/Bezirksamt Mitte von Berlin</lido:appellationValue>
+                  </lido:legalBodyName>
+               </lido:rightsHolder>
+               <lido:creditLine>Friedhelm Hoffmann</lido:creditLine>
+            </lido:rightsResource>
+         </lido:resourceSet>
+         <lido:resourceSet lido:sortorder="3">
+            <lido:resourceID lido:source="image" lido:type="local">65620</lido:resourceID>
+            <lido:resourceRepresentation lido:type="masterfile">
+               <lido:linkResource lido:formatResource="image/tiff"/>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_thumb">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/202012/100h_untertasse-art-deco-dekor-mit-blumen-91437-3.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_preview">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/202012/200w_untertasse-art-deco-dekor-mit-blumen-91437-3.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="provided_image">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/202012/untertasse-art-deco-dekor-mit-blumen-91437-3.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceType>
+               <lido:term>image</lido:term>
+            </lido:resourceType>
+            <lido:resourceDescription>Mitte Museum / Friedhelm Hoffmann, Berlin (CC BY-SA)</lido:resourceDescription>
+            <lido:resourceSource lido:type="creator">
+               <lido:legalBodyName>
+                  <lido:appellationValue>Friedhelm Hoffmann</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:resourceSource>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by-sa/4.0/</lido:conceptID>
+                  <lido:term>CC BY-SA</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Mitte Museum/Bezirksamt Mitte von Berlin</lido:appellationValue>
+                  </lido:legalBodyName>
+               </lido:rightsHolder>
+               <lido:creditLine>Friedhelm Hoffmann</lido:creditLine>
+            </lido:rightsResource>
+         </lido:resourceSet>
+      </lido:resourceWrap>
+   </lido:administrativeMetadata>
+</lido:lido>
+

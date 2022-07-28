@@ -1,0 +1,725 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lido:lido xmlns:lido="http://www.lido-schema.org"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <lido:lidoRecID lido:type="local">DE-MUS-275412/296923</lido:lidoRecID>
+    <lido:category>
+      <lido:conceptID lido:type="URI">http://www.cidoc-crm.org/crm-concepts/E22</lido:conceptID>
+      <lido:term xml:lang="en">Man-Made Object</lido:term>
+    </lido:category>
+    <lido:descriptiveMetadata xml:lang="de">
+      <lido:objectClassificationWrap>
+        <lido:objectWorkTypeWrap>
+            <lido:objectWorkType lido:sortorder="1">
+               <lido:conceptID lido:source="http://vocab.getty.edu/aat/" lido:type="URI">http://vocab.getty.edu/aat/300026367</lido:conceptID>
+               <lido:term>Lehrmaterial</lido:term>
+            </lido:objectWorkType>
+        </lido:objectWorkTypeWrap>
+        <lido:classificationWrap>
+            <lido:classification lido:type="Sammlung">
+               <lido:term>Objektsammlung</lido:term>
+            </lido:classification>
+        </lido:classificationWrap>
+      </lido:objectClassificationWrap>
+      <lido:objectIdentificationWrap>
+        <lido:titleWrap>
+            <lido:titleSet>
+               <lido:appellationValue lido:pref="preferred">Gruppe V III/8 (Werkbundkiste
+                            Der Mittagstisch)</lido:appellationValue>
+            </lido:titleSet>
+        </lido:titleWrap>
+        <lido:repositoryWrap>
+            <lido:repositorySet lido:type="current">
+               <lido:repositoryName>
+                  <lido:legalBodyID lido:source="ISIL (ISO 15511)" lido:type="URI">info:isil/DE-MUS-275412</lido:legalBodyID>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Werkbundarchiv - Museum der Dinge,
+                                    Berlin</lido:appellationValue>
+                  </lido:legalBodyName>
+                  <lido:legalBodyWeblink>http://www.museumderdinge.de</lido:legalBodyWeblink>
+               </lido:repositoryName>
+               <lido:workID lido:type="inventory number">O 217-00</lido:workID>
+            </lido:repositorySet>
+        </lido:repositoryWrap>
+        <lido:objectDescriptionWrap>
+            <lido:objectDescriptionSet lido:type="Bemerkungen">
+               <lido:descriptiveNoteValue>Einzeldatensätze s. O 217-01ff., Textbuch Der Mittagstisch s. D 2121-00 und D 2121-01, Leporello D 2121-03.
+</lido:descriptiveNoteValue>
+            </lido:objectDescriptionSet>
+            <lido:objectDescriptionSet lido:type="Beschreibung">
+               <lido:descriptiveNoteValue>Gebrauchsgeräteserie für die "Oberstufe der Volksschulen".
+Graue Kunststoffkiste mit grau lackierten Scharnieren und Spannverschlüssen, so dass der Deckel abnehmbar ist.
+Die Materialien der Transportkiste: glasfaserverstärktes Polyesterharz im Niederdruckpressverfahren, Tragegriffe aus PVC, Dichtungsprofil aus Neopren-Gummi.
+Im Inneren befinden sich 36 Objekte, die -teilweise zu mehreren - in gelben, eigens zugeschnittenen Schaumstoffumhüllungen gelagert wurden. Objekt Nr. 37 fehlt im Bestand.
+Textbuch in zwei Ausführungen und Bilderteil/Leporello sind vorhanden.</lido:descriptiveNoteValue>
+            </lido:objectDescriptionSet>
+        </lido:objectDescriptionWrap>
+        <lido:objectMeasurementsWrap>
+            <lido:objectMeasurementsSet>
+               <lido:displayObjectMeasurements>Objektmass: 35 x 71,5 x 47
+                            cm</lido:displayObjectMeasurements>
+               <lido:objectMeasurements>
+                  <lido:measurementsSet>
+                     <lido:measurementType>Höhe</lido:measurementType>
+                     <lido:measurementUnit>mm</lido:measurementUnit>
+                     <lido:measurementValue>350</lido:measurementValue>
+                  </lido:measurementsSet>
+                  <lido:measurementsSet>
+                     <lido:measurementType>Breite</lido:measurementType>
+                     <lido:measurementUnit>mm</lido:measurementUnit>
+                     <lido:measurementValue>715</lido:measurementValue>
+                  </lido:measurementsSet>
+                  <lido:measurementsSet>
+                     <lido:measurementType>Tiefe</lido:measurementType>
+                     <lido:measurementUnit>mm</lido:measurementUnit>
+                     <lido:measurementValue>470</lido:measurementValue>
+                  </lido:measurementsSet>
+               </lido:objectMeasurements>
+            </lido:objectMeasurementsSet>
+            <lido:objectMeasurementsSet>
+               <lido:displayObjectMeasurements>Gewicht: 25,5
+                            kg</lido:displayObjectMeasurements>
+               <lido:objectMeasurements>
+                  <lido:measurementsSet>
+                     <lido:measurementType>Gewicht</lido:measurementType>
+                     <lido:measurementUnit>g</lido:measurementUnit>
+                     <lido:measurementValue>25500</lido:measurementValue>
+                  </lido:measurementsSet>
+               </lido:objectMeasurements>
+            </lido:objectMeasurementsSet>
+        </lido:objectMeasurementsWrap>
+      </lido:objectIdentificationWrap>
+      <lido:eventWrap>
+        <lido:eventSet lido:sortorder="1">
+            <lido:event>
+               <lido:eventType>
+                  <lido:conceptID lido:source="http://terminology.lido-schema.org" lido:type="URI">http://terminology.lido-schema.org/lido00007</lido:conceptID>
+                  <lido:term>Herstellung</lido:term>
+               </lido:eventType>
+               <lido:eventActor lido:sortorder="1">
+                  <lido:displayActorInRole>Firma Fibron, Wolfgang Mellert KG,
+                                Hersteller/in</lido:displayActorInRole>
+                  <lido:actorInRole>
+                     <lido:actor>
+                        <lido:nameActorSet>
+                           <lido:appellationValue>Firma Fibron, Wolfgang Mellert
+                                            KG</lido:appellationValue>
+                        </lido:nameActorSet>
+                     </lido:actor>
+                     <lido:roleActor>
+                        <lido:term>Hersteller/in</lido:term>
+                     </lido:roleActor>
+                  </lido:actorInRole>
+               </lido:eventActor>
+               <lido:eventActor lido:sortorder="6">
+                  <lido:displayActorInRole>Geschäftsstelle für die Ergänzung des
+                                Kunstunterrichts an den Schulen Karlsruhe (*1955),
+                                Auftraggeber/in</lido:displayActorInRole>
+                  <lido:actorInRole>
+                     <lido:actor>
+                        <lido:nameActorSet>
+                           <lido:appellationValue>Geschäftsstelle für die Ergänzung des
+                                            Kunstunterrichts an den Schulen
+                                            Karlsruhe</lido:appellationValue>
+                        </lido:nameActorSet>
+                     </lido:actor>
+                     <lido:roleActor>
+                        <lido:term>Auftraggeber/in</lido:term>
+                     </lido:roleActor>
+                  </lido:actorInRole>
+               </lido:eventActor>
+               <lido:eventActor lido:sortorder="11">
+                  <lido:displayActorInRole>Badisches Landesmuseum Karlsruhe (*1919),
+                                Auftraggeber/in</lido:displayActorInRole>
+                  <lido:actorInRole>
+                     <lido:actor>
+                        <lido:actorID lido:source="http://d-nb.info/gnd/" lido:type="URI">http://d-nb.info/gnd/2005684-9</lido:actorID>
+                        <lido:nameActorSet>
+                           <lido:appellationValue>Badisches Landesmuseum
+                                            Karlsruhe</lido:appellationValue>
+                        </lido:nameActorSet>
+                     </lido:actor>
+                     <lido:roleActor>
+                        <lido:term>Auftraggeber/in</lido:term>
+                     </lido:roleActor>
+                  </lido:actorInRole>
+               </lido:eventActor>
+               <lido:eventDate>
+                  <lido:displayDate>1965 – 1969</lido:displayDate>
+                  <lido:date>
+                     <lido:earliestDate>1965</lido:earliestDate>
+                     <lido:latestDate>1969</lido:latestDate>
+                  </lido:date>
+               </lido:eventDate>
+               <lido:eventMaterialsTech>
+                  <lido:displayMaterialsTech>Kunststoff, Metall, Porzellan, Glas, Gummi,
+                                Textil, Pressholz</lido:displayMaterialsTech>
+               </lido:eventMaterialsTech>
+            </lido:event>
+        </lido:eventSet>
+      </lido:eventWrap>
+      <lido:objectRelationWrap>
+        <lido:relatedWorksWrap>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:object>
+                     <lido:objectID lido:type="local">DE-MUS-275412/271225</lido:objectID>
+                     <lido:objectNote>D 2121-00, Geschäftsstelle für die Ergänzung des
+                                    Kunstunterrichts an den Schulen Karlsruhe, Textbuch zur
+                                    Werkbundkiste, 1965 - 1969</lido:objectNote>
+                  </lido:object>
+               </lido:relatedWork>
+               <lido:relatedWorkRelType>
+                  <lido:term>inhaltlicher Bezug zu</lido:term>
+               </lido:relatedWorkRelType>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:object>
+                     <lido:objectID lido:type="local">DE-MUS-275412/281990</lido:objectID>
+                     <lido:objectNote>O 217-01, Löffelhardt, Werkbundkiste Der
+                                    Mittagstisch, Suppenterrine, 1954 - 1977</lido:objectNote>
+                  </lido:object>
+               </lido:relatedWork>
+               <lido:relatedWorkRelType>
+                  <lido:term>inhaltlicher Bezug zu</lido:term>
+               </lido:relatedWorkRelType>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:object>
+                     <lido:objectID lido:type="local">DE-MUS-275412/281991</lido:objectID>
+                     <lido:objectNote>O 217-02, Löffelhardt, Werkbundkiste Der
+                                    Mittagstisch, Backschüssel, 1954</lido:objectNote>
+                  </lido:object>
+               </lido:relatedWork>
+               <lido:relatedWorkRelType>
+                  <lido:term>inhaltlicher Bezug zu</lido:term>
+               </lido:relatedWorkRelType>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:object>
+                     <lido:objectID lido:type="local">DE-MUS-275412/281992</lido:objectID>
+                     <lido:objectNote>O 217-03, Wagenfeld, Werkbundkiste Der
+                                    Mittagstisch, Deckelschüssel, 1964</lido:objectNote>
+                  </lido:object>
+               </lido:relatedWork>
+               <lido:relatedWorkRelType>
+                  <lido:term>inhaltlicher Bezug zu</lido:term>
+               </lido:relatedWorkRelType>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:object>
+                     <lido:objectID lido:type="local">DE-MUS-275412/281993</lido:objectID>
+                     <lido:objectNote>O 217-04, Löffelhardt, Werkbundkiste Der
+                                    Mittagstisch, Sauciere, 1954 - 1977</lido:objectNote>
+                  </lido:object>
+               </lido:relatedWork>
+               <lido:relatedWorkRelType>
+                  <lido:term>inhaltlicher Bezug zu</lido:term>
+               </lido:relatedWorkRelType>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:object>
+                     <lido:objectID lido:type="local">DE-MUS-275412/281994</lido:objectID>
+                     <lido:objectNote>O 217-05, Löffelhardt, Werkbundkiste Der
+                                    Mittagstisch, Buttersauciere, 1954 - 1977</lido:objectNote>
+                  </lido:object>
+               </lido:relatedWork>
+               <lido:relatedWorkRelType>
+                  <lido:term>inhaltlicher Bezug zu</lido:term>
+               </lido:relatedWorkRelType>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:object>
+                     <lido:objectID lido:type="local">DE-MUS-275412/281995</lido:objectID>
+                     <lido:objectNote>O 217-06, Löffelhardt, Werkbundkiste Der
+                                    Mittagstisch, Schüssel groß, 1954 - 1977</lido:objectNote>
+                  </lido:object>
+               </lido:relatedWork>
+               <lido:relatedWorkRelType>
+                  <lido:term>inhaltlicher Bezug zu</lido:term>
+               </lido:relatedWorkRelType>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:object>
+                     <lido:objectID lido:type="local">DE-MUS-275412/281996</lido:objectID>
+                     <lido:objectNote>O 217-07, Löffelhardt, Werkbundkiste Der
+                                    Mittagstisch, Schüssel klein, 1954 - 1977</lido:objectNote>
+                  </lido:object>
+               </lido:relatedWork>
+               <lido:relatedWorkRelType>
+                  <lido:term>inhaltlicher Bezug zu</lido:term>
+               </lido:relatedWorkRelType>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:object>
+                     <lido:objectID lido:type="local">DE-MUS-275412/281997</lido:objectID>
+                     <lido:objectNote>O 217-08, Löffelhardt, Werkbundkiste Der
+                                    Mittagstisch, Servierplatte, 1954 - 1977</lido:objectNote>
+                  </lido:object>
+               </lido:relatedWork>
+               <lido:relatedWorkRelType>
+                  <lido:term>inhaltlicher Bezug zu</lido:term>
+               </lido:relatedWorkRelType>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:object>
+                     <lido:objectID lido:type="local">DE-MUS-275412/282049</lido:objectID>
+                     <lido:objectNote>O 217-09, Löffelhardt, Werkbundkiste Der
+                                    Mittagstisch, Suppenteller, 1954 - 1977</lido:objectNote>
+                  </lido:object>
+               </lido:relatedWork>
+               <lido:relatedWorkRelType>
+                  <lido:term>inhaltlicher Bezug zu</lido:term>
+               </lido:relatedWorkRelType>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:object>
+                     <lido:objectID lido:type="local">DE-MUS-275412/282050</lido:objectID>
+                     <lido:objectNote>O 217-10, Löffelhardt, Werkbundkiste Der
+                                    Mittagstisch, Teller, 1954 - 1977</lido:objectNote>
+                  </lido:object>
+               </lido:relatedWork>
+               <lido:relatedWorkRelType>
+                  <lido:term>inhaltlicher Bezug zu</lido:term>
+               </lido:relatedWorkRelType>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:object>
+                     <lido:objectID lido:type="local">DE-MUS-275412/282051</lido:objectID>
+                     <lido:objectNote>O 217-11, Löffelhardt, Werkbundkiste Der
+                                    Mittagstisch, Salzstreuer, 1954 - 1977</lido:objectNote>
+                  </lido:object>
+               </lido:relatedWork>
+               <lido:relatedWorkRelType>
+                  <lido:term>inhaltlicher Bezug zu</lido:term>
+               </lido:relatedWorkRelType>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:object>
+                     <lido:objectID lido:type="local">DE-MUS-275412/282052</lido:objectID>
+                     <lido:objectNote>O 217-12, Löffelhardt, Werkbundkiste Der
+                                    Mittagstisch, Pfefferstreuer, 1954 - 1977</lido:objectNote>
+                  </lido:object>
+               </lido:relatedWork>
+               <lido:relatedWorkRelType>
+                  <lido:term>inhaltlicher Bezug zu</lido:term>
+               </lido:relatedWorkRelType>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:object>
+                     <lido:objectID lido:type="local">DE-MUS-275412/282053</lido:objectID>
+                     <lido:objectNote>O 217-13, Löffelhardt, Werkbundkiste Der
+                                    Mittagstisch, Salat-oder Kompottschüssel, 1950 -
+                                    1969</lido:objectNote>
+                  </lido:object>
+               </lido:relatedWork>
+               <lido:relatedWorkRelType>
+                  <lido:term>inhaltlicher Bezug zu</lido:term>
+               </lido:relatedWorkRelType>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:object>
+                     <lido:objectID lido:type="local">DE-MUS-275412/282054</lido:objectID>
+                     <lido:objectNote>O 217-14, Löffelhardt, Werkbundkiste Der
+                                    Mittagstisch, Salat-oder Kompotteller, 1950 -
+                                    1969</lido:objectNote>
+                  </lido:object>
+               </lido:relatedWork>
+               <lido:relatedWorkRelType>
+                  <lido:term>inhaltlicher Bezug zu</lido:term>
+               </lido:relatedWorkRelType>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:object>
+                     <lido:objectID lido:type="local">DE-MUS-275412/282055</lido:objectID>
+                     <lido:objectNote>O 217-15, Werksentwurf, Werkbundkiste Der
+                                    Mittagstisch, Bierglas, 1950 - 1969</lido:objectNote>
+                  </lido:object>
+               </lido:relatedWork>
+               <lido:relatedWorkRelType>
+                  <lido:term>inhaltlicher Bezug zu</lido:term>
+               </lido:relatedWorkRelType>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:object>
+                     <lido:objectID lido:type="local">DE-MUS-275412/282056</lido:objectID>
+                     <lido:objectNote>O 217-16, Werksentwurf, Werkbundkiste Der
+                                    Mittagstisch, Vierteleglas, Weinglas, 1950 -
+                                    1969</lido:objectNote>
+                  </lido:object>
+               </lido:relatedWork>
+               <lido:relatedWorkRelType>
+                  <lido:term>inhaltlicher Bezug zu</lido:term>
+               </lido:relatedWorkRelType>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:object>
+                     <lido:objectID lido:type="local">DE-MUS-275412/282057</lido:objectID>
+                     <lido:objectNote>O 217-19, Löffelhardt, Werkbundkiste Der
+                                    Mittagstisch, Likör- oder Schnapsglas, 1954 -
+                                    1969</lido:objectNote>
+                  </lido:object>
+               </lido:relatedWork>
+               <lido:relatedWorkRelType>
+                  <lido:term>inhaltlicher Bezug zu</lido:term>
+               </lido:relatedWorkRelType>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:object>
+                     <lido:objectID lido:type="local">DE-MUS-275412/282058</lido:objectID>
+                     <lido:objectNote>O 217-18, Löffelhardt, Werkbundkiste Der
+                                    Mittagstisch, Likörflasche, 1954 - 1969</lido:objectNote>
+                  </lido:object>
+               </lido:relatedWork>
+               <lido:relatedWorkRelType>
+                  <lido:term>inhaltlicher Bezug zu</lido:term>
+               </lido:relatedWorkRelType>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:object>
+                     <lido:objectID lido:type="local">DE-MUS-275412/282059</lido:objectID>
+                     <lido:objectNote>O 217-17, Stadler, Werkbundkiste Der Mittagstisch,
+                                    Stielglas, Weinglas, 1950 - 1969</lido:objectNote>
+                  </lido:object>
+               </lido:relatedWork>
+               <lido:relatedWorkRelType>
+                  <lido:term>inhaltlicher Bezug zu</lido:term>
+               </lido:relatedWorkRelType>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:object>
+                     <lido:objectID lido:type="local">DE-MUS-275412/282060</lido:objectID>
+                     <lido:objectNote>O 217-20, Treskow, Werkbundkiste Der Mittagstisch,
+                                    Tafelmesser, 1953</lido:objectNote>
+                  </lido:object>
+               </lido:relatedWork>
+               <lido:relatedWorkRelType>
+                  <lido:term>inhaltlicher Bezug zu</lido:term>
+               </lido:relatedWorkRelType>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:object>
+                     <lido:objectID lido:type="local">DE-MUS-275412/282061</lido:objectID>
+                     <lido:objectNote>O 217-21, Treskow, Werkbundkiste Der Mittagstisch,
+                                    Tafelgabel, 1953</lido:objectNote>
+                  </lido:object>
+               </lido:relatedWork>
+               <lido:relatedWorkRelType>
+                  <lido:term>inhaltlicher Bezug zu</lido:term>
+               </lido:relatedWorkRelType>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:object>
+                     <lido:objectID lido:type="local">DE-MUS-275412/282062</lido:objectID>
+                     <lido:objectNote>O 217-22, Treskow, Werkbundkiste Der Mittagstisch,
+                                    Fischmesser, 1953</lido:objectNote>
+                  </lido:object>
+               </lido:relatedWork>
+               <lido:relatedWorkRelType>
+                  <lido:term>inhaltlicher Bezug zu</lido:term>
+               </lido:relatedWorkRelType>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:object>
+                     <lido:objectID lido:type="local">DE-MUS-275412/282063</lido:objectID>
+                     <lido:objectNote>O 217-23, Treskow, Werkbundkiste Der Mittagstisch,
+                                    Fischgabel, 1953</lido:objectNote>
+                  </lido:object>
+               </lido:relatedWork>
+               <lido:relatedWorkRelType>
+                  <lido:term>inhaltlicher Bezug zu</lido:term>
+               </lido:relatedWorkRelType>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:object>
+                     <lido:objectID lido:type="local">DE-MUS-275412/282064</lido:objectID>
+                     <lido:objectNote>O 217-24, Treskow, Werkbundkiste Der Mittagstisch,
+                                    Suppenlöffel, 1953</lido:objectNote>
+                  </lido:object>
+               </lido:relatedWork>
+               <lido:relatedWorkRelType>
+                  <lido:term>inhaltlicher Bezug zu</lido:term>
+               </lido:relatedWorkRelType>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:object>
+                     <lido:objectID lido:type="local">DE-MUS-275412/282065</lido:objectID>
+                     <lido:objectNote>O 217-25, Treskow, Werkbundkiste Der Mittagstisch,
+                                    Kompottlöffel, 1953</lido:objectNote>
+                  </lido:object>
+               </lido:relatedWork>
+               <lido:relatedWorkRelType>
+                  <lido:term>inhaltlicher Bezug zu</lido:term>
+               </lido:relatedWorkRelType>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:object>
+                     <lido:objectID lido:type="local">DE-MUS-275412/282066</lido:objectID>
+                     <lido:objectNote>O 217-26, Treskow, Werkbundkiste Der Mittagstisch,
+                                    Suppenschöpfer, 1953</lido:objectNote>
+                  </lido:object>
+               </lido:relatedWork>
+               <lido:relatedWorkRelType>
+                  <lido:term>inhaltlicher Bezug zu</lido:term>
+               </lido:relatedWorkRelType>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:object>
+                     <lido:objectID lido:type="local">DE-MUS-275412/282067</lido:objectID>
+                     <lido:objectNote>O 217-27, Treskow, Werkbundkiste Der Mittagstisch,
+                                    Saucenlöffel, 1953</lido:objectNote>
+                  </lido:object>
+               </lido:relatedWork>
+               <lido:relatedWorkRelType>
+                  <lido:term>inhaltlicher Bezug zu</lido:term>
+               </lido:relatedWorkRelType>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:object>
+                     <lido:objectID lido:type="local">DE-MUS-275412/282068</lido:objectID>
+                     <lido:objectNote>O 217-28, Treskow, Werkbundkiste Der Mittagstisch,
+                                    Gemüselöffel, 1953</lido:objectNote>
+                  </lido:object>
+               </lido:relatedWork>
+               <lido:relatedWorkRelType>
+                  <lido:term>inhaltlicher Bezug zu</lido:term>
+               </lido:relatedWorkRelType>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:object>
+                     <lido:objectID lido:type="local">DE-MUS-275412/282069</lido:objectID>
+                     <lido:objectNote>O 217-29, Treskow, Werkbundkiste Der Mittagstisch,
+                                    Fleischgabel, 1953</lido:objectNote>
+                  </lido:object>
+               </lido:relatedWork>
+               <lido:relatedWorkRelType>
+                  <lido:term>inhaltlicher Bezug zu</lido:term>
+               </lido:relatedWorkRelType>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:object>
+                     <lido:objectID lido:type="local">DE-MUS-275412/282070</lido:objectID>
+                     <lido:objectNote>O 217-30, Pott, Werkbundkiste Der Mittagstisch,
+                                    Spaghettizange, 1949</lido:objectNote>
+                  </lido:object>
+               </lido:relatedWork>
+               <lido:relatedWorkRelType>
+                  <lido:term>inhaltlicher Bezug zu</lido:term>
+               </lido:relatedWorkRelType>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:object>
+                     <lido:objectID lido:type="local">DE-MUS-275412/305490</lido:objectID>
+                     <lido:objectNote>D 2121-01, Geschäftsstelle für die Ergänzung des
+                                    Kunstunterrichts an den Schulen Karlsruhe, Textbuch zur
+                                    Werkbundkiste, 1965 - 1969</lido:objectNote>
+                  </lido:object>
+               </lido:relatedWork>
+               <lido:relatedWorkRelType>
+                  <lido:term>inhaltlicher Bezug zu</lido:term>
+               </lido:relatedWorkRelType>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:object>
+                     <lido:objectID lido:type="local">DE-MUS-275412/305491</lido:objectID>
+                     <lido:objectNote>D 2121-02, Geschäftsstelle für die Ergänzung des
+                                    Kunstunterrichts an den Schulen Karlsruhe, Leporello zur
+                                    Werkbundkiste, 1965 - 1969</lido:objectNote>
+                  </lido:object>
+               </lido:relatedWork>
+               <lido:relatedWorkRelType>
+                  <lido:term>inhaltlicher Bezug zu</lido:term>
+               </lido:relatedWorkRelType>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:object>
+                     <lido:objectID lido:type="local">DE-MUS-275412/305519</lido:objectID>
+                     <lido:objectNote>O 217-31, Wagenfeld, Werkbundkiste Der
+                                    Mittagstisch, Salatbesteck, 1955</lido:objectNote>
+                  </lido:object>
+               </lido:relatedWork>
+               <lido:relatedWorkRelType>
+                  <lido:term>inhaltlicher Bezug zu</lido:term>
+               </lido:relatedWorkRelType>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:object>
+                     <lido:objectID lido:type="local">DE-MUS-275412/305521</lido:objectID>
+                     <lido:objectNote>O 217-32, Werksentwurf, Werkbundkiste Der
+                                    Mittagstisch, Obstmesser, 1950 - 1965</lido:objectNote>
+                  </lido:object>
+               </lido:relatedWork>
+               <lido:relatedWorkRelType>
+                  <lido:term>inhaltlicher Bezug zu</lido:term>
+               </lido:relatedWorkRelType>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:object>
+                     <lido:objectID lido:type="local">DE-MUS-275412/305522</lido:objectID>
+                     <lido:objectNote>O 217-33, Unbekannt, Werkbundkiste Der
+                                    Mittagstisch, Tischdecke, 1950 - 1965</lido:objectNote>
+                  </lido:object>
+               </lido:relatedWork>
+               <lido:relatedWorkRelType>
+                  <lido:term>inhaltlicher Bezug zu</lido:term>
+               </lido:relatedWorkRelType>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:object>
+                     <lido:objectID lido:type="local">DE-MUS-275412/305523</lido:objectID>
+                     <lido:objectNote>O 217-34, Unbekannt, Werkbundkiste Der
+                                    Mittagstisch, Serviette, 1950 - 1965</lido:objectNote>
+                  </lido:object>
+               </lido:relatedWork>
+               <lido:relatedWorkRelType>
+                  <lido:term>inhaltlicher Bezug zu</lido:term>
+               </lido:relatedWorkRelType>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:object>
+                     <lido:objectID lido:type="local">DE-MUS-275412/305524</lido:objectID>
+                     <lido:objectNote>O 217-35, Pott, Werkbundkiste Der Mittagstisch,
+                                    Serviettenring, 1951</lido:objectNote>
+                  </lido:object>
+               </lido:relatedWork>
+               <lido:relatedWorkRelType>
+                  <lido:term>inhaltlicher Bezug zu</lido:term>
+               </lido:relatedWorkRelType>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:object>
+                     <lido:objectID lido:type="local">DE-MUS-275412/305525</lido:objectID>
+                     <lido:objectNote>O 217-36, Werksentwurf, Werkbundkiste Der
+                                    Mittagstisch, Tablett, 1950 - 1965</lido:objectNote>
+                  </lido:object>
+               </lido:relatedWork>
+               <lido:relatedWorkRelType>
+                  <lido:term>inhaltlicher Bezug zu</lido:term>
+               </lido:relatedWorkRelType>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:object>
+                     <lido:objectID lido:type="local">DE-MUS-275412/305526</lido:objectID>
+                     <lido:objectNote>O 217-37, Stadler, Werkbundkiste Der Mittagstisch,
+                                    Vase</lido:objectNote>
+                  </lido:object>
+               </lido:relatedWork>
+               <lido:relatedWorkRelType>
+                  <lido:term>inhaltlicher Bezug zu</lido:term>
+               </lido:relatedWorkRelType>
+            </lido:relatedWorkSet>
+        </lido:relatedWorksWrap>
+      </lido:objectRelationWrap>
+    </lido:descriptiveMetadata>
+    <lido:administrativeMetadata xml:lang="de">
+      <lido:rightsWorkWrap>
+        <lido:rightsWorkSet>
+            <lido:rightsHolder>
+               <lido:legalBodyName>
+                  <lido:appellationValue>Werkbundarchiv - Museum der Dinge,
+                                Berlin</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:rightsHolder>
+            <lido:creditLine>Förderprogramm zur Digitalisierung von Objekten des kulturellen Erbes des Landes Berlin</lido:creditLine>
+        </lido:rightsWorkSet>
+      </lido:rightsWorkWrap>
+      <lido:recordWrap>
+        <lido:recordID lido:type="local">296923</lido:recordID>
+        <lido:recordType>
+            <lido:conceptID lido:source="http://terminology.lido-schema.org" lido:type="URI">http://terminology.lido-schema.org/lido00141</lido:conceptID>
+            <lido:term>Einzelobjekt</lido:term>
+        </lido:recordType>
+        <lido:recordSource>
+            <lido:legalBodyID lido:source="ISL (ISO 15511)" lido:type="URI">info:isil/DE-MUS-275412</lido:legalBodyID>
+            <lido:legalBodyName>
+               <lido:appellationValue>Werkbundarchiv - Museum der Dinge,
+                            Berlin</lido:appellationValue>
+            </lido:legalBodyName>
+            <lido:legalBodyWeblink>http://www.museumderdinge.de</lido:legalBodyWeblink>
+        </lido:recordSource>
+        <lido:recordRights>
+            <lido:rightsType>
+               <lido:conceptID lido:type="URI">http://creativecommons.org/publicdomain/zero/1.0/deed.de</lido:conceptID>
+               <lido:term>CC0 Public Domain Dedication</lido:term>
+            </lido:rightsType>
+            <lido:rightsHolder>
+               <lido:legalBodyID lido:source="ISL (ISO 15511)" lido:type="URI">info:isil/DE-MUS-275412</lido:legalBodyID>
+               <lido:legalBodyName>
+                  <lido:appellationValue>Werkbundarchiv - Museum der Dinge,
+                                Berlin</lido:appellationValue>
+               </lido:legalBodyName>
+               <lido:legalBodyWeblink>http://www.museumderdinge.de</lido:legalBodyWeblink>
+            </lido:rightsHolder>
+        </lido:recordRights>
+        <lido:recordInfoSet>
+            <lido:recordInfoLink>http://sammlung.museumderdinge.de/node/296923</lido:recordInfoLink>
+            <lido:recordMetadataDate lido:type="export date">2018-03-01T11:01:36.717</lido:recordMetadataDate>
+        </lido:recordInfoSet>
+      </lido:recordWrap>
+      <lido:resourceWrap>
+        <lido:resourceSet>
+            <lido:resourceRepresentation lido:type="image_master">
+               <lido:linkResource>http://sammlung.museumderdinge.de/images/296923-image.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceType>
+               <lido:term>digital image</lido:term>
+            </lido:resourceType>
+            <lido:resourceSource lido:type="Fotograf">
+               <lido:legalBodyName>
+                  <lido:appellationValue>Armin Hermann</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:resourceSource>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="URI">http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/</lido:conceptID>
+                  <lido:term>Rechte vorbehalten - Freier Zugang</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Werkbundarchiv - Museum der Dinge, Berlin</lido:appellationValue>
+                  </lido:legalBodyName>
+               </lido:rightsHolder>
+            </lido:rightsResource>
+        </lido:resourceSet>
+      </lido:resourceWrap>
+    </lido:administrativeMetadata>
+  </lido:lido>
+

@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lido:lido xmlns:lido="http://www.lido-schema.org"
+           xmlns:xalan="http://xml.apache.org/xalan">
+   <lido:lidoRecID lido:source="https://berlin.museum-digital.de/index.php?t=institution&amp;instnr=32"
+                   lido:type="local">DE-B185/66880</lido:lidoRecID>
+   <lido:category/>
+   <lido:descriptiveMetadata xml:lang="de">
+      <lido:objectClassificationWrap>
+         <lido:objectWorkTypeWrap>
+            <lido:objectWorkType>
+               <lido:conceptID lido:source="gnd" lido:type="uri">http://d-nb.info/gnd/4021845-4</lido:conceptID>
+               <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/13314</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Druckgraphik</lido:term>
+            </lido:objectWorkType>
+         </lido:objectWorkTypeWrap>
+         <lido:classificationWrap>
+            <lido:classification lido:type="Sammlung">
+               <lido:conceptID lido:source="local" lido:type="collection_id">705</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Handzeichnungen, Druckgraphik, Gemälde</lido:term>
+            </lido:classification>
+            <lido:classification lido:type="Sammlung">
+               <lido:conceptID lido:source="local" lido:type="collection_id">710</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Porträts</lido:term>
+            </lido:classification>
+         </lido:classificationWrap>
+      </lido:objectClassificationWrap>
+      <lido:objectIdentificationWrap>
+         <lido:titleWrap>
+            <lido:titleSet>
+               <lido:appellationValue lido:pref="preferred">Möckel, Otto (1869-1937), Geigenbauer</lido:appellationValue>
+            </lido:titleSet>
+         </lido:titleWrap>
+         <lido:repositoryWrap>
+            <lido:repositorySet lido:type="current">
+               <lido:repositoryName>
+                  <lido:legalBodyID lido:type="isil">DE-B185</lido:legalBodyID>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+                  </lido:legalBodyName>
+                  <lido:legalBodyWeblink>http://geschichte-brandenburg.de/</lido:legalBodyWeblink>
+               </lido:repositoryName>
+               <lido:workID lido:type="inventory number">LGV-Archiv, C 12 G-2-001</lido:workID>
+               <lido:repositoryLocation>
+                  <lido:namePlaceSet>
+                     <lido:appellationValue>Berlin</lido:appellationValue>
+                  </lido:namePlaceSet>
+                  <lido:gml>
+                     <gml:Point xmlns:gml="http://www.opengis.net/gml" srsName="EPSG:4326">
+                        <gml:pos>52.51533127 13.40440559</gml:pos>
+                     </gml:Point>
+                  </lido:gml>
+               </lido:repositoryLocation>
+            </lido:repositorySet>
+         </lido:repositoryWrap>
+         <lido:objectDescriptionWrap>
+            <lido:objectDescriptionSet>
+               <lido:descriptiveNoteValue>Der Künstler, der Berliner Musiker und Maler Fritz Tennigkeit (1892-1949), war verheiratet mit der Berliner Journalistin Vally geb. Möckel (1898-1974), älterer Tochter des Berliner Geigenbauers Otto Möckel (1869-1937), um den es sich bei dem Porträtierten handelt. Das zeigt ein Vergleich mit Tennigkeits Gemälde "Otto Möckel in seiner Werkstatt" (um 1925, Musikinstrumentenmuseum Berlin). Vally Tennigkeit war ab 1956 Mitglied der Landesgeschichtlichen Vereinigung für die Mark Brandenburg, die das Bild wahrscheinlich als Schenkung von ihr oder aus ihrem Nachlass erhielt.&#xD;
+&#xD;
+Sign. im Bild re. u. "F. T. 36", unter dem Bild re. Bleistiftsignatur "F. Tennigkeit".&#xD;
+Altbestand des Archivs.</lido:descriptiveNoteValue>
+               <lido:sourceDescriptiveNote>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:sourceDescriptiveNote>
+            </lido:objectDescriptionSet>
+         </lido:objectDescriptionWrap>
+         <lido:objectMeasurementsWrap>
+            <lido:objectMeasurementsSet>
+               <lido:displayObjectMeasurements>Blattgröße: Höhe 59,5 cm, Breite 42,5 cm</lido:displayObjectMeasurements>
+               <lido:objectMeasurements/>
+            </lido:objectMeasurementsSet>
+         </lido:objectMeasurementsWrap>
+      </lido:objectIdentificationWrap>
+      <lido:eventWrap>
+         <lido:eventSet>
+            <lido:event>
+               <lido:eventType>
+                  <lido:conceptID lido:type="uri">https://event-types.museum-digital.org/1</lido:conceptID>
+                  <lido:term lido:addedSearchTerm="no">Hergestellt</lido:term>
+               </lido:eventType>
+               <lido:eventActor>
+                  <lido:displayActorInRole>Fritz Tennigkeit (1892-1949)</lido:displayActorInRole>
+                  <lido:actorInRole>
+                     <lido:actor>
+                        <lido:actorID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Fritz_Tennigkeit</lido:actorID>
+                        <lido:actorID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/138415013</lido:actorID>
+                        <lido:actorID lido:source="viaf" lido:type="uri">https://viaf.org/viaf/89959472</lido:actorID>
+                        <lido:actorID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q1468622</lido:actorID>
+                        <lido:actorID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/persinst/125429</lido:actorID>
+                        <lido:nameActorSet>
+                           <lido:appellationValue>Tennigkeit, Fritz</lido:appellationValue>
+                           <lido:appellationValue xml:lang="de">Fritz Tennigkeit</lido:appellationValue>
+                           <lido:appellationValue xml:lang="en">Fritz Tennigkeit</lido:appellationValue>
+                           <lido:appellationValue xml:lang="es">Fritz Tennigkeit</lido:appellationValue>
+                           <lido:appellationValue xml:lang="fr">Fritz Tennigkeit</lido:appellationValue>
+                           <lido:appellationValue xml:lang="nl">Fritz Tennigkeit</lido:appellationValue>
+                        </lido:nameActorSet>
+                        <lido:vitalDatesActor>
+                           <lido:earliestDate>1892</lido:earliestDate>
+                           <lido:latestDate>1949</lido:latestDate>
+                        </lido:vitalDatesActor>
+                     </lido:actor>
+                  </lido:actorInRole>
+               </lido:eventActor>
+               <lido:eventDate>
+                  <lido:displayDate>1936</lido:displayDate>
+                  <lido:displayDate xml:lang="ar">1936</lido:displayDate>
+                  <lido:displayDate xml:lang="de">1936</lido:displayDate>
+                  <lido:displayDate xml:lang="en">1936</lido:displayDate>
+                  <lido:displayDate xml:lang="es">1936</lido:displayDate>
+                  <lido:displayDate xml:lang="fa">1936</lido:displayDate>
+                  <lido:displayDate xml:lang="fr">1936</lido:displayDate>
+                  <lido:displayDate xml:lang="hu">1936</lido:displayDate>
+                  <lido:displayDate xml:lang="id">1936</lido:displayDate>
+                  <lido:displayDate xml:lang="it">1936</lido:displayDate>
+                  <lido:displayDate xml:lang="ja">1936年</lido:displayDate>
+                  <lido:displayDate xml:lang="ka">1936</lido:displayDate>
+                  <lido:displayDate xml:lang="ko">1936년</lido:displayDate>
+                  <lido:displayDate xml:lang="pl">1936</lido:displayDate>
+                  <lido:displayDate xml:lang="pt">1936</lido:displayDate>
+                  <lido:displayDate xml:lang="ro">1936</lido:displayDate>
+                  <lido:displayDate xml:lang="ru">1936</lido:displayDate>
+                  <lido:displayDate xml:lang="ta">1936</lido:displayDate>
+                  <lido:displayDate xml:lang="tl">1936</lido:displayDate>
+                  <lido:displayDate xml:lang="tr">1936</lido:displayDate>
+                  <lido:displayDate xml:lang="zh">1936年</lido:displayDate>
+                  <lido:date>
+                     <lido:earliestDate>1936</lido:earliestDate>
+                     <lido:latestDate>1936</lido:latestDate>
+                  </lido:date>
+               </lido:eventDate>
+            </lido:event>
+         </lido:eventSet>
+         <lido:eventSet>
+            <lido:event>
+               <lido:eventType>
+                  <lido:conceptID lido:type="uri">http://terminology.lido-schema.org/lido00003</lido:conceptID>
+                  <lido:term>Event (non-specified)</lido:term>
+               </lido:eventType>
+               <lido:eventMaterialsTech>
+                  <lido:displayMaterialsTech>Lithographie auf getöntem Velin</lido:displayMaterialsTech>
+               </lido:eventMaterialsTech>
+            </lido:event>
+         </lido:eventSet>
+      </lido:eventWrap>
+      <lido:objectRelationWrap>
+         <lido:subjectWrap>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="aat" lido:type="uri">http://vocab.getty.edu/aat/300015637</lido:conceptID>
+                     <lido:conceptID lido:source="iconclass" lido:type="uri">http://iconclass.org/rkd/61B11/</lido:conceptID>
+                     <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh99001681</lido:conceptID>
+                     <lido:conceptID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q134307</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/22</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Porträt</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ar">بورتريه</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="cs">Portrét</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="da">Portræt</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="de">Porträt</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="el">προσωπογραφία</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="en">Portrait</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="es">Retrato</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fa">چهره‌نگاری</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fi">Muotokuva</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fr">Portrait</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="he">דיוקן</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hi">चित्र</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hu">arckép</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="id">Potret</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="it">Ritratto</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ja">肖像</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ka">პორტრეტი</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ko">초상</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="nl">Portret</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pl">Portret</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pt">Retrato</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ro">portret</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ru">портрет</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sv">Porträtt</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="th">ภาพเหมือน</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tr">Portre</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="zh">肖像</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="aat" lido:type="uri">http://vocab.getty.edu/aat/300054146</lido:conceptID>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4040802-4</lido:conceptID>
+                     <lido:conceptID lido:source="iconclass" lido:type="uri">http://iconclass.org/rkd/48C7/</lido:conceptID>
+                     <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh99001795</lido:conceptID>
+                     <lido:conceptID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/w/index.php?search=&amp;search=Q638</lido:conceptID>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Musik</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/748</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Musik</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ar">موسيقا</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="cs">hudba</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="da">musik</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="de">Musik</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="el">μουσική</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="en">Music</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="es">música</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fi">musiikki</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fr">musique</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="he">מוזיקה</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hi">संगीत</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hu">zene</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="id">musik</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="it">musica</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ja">音楽</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ko">음악</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="nl">muziek</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pl">muzyka</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pt">música</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ru">музыка</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sv">musik</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tl">Tugtugin</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tr">müzik</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="zh">音乐</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+         </lido:subjectWrap>
+         <lido:relatedWorksWrap>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:displayObject>Mehr über den Dargestellten:</lido:displayObject>
+                  <lido:object>
+                     <lido:objectWebResource>https://de.wikipedia.org/wiki/Otto_M%C3%B6ckel</lido:objectWebResource>
+                  </lido:object>
+               </lido:relatedWork>
+            </lido:relatedWorkSet>
+         </lido:relatedWorksWrap>
+      </lido:objectRelationWrap>
+   </lido:descriptiveMetadata>
+   <lido:administrativeMetadata xml:lang="de">
+      <lido:rightsWorkWrap>
+         <lido:rightsWorkSet>
+            <lido:rightsHolder>
+               <lido:legalBodyName>
+                  <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:rightsHolder>
+         </lido:rightsWorkSet>
+      </lido:rightsWorkWrap>
+      <lido:recordWrap>
+         <lido:recordID lido:type="museum-digital">66880</lido:recordID>
+         <lido:recordType>
+            <lido:term lido:addedSearchTerm="no">item</lido:term>
+         </lido:recordType>
+         <lido:recordSource lido:type="dataProvider">
+            <lido:legalBodyName>
+               <lido:appellationValue>museum-digital</lido:appellationValue>
+            </lido:legalBodyName>
+            <lido:legalBodyWeblink>https://berlin.museum-digital.de/</lido:legalBodyWeblink>
+         </lido:recordSource>
+         <lido:recordSource>
+            <lido:legalBodyID lido:type="isil">DE-B185</lido:legalBodyID>
+            <lido:legalBodyName>
+               <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+            </lido:legalBodyName>
+         </lido:recordSource>
+         <lido:recordRights>
+            <lido:rightsType>
+               <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no">CC BY</lido:term>
+            </lido:rightsType>
+            <lido:rightsHolder>
+               <lido:legalBodyID lido:type="isil">DE-B185</lido:legalBodyID>
+               <lido:legalBodyName>
+                  <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+               </lido:legalBodyName>
+               <lido:legalBodyWeblink>http://geschichte-brandenburg.de/</lido:legalBodyWeblink>
+            </lido:rightsHolder>
+            <lido:creditLine>Förderprogramm zur Digitalisierung von Objekten des kulturellen Erbes des Landes Berlin</lido:creditLine>
+         </lido:recordRights>
+         <lido:recordInfoSet>
+            <lido:recordInfoLink>https://berlin.museum-digital.de/index.php?t=objekt&amp;oges=66880</lido:recordInfoLink>
+            <lido:recordMetadataDate>2021-04-27 07:59:56</lido:recordMetadataDate>
+         </lido:recordInfoSet>
+      </lido:recordWrap>
+      <lido:resourceWrap>
+         <lido:resourceSet lido:sortorder="1">
+            <lido:resourceID lido:source="image" lido:type="local">48466</lido:resourceID>
+            <lido:resourceRepresentation lido:type="masterfile">
+               <lido:linkResource lido:formatResource="image/tiff"/>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_thumb">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/202007/100h_moeckel-otto-1869-1937-geigenbauer-66880.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_preview">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/202007/200w_moeckel-otto-1869-1937-geigenbauer-66880.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/202007/moeckel-otto-1869-1937-geigenbauer-66880.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceType>
+               <lido:term lido:addedSearchTerm="no">image</lido:term>
+            </lido:resourceType>
+            <lido:resourceRelType>
+               <lido:term lido:addedSearchTerm="no">Hauptansicht</lido:term>
+            </lido:resourceRelType>
+            <lido:resourceDescription>Möckel, Otto (1869-1937), Geigenbauer</lido:resourceDescription>
+            <lido:resourceSource lido:type="creator">
+               <lido:legalBodyName>
+                  <lido:appellationValue>Thomas Voßbeck, 2020</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:resourceSource>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+                  <lido:term lido:addedSearchTerm="no">CC BY</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V.</lido:appellationValue>
+                  </lido:legalBodyName>
+               </lido:rightsHolder>
+               <lido:creditLine>Thomas Voßbeck, 2020</lido:creditLine>
+            </lido:rightsResource>
+         </lido:resourceSet>
+      </lido:resourceWrap>
+   </lido:administrativeMetadata>
+</lido:lido>
+

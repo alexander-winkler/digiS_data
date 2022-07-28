@@ -1,0 +1,615 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lido:lido xmlns:lido="http://www.lido-schema.org"
+           xmlns:xalan="http://xml.apache.org/xalan">
+   <lido:lidoRecID lido:source="https://berlin.museum-digital.de/index.php?t=institution&amp;instnr=32"
+                   lido:type="local">DE-B185/67122</lido:lidoRecID>
+   <lido:category/>
+   <lido:descriptiveMetadata xml:lang="de">
+      <lido:objectClassificationWrap>
+         <lido:objectWorkTypeWrap>
+            <lido:objectWorkType>
+               <lido:conceptID lido:source="gnd" lido:type="uri">http://d-nb.info/gnd/4021845-4</lido:conceptID>
+               <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/13314</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Druckgraphik</lido:term>
+            </lido:objectWorkType>
+         </lido:objectWorkTypeWrap>
+         <lido:classificationWrap>
+            <lido:classification lido:type="Sammlung">
+               <lido:conceptID lido:source="local" lido:type="collection_id">705</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Handzeichnungen, Druckgraphik, Gemälde</lido:term>
+            </lido:classification>
+            <lido:classification lido:type="Sammlung">
+               <lido:conceptID lido:source="local" lido:type="collection_id">725</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Sachen und Ereignisse</lido:term>
+            </lido:classification>
+            <lido:classification lido:type="Sammlung">
+               <lido:conceptID lido:source="local" lido:type="collection_id">727</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Einzelblätter</lido:term>
+            </lido:classification>
+         </lido:classificationWrap>
+      </lido:objectClassificationWrap>
+      <lido:objectIdentificationWrap>
+         <lido:titleWrap>
+            <lido:titleSet>
+               <lido:appellationValue lido:pref="preferred">Illustration zu Friedrich Nicolai, Sebaldus Nothanker</lido:appellationValue>
+            </lido:titleSet>
+         </lido:titleWrap>
+         <lido:repositoryWrap>
+            <lido:repositorySet lido:type="current">
+               <lido:repositoryName>
+                  <lido:legalBodyID lido:type="isil">DE-B185</lido:legalBodyID>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+                  </lido:legalBodyName>
+                  <lido:legalBodyWeblink>http://geschichte-brandenburg.de/</lido:legalBodyWeblink>
+               </lido:repositoryName>
+               <lido:workID lido:type="inventory number">LGV-Archiv, C 12 G-4-049</lido:workID>
+               <lido:repositoryLocation>
+                  <lido:namePlaceSet>
+                     <lido:appellationValue>Berlin</lido:appellationValue>
+                  </lido:namePlaceSet>
+                  <lido:gml>
+                     <gml:Point xmlns:gml="http://www.opengis.net/gml" srsName="EPSG:4326">
+                        <gml:pos>52.51533127 13.40440559</gml:pos>
+                     </gml:Point>
+                  </lido:gml>
+               </lido:repositoryLocation>
+            </lido:repositorySet>
+         </lido:repositoryWrap>
+         <lido:objectDescriptionWrap>
+            <lido:objectDescriptionSet>
+               <lido:descriptiveNoteValue>Das Blatt stammt aus Band 3 (1776) des dreibändigen satirischen Romans "Das Leben und die Meinungen des Herrn Magister Sebaldus Nothanker" von Friedrich Nicola (1733-1811), in dessen Verlag 1773-1776 erschienen. Daniel Chodowiecki (1726-1801) schuf dazu 22 Illustrationen.&#xD;
+&#xD;
+Bez. re. u. "D. Chodowiecki inv: u. sc.", re. o. "S. 11".&#xD;
+Erworben 2018 aus Berliner Privatbesitz.&#xD;
+&#xD;
+Literatur: Jens-Heiner Bauer: Daniel Nikolaus Chodowiecki. Hannover 1982, Nr. 181 m. Abb. - Wilhelm Engelmann: Daniel Chodowieckis sämmtliche Kupferstiche. Nachträge und Berichtigungen von Robert Hirsch. Leipzig 1857 u. 1906. Reprint Hildesheim 1969, Nr. 154 II (mit der vollen Schrift).</lido:descriptiveNoteValue>
+               <lido:sourceDescriptiveNote>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:sourceDescriptiveNote>
+            </lido:objectDescriptionSet>
+         </lido:objectDescriptionWrap>
+         <lido:objectMeasurementsWrap>
+            <lido:objectMeasurementsSet>
+               <lido:displayObjectMeasurements>Blattgröße: Höhe 14,5 cm, Breite 8,8 cm (links Abriss)</lido:displayObjectMeasurements>
+               <lido:objectMeasurements/>
+            </lido:objectMeasurementsSet>
+         </lido:objectMeasurementsWrap>
+      </lido:objectIdentificationWrap>
+      <lido:eventWrap>
+         <lido:eventSet>
+            <lido:event>
+               <lido:eventType>
+                  <lido:conceptID lido:type="uri">https://event-types.museum-digital.org/1</lido:conceptID>
+                  <lido:term lido:addedSearchTerm="no">Hergestellt</lido:term>
+               </lido:eventType>
+               <lido:eventActor>
+                  <lido:displayActorInRole>Daniel Nikolaus Chodowiecki (1726-1801)</lido:displayActorInRole>
+                  <lido:actorInRole>
+                     <lido:actor>
+                        <lido:actorID lido:source="NDB/ADB" lido:type="uri">https://www.deutsche-biographie.de/pnd118520512.html#ndbcontent</lido:actorID>
+                        <lido:actorID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Daniel_Chodowiecki</lido:actorID>
+                        <lido:actorID lido:source="bne" lido:type="uri">http://datos.bne.es/persona/XX988971</lido:actorID>
+                        <lido:actorID lido:source="bnf" lido:type="uri">https://catalogue.bnf.fr/ark:/12148/cb129804342</lido:actorID>
+                        <lido:actorID lido:source="edition humboldt digital" lido:type="uri">https://edition-humboldt.de/register/personen/detail.xql?normid=http://d-nb.info/gnd/118520512</lido:actorID>
+                        <lido:actorID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/118520512</lido:actorID>
+                        <lido:actorID lido:source="loc" lido:type="uri">http://id.loc.gov/authorities/names/n50038187</lido:actorID>
+                        <lido:actorID lido:source="npg" lido:type="uri">https://www.npg.org.uk/collections/search/person/mp51015</lido:actorID>
+                        <lido:actorID lido:source="rkd" lido:type="uri">https://rkd.nl/explore/artists/16710</lido:actorID>
+                        <lido:actorID lido:source="ulan" lido:type="uri">http://vocab.getty.edu/ulan/500014861</lido:actorID>
+                        <lido:actorID lido:source="viaf" lido:type="uri">https://viaf.org/viaf/59092320</lido:actorID>
+                        <lido:actorID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q696720</lido:actorID>
+                        <lido:actorID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/persinst/602</lido:actorID>
+                        <lido:nameActorSet>
+                           <lido:appellationValue>Chodowiecki, Daniel Nikolaus</lido:appellationValue>
+                           <lido:appellationValue xml:lang="cs">Daniel Nikolaus Chodowiecki</lido:appellationValue>
+                           <lido:appellationValue xml:lang="da">Daniel Chodowiecki</lido:appellationValue>
+                           <lido:appellationValue xml:lang="de">Daniel Nikolaus Chodowiecki</lido:appellationValue>
+                           <lido:appellationValue xml:lang="en">Daniel Chodowiecki</lido:appellationValue>
+                           <lido:appellationValue xml:lang="es">Daniel Chodowiecki</lido:appellationValue>
+                           <lido:appellationValue xml:lang="fr">Daniel Chodowiecki</lido:appellationValue>
+                           <lido:appellationValue xml:lang="he">דניאל חודובייצקי</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ja">ダニエル・ホドヴィエツキ</lido:appellationValue>
+                           <lido:appellationValue xml:lang="nl">Daniel Chodowiecki</lido:appellationValue>
+                           <lido:appellationValue xml:lang="pl">Daniel Chodowiecki</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ru">Даниель Ходовецкий</lido:appellationValue>
+                           <lido:appellationValue xml:lang="sv">Daniel Chodowiecki</lido:appellationValue>
+                        </lido:nameActorSet>
+                        <lido:vitalDatesActor>
+                           <lido:earliestDate>1726</lido:earliestDate>
+                           <lido:latestDate>1801</lido:latestDate>
+                        </lido:vitalDatesActor>
+                     </lido:actor>
+                  </lido:actorInRole>
+               </lido:eventActor>
+               <lido:eventDate>
+                  <lido:displayDate>1776</lido:displayDate>
+                  <lido:displayDate xml:lang="ar">1776</lido:displayDate>
+                  <lido:displayDate xml:lang="de">1776</lido:displayDate>
+                  <lido:displayDate xml:lang="en">1776</lido:displayDate>
+                  <lido:displayDate xml:lang="es">1776</lido:displayDate>
+                  <lido:displayDate xml:lang="fa">1776</lido:displayDate>
+                  <lido:displayDate xml:lang="fr">1776</lido:displayDate>
+                  <lido:displayDate xml:lang="hu">1776</lido:displayDate>
+                  <lido:displayDate xml:lang="id">1776</lido:displayDate>
+                  <lido:displayDate xml:lang="it">1776</lido:displayDate>
+                  <lido:displayDate xml:lang="ja">1776年</lido:displayDate>
+                  <lido:displayDate xml:lang="ka">1776</lido:displayDate>
+                  <lido:displayDate xml:lang="ko">1776년</lido:displayDate>
+                  <lido:displayDate xml:lang="pl">1776</lido:displayDate>
+                  <lido:displayDate xml:lang="pt">1776</lido:displayDate>
+                  <lido:displayDate xml:lang="ro">1776</lido:displayDate>
+                  <lido:displayDate xml:lang="ru">1776</lido:displayDate>
+                  <lido:displayDate xml:lang="ta">1776</lido:displayDate>
+                  <lido:displayDate xml:lang="tl">1776</lido:displayDate>
+                  <lido:displayDate xml:lang="tr">1776</lido:displayDate>
+                  <lido:displayDate xml:lang="zh">1776年</lido:displayDate>
+                  <lido:date>
+                     <lido:earliestDate>1776</lido:earliestDate>
+                     <lido:latestDate>1776</lido:latestDate>
+                  </lido:date>
+               </lido:eventDate>
+               <lido:eventPlace>
+                  <lido:displayPlace>Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ar">برلين</lido:displayPlace>
+                  <lido:displayPlace xml:lang="bn">বার্লিন</lido:displayPlace>
+                  <lido:displayPlace xml:lang="cs">Berlín</lido:displayPlace>
+                  <lido:displayPlace xml:lang="da">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="de">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="el">Βερολίνο</lido:displayPlace>
+                  <lido:displayPlace xml:lang="en">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="es">Berlín</lido:displayPlace>
+                  <lido:displayPlace xml:lang="fa">برلین</lido:displayPlace>
+                  <lido:displayPlace xml:lang="fi">Berliini</lido:displayPlace>
+                  <lido:displayPlace xml:lang="fr">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ha">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="he">ברלין</lido:displayPlace>
+                  <lido:displayPlace xml:lang="hi">बर्लिन</lido:displayPlace>
+                  <lido:displayPlace xml:lang="hu">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="id">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="it">Berlino</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ja">ベルリン</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ka">ბერლინი</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ko">베를린</lido:displayPlace>
+                  <lido:displayPlace xml:lang="nl">Berlijn</lido:displayPlace>
+                  <lido:displayPlace xml:lang="pl">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="pt">Berlim</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ro">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ru">Берлин</lido:displayPlace>
+                  <lido:displayPlace xml:lang="sv">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="sw">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ta">பெர்லின்</lido:displayPlace>
+                  <lido:displayPlace xml:lang="th">เบอร์ลิน</lido:displayPlace>
+                  <lido:displayPlace xml:lang="tl">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="tr">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ur">برلن</lido:displayPlace>
+                  <lido:displayPlace xml:lang="vi">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="zh">柏林</lido:displayPlace>
+                  <lido:place>
+                     <lido:placeID lido:source="geonames" lido:type="uri">https://sws.geonames.org/2950159</lido:placeID>
+                     <lido:placeID lido:source="TGN" lido:type="uri">http://vocab.getty.edu/tgn/7209904</lido:placeID>
+                     <lido:placeID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4005728-8</lido:placeID>
+                     <lido:placeID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q64</lido:placeID>
+                     <lido:placeID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/place/61</lido:placeID>
+                     <lido:namePlaceSet>
+                        <lido:appellationValue>Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ar">برلين</lido:appellationValue>
+                        <lido:appellationValue xml:lang="bn">বার্লিন</lido:appellationValue>
+                        <lido:appellationValue xml:lang="cs">Berlín</lido:appellationValue>
+                        <lido:appellationValue xml:lang="da">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="de">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="el">Βερολίνο</lido:appellationValue>
+                        <lido:appellationValue xml:lang="en">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="es">Berlín</lido:appellationValue>
+                        <lido:appellationValue xml:lang="fa">برلین</lido:appellationValue>
+                        <lido:appellationValue xml:lang="fi">Berliini</lido:appellationValue>
+                        <lido:appellationValue xml:lang="fr">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ha">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="he">ברלין</lido:appellationValue>
+                        <lido:appellationValue xml:lang="hi">बर्लिन</lido:appellationValue>
+                        <lido:appellationValue xml:lang="hu">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="id">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="it">Berlino</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ja">ベルリン</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ka">ბერლინი</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ko">베를린</lido:appellationValue>
+                        <lido:appellationValue xml:lang="nl">Berlijn</lido:appellationValue>
+                        <lido:appellationValue xml:lang="pl">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="pt">Berlim</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ro">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ru">Берлин</lido:appellationValue>
+                        <lido:appellationValue xml:lang="sv">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="sw">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ta">பெர்லின்</lido:appellationValue>
+                        <lido:appellationValue xml:lang="th">เบอร์ลิน</lido:appellationValue>
+                        <lido:appellationValue xml:lang="tl">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="tr">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ur">برلن</lido:appellationValue>
+                        <lido:appellationValue xml:lang="vi">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="zh">柏林</lido:appellationValue>
+                     </lido:namePlaceSet>
+                     <lido:gml>
+                        <gml:Point xmlns:gml="http://www.opengis.net/gml" srsName="EPSG:4326">
+                           <gml:pos>52.516666412354 13.383333206177</gml:pos>
+                        </gml:Point>
+                     </lido:gml>
+                  </lido:place>
+               </lido:eventPlace>
+            </lido:event>
+         </lido:eventSet>
+         <lido:eventSet>
+            <lido:event>
+               <lido:eventType>
+                  <lido:conceptID lido:type="uri">https://event-types.museum-digital.org/3</lido:conceptID>
+                  <lido:term lido:addedSearchTerm="no">Veröffentlicht</lido:term>
+               </lido:eventType>
+               <lido:eventActor>
+                  <lido:displayActorInRole>Friedrich Nicolai (1733-1811)</lido:displayActorInRole>
+                  <lido:actorInRole>
+                     <lido:actor>
+                        <lido:actorID lido:source="NDB/ADB" lido:type="uri">https://www.deutsche-biographie.de/pnd118587668.html#ndbcontent</lido:actorID>
+                        <lido:actorID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Friedrich_Nicolai</lido:actorID>
+                        <lido:actorID lido:source="bnf" lido:type="uri">https://catalogue.bnf.fr/ark:/12148/cb12174135z</lido:actorID>
+                        <lido:actorID lido:source="edition humboldt digital" lido:type="uri">https://edition-humboldt.de/register/personen/detail.xql?normid=http://d-nb.info/gnd/118587668</lido:actorID>
+                        <lido:actorID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/118587668</lido:actorID>
+                        <lido:actorID lido:source="loc" lido:type="uri">http://id.loc.gov/authorities/names/n83141037</lido:actorID>
+                        <lido:actorID lido:source="ndl" lido:type="uri">https://id.ndl.go.jp/auth/ndlna/00870409</lido:actorID>
+                        <lido:actorID lido:source="ulan" lido:type="uri">http://vocab.getty.edu/ulan/500323216</lido:actorID>
+                        <lido:actorID lido:source="viaf" lido:type="uri">https://viaf.org/viaf/24643054</lido:actorID>
+                        <lido:actorID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q215853</lido:actorID>
+                        <lido:actorID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/persinst/639</lido:actorID>
+                        <lido:nameActorSet>
+                           <lido:appellationValue>Nicolai, Friedrich</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ar">كريستوف فريدريك نيكولاي</lido:appellationValue>
+                           <lido:appellationValue xml:lang="da">Friedrich Nicolai</lido:appellationValue>
+                           <lido:appellationValue xml:lang="de">Friedrich Nicolai</lido:appellationValue>
+                           <lido:appellationValue xml:lang="en">Christoph Friedrich Nicolai</lido:appellationValue>
+                           <lido:appellationValue xml:lang="es">Christoph Friedrich Nicolai</lido:appellationValue>
+                           <lido:appellationValue xml:lang="fr">Friedrich Nicolai</lido:appellationValue>
+                           <lido:appellationValue xml:lang="it">Christoph Friedrich Nicolai</lido:appellationValue>
+                           <lido:appellationValue xml:lang="nl">Christoph Friedrich Nicolai</lido:appellationValue>
+                           <lido:appellationValue xml:lang="pl">Friedrich Nicolai</lido:appellationValue>
+                           <lido:appellationValue xml:lang="pt">Christoph Friedrich Nicolai</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ru">Николаи, Кристоф Фридрих</lido:appellationValue>
+                           <lido:appellationValue xml:lang="sv">Friedrich Nicolai</lido:appellationValue>
+                        </lido:nameActorSet>
+                        <lido:vitalDatesActor>
+                           <lido:earliestDate>1733</lido:earliestDate>
+                           <lido:latestDate>1811</lido:latestDate>
+                        </lido:vitalDatesActor>
+                     </lido:actor>
+                  </lido:actorInRole>
+               </lido:eventActor>
+            </lido:event>
+         </lido:eventSet>
+         <lido:eventSet>
+            <lido:event>
+               <lido:eventType>
+                  <lido:conceptID lido:type="uri">http://terminology.lido-schema.org/lido00003</lido:conceptID>
+                  <lido:term>Event (non-specified)</lido:term>
+               </lido:eventType>
+               <lido:eventMaterialsTech>
+                  <lido:displayMaterialsTech>Radierung</lido:displayMaterialsTech>
+               </lido:eventMaterialsTech>
+            </lido:event>
+         </lido:eventSet>
+      </lido:eventWrap>
+      <lido:objectRelationWrap>
+         <lido:subjectWrap>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">http://d-nb.info/gnd/4015482-8</lido:conceptID>
+                     <lido:conceptID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q47130304</lido:conceptID>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">http://de.wikipedia.org/wiki/Erziehung</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/185</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Erziehung</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="de">Erziehung</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fi">Kasvatus</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="aat" lido:type="uri">http://vocab.getty.edu/aat/300055781</lido:conceptID>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4003524-4</lido:conceptID>
+                     <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh85044032</lido:conceptID>
+                     <lido:conceptID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q12539</lido:conceptID>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Aufkl%C3%A4rung</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/661</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Aufklärung</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ar">عصر التنوير</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="bn">আলোকিত যুগ</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="cs">Osvícenství</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="da">Oplysningstiden</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="de">Aufklärung</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="el">Διαφωτισμός</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="en">Age of Enlightenment</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="es">Ilustración</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fa">عصر روشنگری</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fi">Valistus</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fr">siècle des Lumières</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="he">עידן הנאורות</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hi">यूरोपीय ज्ञानोदय</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hu">Felvilágosodás</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="id">Abad Pencerahan</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="it">illuminismo</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ja">啓蒙時代</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ka">განმანათლებლობა</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ko">계몽주의</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="nl">verlichting</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pl">Oświecenie</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pt">Iluminismo</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ru">Эпоха Просвещения</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sv">Upplysningstiden</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sw">Zama za Mwangaza</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ta">அறிவொளிக் காலம்</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="th">ยุคเรืองปัญญา</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tl">Panahon ng Pagkamulat</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tr">Aydınlanma Çağı</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ur">دور استبصار</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="vi">Thời kỳ Khai sáng</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="zh">啟蒙時代</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="aat" lido:type="uri">http://vocab.getty.edu/aat/300180362</lido:conceptID>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4035964-5</lido:conceptID>
+                     <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh85077507</lido:conceptID>
+                     <lido:conceptID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q8242</lido:conceptID>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Literatur</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/878</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Literatur</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ar">أدب</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="bn">সাহিত্য</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="cs">Literatura</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="da">Litteratur</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="de">Literatur</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="el">λογοτεχνία</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="en">Literature</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="es">Literatura</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fa">ادبیات</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fi">Kirjallisuus</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fr">Littérature</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="he">ספרות</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hi">साहित्य</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hu">irodalom</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="id">Sastra</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="it">Letteratura</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ja">文学</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ka">ლიტერატურა</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ko">문학</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="nl">Literatuur</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pl">Literatura</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pt">Literatura</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ro">literatură</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ru">литература</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sv">Litteratur</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sw">Fasihi</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ta">இலக்கியம்</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="th">วรรณกรรม</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tl">Panitikan</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tr">Edebiyat</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ur">ادب</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="vi">văn học</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="zh">文學</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="aat" lido:type="uri">http://vocab.getty.edu/aat/300015578</lido:conceptID>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4123412-1</lido:conceptID>
+                     <lido:conceptID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/w/index.php?search=&amp;search=Q178659</lido:conceptID>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Illustration</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/8011</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Illustration</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ar">رسم توضيحي</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="cs">ilustrace</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="da">illustration</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="de">Illustration</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="el">απεικόνιση</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="en">illustration</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="es">ilustración</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fa">تصویرسازی</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fi">kuvitus</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fr">illustration</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="he">איור</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hi">चित्रण</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hu">illusztráció</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="id">Ilustrasi</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="it">illustrazione</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ja">イラストレーション</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ka">ილუსტრაცია</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ko">삽화</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="nl">illustratie</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pl">ilustracja</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pt">ilustração</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ru">иллюстрация</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sv">illustration</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="th">ภาพประกอบ</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tr">İllüstrasyon</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="vi">Sự minh họa</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="zh">插畫</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="aat" lido:type="uri">http://vocab.getty.edu/aat/300202580</lido:conceptID>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4050479-7</lido:conceptID>
+                     <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh85048050</lido:conceptID>
+                     <lido:conceptID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q8261</lido:conceptID>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Roman</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/13111</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Roman</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ar">رواية</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="bn">উপন্যাস</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="cs">Román</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="da">Roman</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="de">Roman</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="el">μυθιστόρημα</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="en">Novel</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="es">Novela</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fa">رمان</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fi">Romaani</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fr">Roman</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="he">רומן</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hi">उपन्यास</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hu">regény</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="id">Novel</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="it">Romanzo</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ja">長編小説</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ka">რომანი</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ko">소설</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="nl">Roman</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pl">Powieść</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pt">Romance</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ro">roman</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ru">роман</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sv">Roman</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sw">riwaya</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ta">புதினம்</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="th">นวนิยาย</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tl">Nobela</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tr">Roman</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ur">ناول</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="vi">tiểu thuyết</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="zh">長篇小說</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4021845-4</lido:conceptID>
+                     <lido:conceptID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q1027879</lido:conceptID>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">https://en.wikipedia.org/wiki/Graphics</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/13314</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Druckgraphik</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ar">رسوميات</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="bn">গ্রাফিক্স</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="cs">Grafika</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="de">Druckgraphik</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="el">Γραφικά</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="en">Graphics</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="es">gráficos</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fa">ارتباط تصویری</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fr">Graphique</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="he">גרפיקה</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hi">चित्रालेख</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hu">Grafika</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="id">Grafika</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ja">グラフィック</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ka">გრაფიკა</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ko">그래픽</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="nl">Grafiek</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pl">Grafika</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pt">Gráfico</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ro">grafică</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ru">графика</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ta">வரைகலை</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tr">Grafik</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ur">تخطیط</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="zh">图形</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+         </lido:subjectWrap>
+         <lido:relatedWorksWrap/>
+      </lido:objectRelationWrap>
+   </lido:descriptiveMetadata>
+   <lido:administrativeMetadata xml:lang="de">
+      <lido:rightsWorkWrap>
+         <lido:rightsWorkSet>
+            <lido:rightsHolder>
+               <lido:legalBodyName>
+                  <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:rightsHolder>
+         </lido:rightsWorkSet>
+      </lido:rightsWorkWrap>
+      <lido:recordWrap>
+         <lido:recordID lido:type="museum-digital">67122</lido:recordID>
+         <lido:recordType>
+            <lido:term lido:addedSearchTerm="no">item</lido:term>
+         </lido:recordType>
+         <lido:recordSource lido:type="dataProvider">
+            <lido:legalBodyName>
+               <lido:appellationValue>museum-digital</lido:appellationValue>
+            </lido:legalBodyName>
+            <lido:legalBodyWeblink>https://berlin.museum-digital.de/</lido:legalBodyWeblink>
+         </lido:recordSource>
+         <lido:recordSource>
+            <lido:legalBodyID lido:type="isil">DE-B185</lido:legalBodyID>
+            <lido:legalBodyName>
+               <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+            </lido:legalBodyName>
+         </lido:recordSource>
+         <lido:recordRights>
+            <lido:rightsType>
+               <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no">CC BY</lido:term>
+            </lido:rightsType>
+            <lido:rightsHolder>
+               <lido:legalBodyID lido:type="isil">DE-B185</lido:legalBodyID>
+               <lido:legalBodyName>
+                  <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+               </lido:legalBodyName>
+               <lido:legalBodyWeblink>http://geschichte-brandenburg.de/</lido:legalBodyWeblink>
+            </lido:rightsHolder>
+            <lido:creditLine>Förderprogramm zur Digitalisierung von Objekten des kulturellen Erbes des Landes Berlin</lido:creditLine>
+         </lido:recordRights>
+         <lido:recordInfoSet>
+            <lido:recordInfoLink>https://berlin.museum-digital.de/index.php?t=objekt&amp;oges=67122</lido:recordInfoLink>
+            <lido:recordMetadataDate>2021-04-27 07:59:54</lido:recordMetadataDate>
+         </lido:recordInfoSet>
+      </lido:recordWrap>
+      <lido:resourceWrap>
+         <lido:resourceSet lido:sortorder="1">
+            <lido:resourceID lido:source="image" lido:type="local">48705</lido:resourceID>
+            <lido:resourceRepresentation lido:type="masterfile">
+               <lido:linkResource lido:formatResource="image/tiff"/>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_thumb">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/202007/100h_illustration-zu-friedrich-nicolai-sebaldus-nothanker-67122.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_preview">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/202007/200w_illustration-zu-friedrich-nicolai-sebaldus-nothanker-67122.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/202007/illustration-zu-friedrich-nicolai-sebaldus-nothanker-67122.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceType>
+               <lido:term lido:addedSearchTerm="no">image</lido:term>
+            </lido:resourceType>
+            <lido:resourceRelType>
+               <lido:term lido:addedSearchTerm="no">Hauptansicht</lido:term>
+            </lido:resourceRelType>
+            <lido:resourceDescription>Illustration zu Friedrich Nicolai, Sebaldus Nothanker</lido:resourceDescription>
+            <lido:resourceSource lido:type="creator">
+               <lido:legalBodyName>
+                  <lido:appellationValue>Thomas Voßbeck, 2020</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:resourceSource>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+                  <lido:term lido:addedSearchTerm="no">CC BY</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V.</lido:appellationValue>
+                  </lido:legalBodyName>
+               </lido:rightsHolder>
+               <lido:creditLine>Thomas Voßbeck, 2020</lido:creditLine>
+            </lido:rightsResource>
+         </lido:resourceSet>
+      </lido:resourceWrap>
+   </lido:administrativeMetadata>
+</lido:lido>
+

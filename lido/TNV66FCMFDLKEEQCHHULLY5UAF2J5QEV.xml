@@ -1,0 +1,397 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lido:lido xmlns:lido="http://www.lido-schema.org"
+           xmlns:xalan="http://xml.apache.org/xalan">
+   <lido:lidoRecID lido:source="https://berlin.museum-digital.de/index.php?t=institution&amp;instnr=32"
+                   lido:type="local">DE-B185/67158</lido:lidoRecID>
+   <lido:category/>
+   <lido:descriptiveMetadata xml:lang="de">
+      <lido:objectClassificationWrap>
+         <lido:objectWorkTypeWrap>
+            <lido:objectWorkType>
+               <lido:conceptID lido:source="gnd" lido:type="uri">http://d-nb.info/gnd/4139167-6</lido:conceptID>
+               <lido:conceptID lido:source="aat" lido:type="uri">http://vocab.getty.edu/aat/300034569</lido:conceptID>
+               <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh85129196</lido:conceptID>
+               <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/11970</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Bauzeichnung</lido:term>
+            </lido:objectWorkType>
+         </lido:objectWorkTypeWrap>
+         <lido:classificationWrap>
+            <lido:classification lido:type="Sammlung">
+               <lido:conceptID lido:source="local" lido:type="collection_id">731</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Nachlässe</lido:term>
+            </lido:classification>
+            <lido:classification lido:type="Sammlung">
+               <lido:conceptID lido:source="local" lido:type="collection_id">733</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Georg Walter Forch</lido:term>
+            </lido:classification>
+            <lido:classification lido:type="Sammlung">
+               <lido:conceptID lido:source="local" lido:type="collection_id">705</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Handzeichnungen, Druckgraphik, Gemälde</lido:term>
+            </lido:classification>
+            <lido:classification>
+               <lido:conceptID lido:source="local" lido:type="series_id">141</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no">Umgestaltungspläne Haus der Heimat Woltersdorf</lido:term>
+            </lido:classification>
+         </lido:classificationWrap>
+      </lido:objectClassificationWrap>
+      <lido:objectIdentificationWrap>
+         <lido:titleWrap>
+            <lido:titleSet>
+               <lido:appellationValue lido:pref="preferred">Woltersdorf (Kr. Niederbarnim): Haus der Heimat, Anbau eines Treppenhauses (3. Entwurf, nicht ausgeführt). Ansicht und Schnitt</lido:appellationValue>
+            </lido:titleSet>
+         </lido:titleWrap>
+         <lido:repositoryWrap>
+            <lido:repositorySet lido:type="current">
+               <lido:repositoryName>
+                  <lido:legalBodyID lido:type="isil">DE-B185</lido:legalBodyID>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+                  </lido:legalBodyName>
+                  <lido:legalBodyWeblink>http://geschichte-brandenburg.de/</lido:legalBodyWeblink>
+               </lido:repositoryName>
+               <lido:workID lido:type="inventory number">LGV-Archiv, B 13-2, S. 181</lido:workID>
+               <lido:repositoryLocation>
+                  <lido:namePlaceSet>
+                     <lido:appellationValue>Berlin</lido:appellationValue>
+                  </lido:namePlaceSet>
+                  <lido:gml>
+                     <gml:Point xmlns:gml="http://www.opengis.net/gml" srsName="EPSG:4326">
+                        <gml:pos>52.51533127 13.40440559</gml:pos>
+                     </gml:Point>
+                  </lido:gml>
+               </lido:repositoryLocation>
+            </lido:repositorySet>
+         </lido:repositoryWrap>
+         <lido:objectDescriptionWrap>
+            <lido:objectDescriptionSet>
+               <lido:descriptiveNoteValue>Diesen Plan schuf ebenso wie zwei weitere Architekt Paul Burgemeister, Woltersdorf. Bei dem Gebäude Haus der Heimat handelte es sich um die Wassermühle in Woltersdorf, die die Nationalsozialistische Kulturgemeinde Woltersdorf gepachtet hatte und schrittweise zugunsten der Museumsnutzung veränderte. Eine erste Planung betraf eine Fassadengestaltung durch ein vorgesetztes Treppenhaus, die aber wegen des moorigen Untergrundes keine Genehmigung erhielt. Dieser Entwurf folgt bis auf die Symmetrie der Eingangszone dem Fidus-Entwurf.</lido:descriptiveNoteValue>
+               <lido:sourceDescriptiveNote>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:sourceDescriptiveNote>
+            </lido:objectDescriptionSet>
+         </lido:objectDescriptionWrap>
+         <lido:objectMeasurementsWrap>
+            <lido:objectMeasurementsSet>
+               <lido:displayObjectMeasurements>Blattgröße: Höhe 33, Breite 36 cm (einmal gefaltet)</lido:displayObjectMeasurements>
+               <lido:objectMeasurements/>
+            </lido:objectMeasurementsSet>
+         </lido:objectMeasurementsWrap>
+      </lido:objectIdentificationWrap>
+      <lido:eventWrap>
+         <lido:eventSet>
+            <lido:event>
+               <lido:eventType>
+                  <lido:conceptID lido:type="uri">https://event-types.museum-digital.org/1</lido:conceptID>
+                  <lido:term lido:addedSearchTerm="no">Hergestellt</lido:term>
+               </lido:eventType>
+               <lido:eventActor>
+                  <lido:displayActorInRole>Paul Burgemeister</lido:displayActorInRole>
+                  <lido:actorInRole>
+                     <lido:actor>
+                        <lido:actorID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/persinst/125365</lido:actorID>
+                        <lido:nameActorSet>
+                           <lido:appellationValue>Burgemeister, Paul</lido:appellationValue>
+                           <lido:appellationValue xml:lang="de">Paul Burgemeister</lido:appellationValue>
+                        </lido:nameActorSet>
+                        <lido:vitalDatesActor>
+                           <lido:earliestDate/>
+                           <lido:latestDate/>
+                        </lido:vitalDatesActor>
+                     </lido:actor>
+                  </lido:actorInRole>
+               </lido:eventActor>
+               <lido:eventDate>
+                  <lido:displayDate>1935-1936</lido:displayDate>
+                  <lido:displayDate xml:lang="ar">1935-1936</lido:displayDate>
+                  <lido:displayDate xml:lang="de">1935-1936</lido:displayDate>
+                  <lido:displayDate xml:lang="en">1935-1936</lido:displayDate>
+                  <lido:displayDate xml:lang="es">1935-1936</lido:displayDate>
+                  <lido:displayDate xml:lang="fa">1935-1936</lido:displayDate>
+                  <lido:displayDate xml:lang="fr">1935-1936</lido:displayDate>
+                  <lido:displayDate xml:lang="hu">1935-1936</lido:displayDate>
+                  <lido:displayDate xml:lang="id">1935-1936</lido:displayDate>
+                  <lido:displayDate xml:lang="it">1935-1936</lido:displayDate>
+                  <lido:displayDate xml:lang="ja">1935年から1936年</lido:displayDate>
+                  <lido:displayDate xml:lang="ka">1935-1936</lido:displayDate>
+                  <lido:displayDate xml:lang="ko">1935년-1936년</lido:displayDate>
+                  <lido:displayDate xml:lang="pl">1935-1936</lido:displayDate>
+                  <lido:displayDate xml:lang="pt">1935-1936</lido:displayDate>
+                  <lido:displayDate xml:lang="ro">1935-1936</lido:displayDate>
+                  <lido:displayDate xml:lang="ru">1935-1936</lido:displayDate>
+                  <lido:displayDate xml:lang="ta">1935-1936</lido:displayDate>
+                  <lido:displayDate xml:lang="tl">1935-1936</lido:displayDate>
+                  <lido:displayDate xml:lang="tr">1935-1936</lido:displayDate>
+                  <lido:displayDate xml:lang="zh">1935年至1936年</lido:displayDate>
+                  <lido:date>
+                     <lido:earliestDate>1935</lido:earliestDate>
+                     <lido:latestDate>1936</lido:latestDate>
+                  </lido:date>
+               </lido:eventDate>
+               <lido:eventPlace>
+                  <lido:displayPlace>Woltersdorf (bei Berlin)</lido:displayPlace>
+                  <lido:displayPlace xml:lang="cs">Woltersdorf</lido:displayPlace>
+                  <lido:displayPlace xml:lang="de">Woltersdorf (bei Berlin)</lido:displayPlace>
+                  <lido:displayPlace xml:lang="en">Woltersdorf, Brandenburg</lido:displayPlace>
+                  <lido:displayPlace xml:lang="es">Woltersdorf</lido:displayPlace>
+                  <lido:displayPlace xml:lang="fa">وولترسدورف (براندنبورگ)</lido:displayPlace>
+                  <lido:displayPlace xml:lang="fr">Woltersdorf (Brandebourg)</lido:displayPlace>
+                  <lido:displayPlace xml:lang="hu">Woltersdorf (bei Berlin)</lido:displayPlace>
+                  <lido:displayPlace xml:lang="it">Woltersdorf (Brandeburgo)</lido:displayPlace>
+                  <lido:displayPlace xml:lang="nl">Woltersdorf (bij Berlijn)</lido:displayPlace>
+                  <lido:displayPlace xml:lang="pl">Woltersdorf (Brandenburgia)</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ro">Woltersdorf (bei Berlin)</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ru">Вольтерсдорф (Бранденбург)</lido:displayPlace>
+                  <lido:displayPlace xml:lang="sv">Woltersdorf, Landkreis Oder-Spree</lido:displayPlace>
+                  <lido:place>
+                     <lido:placeID lido:source="geonames" lido:type="uri">https://sws.geonames.org/6547651</lido:placeID>
+                     <lido:placeID lido:source="TGN" lido:type="uri">http://vocab.getty.edu/tgn/7023869</lido:placeID>
+                     <lido:placeID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4308438-2</lido:placeID>
+                     <lido:placeID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q628778</lido:placeID>
+                     <lido:placeID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/place/2767</lido:placeID>
+                     <lido:namePlaceSet>
+                        <lido:appellationValue>Woltersdorf (bei Berlin)</lido:appellationValue>
+                        <lido:appellationValue xml:lang="cs">Woltersdorf</lido:appellationValue>
+                        <lido:appellationValue xml:lang="de">Woltersdorf (bei Berlin)</lido:appellationValue>
+                        <lido:appellationValue xml:lang="en">Woltersdorf, Brandenburg</lido:appellationValue>
+                        <lido:appellationValue xml:lang="es">Woltersdorf</lido:appellationValue>
+                        <lido:appellationValue xml:lang="fa">وولترسدورف (براندنبورگ)</lido:appellationValue>
+                        <lido:appellationValue xml:lang="fr">Woltersdorf (Brandebourg)</lido:appellationValue>
+                        <lido:appellationValue xml:lang="hu">Woltersdorf (bei Berlin)</lido:appellationValue>
+                        <lido:appellationValue xml:lang="it">Woltersdorf (Brandeburgo)</lido:appellationValue>
+                        <lido:appellationValue xml:lang="nl">Woltersdorf (bij Berlijn)</lido:appellationValue>
+                        <lido:appellationValue xml:lang="pl">Woltersdorf (Brandenburgia)</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ro">Woltersdorf (bei Berlin)</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ru">Вольтерсдорф (Бранденбург)</lido:appellationValue>
+                        <lido:appellationValue xml:lang="sv">Woltersdorf, Landkreis Oder-Spree</lido:appellationValue>
+                     </lido:namePlaceSet>
+                     <lido:gml>
+                        <gml:Point xmlns:gml="http://www.opengis.net/gml" srsName="EPSG:4326">
+                           <gml:pos>52.447776794434 13.757222175598</gml:pos>
+                        </gml:Point>
+                     </lido:gml>
+                  </lido:place>
+               </lido:eventPlace>
+            </lido:event>
+         </lido:eventSet>
+         <lido:eventSet>
+            <lido:event>
+               <lido:eventType>
+                  <lido:conceptID lido:type="uri">http://terminology.lido-schema.org/lido00003</lido:conceptID>
+                  <lido:term>Event (non-specified)</lido:term>
+               </lido:eventType>
+               <lido:eventMaterialsTech>
+                  <lido:displayMaterialsTech>Lichtpause mit farbigem Buntstift</lido:displayMaterialsTech>
+               </lido:eventMaterialsTech>
+            </lido:event>
+         </lido:eventSet>
+      </lido:eventWrap>
+      <lido:objectRelationWrap>
+         <lido:subjectWrap>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectPlace>
+                     <lido:displayPlace>Woltersdorf (bei Berlin)</lido:displayPlace>
+                     <lido:displayPlace xml:lang="cs">Woltersdorf</lido:displayPlace>
+                     <lido:displayPlace xml:lang="de">Woltersdorf (bei Berlin)</lido:displayPlace>
+                     <lido:displayPlace xml:lang="en">Woltersdorf, Brandenburg</lido:displayPlace>
+                     <lido:displayPlace xml:lang="es">Woltersdorf</lido:displayPlace>
+                     <lido:displayPlace xml:lang="fa">وولترسدورف (براندنبورگ)</lido:displayPlace>
+                     <lido:displayPlace xml:lang="fr">Woltersdorf (Brandebourg)</lido:displayPlace>
+                     <lido:displayPlace xml:lang="hu">Woltersdorf (bei Berlin)</lido:displayPlace>
+                     <lido:displayPlace xml:lang="it">Woltersdorf (Brandeburgo)</lido:displayPlace>
+                     <lido:displayPlace xml:lang="nl">Woltersdorf (bij Berlijn)</lido:displayPlace>
+                     <lido:displayPlace xml:lang="pl">Woltersdorf (Brandenburgia)</lido:displayPlace>
+                     <lido:displayPlace xml:lang="ro">Woltersdorf (bei Berlin)</lido:displayPlace>
+                     <lido:displayPlace xml:lang="ru">Вольтерсдорф (Бранденбург)</lido:displayPlace>
+                     <lido:displayPlace xml:lang="sv">Woltersdorf, Landkreis Oder-Spree</lido:displayPlace>
+                     <lido:place>
+                        <lido:placeID lido:source="geonames" lido:type="uri">https://sws.geonames.org/6547651</lido:placeID>
+                        <lido:placeID lido:source="TGN" lido:type="uri">http://vocab.getty.edu/tgn/7023869</lido:placeID>
+                        <lido:placeID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4308438-2</lido:placeID>
+                        <lido:placeID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q628778</lido:placeID>
+                        <lido:placeID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/place/2767</lido:placeID>
+                        <lido:namePlaceSet>
+                           <lido:appellationValue>Woltersdorf (bei Berlin)</lido:appellationValue>
+                           <lido:appellationValue xml:lang="cs">Woltersdorf</lido:appellationValue>
+                           <lido:appellationValue xml:lang="de">Woltersdorf (bei Berlin)</lido:appellationValue>
+                           <lido:appellationValue xml:lang="en">Woltersdorf, Brandenburg</lido:appellationValue>
+                           <lido:appellationValue xml:lang="es">Woltersdorf</lido:appellationValue>
+                           <lido:appellationValue xml:lang="fa">وولترسدورف (براندنبورگ)</lido:appellationValue>
+                           <lido:appellationValue xml:lang="fr">Woltersdorf (Brandebourg)</lido:appellationValue>
+                           <lido:appellationValue xml:lang="hu">Woltersdorf (bei Berlin)</lido:appellationValue>
+                           <lido:appellationValue xml:lang="it">Woltersdorf (Brandeburgo)</lido:appellationValue>
+                           <lido:appellationValue xml:lang="nl">Woltersdorf (bij Berlijn)</lido:appellationValue>
+                           <lido:appellationValue xml:lang="pl">Woltersdorf (Brandenburgia)</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ro">Woltersdorf (bei Berlin)</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ru">Вольтерсдорф (Бранденбург)</lido:appellationValue>
+                           <lido:appellationValue xml:lang="sv">Woltersdorf, Landkreis Oder-Spree</lido:appellationValue>
+                        </lido:namePlaceSet>
+                        <lido:gml>
+                           <gml:Point xmlns:gml="http://www.opengis.net/gml" srsName="EPSG:4326">
+                              <gml:pos>52.447776794434 13.757222175598</gml:pos>
+                           </gml:Point>
+                        </lido:gml>
+                     </lido:place>
+                  </lido:subjectPlace>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="aat" lido:type="uri">http://vocab.getty.edu/aat/300055524</lido:conceptID>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4041316-0</lido:conceptID>
+                     <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh85090131</lido:conceptID>
+                     <lido:conceptID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q7310</lido:conceptID>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Nationalsozialismus</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/1256</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Nationalsozialismus</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ar">نازية</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="bn">নাৎসিবাদ</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="cs">Nacismus</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="da">Nazisme</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="de">Nationalsozialismus</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="el">Εθνικοσοσιαλισμός</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="en">Nazism</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="es">Nazismo</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fa">نازیسم</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fi">Kansallissosialismi</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fr">Nazisme</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="he">נאציזם</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hi">नात्सीवाद</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hu">nemzetiszocializmus</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="id">Nazisme</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="it">Nazionalsocialismo</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ja">ナチズム</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ka">ნაციონალ-სოციალიზმი</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ko">나치즘</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="nl">Nationaalsocialisme</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pl">Narodowy socjalizm</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pt">Nacional-Socialismo</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ro">nazism</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ru">национал-социализм</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sv">Nazism</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ta">நாசிசம்</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="th">ระบอบนาซี</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tl">Nazismo</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tr">Nasyonal sosyalizm</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ur">نازیت</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="vi">Chủ nghĩa Quốc xã</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="zh">纳粹主义</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">http://d-nb.info/gnd/4130302-7</lido:conceptID>
+                     <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh99001066</lido:conceptID>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">http://de.wikipedia.org/wiki/Heimatmuseum</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/8124</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Heimatmuseum</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="aat" lido:type="uri">http://vocab.getty.edu/aat/300034569</lido:conceptID>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">http://d-nb.info/gnd/4139167-6</lido:conceptID>
+                     <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh85129196</lido:conceptID>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">http://de.wikipedia.org/wiki/Bauzeichnung</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/11970</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Bauzeichnung</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+         </lido:subjectWrap>
+         <lido:relatedWorksWrap/>
+      </lido:objectRelationWrap>
+   </lido:descriptiveMetadata>
+   <lido:administrativeMetadata xml:lang="de">
+      <lido:rightsWorkWrap>
+         <lido:rightsWorkSet>
+            <lido:rightsHolder>
+               <lido:legalBodyName>
+                  <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:rightsHolder>
+         </lido:rightsWorkSet>
+      </lido:rightsWorkWrap>
+      <lido:recordWrap>
+         <lido:recordID lido:type="museum-digital">67158</lido:recordID>
+         <lido:recordType>
+            <lido:term lido:addedSearchTerm="no">item</lido:term>
+         </lido:recordType>
+         <lido:recordSource lido:type="dataProvider">
+            <lido:legalBodyName>
+               <lido:appellationValue>museum-digital</lido:appellationValue>
+            </lido:legalBodyName>
+            <lido:legalBodyWeblink>https://berlin.museum-digital.de/</lido:legalBodyWeblink>
+         </lido:recordSource>
+         <lido:recordSource>
+            <lido:legalBodyID lido:type="isil">DE-B185</lido:legalBodyID>
+            <lido:legalBodyName>
+               <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+            </lido:legalBodyName>
+         </lido:recordSource>
+         <lido:recordRights>
+            <lido:rightsType>
+               <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no">CC BY</lido:term>
+            </lido:rightsType>
+            <lido:rightsHolder>
+               <lido:legalBodyID lido:type="isil">DE-B185</lido:legalBodyID>
+               <lido:legalBodyName>
+                  <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+               </lido:legalBodyName>
+               <lido:legalBodyWeblink>http://geschichte-brandenburg.de/</lido:legalBodyWeblink>
+            </lido:rightsHolder>
+            <lido:creditLine>Förderprogramm zur Digitalisierung von Objekten des kulturellen Erbes des Landes Berlin</lido:creditLine>
+         </lido:recordRights>
+         <lido:recordInfoSet>
+            <lido:recordInfoLink>https://berlin.museum-digital.de/index.php?t=objekt&amp;oges=67158</lido:recordInfoLink>
+            <lido:recordMetadataDate>2021-04-27 07:59:54</lido:recordMetadataDate>
+         </lido:recordInfoSet>
+      </lido:recordWrap>
+      <lido:resourceWrap>
+         <lido:resourceSet lido:sortorder="1">
+            <lido:resourceID lido:source="image" lido:type="local">48741</lido:resourceID>
+            <lido:resourceRepresentation lido:type="masterfile">
+               <lido:linkResource lido:formatResource="image/tiff"/>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_thumb">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/202007/100h_woltersdorf-kr-niederbarnim-haus-der-heimat-anbau-eines-treppenhauses-3-entwurf-nicht-ausg.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_preview">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/202007/200w_woltersdorf-kr-niederbarnim-haus-der-heimat-anbau-eines-treppenhauses-3-entwurf-nicht-ausg.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/202007/woltersdorf-kr-niederbarnim-haus-der-heimat-anbau-eines-treppenhauses-3-entwurf-nicht-ausg.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceType>
+               <lido:term lido:addedSearchTerm="no">image</lido:term>
+            </lido:resourceType>
+            <lido:resourceRelType>
+               <lido:term lido:addedSearchTerm="no">Hauptansicht</lido:term>
+            </lido:resourceRelType>
+            <lido:resourceDescription>Woltersdorf (Kr. Niederbarnim): Haus der Heimat, Anbau eines Treppenhauses (3. Entwurf, nicht ausgeführt). Ansicht und Schnitt</lido:resourceDescription>
+            <lido:resourceSource lido:type="creator">
+               <lido:legalBodyName>
+                  <lido:appellationValue>Thomas Voßbeck, 2020</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:resourceSource>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+                  <lido:term lido:addedSearchTerm="no">CC BY</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V.</lido:appellationValue>
+                  </lido:legalBodyName>
+               </lido:rightsHolder>
+               <lido:creditLine>Thomas Voßbeck, 2020</lido:creditLine>
+            </lido:rightsResource>
+         </lido:resourceSet>
+      </lido:resourceWrap>
+   </lido:administrativeMetadata>
+</lido:lido>
+

@@ -1,0 +1,436 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lido:lido xmlns:gml="http://www.opengis.net/gml"
+           xmlns:lido="http://www.lido-schema.org"
+           xmlns:schemaLocation="http://schemas.opengis.net/gml/3.1.1/base/feature.xsd"
+           xmlns:xalan="http://xml.apache.org/xalan"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <lido:lidoRecID lido:source="https://berlin.museum-digital.de/index.php?t=institution&amp;instnr=10"
+                   lido:type="local">DE-MUS-232415/95191</lido:lidoRecID>
+   <lido:category/>
+   <lido:descriptiveMetadata xml:lang="de">
+      <lido:objectClassificationWrap>
+         <lido:objectWorkTypeWrap>
+            <lido:objectWorkType>
+               <lido:conceptID lido:source="gnd" lido:type="uri">http://d-nb.info/gnd/4137498-8</lido:conceptID>
+               <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh85048459</lido:conceptID>
+               <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/14585</lido:conceptID>
+               <lido:term xml:lang="de">Schamottestein</lido:term>
+            </lido:objectWorkType>
+         </lido:objectWorkTypeWrap>
+         <lido:classificationWrap>
+            <lido:classification lido:type="Sammlung">
+               <lido:conceptID lido:source="local" lido:type="collection_id">19</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Porzellan, Keramik</lido:term>
+            </lido:classification>
+         </lido:classificationWrap>
+      </lido:objectClassificationWrap>
+      <lido:objectIdentificationWrap>
+         <lido:titleWrap>
+            <lido:titleSet>
+               <lido:appellationValue lido:pref="preferred">Schamottestein</lido:appellationValue>
+            </lido:titleSet>
+         </lido:titleWrap>
+         <lido:repositoryWrap>
+            <lido:repositorySet lido:type="current">
+               <lido:repositoryName>
+                  <lido:legalBodyID lido:type="isil">DE-MUS-232415</lido:legalBodyID>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Mitte Museum/Bezirksamt Mitte von Berlin</lido:appellationValue>
+                  </lido:legalBodyName>
+                  <lido:legalBodyWeblink>https://www.mittemuseum.de/</lido:legalBodyWeblink>
+               </lido:repositoryName>
+               <lido:workID lido:type="inventory number">K-Schum 12/2</lido:workID>
+               <lido:repositoryLocation>
+                  <lido:namePlaceSet>
+                     <lido:appellationValue>Berlin</lido:appellationValue>
+                  </lido:namePlaceSet>
+                  <lido:gml>
+                     <gml:Point srsName="EPSG:4326">
+                        <gml:pos>52.52658081 13.34020329</gml:pos>
+                     </gml:Point>
+                  </lido:gml>
+               </lido:repositoryLocation>
+            </lido:repositorySet>
+         </lido:repositoryWrap>
+         <lido:objectDescriptionWrap>
+            <lido:objectDescriptionSet>
+               <lido:descriptiveNoteValue>Ein Schamottestein mit der Inschrift "Z - EISSTOCK COLDITZ - EI", der in den Jahren 1992 bis 1994 auf dem Areal der ehemaligen Porzellanmanufaktur F. A. Schumann, Berlin, in Alt-Moabit gefunden wurde. Das Gelände wurde derzeit umgestaltet. &lt;br/&gt;
+Das Objekt ist 2004 aus dem Bestand des Heimatmuseums Tiergarten, einer Vorgängerinstitution des Mitte Museums, in die Sammlung übergegangen. &lt;br/&gt;
+Zustand: Kleine Abschläge an den Rändern; Materialrückstände.&lt;br/&gt;
+&lt;br/&gt;
+Heute kann nicht mehr davon ausgegangen werden, dass das Objekt ein Überbleibsel der Produktion der Porzellanmanufaktur F. A. Schumann (1835-1880) ist. Die Gründung von Eismann &amp; Stockmann, Colditzer Schamotte- und Dachsteinfabriken, war erst 1896. Feuerfeste Schamottewaren wurden u. a. für Brenn- und Muffelöfen in der keramischen Industrie sowie für Kesselanlagen und Schmelzöfen genutzt. Datierung: 1896-1950&lt;br/&gt;
+&lt;br/&gt;
+Inventarnummer: K-Schum 12/2</lido:descriptiveNoteValue>
+               <lido:sourceDescriptiveNote>Mitte Museum/Bezirksamt Mitte von Berlin</lido:sourceDescriptiveNote>
+            </lido:objectDescriptionSet>
+         </lido:objectDescriptionWrap>
+         <lido:objectMeasurementsWrap>
+            <lido:objectMeasurementsSet>
+               <lido:displayObjectMeasurements>Höhe: 14,1 cm; Breite: 24,9 cm; Tiefe: 1,2 cm</lido:displayObjectMeasurements>
+               <lido:objectMeasurements/>
+            </lido:objectMeasurementsSet>
+         </lido:objectMeasurementsWrap>
+      </lido:objectIdentificationWrap>
+      <lido:eventWrap>
+         <lido:eventSet>
+            <lido:displayEvent>Hergestellt</lido:displayEvent>
+            <lido:event>
+               <lido:eventID lido:type="local">414942</lido:eventID>
+               <lido:eventType>
+                  <lido:conceptID lido:type="uri">https://event-types.museum-digital.org/1</lido:conceptID>
+                  <lido:term lido:addedSearchTerm="no">Hergestellt</lido:term>
+               </lido:eventType>
+               <lido:eventName>
+                  <lido:appellationValue>Hergestellt - Obj. 95191</lido:appellationValue>
+               </lido:eventName>
+               <lido:eventActor>
+                  <lido:displayActorInRole>Eismann &amp; Stockmann (Colditz)</lido:displayActorInRole>
+                  <lido:actorInRole>
+                     <lido:actor>
+                        <lido:actorID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/persinst/171606</lido:actorID>
+                        <lido:nameActorSet>
+                           <lido:appellationValue>Eismann &amp; Stockmann (Colditz)</lido:appellationValue>
+                           <lido:appellationValue xml:lang="de">Eismann &amp; Stockmann (Colditz)</lido:appellationValue>
+                        </lido:nameActorSet>
+                        <lido:vitalDatesActor>
+                           <lido:earliestDate/>
+                           <lido:latestDate/>
+                        </lido:vitalDatesActor>
+                     </lido:actor>
+                  </lido:actorInRole>
+               </lido:eventActor>
+               <lido:eventDate>
+                  <lido:displayDate>1896-1950</lido:displayDate>
+                  <lido:displayDate xml:lang="ar">1896-1950</lido:displayDate>
+                  <lido:displayDate xml:lang="de">1896-1950</lido:displayDate>
+                  <lido:displayDate xml:lang="en">1896-1950</lido:displayDate>
+                  <lido:displayDate xml:lang="es">1896-1950</lido:displayDate>
+                  <lido:displayDate xml:lang="fa">1896-1950</lido:displayDate>
+                  <lido:displayDate xml:lang="fr">1896-1950</lido:displayDate>
+                  <lido:displayDate xml:lang="hu">1896-1950</lido:displayDate>
+                  <lido:displayDate xml:lang="id">1896-1950</lido:displayDate>
+                  <lido:displayDate xml:lang="it">1896-1950</lido:displayDate>
+                  <lido:displayDate xml:lang="ja">1896年から1950年</lido:displayDate>
+                  <lido:displayDate xml:lang="ka">1896-1950</lido:displayDate>
+                  <lido:displayDate xml:lang="ko">1896년-1950년</lido:displayDate>
+                  <lido:displayDate xml:lang="pl">1896-1950</lido:displayDate>
+                  <lido:displayDate xml:lang="pt">1896-1950</lido:displayDate>
+                  <lido:displayDate xml:lang="ro">1896-1950</lido:displayDate>
+                  <lido:displayDate xml:lang="ru">1896-1950</lido:displayDate>
+                  <lido:displayDate xml:lang="ta">1896-1950</lido:displayDate>
+                  <lido:displayDate xml:lang="tl">1896-1950</lido:displayDate>
+                  <lido:displayDate xml:lang="tr">1896-1950</lido:displayDate>
+                  <lido:displayDate xml:lang="zh">1896年至1950年</lido:displayDate>
+                  <lido:date>
+                     <lido:earliestDate>1896</lido:earliestDate>
+                     <lido:latestDate>1950</lido:latestDate>
+                  </lido:date>
+               </lido:eventDate>
+               <lido:eventPlace>
+                  <lido:displayPlace>Colditz</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ar">كولديتس</lido:displayPlace>
+                  <lido:displayPlace xml:lang="da">Colditz</lido:displayPlace>
+                  <lido:displayPlace xml:lang="de">Colditz</lido:displayPlace>
+                  <lido:displayPlace xml:lang="el">Κόλντιτς</lido:displayPlace>
+                  <lido:displayPlace xml:lang="en">Colditz</lido:displayPlace>
+                  <lido:displayPlace xml:lang="es">Colditz</lido:displayPlace>
+                  <lido:displayPlace xml:lang="fa">کلدیتز</lido:displayPlace>
+                  <lido:displayPlace xml:lang="fi">Colditz</lido:displayPlace>
+                  <lido:displayPlace xml:lang="fr">Colditz</lido:displayPlace>
+                  <lido:displayPlace xml:lang="hu">Colditz</lido:displayPlace>
+                  <lido:displayPlace xml:lang="it">Colditz</lido:displayPlace>
+                  <lido:displayPlace xml:lang="nl">Colditz (gemeente)</lido:displayPlace>
+                  <lido:displayPlace xml:lang="pl">Colditz</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ro">Colditz</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ru">Кольдиц</lido:displayPlace>
+                  <lido:displayPlace xml:lang="sv">Colditz</lido:displayPlace>
+                  <lido:displayPlace xml:lang="tr">Colditz</lido:displayPlace>
+                  <lido:displayPlace xml:lang="zh">科尔迪茨</lido:displayPlace>
+                  <lido:place>
+                     <lido:placeID lido:source="geonames" lido:type="uri">https://sws.geonames.org/2939927</lido:placeID>
+                     <lido:placeID lido:source="TGN" lido:type="uri">http://vocab.getty.edu/tgn/7012802</lido:placeID>
+                     <lido:placeID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4230745-4</lido:placeID>
+                     <lido:placeID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q10762</lido:placeID>
+                     <lido:placeID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/place/2129</lido:placeID>
+                     <lido:namePlaceSet>
+                        <lido:appellationValue>Colditz</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ar">كولديتس</lido:appellationValue>
+                        <lido:appellationValue xml:lang="da">Colditz</lido:appellationValue>
+                        <lido:appellationValue xml:lang="de">Colditz</lido:appellationValue>
+                        <lido:appellationValue xml:lang="el">Κόλντιτς</lido:appellationValue>
+                        <lido:appellationValue xml:lang="en">Colditz</lido:appellationValue>
+                        <lido:appellationValue xml:lang="es">Colditz</lido:appellationValue>
+                        <lido:appellationValue xml:lang="fa">کلدیتز</lido:appellationValue>
+                        <lido:appellationValue xml:lang="fi">Colditz</lido:appellationValue>
+                        <lido:appellationValue xml:lang="fr">Colditz</lido:appellationValue>
+                        <lido:appellationValue xml:lang="hu">Colditz</lido:appellationValue>
+                        <lido:appellationValue xml:lang="it">Colditz</lido:appellationValue>
+                        <lido:appellationValue xml:lang="nl">Colditz (gemeente)</lido:appellationValue>
+                        <lido:appellationValue xml:lang="pl">Colditz</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ro">Colditz</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ru">Кольдиц</lido:appellationValue>
+                        <lido:appellationValue xml:lang="sv">Colditz</lido:appellationValue>
+                        <lido:appellationValue xml:lang="tr">Colditz</lido:appellationValue>
+                        <lido:appellationValue xml:lang="zh">科尔迪茨</lido:appellationValue>
+                     </lido:namePlaceSet>
+                     <lido:gml>
+                        <gml:Point srsName="EPSG:4326">
+                           <gml:pos>51.116664886475 12.816666603088</gml:pos>
+                        </gml:Point>
+                     </lido:gml>
+                  </lido:place>
+               </lido:eventPlace>
+            </lido:event>
+         </lido:eventSet>
+         <lido:eventSet>
+            <lido:displayEvent>Gefunden</lido:displayEvent>
+            <lido:event>
+               <lido:eventID lido:type="local">416378</lido:eventID>
+               <lido:eventType>
+                  <lido:conceptID lido:type="uri">https://event-types.museum-digital.org/2</lido:conceptID>
+                  <lido:term lido:addedSearchTerm="no">Gefunden</lido:term>
+               </lido:eventType>
+               <lido:eventName>
+                  <lido:appellationValue>Gefunden - Obj. 95191</lido:appellationValue>
+               </lido:eventName>
+               <lido:eventActor>
+                  <lido:displayActorInRole>Heimatmuseum Tiergarten</lido:displayActorInRole>
+                  <lido:actorInRole>
+                     <lido:actor>
+                        <lido:actorID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/persinst/171608</lido:actorID>
+                        <lido:nameActorSet>
+                           <lido:appellationValue>Heimatmuseum Tiergarten</lido:appellationValue>
+                           <lido:appellationValue xml:lang="de">Heimatmuseum Tiergarten</lido:appellationValue>
+                        </lido:nameActorSet>
+                        <lido:vitalDatesActor>
+                           <lido:earliestDate/>
+                           <lido:latestDate/>
+                        </lido:vitalDatesActor>
+                     </lido:actor>
+                  </lido:actorInRole>
+               </lido:eventActor>
+               <lido:eventDate>
+                  <lido:displayDate>1992-1994</lido:displayDate>
+                  <lido:date>
+                     <lido:earliestDate>1992</lido:earliestDate>
+                     <lido:latestDate>1994</lido:latestDate>
+                  </lido:date>
+               </lido:eventDate>
+               <lido:eventPlace>
+                  <lido:displayPlace>Berlin-Moabit</lido:displayPlace>
+                  <lido:displayPlace xml:lang="da">Moabit</lido:displayPlace>
+                  <lido:displayPlace xml:lang="de">Berlin-Moabit</lido:displayPlace>
+                  <lido:displayPlace xml:lang="en">Moabit</lido:displayPlace>
+                  <lido:displayPlace xml:lang="es">Berlin-Moabit</lido:displayPlace>
+                  <lido:displayPlace xml:lang="fa">موابیت</lido:displayPlace>
+                  <lido:displayPlace xml:lang="fi">Moabit</lido:displayPlace>
+                  <lido:displayPlace xml:lang="fr">Berlin-Moabit</lido:displayPlace>
+                  <lido:displayPlace xml:lang="it">Moabit</lido:displayPlace>
+                  <lido:displayPlace xml:lang="nl">Berlin-Moabit</lido:displayPlace>
+                  <lido:displayPlace xml:lang="pl">Moabit</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ro">Berlin-Moabit</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ru">Моабит</lido:displayPlace>
+                  <lido:displayPlace xml:lang="sv">Moabit</lido:displayPlace>
+                  <lido:displayPlace xml:lang="zh">莫阿比特</lido:displayPlace>
+                  <lido:place>
+                     <lido:placeID lido:source="geonames" lido:type="uri">https://sws.geonames.org/2870310</lido:placeID>
+                     <lido:placeID lido:source="TGN" lido:type="uri">http://vocab.getty.edu/tgn/4012566</lido:placeID>
+                     <lido:placeID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4087332-8</lido:placeID>
+                     <lido:placeID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q699800</lido:placeID>
+                     <lido:placeID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/place/737</lido:placeID>
+                     <lido:namePlaceSet>
+                        <lido:appellationValue>Berlin-Moabit</lido:appellationValue>
+                        <lido:appellationValue xml:lang="da">Moabit</lido:appellationValue>
+                        <lido:appellationValue xml:lang="de">Berlin-Moabit</lido:appellationValue>
+                        <lido:appellationValue xml:lang="en">Moabit</lido:appellationValue>
+                        <lido:appellationValue xml:lang="es">Berlin-Moabit</lido:appellationValue>
+                        <lido:appellationValue xml:lang="fa">موابیت</lido:appellationValue>
+                        <lido:appellationValue xml:lang="fi">Moabit</lido:appellationValue>
+                        <lido:appellationValue xml:lang="fr">Berlin-Moabit</lido:appellationValue>
+                        <lido:appellationValue xml:lang="it">Moabit</lido:appellationValue>
+                        <lido:appellationValue xml:lang="nl">Berlin-Moabit</lido:appellationValue>
+                        <lido:appellationValue xml:lang="pl">Moabit</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ro">Berlin-Moabit</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ru">Моабит</lido:appellationValue>
+                        <lido:appellationValue xml:lang="sv">Moabit</lido:appellationValue>
+                        <lido:appellationValue xml:lang="zh">莫阿比特</lido:appellationValue>
+                     </lido:namePlaceSet>
+                     <lido:gml>
+                        <gml:Point srsName="EPSG:4326">
+                           <gml:pos>52.533298492432 13.333299636841</gml:pos>
+                        </gml:Point>
+                     </lido:gml>
+                  </lido:place>
+               </lido:eventPlace>
+            </lido:event>
+         </lido:eventSet>
+         <lido:eventSet>
+            <lido:event>
+               <lido:eventType>
+                  <lido:conceptID lido:type="uri">http://terminology.lido-schema.org/lido00003</lido:conceptID>
+                  <lido:term>Event (non-specified)</lido:term>
+               </lido:eventType>
+               <lido:eventMaterialsTech>
+                  <lido:displayMaterialsTech>Schamotte/gebrannt</lido:displayMaterialsTech>
+               </lido:eventMaterialsTech>
+            </lido:event>
+         </lido:eventSet>
+      </lido:eventWrap>
+      <lido:objectRelationWrap>
+         <lido:subjectWrap>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectActor>
+                     <lido:displayActor>Porzellanmanufaktur F. A. Schumann</lido:displayActor>
+                     <lido:actor>
+                        <lido:actorID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/persinst/156528</lido:actorID>
+                        <lido:nameActorSet>
+                           <lido:appellationValue>Porzellanmanufaktur F. A. Schumann</lido:appellationValue>
+                        </lido:nameActorSet>
+                        <lido:vitalDatesActor>
+                           <lido:earliestDate/>
+                           <lido:latestDate/>
+                        </lido:vitalDatesActor>
+                     </lido:actor>
+                  </lido:subjectActor>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectActor>
+                     <lido:displayActor>Eismann &amp; Stockmann (Colditz)</lido:displayActor>
+                     <lido:actor>
+                        <lido:actorID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/persinst/171606</lido:actorID>
+                        <lido:nameActorSet>
+                           <lido:appellationValue>Eismann &amp; Stockmann (Colditz)</lido:appellationValue>
+                           <lido:appellationValue xml:lang="de">Eismann &amp; Stockmann (Colditz)</lido:appellationValue>
+                        </lido:nameActorSet>
+                        <lido:vitalDatesActor>
+                           <lido:earliestDate/>
+                           <lido:latestDate/>
+                        </lido:vitalDatesActor>
+                     </lido:actor>
+                  </lido:subjectActor>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="aat" lido:type="uri">http://vocab.getty.edu/aat/300264869</lido:conceptID>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4179397-3</lido:conceptID>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Schamotte</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/26283</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Schamotte</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+         </lido:subjectWrap>
+         <lido:relatedWorksWrap>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:displayObject/>
+               </lido:relatedWork>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:displayObject>Heimatmuseum Tiergarten (Hg.), 1996: Kennen Sie Schomburg? Elektrokeramiker aus Moabit, Berlin, S. 11.</lido:displayObject>
+               </lido:relatedWork>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:displayObject>Eismann &amp; Stockmann, Colditzer Schamotte- und Dachsteinfabriken (Hg.), 1921: 1896-1921. Eismann &amp; Stockmann. Colditz i. Sa. (Festschrift 25 Jahre), Berlin, S. 11.</lido:displayObject>
+               </lido:relatedWork>
+            </lido:relatedWorkSet>
+         </lido:relatedWorksWrap>
+      </lido:objectRelationWrap>
+   </lido:descriptiveMetadata>
+   <lido:administrativeMetadata xml:lang="de">
+      <lido:rightsWorkWrap>
+         <lido:rightsWorkSet>
+            <lido:rightsHolder>
+               <lido:legalBodyName>
+                  <lido:appellationValue>Mitte Museum/Bezirksamt Mitte von Berlin</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:rightsHolder>
+         </lido:rightsWorkSet>
+      </lido:rightsWorkWrap>
+      <lido:recordWrap>
+         <lido:recordID lido:type="museum-digital">95191</lido:recordID>
+         <lido:recordType>
+            <lido:term lido:addedSearchTerm="no">item</lido:term>
+         </lido:recordType>
+         <lido:recordSource lido:type="dataProvider">
+            <lido:legalBodyName>
+               <lido:appellationValue>museum-digital</lido:appellationValue>
+            </lido:legalBodyName>
+            <lido:legalBodyWeblink>https://berlin.museum-digital.de/</lido:legalBodyWeblink>
+         </lido:recordSource>
+         <lido:recordSource>
+            <lido:legalBodyID lido:type="isil">DE-MUS-232415</lido:legalBodyID>
+            <lido:legalBodyName>
+               <lido:appellationValue>Mitte Museum/Bezirksamt Mitte von Berlin</lido:appellationValue>
+            </lido:legalBodyName>
+         </lido:recordSource>
+         <lido:recordRights>
+            <lido:rightsType>
+               <lido:conceptID lido:type="uri">https://creativecommons.org/publicdomain/zero/1.0/</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no">CC 0</lido:term>
+            </lido:rightsType>
+            <lido:rightsHolder>
+               <lido:legalBodyID lido:type="isil">DE-MUS-232415</lido:legalBodyID>
+               <lido:legalBodyName>
+                  <lido:appellationValue>Mitte Museum/Bezirksamt Mitte von Berlin</lido:appellationValue>
+               </lido:legalBodyName>
+               <lido:legalBodyWeblink>https://www.mittemuseum.de/</lido:legalBodyWeblink>
+            </lido:rightsHolder>
+            <lido:creditLine>Förderprogramm zur Digitalisierung von Objekten des kulturellen Erbes des Landes Berlin</lido:creditLine>
+         </lido:recordRights>
+         <lido:recordInfoSet>
+            <lido:recordInfoLink>https://berlin.museum-digital.de/index.php?t=objekt&amp;oges=95191</lido:recordInfoLink>
+            <lido:recordMetadataDate>2021-05-26 12:11:26</lido:recordMetadataDate>
+         </lido:recordInfoSet>
+      </lido:recordWrap>
+      <lido:resourceWrap>
+         <lido:resourceSet lido:sortorder="1">
+            <lido:resourceID lido:source="image" lido:type="local">73505</lido:resourceID>
+            <lido:resourceRepresentation lido:type="masterfile">
+               <lido:linkResource lido:formatResource="image/tiff"/>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_thumb">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/10/202105/95191/100h_schamotteplatte-95191.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_preview">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/10/202105/95191/200w_schamotteplatte-95191.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="provided_image">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/10/202105/95191/schamotteplatte-95191.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceType>
+               <lido:term>image</lido:term>
+            </lido:resourceType>
+            <lido:resourceRelType>
+               <lido:term>Hauptansicht</lido:term>
+            </lido:resourceRelType>
+            <lido:resourceDescription>Mitte Museum/Bezirksamt Mitte von Berlin / Friedhelm Hoffmann (CC BY-SA)</lido:resourceDescription>
+            <lido:resourceSource lido:type="creator">
+               <lido:legalBodyName>
+                  <lido:appellationValue>Friedhelm Hoffmann</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:resourceSource>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by-sa/4.0/</lido:conceptID>
+                  <lido:term>CC BY-SA</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Mitte Museum/Bezirksamt Mitte von Berlin</lido:appellationValue>
+                  </lido:legalBodyName>
+               </lido:rightsHolder>
+               <lido:creditLine>Friedhelm Hoffmann</lido:creditLine>
+            </lido:rightsResource>
+         </lido:resourceSet>
+      </lido:resourceWrap>
+   </lido:administrativeMetadata>
+</lido:lido>
+

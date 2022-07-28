@@ -1,0 +1,476 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lido:lido xmlns:lido="http://www.lido-schema.org"
+           xmlns:xalan="http://xml.apache.org/xalan">
+   <lido:lidoRecID lido:source="https://berlin.museum-digital.de/index.php?t=institution&amp;instnr=32"
+                   lido:type="local">DE-B185/66900</lido:lidoRecID>
+   <lido:category/>
+   <lido:descriptiveMetadata xml:lang="de">
+      <lido:objectClassificationWrap>
+         <lido:objectWorkTypeWrap>
+            <lido:objectWorkType>
+               <lido:conceptID lido:source="gnd" lido:type="uri">http://d-nb.info/gnd/4021845-4</lido:conceptID>
+               <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/13314</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Druckgraphik</lido:term>
+            </lido:objectWorkType>
+         </lido:objectWorkTypeWrap>
+         <lido:classificationWrap>
+            <lido:classification lido:type="Sammlung">
+               <lido:conceptID lido:source="local" lido:type="collection_id">705</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Handzeichnungen, Druckgraphik, Gemälde</lido:term>
+            </lido:classification>
+            <lido:classification lido:type="Sammlung">
+               <lido:conceptID lido:source="local" lido:type="collection_id">725</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Sachen und Ereignisse</lido:term>
+            </lido:classification>
+            <lido:classification lido:type="Sammlung">
+               <lido:conceptID lido:source="local" lido:type="collection_id">727</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Einzelblätter</lido:term>
+            </lido:classification>
+         </lido:classificationWrap>
+      </lido:objectClassificationWrap>
+      <lido:objectIdentificationWrap>
+         <lido:titleWrap>
+            <lido:titleSet>
+               <lido:appellationValue lido:pref="preferred">Wappen-Ahnentafel für Andreas Marishall de Clothoderick (1643-1695)</lido:appellationValue>
+            </lido:titleSet>
+         </lido:titleWrap>
+         <lido:repositoryWrap>
+            <lido:repositorySet lido:type="current">
+               <lido:repositoryName>
+                  <lido:legalBodyID lido:type="isil">DE-B185</lido:legalBodyID>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+                  </lido:legalBodyName>
+                  <lido:legalBodyWeblink>http://geschichte-brandenburg.de/</lido:legalBodyWeblink>
+               </lido:repositoryName>
+               <lido:workID lido:type="inventory number">LGV-Archiv, C 12 G-2-019</lido:workID>
+               <lido:repositoryLocation>
+                  <lido:namePlaceSet>
+                     <lido:appellationValue>Berlin</lido:appellationValue>
+                  </lido:namePlaceSet>
+                  <lido:gml>
+                     <gml:Point xmlns:gml="http://www.opengis.net/gml" srsName="EPSG:4326">
+                        <gml:pos>52.51533127 13.40440559</gml:pos>
+                     </gml:Point>
+                  </lido:gml>
+               </lido:repositoryLocation>
+            </lido:repositorySet>
+         </lido:repositoryWrap>
+         <lido:objectDescriptionWrap>
+            <lido:objectDescriptionSet>
+               <lido:descriptiveNoteValue>Es handelt sich um die erste von zwei Ausklapp-Ahnentafeln, die dem Artikel "Marschall, (Herrn von)" des Universallexikons von Johann Heinrich Zedler (1706-1751) (Bd. 19, 1739, zwischen Sp. 1708 und 1709) beigegeben sind. Der Text des Artikels (Sp. 1702-1715) ist zu großen Teilen dem Nachweis adliger Herkunft für den in preußischen Diensten unter König Friedrich Wilhelm I. und Friedrich II. bekannt gewordenen Minister Samuel von Marschall (1683-1849) gewidmet. Dessen aus Schottland nach Ostpreußen ausgewanderter Vater Andreas Marishall de Clothoderick (1643-1695) ist der Proband der von dem schottischen Wappenkönig (rex armorum) Alex(ande)r-Areskine Leo aufgestellten bzw. unterzeichneten ("Subscrips.") Aufschwörungstafel (Wappen-Ahnentafel), die in der obersten Generation die Namen und Wappen der 16 Ururgroßeltern zeigt. König Friedrich Wilhelm I. hatte seinem Minister Samuel von Marschall 1717 nach Vorlage entsprechender Dokumente den in Schottland geführten Adel für die preußischen Lande als "von Marschall" bestätigt. Unter die Ahnentafel ist ein (gedrucktes, undatiertes) Textfeld gesetzt, in dem der Königlich preußische Geheime Rat und erste Archivar Johann Conrad von der Lith (1689-1760) die Richtigkeit des "Abdruck(s) mit dem mir vorgezeigten Original" beglaubigt. Liths Bestätigung stammt im handschriftlchen Original wohl von 1736. Der Berliner Kupferstecher Georg Paul Busch, dessen Signatur allerdings oberhalb dieses Textes steht, hat die auf einer Edinburger Zeichnung basierende Tafel demnach wohl zwischen 1736 und 1739 gestochen.&#xD;
+&#xD;
+Ahnentafel bez. li. u. "Joannes Glendonyng pinxit Edinburgi", re. u. "G. P. Busch sculpsit Berolini".&#xD;
+Oben am re. Rand: "Univers. Lexici Theil XIX p. 1707."&#xD;
+Erworben 1983 (Nachlass Pfarrer Johannes Körber).&#xD;
+&#xD;
+Literatur: Johann Heinrich Zedler: Grosses vollständiges Universal-Lexicon aller Wissenschaften und Künste. Bd. 19. Halle u. Leipzig 1739, Sp. 1702-1715.</lido:descriptiveNoteValue>
+               <lido:sourceDescriptiveNote>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:sourceDescriptiveNote>
+            </lido:objectDescriptionSet>
+         </lido:objectDescriptionWrap>
+         <lido:objectMeasurementsWrap>
+            <lido:objectMeasurementsSet>
+               <lido:displayObjectMeasurements>Blattgröße: Höhe 50 cm, Breite 38,2 cm</lido:displayObjectMeasurements>
+               <lido:objectMeasurements/>
+            </lido:objectMeasurementsSet>
+         </lido:objectMeasurementsWrap>
+      </lido:objectIdentificationWrap>
+      <lido:eventWrap>
+         <lido:eventSet>
+            <lido:event>
+               <lido:eventType>
+                  <lido:conceptID lido:type="uri">https://event-types.museum-digital.org/1</lido:conceptID>
+                  <lido:term lido:addedSearchTerm="no">Hergestellt</lido:term>
+               </lido:eventType>
+               <lido:eventActor>
+                  <lido:displayActorInRole>Georg Paul Busch (-1756)</lido:displayActorInRole>
+                  <lido:actorInRole>
+                     <lido:actor>
+                        <lido:actorID lido:source="bnf" lido:type="uri">https://catalogue.bnf.fr/ark:/12148/cb153419091</lido:actorID>
+                        <lido:actorID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/12308007X</lido:actorID>
+                        <lido:actorID lido:source="loc" lido:type="uri">http://id.loc.gov/authorities/names/no2017057135</lido:actorID>
+                        <lido:actorID lido:source="ulan" lido:type="uri">http://vocab.getty.edu/ulan/500096103</lido:actorID>
+                        <lido:actorID lido:source="viaf" lido:type="uri">https://viaf.org/viaf/59981811</lido:actorID>
+                        <lido:actorID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q21349494</lido:actorID>
+                        <lido:actorID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/persinst/124940</lido:actorID>
+                        <lido:nameActorSet>
+                           <lido:appellationValue>Busch, Georg Paul</lido:appellationValue>
+                           <lido:appellationValue xml:lang="en">Georg Paul Busch</lido:appellationValue>
+                           <lido:appellationValue xml:lang="es">Georg Paul Busch</lido:appellationValue>
+                           <lido:appellationValue xml:lang="nl">Georg Paul Busch</lido:appellationValue>
+                        </lido:nameActorSet>
+                        <lido:vitalDatesActor>
+                           <lido:earliestDate/>
+                           <lido:latestDate>1756</lido:latestDate>
+                        </lido:vitalDatesActor>
+                     </lido:actor>
+                  </lido:actorInRole>
+               </lido:eventActor>
+               <lido:eventDate>
+                  <lido:displayDate>1707</lido:displayDate>
+                  <lido:displayDate xml:lang="ar">1707</lido:displayDate>
+                  <lido:displayDate xml:lang="de">1707</lido:displayDate>
+                  <lido:displayDate xml:lang="en">1707</lido:displayDate>
+                  <lido:displayDate xml:lang="es">1707</lido:displayDate>
+                  <lido:displayDate xml:lang="fa">1707</lido:displayDate>
+                  <lido:displayDate xml:lang="fr">1707</lido:displayDate>
+                  <lido:displayDate xml:lang="hu">1707</lido:displayDate>
+                  <lido:displayDate xml:lang="id">1707</lido:displayDate>
+                  <lido:displayDate xml:lang="it">1707</lido:displayDate>
+                  <lido:displayDate xml:lang="ja">1707年</lido:displayDate>
+                  <lido:displayDate xml:lang="ka">1707</lido:displayDate>
+                  <lido:displayDate xml:lang="ko">1707년</lido:displayDate>
+                  <lido:displayDate xml:lang="pl">1707</lido:displayDate>
+                  <lido:displayDate xml:lang="pt">1707</lido:displayDate>
+                  <lido:displayDate xml:lang="ro">1707</lido:displayDate>
+                  <lido:displayDate xml:lang="ru">1707</lido:displayDate>
+                  <lido:displayDate xml:lang="ta">1707</lido:displayDate>
+                  <lido:displayDate xml:lang="tl">1707</lido:displayDate>
+                  <lido:displayDate xml:lang="tr">1707</lido:displayDate>
+                  <lido:displayDate xml:lang="zh">1707年</lido:displayDate>
+                  <lido:date>
+                     <lido:earliestDate>1707</lido:earliestDate>
+                     <lido:latestDate>1707</lido:latestDate>
+                  </lido:date>
+               </lido:eventDate>
+               <lido:eventPlace>
+                  <lido:displayPlace>Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ar">برلين</lido:displayPlace>
+                  <lido:displayPlace xml:lang="bn">বার্লিন</lido:displayPlace>
+                  <lido:displayPlace xml:lang="cs">Berlín</lido:displayPlace>
+                  <lido:displayPlace xml:lang="da">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="de">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="el">Βερολίνο</lido:displayPlace>
+                  <lido:displayPlace xml:lang="en">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="es">Berlín</lido:displayPlace>
+                  <lido:displayPlace xml:lang="fa">برلین</lido:displayPlace>
+                  <lido:displayPlace xml:lang="fi">Berliini</lido:displayPlace>
+                  <lido:displayPlace xml:lang="fr">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ha">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="he">ברלין</lido:displayPlace>
+                  <lido:displayPlace xml:lang="hi">बर्लिन</lido:displayPlace>
+                  <lido:displayPlace xml:lang="hu">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="id">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="it">Berlino</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ja">ベルリン</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ka">ბერლინი</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ko">베를린</lido:displayPlace>
+                  <lido:displayPlace xml:lang="nl">Berlijn</lido:displayPlace>
+                  <lido:displayPlace xml:lang="pl">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="pt">Berlim</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ro">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ru">Берлин</lido:displayPlace>
+                  <lido:displayPlace xml:lang="sv">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="sw">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ta">பெர்லின்</lido:displayPlace>
+                  <lido:displayPlace xml:lang="th">เบอร์ลิน</lido:displayPlace>
+                  <lido:displayPlace xml:lang="tl">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="tr">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ur">برلن</lido:displayPlace>
+                  <lido:displayPlace xml:lang="vi">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="zh">柏林</lido:displayPlace>
+                  <lido:place>
+                     <lido:placeID lido:source="geonames" lido:type="uri">https://sws.geonames.org/2950159</lido:placeID>
+                     <lido:placeID lido:source="TGN" lido:type="uri">http://vocab.getty.edu/tgn/7209904</lido:placeID>
+                     <lido:placeID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4005728-8</lido:placeID>
+                     <lido:placeID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q64</lido:placeID>
+                     <lido:placeID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/place/61</lido:placeID>
+                     <lido:namePlaceSet>
+                        <lido:appellationValue>Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ar">برلين</lido:appellationValue>
+                        <lido:appellationValue xml:lang="bn">বার্লিন</lido:appellationValue>
+                        <lido:appellationValue xml:lang="cs">Berlín</lido:appellationValue>
+                        <lido:appellationValue xml:lang="da">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="de">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="el">Βερολίνο</lido:appellationValue>
+                        <lido:appellationValue xml:lang="en">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="es">Berlín</lido:appellationValue>
+                        <lido:appellationValue xml:lang="fa">برلین</lido:appellationValue>
+                        <lido:appellationValue xml:lang="fi">Berliini</lido:appellationValue>
+                        <lido:appellationValue xml:lang="fr">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ha">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="he">ברלין</lido:appellationValue>
+                        <lido:appellationValue xml:lang="hi">बर्लिन</lido:appellationValue>
+                        <lido:appellationValue xml:lang="hu">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="id">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="it">Berlino</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ja">ベルリン</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ka">ბერლინი</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ko">베를린</lido:appellationValue>
+                        <lido:appellationValue xml:lang="nl">Berlijn</lido:appellationValue>
+                        <lido:appellationValue xml:lang="pl">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="pt">Berlim</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ro">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ru">Берлин</lido:appellationValue>
+                        <lido:appellationValue xml:lang="sv">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="sw">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ta">பெர்லின்</lido:appellationValue>
+                        <lido:appellationValue xml:lang="th">เบอร์ลิน</lido:appellationValue>
+                        <lido:appellationValue xml:lang="tl">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="tr">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ur">برلن</lido:appellationValue>
+                        <lido:appellationValue xml:lang="vi">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="zh">柏林</lido:appellationValue>
+                     </lido:namePlaceSet>
+                     <lido:gml>
+                        <gml:Point xmlns:gml="http://www.opengis.net/gml" srsName="EPSG:4326">
+                           <gml:pos>52.516666412354 13.383333206177</gml:pos>
+                        </gml:Point>
+                     </lido:gml>
+                  </lido:place>
+               </lido:eventPlace>
+            </lido:event>
+         </lido:eventSet>
+         <lido:eventSet>
+            <lido:event>
+               <lido:eventType>
+                  <lido:conceptID lido:type="uri">http://terminology.lido-schema.org/lido00003</lido:conceptID>
+                  <lido:term>Event (non-specified)</lido:term>
+               </lido:eventType>
+               <lido:eventMaterialsTech>
+                  <lido:displayMaterialsTech>Kupferstich auf Kupferdruckpapier (Knickspuren, links Einriss)</lido:displayMaterialsTech>
+               </lido:eventMaterialsTech>
+            </lido:event>
+         </lido:eventSet>
+      </lido:eventWrap>
+      <lido:objectRelationWrap>
+         <lido:subjectWrap>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="aat" lido:type="uri">http://vocab.getty.edu/aat/300126352</lido:conceptID>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4064566-6</lido:conceptID>
+                     <lido:conceptID lido:source="grobsystematik" lido:type="uri">https://term.museum-digital.de/grobsystematik/tag/13943</lido:conceptID>
+                     <lido:conceptID lido:source="iconclass" lido:type="uri">http://iconclass.org/rkd/44B194/</lido:conceptID>
+                     <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh85060322</lido:conceptID>
+                     <lido:conceptID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q14659</lido:conceptID>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Wappen</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/192</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Wappen</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ar">شعار النبالة</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="bn">কুলপ্রতীক</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="cs">Erb</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="da">Våben</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="de">Wappen</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="el">οικόσημο</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="en">Coat of arms</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="es">Escudo de armas</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fa">نشان خانوادگی</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fi">Vaakuna</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fr">Blason</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="he">שלט אצולה</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hu">címer</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="id">Lambang kebesaran</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="it">Stemma</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ja">紋章</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ka">გერბი</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ko">문장</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="nl">Heraldisch wapen</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pl">Herb</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pt">Brasão</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ro">stemă</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ru">герб</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sv">Heraldiskt vapen</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="th">ตราอาร์ม</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tl">Eskudo de armas</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tr">Arma</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="vi">phù hiệu áo giáp</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="zh">紋章</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4072428-1</lido:conceptID>
+                     <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh85060322</lido:conceptID>
+                     <lido:conceptID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q18336</lido:conceptID>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Heraldik</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/1947</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Heraldik</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ar">علم شعارات النبالة</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="cs">Heraldika</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="da">Heraldik</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="de">Heraldik</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="el">Εραλδική</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="en">Heraldry</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="es">Heráldica</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fa">آرم‌شناسی</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fi">Heraldiikka</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fr">Héraldique</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="he">הרלדיקה</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hu">heraldika</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="id">Heraldik</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="it">Araldica</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ja">紋章学</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ka">ჰერალდიკა</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ko">문장학</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="nl">Heraldiek</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pl">Heraldyka</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pt">Heráldica</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ru">геральдика</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sv">Heraldik</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="th">มุทราศาสตร์</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tr">Heraldik</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="vi">Huy hiệu</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="zh">纹章学</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="aat" lido:type="uri">http://vocab.getty.edu/aat/300025942</lido:conceptID>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4000464-8</lido:conceptID>
+                     <lido:conceptID lido:source="iconclass" lido:type="uri">http://iconclass.org/rkd/46A12/</lido:conceptID>
+                     <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh85092138</lido:conceptID>
+                     <lido:conceptID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q134737</lido:conceptID>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Adel</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/3797</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Adel</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ar">نبيل</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="cs">šlechta</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="da">Adel</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="de">Adel</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="en">Nobility</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="es">Nobleza</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fa">نجیب‌زادگی</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fi">Aateli</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fr">Noblesse</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="he">אצולה</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hi">कुलीनवर्ग</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hu">nemesség</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="id">Bangsawan</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="it">Nobiltà</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ja">貴族</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ka">თავადაზნაურობა</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ko">귀족</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="nl">Adel</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pl">Szlachta</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pt">Nobreza</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ro">nobilime</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ru">дворянство</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sv">Adel</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="th">ชนชั้นขุนนาง</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tl">Kamaharlikahan</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tr">Asalet</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="vi">phong tước</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="zh">貴族</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/19004</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Genealogie</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="aat" lido:type="uri">https://vocab.getty.edu/page/aat/300027016</lido:conceptID>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">http://d-nb.info/gnd/4156582-4</lido:conceptID>
+                     <lido:conceptID lido:source="grobsystematik" lido:type="uri">https://term.museum-digital.de/grobsystematik/tag/tag/133</lido:conceptID>
+                     <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/gf2014026106</lido:conceptID>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Ahnentafel</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/30096</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Ahnentafel</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+         </lido:subjectWrap>
+         <lido:relatedWorksWrap/>
+      </lido:objectRelationWrap>
+   </lido:descriptiveMetadata>
+   <lido:administrativeMetadata xml:lang="de">
+      <lido:rightsWorkWrap>
+         <lido:rightsWorkSet>
+            <lido:rightsHolder>
+               <lido:legalBodyName>
+                  <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:rightsHolder>
+         </lido:rightsWorkSet>
+      </lido:rightsWorkWrap>
+      <lido:recordWrap>
+         <lido:recordID lido:type="museum-digital">66900</lido:recordID>
+         <lido:recordType>
+            <lido:term lido:addedSearchTerm="no">item</lido:term>
+         </lido:recordType>
+         <lido:recordSource lido:type="dataProvider">
+            <lido:legalBodyName>
+               <lido:appellationValue>museum-digital</lido:appellationValue>
+            </lido:legalBodyName>
+            <lido:legalBodyWeblink>https://berlin.museum-digital.de/</lido:legalBodyWeblink>
+         </lido:recordSource>
+         <lido:recordSource>
+            <lido:legalBodyID lido:type="isil">DE-B185</lido:legalBodyID>
+            <lido:legalBodyName>
+               <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+            </lido:legalBodyName>
+         </lido:recordSource>
+         <lido:recordRights>
+            <lido:rightsType>
+               <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no">CC BY</lido:term>
+            </lido:rightsType>
+            <lido:rightsHolder>
+               <lido:legalBodyID lido:type="isil">DE-B185</lido:legalBodyID>
+               <lido:legalBodyName>
+                  <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+               </lido:legalBodyName>
+               <lido:legalBodyWeblink>http://geschichte-brandenburg.de/</lido:legalBodyWeblink>
+            </lido:rightsHolder>
+            <lido:creditLine>Förderprogramm zur Digitalisierung von Objekten des kulturellen Erbes des Landes Berlin</lido:creditLine>
+         </lido:recordRights>
+         <lido:recordInfoSet>
+            <lido:recordInfoLink>https://berlin.museum-digital.de/index.php?t=objekt&amp;oges=66900</lido:recordInfoLink>
+            <lido:recordMetadataDate>2021-04-27 07:59:55</lido:recordMetadataDate>
+         </lido:recordInfoSet>
+      </lido:recordWrap>
+      <lido:resourceWrap>
+         <lido:resourceSet lido:sortorder="1">
+            <lido:resourceID lido:source="image" lido:type="local">48486</lido:resourceID>
+            <lido:resourceRepresentation lido:type="masterfile">
+               <lido:linkResource lido:formatResource="image/tiff"/>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_thumb">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/202007/100h_wappen-ahnentafel-fuer-andreas-marishall-de-clothoderick-1643-1695-66900.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_preview">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/202007/200w_wappen-ahnentafel-fuer-andreas-marishall-de-clothoderick-1643-1695-66900.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/202007/wappen-ahnentafel-fuer-andreas-marishall-de-clothoderick-1643-1695-66900.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceType>
+               <lido:term lido:addedSearchTerm="no">image</lido:term>
+            </lido:resourceType>
+            <lido:resourceRelType>
+               <lido:term lido:addedSearchTerm="no">Hauptansicht</lido:term>
+            </lido:resourceRelType>
+            <lido:resourceDescription>Wappen-Ahnentafel für Andreas Marishall de Clothoderick (1643-1695)</lido:resourceDescription>
+            <lido:resourceSource lido:type="creator">
+               <lido:legalBodyName>
+                  <lido:appellationValue>Thomas Voßbeck, 2020</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:resourceSource>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+                  <lido:term lido:addedSearchTerm="no">CC BY</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V.</lido:appellationValue>
+                  </lido:legalBodyName>
+               </lido:rightsHolder>
+               <lido:creditLine>Thomas Voßbeck, 2020</lido:creditLine>
+            </lido:rightsResource>
+         </lido:resourceSet>
+      </lido:resourceWrap>
+   </lido:administrativeMetadata>
+</lido:lido>
+

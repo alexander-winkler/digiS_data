@@ -1,0 +1,509 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lido:lido xmlns:lido="http://www.lido-schema.org"
+           xmlns:xalan="http://xml.apache.org/xalan">
+   <lido:lidoRecID lido:source="https://berlin.museum-digital.de/index.php?t=institution&amp;instnr=32"
+                   lido:type="local">DE-B185/67129</lido:lidoRecID>
+   <lido:category/>
+   <lido:descriptiveMetadata xml:lang="de">
+      <lido:objectClassificationWrap>
+         <lido:objectWorkTypeWrap>
+            <lido:objectWorkType>
+               <lido:conceptID lido:source="gnd" lido:type="uri">http://d-nb.info/gnd/4021845-4</lido:conceptID>
+               <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/13314</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Druckgraphik</lido:term>
+            </lido:objectWorkType>
+         </lido:objectWorkTypeWrap>
+         <lido:classificationWrap>
+            <lido:classification lido:type="Sammlung">
+               <lido:conceptID lido:source="local" lido:type="collection_id">705</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Handzeichnungen, Druckgraphik, Gemälde</lido:term>
+            </lido:classification>
+            <lido:classification lido:type="Sammlung">
+               <lido:conceptID lido:source="local" lido:type="collection_id">706</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Ansichten</lido:term>
+            </lido:classification>
+            <lido:classification lido:type="Sammlung">
+               <lido:conceptID lido:source="local" lido:type="collection_id">708</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Brandenburg</lido:term>
+            </lido:classification>
+         </lido:classificationWrap>
+      </lido:objectClassificationWrap>
+      <lido:objectIdentificationWrap>
+         <lido:titleWrap>
+            <lido:titleSet>
+               <lido:appellationValue lido:pref="preferred">Brandenburg an der Havel: Katharinenkirche, Nordkapelle</lido:appellationValue>
+            </lido:titleSet>
+         </lido:titleWrap>
+         <lido:repositoryWrap>
+            <lido:repositorySet lido:type="current">
+               <lido:repositoryName>
+                  <lido:legalBodyID lido:type="isil">DE-B185</lido:legalBodyID>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+                  </lido:legalBodyName>
+                  <lido:legalBodyWeblink>http://geschichte-brandenburg.de/</lido:legalBodyWeblink>
+               </lido:repositoryName>
+               <lido:workID lido:type="inventory number">LGV-Archiv, C 12 G-4-055</lido:workID>
+               <lido:repositoryLocation>
+                  <lido:namePlaceSet>
+                     <lido:appellationValue>Berlin</lido:appellationValue>
+                  </lido:namePlaceSet>
+                  <lido:gml>
+                     <gml:Point xmlns:gml="http://www.opengis.net/gml" srsName="EPSG:4326">
+                        <gml:pos>52.51533127 13.40440559</gml:pos>
+                     </gml:Point>
+                  </lido:gml>
+               </lido:repositoryLocation>
+            </lido:repositorySet>
+         </lido:repositoryWrap>
+         <lido:objectDescriptionWrap>
+            <lido:objectDescriptionSet>
+               <lido:descriptiveNoteValue>Aufriss der spätgotischen Fassade der Nordkapelle der Katharinenkirche, Hauptpfarrkirche der Neustadt.
+Das Blatt hat auf der Rückseite Text und stammt offensichtlich aus einem Buch, das jedoch bisher nicht identifiziert werden konnte. Die Tatsache, dass es sich um eine seitenverkehrte Darstellung handelt, könnte, ebenso wie die falsche Bezeichnung als Marienkirche, darauf hindeuten, dass es aus einem allgemeinen Tafelwerk zur (mittelalterlichen) Architektur aus der Mitte des 19. Jahrhunderts stammt, dessen Autor sich mit Brandenburg nicht so genau auskannte.
+
+Bez. mi. u. "Theil der Facade der Marien [handschr. gestrichen und verbessert in: Katharinenkirche] kirche in Brandenburg an der Havel.", mi. o. "Fig. 366."
+Das Blatt ist alt passepartouriert und verklebt.
+Altbestand des Archivs.</lido:descriptiveNoteValue>
+               <lido:sourceDescriptiveNote>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:sourceDescriptiveNote>
+            </lido:objectDescriptionSet>
+         </lido:objectDescriptionWrap>
+         <lido:objectMeasurementsWrap>
+            <lido:objectMeasurementsSet>
+               <lido:displayObjectMeasurements>Blattgröße: Höhe 20,8 cm, Breite 13,5 cm ; Bildgröße: Höhe 9,4 cm, Breite 7 cm</lido:displayObjectMeasurements>
+               <lido:objectMeasurements/>
+            </lido:objectMeasurementsSet>
+         </lido:objectMeasurementsWrap>
+      </lido:objectIdentificationWrap>
+      <lido:eventWrap>
+         <lido:eventSet>
+            <lido:event>
+               <lido:eventType>
+                  <lido:conceptID lido:type="uri">https://event-types.museum-digital.org/1</lido:conceptID>
+                  <lido:term lido:addedSearchTerm="no">Hergestellt</lido:term>
+               </lido:eventType>
+               <lido:eventDate>
+                  <lido:displayDate>1900 (wahrscheinlich)</lido:displayDate>
+                  <lido:displayDate xml:lang="ar">1900</lido:displayDate>
+                  <lido:displayDate xml:lang="de">1900</lido:displayDate>
+                  <lido:displayDate xml:lang="en">1900</lido:displayDate>
+                  <lido:displayDate xml:lang="es">1900</lido:displayDate>
+                  <lido:displayDate xml:lang="fa">1900</lido:displayDate>
+                  <lido:displayDate xml:lang="fr">1900</lido:displayDate>
+                  <lido:displayDate xml:lang="hu">1900</lido:displayDate>
+                  <lido:displayDate xml:lang="id">1900</lido:displayDate>
+                  <lido:displayDate xml:lang="it">1900</lido:displayDate>
+                  <lido:displayDate xml:lang="ja">1900年</lido:displayDate>
+                  <lido:displayDate xml:lang="ka">1900</lido:displayDate>
+                  <lido:displayDate xml:lang="ko">1900년</lido:displayDate>
+                  <lido:displayDate xml:lang="pl">1900</lido:displayDate>
+                  <lido:displayDate xml:lang="pt">1900</lido:displayDate>
+                  <lido:displayDate xml:lang="ro">1900</lido:displayDate>
+                  <lido:displayDate xml:lang="ru">1900</lido:displayDate>
+                  <lido:displayDate xml:lang="ta">1900</lido:displayDate>
+                  <lido:displayDate xml:lang="tl">1900</lido:displayDate>
+                  <lido:displayDate xml:lang="tr">1900</lido:displayDate>
+                  <lido:displayDate xml:lang="zh">1900年</lido:displayDate>
+                  <lido:date>
+                     <lido:earliestDate>1900</lido:earliestDate>
+                     <lido:latestDate>1900</lido:latestDate>
+                  </lido:date>
+               </lido:eventDate>
+            </lido:event>
+         </lido:eventSet>
+         <lido:eventSet>
+            <lido:event>
+               <lido:eventType>
+                  <lido:conceptID lido:type="uri">http://terminology.lido-schema.org/lido00003</lido:conceptID>
+                  <lido:term>Event (non-specified)</lido:term>
+               </lido:eventType>
+               <lido:eventMaterialsTech>
+                  <lido:displayMaterialsTech>Holzstich auf dünnem Papier</lido:displayMaterialsTech>
+               </lido:eventMaterialsTech>
+            </lido:event>
+         </lido:eventSet>
+      </lido:eventWrap>
+      <lido:objectRelationWrap>
+         <lido:subjectWrap>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectPlace>
+                     <lido:displayPlace>Brandenburg</lido:displayPlace>
+                     <lido:displayPlace xml:lang="ar">براندنبورغ</lido:displayPlace>
+                     <lido:displayPlace xml:lang="bn">ব্রান্ডেনবুর্গ</lido:displayPlace>
+                     <lido:displayPlace xml:lang="cs">Braniborsko</lido:displayPlace>
+                     <lido:displayPlace xml:lang="da">Brandenburg</lido:displayPlace>
+                     <lido:displayPlace xml:lang="de">Brandenburg</lido:displayPlace>
+                     <lido:displayPlace xml:lang="el">Βρανδεμβούργο</lido:displayPlace>
+                     <lido:displayPlace xml:lang="en">Brandenburg</lido:displayPlace>
+                     <lido:displayPlace xml:lang="es">Brandeburgo</lido:displayPlace>
+                     <lido:displayPlace xml:lang="fa">براندنبورگ</lido:displayPlace>
+                     <lido:displayPlace xml:lang="fi">Brandenburg</lido:displayPlace>
+                     <lido:displayPlace xml:lang="fr">Brandebourg</lido:displayPlace>
+                     <lido:displayPlace xml:lang="he">ברנדנבורג</lido:displayPlace>
+                     <lido:displayPlace xml:lang="hi">ब्रैंडेनबर्ग</lido:displayPlace>
+                     <lido:displayPlace xml:lang="hu">Brandenburg</lido:displayPlace>
+                     <lido:displayPlace xml:lang="id">Brandenburg</lido:displayPlace>
+                     <lido:displayPlace xml:lang="it">Brandeburgo</lido:displayPlace>
+                     <lido:displayPlace xml:lang="ja">ブランデンブルク州</lido:displayPlace>
+                     <lido:displayPlace xml:lang="ka">ბრანდენბურგის მხარე</lido:displayPlace>
+                     <lido:displayPlace xml:lang="ko">브란덴부르크주</lido:displayPlace>
+                     <lido:displayPlace xml:lang="nl">Brandenburg (deelstaat)</lido:displayPlace>
+                     <lido:displayPlace xml:lang="pl">Brandenburgia</lido:displayPlace>
+                     <lido:displayPlace xml:lang="pt">Brandemburgo</lido:displayPlace>
+                     <lido:displayPlace xml:lang="ro">Brandenburg</lido:displayPlace>
+                     <lido:displayPlace xml:lang="ru">Бранденбург</lido:displayPlace>
+                     <lido:displayPlace xml:lang="sv">Brandenburg</lido:displayPlace>
+                     <lido:displayPlace xml:lang="sw">Brandenburg</lido:displayPlace>
+                     <lido:displayPlace xml:lang="ta">பிரண்டென்பேர்க்</lido:displayPlace>
+                     <lido:displayPlace xml:lang="th">รัฐบรันเดินบวร์ค</lido:displayPlace>
+                     <lido:displayPlace xml:lang="tl">Brandeburgo</lido:displayPlace>
+                     <lido:displayPlace xml:lang="tr">Brandenburg</lido:displayPlace>
+                     <lido:displayPlace xml:lang="ur">برندن برک</lido:displayPlace>
+                     <lido:displayPlace xml:lang="vi">Brandenburg</lido:displayPlace>
+                     <lido:displayPlace xml:lang="zh">勃兰登堡</lido:displayPlace>
+                     <lido:place>
+                        <lido:placeID lido:source="geonames" lido:type="uri">https://sws.geonames.org/2945356</lido:placeID>
+                        <lido:placeID lido:source="TGN" lido:type="uri">http://vocab.getty.edu/tgn/7201651</lido:placeID>
+                        <lido:placeID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4007955-7</lido:placeID>
+                        <lido:placeID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q1208</lido:placeID>
+                        <lido:placeID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/place/2334</lido:placeID>
+                        <lido:namePlaceSet>
+                           <lido:appellationValue>Brandenburg</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ar">براندنبورغ</lido:appellationValue>
+                           <lido:appellationValue xml:lang="bn">ব্রান্ডেনবুর্গ</lido:appellationValue>
+                           <lido:appellationValue xml:lang="cs">Braniborsko</lido:appellationValue>
+                           <lido:appellationValue xml:lang="da">Brandenburg</lido:appellationValue>
+                           <lido:appellationValue xml:lang="de">Brandenburg</lido:appellationValue>
+                           <lido:appellationValue xml:lang="el">Βρανδεμβούργο</lido:appellationValue>
+                           <lido:appellationValue xml:lang="en">Brandenburg</lido:appellationValue>
+                           <lido:appellationValue xml:lang="es">Brandeburgo</lido:appellationValue>
+                           <lido:appellationValue xml:lang="fa">براندنبورگ</lido:appellationValue>
+                           <lido:appellationValue xml:lang="fi">Brandenburg</lido:appellationValue>
+                           <lido:appellationValue xml:lang="fr">Brandebourg</lido:appellationValue>
+                           <lido:appellationValue xml:lang="he">ברנדנבורג</lido:appellationValue>
+                           <lido:appellationValue xml:lang="hi">ब्रैंडेनबर्ग</lido:appellationValue>
+                           <lido:appellationValue xml:lang="hu">Brandenburg</lido:appellationValue>
+                           <lido:appellationValue xml:lang="id">Brandenburg</lido:appellationValue>
+                           <lido:appellationValue xml:lang="it">Brandeburgo</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ja">ブランデンブルク州</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ka">ბრანდენბურგის მხარე</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ko">브란덴부르크주</lido:appellationValue>
+                           <lido:appellationValue xml:lang="nl">Brandenburg (deelstaat)</lido:appellationValue>
+                           <lido:appellationValue xml:lang="pl">Brandenburgia</lido:appellationValue>
+                           <lido:appellationValue xml:lang="pt">Brandemburgo</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ro">Brandenburg</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ru">Бранденбург</lido:appellationValue>
+                           <lido:appellationValue xml:lang="sv">Brandenburg</lido:appellationValue>
+                           <lido:appellationValue xml:lang="sw">Brandenburg</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ta">பிரண்டென்பேர்க்</lido:appellationValue>
+                           <lido:appellationValue xml:lang="th">รัฐบรันเดินบวร์ค</lido:appellationValue>
+                           <lido:appellationValue xml:lang="tl">Brandeburgo</lido:appellationValue>
+                           <lido:appellationValue xml:lang="tr">Brandenburg</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ur">برندن برک</lido:appellationValue>
+                           <lido:appellationValue xml:lang="vi">Brandenburg</lido:appellationValue>
+                           <lido:appellationValue xml:lang="zh">勃兰登堡</lido:appellationValue>
+                        </lido:namePlaceSet>
+                        <lido:gml>
+                           <gml:Point xmlns:gml="http://www.opengis.net/gml" srsName="EPSG:4326">
+                              <gml:pos>52.361946105957 13.008055686951</gml:pos>
+                           </gml:Point>
+                        </lido:gml>
+                     </lido:place>
+                  </lido:subjectPlace>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectPlace>
+                     <lido:displayPlace>Brandenburg an der Havel</lido:displayPlace>
+                     <lido:displayPlace xml:lang="ar">براندنبورغ آن در هافل</lido:displayPlace>
+                     <lido:displayPlace xml:lang="cs">Brandenburg an der Havel</lido:displayPlace>
+                     <lido:displayPlace xml:lang="da">Brandenburg an der Havel</lido:displayPlace>
+                     <lido:displayPlace xml:lang="de">Brandenburg an der Havel</lido:displayPlace>
+                     <lido:displayPlace xml:lang="en">Brandenburg an der Havel</lido:displayPlace>
+                     <lido:displayPlace xml:lang="es">Brandeburgo</lido:displayPlace>
+                     <lido:displayPlace xml:lang="fa">برندنبورگ آن در هاول</lido:displayPlace>
+                     <lido:displayPlace xml:lang="fi">Brandenburg an der Havel</lido:displayPlace>
+                     <lido:displayPlace xml:lang="fr">Brandebourg-sur-la-Havel</lido:displayPlace>
+                     <lido:displayPlace xml:lang="he">ברנדנבורג</lido:displayPlace>
+                     <lido:displayPlace xml:lang="hu">Brandenburg an der Havel</lido:displayPlace>
+                     <lido:displayPlace xml:lang="id">Brandenburg an der Havel</lido:displayPlace>
+                     <lido:displayPlace xml:lang="it">Brandeburgo sulla Havel</lido:displayPlace>
+                     <lido:displayPlace xml:lang="ja">ブランデンブルク・アン・デア・ハーフェル</lido:displayPlace>
+                     <lido:displayPlace xml:lang="ka">ბრანდენბურგი</lido:displayPlace>
+                     <lido:displayPlace xml:lang="ko">브란덴부르크안데어하펠</lido:displayPlace>
+                     <lido:displayPlace xml:lang="nl">Brandenburg an der Havel</lido:displayPlace>
+                     <lido:displayPlace xml:lang="pl">Brandenburg an der Havel</lido:displayPlace>
+                     <lido:displayPlace xml:lang="pt">Brandenburg an der Havel</lido:displayPlace>
+                     <lido:displayPlace xml:lang="ru">Бран­ден­бург-ан-дер-Ха­фель</lido:displayPlace>
+                     <lido:displayPlace xml:lang="sv">Brandenburg an der Havel</lido:displayPlace>
+                     <lido:displayPlace xml:lang="tr">Brandenburg an der Havel</lido:displayPlace>
+                     <lido:displayPlace xml:lang="vi">Brandenburg an der Havel</lido:displayPlace>
+                     <lido:displayPlace xml:lang="zh">哈弗尔河畔勃兰登堡</lido:displayPlace>
+                     <lido:place>
+                        <lido:placeID lido:source="geonames" lido:type="uri">https://sws.geonames.org/2945354</lido:placeID>
+                        <lido:placeID lido:source="TGN" lido:type="uri">http://vocab.getty.edu/tgn/7004462</lido:placeID>
+                        <lido:placeID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4007956-9</lido:placeID>
+                        <lido:placeID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q3931</lido:placeID>
+                        <lido:placeID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/place/246</lido:placeID>
+                        <lido:namePlaceSet>
+                           <lido:appellationValue>Brandenburg an der Havel</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ar">براندنبورغ آن در هافل</lido:appellationValue>
+                           <lido:appellationValue xml:lang="cs">Brandenburg an der Havel</lido:appellationValue>
+                           <lido:appellationValue xml:lang="da">Brandenburg an der Havel</lido:appellationValue>
+                           <lido:appellationValue xml:lang="de">Brandenburg an der Havel</lido:appellationValue>
+                           <lido:appellationValue xml:lang="en">Brandenburg an der Havel</lido:appellationValue>
+                           <lido:appellationValue xml:lang="es">Brandeburgo</lido:appellationValue>
+                           <lido:appellationValue xml:lang="fa">برندنبورگ آن در هاول</lido:appellationValue>
+                           <lido:appellationValue xml:lang="fi">Brandenburg an der Havel</lido:appellationValue>
+                           <lido:appellationValue xml:lang="fr">Brandebourg-sur-la-Havel</lido:appellationValue>
+                           <lido:appellationValue xml:lang="he">ברנדנבורג</lido:appellationValue>
+                           <lido:appellationValue xml:lang="hu">Brandenburg an der Havel</lido:appellationValue>
+                           <lido:appellationValue xml:lang="id">Brandenburg an der Havel</lido:appellationValue>
+                           <lido:appellationValue xml:lang="it">Brandeburgo sulla Havel</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ja">ブランデンブルク・アン・デア・ハーフェル</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ka">ბრანდენბურგი</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ko">브란덴부르크안데어하펠</lido:appellationValue>
+                           <lido:appellationValue xml:lang="nl">Brandenburg an der Havel</lido:appellationValue>
+                           <lido:appellationValue xml:lang="pl">Brandenburg an der Havel</lido:appellationValue>
+                           <lido:appellationValue xml:lang="pt">Brandenburg an der Havel</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ru">Бран­ден­бург-ан-дер-Ха­фель</lido:appellationValue>
+                           <lido:appellationValue xml:lang="sv">Brandenburg an der Havel</lido:appellationValue>
+                           <lido:appellationValue xml:lang="tr">Brandenburg an der Havel</lido:appellationValue>
+                           <lido:appellationValue xml:lang="vi">Brandenburg an der Havel</lido:appellationValue>
+                           <lido:appellationValue xml:lang="zh">哈弗尔河畔勃兰登堡</lido:appellationValue>
+                        </lido:namePlaceSet>
+                        <lido:gml>
+                           <gml:Point xmlns:gml="http://www.opengis.net/gml" srsName="EPSG:4326">
+                              <gml:pos>52.411666870117 12.556111335754</gml:pos>
+                           </gml:Point>
+                        </lido:gml>
+                     </lido:place>
+                  </lido:subjectPlace>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="aat" lido:type="uri">http://vocab.getty.edu/aat/300054156</lido:conceptID>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4002851-3</lido:conceptID>
+                     <lido:conceptID lido:source="iconclass" lido:type="uri">http://iconclass.org/rkd/48C1/</lido:conceptID>
+                     <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh85006611</lido:conceptID>
+                     <lido:conceptID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q12271</lido:conceptID>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Architektur</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/800</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Architektur</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ar">عمارة</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="bn">স্থাপত্য</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="cs">Architektura</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="da">Arkitektur</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="de">Architektur</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="el">αρχιτεκτονική</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="en">Architecture</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="es">Arquitectura</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fa">معماری</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fi">Arkkitehtuuri</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fr">Architecture</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="he">אדריכלות</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hi">वास्तुशास्त्र</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hu">építészet</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="id">Arsitektur</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="it">Architettura</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ja">建築</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ka">არქიტექტურა</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ko">건축</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="nl">Architectuur</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pl">Architektura</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pt">Arquitetura</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ro">arhitectură</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ru">архитектура</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sv">Arkitektur</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sw">Ujenzi</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ta">கட்டிடக்கலை</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="th">สถาปัตยกรรม</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tl">Arkitektura</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tr">Mimarlık</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ur">معماری</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="vi">kiến trúc</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="zh">建筑</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="aat" lido:type="uri">http://vocab.getty.edu/aat/300002526</lido:conceptID>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4016507-3</lido:conceptID>
+                     <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh85046782</lido:conceptID>
+                     <lido:conceptID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q183061</lido:conceptID>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Fassade</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/7848</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Fassade</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ar">واجهة المبنى</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="cs">Fasáda</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="da">Facade</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="de">Fassade</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="el">πρόσοψη</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="en">Facade</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="es">Fachada</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fa">نما</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fi">Julkisivu</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fr">Façade</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="he">חזית (אדריכלות)</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hu">oromzat</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="id">Fasad</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="it">Facciata</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ja">ファサード</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ko">파사드</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="nl">Gevel</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pl">Fasada</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pt">Fachada</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ru">фасад</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sv">Fasad</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="th">ด้านหน้าอาคาร</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tr">Cephe</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="vi">Facade</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="zh">立面</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4021845-4</lido:conceptID>
+                     <lido:conceptID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q1027879</lido:conceptID>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">https://en.wikipedia.org/wiki/Graphics</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/13314</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Druckgraphik</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ar">رسوميات</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="bn">গ্রাফিক্স</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="cs">Grafika</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="de">Druckgraphik</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="el">Γραφικά</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="en">Graphics</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="es">gráficos</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fa">ارتباط تصویری</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fr">Graphique</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="he">גרפיקה</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hi">चित्रालेख</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hu">Grafika</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="id">Grafika</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ja">グラフィック</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ka">გრაფიკა</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ko">그래픽</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="nl">Grafiek</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pl">Grafika</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pt">Gráfico</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ro">grafică</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ru">графика</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ta">வரைகலை</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tr">Grafik</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ur">تخطیط</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="zh">图形</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">http://d-nb.info/gnd/4122869-8</lido:conceptID>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Backsteingotik</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/21422</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Backsteingotik</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+         </lido:subjectWrap>
+         <lido:relatedWorksWrap/>
+      </lido:objectRelationWrap>
+   </lido:descriptiveMetadata>
+   <lido:administrativeMetadata xml:lang="de">
+      <lido:rightsWorkWrap>
+         <lido:rightsWorkSet>
+            <lido:rightsHolder>
+               <lido:legalBodyName>
+                  <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:rightsHolder>
+         </lido:rightsWorkSet>
+      </lido:rightsWorkWrap>
+      <lido:recordWrap>
+         <lido:recordID lido:type="museum-digital">67129</lido:recordID>
+         <lido:recordType>
+            <lido:term lido:addedSearchTerm="no">item</lido:term>
+         </lido:recordType>
+         <lido:recordSource lido:type="dataProvider">
+            <lido:legalBodyName>
+               <lido:appellationValue>museum-digital</lido:appellationValue>
+            </lido:legalBodyName>
+            <lido:legalBodyWeblink>https://berlin.museum-digital.de/</lido:legalBodyWeblink>
+         </lido:recordSource>
+         <lido:recordSource>
+            <lido:legalBodyID lido:type="isil">DE-B185</lido:legalBodyID>
+            <lido:legalBodyName>
+               <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+            </lido:legalBodyName>
+         </lido:recordSource>
+         <lido:recordRights>
+            <lido:rightsType>
+               <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no">CC BY</lido:term>
+            </lido:rightsType>
+            <lido:rightsHolder>
+               <lido:legalBodyID lido:type="isil">DE-B185</lido:legalBodyID>
+               <lido:legalBodyName>
+                  <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+               </lido:legalBodyName>
+               <lido:legalBodyWeblink>http://geschichte-brandenburg.de/</lido:legalBodyWeblink>
+            </lido:rightsHolder>
+            <lido:creditLine>Förderprogramm zur Digitalisierung von Objekten des kulturellen Erbes des Landes Berlin</lido:creditLine>
+         </lido:recordRights>
+         <lido:recordInfoSet>
+            <lido:recordInfoLink>https://berlin.museum-digital.de/index.php?t=objekt&amp;oges=67129</lido:recordInfoLink>
+            <lido:recordMetadataDate>2021-04-27 07:59:54</lido:recordMetadataDate>
+         </lido:recordInfoSet>
+      </lido:recordWrap>
+      <lido:resourceWrap>
+         <lido:resourceSet lido:sortorder="1">
+            <lido:resourceID lido:source="image" lido:type="local">48712</lido:resourceID>
+            <lido:resourceRepresentation lido:type="masterfile">
+               <lido:linkResource lido:formatResource="image/tiff"/>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_thumb">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/202007/100h_brandenburg-an-der-havel-katharinenkirche-nordkapelle-67129.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_preview">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/202007/200w_brandenburg-an-der-havel-katharinenkirche-nordkapelle-67129.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/202007/brandenburg-an-der-havel-katharinenkirche-nordkapelle-67129.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceType>
+               <lido:term lido:addedSearchTerm="no">image</lido:term>
+            </lido:resourceType>
+            <lido:resourceRelType>
+               <lido:term lido:addedSearchTerm="no">Hauptansicht</lido:term>
+            </lido:resourceRelType>
+            <lido:resourceDescription>Brandenburg an der Havel: Katharinenkirche, Nordkapelle</lido:resourceDescription>
+            <lido:resourceSource lido:type="creator">
+               <lido:legalBodyName>
+                  <lido:appellationValue>Thomas Voßbeck, 2020</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:resourceSource>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+                  <lido:term lido:addedSearchTerm="no">CC BY</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V.</lido:appellationValue>
+                  </lido:legalBodyName>
+               </lido:rightsHolder>
+               <lido:creditLine>Thomas Voßbeck, 2020</lido:creditLine>
+            </lido:rightsResource>
+         </lido:resourceSet>
+      </lido:resourceWrap>
+   </lido:administrativeMetadata>
+</lido:lido>
+

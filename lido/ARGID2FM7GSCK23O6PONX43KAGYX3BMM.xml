@@ -1,0 +1,435 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lido:lido xmlns:lido="http://www.lido-schema.org"
+           xmlns:xalan="http://xml.apache.org/xalan">
+   <lido:lidoRecID lido:source="https://berlin.museum-digital.de/index.php?t=institution&amp;instnr=32"
+                   lido:type="local">DE-B185/67136</lido:lidoRecID>
+   <lido:category/>
+   <lido:descriptiveMetadata xml:lang="de">
+      <lido:objectClassificationWrap>
+         <lido:objectWorkTypeWrap>
+            <lido:objectWorkType>
+               <lido:conceptID lido:source="gnd" lido:type="uri">http://d-nb.info/gnd/4067453-8</lido:conceptID>
+               <lido:conceptID lido:source="grobsystematik" lido:type="uri">https://term.museum-digital.de/grobsystematik/tag/14445</lido:conceptID>
+               <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh85039408</lido:conceptID>
+               <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/945</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Handzeichnung</lido:term>
+            </lido:objectWorkType>
+         </lido:objectWorkTypeWrap>
+         <lido:classificationWrap>
+            <lido:classification lido:type="Sammlung">
+               <lido:conceptID lido:source="local" lido:type="collection_id">705</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Handzeichnungen, Druckgraphik, Gemälde</lido:term>
+            </lido:classification>
+            <lido:classification lido:type="Sammlung">
+               <lido:conceptID lido:source="local" lido:type="collection_id">731</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Nachlässe</lido:term>
+            </lido:classification>
+            <lido:classification lido:type="Sammlung">
+               <lido:conceptID lido:source="local" lido:type="collection_id">734</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Martha Ortrud Krebs</lido:term>
+            </lido:classification>
+         </lido:classificationWrap>
+      </lido:objectClassificationWrap>
+      <lido:objectIdentificationWrap>
+         <lido:titleWrap>
+            <lido:titleSet>
+               <lido:appellationValue lido:pref="preferred">Vogelsdorf (Kr. Niederbarnim): Grabsteine auf dem Kirchhof</lido:appellationValue>
+            </lido:titleSet>
+         </lido:titleWrap>
+         <lido:repositoryWrap>
+            <lido:repositorySet lido:type="current">
+               <lido:repositoryName>
+                  <lido:legalBodyID lido:type="isil">DE-B185</lido:legalBodyID>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+                  </lido:legalBodyName>
+                  <lido:legalBodyWeblink>http://geschichte-brandenburg.de/</lido:legalBodyWeblink>
+               </lido:repositoryName>
+               <lido:workID lido:type="inventory number">LGV-Archiv, B 70-10, Bl. 7</lido:workID>
+               <lido:repositoryLocation>
+                  <lido:namePlaceSet>
+                     <lido:appellationValue>Berlin</lido:appellationValue>
+                  </lido:namePlaceSet>
+                  <lido:gml>
+                     <gml:Point xmlns:gml="http://www.opengis.net/gml" srsName="EPSG:4326">
+                        <gml:pos>52.51533127 13.40440559</gml:pos>
+                     </gml:Point>
+                  </lido:gml>
+               </lido:repositoryLocation>
+            </lido:repositorySet>
+         </lido:repositoryWrap>
+         <lido:objectDescriptionWrap>
+            <lido:objectDescriptionSet>
+               <lido:descriptiveNoteValue>Die Kirchhöfe haben heute ihren Schmuck historischer Grabanlagen häufig verloren, viele Gräber sind eingeebnet und eine Rasenfläche bestimmt den Kirchhof, wenn wie hier ein neuer Friedhof angelegt wurde, der sich in Vogelsdorf jenseits der Frankfurter Chaussee in östlicher Richtung befindet. Insofern ist diese Bildnotiz zur Vielfalt der 1912 noch vorhandenen Grabsteine und Grabkreuze von kulturhistorischem Interesse. Gerfertigt hat sie der Gartenarchitekt Hans Helmut Krebs in seiner Jugend, er stammte aus Vogelsdorf. 
+
+Bez. re. u.: "Vogelsdorf d. 24. Juni 1912", darunter Ligatur "HK." - Beschriftungen von der Schwester des Künstler, Martha Ortrud Krebs (1892-1986) auf Beiblatt (Bl. 8v) nach 1945: "Vogelsdorf. / Dorfriedhof. / Original-Zeichnung / Gartenarchitekt / Hans Helmut Krebs."</lido:descriptiveNoteValue>
+               <lido:sourceDescriptiveNote>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:sourceDescriptiveNote>
+            </lido:objectDescriptionSet>
+         </lido:objectDescriptionWrap>
+         <lido:objectMeasurementsWrap>
+            <lido:objectMeasurementsSet>
+               <lido:displayObjectMeasurements>Blattgröße: Höhe 17,8 cm, Breite 23,2 cm (linke obere Ecke leicht beschnitten)</lido:displayObjectMeasurements>
+               <lido:objectMeasurements/>
+            </lido:objectMeasurementsSet>
+         </lido:objectMeasurementsWrap>
+      </lido:objectIdentificationWrap>
+      <lido:eventWrap>
+         <lido:eventSet>
+            <lido:event>
+               <lido:eventType>
+                  <lido:conceptID lido:type="uri">https://event-types.museum-digital.org/1</lido:conceptID>
+                  <lido:term lido:addedSearchTerm="no">Hergestellt</lido:term>
+               </lido:eventType>
+               <lido:eventActor>
+                  <lido:displayActorInRole>Hans Helmut Krebs (Gartenarchitekt)</lido:displayActorInRole>
+                  <lido:actorInRole>
+                     <lido:actor>
+                        <lido:actorID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/persinst/124981</lido:actorID>
+                        <lido:nameActorSet>
+                           <lido:appellationValue>Krebs, Hans Helmut (Gartenarchitekt)</lido:appellationValue>
+                           <lido:appellationValue xml:lang="de">Hans Helmut Krebs (Gartenarchitekt)</lido:appellationValue>
+                        </lido:nameActorSet>
+                        <lido:vitalDatesActor>
+                           <lido:earliestDate/>
+                           <lido:latestDate/>
+                        </lido:vitalDatesActor>
+                     </lido:actor>
+                  </lido:actorInRole>
+               </lido:eventActor>
+               <lido:eventDate>
+                  <lido:displayDate>24.06.1912</lido:displayDate>
+                  <lido:displayDate xml:lang="ar">24/06/1912</lido:displayDate>
+                  <lido:displayDate xml:lang="de">24.06.1912</lido:displayDate>
+                  <lido:displayDate xml:lang="en">June 24, 1912</lido:displayDate>
+                  <lido:displayDate xml:lang="es">24/06/1912</lido:displayDate>
+                  <lido:displayDate xml:lang="fa">24/06/1912</lido:displayDate>
+                  <lido:displayDate xml:lang="fr">24/06/1912</lido:displayDate>
+                  <lido:displayDate xml:lang="hu">1912. június 24.</lido:displayDate>
+                  <lido:displayDate xml:lang="id">24 Juni 1912</lido:displayDate>
+                  <lido:displayDate xml:lang="it">24/06/1912</lido:displayDate>
+                  <lido:displayDate xml:lang="ja">1912年06月24日</lido:displayDate>
+                  <lido:displayDate xml:lang="ka">24.06.1912</lido:displayDate>
+                  <lido:displayDate xml:lang="ko">1912년 06월 24일</lido:displayDate>
+                  <lido:displayDate xml:lang="pl">24.06.1912</lido:displayDate>
+                  <lido:displayDate xml:lang="pt">24/06/1912</lido:displayDate>
+                  <lido:displayDate xml:lang="ro">24.06.1912</lido:displayDate>
+                  <lido:displayDate xml:lang="ru">24.06.1912</lido:displayDate>
+                  <lido:displayDate xml:lang="ta">24-06-1912</lido:displayDate>
+                  <lido:displayDate xml:lang="tl">Hunyo 24, 1912</lido:displayDate>
+                  <lido:displayDate xml:lang="tr">24.06.1912</lido:displayDate>
+                  <lido:displayDate xml:lang="zh">1912年06月24日</lido:displayDate>
+                  <lido:date>
+                     <lido:earliestDate>1912</lido:earliestDate>
+                     <lido:latestDate>1912</lido:latestDate>
+                  </lido:date>
+               </lido:eventDate>
+            </lido:event>
+         </lido:eventSet>
+         <lido:eventSet>
+            <lido:event>
+               <lido:eventType>
+                  <lido:conceptID lido:type="uri">http://terminology.lido-schema.org/lido00003</lido:conceptID>
+                  <lido:term>Event (non-specified)</lido:term>
+               </lido:eventType>
+               <lido:eventMaterialsTech>
+                  <lido:displayMaterialsTech>Weicher Bleistift auf gebräuntem Zeichenkarton</lido:displayMaterialsTech>
+               </lido:eventMaterialsTech>
+            </lido:event>
+         </lido:eventSet>
+      </lido:eventWrap>
+      <lido:objectRelationWrap>
+         <lido:subjectWrap>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectPlace>
+                     <lido:displayPlace>Vogelsdorf (Fredersdorf-Vogelsdorf)</lido:displayPlace>
+                     <lido:displayPlace xml:lang="de">Vogelsdorf (Fredersdorf-Vogelsdorf)</lido:displayPlace>
+                     <lido:place>
+                        <lido:placeID lido:source="geonames" lido:type="uri">https://sws.geonames.org/2816876</lido:placeID>
+                        <lido:placeID lido:source="gnd" lido:type="uri">http://d-nb.info/gnd/1151607797</lido:placeID>
+                        <lido:placeID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/place/57237</lido:placeID>
+                        <lido:namePlaceSet>
+                           <lido:appellationValue>Vogelsdorf (Fredersdorf-Vogelsdorf)</lido:appellationValue>
+                           <lido:appellationValue xml:lang="de">Vogelsdorf (Fredersdorf-Vogelsdorf)</lido:appellationValue>
+                        </lido:namePlaceSet>
+                        <lido:gml>
+                           <gml:Point xmlns:gml="http://www.opengis.net/gml" srsName="EPSG:4326">
+                              <gml:pos>52.507694244385 13.760125160217</gml:pos>
+                           </gml:Point>
+                        </lido:gml>
+                     </lido:place>
+                  </lido:subjectPlace>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="aat" lido:type="uri">http://vocab.getty.edu/aat/300151836</lido:conceptID>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4060294-1</lido:conceptID>
+                     <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh85036085</lido:conceptID>
+                     <lido:conceptID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q4</lido:conceptID>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Tod</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/1180</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Tod</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ar">موت</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="bn">মৃত্যু</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="cs">Smrt</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="da">Død</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="de">Tod</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="el">Θάνατος</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="en">Death</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="es">Muerte</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fa">مرگ</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fi">Kuolema</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fr">Mort</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="he">מוות</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hi">मृत्यु</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hu">halál</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="id">Kematian</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="it">Morte</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ja">死</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ka">სიკვდილი</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ko">죽음</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="nl">Dood</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pl">śmierć</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pt">Morte</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ro">moarte</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ru">смерть</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sv">Döden</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sw">Mauti</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ta">இறப்பு</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="th">ความตาย</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tl">Kamatayan</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tr">ölüm</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ur">موت</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="vi">chết</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="zh">死亡</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="iconclass" lido:type="uri">http://iconclass.org/rkd/42E434/</lido:conceptID>
+                     <lido:conceptID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q39614</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/2311</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Friedhof</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ar">مقبرة</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="cs">Hřbitov</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="da">Gravplads</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="de">Friedhof</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="el">κοιμητήριο</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="en">Cemetery</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="es">Cementerio</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fa">گورستان</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fi">Hautausmaa</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fr">Cimetière</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="he">בית קברות</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hu">temető</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="id">Pemakaman</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="it">Cimitero</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ja">墓地</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ka">სასაფლაო</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ko">묘지</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="nl">Begraafplaats</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pl">Cmentarz</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pt">Cemitério</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ro">cimitir</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ru">кладбище</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sv">Begravningsplats</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ta">இடுகாடு</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tl">Sementeryo</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tr">Mezarlık</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ur">قبرستان</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="vi">nghĩa trang</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="zh">墳場</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="aat" lido:type="uri">http://vocab.getty.edu/aat/300005923</lido:conceptID>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4157987-2</lido:conceptID>
+                     <lido:conceptID lido:source="grobsystematik" lido:type="uri">https://term.museum-digital.de/grobsystematik/tag/4263</lido:conceptID>
+                     <lido:conceptID lido:source="iconclass" lido:type="uri">http://iconclass.org/rkd/42E311/</lido:conceptID>
+                     <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh85120127</lido:conceptID>
+                     <lido:conceptID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q203443</lido:conceptID>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Grabstein</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/2340</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Grabstein</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ar">شاهد قبر</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="cs">Náhrobek</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="da">Gravsten</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="de">Grabstein</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="el">Επιτύμβια στήλη</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="en">Tombstone</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="es">Lápida</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fa">سنگ گور</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fi">Hautakivi</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fr">Pierre tombale</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="he">מצבה</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="id">Batu nisan</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="it">Lapide</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ja">墓石</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ko">묘비</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="nl">Grafsteen</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pl">Nagrobek</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pt">Lápide</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ro">Piatră funerară</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ru">надгробие</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sv">Gravsten</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="th">มรณะศิลาจารึก</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="zh">墓碑</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="aat" lido:type="uri">http://vocab.getty.edu/aat/300008372</lido:conceptID>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4012775-8</lido:conceptID>
+                     <lido:conceptID lido:source="iconclass" lido:type="uri">http://iconclass.org/rkd/25I2/</lido:conceptID>
+                     <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh85143356</lido:conceptID>
+                     <lido:conceptID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q532</lido:conceptID>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Dorf</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/5914</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Dorf</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ar">قرية</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="bn">গ্রাম</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="cs">Vesnice</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="da">Landsby</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="de">Dorf</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="el">χωριό</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="en">Village</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="es">Pueblo</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fa">روستا</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fi">Kylä</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fr">Village</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="he">כפר</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hi">गाँव</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hu">falu</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="id">Desa</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="it">Villaggio</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ja">村</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ka">სოფელი</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ko">촌락</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="nl">Dorp</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pl">Wieś</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pt">Aldeia</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ro">sat</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ru">село</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sv">By</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sw">Kijiji</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ta">ஊர்</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="th">หมู่บ้าน</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tl">Nayon</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tr">Köy</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ur">گاؤں</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="vi">làng</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="zh">村</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/42766</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Kirchhof</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+         </lido:subjectWrap>
+         <lido:relatedWorksWrap/>
+      </lido:objectRelationWrap>
+   </lido:descriptiveMetadata>
+   <lido:administrativeMetadata xml:lang="de">
+      <lido:rightsWorkWrap>
+         <lido:rightsWorkSet>
+            <lido:rightsHolder>
+               <lido:legalBodyName>
+                  <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:rightsHolder>
+         </lido:rightsWorkSet>
+      </lido:rightsWorkWrap>
+      <lido:recordWrap>
+         <lido:recordID lido:type="museum-digital">67136</lido:recordID>
+         <lido:recordType>
+            <lido:term lido:addedSearchTerm="no">item</lido:term>
+         </lido:recordType>
+         <lido:recordSource lido:type="dataProvider">
+            <lido:legalBodyName>
+               <lido:appellationValue>museum-digital</lido:appellationValue>
+            </lido:legalBodyName>
+            <lido:legalBodyWeblink>https://berlin.museum-digital.de/</lido:legalBodyWeblink>
+         </lido:recordSource>
+         <lido:recordSource>
+            <lido:legalBodyID lido:type="isil">DE-B185</lido:legalBodyID>
+            <lido:legalBodyName>
+               <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+            </lido:legalBodyName>
+         </lido:recordSource>
+         <lido:recordRights>
+            <lido:rightsType>
+               <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no">CC BY</lido:term>
+            </lido:rightsType>
+            <lido:rightsHolder>
+               <lido:legalBodyID lido:type="isil">DE-B185</lido:legalBodyID>
+               <lido:legalBodyName>
+                  <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+               </lido:legalBodyName>
+               <lido:legalBodyWeblink>http://geschichte-brandenburg.de/</lido:legalBodyWeblink>
+            </lido:rightsHolder>
+            <lido:creditLine>Förderprogramm zur Digitalisierung von Objekten des kulturellen Erbes des Landes Berlin</lido:creditLine>
+         </lido:recordRights>
+         <lido:recordInfoSet>
+            <lido:recordInfoLink>https://berlin.museum-digital.de/index.php?t=objekt&amp;oges=67136</lido:recordInfoLink>
+            <lido:recordMetadataDate>2021-04-27 07:59:54</lido:recordMetadataDate>
+         </lido:recordInfoSet>
+      </lido:recordWrap>
+      <lido:resourceWrap>
+         <lido:resourceSet lido:sortorder="1">
+            <lido:resourceID lido:source="image" lido:type="local">48719</lido:resourceID>
+            <lido:resourceRepresentation lido:type="masterfile">
+               <lido:linkResource lido:formatResource="image/tiff"/>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_thumb">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/202007/100h_vogelsdorf-kr-niederbarnim-grabsteine-auf-dem-kirchhof-67136.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_preview">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/202007/200w_vogelsdorf-kr-niederbarnim-grabsteine-auf-dem-kirchhof-67136.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/202007/vogelsdorf-kr-niederbarnim-grabsteine-auf-dem-kirchhof-67136.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceType>
+               <lido:term lido:addedSearchTerm="no">image</lido:term>
+            </lido:resourceType>
+            <lido:resourceRelType>
+               <lido:term lido:addedSearchTerm="no">Hauptansicht</lido:term>
+            </lido:resourceRelType>
+            <lido:resourceDescription>Vogelsdorf (Kr. Niederbarnim): Grabsteine auf dem Kirchhof</lido:resourceDescription>
+            <lido:resourceSource lido:type="creator">
+               <lido:legalBodyName>
+                  <lido:appellationValue>Thomas Voßbeck, 2020</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:resourceSource>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+                  <lido:term lido:addedSearchTerm="no">CC BY</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V.</lido:appellationValue>
+                  </lido:legalBodyName>
+               </lido:rightsHolder>
+               <lido:creditLine>Thomas Voßbeck, 2020</lido:creditLine>
+            </lido:rightsResource>
+         </lido:resourceSet>
+      </lido:resourceWrap>
+   </lido:administrativeMetadata>
+</lido:lido>
+

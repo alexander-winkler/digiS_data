@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lido:lido xmlns:ajson="http://www.altova.com/json"
+           xmlns:gml="http://www.opengis.net/gml"
+           xmlns:lido="http://www.lido-schema.org"
+           xmlns:xalan="http://xml.apache.org/xalan">
+   <lido:lidoRecID lido:type="local">DE-2612_31934</lido:lidoRecID>
+   <lido:descriptiveMetadata xml:lang="de">
+      <lido:objectClassificationWrap>
+         <lido:objectWorkTypeWrap>
+            <lido:objectWorkType>
+               <lido:conceptID lido:source="http://d-nb.info/gnd"
+                               lido:type="http://terminology.lido-schema.org/lido00099">http://d-nb.info/gnd/4149435-0</lido:conceptID>
+               <lido:conceptID lido:source="http://vocab.getty.edu/aat/"
+                               lido:type="http://terminology.lido-schema.org/lido00099">http://vocab.getty.edu/aat/300128371</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" lido:pref="preferred">Kleinbilddia</lido:term>
+            </lido:objectWorkType>
+         </lido:objectWorkTypeWrap>
+         <lido:classificationWrap>
+            <lido:classification lido:type="Sammlung">
+               <lido:term lido:addedSearchTerm="no">Bernau</lido:term>
+            </lido:classification>
+         </lido:classificationWrap>
+      </lido:objectClassificationWrap>
+      <lido:objectIdentificationWrap>
+         <lido:titleWrap>
+            <lido:titleSet lido:type="Titel">
+               <lido:appellationValue lido:pref="preferred">Hannover, Expo 2000</lido:appellationValue>
+            </lido:titleSet>
+         </lido:titleWrap>
+         <lido:repositoryWrap>
+            <lido:repositorySet lido:type="http://terminology.lido-schema.org/lido00475">
+               <lido:repositoryName>
+                  <lido:legalBodyID lido:source="ISIL (ISO 15511)"
+                                    lido:type="http://terminology.lido-schema.org/lido00099">http://ld.zdb-services.de/resource/organisations/DE-2612</lido:legalBodyID>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Mediathek des Instituts für Kunst- und Bildgeschichte der Humboldt Universität zu Berlin</lido:appellationValue>
+                  </lido:legalBodyName>
+                  <lido:legalBodyWeblink>http://www.kunstgeschichte.hu-berlin.de/institut/mediathek/</lido:legalBodyWeblink>
+               </lido:repositoryName>
+               <lido:workID lido:type="Inventarnummer">BRNN_413.08_r</lido:workID>
+               <lido:repositoryLocation>
+                  <lido:placeID lido:source="http://d-nb.info/gnd/"
+                                lido:type="http://terminology.lido-schema.org/lido00099">http://d-nb.info/gnd/4005728-8</lido:placeID>
+                  <lido:placeID lido:source="https://www.geonames.org/"
+                                lido:type="http://terminology.lido-schema.org/lido00099">https://www.geonames.org/2950159/berlin.html</lido:placeID>
+                  <lido:namePlaceSet>
+                     <lido:appellationValue>Berlin</lido:appellationValue>
+                  </lido:namePlaceSet>
+               </lido:repositoryLocation>
+            </lido:repositorySet>
+         </lido:repositoryWrap>
+         <lido:objectMeasurementsWrap>
+            <lido:objectMeasurementsSet>
+               <lido:displayObjectMeasurements>5x5cm</lido:displayObjectMeasurements>
+            </lido:objectMeasurementsSet>
+         </lido:objectMeasurementsWrap>
+      </lido:objectIdentificationWrap>
+      <lido:eventWrap>
+         <lido:eventSet>
+            <lido:displayEvent>Fotografische Aufnahme</lido:displayEvent>
+            <lido:event>
+               <lido:eventType>
+                  <lido:conceptID lido:source="http://terminology.lido-schema.org/eventType"
+                                  lido:type="http://terminology.lido-schema.org/lido00099">http://terminology.lido-schema.org/lido00007</lido:conceptID>
+                  <lido:term lido:addedSearchTerm="no">Production</lido:term>
+               </lido:eventType>
+               <lido:eventActor>
+                  <lido:displayActorInRole>Bernau, Nikolaus (Fotograf)</lido:displayActorInRole>
+                  <lido:actorInRole>
+                     <lido:roleActor>
+                        <lido:conceptID lido:source="http://d-nb.info/gnd"
+                                        lido:type="http://terminology.lido-schema.org/lido00099">http://d-nb.info/gnd/4045893-3</lido:conceptID>
+                        <lido:term>Fotograf</lido:term>
+                     </lido:roleActor>
+                  </lido:actorInRole>
+               </lido:eventActor>
+               <lido:eventDate>
+                  <lido:displayDate>2000</lido:displayDate>
+                  <lido:date>
+                     <lido:earliestDate>2000-00-00</lido:earliestDate>
+                     <lido:latestDate>2000-00-00</lido:latestDate>
+                  </lido:date>
+               </lido:eventDate>
+            </lido:event>
+         </lido:eventSet>
+         <lido:eventSet>
+            <lido:event>
+               <lido:eventType>
+                  <lido:conceptID lido:source="http://terminology.lido-schema.org/eventType"
+                                  lido:type="http://terminology.lido-schema.org/lido00099">http://terminology.lido-schema.org/lido00003</lido:conceptID>
+                  <lido:term>Event (non-specified)</lido:term>
+               </lido:eventType>
+               <lido:eventMaterialsTech>
+                  <lido:displayMaterialsTech>Umkehrfilm / 35mm</lido:displayMaterialsTech>
+               </lido:eventMaterialsTech>
+            </lido:event>
+         </lido:eventSet>
+      </lido:eventWrap>
+      <lido:objectRelationWrap>
+         <lido:subjectWrap>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectPlace>
+                     <lido:displayPlace>Hannover (Deutschland, Niedersachsen)</lido:displayPlace>
+                  </lido:subjectPlace>
+               </lido:subject>
+            </lido:subjectSet>
+         </lido:subjectWrap>
+      </lido:objectRelationWrap>
+   </lido:descriptiveMetadata>
+   <lido:administrativeMetadata xml:lang="de">
+      <lido:rightsWorkWrap>
+         <lido:rightsWorkSet>
+            <lido:rightsHolder>
+               <lido:legalBodyID lido:source="ISIL (ISO 15511)"
+                                 lido:type="http://terminology.lido-schema.org/lido00099">http://ld.zdb-services.de/resource/organisations/DE-2612</lido:legalBodyID>
+               <lido:legalBodyName>
+                  <lido:appellationValue>Mediathek des Instituts für Kunst- und Bildgeschichte der Humboldt Universität zu Berlin</lido:appellationValue>
+               </lido:legalBodyName>
+               <lido:legalBodyWeblink>http://www.kunstgeschichte.hu-berlin.de/institut/mediathek/</lido:legalBodyWeblink>
+            </lido:rightsHolder>
+         </lido:rightsWorkSet>
+      </lido:rightsWorkWrap>
+      <lido:recordWrap>
+         <lido:recordID lido:type="local">31934</lido:recordID>
+         <lido:recordType>
+            <lido:term lido:addedSearchTerm="no">item</lido:term>
+         </lido:recordType>
+         <lido:recordSource>
+            <lido:legalBodyID lido:source="ISIL (ISO 15511)"
+                              lido:type="http://terminology.lido-schema.org/lido00099">http://ld.zdb-services.de/resource/organisations/DE-2612</lido:legalBodyID>
+            <lido:legalBodyName>
+               <lido:appellationValue>Mediathek des Instituts für Kunst- und Bildgeschichte der Humboldt Universität zu Berlin</lido:appellationValue>
+            </lido:legalBodyName>
+            <lido:legalBodyWeblink>http://www.kunstgeschichte.hu-berlin.de/institut/mediathek/</lido:legalBodyWeblink>
+         </lido:recordSource>
+         <lido:recordRights>
+            <lido:rightsType>
+               <lido:conceptID lido:source="http://creativecommons.org"
+                               lido:type="http://terminology.lido-schema.org/lido00099">http://creativecommons.org/publicdomain/zero/1.0/</lido:conceptID>
+            </lido:rightsType>
+            <lido:rightsHolder>
+               <lido:legalBodyID lido:source="ISIL (ISO 15511)"
+                                 lido:type="http://terminology.lido-schema.org/lido00099">http://ld.zdb-services.de/resource/organisations/DE-2612</lido:legalBodyID>
+               <lido:legalBodyName>
+                  <lido:appellationValue>Mediathek des Instituts für Kunst- und Bildgeschichte der Humboldt Universität zu Berlin</lido:appellationValue>
+               </lido:legalBodyName>
+               <lido:legalBodyWeblink>http://www.kunstgeschichte.hu-berlin.de/institut/mediathek/</lido:legalBodyWeblink>
+            </lido:rightsHolder>
+            <lido:creditLine lido:label="Förderung">Förderprogramm zur Digitalisierung von Objekten des kulturellen Erbes des Landes Berlin</lido:creditLine>
+         </lido:recordRights>
+         <lido:recordInfoSet>
+            <lido:recordInfoLink>https://rs.cms.hu-berlin.de/ikb_mediathek/pages/view.php?ref=31934</lido:recordInfoLink>
+         </lido:recordInfoSet>
+      </lido:recordWrap>
+      <lido:resourceWrap>
+         <lido:resourceSet>
+            <lido:resourceRepresentation lido:type="Provided image">
+               <lido:linkResource lido:formatResource="image/jpeg">https://rs.cms.hu-berlin.de/ikb_mediathek/pages/download.php?ref=31934&amp;size=scr&amp;ext=jpg&amp;page=1&amp;alternative=-1&amp;k=&amp;noattach=true</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceType>
+               <lido:term>image</lido:term>
+            </lido:resourceType>
+            <lido:resourceDescription>Hannover, Expo 2000</lido:resourceDescription>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:conceptID lido:source="http://creativecommons.org"
+                                  lido:type="http://terminology.lido-schema.org/lido00099">http://creativecommons.org/licenses/by-nc/4.0/</lido:conceptID>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyID lido:source="ISIL (ISO 15511)"
+                                    lido:type="http://terminology.lido-schema.org/lido00099">http://ld.zdb-services.de/resource/organisations/DE-2612</lido:legalBodyID>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Mediathek des Instituts für Kunst- und Bildgeschichte der Humboldt Universität zu Berlin</lido:appellationValue>
+                  </lido:legalBodyName>
+                  <lido:legalBodyWeblink>http://www.kunstgeschichte.hu-berlin.de/institut/mediathek/</lido:legalBodyWeblink>
+               </lido:rightsHolder>
+            </lido:rightsResource>
+         </lido:resourceSet>
+         <lido:resourceSet>
+            <lido:resourceRepresentation lido:type="Provided image">
+               <lido:linkResource lido:formatResource="image/jpeg">http://ikbdigilib.hu-berlin.de/servlet/Scaler?fn=diaarchiv/BRNN_413.008_d&amp;mo=file</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceType>
+               <lido:term>image</lido:term>
+            </lido:resourceType>
+            <lido:resourceDescription>Hannover, Expo 2000</lido:resourceDescription>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:conceptID lido:source="http://creativecommons.org"
+                                  lido:type="http://terminology.lido-schema.org/lido00099">http://creativecommons.org/licenses/by-nc/4.0/</lido:conceptID>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyID lido:source="ISIL (ISO 15511)"
+                                    lido:type="http://terminology.lido-schema.org/lido00099">http://ld.zdb-services.de/resource/organisations/DE-2612</lido:legalBodyID>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Mediathek des Instituts für Kunst- und Bildgeschichte der Humboldt Universität zu Berlin</lido:appellationValue>
+                  </lido:legalBodyName>
+                  <lido:legalBodyWeblink>http://www.kunstgeschichte.hu-berlin.de/institut/mediathek/</lido:legalBodyWeblink>
+               </lido:rightsHolder>
+            </lido:rightsResource>
+         </lido:resourceSet>
+      </lido:resourceWrap>
+   </lido:administrativeMetadata>
+</lido:lido>
+

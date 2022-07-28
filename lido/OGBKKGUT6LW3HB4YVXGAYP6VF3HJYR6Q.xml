@@ -1,0 +1,393 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lido:lido xmlns:lido="http://www.lido-schema.org"
+           xmlns:xalan="http://xml.apache.org/xalan">
+   <lido:lidoRecID lido:source="https://berlin.museum-digital.de/index.php?t=institution&amp;instnr=32"
+                   lido:type="local">DE-B185/66876</lido:lidoRecID>
+   <lido:category/>
+   <lido:descriptiveMetadata xml:lang="de">
+      <lido:objectClassificationWrap>
+         <lido:objectWorkTypeWrap>
+            <lido:objectWorkType>
+               <lido:conceptID lido:source="gnd" lido:type="uri">http://d-nb.info/gnd/4021845-4</lido:conceptID>
+               <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/13314</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Druckgraphik</lido:term>
+            </lido:objectWorkType>
+         </lido:objectWorkTypeWrap>
+         <lido:classificationWrap>
+            <lido:classification lido:type="Sammlung">
+               <lido:conceptID lido:source="local" lido:type="collection_id">705</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Handzeichnungen, Druckgraphik, Gemälde</lido:term>
+            </lido:classification>
+            <lido:classification lido:type="Sammlung">
+               <lido:conceptID lido:source="local" lido:type="collection_id">706</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Ansichten</lido:term>
+            </lido:classification>
+            <lido:classification lido:type="Sammlung">
+               <lido:conceptID lido:source="local" lido:type="collection_id">708</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Brandenburg</lido:term>
+            </lido:classification>
+         </lido:classificationWrap>
+      </lido:objectClassificationWrap>
+      <lido:objectIdentificationWrap>
+         <lido:titleWrap>
+            <lido:titleSet>
+               <lido:appellationValue lido:pref="preferred">Treuenbrietzen: Ehrenpforte für die Ankunft der Prinzessin Elisabeth von Bayern als Braut des Kronprinzen Friedrich Wilhelm (IV.) von Preußen bei Treuenbrietzen</lido:appellationValue>
+            </lido:titleSet>
+         </lido:titleWrap>
+         <lido:repositoryWrap>
+            <lido:repositorySet lido:type="current">
+               <lido:repositoryName>
+                  <lido:legalBodyID lido:type="isil">DE-B185</lido:legalBodyID>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+                  </lido:legalBodyName>
+                  <lido:legalBodyWeblink>http://geschichte-brandenburg.de/</lido:legalBodyWeblink>
+               </lido:repositoryName>
+               <lido:workID lido:type="inventory number">LGV-Archiv, C 12 G-1-002</lido:workID>
+               <lido:repositoryLocation>
+                  <lido:namePlaceSet>
+                     <lido:appellationValue>Berlin</lido:appellationValue>
+                  </lido:namePlaceSet>
+                  <lido:gml>
+                     <gml:Point xmlns:gml="http://www.opengis.net/gml" srsName="EPSG:4326">
+                        <gml:pos>52.51533127 13.40440559</gml:pos>
+                     </gml:Point>
+                  </lido:gml>
+               </lido:repositoryLocation>
+            </lido:repositorySet>
+         </lido:repositoryWrap>
+         <lido:objectDescriptionWrap>
+            <lido:objectDescriptionSet>
+               <lido:descriptiveNoteValue>Ehrenpforte anlässlich der Einholung der Braut des Kronprinzen Friedrich Wilhelm (IV.) von Preußen, Prinzessin Elisabeth von Bayern (1801-1873), an der sächisch-preußischen Grenze bei Treuenbrietzen am 27. November 1823, entworfen von Christian Heinrich Ziller (1791-1868), erbaut von Kühnell. Stahlstich von Schmidt nach Zeichnung von Kühnell. Dargestellt ist der Moment der Annäherung der Kutsche von Sachsen her, auf der Pforte hat eine Blaskapelle Aufstellung genommen, bürgerliches Publikum säumt die Chaussee mitten im Wald, um Ende November die Kronprinzessin willkommen zu heißen, die von einer sechsspännigen Kutsche gezogen hinter der Fensterscheibe der Kutsche zu erkennen ist. Solche zeitweisen Architekturgebilde der höfischen Festkultur wurden aus Holz oder auch Pappmache errichtet und haben sich nicht erhalten.&#xD;
+&#xD;
+Bez. li. u. "Entw. v. Ziller.", re. u. "Gest. von Schmidt.", mi. u. "Erbaut u. gez. v. Kühnell.", mi. u. "Alt preussische Grenze bei Treuenbriezen / am 27. November 1823."&#xD;
+Erworben 1996 im Berliner Antiquariatshandel.&#xD;
+&#xD;
+Literatur: Beschreibung der Feierlichkeiten, welche bei der Vermählung des Kronprinzen von Preussen K. H. mit der Prinzessin Elisabeth von Baiern so wie bei der Ankunft der Prinzessin K. H. in Berlin und an andern Orten Statt gefunden haben. Nach offiziellen Mittheilungen bearb. Mit drei Abb. Berlin 1824, zu Treuenbrietzen S. 34-39. - Kreiskalender für den Kreis Zauch-Belzig 11 (1937), S. 38-42, hier S. 39-41 (Abschnitt II. Eine Episode aus dem Jahre 1823), mit S/W-Abb. einer kolorierten Fassung (S. 40). - Peter Bahl: Neuerwerbungen des Vereinsarchivs. In: Landesgeschichtliche Vereinigung für die Mark Brandenburg. Mitteilungsblatt 98 (1997), S. 33, 36-39, hier S. 38f. (Abb. S. 33). - Das Archiv der Landesgeschichtlichen Vereinigung und seine Bestände. Bearb. von Peter Bahl. Frankfurt am Main u.a. 2009, S. 237, Abb. 50.</lido:descriptiveNoteValue>
+               <lido:sourceDescriptiveNote>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:sourceDescriptiveNote>
+            </lido:objectDescriptionSet>
+         </lido:objectDescriptionWrap>
+         <lido:objectMeasurementsWrap>
+            <lido:objectMeasurementsSet>
+               <lido:displayObjectMeasurements>Blattgröße: Höhe 40,5 cm, Breite 44 cm ; Plattengröße Höhe 35,7 cm, Breite 41,4 cm (aufgeklebt auf Unterpapier)</lido:displayObjectMeasurements>
+               <lido:objectMeasurements/>
+            </lido:objectMeasurementsSet>
+         </lido:objectMeasurementsWrap>
+      </lido:objectIdentificationWrap>
+      <lido:eventWrap>
+         <lido:eventSet>
+            <lido:displayEvent>Entwurf</lido:displayEvent>
+            <lido:event>
+               <lido:eventType>
+                  <lido:conceptID lido:type="uri">https://event-types.museum-digital.org/30</lido:conceptID>
+                  <lido:term lido:addedSearchTerm="no">Form entworfen</lido:term>
+               </lido:eventType>
+               <lido:eventActor>
+                  <lido:displayActorInRole>Christian Heinrich Ziller (1791-1868)</lido:displayActorInRole>
+                  <lido:actorInRole>
+                     <lido:actor>
+                        <lido:actorID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Christian_Heinrich_Ziller</lido:actorID>
+                        <lido:actorID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q1080231</lido:actorID>
+                        <lido:actorID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/persinst/31336</lido:actorID>
+                        <lido:nameActorSet>
+                           <lido:appellationValue>Ziller, Christian Heinrich</lido:appellationValue>
+                           <lido:appellationValue xml:lang="de">Christian Heinrich Ziller</lido:appellationValue>
+                           <lido:appellationValue xml:lang="en">Christian Heinrich Ziller</lido:appellationValue>
+                           <lido:appellationValue xml:lang="es">Christian Heinrich Ziller</lido:appellationValue>
+                           <lido:appellationValue xml:lang="fr">Christian Heinrich Ziller</lido:appellationValue>
+                           <lido:appellationValue xml:lang="nl">Christian Heinrich Ziller</lido:appellationValue>
+                        </lido:nameActorSet>
+                        <lido:vitalDatesActor>
+                           <lido:earliestDate>1791</lido:earliestDate>
+                           <lido:latestDate>1868</lido:latestDate>
+                        </lido:vitalDatesActor>
+                     </lido:actor>
+                  </lido:actorInRole>
+               </lido:eventActor>
+               <lido:eventDate>
+                  <lido:displayDate>1823</lido:displayDate>
+                  <lido:displayDate xml:lang="ar">1823</lido:displayDate>
+                  <lido:displayDate xml:lang="de">1823</lido:displayDate>
+                  <lido:displayDate xml:lang="en">1823</lido:displayDate>
+                  <lido:displayDate xml:lang="es">1823</lido:displayDate>
+                  <lido:displayDate xml:lang="fa">1823</lido:displayDate>
+                  <lido:displayDate xml:lang="fr">1823</lido:displayDate>
+                  <lido:displayDate xml:lang="hu">1823</lido:displayDate>
+                  <lido:displayDate xml:lang="id">1823</lido:displayDate>
+                  <lido:displayDate xml:lang="it">1823</lido:displayDate>
+                  <lido:displayDate xml:lang="ja">1823年</lido:displayDate>
+                  <lido:displayDate xml:lang="ka">1823</lido:displayDate>
+                  <lido:displayDate xml:lang="ko">1823년</lido:displayDate>
+                  <lido:displayDate xml:lang="pl">1823</lido:displayDate>
+                  <lido:displayDate xml:lang="pt">1823</lido:displayDate>
+                  <lido:displayDate xml:lang="ro">1823</lido:displayDate>
+                  <lido:displayDate xml:lang="ru">1823</lido:displayDate>
+                  <lido:displayDate xml:lang="ta">1823</lido:displayDate>
+                  <lido:displayDate xml:lang="tl">1823</lido:displayDate>
+                  <lido:displayDate xml:lang="tr">1823</lido:displayDate>
+                  <lido:displayDate xml:lang="zh">1823年</lido:displayDate>
+                  <lido:date>
+                     <lido:earliestDate>1823</lido:earliestDate>
+                     <lido:latestDate>1823</lido:latestDate>
+                  </lido:date>
+               </lido:eventDate>
+            </lido:event>
+         </lido:eventSet>
+         <lido:eventSet>
+            <lido:event>
+               <lido:eventType>
+                  <lido:conceptID lido:type="uri">http://terminology.lido-schema.org/lido00003</lido:conceptID>
+                  <lido:term>Event (non-specified)</lido:term>
+               </lido:eventType>
+               <lido:eventMaterialsTech>
+                  <lido:displayMaterialsTech>Kupferstich auf Velin</lido:displayMaterialsTech>
+               </lido:eventMaterialsTech>
+            </lido:event>
+         </lido:eventSet>
+      </lido:eventWrap>
+      <lido:objectRelationWrap>
+         <lido:subjectWrap>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4025292-9</lido:conceptID>
+                     <lido:conceptID lido:source="iconclass" lido:type="uri">http://iconclass.org/rkd/42D25/</lido:conceptID>
+                     <lido:conceptID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q49836</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/9588</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Hochzeitsfeier</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ar">زفاف</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="bn">বিবাহ উৎসব</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="cs">Svatba</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="da">Bryllup</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="de">Hochzeitsfeier</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="en">Wedding</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="es">Boda</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fa">عروسی</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fi">Häät</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fr">Noces</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="he">חתונה</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hi">विवाह उत्सव</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hu">esküvő</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="id">Pernikahan</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="it">Nozze</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ja">結婚式</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ko">혼례</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="nl">Bruiloft</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pl">ślub</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pt">Boda</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ro">Nuntă</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ru">свадьба</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sv">Bröllop</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sw">Harusi</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="th">การแต่งงาน</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tl">Kasal</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tr">Nikah</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="vi">Lễ cưới</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="zh">婚礼</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">http://d-nb.info/gnd/4771859-6</lido:conceptID>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">http://de.wikipedia.org/wiki/Kronprinz</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/12308</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Kronprinz</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4021845-4</lido:conceptID>
+                     <lido:conceptID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q1027879</lido:conceptID>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">https://en.wikipedia.org/wiki/Graphics</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/13314</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Druckgraphik</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ar">رسوميات</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="bn">গ্রাফিক্স</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="cs">Grafika</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="de">Druckgraphik</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="el">Γραφικά</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="en">Graphics</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="es">gráficos</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fa">ارتباط تصویری</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fr">Graphique</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="he">גרפיקה</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hi">चित्रालेख</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hu">Grafika</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="id">Grafika</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ja">グラフィック</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ka">გრაფიკა</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ko">그래픽</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="nl">Grafiek</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pl">Grafika</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pt">Gráfico</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ro">grafică</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ru">графика</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ta">வரைகலை</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tr">Grafik</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ur">تخطیط</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="zh">图形</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="aat" lido:type="uri">http://vocab.getty.edu/aat/300155241</lido:conceptID>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">http://d-nb.info/gnd/4403701-6</lido:conceptID>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">http://de.wikipedia.org/wiki/Prinz</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/16532</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Prinzessin</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="aat" lido:type="uri">http://vocab.getty.edu/aat/300343613</lido:conceptID>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4210529-8</lido:conceptID>
+                     <lido:conceptID lido:source="iconclass" lido:type="uri">http://iconclass.org/rkd/42D212/</lido:conceptID>
+                     <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh85016814</lido:conceptID>
+                     <lido:conceptID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q353673</lido:conceptID>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">https://da.wikipedia.org/wiki/Brud_(kvinde)</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/19165</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Braut</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ar">عروس</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="cs">Nevěsta</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="da">Brud</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="de">Braut</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="el">νύφη</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="en">Bride</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="es">Novia</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fa">عروس</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fr">Jeune mariée</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="he">כלה</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hi">दुल्हन</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="it">Sposa</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ko">신부</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="nl">Bruid</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ro">Mireasă</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ru">невеста</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sv">Brud</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ta">மணமகள்</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tr">Gelin</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ur">دلہن</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="vi">Cô dâu</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="zh">新娘</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Ehrenpforte</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/21591</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Ehrenpforte</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/75683</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Festarchitektur</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+         </lido:subjectWrap>
+         <lido:relatedWorksWrap/>
+      </lido:objectRelationWrap>
+   </lido:descriptiveMetadata>
+   <lido:administrativeMetadata xml:lang="de">
+      <lido:rightsWorkWrap>
+         <lido:rightsWorkSet>
+            <lido:rightsHolder>
+               <lido:legalBodyName>
+                  <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:rightsHolder>
+         </lido:rightsWorkSet>
+      </lido:rightsWorkWrap>
+      <lido:recordWrap>
+         <lido:recordID lido:type="museum-digital">66876</lido:recordID>
+         <lido:recordType>
+            <lido:term lido:addedSearchTerm="no">item</lido:term>
+         </lido:recordType>
+         <lido:recordSource lido:type="dataProvider">
+            <lido:legalBodyName>
+               <lido:appellationValue>museum-digital</lido:appellationValue>
+            </lido:legalBodyName>
+            <lido:legalBodyWeblink>https://berlin.museum-digital.de/</lido:legalBodyWeblink>
+         </lido:recordSource>
+         <lido:recordSource>
+            <lido:legalBodyID lido:type="isil">DE-B185</lido:legalBodyID>
+            <lido:legalBodyName>
+               <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+            </lido:legalBodyName>
+         </lido:recordSource>
+         <lido:recordRights>
+            <lido:rightsType>
+               <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no">CC BY</lido:term>
+            </lido:rightsType>
+            <lido:rightsHolder>
+               <lido:legalBodyID lido:type="isil">DE-B185</lido:legalBodyID>
+               <lido:legalBodyName>
+                  <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+               </lido:legalBodyName>
+               <lido:legalBodyWeblink>http://geschichte-brandenburg.de/</lido:legalBodyWeblink>
+            </lido:rightsHolder>
+            <lido:creditLine>Förderprogramm zur Digitalisierung von Objekten des kulturellen Erbes des Landes Berlin</lido:creditLine>
+         </lido:recordRights>
+         <lido:recordInfoSet>
+            <lido:recordInfoLink>https://berlin.museum-digital.de/index.php?t=objekt&amp;oges=66876</lido:recordInfoLink>
+            <lido:recordMetadataDate>2021-04-27 07:59:56</lido:recordMetadataDate>
+         </lido:recordInfoSet>
+      </lido:recordWrap>
+      <lido:resourceWrap>
+         <lido:resourceSet lido:sortorder="1">
+            <lido:resourceID lido:source="image" lido:type="local">48462</lido:resourceID>
+            <lido:resourceRepresentation lido:type="masterfile">
+               <lido:linkResource lido:formatResource="image/tiff"/>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_thumb">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/202007/100h_treuenbrietzen-ehrenpforte-fuer-die-ankunft-der-prinzessin-elisabeth-von-bayern-als-braut.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_preview">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/202007/200w_treuenbrietzen-ehrenpforte-fuer-die-ankunft-der-prinzessin-elisabeth-von-bayern-als-braut.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/202007/treuenbrietzen-ehrenpforte-fuer-die-ankunft-der-prinzessin-elisabeth-von-bayern-als-braut.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceType>
+               <lido:term lido:addedSearchTerm="no">image</lido:term>
+            </lido:resourceType>
+            <lido:resourceRelType>
+               <lido:term lido:addedSearchTerm="no">Hauptansicht</lido:term>
+            </lido:resourceRelType>
+            <lido:resourceDescription>Treuenbrietzen: Ehrenpforte für die Ankunft der Prinzessin Elisabeth von Bayern als Braut des Kronprinzen Friedrich Wilhelm (IV.) von Preußen bei Treuenbrietzen</lido:resourceDescription>
+            <lido:resourceSource lido:type="creator">
+               <lido:legalBodyName>
+                  <lido:appellationValue>Thomas Voßbeck, 2020</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:resourceSource>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+                  <lido:term lido:addedSearchTerm="no">CC BY</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V.</lido:appellationValue>
+                  </lido:legalBodyName>
+               </lido:rightsHolder>
+               <lido:creditLine>Thomas Voßbeck, 2020</lido:creditLine>
+            </lido:rightsResource>
+         </lido:resourceSet>
+      </lido:resourceWrap>
+   </lido:administrativeMetadata>
+</lido:lido>
+

@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lido:lido xmlns:lido="http://www.lido-schema.org"
+           xmlns:xalan="http://xml.apache.org/xalan">
+   <lido:lidoRecID lido:source="https://berlin.museum-digital.de/index.php?t=institution&amp;instnr=32"
+                   lido:type="local">DE-B185/67341</lido:lidoRecID>
+   <lido:category/>
+   <lido:descriptiveMetadata xml:lang="de">
+      <lido:objectClassificationWrap>
+         <lido:objectWorkTypeWrap>
+            <lido:objectWorkType>
+               <lido:conceptID lido:source="gnd" lido:type="uri">http://d-nb.info/gnd/4067453-8</lido:conceptID>
+               <lido:conceptID lido:source="grobsystematik" lido:type="uri">https://term.museum-digital.de/grobsystematik/tag/14445</lido:conceptID>
+               <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh85039408</lido:conceptID>
+               <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/945</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Handzeichnung</lido:term>
+            </lido:objectWorkType>
+         </lido:objectWorkTypeWrap>
+         <lido:classificationWrap>
+            <lido:classification lido:type="Sammlung">
+               <lido:conceptID lido:source="local" lido:type="collection_id">705</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Handzeichnungen, Druckgraphik, Gemälde</lido:term>
+            </lido:classification>
+            <lido:classification lido:type="Sammlung">
+               <lido:conceptID lido:source="local" lido:type="collection_id">731</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Nachlässe</lido:term>
+            </lido:classification>
+            <lido:classification lido:type="Sammlung">
+               <lido:conceptID lido:source="local" lido:type="collection_id">735</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Rudolf Lutter</lido:term>
+            </lido:classification>
+         </lido:classificationWrap>
+      </lido:objectClassificationWrap>
+      <lido:objectIdentificationWrap>
+         <lido:titleWrap>
+            <lido:titleSet>
+               <lido:appellationValue lido:pref="preferred">Stecklenberg (Stadt Thale): Burgruine Stecklenburg von Nordwesten</lido:appellationValue>
+            </lido:titleSet>
+         </lido:titleWrap>
+         <lido:repositoryWrap>
+            <lido:repositorySet lido:type="current">
+               <lido:repositoryName>
+                  <lido:legalBodyID lido:type="isil">DE-B185</lido:legalBodyID>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+                  </lido:legalBodyName>
+                  <lido:legalBodyWeblink>http://geschichte-brandenburg.de/</lido:legalBodyWeblink>
+               </lido:repositoryName>
+               <lido:workID lido:type="inventory number">LGV-Archiv, C 12 H-4-066</lido:workID>
+               <lido:repositoryLocation>
+                  <lido:namePlaceSet>
+                     <lido:appellationValue>Berlin</lido:appellationValue>
+                  </lido:namePlaceSet>
+                  <lido:gml>
+                     <gml:Point xmlns:gml="http://www.opengis.net/gml" srsName="EPSG:4326">
+                        <gml:pos>52.51533127 13.40440559</gml:pos>
+                     </gml:Point>
+                  </lido:gml>
+               </lido:repositoryLocation>
+            </lido:repositorySet>
+         </lido:repositoryWrap>
+         <lido:objectDescriptionWrap>
+            <lido:objectDescriptionSet>
+               <lido:descriptiveNoteValue>Skizze der Ruinen der Steklenburg, einer mittelalterlichen Höhenburg, die in den vierziger Jahren des 19. Jahrhunderts verstärkte künstlerische und historische Aufmerksamkeit gefunden hat, die aber hier von einem sonst in Druckgraphik nicht überlieferten Standort aus der Nähe wiedergegeben ist.
+
+Bez. mi. u. "Ruine Stecklenberg.", re. u. "R. L. / 1880."</lido:descriptiveNoteValue>
+               <lido:sourceDescriptiveNote>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:sourceDescriptiveNote>
+            </lido:objectDescriptionSet>
+         </lido:objectDescriptionWrap>
+         <lido:objectMeasurementsWrap>
+            <lido:objectMeasurementsSet>
+               <lido:displayObjectMeasurements>Blattgröße: 10,4 cm, Breite 15,5 cm</lido:displayObjectMeasurements>
+               <lido:objectMeasurements/>
+            </lido:objectMeasurementsSet>
+         </lido:objectMeasurementsWrap>
+      </lido:objectIdentificationWrap>
+      <lido:eventWrap>
+         <lido:eventSet>
+            <lido:event>
+               <lido:eventType>
+                  <lido:conceptID lido:type="uri">https://event-types.museum-digital.org/1</lido:conceptID>
+                  <lido:term lido:addedSearchTerm="no">Hergestellt</lido:term>
+               </lido:eventType>
+               <lido:eventActor>
+                  <lido:displayActorInRole>Rudolf Lutter (1831-1913)</lido:displayActorInRole>
+                  <lido:actorInRole>
+                     <lido:actor>
+                        <lido:actorID lido:source="gnd" lido:type="uri">http://d-nb.info/gnd/1178185508</lido:actorID>
+                        <lido:actorID lido:source="viaf" lido:type="uri">https://viaf.org/viaf/7381155044839072520000</lido:actorID>
+                        <lido:actorID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/persinst/125364</lido:actorID>
+                        <lido:nameActorSet>
+                           <lido:appellationValue>Lutter, Rudolf</lido:appellationValue>
+                           <lido:appellationValue xml:lang="de">Rudolf Lutter</lido:appellationValue>
+                        </lido:nameActorSet>
+                        <lido:vitalDatesActor>
+                           <lido:earliestDate>1831</lido:earliestDate>
+                           <lido:latestDate>1913</lido:latestDate>
+                        </lido:vitalDatesActor>
+                     </lido:actor>
+                  </lido:actorInRole>
+               </lido:eventActor>
+               <lido:eventDate>
+                  <lido:displayDate>1876</lido:displayDate>
+                  <lido:displayDate xml:lang="ar">1876</lido:displayDate>
+                  <lido:displayDate xml:lang="de">1876</lido:displayDate>
+                  <lido:displayDate xml:lang="en">1876</lido:displayDate>
+                  <lido:displayDate xml:lang="es">1876</lido:displayDate>
+                  <lido:displayDate xml:lang="fa">1876</lido:displayDate>
+                  <lido:displayDate xml:lang="fr">1876</lido:displayDate>
+                  <lido:displayDate xml:lang="hu">1876</lido:displayDate>
+                  <lido:displayDate xml:lang="id">1876</lido:displayDate>
+                  <lido:displayDate xml:lang="it">1876</lido:displayDate>
+                  <lido:displayDate xml:lang="ja">1876年</lido:displayDate>
+                  <lido:displayDate xml:lang="ka">1876</lido:displayDate>
+                  <lido:displayDate xml:lang="ko">1876년</lido:displayDate>
+                  <lido:displayDate xml:lang="pl">1876</lido:displayDate>
+                  <lido:displayDate xml:lang="pt">1876</lido:displayDate>
+                  <lido:displayDate xml:lang="ro">1876</lido:displayDate>
+                  <lido:displayDate xml:lang="ru">1876</lido:displayDate>
+                  <lido:displayDate xml:lang="ta">1876</lido:displayDate>
+                  <lido:displayDate xml:lang="tl">1876</lido:displayDate>
+                  <lido:displayDate xml:lang="tr">1876</lido:displayDate>
+                  <lido:displayDate xml:lang="zh">1876年</lido:displayDate>
+                  <lido:date>
+                     <lido:earliestDate>1876</lido:earliestDate>
+                     <lido:latestDate>1876</lido:latestDate>
+                  </lido:date>
+               </lido:eventDate>
+            </lido:event>
+         </lido:eventSet>
+         <lido:eventSet>
+            <lido:event>
+               <lido:eventType>
+                  <lido:conceptID lido:type="uri">http://terminology.lido-schema.org/lido00003</lido:conceptID>
+                  <lido:term>Event (non-specified)</lido:term>
+               </lido:eventType>
+               <lido:eventMaterialsTech>
+                  <lido:displayMaterialsTech>Bleistift auf grünlichem Papier (aufgezogen auf beigem Papier)</lido:displayMaterialsTech>
+               </lido:eventMaterialsTech>
+            </lido:event>
+         </lido:eventSet>
+      </lido:eventWrap>
+      <lido:objectRelationWrap>
+         <lido:subjectWrap>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectPlace>
+                     <lido:displayPlace>Thale</lido:displayPlace>
+                     <lido:displayPlace xml:lang="cs">Thale</lido:displayPlace>
+                     <lido:displayPlace xml:lang="da">Thale</lido:displayPlace>
+                     <lido:displayPlace xml:lang="de">Thale</lido:displayPlace>
+                     <lido:displayPlace xml:lang="en">Thale</lido:displayPlace>
+                     <lido:displayPlace xml:lang="es">Thale</lido:displayPlace>
+                     <lido:displayPlace xml:lang="fa">تاله</lido:displayPlace>
+                     <lido:displayPlace xml:lang="fr">Thale</lido:displayPlace>
+                     <lido:displayPlace xml:lang="hu">Thale</lido:displayPlace>
+                     <lido:displayPlace xml:lang="it">Thale</lido:displayPlace>
+                     <lido:displayPlace xml:lang="ja">ターレ</lido:displayPlace>
+                     <lido:displayPlace xml:lang="nl">Thale</lido:displayPlace>
+                     <lido:displayPlace xml:lang="pl">Thale</lido:displayPlace>
+                     <lido:displayPlace xml:lang="ro">Thale</lido:displayPlace>
+                     <lido:displayPlace xml:lang="ru">Тале</lido:displayPlace>
+                     <lido:displayPlace xml:lang="sv">Thale</lido:displayPlace>
+                     <lido:displayPlace xml:lang="tr">Thale</lido:displayPlace>
+                     <lido:displayPlace xml:lang="vi">Thale</lido:displayPlace>
+                     <lido:displayPlace xml:lang="zh">塔勒</lido:displayPlace>
+                     <lido:place>
+                        <lido:placeID lido:source="geonames" lido:type="uri">https://sws.geonames.org/2823141</lido:placeID>
+                        <lido:placeID lido:source="TGN" lido:type="uri">http://vocab.getty.edu/tgn/1037838</lido:placeID>
+                        <lido:placeID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4106207-3</lido:placeID>
+                        <lido:placeID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q506460</lido:placeID>
+                        <lido:placeID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/place/364</lido:placeID>
+                        <lido:namePlaceSet>
+                           <lido:appellationValue>Thale</lido:appellationValue>
+                           <lido:appellationValue xml:lang="cs">Thale</lido:appellationValue>
+                           <lido:appellationValue xml:lang="da">Thale</lido:appellationValue>
+                           <lido:appellationValue xml:lang="de">Thale</lido:appellationValue>
+                           <lido:appellationValue xml:lang="en">Thale</lido:appellationValue>
+                           <lido:appellationValue xml:lang="es">Thale</lido:appellationValue>
+                           <lido:appellationValue xml:lang="fa">تاله</lido:appellationValue>
+                           <lido:appellationValue xml:lang="fr">Thale</lido:appellationValue>
+                           <lido:appellationValue xml:lang="hu">Thale</lido:appellationValue>
+                           <lido:appellationValue xml:lang="it">Thale</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ja">ターレ</lido:appellationValue>
+                           <lido:appellationValue xml:lang="nl">Thale</lido:appellationValue>
+                           <lido:appellationValue xml:lang="pl">Thale</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ro">Thale</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ru">Тале</lido:appellationValue>
+                           <lido:appellationValue xml:lang="sv">Thale</lido:appellationValue>
+                           <lido:appellationValue xml:lang="tr">Thale</lido:appellationValue>
+                           <lido:appellationValue xml:lang="vi">Thale</lido:appellationValue>
+                           <lido:appellationValue xml:lang="zh">塔勒</lido:appellationValue>
+                        </lido:namePlaceSet>
+                        <lido:gml>
+                           <gml:Point xmlns:gml="http://www.opengis.net/gml" srsName="EPSG:4326">
+                              <gml:pos>51.751110076904 11.042778015137</gml:pos>
+                           </gml:Point>
+                        </lido:gml>
+                     </lido:place>
+                  </lido:subjectPlace>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">http://d-nb.info/gnd/4456152-0</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/12961</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Burgruine</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+         </lido:subjectWrap>
+         <lido:relatedWorksWrap/>
+      </lido:objectRelationWrap>
+   </lido:descriptiveMetadata>
+   <lido:administrativeMetadata xml:lang="de">
+      <lido:rightsWorkWrap>
+         <lido:rightsWorkSet>
+            <lido:rightsHolder>
+               <lido:legalBodyName>
+                  <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:rightsHolder>
+         </lido:rightsWorkSet>
+      </lido:rightsWorkWrap>
+      <lido:recordWrap>
+         <lido:recordID lido:type="museum-digital">67341</lido:recordID>
+         <lido:recordType>
+            <lido:term lido:addedSearchTerm="no">item</lido:term>
+         </lido:recordType>
+         <lido:recordSource lido:type="dataProvider">
+            <lido:legalBodyName>
+               <lido:appellationValue>museum-digital</lido:appellationValue>
+            </lido:legalBodyName>
+            <lido:legalBodyWeblink>https://berlin.museum-digital.de/</lido:legalBodyWeblink>
+         </lido:recordSource>
+         <lido:recordSource>
+            <lido:legalBodyID lido:type="isil">DE-B185</lido:legalBodyID>
+            <lido:legalBodyName>
+               <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+            </lido:legalBodyName>
+         </lido:recordSource>
+         <lido:recordRights>
+            <lido:rightsType>
+               <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no">CC BY</lido:term>
+            </lido:rightsType>
+            <lido:rightsHolder>
+               <lido:legalBodyID lido:type="isil">DE-B185</lido:legalBodyID>
+               <lido:legalBodyName>
+                  <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+               </lido:legalBodyName>
+               <lido:legalBodyWeblink>http://geschichte-brandenburg.de/</lido:legalBodyWeblink>
+            </lido:rightsHolder>
+            <lido:creditLine>Förderprogramm zur Digitalisierung von Objekten des kulturellen Erbes des Landes Berlin</lido:creditLine>
+         </lido:recordRights>
+         <lido:recordInfoSet>
+            <lido:recordInfoLink>https://berlin.museum-digital.de/index.php?t=objekt&amp;oges=67341</lido:recordInfoLink>
+            <lido:recordMetadataDate>2021-04-27 07:59:52</lido:recordMetadataDate>
+         </lido:recordInfoSet>
+      </lido:recordWrap>
+      <lido:resourceWrap>
+         <lido:resourceSet lido:sortorder="1">
+            <lido:resourceID lido:source="image" lido:type="local">48884</lido:resourceID>
+            <lido:resourceRepresentation lido:type="masterfile">
+               <lido:linkResource lido:formatResource="image/tiff"/>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_thumb">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/202007/100h_stecklenberg-stadt-thale-burgruine-stecklenburg-von-nordwesten-67341.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_preview">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/202007/200w_stecklenberg-stadt-thale-burgruine-stecklenburg-von-nordwesten-67341.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/202007/stecklenberg-stadt-thale-burgruine-stecklenburg-von-nordwesten-67341.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceType>
+               <lido:term lido:addedSearchTerm="no">image</lido:term>
+            </lido:resourceType>
+            <lido:resourceRelType>
+               <lido:term lido:addedSearchTerm="no">Hauptansicht</lido:term>
+            </lido:resourceRelType>
+            <lido:resourceDescription>Stecklenberg (Stadt Thale): Burgruine Stecklenburg von Nordwesten</lido:resourceDescription>
+            <lido:resourceSource lido:type="creator">
+               <lido:legalBodyName>
+                  <lido:appellationValue>Thomas Voßbeck, 2020</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:resourceSource>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+                  <lido:term lido:addedSearchTerm="no">CC BY</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V.</lido:appellationValue>
+                  </lido:legalBodyName>
+               </lido:rightsHolder>
+               <lido:creditLine>Thomas Voßbeck, 2020</lido:creditLine>
+            </lido:rightsResource>
+         </lido:resourceSet>
+      </lido:resourceWrap>
+   </lido:administrativeMetadata>
+</lido:lido>
+

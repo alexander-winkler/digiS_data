@@ -1,0 +1,400 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lido:lido xmlns:lido="http://www.lido-schema.org"
+           xmlns:xalan="http://xml.apache.org/xalan">
+   <lido:lidoRecID lido:source="https://berlin.museum-digital.de/index.php?t=institution&amp;instnr=32"
+                   lido:type="local">DE-B185/66925</lido:lidoRecID>
+   <lido:category/>
+   <lido:descriptiveMetadata xml:lang="de">
+      <lido:objectClassificationWrap>
+         <lido:objectWorkTypeWrap>
+            <lido:objectWorkType>
+               <lido:conceptID lido:source="gnd" lido:type="uri">http://d-nb.info/gnd/4067453-8</lido:conceptID>
+               <lido:conceptID lido:source="grobsystematik" lido:type="uri">https://term.museum-digital.de/grobsystematik/tag/14445</lido:conceptID>
+               <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh85039408</lido:conceptID>
+               <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/945</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Handzeichnung</lido:term>
+            </lido:objectWorkType>
+         </lido:objectWorkTypeWrap>
+         <lido:classificationWrap>
+            <lido:classification lido:type="Sammlung">
+               <lido:conceptID lido:source="local" lido:type="collection_id">705</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Handzeichnungen, Druckgraphik, Gemälde</lido:term>
+            </lido:classification>
+            <lido:classification lido:type="Sammlung">
+               <lido:conceptID lido:source="local" lido:type="collection_id">731</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Nachlässe</lido:term>
+            </lido:classification>
+            <lido:classification lido:type="Sammlung">
+               <lido:conceptID lido:source="local" lido:type="collection_id">736</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Johann Gottlob Runge</lido:term>
+            </lido:classification>
+         </lido:classificationWrap>
+      </lido:objectClassificationWrap>
+      <lido:objectIdentificationWrap>
+         <lido:titleWrap>
+            <lido:titleSet>
+               <lido:appellationValue lido:pref="preferred">Gahry (Kr. Cottbus): Vier Zeichnungen von sorbischen Frauentrachten</lido:appellationValue>
+            </lido:titleSet>
+         </lido:titleWrap>
+         <lido:repositoryWrap>
+            <lido:repositorySet lido:type="current">
+               <lido:repositoryName>
+                  <lido:legalBodyID lido:type="isil">DE-B185</lido:legalBodyID>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+                  </lido:legalBodyName>
+                  <lido:legalBodyWeblink>http://geschichte-brandenburg.de/</lido:legalBodyWeblink>
+               </lido:repositoryName>
+               <lido:workID lido:type="inventory number">LGV-Archiv, B 29-1, S. 325</lido:workID>
+               <lido:repositoryLocation>
+                  <lido:namePlaceSet>
+                     <lido:appellationValue>Berlin</lido:appellationValue>
+                  </lido:namePlaceSet>
+                  <lido:gml>
+                     <gml:Point xmlns:gml="http://www.opengis.net/gml" srsName="EPSG:4326">
+                        <gml:pos>52.51533127 13.40440559</gml:pos>
+                     </gml:Point>
+                  </lido:gml>
+               </lido:repositoryLocation>
+            </lido:repositorySet>
+         </lido:repositoryWrap>
+         <lido:objectDescriptionWrap>
+            <lido:objectDescriptionSet>
+               <lido:descriptiveNoteValue>Sorbische (wendische) Frauentrachten (vier Zeichnungen), mit Bezeichnung der zugehörigen Seiten im selben Band, auf welchen die Zeichnungen erläutert werden.
+Zu Fig. 1 und 2 (obere Reihe) heißt es in Abschnitt "b. Die heimische Tracht." (S. 17-22) des Kapitels "2. Allgemeine Charakteristik der wendischen Bevölkerung meiner Heimath." (S 7-37), auf S. 19, unmittelbar an den letzten Text zu den Abbildungen der vorigen Seite: "Neben diesen Kopfbekleidungen existieten in jener Gegend auch sogenannte 'Deutsche', bestehend aus Hauben mit breiten Spitzenkrausen, welche den Hals wagrecht umschlossen und Ähnlichkeit mit den Halskrausen hatten, welche um 1600 von Männern und Frauen getragen wurden; am Kopf selbst waren die Spitzen glatt und umgelegt angeheftet. Bei außerordentlichen Gelegenheiten, wenns z.B. über Land oder zur Kirche ging, wie auch bei allen festlichen Zusammenkünften wurde noch ein Kopftuch über die Haube gewickelt, der Art, daß die Tuchzipfel oben eine Schleife bildeten und der Hinterkopf frei, dort also ein weißer runder Haubentheil sichtbar blieb / [...]."
+Zu Fig. 3 (bez. "Hemdenform der / wendischen Frauen.") [und Fig. 4 (bez. "Kurzärmliges 'Kittelchen' darüber.")] heißt es ebd. (S. 21): "Die Hemdenform der wendischen Frauen mit nachtjackenartigem 'Kittelchen' darüber, dessen Ärmel steig geglättet und mehrfach aufgekrämpelt wurden, wichen von den sonstigen Frauenhemdformen gänzlich ab."
+
+Abbildung der Seite: Das Archiv der Landesgeschichtlichen Vereinigung und seine Bestände. Bearb. von Peter Bahl. Frankfurt am Main u.a. 2009, S. 265, Abb. 78.</lido:descriptiveNoteValue>
+               <lido:sourceDescriptiveNote>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:sourceDescriptiveNote>
+            </lido:objectDescriptionSet>
+         </lido:objectDescriptionWrap>
+         <lido:objectMeasurementsWrap>
+            <lido:objectMeasurementsSet>
+               <lido:displayObjectMeasurements>Blattgröße: Höhe 10,5 cm, Breite 17,4 cm (eingebunden in Fadenheftung in ein Buch, mit Ledereinband und Goldprägung)</lido:displayObjectMeasurements>
+               <lido:objectMeasurements/>
+            </lido:objectMeasurementsSet>
+         </lido:objectMeasurementsWrap>
+      </lido:objectIdentificationWrap>
+      <lido:eventWrap>
+         <lido:eventSet>
+            <lido:event>
+               <lido:eventType>
+                  <lido:conceptID lido:type="uri">https://event-types.museum-digital.org/1</lido:conceptID>
+                  <lido:term lido:addedSearchTerm="no">Hergestellt</lido:term>
+               </lido:eventType>
+               <lido:eventActor>
+                  <lido:displayActorInRole>Johann Gottlob Runge (1827-)</lido:displayActorInRole>
+                  <lido:actorInRole>
+                     <lido:actor>
+                        <lido:actorID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/persinst/124931</lido:actorID>
+                        <lido:nameActorSet>
+                           <lido:appellationValue>Runge, Johann Gottlob</lido:appellationValue>
+                           <lido:appellationValue xml:lang="de">Johann Gottlob Runge</lido:appellationValue>
+                        </lido:nameActorSet>
+                        <lido:vitalDatesActor>
+                           <lido:earliestDate>1827</lido:earliestDate>
+                           <lido:latestDate/>
+                        </lido:vitalDatesActor>
+                     </lido:actor>
+                  </lido:actorInRole>
+               </lido:eventActor>
+               <lido:eventDate>
+                  <lido:displayDate>1889 (wahrscheinlich)</lido:displayDate>
+                  <lido:displayDate xml:lang="ar">1889</lido:displayDate>
+                  <lido:displayDate xml:lang="de">1889</lido:displayDate>
+                  <lido:displayDate xml:lang="en">1889</lido:displayDate>
+                  <lido:displayDate xml:lang="es">1889</lido:displayDate>
+                  <lido:displayDate xml:lang="fa">1889</lido:displayDate>
+                  <lido:displayDate xml:lang="fr">1889</lido:displayDate>
+                  <lido:displayDate xml:lang="hu">1889</lido:displayDate>
+                  <lido:displayDate xml:lang="id">1889</lido:displayDate>
+                  <lido:displayDate xml:lang="it">1889</lido:displayDate>
+                  <lido:displayDate xml:lang="ja">1889年</lido:displayDate>
+                  <lido:displayDate xml:lang="ka">1889</lido:displayDate>
+                  <lido:displayDate xml:lang="ko">1889년</lido:displayDate>
+                  <lido:displayDate xml:lang="pl">1889</lido:displayDate>
+                  <lido:displayDate xml:lang="pt">1889</lido:displayDate>
+                  <lido:displayDate xml:lang="ro">1889</lido:displayDate>
+                  <lido:displayDate xml:lang="ru">1889</lido:displayDate>
+                  <lido:displayDate xml:lang="ta">1889</lido:displayDate>
+                  <lido:displayDate xml:lang="tl">1889</lido:displayDate>
+                  <lido:displayDate xml:lang="tr">1889</lido:displayDate>
+                  <lido:displayDate xml:lang="zh">1889年</lido:displayDate>
+                  <lido:date>
+                     <lido:earliestDate>1889</lido:earliestDate>
+                     <lido:latestDate>1889</lido:latestDate>
+                  </lido:date>
+               </lido:eventDate>
+               <lido:eventPlace>
+                  <lido:displayPlace>Landsberg (Warthe)</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ar">غورجوف ويلكوبولسكي</lido:displayPlace>
+                  <lido:displayPlace xml:lang="cs">Gorzów Wielkopolski</lido:displayPlace>
+                  <lido:displayPlace xml:lang="da">Gorzów Wielkopolski</lido:displayPlace>
+                  <lido:displayPlace xml:lang="de">Gorzów Wielkopolski</lido:displayPlace>
+                  <lido:displayPlace xml:lang="en">Gorzów Wielkopolski</lido:displayPlace>
+                  <lido:displayPlace xml:lang="es">Gorzów Wielkopolski</lido:displayPlace>
+                  <lido:displayPlace xml:lang="fa">گورژوف ویلکوپولسکی</lido:displayPlace>
+                  <lido:displayPlace xml:lang="fi">Gorzów Wielkopolski</lido:displayPlace>
+                  <lido:displayPlace xml:lang="fr">Gorzów Wielkopolski</lido:displayPlace>
+                  <lido:displayPlace xml:lang="he">גוז'וב ויילקופולסקי</lido:displayPlace>
+                  <lido:displayPlace xml:lang="hu">Gorzów Wielkopolski</lido:displayPlace>
+                  <lido:displayPlace xml:lang="id">Gorzów Wielkopolski</lido:displayPlace>
+                  <lido:displayPlace xml:lang="it">Gorzów Wielkopolski</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ja">ゴジュフ・ヴィエルコポルスキ</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ko">고주프비엘코폴스키</lido:displayPlace>
+                  <lido:displayPlace xml:lang="nl">Gorzów Wielkopolski (stad)</lido:displayPlace>
+                  <lido:displayPlace xml:lang="pl">Gorzów Wielkopolski</lido:displayPlace>
+                  <lido:displayPlace xml:lang="pt">Gorzów Wielkopolski</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ro">Gorzów Wielkopolski</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ru">Гожув-Велькопольски</lido:displayPlace>
+                  <lido:displayPlace xml:lang="sv">Gorzów Wielkopolski</lido:displayPlace>
+                  <lido:displayPlace xml:lang="th">กอร์ซูฟเวียลคอปอลสกี</lido:displayPlace>
+                  <lido:displayPlace xml:lang="tr">Gorzów Wielkopolski</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ur">گورژوو ویئلوپولسکی</lido:displayPlace>
+                  <lido:displayPlace xml:lang="vi">Gorzów Wielkopolski</lido:displayPlace>
+                  <lido:displayPlace xml:lang="zh">大波蘭地區戈茹夫</lido:displayPlace>
+                  <lido:place>
+                     <lido:placeID lido:source="geonames" lido:type="uri">https://sws.geonames.org/3098722</lido:placeID>
+                     <lido:placeID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4034340-6</lido:placeID>
+                     <lido:placeID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q104731</lido:placeID>
+                     <lido:placeID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/place/56942</lido:placeID>
+                     <lido:namePlaceSet>
+                        <lido:appellationValue>Landsberg (Warthe)</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ar">غورجوف ويلكوبولسكي</lido:appellationValue>
+                        <lido:appellationValue xml:lang="cs">Gorzów Wielkopolski</lido:appellationValue>
+                        <lido:appellationValue xml:lang="da">Gorzów Wielkopolski</lido:appellationValue>
+                        <lido:appellationValue xml:lang="de">Gorzów Wielkopolski</lido:appellationValue>
+                        <lido:appellationValue xml:lang="en">Gorzów Wielkopolski</lido:appellationValue>
+                        <lido:appellationValue xml:lang="es">Gorzów Wielkopolski</lido:appellationValue>
+                        <lido:appellationValue xml:lang="fa">گورژوف ویلکوپولسکی</lido:appellationValue>
+                        <lido:appellationValue xml:lang="fi">Gorzów Wielkopolski</lido:appellationValue>
+                        <lido:appellationValue xml:lang="fr">Gorzów Wielkopolski</lido:appellationValue>
+                        <lido:appellationValue xml:lang="he">גוז'וב ויילקופולסקי</lido:appellationValue>
+                        <lido:appellationValue xml:lang="hu">Gorzów Wielkopolski</lido:appellationValue>
+                        <lido:appellationValue xml:lang="id">Gorzów Wielkopolski</lido:appellationValue>
+                        <lido:appellationValue xml:lang="it">Gorzów Wielkopolski</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ja">ゴジュフ・ヴィエルコポルスキ</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ko">고주프비엘코폴스키</lido:appellationValue>
+                        <lido:appellationValue xml:lang="nl">Gorzów Wielkopolski (stad)</lido:appellationValue>
+                        <lido:appellationValue xml:lang="pl">Gorzów Wielkopolski</lido:appellationValue>
+                        <lido:appellationValue xml:lang="pt">Gorzów Wielkopolski</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ro">Gorzów Wielkopolski</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ru">Гожув-Велькопольски</lido:appellationValue>
+                        <lido:appellationValue xml:lang="sv">Gorzów Wielkopolski</lido:appellationValue>
+                        <lido:appellationValue xml:lang="th">กอร์ซูฟเวียลคอปอลสกี</lido:appellationValue>
+                        <lido:appellationValue xml:lang="tr">Gorzów Wielkopolski</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ur">گورژوو ویئلوپولسکی</lido:appellationValue>
+                        <lido:appellationValue xml:lang="vi">Gorzów Wielkopolski</lido:appellationValue>
+                        <lido:appellationValue xml:lang="zh">大波蘭地區戈茹夫</lido:appellationValue>
+                     </lido:namePlaceSet>
+                     <lido:gml>
+                        <gml:Point xmlns:gml="http://www.opengis.net/gml" srsName="EPSG:4326">
+                           <gml:pos>52.733333587646 15.25</gml:pos>
+                        </gml:Point>
+                     </lido:gml>
+                  </lido:place>
+               </lido:eventPlace>
+            </lido:event>
+         </lido:eventSet>
+         <lido:eventSet>
+            <lido:event>
+               <lido:eventType>
+                  <lido:conceptID lido:type="uri">http://terminology.lido-schema.org/lido00003</lido:conceptID>
+                  <lido:term>Event (non-specified)</lido:term>
+               </lido:eventType>
+               <lido:eventMaterialsTech>
+                  <lido:displayMaterialsTech>Feder auf Papier</lido:displayMaterialsTech>
+               </lido:eventMaterialsTech>
+            </lido:event>
+         </lido:eventSet>
+      </lido:eventWrap>
+      <lido:objectRelationWrap>
+         <lido:subjectWrap>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectActor>
+                     <lido:displayActor>Sorben</lido:displayActor>
+                     <lido:actor>
+                        <lido:actorID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4055619-0</lido:actorID>
+                        <lido:actorID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh85125298</lido:actorID>
+                        <lido:actorID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q146521</lido:actorID>
+                        <lido:actorID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Sorben</lido:actorID>
+                        <lido:actorID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/persinst/132007</lido:actorID>
+                        <lido:nameActorSet>
+                           <lido:appellationValue>Sorben</lido:appellationValue>
+                        </lido:nameActorSet>
+                        <lido:vitalDatesActor>
+                           <lido:earliestDate/>
+                           <lido:latestDate/>
+                        </lido:vitalDatesActor>
+                     </lido:actor>
+                  </lido:subjectActor>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectPlace>
+                     <lido:displayPlace>Gahry</lido:displayPlace>
+                     <lido:displayPlace xml:lang="de">Gahry</lido:displayPlace>
+                     <lido:displayPlace xml:lang="en">Gahry</lido:displayPlace>
+                     <lido:displayPlace xml:lang="fr">Gahry</lido:displayPlace>
+                     <lido:displayPlace xml:lang="nl">Gahry</lido:displayPlace>
+                     <lido:place>
+                        <lido:placeID lido:source="geonames" lido:type="uri">https://sws.geonames.org/</lido:placeID>
+                        <lido:placeID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/1104197634</lido:placeID>
+                        <lido:placeID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q29657274</lido:placeID>
+                        <lido:placeID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/place/57176</lido:placeID>
+                        <lido:namePlaceSet>
+                           <lido:appellationValue>Gahry</lido:appellationValue>
+                           <lido:appellationValue xml:lang="de">Gahry</lido:appellationValue>
+                           <lido:appellationValue xml:lang="en">Gahry</lido:appellationValue>
+                           <lido:appellationValue xml:lang="fr">Gahry</lido:appellationValue>
+                           <lido:appellationValue xml:lang="nl">Gahry</lido:appellationValue>
+                        </lido:namePlaceSet>
+                        <lido:gml>
+                           <gml:Point xmlns:gml="http://www.opengis.net/gml" srsName="EPSG:4326">
+                              <gml:pos>51.680557250977 14.560277938843</gml:pos>
+                           </gml:Point>
+                        </lido:gml>
+                     </lido:place>
+                  </lido:subjectPlace>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="aat" lido:type="uri">http://vocab.getty.edu/aat/300380192</lido:conceptID>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4060554-1</lido:conceptID>
+                     <lido:conceptID lido:source="iconclass" lido:type="uri">http://iconclass.org/rkd/41D3/</lido:conceptID>
+                     <lido:conceptID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q3172759</lido:conceptID>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Tracht_(Kleidung)</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/261</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Tracht</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="cs">Kroj</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="da">Folkedragt</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="de">Tracht</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="el">παραδοσιακή ενδυμασία</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="en">Folk costume</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="es">Traje típico</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fa">لباس محلی (لباس سنتی)</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fi">Kansallispuku</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fr">Costume traditionnel</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="he">לבוש מסורתי</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="id">Pakaian adat</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="it">Costume regionale</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ja">民族服</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="nl">Traditionele klederdracht</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pl">Strój ludowy</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pt">Traje típico</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ro">costum popular</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sv">Folkdräkt</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="vi">Trang phục truyền thống</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="zh">民族服饰</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">http://d-nb.info/gnd/4078937-8</lido:conceptID>
+                     <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh85045198</lido:conceptID>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">http://de.wikipedia.org/wiki/Volkskunde</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/1691</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Volkskunde</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+         </lido:subjectWrap>
+         <lido:relatedWorksWrap/>
+      </lido:objectRelationWrap>
+   </lido:descriptiveMetadata>
+   <lido:administrativeMetadata xml:lang="de">
+      <lido:rightsWorkWrap>
+         <lido:rightsWorkSet>
+            <lido:rightsHolder>
+               <lido:legalBodyName>
+                  <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:rightsHolder>
+         </lido:rightsWorkSet>
+      </lido:rightsWorkWrap>
+      <lido:recordWrap>
+         <lido:recordID lido:type="museum-digital">66925</lido:recordID>
+         <lido:recordType>
+            <lido:term lido:addedSearchTerm="no">item</lido:term>
+         </lido:recordType>
+         <lido:recordSource lido:type="dataProvider">
+            <lido:legalBodyName>
+               <lido:appellationValue>museum-digital</lido:appellationValue>
+            </lido:legalBodyName>
+            <lido:legalBodyWeblink>https://berlin.museum-digital.de/</lido:legalBodyWeblink>
+         </lido:recordSource>
+         <lido:recordSource>
+            <lido:legalBodyID lido:type="isil">DE-B185</lido:legalBodyID>
+            <lido:legalBodyName>
+               <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+            </lido:legalBodyName>
+         </lido:recordSource>
+         <lido:recordRights>
+            <lido:rightsType>
+               <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no">CC BY</lido:term>
+            </lido:rightsType>
+            <lido:rightsHolder>
+               <lido:legalBodyID lido:type="isil">DE-B185</lido:legalBodyID>
+               <lido:legalBodyName>
+                  <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+               </lido:legalBodyName>
+               <lido:legalBodyWeblink>http://geschichte-brandenburg.de/</lido:legalBodyWeblink>
+            </lido:rightsHolder>
+            <lido:creditLine>Förderprogramm zur Digitalisierung von Objekten des kulturellen Erbes des Landes Berlin</lido:creditLine>
+         </lido:recordRights>
+         <lido:recordInfoSet>
+            <lido:recordInfoLink>https://berlin.museum-digital.de/index.php?t=objekt&amp;oges=66925</lido:recordInfoLink>
+            <lido:recordMetadataDate>2021-04-27 07:59:55</lido:recordMetadataDate>
+         </lido:recordInfoSet>
+      </lido:recordWrap>
+      <lido:resourceWrap>
+         <lido:resourceSet lido:sortorder="1">
+            <lido:resourceID lido:source="image" lido:type="local">48511</lido:resourceID>
+            <lido:resourceRepresentation lido:type="masterfile">
+               <lido:linkResource lido:formatResource="image/tiff"/>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_thumb">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/202007/100h_gahry-kr-cottbus-vier-zeichnungen-von-sorbischen-frauentrachten-66925.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_preview">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/202007/200w_gahry-kr-cottbus-vier-zeichnungen-von-sorbischen-frauentrachten-66925.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/202007/gahry-kr-cottbus-vier-zeichnungen-von-sorbischen-frauentrachten-66925.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceType>
+               <lido:term lido:addedSearchTerm="no">image</lido:term>
+            </lido:resourceType>
+            <lido:resourceRelType>
+               <lido:term lido:addedSearchTerm="no">Hauptansicht</lido:term>
+            </lido:resourceRelType>
+            <lido:resourceDescription>Gahry (Kr. Cottbus): Vier Zeichnungen von sorbischen Frauentrachten</lido:resourceDescription>
+            <lido:resourceSource lido:type="creator">
+               <lido:legalBodyName>
+                  <lido:appellationValue>Thomas Voßbeck, 2020</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:resourceSource>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+                  <lido:term lido:addedSearchTerm="no">CC BY</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V.</lido:appellationValue>
+                  </lido:legalBodyName>
+               </lido:rightsHolder>
+               <lido:creditLine>Thomas Voßbeck, 2020</lido:creditLine>
+            </lido:rightsResource>
+         </lido:resourceSet>
+      </lido:resourceWrap>
+   </lido:administrativeMetadata>
+</lido:lido>
+

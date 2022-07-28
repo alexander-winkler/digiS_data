@@ -1,0 +1,404 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lido:lido xmlns:lido="http://www.lido-schema.org"
+           xmlns:xalan="http://xml.apache.org/xalan">
+   <lido:lidoRecID lido:source="https://berlin.museum-digital.de/index.php?t=institution&amp;instnr=32"
+                   lido:type="local">DE-B185/66894</lido:lidoRecID>
+   <lido:category/>
+   <lido:descriptiveMetadata xml:lang="de">
+      <lido:objectClassificationWrap>
+         <lido:objectWorkTypeWrap>
+            <lido:objectWorkType>
+               <lido:conceptID lido:source="gnd" lido:type="uri">http://d-nb.info/gnd/4021845-4</lido:conceptID>
+               <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/13314</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Druckgraphik</lido:term>
+            </lido:objectWorkType>
+         </lido:objectWorkTypeWrap>
+         <lido:classificationWrap>
+            <lido:classification lido:type="Sammlung">
+               <lido:conceptID lido:source="local" lido:type="collection_id">705</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Handzeichnungen, Druckgraphik, Gemälde</lido:term>
+            </lido:classification>
+            <lido:classification lido:type="Sammlung">
+               <lido:conceptID lido:source="local" lido:type="collection_id">710</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Porträts</lido:term>
+            </lido:classification>
+         </lido:classificationWrap>
+      </lido:objectClassificationWrap>
+      <lido:objectIdentificationWrap>
+         <lido:titleWrap>
+            <lido:titleSet>
+               <lido:appellationValue lido:pref="preferred">Beethoven, Ludwig van (1770-1827), Komponist</lido:appellationValue>
+            </lido:titleSet>
+         </lido:titleWrap>
+         <lido:repositoryWrap>
+            <lido:repositorySet lido:type="current">
+               <lido:repositoryName>
+                  <lido:legalBodyID lido:type="isil">DE-B185</lido:legalBodyID>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+                  </lido:legalBodyName>
+                  <lido:legalBodyWeblink>http://geschichte-brandenburg.de/</lido:legalBodyWeblink>
+               </lido:repositoryName>
+               <lido:workID lido:type="inventory number">LGV-Archiv, C 12 G-2-013</lido:workID>
+               <lido:repositoryLocation>
+                  <lido:namePlaceSet>
+                     <lido:appellationValue>Berlin</lido:appellationValue>
+                  </lido:namePlaceSet>
+                  <lido:gml>
+                     <gml:Point xmlns:gml="http://www.opengis.net/gml" srsName="EPSG:4326">
+                        <gml:pos>52.51533127 13.40440559</gml:pos>
+                     </gml:Point>
+                  </lido:gml>
+               </lido:repositoryLocation>
+            </lido:repositorySet>
+         </lido:repositoryWrap>
+         <lido:objectDescriptionWrap>
+            <lido:objectDescriptionSet>
+               <lido:descriptiveNoteValue>Brustbild des Komponisten im Alter en face mit der typischen vorgeschobenen Unterlippe und dem nach vorn geneigten Kopf, die mit dessen kraftvoller Musik assoziiert zum Klischee wurden. Kontrastreicher, früher Abdruck.&#xD;
+&#xD;
+Handschr. li. u. mit Bleistift "I / 47", daneben "L. v. Beethoven", re. u. "Lange", re. u. Trockenstempel "Blaschke R. Drucke" und darüber "79" ligiert, re. u. in der Darstellung datiert "79".&#xD;
+Erworben 1983 (Nachlass Pfarrer Johannes Körber).</lido:descriptiveNoteValue>
+               <lido:sourceDescriptiveNote>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:sourceDescriptiveNote>
+            </lido:objectDescriptionSet>
+         </lido:objectDescriptionWrap>
+         <lido:objectMeasurementsWrap>
+            <lido:objectMeasurementsSet>
+               <lido:displayObjectMeasurements>Blattgröße: Höhe 55 cm, Breite 45 cm ; Bildgröße: Höhe 30,5 cm, Breite 24 cm</lido:displayObjectMeasurements>
+               <lido:objectMeasurements/>
+            </lido:objectMeasurementsSet>
+         </lido:objectMeasurementsWrap>
+      </lido:objectIdentificationWrap>
+      <lido:eventWrap>
+         <lido:eventSet>
+            <lido:event>
+               <lido:eventType>
+                  <lido:conceptID lido:type="uri">https://event-types.museum-digital.org/1</lido:conceptID>
+                  <lido:term lido:addedSearchTerm="no">Hergestellt</lido:term>
+               </lido:eventType>
+               <lido:eventActor>
+                  <lido:displayActorInRole>Peter H. Blaschke (Verlag)</lido:displayActorInRole>
+                  <lido:actorInRole>
+                     <lido:actor>
+                        <lido:actorID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/persinst/124936</lido:actorID>
+                        <lido:nameActorSet>
+                           <lido:appellationValue>Peter H. Blaschke (Verlag)</lido:appellationValue>
+                           <lido:appellationValue xml:lang="de">Peter H. Blaschke (Verlag)</lido:appellationValue>
+                        </lido:nameActorSet>
+                        <lido:vitalDatesActor>
+                           <lido:earliestDate/>
+                           <lido:latestDate/>
+                        </lido:vitalDatesActor>
+                     </lido:actor>
+                  </lido:actorInRole>
+               </lido:eventActor>
+               <lido:eventDate>
+                  <lido:displayDate>1976</lido:displayDate>
+                  <lido:displayDate xml:lang="ar">1976</lido:displayDate>
+                  <lido:displayDate xml:lang="de">1976</lido:displayDate>
+                  <lido:displayDate xml:lang="en">1976</lido:displayDate>
+                  <lido:displayDate xml:lang="es">1976</lido:displayDate>
+                  <lido:displayDate xml:lang="fa">1976</lido:displayDate>
+                  <lido:displayDate xml:lang="fr">1976</lido:displayDate>
+                  <lido:displayDate xml:lang="hu">1976</lido:displayDate>
+                  <lido:displayDate xml:lang="id">1976</lido:displayDate>
+                  <lido:displayDate xml:lang="it">1976</lido:displayDate>
+                  <lido:displayDate xml:lang="ja">1976年</lido:displayDate>
+                  <lido:displayDate xml:lang="ka">1976</lido:displayDate>
+                  <lido:displayDate xml:lang="ko">1976년</lido:displayDate>
+                  <lido:displayDate xml:lang="pl">1976</lido:displayDate>
+                  <lido:displayDate xml:lang="pt">1976</lido:displayDate>
+                  <lido:displayDate xml:lang="ro">1976</lido:displayDate>
+                  <lido:displayDate xml:lang="ru">1976</lido:displayDate>
+                  <lido:displayDate xml:lang="ta">1976</lido:displayDate>
+                  <lido:displayDate xml:lang="tl">1976</lido:displayDate>
+                  <lido:displayDate xml:lang="tr">1976</lido:displayDate>
+                  <lido:displayDate xml:lang="zh">1976年</lido:displayDate>
+                  <lido:date>
+                     <lido:earliestDate>1976</lido:earliestDate>
+                     <lido:latestDate>1976</lido:latestDate>
+                  </lido:date>
+               </lido:eventDate>
+            </lido:event>
+         </lido:eventSet>
+         <lido:eventSet>
+            <lido:event>
+               <lido:eventType>
+                  <lido:conceptID lido:type="uri">http://terminology.lido-schema.org/lido00003</lido:conceptID>
+                  <lido:term>Event (non-specified)</lido:term>
+               </lido:eventType>
+               <lido:eventMaterialsTech>
+                  <lido:displayMaterialsTech>Lithographie auf getöntem Velin</lido:displayMaterialsTech>
+               </lido:eventMaterialsTech>
+            </lido:event>
+         </lido:eventSet>
+      </lido:eventWrap>
+      <lido:objectRelationWrap>
+         <lido:subjectWrap>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="aat" lido:type="uri">http://vocab.getty.edu/aat/300015637</lido:conceptID>
+                     <lido:conceptID lido:source="iconclass" lido:type="uri">http://iconclass.org/rkd/61B11/</lido:conceptID>
+                     <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh99001681</lido:conceptID>
+                     <lido:conceptID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q134307</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/22</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Porträt</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ar">بورتريه</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="cs">Portrét</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="da">Portræt</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="de">Porträt</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="el">προσωπογραφία</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="en">Portrait</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="es">Retrato</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fa">چهره‌نگاری</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fi">Muotokuva</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fr">Portrait</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="he">דיוקן</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hi">चित्र</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hu">arckép</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="id">Potret</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="it">Ritratto</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ja">肖像</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ka">პორტრეტი</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ko">초상</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="nl">Portret</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pl">Portret</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pt">Retrato</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ro">portret</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ru">портрет</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sv">Porträtt</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="th">ภาพเหมือน</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tr">Portre</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="zh">肖像</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="aat" lido:type="uri">http://vocab.getty.edu/aat/300025666</lido:conceptID>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4040841-3</lido:conceptID>
+                     <lido:conceptID lido:source="iconclass" lido:type="uri">http://iconclass.org/rkd/48C72/</lido:conceptID>
+                     <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh85089027</lido:conceptID>
+                     <lido:conceptID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q639669</lido:conceptID>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Musiker</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/3091</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Musiker</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ar">موسيقي</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="cs">Hudebník</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="da">Musiker</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="de">Musiker</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="el">μουσικός</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="en">Musician</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="es">Músico</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fa">موسیقی‌دان</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fi">Muusikko</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fr">Musicien</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ha">mawaƙi</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="he">מוזיקאי</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hi">संगीतकार</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hu">zenész</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="id">Musikus</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="it">Musicista</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ja">音楽家</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ka">მუსიკოსი</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ko">음악가</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="nl">Muzikant</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pl">Muzyk</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pt">Músico</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ro">muzician</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ru">музыкант</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sv">Musiker</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sw">Mwanamuziki</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="th">นักดนตรี</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tr">Müzisyen</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ur">موسیقار</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="vi">nhạc sĩ</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="zh">音樂家</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4032009-1</lido:conceptID>
+                     <lido:conceptID lido:source="iconclass" lido:type="uri">http://iconclass.org/rkd/48C71/</lido:conceptID>
+                     <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh85029386</lido:conceptID>
+                     <lido:conceptID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q36834</lido:conceptID>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">https://en.wikipedia.org/wiki/Composer</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/7838</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Komponist</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ar">ملحن</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="bn">সুরকার</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="cs">Hudební skladatel</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="da">Komponist</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="de">Komponist</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="el">συνθέτης</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="en">Composer</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="es">Compositor</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fa">آهنگساز</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fi">Säveltäjä</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fr">Compositeur</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="he">מלחין</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hi">संगीत रचयिता</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hu">zeneszerző</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="id">Komponis</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="it">Compositore</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ja">作曲家</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ka">კომპოზიტორი</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ko">작곡가</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="nl">Componist</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pl">Kompozytor</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pt">Compositor</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ro">compozitor</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ru">композитор</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sv">Kompositör</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sw">Mtunzi</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="th">คีตกวี</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tl">Kompositor</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tr">Besteci</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ur">نغمہ ساز</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="vi">nhà soạn nhạc</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="zh">作曲家</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4021845-4</lido:conceptID>
+                     <lido:conceptID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q1027879</lido:conceptID>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">https://en.wikipedia.org/wiki/Graphics</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/13314</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Druckgraphik</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ar">رسوميات</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="bn">গ্রাফিক্স</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="cs">Grafika</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="de">Druckgraphik</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="el">Γραφικά</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="en">Graphics</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="es">gráficos</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fa">ارتباط تصویری</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fr">Graphique</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="he">גרפיקה</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hi">चित्रालेख</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hu">Grafika</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="id">Grafika</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ja">グラフィック</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ka">გრაფიკა</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ko">그래픽</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="nl">Grafiek</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pl">Grafika</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pt">Gráfico</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ro">grafică</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ru">графика</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ta">வரைகலை</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tr">Grafik</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ur">تخطیط</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="zh">图形</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+         </lido:subjectWrap>
+         <lido:relatedWorksWrap>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:displayObject>Mehr über den Dargestellten:</lido:displayObject>
+                  <lido:object>
+                     <lido:objectWebResource>https://de.wikipedia.org/wiki/Ludwig_van_Beethoven</lido:objectWebResource>
+                  </lido:object>
+               </lido:relatedWork>
+            </lido:relatedWorkSet>
+         </lido:relatedWorksWrap>
+      </lido:objectRelationWrap>
+   </lido:descriptiveMetadata>
+   <lido:administrativeMetadata xml:lang="de">
+      <lido:rightsWorkWrap>
+         <lido:rightsWorkSet>
+            <lido:rightsHolder>
+               <lido:legalBodyName>
+                  <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:rightsHolder>
+         </lido:rightsWorkSet>
+      </lido:rightsWorkWrap>
+      <lido:recordWrap>
+         <lido:recordID lido:type="museum-digital">66894</lido:recordID>
+         <lido:recordType>
+            <lido:term lido:addedSearchTerm="no">item</lido:term>
+         </lido:recordType>
+         <lido:recordSource lido:type="dataProvider">
+            <lido:legalBodyName>
+               <lido:appellationValue>museum-digital</lido:appellationValue>
+            </lido:legalBodyName>
+            <lido:legalBodyWeblink>https://berlin.museum-digital.de/</lido:legalBodyWeblink>
+         </lido:recordSource>
+         <lido:recordSource>
+            <lido:legalBodyID lido:type="isil">DE-B185</lido:legalBodyID>
+            <lido:legalBodyName>
+               <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+            </lido:legalBodyName>
+         </lido:recordSource>
+         <lido:recordRights>
+            <lido:rightsType>
+               <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no">CC BY</lido:term>
+            </lido:rightsType>
+            <lido:rightsHolder>
+               <lido:legalBodyID lido:type="isil">DE-B185</lido:legalBodyID>
+               <lido:legalBodyName>
+                  <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+               </lido:legalBodyName>
+               <lido:legalBodyWeblink>http://geschichte-brandenburg.de/</lido:legalBodyWeblink>
+            </lido:rightsHolder>
+            <lido:creditLine>Förderprogramm zur Digitalisierung von Objekten des kulturellen Erbes des Landes Berlin</lido:creditLine>
+         </lido:recordRights>
+         <lido:recordInfoSet>
+            <lido:recordInfoLink>https://berlin.museum-digital.de/index.php?t=objekt&amp;oges=66894</lido:recordInfoLink>
+            <lido:recordMetadataDate>2021-04-27 07:59:55</lido:recordMetadataDate>
+         </lido:recordInfoSet>
+      </lido:recordWrap>
+      <lido:resourceWrap>
+         <lido:resourceSet lido:sortorder="1">
+            <lido:resourceID lido:source="image" lido:type="local">48480</lido:resourceID>
+            <lido:resourceRepresentation lido:type="masterfile">
+               <lido:linkResource lido:formatResource="image/tiff"/>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_thumb">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/202007/100h_beethoven-ludwig-van-1770-1827-komponist-66894.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_preview">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/202007/200w_beethoven-ludwig-van-1770-1827-komponist-66894.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/202007/beethoven-ludwig-van-1770-1827-komponist-66894.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceType>
+               <lido:term lido:addedSearchTerm="no">image</lido:term>
+            </lido:resourceType>
+            <lido:resourceRelType>
+               <lido:term lido:addedSearchTerm="no">Hauptansicht</lido:term>
+            </lido:resourceRelType>
+            <lido:resourceDescription>Beethoven, Ludwig van (1770-1827), Komponist</lido:resourceDescription>
+            <lido:resourceSource lido:type="creator">
+               <lido:legalBodyName>
+                  <lido:appellationValue>Thomas Voßbeck, 2020</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:resourceSource>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+                  <lido:term lido:addedSearchTerm="no">CC BY</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V.</lido:appellationValue>
+                  </lido:legalBodyName>
+               </lido:rightsHolder>
+               <lido:creditLine>Thomas Voßbeck, 2020</lido:creditLine>
+            </lido:rightsResource>
+         </lido:resourceSet>
+      </lido:resourceWrap>
+   </lido:administrativeMetadata>
+</lido:lido>
+

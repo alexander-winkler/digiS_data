@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lido:lido xmlns:lido="http://www.lido-schema.org"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <lido:lidoRecID lido:type="http://terminology.lido-schema.org/identifier_type/local_identifier">DE-MUS-061525/1351062</lido:lidoRecID>
+   <lido:descriptiveMetadata xml:lang="de">
+      <lido:objectClassificationWrap>
+         <lido:objectWorkTypeWrap>
+            <lido:objectWorkType>
+               <lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://d-nb.info/gnd/4003942-0</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no">Autograph</lido:term>
+            </lido:objectWorkType>
+         </lido:objectWorkTypeWrap>
+      </lido:objectClassificationWrap>
+      <lido:objectIdentificationWrap>
+         <lido:titleWrap>
+            <lido:titleSet>
+               <lido:appellationValue lido:pref="preferred">Caroline Lucretia Herschel, Albumblatt</lido:appellationValue>
+            </lido:titleSet>
+         </lido:titleWrap>
+         <lido:repositoryWrap>
+            <lido:repositorySet>
+               <lido:repositoryName>
+                  <lido:legalBodyID lido:source="ISIL (ISO 15511)"
+                                    lido:type="http://terminology.lido-schema.org/identifier_type/uri">info:isil/DE-MUS-061525</lido:legalBodyID>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Stiftung Stadtmuseum Berlin</lido:appellationValue>
+                  </lido:legalBodyName>
+                  <lido:legalBodyWeblink>https://www.stadtmuseum.de</lido:legalBodyWeblink>
+               </lido:repositoryName>
+               <lido:workID lido:type="Inventarnummer">HU 99/171 QA</lido:workID>
+               <lido:repositoryLocation>
+                  <lido:placeID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://www.geonames.org/2950159</lido:placeID>
+                  <lido:namePlaceSet>
+                     <lido:appellationValue>Berlin</lido:appellationValue>
+                  </lido:namePlaceSet>
+               </lido:repositoryLocation>
+            </lido:repositorySet>
+         </lido:repositoryWrap>
+         <lido:objectDescriptionWrap>
+            <lido:objectDescriptionSet>
+               <lido:descriptiveNoteValue>Albumblatt mit eigenhändigem Namenszug von Caroline Lucretia Herschel (16.03.1750, Hannover – 09.01.1848, Hannover), deutsche Astronomin, Hannover 18.06.1847.
+
+Caroline war die Schwester des Astronomen Friedrich Wilhelm Herschel. Der Vater, von Beruf Militärmusiker, strebte für seine Kinder ebenfalls eine musikalische Ausbildung an. Caroline wurde Konzertsängerin. Als ihr Bruder Friedrich Wilhelm nach England auswanderte, begleitete sie ihn und unterstützte ihn als Haushälterin. Sie trat aber auch erfolgreich als Sängerin bei Aufführungen der von ihm komponierten Oratorien auf. Jedoch lehnte sie andere Engagements ab, da sie ihren Bruder nicht verlassen wollte. Ihm half sie auch bei der Herstellung von Spiegelteleskopen und bei seinen astronomischen Beobachtungen. 1781 folgte sie ihm, als er nach seiner Entdeckung des Uranus die Musik aufgab und sich in Slough ganz der Astronomie widmete. Sie erhielt vom Königshof eine Anstellung als Gehilfin ihres Bruders mit festem Gehalt, widmete sich nun aber auch eigenen Beobachtungen, schrieb astronomische Abhandlungen und verfasste Sternenkataloge. Für ihre Arbeiten und Entdeckungen erhielt sie große Anerkennung. Nach dem Tode ihres Bruders kehrte sie nach Hannover zurück. Dort setzte sie ihre astronomischen Beobachtungen fort. Zeitlebens blieb Caroline Herschel eine überaus bescheidene Frau, die ausschließlich die Leistungen ihres Bruders in den Vordergrund stellte.</lido:descriptiveNoteValue>
+            </lido:objectDescriptionSet>
+         </lido:objectDescriptionWrap>
+         <lido:objectMeasurementsWrap>
+            <lido:objectMeasurementsSet>
+               <lido:displayObjectMeasurements>Albumblatt (HxB): 11,6 x 9,5 cm</lido:displayObjectMeasurements>
+               <lido:objectMeasurements>
+                  <lido:measurementsSet>
+                     <lido:measurementType>Höhe</lido:measurementType>
+                     <lido:measurementUnit>mm</lido:measurementUnit>
+                     <lido:measurementValue>116</lido:measurementValue>
+                  </lido:measurementsSet>
+                  <lido:measurementsSet>
+                     <lido:measurementType>Breite</lido:measurementType>
+                     <lido:measurementUnit>mm</lido:measurementUnit>
+                     <lido:measurementValue>95</lido:measurementValue>
+                  </lido:measurementsSet>
+               </lido:objectMeasurements>
+            </lido:objectMeasurementsSet>
+            <lido:objectMeasurementsSet>
+               <lido:displayObjectMeasurements>Autograph J.F.W. Herschel (HxB): 11,4 x 17,8 cm</lido:displayObjectMeasurements>
+               <lido:objectMeasurements>
+                  <lido:measurementsSet>
+                     <lido:measurementType>Höhe</lido:measurementType>
+                     <lido:measurementUnit>mm</lido:measurementUnit>
+                     <lido:measurementValue>114</lido:measurementValue>
+                  </lido:measurementsSet>
+                  <lido:measurementsSet>
+                     <lido:measurementType>Breite</lido:measurementType>
+                     <lido:measurementUnit>mm</lido:measurementUnit>
+                     <lido:measurementValue>178</lido:measurementValue>
+                  </lido:measurementsSet>
+               </lido:objectMeasurements>
+            </lido:objectMeasurementsSet>
+         </lido:objectMeasurementsWrap>
+      </lido:objectIdentificationWrap>
+      <lido:eventWrap>
+         <lido:eventSet>
+            <lido:event>
+               <lido:eventType>
+                  <lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://terminology.lido-schema.org/lido00007</lido:conceptID>
+                  <lido:term lido:addedSearchTerm="no">Herstellung</lido:term>
+               </lido:eventType>
+               <lido:eventActor lido:sortorder="1">
+                  <lido:displayActorInRole>Herschel, Caroline Lucretia (1750-1848) (Autor)</lido:displayActorInRole>
+                  <lido:actorInRole>
+                     <lido:actor lido:type="http://terminology.lido-schema.org/actor_type/person">
+                        <lido:actorID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://d-nb.info/gnd/119506610</lido:actorID>
+                        <lido:nameActorSet>
+                           <lido:appellationValue>Herschel, Caroline Lucretia</lido:appellationValue>
+                        </lido:nameActorSet>
+                     </lido:actor>
+                     <lido:roleActor>
+                        <lido:term lido:addedSearchTerm="no">Autor</lido:term>
+                     </lido:roleActor>
+                  </lido:actorInRole>
+               </lido:eventActor>
+               <lido:eventActor lido:sortorder="2">
+                  <lido:displayActorInRole>Herschel, John F. W. (1792-1871) (Autor)</lido:displayActorInRole>
+                  <lido:actorInRole>
+                     <lido:actor lido:type="http://terminology.lido-schema.org/actor_type/person">
+                        <lido:actorID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://d-nb.info/gnd/118703897</lido:actorID>
+                        <lido:nameActorSet>
+                           <lido:appellationValue>Herschel, John F. W.</lido:appellationValue>
+                        </lido:nameActorSet>
+                     </lido:actor>
+                     <lido:roleActor>
+                        <lido:term lido:addedSearchTerm="no">Autor</lido:term>
+                     </lido:roleActor>
+                  </lido:actorInRole>
+               </lido:eventActor>
+               <lido:eventDate>
+                  <lido:displayDate>18.06.1847</lido:displayDate>
+                  <lido:date>
+                     <lido:earliestDate>1847</lido:earliestDate>
+                     <lido:latestDate>1847</lido:latestDate>
+                  </lido:date>
+               </lido:eventDate>
+               <lido:eventPlace>
+                  <lido:displayPlace>Hannover</lido:displayPlace>
+                  <lido:place>
+                     <lido:placeID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://www.geonames.org/2910831</lido:placeID>
+                     <lido:namePlaceSet>
+                        <lido:appellationValue>Hannover</lido:appellationValue>
+                     </lido:namePlaceSet>
+                  </lido:place>
+               </lido:eventPlace>
+               <lido:eventMaterialsTech>
+                  <lido:displayMaterialsTech>Eigenhändiger Namenszug auf Albumblatt.</lido:displayMaterialsTech>
+                  <lido:materialsTech>
+                     <lido:termMaterialsTech lido:sortorder="1"
+                                             lido:type="http://terminology.lido-schema.org/termMaterialsTech_type/technique">
+                        <lido:term lido:addedSearchTerm="no">Handschrift</lido:term>
+                     </lido:termMaterialsTech>
+                     <lido:termMaterialsTech lido:sortorder="1"
+                                             lido:type="http://terminology.lido-schema.org/termMaterialsTech_type/material">
+                        <lido:term lido:addedSearchTerm="no">Papier</lido:term>
+                     </lido:termMaterialsTech>
+                  </lido:materialsTech>
+               </lido:eventMaterialsTech>
+            </lido:event>
+         </lido:eventSet>
+      </lido:eventWrap>
+      <lido:objectRelationWrap>
+         <lido:subjectWrap>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://d-nb.info/gnd/4140367-8</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Unterschrift</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://d-nb.info/gnd/4003310-7</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Astronom</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://d-nb.info/gnd/4141451-2</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Adressbuch</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+         </lido:subjectWrap>
+      </lido:objectRelationWrap>
+   </lido:descriptiveMetadata>
+   <lido:administrativeMetadata xml:lang="de">
+      <lido:rightsWorkWrap>
+         <lido:rightsWorkSet>
+            <lido:rightsType>
+               <lido:term lido:addedSearchTerm="no">Eigentumsrechte</lido:term>
+            </lido:rightsType>
+            <lido:rightsHolder>
+               <lido:legalBodyName>
+                  <lido:appellationValue>Stiftung Stadtmuseum Berlin</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:rightsHolder>
+         </lido:rightsWorkSet>
+      </lido:rightsWorkWrap>
+      <lido:recordWrap>
+         <lido:recordID lido:type="http://terminology.lido-schema.org/identifier_type/local_identifier">1351062</lido:recordID>
+         <lido:recordType>
+            <lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://terminology.lido-schema.org/lido00141</lido:conceptID>
+            <lido:term lido:addedSearchTerm="no">Einzelobjekt</lido:term>
+         </lido:recordType>
+         <lido:recordSource>
+            <lido:legalBodyID lido:source="ISIL (ISO 15511)"
+                              lido:type="http://terminology.lido-schema.org/identifier_type/uri">info:isil/DE-MUS-061525</lido:legalBodyID>
+            <lido:legalBodyName>
+               <lido:appellationValue>Stiftung Stadtmuseum Berlin</lido:appellationValue>
+            </lido:legalBodyName>
+         </lido:recordSource>
+         <lido:recordRights>
+            <lido:rightsType>
+               <lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">https://creativecommons.org/publicdomain/zero/1.0/</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no">CC0 1.0 Universal (CC0 1.0) Public Domain Dedication</lido:term>
+            </lido:rightsType>
+            <lido:creditLine>Förderprogramm zur Digitalisierung von Objekten des kulturellen Erbes des Landes Berlin</lido:creditLine>
+         </lido:recordRights>
+         <lido:recordInfoSet>
+            <lido:recordInfoLink>https://sammlung-online.stadtmuseum.de/Details/Index/1351062</lido:recordInfoLink>
+            <lido:recordMetadataDate>2021-06-08T14:46:01</lido:recordMetadataDate>
+         </lido:recordInfoSet>
+      </lido:recordWrap>
+      <lido:resourceWrap>
+         <lido:resourceSet>
+            <lido:resourceID lido:type="http://terminology.lido-schema.org/identifier_type/local_identifier">HU 99''str''171 QA_5</lido:resourceID>
+            <lido:resourceRepresentation lido:type="Provided image">
+               <lido:linkResource lido:formatResource="jpg">https://sammlung-online.stadtmuseum.de/imagescreate/image?id=1351062&amp;type=gross</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceType>
+               <lido:term lido:addedSearchTerm="no">Digitalfoto</lido:term>
+            </lido:resourceType>
+            <lido:resourceRelType>
+               <lido:term lido:addedSearchTerm="no">Vorschaubild</lido:term>
+            </lido:resourceRelType>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">https://creativecommons.org/publicdomain/mark/1.0/</lido:conceptID>
+                  <lido:term lido:addedSearchTerm="no">Public Domain</lido:term>
+               </lido:rightsType>
+            </lido:rightsResource>
+         </lido:resourceSet>
+      </lido:resourceWrap>
+   </lido:administrativeMetadata>
+</lido:lido>
+

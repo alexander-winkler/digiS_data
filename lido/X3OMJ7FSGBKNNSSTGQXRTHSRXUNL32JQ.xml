@@ -1,0 +1,516 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lido:lido xmlns:lido="http://www.lido-schema.org"
+           xmlns:xalan="http://xml.apache.org/xalan">
+   <lido:lidoRecID lido:source="https://berlin.museum-digital.de/index.php?t=institution&amp;instnr=26"
+                   lido:type="local">ddb_oid1612959125221_66326</lido:lidoRecID>
+   <lido:descriptiveMetadata xml:lang="de">
+      <lido:objectClassificationWrap>
+         <lido:objectWorkTypeWrap>
+            <lido:objectWorkType>
+               <lido:term lido:addedSearchTerm="no">Planfilm-Negativ</lido:term>
+            </lido:objectWorkType>
+         </lido:objectWorkTypeWrap>
+         <lido:classificationWrap>
+            <lido:classification lido:type="Sammlung">
+               <lido:conceptID lido:source="local" lido:type="collection_id">547</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no">Künstlerinnen und Künstler</lido:term>
+            </lido:classification>
+         </lido:classificationWrap>
+      </lido:objectClassificationWrap>
+      <lido:objectIdentificationWrap>
+         <lido:titleWrap>
+            <lido:titleSet>
+               <lido:appellationValue lido:pref="preferred">Künstlerporträt Joachim Dunkel (1925-2002) (8)</lido:appellationValue>
+            </lido:titleSet>
+         </lido:titleWrap>
+         <lido:inscriptionsWrap>
+            <lido:inscriptions>
+               <lido:inscriptionDescription>
+                  <lido:descriptiveNoteValue>4860 Haucke</lido:descriptiveNoteValue>
+               </lido:inscriptionDescription>
+            </lido:inscriptions>
+         </lido:inscriptionsWrap>
+         <lido:repositoryWrap>
+            <lido:repositorySet lido:type="current">
+               <lido:repositoryName>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Gerda Schimpf Fotoarchiv</lido:appellationValue>
+                  </lido:legalBodyName>
+                  <lido:legalBodyWeblink>https://gerda-schimpf-fotoarchiv.com</lido:legalBodyWeblink>
+               </lido:repositoryName>
+               <lido:workID lido:type="inventory number">4860</lido:workID>
+               <lido:repositoryLocation>
+                  <lido:namePlaceSet>
+                     <lido:appellationValue>Berlin</lido:appellationValue>
+                  </lido:namePlaceSet>
+                  <lido:gml/>
+               </lido:repositoryLocation>
+            </lido:repositorySet>
+         </lido:repositoryWrap>
+         <lido:objectDescriptionWrap>
+            <lido:objectDescriptionSet>
+               <lido:descriptiveNoteValue>Schwarzweißporträt, ca. 1940er Jahre&lt;br&gt;
+&lt;br&gt;
+Bruststück, Viertelprofil mit leicht nach rechts gedrehtem Kopf und Oberkörper - das Porträt zeigt den Künstler in jungen Jahren. Er lächelt mit leicht geöffneten Lippen. Er schaut vom Betrachter weg nach rechts unten. &lt;br&gt;
+Der junge Mann hat ein schmales längliches, eher hageres Gesicht mit einer hohen Stirn, schmale längliche Augen und eine gerade nach unten breiter werdende Nase. Seine Haare sind von mittelblonder Farbe und feiner Struktur. Er trägt sie seitlich rechts gescheitelt und glatt am Kopf anliegend. Er trägt ein großkariertes, mehrfarbiges Hemd mit spitzem Kragen, dessen oberster Knopf offensteht und darüber ein feingestreiftes Sakko mit breitem Revers. Im Bild zu sehen ist seine linke bis zum Kinn erhobene Hand, der Arm ist angewinkelt. Zwischen dem Zeige- und dem Mittelfinger hält er eine Zigarette.&lt;br&gt;
+&lt;br&gt;
+I.K.</lido:descriptiveNoteValue>
+               <lido:sourceDescriptiveNote>Gerda Schimpf Fotoarchiv</lido:sourceDescriptiveNote>
+            </lido:objectDescriptionSet>
+         </lido:objectDescriptionWrap>
+         <lido:objectMeasurementsWrap>
+            <lido:objectMeasurementsSet>
+               <lido:displayObjectMeasurements>Höhe: 6 cm, Breite: 9 cm</lido:displayObjectMeasurements>
+               <lido:objectMeasurements>
+                  <lido:measurementsSet>
+                     <lido:measurementType>width</lido:measurementType>
+                     <lido:measurementUnit>cm</lido:measurementUnit>
+                     <lido:measurementValue>9</lido:measurementValue>
+                  </lido:measurementsSet>
+                  <lido:measurementsSet>
+                     <lido:measurementType>height</lido:measurementType>
+                     <lido:measurementUnit>cm</lido:measurementUnit>
+                     <lido:measurementValue>6</lido:measurementValue>
+                  </lido:measurementsSet>
+               </lido:objectMeasurements>
+            </lido:objectMeasurementsSet>
+         </lido:objectMeasurementsWrap>
+      </lido:objectIdentificationWrap>
+      <lido:eventWrap>
+         <lido:eventSet>
+            <lido:displayEvent>Aufgenommen</lido:displayEvent>
+            <lido:event>
+               <lido:eventID lido:type="local">164991</lido:eventID>
+               <lido:eventType>
+                  <lido:conceptID lido:type="uri">https://event-types.museum-digital.org/10</lido:conceptID>
+                  <lido:term lido:addedSearchTerm="no">Aufgenommen</lido:term>
+               </lido:eventType>
+               <lido:eventActor>
+                  <lido:displayActorInRole>Gerda Schimpf (1913-2014)</lido:displayActorInRole>
+                  <lido:actorInRole>
+                     <lido:actor>
+                        <lido:actorID lido:source="gnd" lido:type="uri">http://d-nb.info/gnd/1131575903</lido:actorID>
+                        <lido:actorID lido:source="viaf" lido:type="uri">https://viaf.org/viaf/2653149489090493810007</lido:actorID>
+                        <lido:actorID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/persinst/42576</lido:actorID>
+                        <lido:nameActorSet>
+                           <lido:appellationValue>Schimpf, Gerda</lido:appellationValue>
+                        </lido:nameActorSet>
+                        <lido:vitalDatesActor>
+                           <lido:earliestDate>1913</lido:earliestDate>
+                           <lido:latestDate>2014</lido:latestDate>
+                        </lido:vitalDatesActor>
+                     </lido:actor>
+                  </lido:actorInRole>
+               </lido:eventActor>
+               <lido:eventPlace>
+                  <lido:displayPlace>Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ar">برلين</lido:displayPlace>
+                  <lido:displayPlace xml:lang="bn">বার্লিন</lido:displayPlace>
+                  <lido:displayPlace xml:lang="cs">Berlín</lido:displayPlace>
+                  <lido:displayPlace xml:lang="da">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="el">Βερολίνο</lido:displayPlace>
+                  <lido:displayPlace xml:lang="en">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="es">Berlín</lido:displayPlace>
+                  <lido:displayPlace xml:lang="fa">برلین</lido:displayPlace>
+                  <lido:displayPlace xml:lang="fi">Berliini</lido:displayPlace>
+                  <lido:displayPlace xml:lang="fr">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ha">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="he">ברלין</lido:displayPlace>
+                  <lido:displayPlace xml:lang="hi">बर्लिन</lido:displayPlace>
+                  <lido:displayPlace xml:lang="hu">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="id">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="it">Berlino</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ja">ベルリン</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ka">ბერლინი</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ko">베를린</lido:displayPlace>
+                  <lido:displayPlace xml:lang="nl">Berlijn</lido:displayPlace>
+                  <lido:displayPlace xml:lang="pl">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="pt">Berlim</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ro">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ru">Берлин</lido:displayPlace>
+                  <lido:displayPlace xml:lang="sv">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="sw">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ta">பெர்லின்</lido:displayPlace>
+                  <lido:displayPlace xml:lang="th">เบอร์ลิน</lido:displayPlace>
+                  <lido:displayPlace xml:lang="tl">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="tr">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ur">برلن</lido:displayPlace>
+                  <lido:displayPlace xml:lang="vi">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="zh">柏林</lido:displayPlace>
+                  <lido:place>
+                     <lido:placeID lido:source="geonames" lido:type="uri">https://sws.geonames.org/2950159</lido:placeID>
+                     <lido:placeID lido:source="TGN" lido:type="uri">http://vocab.getty.edu/tgn/7209904</lido:placeID>
+                     <lido:placeID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4005728-8</lido:placeID>
+                     <lido:placeID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q64</lido:placeID>
+                     <lido:placeID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/place/61</lido:placeID>
+                     <lido:namePlaceSet>
+                        <lido:appellationValue>Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ar">برلين</lido:appellationValue>
+                        <lido:appellationValue xml:lang="bn">বার্লিন</lido:appellationValue>
+                        <lido:appellationValue xml:lang="cs">Berlín</lido:appellationValue>
+                        <lido:appellationValue xml:lang="da">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="el">Βερολίνο</lido:appellationValue>
+                        <lido:appellationValue xml:lang="en">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="es">Berlín</lido:appellationValue>
+                        <lido:appellationValue xml:lang="fa">برلین</lido:appellationValue>
+                        <lido:appellationValue xml:lang="fi">Berliini</lido:appellationValue>
+                        <lido:appellationValue xml:lang="fr">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ha">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="he">ברלין</lido:appellationValue>
+                        <lido:appellationValue xml:lang="hi">बर्लिन</lido:appellationValue>
+                        <lido:appellationValue xml:lang="hu">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="id">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="it">Berlino</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ja">ベルリン</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ka">ბერლინი</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ko">베를린</lido:appellationValue>
+                        <lido:appellationValue xml:lang="nl">Berlijn</lido:appellationValue>
+                        <lido:appellationValue xml:lang="pl">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="pt">Berlim</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ro">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ru">Берлин</lido:appellationValue>
+                        <lido:appellationValue xml:lang="sv">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="sw">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ta">பெர்லின்</lido:appellationValue>
+                        <lido:appellationValue xml:lang="th">เบอร์ลิน</lido:appellationValue>
+                        <lido:appellationValue xml:lang="tl">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="tr">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ur">برلن</lido:appellationValue>
+                        <lido:appellationValue xml:lang="vi">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="zh">柏林</lido:appellationValue>
+                     </lido:namePlaceSet>
+                     <lido:gml/>
+                  </lido:place>
+               </lido:eventPlace>
+            </lido:event>
+         </lido:eventSet>
+         <lido:eventSet>
+            <lido:event>
+               <lido:eventType>
+                  <lido:conceptID lido:type="uri">http://terminology.lido-schema.org/lido00003</lido:conceptID>
+                  <lido:term>Event (non-specified)</lido:term>
+               </lido:eventType>
+               <lido:eventMaterialsTech>
+                  <lido:displayMaterialsTech>Negativfilm Zelluloseacetat</lido:displayMaterialsTech>
+               </lido:eventMaterialsTech>
+            </lido:event>
+         </lido:eventSet>
+      </lido:eventWrap>
+      <lido:objectRelationWrap>
+         <lido:subjectWrap>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectDate>
+                     <lido:displayDate>1940-1949</lido:displayDate>
+                     <lido:displayDate xml:lang="ar">1940-1949</lido:displayDate>
+                     <lido:displayDate xml:lang="en">1940s</lido:displayDate>
+                     <lido:displayDate xml:lang="es">1940-1949</lido:displayDate>
+                     <lido:displayDate xml:lang="fa">دهه 1940</lido:displayDate>
+                     <lido:displayDate xml:lang="fr">Années 1940</lido:displayDate>
+                     <lido:displayDate xml:lang="hu">1940-es évek</lido:displayDate>
+                     <lido:displayDate xml:lang="id">Tahun 1940-an</lido:displayDate>
+                     <lido:displayDate xml:lang="it">1940s</lido:displayDate>
+                     <lido:displayDate xml:lang="ja">1940年代</lido:displayDate>
+                     <lido:displayDate xml:lang="ka">1940-იანი წლები</lido:displayDate>
+                     <lido:displayDate xml:lang="ko">1940 년대</lido:displayDate>
+                     <lido:displayDate xml:lang="pl">1940 roku</lido:displayDate>
+                     <lido:displayDate xml:lang="pt">Década de 1940</lido:displayDate>
+                     <lido:displayDate xml:lang="ro">Anii 1940</lido:displayDate>
+                     <lido:displayDate xml:lang="ru">1940-е годы</lido:displayDate>
+                     <lido:displayDate xml:lang="ta">1940 கள்</lido:displayDate>
+                     <lido:displayDate xml:lang="tl">1940s</lido:displayDate>
+                     <lido:displayDate xml:lang="tr">1940'ler</lido:displayDate>
+                     <lido:displayDate xml:lang="zh">1940年代</lido:displayDate>
+                     <lido:date>
+                        <lido:earliestDate>1940</lido:earliestDate>
+                        <lido:latestDate>1949</lido:latestDate>
+                     </lido:date>
+                  </lido:subjectDate>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectPlace>
+                     <lido:displayPlace>West-Berlin</lido:displayPlace>
+                     <lido:displayPlace xml:lang="ar">برلين الغربية</lido:displayPlace>
+                     <lido:displayPlace xml:lang="cs">Západní Berlín</lido:displayPlace>
+                     <lido:displayPlace xml:lang="da">Vestberlin</lido:displayPlace>
+                     <lido:displayPlace xml:lang="el">Δυτικό Βερολίνο</lido:displayPlace>
+                     <lido:displayPlace xml:lang="en">West Berlin</lido:displayPlace>
+                     <lido:displayPlace xml:lang="es">Berlín Oeste</lido:displayPlace>
+                     <lido:displayPlace xml:lang="fa">برلین غربی</lido:displayPlace>
+                     <lido:displayPlace xml:lang="fi">Länsi-Berliini</lido:displayPlace>
+                     <lido:displayPlace xml:lang="fr">Berlin-Ouest</lido:displayPlace>
+                     <lido:displayPlace xml:lang="he">ברלין המערבית</lido:displayPlace>
+                     <lido:displayPlace xml:lang="hu">Nyugat-Berlin</lido:displayPlace>
+                     <lido:displayPlace xml:lang="id">Berlin Barat</lido:displayPlace>
+                     <lido:displayPlace xml:lang="it">Berlino Ovest</lido:displayPlace>
+                     <lido:displayPlace xml:lang="ja">西ベルリン</lido:displayPlace>
+                     <lido:displayPlace xml:lang="ka">დასავლეთი ბერლინი</lido:displayPlace>
+                     <lido:displayPlace xml:lang="ko">서베를린</lido:displayPlace>
+                     <lido:displayPlace xml:lang="nl">West-Berlijn</lido:displayPlace>
+                     <lido:displayPlace xml:lang="pl">Berlin Zachodni</lido:displayPlace>
+                     <lido:displayPlace xml:lang="pt">Berlim Ocidental</lido:displayPlace>
+                     <lido:displayPlace xml:lang="ro">Berlinul de Vest</lido:displayPlace>
+                     <lido:displayPlace xml:lang="ru">Западный Берлин</lido:displayPlace>
+                     <lido:displayPlace xml:lang="sv">Västberlin</lido:displayPlace>
+                     <lido:displayPlace xml:lang="th">เบอร์ลินตะวันตก</lido:displayPlace>
+                     <lido:displayPlace xml:lang="tr">Batı Berlin</lido:displayPlace>
+                     <lido:displayPlace xml:lang="ur">مغربی برلن</lido:displayPlace>
+                     <lido:displayPlace xml:lang="vi">Tây Berlin</lido:displayPlace>
+                     <lido:displayPlace xml:lang="zh">西柏林</lido:displayPlace>
+                     <lido:place>
+                        <lido:placeID lido:source="geonames" lido:type="uri">https://sws.geonames.org/11612751</lido:placeID>
+                        <lido:placeID lido:source="TGN" lido:type="uri">http://vocab.getty.edu/tgn/7003714</lido:placeID>
+                        <lido:placeID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4069304-1</lido:placeID>
+                        <lido:placeID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q56036</lido:placeID>
+                        <lido:placeID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/place/27811</lido:placeID>
+                        <lido:namePlaceSet>
+                           <lido:appellationValue>West-Berlin</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ar">برلين الغربية</lido:appellationValue>
+                           <lido:appellationValue xml:lang="cs">Západní Berlín</lido:appellationValue>
+                           <lido:appellationValue xml:lang="da">Vestberlin</lido:appellationValue>
+                           <lido:appellationValue xml:lang="el">Δυτικό Βερολίνο</lido:appellationValue>
+                           <lido:appellationValue xml:lang="en">West Berlin</lido:appellationValue>
+                           <lido:appellationValue xml:lang="es">Berlín Oeste</lido:appellationValue>
+                           <lido:appellationValue xml:lang="fa">برلین غربی</lido:appellationValue>
+                           <lido:appellationValue xml:lang="fi">Länsi-Berliini</lido:appellationValue>
+                           <lido:appellationValue xml:lang="fr">Berlin-Ouest</lido:appellationValue>
+                           <lido:appellationValue xml:lang="he">ברלין המערבית</lido:appellationValue>
+                           <lido:appellationValue xml:lang="hu">Nyugat-Berlin</lido:appellationValue>
+                           <lido:appellationValue xml:lang="id">Berlin Barat</lido:appellationValue>
+                           <lido:appellationValue xml:lang="it">Berlino Ovest</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ja">西ベルリン</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ka">დასავლეთი ბერლინი</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ko">서베를린</lido:appellationValue>
+                           <lido:appellationValue xml:lang="nl">West-Berlijn</lido:appellationValue>
+                           <lido:appellationValue xml:lang="pl">Berlin Zachodni</lido:appellationValue>
+                           <lido:appellationValue xml:lang="pt">Berlim Ocidental</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ro">Berlinul de Vest</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ru">Западный Берлин</lido:appellationValue>
+                           <lido:appellationValue xml:lang="sv">Västberlin</lido:appellationValue>
+                           <lido:appellationValue xml:lang="th">เบอร์ลินตะวันตก</lido:appellationValue>
+                           <lido:appellationValue xml:lang="tr">Batı Berlin</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ur">مغربی برلن</lido:appellationValue>
+                           <lido:appellationValue xml:lang="vi">Tây Berlin</lido:appellationValue>
+                           <lido:appellationValue xml:lang="zh">西柏林</lido:appellationValue>
+                        </lido:namePlaceSet>
+                        <lido:gml/>
+                     </lido:place>
+                  </lido:subjectPlace>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectActor>
+                     <lido:displayActor>Joachim Dunkel (1925-2002)</lido:displayActor>
+                     <lido:actor>
+                        <lido:actorID lido:source="allgemein" lido:type="uri">http://www.joachimdunkel.de/0_start/vita.html</lido:actorID>
+                        <lido:actorID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/118681257</lido:actorID>
+                        <lido:actorID lido:source="loc" lido:type="uri">http://id.loc.gov/authorities/names/n00006729</lido:actorID>
+                        <lido:actorID lido:source="rkd" lido:type="uri">https://rkd.nl/explore/artists/270222</lido:actorID>
+                        <lido:actorID lido:source="ulan" lido:type="uri">http://vocab.getty.edu/ulan/500079136</lido:actorID>
+                        <lido:actorID lido:source="viaf" lido:type="uri">https://viaf.org/viaf/57408815</lido:actorID>
+                        <lido:actorID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q52157442</lido:actorID>
+                        <lido:actorID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/persinst/12520</lido:actorID>
+                        <lido:nameActorSet>
+                           <lido:appellationValue>Dunkel, Joachim</lido:appellationValue>
+                           <lido:appellationValue xml:lang="nl">Joachim Dunkel</lido:appellationValue>
+                        </lido:nameActorSet>
+                        <lido:vitalDatesActor>
+                           <lido:earliestDate>1925</lido:earliestDate>
+                           <lido:latestDate>2002</lido:latestDate>
+                        </lido:vitalDatesActor>
+                     </lido:actor>
+                  </lido:subjectActor>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="aat" lido:type="uri">http://vocab.getty.edu/aat/300054216</lido:conceptID>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4037220-0</lido:conceptID>
+                     <lido:conceptID lido:source="iconclass" lido:type="uri">http://iconclass.org/rkd/48C51/</lido:conceptID>
+                     <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh85096661</lido:conceptID>
+                     <lido:conceptID lido:source="oberbegriffsdatei" lido:type="uri">https://term.museum-digital.de/oberbegriffsdatei/tag/7140</lido:conceptID>
+                     <lido:conceptID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q11629</lido:conceptID>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Malerei</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/106</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Malerei</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ar">تصوير</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="bn">চিত্রকলার শিল্প</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="cs">Malířství</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="da">Malerkunst</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="el">ζωγραφική</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="en">Art of painting</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="es">Pintura</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fa">نقاشی</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fi">Maalaustaide</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fr">Peinture</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="he">ציור</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hi">चित्रकला</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hu">festőművészet</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="id">Lukisan</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="it">Pittura</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ja">絵画</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ka">ფერწერა</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ko">회화</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="nl">Schilderkunst</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pl">Malarstwo</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pt">Pintura</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ro">pictură</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ru">живопись</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sv">Målarkonst</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sw">Uchoraji</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ta">ஓவியக் கலை</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="th">จิตรกรรม</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tl">Pagpinta</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tr">Resim</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ur">نقاشی</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="vi">hội họa</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="zh">绘画</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="aat" lido:type="uri">http://vocab.getty.edu/aat/300168455</lido:conceptID>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4033423-5</lido:conceptID>
+                     <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh85008276</lido:conceptID>
+                     <lido:conceptID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/w/index.php?search=&amp;search=Q483501</lido:conceptID>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/K%C3%BCnstler</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/824</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Künstler</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ar">فنان</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="bn">শিল্পী</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="cs">umělec</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="da">kunstner</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="el">καλλιτέχνης</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="en">artist</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="es">artista</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fa">هنرمند</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fi">taiteilija</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fr">artiste</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="he">אמן</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hi">कलाकार</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="id">seniman</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="it">artista</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ja">芸術家</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ka">ხელოვანი</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ko">예술가</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="nl">kunstenaar</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pl">artysta</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pt">artista</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ru">деятель искусств</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sv">konstnär</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sw">Wasanii</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="th">ศิลปิน</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tr">sanatçı</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ur">فن کار</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="vi">nghệ sĩ</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="zh">艺术家</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/16063</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Berliner Secession</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="aat" lido:type="uri">http://vocab.getty.edu/aat/300264383</lido:conceptID>
+                     <lido:conceptID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q17310537</lido:conceptID>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Bildhauerei</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/75449</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Bildhauerei</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="en">Sculpture</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+         </lido:subjectWrap>
+      </lido:objectRelationWrap>
+   </lido:descriptiveMetadata>
+   <lido:administrativeMetadata xml:lang="de">
+      <lido:rightsWorkWrap>
+         <lido:rightsWorkSet>
+            <lido:rightsHolder>
+               <lido:legalBodyName>
+                  <lido:appellationValue>Gerda Schimpf Fotoarchiv</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:rightsHolder>
+         </lido:rightsWorkSet>
+      </lido:rightsWorkWrap>
+      <lido:recordWrap>
+         <lido:recordID lido:type="museum-digital">66326</lido:recordID>
+         <lido:recordType>
+            <lido:term lido:addedSearchTerm="no">item</lido:term>
+         </lido:recordType>
+         <lido:recordSource lido:type="dataProvider">
+            <lido:legalBodyName>
+               <lido:appellationValue>museum-digital</lido:appellationValue>
+            </lido:legalBodyName>
+            <lido:legalBodyWeblink>https://berlin.museum-digital.de/</lido:legalBodyWeblink>
+         </lido:recordSource>
+         <lido:recordSource>
+            <lido:legalBodyName>
+               <lido:appellationValue>Gerda Schimpf Fotoarchiv</lido:appellationValue>
+            </lido:legalBodyName>
+         </lido:recordSource>
+         <lido:recordRights>
+            <lido:rightsType>
+               <lido:conceptID lido:type="uri">https://creativecommons.org/publicdomain/zero/1.0/</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no">CC 0</lido:term>
+            </lido:rightsType>
+            <lido:rightsHolder>
+               <lido:legalBodyName>
+                  <lido:appellationValue>Gerda Schimpf Fotoarchiv</lido:appellationValue>
+               </lido:legalBodyName>
+               <lido:legalBodyWeblink>https://gerda-schimpf-fotoarchiv.com</lido:legalBodyWeblink>
+            </lido:rightsHolder>
+            <lido:creditLine>Förderprogramm zur Digitalisierung von Objekten des kulturellen Erbes des Landes Berlin</lido:creditLine>
+         </lido:recordRights>
+         <lido:recordInfoSet>
+            <lido:recordInfoLink>https://berlin.museum-digital.de/index.php?t=objekt&amp;oges=66326</lido:recordInfoLink>
+            <lido:recordMetadataDate>2021-05-10 13:20:49</lido:recordMetadataDate>
+         </lido:recordInfoSet>
+      </lido:recordWrap>
+      <lido:resourceWrap>
+         <lido:resourceSet lido:sortorder="1">
+            <lido:resourceID lido:source="image" lido:type="local">49260</lido:resourceID>
+            <lido:resourceRepresentation lido:type="image_thumb">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/26/66326-4860/fotografie_dunkel_joachim/100h_fotografie-dunkel-joachim-1925-2002-66326.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_preview">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/26/66326-4860/fotografie_dunkel_joachim/200w_fotografie-dunkel-joachim-1925-2002-66326.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="Provided image">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/26/66326-4860/fotografie_dunkel_joachim/fotografie-dunkel-joachim-1925-2002-66326.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceType>
+               <lido:term lido:addedSearchTerm="no">image</lido:term>
+            </lido:resourceType>
+            <lido:resourceRelType>
+               <lido:term lido:addedSearchTerm="no">Hauptansicht</lido:term>
+            </lido:resourceRelType>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+                  <lido:term lido:addedSearchTerm="no">CC BY</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Gerda Schimpf Fotoarchiv</lido:appellationValue>
+                  </lido:legalBodyName>
+               </lido:rightsHolder>
+            </lido:rightsResource>
+         </lido:resourceSet>
+      </lido:resourceWrap>
+   </lido:administrativeMetadata>
+</lido:lido>
+

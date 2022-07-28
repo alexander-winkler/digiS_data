@@ -1,0 +1,625 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lido:lido xmlns:lido="http://www.lido-schema.org"
+           xmlns:xalan="http://xml.apache.org/xalan">
+   <lido:lidoRecID lido:source="https://berlin.museum-digital.de/index.php?t=institution&amp;instnr=32"
+                   lido:type="local">DE-B185/67384</lido:lidoRecID>
+   <lido:category/>
+   <lido:descriptiveMetadata xml:lang="de">
+      <lido:objectClassificationWrap>
+         <lido:objectWorkTypeWrap>
+            <lido:objectWorkType>
+               <lido:conceptID lido:source="gnd" lido:type="uri">http://d-nb.info/gnd/4021845-4</lido:conceptID>
+               <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/13314</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Druckgraphik</lido:term>
+            </lido:objectWorkType>
+         </lido:objectWorkTypeWrap>
+         <lido:classificationWrap>
+            <lido:classification lido:type="Sammlung">
+               <lido:conceptID lido:source="local" lido:type="collection_id">705</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Handzeichnungen, Druckgraphik, Gemälde</lido:term>
+            </lido:classification>
+            <lido:classification lido:type="Sammlung">
+               <lido:conceptID lido:source="local" lido:type="collection_id">706</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Ansichten</lido:term>
+            </lido:classification>
+            <lido:classification lido:type="Sammlung">
+               <lido:conceptID lido:source="local" lido:type="collection_id">707</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Berlin</lido:term>
+            </lido:classification>
+         </lido:classificationWrap>
+      </lido:objectClassificationWrap>
+      <lido:objectIdentificationWrap>
+         <lido:titleWrap>
+            <lido:titleSet>
+               <lido:appellationValue lido:pref="preferred">Berlin-Mitte: Wilhelmplatz: Standbild des Fürsten Leopold von Anhalt-Dessau</lido:appellationValue>
+            </lido:titleSet>
+         </lido:titleWrap>
+         <lido:repositoryWrap>
+            <lido:repositorySet lido:type="current">
+               <lido:repositoryName>
+                  <lido:legalBodyID lido:type="isil">DE-B185</lido:legalBodyID>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+                  </lido:legalBodyName>
+                  <lido:legalBodyWeblink>http://geschichte-brandenburg.de/</lido:legalBodyWeblink>
+               </lido:repositoryName>
+               <lido:workID lido:type="inventory number">LGV-Archiv, C 04 A-299, Bl. 28</lido:workID>
+               <lido:repositoryLocation>
+                  <lido:namePlaceSet>
+                     <lido:appellationValue>Berlin</lido:appellationValue>
+                  </lido:namePlaceSet>
+                  <lido:gml>
+                     <gml:Point xmlns:gml="http://www.opengis.net/gml" srsName="EPSG:4326">
+                        <gml:pos>52.51533127 13.40440559</gml:pos>
+                     </gml:Point>
+                  </lido:gml>
+               </lido:repositoryLocation>
+            </lido:repositorySet>
+         </lido:repositoryWrap>
+         <lido:objectDescriptionWrap>
+            <lido:objectDescriptionSet>
+               <lido:descriptiveNoteValue>Dargestellt ist der uniformierte Leopold "in entschlossener, aber zugleich entspannter Haltung, den Marschallstab in der Hand. Der Sockel war mit Reliefs versehen, die seine militärischen Taten (besonders den Sieg bei Kesselsdorf 1745) rühmten und seine Soldatenausbildung würdigten." (Laur-Ernst, S. 70; im Bild ist nur die Inschriftenplatte sichtbar). Das Denkmal des Fürsten Leopold (genannt der "Alte Dessauer") (1676-1747), eine Marmorstatue von Johann Gottfried Schadow (1764-1850), wurde 1800 im Berliner Lustgarten aufgestellt, 1828 jedoch auf den Wilhelmsplatz, wo bereits weitere preußische Feldherrndenkmäler standen, umgesetzt (1860 hier durch Brozeguss ersetzt und die Marmorstatue in das Kadettenhaus überführt, 1903 in das spätere Bodemuseum). Seit 2006 befindet sich auf dem Wilhelmsplatz eine Kopie des Bronzestandbildes.&#xD;
+Der Stich zeigt das Denkmal in seiner Umgebung auf dem Wilhelmsplatz, auf dem preußische Kavalleristen entlang traben. Hinten links ist das Denkmal des Husarengenerals Hans Joachim von Zieten (1699-1786) angedeutet, rechts hinter Bäumen wird die Kuppel der Dreifaltigkeitskirche sichtbar. Der Blick geht hinter dem Zieten-Denkmal nach Osten in die Morgenstraße (Häuser der Nordseite) bis zum Turm der Neuen Kirche ("Deutscher Dom" ) auf dem Gendarmenmarkt als Blickpunkt.&#xD;
+Das Blatt ist eingeklebt in einen (in der Sammlung Manuskripte des Archivs aufbewahrten) 37 Blatt umfassenden Manuskript-Band "Fürst Leopold von Anhalt Dessau als Feldherr und Sein Standbild in Berlin", verfasst "Von Ferdinand Meyer, Hauptschriftwart des Vereins für die Geschichte Berlins", als der er sich in der Titelei bezeichnet (Bl. 2r). Der Band wurde von ihm "Seiner Hoheit / dem regierenden / Herzog Friedrich von Anhalt [Friedrich I. (1831-1904)] zum 29ten April 1888 [57. Geburtstag] in tiefster Ehrerbietung gewidmet" (Bl. 3r), enthalten ist auch eine Fotografie (F. Albert Schwartz, 1887) des Fürstenhauses in der Kurstraße 52-53 auf dem Friedrichswerder in Berlin-Mitte neben der Alten Münze, das mit dieser abgerissen wurde (Bl. 14r).&#xD;
+&#xD;
+Bez. li. u. "Ahlborn del", mi. u. "Verlag von George Gropius in Berlin", re. u. "Frommel und Winkles sculp:", darunter mi. Bildtitel (in Versalien) "Statue des Fürsten Leop. von Anh. Dessau.", darunter mi. "Carlsruhe durch Kunst-Verlag".&#xD;
+Erworben 2000 im Antiquariatshandel (Jeschke, Greve &amp; Hauff, Berlin, Auktion 20, Kat.-Nr. 239).&#xD;
+&#xD;
+Literatur: Ute Laur-Ernst: Die Stadt Berlin in der Druckgraphik 1570-1870. (Bd. 2). Berlin 2009, S. 70.</lido:descriptiveNoteValue>
+               <lido:sourceDescriptiveNote>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:sourceDescriptiveNote>
+            </lido:objectDescriptionSet>
+         </lido:objectDescriptionWrap>
+         <lido:objectMeasurementsWrap>
+            <lido:objectMeasurementsSet>
+               <lido:displayObjectMeasurements>Blattgröße: Höhe 19,8 cm, Breite 13, 2 cm (beschnitten auf Plattenrand)</lido:displayObjectMeasurements>
+               <lido:objectMeasurements/>
+            </lido:objectMeasurementsSet>
+         </lido:objectMeasurementsWrap>
+      </lido:objectIdentificationWrap>
+      <lido:eventWrap>
+         <lido:eventSet>
+            <lido:displayEvent>Herstellung</lido:displayEvent>
+            <lido:event>
+               <lido:eventType>
+                  <lido:conceptID lido:type="uri">https://event-types.museum-digital.org/12</lido:conceptID>
+                  <lido:term lido:addedSearchTerm="no">Druckplatte hergestellt</lido:term>
+               </lido:eventType>
+               <lido:eventActor>
+                  <lido:displayActorInRole>Henry Winkles (1800 -1860)</lido:displayActorInRole>
+                  <lido:actorInRole>
+                     <lido:actor>
+                        <lido:actorID lido:source="Wikipedia" lido:type="uri">https://fr.wikipedia.org/wiki/Henry_Winkles</lido:actorID>
+                        <lido:actorID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/123207606</lido:actorID>
+                        <lido:actorID lido:source="loc" lido:type="uri">http://id.loc.gov/authorities/names/n88155911</lido:actorID>
+                        <lido:actorID lido:source="rkd" lido:type="uri">https://rkd.nl/explore/artists/490170</lido:actorID>
+                        <lido:actorID lido:source="viaf" lido:type="uri">https://viaf.org/viaf/13210654</lido:actorID>
+                        <lido:actorID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q15438635</lido:actorID>
+                        <lido:actorID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/persinst/25820</lido:actorID>
+                        <lido:nameActorSet>
+                           <lido:appellationValue>Winkles, Henry</lido:appellationValue>
+                           <lido:appellationValue xml:lang="de">Henry Winkles</lido:appellationValue>
+                           <lido:appellationValue xml:lang="en">Henry Winkles</lido:appellationValue>
+                           <lido:appellationValue xml:lang="es">Henry Winkles</lido:appellationValue>
+                           <lido:appellationValue xml:lang="fr">Henry Winkles</lido:appellationValue>
+                           <lido:appellationValue xml:lang="nl">Henry Winkles</lido:appellationValue>
+                        </lido:nameActorSet>
+                        <lido:vitalDatesActor>
+                           <lido:earliestDate>1800</lido:earliestDate>
+                           <lido:latestDate>1860</lido:latestDate>
+                        </lido:vitalDatesActor>
+                     </lido:actor>
+                  </lido:actorInRole>
+               </lido:eventActor>
+               <lido:eventDate>
+                  <lido:displayDate>1850 (wahrscheinlich)</lido:displayDate>
+                  <lido:displayDate xml:lang="ar">1850</lido:displayDate>
+                  <lido:displayDate xml:lang="de">1850</lido:displayDate>
+                  <lido:displayDate xml:lang="en">1850</lido:displayDate>
+                  <lido:displayDate xml:lang="es">1850</lido:displayDate>
+                  <lido:displayDate xml:lang="fa">1850</lido:displayDate>
+                  <lido:displayDate xml:lang="fr">1850</lido:displayDate>
+                  <lido:displayDate xml:lang="hu">1850</lido:displayDate>
+                  <lido:displayDate xml:lang="id">1850</lido:displayDate>
+                  <lido:displayDate xml:lang="it">1850</lido:displayDate>
+                  <lido:displayDate xml:lang="ja">1850年</lido:displayDate>
+                  <lido:displayDate xml:lang="ka">1850</lido:displayDate>
+                  <lido:displayDate xml:lang="ko">1850년</lido:displayDate>
+                  <lido:displayDate xml:lang="pl">1850</lido:displayDate>
+                  <lido:displayDate xml:lang="pt">1850</lido:displayDate>
+                  <lido:displayDate xml:lang="ro">1850</lido:displayDate>
+                  <lido:displayDate xml:lang="ru">1850</lido:displayDate>
+                  <lido:displayDate xml:lang="ta">1850</lido:displayDate>
+                  <lido:displayDate xml:lang="tl">1850</lido:displayDate>
+                  <lido:displayDate xml:lang="tr">1850</lido:displayDate>
+                  <lido:displayDate xml:lang="zh">1850年</lido:displayDate>
+                  <lido:date>
+                     <lido:earliestDate>1850</lido:earliestDate>
+                     <lido:latestDate>1850</lido:latestDate>
+                  </lido:date>
+               </lido:eventDate>
+               <lido:eventPlace>
+                  <lido:displayPlace>Karlsruhe</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ar">كارلسروه</lido:displayPlace>
+                  <lido:displayPlace xml:lang="cs">Karlsruhe</lido:displayPlace>
+                  <lido:displayPlace xml:lang="da">Karlsruhe</lido:displayPlace>
+                  <lido:displayPlace xml:lang="de">Karlsruhe</lido:displayPlace>
+                  <lido:displayPlace xml:lang="el">Καρλσρούη</lido:displayPlace>
+                  <lido:displayPlace xml:lang="en">Karlsruhe</lido:displayPlace>
+                  <lido:displayPlace xml:lang="es">Karlsruhe</lido:displayPlace>
+                  <lido:displayPlace xml:lang="fa">کارلسروهه</lido:displayPlace>
+                  <lido:displayPlace xml:lang="fi">Karlsruhe</lido:displayPlace>
+                  <lido:displayPlace xml:lang="fr">Karlsruhe</lido:displayPlace>
+                  <lido:displayPlace xml:lang="he">קרלסרוהה</lido:displayPlace>
+                  <lido:displayPlace xml:lang="hi">कार्ल्सरुहे</lido:displayPlace>
+                  <lido:displayPlace xml:lang="hu">Karlsruhe</lido:displayPlace>
+                  <lido:displayPlace xml:lang="id">Karlsruhe</lido:displayPlace>
+                  <lido:displayPlace xml:lang="it">Karlsruhe</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ja">カールスルーエ</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ka">კარლსრუე</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ko">카를스루에</lido:displayPlace>
+                  <lido:displayPlace xml:lang="nl">Karlsruhe</lido:displayPlace>
+                  <lido:displayPlace xml:lang="pl">Karlsruhe</lido:displayPlace>
+                  <lido:displayPlace xml:lang="pt">Karlsruhe</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ro">Karlsruhe</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ru">Карлсруэ</lido:displayPlace>
+                  <lido:displayPlace xml:lang="sv">Karlsruhe</lido:displayPlace>
+                  <lido:displayPlace xml:lang="sw">Karlsruhe</lido:displayPlace>
+                  <lido:displayPlace xml:lang="th">คาลส์รูเออ</lido:displayPlace>
+                  <lido:displayPlace xml:lang="tr">Karlsruhe</lido:displayPlace>
+                  <lido:displayPlace xml:lang="vi">Karlsruhe</lido:displayPlace>
+                  <lido:displayPlace xml:lang="zh">卡尔斯鲁厄</lido:displayPlace>
+                  <lido:place>
+                     <lido:placeID lido:source="geonames" lido:type="uri">https://sws.geonames.org/2892794</lido:placeID>
+                     <lido:placeID lido:source="TGN" lido:type="uri">http://vocab.getty.edu/tgn/7004424</lido:placeID>
+                     <lido:placeID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4029713-5</lido:placeID>
+                     <lido:placeID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q1040</lido:placeID>
+                     <lido:placeID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/place/1188</lido:placeID>
+                     <lido:namePlaceSet>
+                        <lido:appellationValue>Karlsruhe</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ar">كارلسروه</lido:appellationValue>
+                        <lido:appellationValue xml:lang="cs">Karlsruhe</lido:appellationValue>
+                        <lido:appellationValue xml:lang="da">Karlsruhe</lido:appellationValue>
+                        <lido:appellationValue xml:lang="de">Karlsruhe</lido:appellationValue>
+                        <lido:appellationValue xml:lang="el">Καρλσρούη</lido:appellationValue>
+                        <lido:appellationValue xml:lang="en">Karlsruhe</lido:appellationValue>
+                        <lido:appellationValue xml:lang="es">Karlsruhe</lido:appellationValue>
+                        <lido:appellationValue xml:lang="fa">کارلسروهه</lido:appellationValue>
+                        <lido:appellationValue xml:lang="fi">Karlsruhe</lido:appellationValue>
+                        <lido:appellationValue xml:lang="fr">Karlsruhe</lido:appellationValue>
+                        <lido:appellationValue xml:lang="he">קרלסרוהה</lido:appellationValue>
+                        <lido:appellationValue xml:lang="hi">कार्ल्सरुहे</lido:appellationValue>
+                        <lido:appellationValue xml:lang="hu">Karlsruhe</lido:appellationValue>
+                        <lido:appellationValue xml:lang="id">Karlsruhe</lido:appellationValue>
+                        <lido:appellationValue xml:lang="it">Karlsruhe</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ja">カールスルーエ</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ka">კარლსრუე</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ko">카를스루에</lido:appellationValue>
+                        <lido:appellationValue xml:lang="nl">Karlsruhe</lido:appellationValue>
+                        <lido:appellationValue xml:lang="pl">Karlsruhe</lido:appellationValue>
+                        <lido:appellationValue xml:lang="pt">Karlsruhe</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ro">Karlsruhe</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ru">Карлсруэ</lido:appellationValue>
+                        <lido:appellationValue xml:lang="sv">Karlsruhe</lido:appellationValue>
+                        <lido:appellationValue xml:lang="sw">Karlsruhe</lido:appellationValue>
+                        <lido:appellationValue xml:lang="th">คาลส์รูเออ</lido:appellationValue>
+                        <lido:appellationValue xml:lang="tr">Karlsruhe</lido:appellationValue>
+                        <lido:appellationValue xml:lang="vi">Karlsruhe</lido:appellationValue>
+                        <lido:appellationValue xml:lang="zh">卡尔斯鲁厄</lido:appellationValue>
+                     </lido:namePlaceSet>
+                     <lido:gml>
+                        <gml:Point xmlns:gml="http://www.opengis.net/gml" srsName="EPSG:4326">
+                           <gml:pos>49.016666412354 8.3999996185303</gml:pos>
+                        </gml:Point>
+                     </lido:gml>
+                  </lido:place>
+               </lido:eventPlace>
+            </lido:event>
+         </lido:eventSet>
+         <lido:eventSet>
+            <lido:event>
+               <lido:eventType>
+                  <lido:conceptID lido:type="uri">http://terminology.lido-schema.org/lido00003</lido:conceptID>
+                  <lido:term>Event (non-specified)</lido:term>
+               </lido:eventType>
+               <lido:eventMaterialsTech>
+                  <lido:displayMaterialsTech>Stahlstich auf Karton (eingeklebt in das Album)</lido:displayMaterialsTech>
+               </lido:eventMaterialsTech>
+            </lido:event>
+         </lido:eventSet>
+      </lido:eventWrap>
+      <lido:objectRelationWrap>
+         <lido:subjectWrap>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectPlace>
+                     <lido:displayPlace>Preußen</lido:displayPlace>
+                     <lido:displayPlace xml:lang="ar">بروسيا</lido:displayPlace>
+                     <lido:displayPlace xml:lang="bn">প্রুশিয়া</lido:displayPlace>
+                     <lido:displayPlace xml:lang="cs">Prusko</lido:displayPlace>
+                     <lido:displayPlace xml:lang="da">Preussen</lido:displayPlace>
+                     <lido:displayPlace xml:lang="de">Preußen</lido:displayPlace>
+                     <lido:displayPlace xml:lang="el">Πρωσία</lido:displayPlace>
+                     <lido:displayPlace xml:lang="en">Prussia</lido:displayPlace>
+                     <lido:displayPlace xml:lang="es">Prusia</lido:displayPlace>
+                     <lido:displayPlace xml:lang="fa">پروس</lido:displayPlace>
+                     <lido:displayPlace xml:lang="fi">Preussi</lido:displayPlace>
+                     <lido:displayPlace xml:lang="fr">Prusse</lido:displayPlace>
+                     <lido:displayPlace xml:lang="he">פרוסיה</lido:displayPlace>
+                     <lido:displayPlace xml:lang="hi">प्रुशिया</lido:displayPlace>
+                     <lido:displayPlace xml:lang="hu">Poroszország</lido:displayPlace>
+                     <lido:displayPlace xml:lang="id">Prusia</lido:displayPlace>
+                     <lido:displayPlace xml:lang="it">Prussia</lido:displayPlace>
+                     <lido:displayPlace xml:lang="ja">プロイセン</lido:displayPlace>
+                     <lido:displayPlace xml:lang="ka">პრუსია</lido:displayPlace>
+                     <lido:displayPlace xml:lang="ko">프로이센</lido:displayPlace>
+                     <lido:displayPlace xml:lang="nl">Pruisen</lido:displayPlace>
+                     <lido:displayPlace xml:lang="pl">Prusy</lido:displayPlace>
+                     <lido:displayPlace xml:lang="pt">Prússia</lido:displayPlace>
+                     <lido:displayPlace xml:lang="ru">Пруссия</lido:displayPlace>
+                     <lido:displayPlace xml:lang="sv">Preussen</lido:displayPlace>
+                     <lido:displayPlace xml:lang="sw">Prussia</lido:displayPlace>
+                     <lido:displayPlace xml:lang="ta">புருசியா</lido:displayPlace>
+                     <lido:displayPlace xml:lang="th">ปรัสเซีย</lido:displayPlace>
+                     <lido:displayPlace xml:lang="tl">Prusya</lido:displayPlace>
+                     <lido:displayPlace xml:lang="tr">Prusya</lido:displayPlace>
+                     <lido:displayPlace xml:lang="ur">پروشیا</lido:displayPlace>
+                     <lido:displayPlace xml:lang="vi">Phổ</lido:displayPlace>
+                     <lido:displayPlace xml:lang="zh">普魯士</lido:displayPlace>
+                     <lido:place>
+                        <lido:placeID lido:source="geonames" lido:type="uri">https://sws.geonames.org/</lido:placeID>
+                        <lido:placeID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4047194-9</lido:placeID>
+                        <lido:placeID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q38872</lido:placeID>
+                        <lido:placeID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/place/3122</lido:placeID>
+                        <lido:namePlaceSet>
+                           <lido:appellationValue>Preußen</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ar">بروسيا</lido:appellationValue>
+                           <lido:appellationValue xml:lang="bn">প্রুশিয়া</lido:appellationValue>
+                           <lido:appellationValue xml:lang="cs">Prusko</lido:appellationValue>
+                           <lido:appellationValue xml:lang="da">Preussen</lido:appellationValue>
+                           <lido:appellationValue xml:lang="de">Preußen</lido:appellationValue>
+                           <lido:appellationValue xml:lang="el">Πρωσία</lido:appellationValue>
+                           <lido:appellationValue xml:lang="en">Prussia</lido:appellationValue>
+                           <lido:appellationValue xml:lang="es">Prusia</lido:appellationValue>
+                           <lido:appellationValue xml:lang="fa">پروس</lido:appellationValue>
+                           <lido:appellationValue xml:lang="fi">Preussi</lido:appellationValue>
+                           <lido:appellationValue xml:lang="fr">Prusse</lido:appellationValue>
+                           <lido:appellationValue xml:lang="he">פרוסיה</lido:appellationValue>
+                           <lido:appellationValue xml:lang="hi">प्रुशिया</lido:appellationValue>
+                           <lido:appellationValue xml:lang="hu">Poroszország</lido:appellationValue>
+                           <lido:appellationValue xml:lang="id">Prusia</lido:appellationValue>
+                           <lido:appellationValue xml:lang="it">Prussia</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ja">プロイセン</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ka">პრუსია</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ko">프로이센</lido:appellationValue>
+                           <lido:appellationValue xml:lang="nl">Pruisen</lido:appellationValue>
+                           <lido:appellationValue xml:lang="pl">Prusy</lido:appellationValue>
+                           <lido:appellationValue xml:lang="pt">Prússia</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ru">Пруссия</lido:appellationValue>
+                           <lido:appellationValue xml:lang="sv">Preussen</lido:appellationValue>
+                           <lido:appellationValue xml:lang="sw">Prussia</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ta">புருசியா</lido:appellationValue>
+                           <lido:appellationValue xml:lang="th">ปรัสเซีย</lido:appellationValue>
+                           <lido:appellationValue xml:lang="tl">Prusya</lido:appellationValue>
+                           <lido:appellationValue xml:lang="tr">Prusya</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ur">پروشیا</lido:appellationValue>
+                           <lido:appellationValue xml:lang="vi">Phổ</lido:appellationValue>
+                           <lido:appellationValue xml:lang="zh">普魯士</lido:appellationValue>
+                        </lido:namePlaceSet>
+                        <lido:gml>
+                           <gml:Point xmlns:gml="http://www.opengis.net/gml" srsName="EPSG:4326">
+                              <gml:pos>52.519172668457 13.406090736389</gml:pos>
+                           </gml:Point>
+                        </lido:gml>
+                     </lido:place>
+                  </lido:subjectPlace>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectPlace>
+                     <lido:displayPlace>Berlin-Mitte</lido:displayPlace>
+                     <lido:displayPlace xml:lang="ar">مته (برلين)</lido:displayPlace>
+                     <lido:displayPlace xml:lang="cs">Berlin-Mitte</lido:displayPlace>
+                     <lido:displayPlace xml:lang="de">Berlin-Mitte</lido:displayPlace>
+                     <lido:displayPlace xml:lang="el">Μίτε</lido:displayPlace>
+                     <lido:displayPlace xml:lang="en">Mitte (locality)</lido:displayPlace>
+                     <lido:displayPlace xml:lang="fa">برلین-میته</lido:displayPlace>
+                     <lido:displayPlace xml:lang="fi">Mitte (kaupunginosa)</lido:displayPlace>
+                     <lido:displayPlace xml:lang="fr">Berlin-Mitte</lido:displayPlace>
+                     <lido:displayPlace xml:lang="he">מיטה (שכונה)</lido:displayPlace>
+                     <lido:displayPlace xml:lang="id">Mitte (lokalitas)</lido:displayPlace>
+                     <lido:displayPlace xml:lang="it">Mitte</lido:displayPlace>
+                     <lido:displayPlace xml:lang="nl">Berlin-Mitte</lido:displayPlace>
+                     <lido:displayPlace xml:lang="pl">Mitte (dzielnica Berlina)</lido:displayPlace>
+                     <lido:displayPlace xml:lang="ro">Berlin-Centru</lido:displayPlace>
+                     <lido:displayPlace xml:lang="ru">Митте (район Берлина)</lido:displayPlace>
+                     <lido:displayPlace xml:lang="sv">Mitte, Berlin (stadsdel)</lido:displayPlace>
+                     <lido:displayPlace xml:lang="zh">米特</lido:displayPlace>
+                     <lido:place>
+                        <lido:placeID lido:source="geonames" lido:type="uri">https://sws.geonames.org/6545310</lido:placeID>
+                        <lido:placeID lido:source="TGN" lido:type="uri">http://vocab.getty.edu/tgn/1005101</lido:placeID>
+                        <lido:placeID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4248938-6</lido:placeID>
+                        <lido:placeID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q2013767</lido:placeID>
+                        <lido:placeID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/place/736</lido:placeID>
+                        <lido:namePlaceSet>
+                           <lido:appellationValue>Berlin-Mitte</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ar">مته (برلين)</lido:appellationValue>
+                           <lido:appellationValue xml:lang="cs">Berlin-Mitte</lido:appellationValue>
+                           <lido:appellationValue xml:lang="de">Berlin-Mitte</lido:appellationValue>
+                           <lido:appellationValue xml:lang="el">Μίτε</lido:appellationValue>
+                           <lido:appellationValue xml:lang="en">Mitte (locality)</lido:appellationValue>
+                           <lido:appellationValue xml:lang="fa">برلین-میته</lido:appellationValue>
+                           <lido:appellationValue xml:lang="fi">Mitte (kaupunginosa)</lido:appellationValue>
+                           <lido:appellationValue xml:lang="fr">Berlin-Mitte</lido:appellationValue>
+                           <lido:appellationValue xml:lang="he">מיטה (שכונה)</lido:appellationValue>
+                           <lido:appellationValue xml:lang="id">Mitte (lokalitas)</lido:appellationValue>
+                           <lido:appellationValue xml:lang="it">Mitte</lido:appellationValue>
+                           <lido:appellationValue xml:lang="nl">Berlin-Mitte</lido:appellationValue>
+                           <lido:appellationValue xml:lang="pl">Mitte (dzielnica Berlina)</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ro">Berlin-Centru</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ru">Митте (район Берлина)</lido:appellationValue>
+                           <lido:appellationValue xml:lang="sv">Mitte, Berlin (stadsdel)</lido:appellationValue>
+                           <lido:appellationValue xml:lang="zh">米特</lido:appellationValue>
+                        </lido:namePlaceSet>
+                        <lido:gml>
+                           <gml:Point xmlns:gml="http://www.opengis.net/gml" srsName="EPSG:4326">
+                              <gml:pos>52.519443511963 13.406666755676</gml:pos>
+                           </gml:Point>
+                        </lido:gml>
+                     </lido:place>
+                  </lido:subjectPlace>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4039305-7</lido:conceptID>
+                     <lido:conceptID lido:source="iconclass" lido:type="uri">http://iconclass.org/rkd/45D21/</lido:conceptID>
+                     <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh99002455</lido:conceptID>
+                     <lido:conceptID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q8473</lido:conceptID>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Milit%C3%A4r</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/72</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Militär</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ar">عسكرية</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="bn">সামরিক</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="cs">Vojsko</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="da">Militær</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="de">Militär</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="el">στράτευμα</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="en">Military</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="es">Ejército</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fa">نیروی نظامی</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fi">Armeija</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fr">Armée</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="he">צבא</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hi">सेना</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hu">hadsereg</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="id">Militer</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="it">Forze armate</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ja">軍隊</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ko">군대</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="nl">Militairen</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pl">Wojskowość</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pt">Militar</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ro">armată</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ru">армия</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sv">Militär</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sw">Jeshi</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ta">படைத்துறை</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="th">การทหาร</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tl">Hukbo</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tr">Askeriye</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ur">فوج</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="vi">quân đội</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="zh">軍隊</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="aat" lido:type="uri">http://vocab.getty.edu/aat/300006958</lido:conceptID>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4011453-3</lido:conceptID>
+                     <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh85087089</lido:conceptID>
+                     <lido:conceptID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q4989906</lido:conceptID>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Denkmal_(Gedenken)</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/890</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Denkmal</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ar">معلم تذكاري</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="bn">সৌধ</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="cs">Pomník</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="da">Monument</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="de">Denkmal</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="el">μνημείο</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="en">Monument</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="es">Monumento</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fa">یادمانی</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fi">Monumentti</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fr">Monument</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="he">מונומנט</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hi">स्मारक</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hu">emlékmű</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="id">Monumen</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="it">Monumento</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ja">モニュメント</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ko">기념물</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="nl">Gedenkmonument</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pl">Pomnik</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pt">Monumento</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ro">monument</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ru">памятник</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sv">Minnesmärke</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ta">நினைவுச் சின்னம்</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="th">อนุสรณ์สถาน</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tr">Anıt</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="vi">di tích</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="zh">紀念建築物</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4021845-4</lido:conceptID>
+                     <lido:conceptID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q1027879</lido:conceptID>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">https://en.wikipedia.org/wiki/Graphics</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/13314</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Druckgraphik</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ar">رسوميات</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="bn">গ্রাফিক্স</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="cs">Grafika</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="de">Druckgraphik</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="el">Γραφικά</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="en">Graphics</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="es">gráficos</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fa">ارتباط تصویری</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fr">Graphique</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="he">גרפיקה</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hi">चित्रालेख</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hu">Grafika</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="id">Grafika</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ja">グラフィック</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ka">გრაფიკა</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ko">그래픽</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="nl">Grafiek</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pl">Grafika</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pt">Gráfico</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ro">grafică</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ru">графика</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ta">வரைகலை</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tr">Grafik</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ur">تخطیط</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="zh">图形</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+         </lido:subjectWrap>
+         <lido:relatedWorksWrap/>
+      </lido:objectRelationWrap>
+   </lido:descriptiveMetadata>
+   <lido:administrativeMetadata xml:lang="de">
+      <lido:rightsWorkWrap>
+         <lido:rightsWorkSet>
+            <lido:rightsHolder>
+               <lido:legalBodyName>
+                  <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:rightsHolder>
+         </lido:rightsWorkSet>
+      </lido:rightsWorkWrap>
+      <lido:recordWrap>
+         <lido:recordID lido:type="museum-digital">67384</lido:recordID>
+         <lido:recordType>
+            <lido:term lido:addedSearchTerm="no">item</lido:term>
+         </lido:recordType>
+         <lido:recordSource lido:type="dataProvider">
+            <lido:legalBodyName>
+               <lido:appellationValue>museum-digital</lido:appellationValue>
+            </lido:legalBodyName>
+            <lido:legalBodyWeblink>https://berlin.museum-digital.de/</lido:legalBodyWeblink>
+         </lido:recordSource>
+         <lido:recordSource>
+            <lido:legalBodyID lido:type="isil">DE-B185</lido:legalBodyID>
+            <lido:legalBodyName>
+               <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+            </lido:legalBodyName>
+         </lido:recordSource>
+         <lido:recordRights>
+            <lido:rightsType>
+               <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no">CC BY</lido:term>
+            </lido:rightsType>
+            <lido:rightsHolder>
+               <lido:legalBodyID lido:type="isil">DE-B185</lido:legalBodyID>
+               <lido:legalBodyName>
+                  <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+               </lido:legalBodyName>
+               <lido:legalBodyWeblink>http://geschichte-brandenburg.de/</lido:legalBodyWeblink>
+            </lido:rightsHolder>
+            <lido:creditLine>Förderprogramm zur Digitalisierung von Objekten des kulturellen Erbes des Landes Berlin</lido:creditLine>
+         </lido:recordRights>
+         <lido:recordInfoSet>
+            <lido:recordInfoLink>https://berlin.museum-digital.de/index.php?t=objekt&amp;oges=67384</lido:recordInfoLink>
+            <lido:recordMetadataDate>2021-04-27 07:59:52</lido:recordMetadataDate>
+         </lido:recordInfoSet>
+      </lido:recordWrap>
+      <lido:resourceWrap>
+         <lido:resourceSet lido:sortorder="1">
+            <lido:resourceID lido:source="image" lido:type="local">48927</lido:resourceID>
+            <lido:resourceRepresentation lido:type="masterfile">
+               <lido:linkResource lido:formatResource="image/tiff"/>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_thumb">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/202007/100h_berlin-mitte-wilhelmplatz-standbild-des-fuersten-leopold-von-anhalt-dessau-67384.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_preview">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/202007/200w_berlin-mitte-wilhelmplatz-standbild-des-fuersten-leopold-von-anhalt-dessau-67384.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/202007/berlin-mitte-wilhelmplatz-standbild-des-fuersten-leopold-von-anhalt-dessau-67384.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceType>
+               <lido:term lido:addedSearchTerm="no">image</lido:term>
+            </lido:resourceType>
+            <lido:resourceRelType>
+               <lido:term lido:addedSearchTerm="no">Hauptansicht</lido:term>
+            </lido:resourceRelType>
+            <lido:resourceDescription>Berlin-Mitte: Wilhelmplatz: Standbild des Fürsten Leopold von Anhalt-Dessau</lido:resourceDescription>
+            <lido:resourceSource lido:type="creator">
+               <lido:legalBodyName>
+                  <lido:appellationValue>Thomas Voßbeck, 2020</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:resourceSource>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+                  <lido:term lido:addedSearchTerm="no">CC BY</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V.</lido:appellationValue>
+                  </lido:legalBodyName>
+               </lido:rightsHolder>
+               <lido:creditLine>Thomas Voßbeck, 2020</lido:creditLine>
+            </lido:rightsResource>
+         </lido:resourceSet>
+         <lido:resourceSet lido:sortorder="2">
+            <lido:resourceID lido:source="image" lido:type="local">49095</lido:resourceID>
+            <lido:resourceRepresentation lido:type="masterfile">
+               <lido:linkResource lido:formatResource="image/tiff"/>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_thumb">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/32/67384-lgv-archiv_c_04_a-299_bl_28/berlin-mitte_wilhelmplatz/100h_berlin-mitte-wilhelmplatz-standbild-des-fuersten-leopold-von-anhalt-dessau-67384.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_preview">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/32/67384-lgv-archiv_c_04_a-299_bl_28/berlin-mitte_wilhelmplatz/200w_berlin-mitte-wilhelmplatz-standbild-des-fuersten-leopold-von-anhalt-dessau-67384.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/32/67384-lgv-archiv_c_04_a-299_bl_28/berlin-mitte_wilhelmplatz/berlin-mitte-wilhelmplatz-standbild-des-fuersten-leopold-von-anhalt-dessau-67384.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceType>
+               <lido:term lido:addedSearchTerm="no">image</lido:term>
+            </lido:resourceType>
+            <lido:resourceDescription/>
+            <lido:resourceSource lido:type="creator">
+               <lido:legalBodyName>
+                  <lido:appellationValue>Thomas Voßbeck, 2020</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:resourceSource>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+                  <lido:term lido:addedSearchTerm="no">CC BY</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V.</lido:appellationValue>
+                  </lido:legalBodyName>
+               </lido:rightsHolder>
+               <lido:creditLine>Thomas Voßbeck, 2020</lido:creditLine>
+            </lido:rightsResource>
+         </lido:resourceSet>
+      </lido:resourceWrap>
+   </lido:administrativeMetadata>
+</lido:lido>
+

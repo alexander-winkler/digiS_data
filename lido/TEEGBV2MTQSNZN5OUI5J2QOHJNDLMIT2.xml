@@ -1,0 +1,871 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lido:lido xmlns:lido="http://www.lido-schema.org"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <lido:lidoRecID lido:type="local">DE-MUS-275412/267756</lido:lidoRecID>
+    <lido:category>
+      <lido:conceptID lido:type="URI">http://www.cidoc-crm.org/crm-concepts/E22</lido:conceptID>
+      <lido:term xml:lang="en">Man-Made Object</lido:term>
+    </lido:category>
+    <lido:descriptiveMetadata xml:lang="de">
+      <lido:objectClassificationWrap>
+        <lido:objectWorkTypeWrap>
+            <lido:objectWorkType lido:sortorder="1">
+               <lido:conceptID lido:source="http://vocab.getty.edu/aat/" lido:type="URI">http://vocab.getty.edu/aat/300026367</lido:conceptID>
+               <lido:term>Lehrmaterial</lido:term>
+            </lido:objectWorkType>
+        </lido:objectWorkTypeWrap>
+        <lido:classificationWrap>
+            <lido:classification lido:type="Sammlung">
+               <lido:term>Dokumentesammlung</lido:term>
+            </lido:classification>
+        </lido:classificationWrap>
+      </lido:objectClassificationWrap>
+      <lido:objectIdentificationWrap>
+        <lido:titleWrap>
+            <lido:titleSet>
+               <lido:appellationValue lido:pref="preferred">Werkbundkisten Aktion zur
+                            Unterstützung des Unterrichts in Umweltgestaltung Abschlußbericht
+                            (Heft)</lido:appellationValue>
+            </lido:titleSet>
+        </lido:titleWrap>
+        <lido:repositoryWrap>
+            <lido:repositorySet lido:type="current">
+               <lido:repositoryName>
+                  <lido:legalBodyID lido:source="ISIL (ISO 15511)" lido:type="URI">info:isil/DE-MUS-275412</lido:legalBodyID>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Werkbundarchiv - Museum der Dinge,
+                                    Berlin</lido:appellationValue>
+                  </lido:legalBodyName>
+                  <lido:legalBodyWeblink>http://www.museumderdinge.de</lido:legalBodyWeblink>
+               </lido:repositoryName>
+               <lido:workID lido:type="inventory number">D 4632</lido:workID>
+            </lido:repositorySet>
+        </lido:repositoryWrap>
+        <lido:objectDescriptionWrap>
+            <lido:objectDescriptionSet lido:type="Bemerkungen">
+               <lido:descriptiveNoteValue>S. Werkbundkiste Porzellan O 223-00ff. und Besteck O 224-00ff, Heft D 4631.
+</lido:descriptiveNoteValue>
+            </lido:objectDescriptionSet>
+            <lido:objectDescriptionSet lido:type="Beschreibung">
+               <lido:descriptiveNoteValue>Heft mit einer Abbildung (aufgeklappte Werkbundkiste "S" Frühstückstisch, Cover-Bild (aufgeklappte Werkbundkiste Gläser)
+2 Exemplare</lido:descriptiveNoteValue>
+            </lido:objectDescriptionSet>
+        </lido:objectDescriptionWrap>
+        <lido:objectMeasurementsWrap>
+            <lido:objectMeasurementsSet>
+               <lido:displayObjectMeasurements>Blattmass: 19,3 x 20,2
+                            cm</lido:displayObjectMeasurements>
+               <lido:objectMeasurements>
+                  <lido:measurementsSet>
+                     <lido:measurementType>Höhe</lido:measurementType>
+                     <lido:measurementUnit>mm</lido:measurementUnit>
+                     <lido:measurementValue>193</lido:measurementValue>
+                  </lido:measurementsSet>
+                  <lido:measurementsSet>
+                     <lido:measurementType>Breite</lido:measurementType>
+                     <lido:measurementUnit>mm</lido:measurementUnit>
+                     <lido:measurementValue>202</lido:measurementValue>
+                  </lido:measurementsSet>
+               </lido:objectMeasurements>
+            </lido:objectMeasurementsSet>
+            <lido:objectMeasurementsSet>
+               <lido:displayObjectMeasurements>Seitenzahl: 5
+                            S.</lido:displayObjectMeasurements>
+               <lido:objectMeasurements>
+                  <lido:measurementsSet>
+                     <lido:measurementType>Paginierung</lido:measurementType>
+                     <lido:measurementUnit>Seite</lido:measurementUnit>
+                     <lido:measurementValue>5</lido:measurementValue>
+                  </lido:measurementsSet>
+               </lido:objectMeasurements>
+            </lido:objectMeasurementsSet>
+        </lido:objectMeasurementsWrap>
+      </lido:objectIdentificationWrap>
+      <lido:eventWrap>
+        <lido:eventSet lido:sortorder="1">
+            <lido:event>
+               <lido:eventType>
+                  <lido:conceptID lido:source="http://terminology.lido-schema.org" lido:type="URI">http://terminology.lido-schema.org/lido00007</lido:conceptID>
+                  <lido:term>Herstellung</lido:term>
+               </lido:eventType>
+               <lido:eventActor lido:sortorder="1">
+                  <lido:displayActorInRole>Deutscher Werkbund Niedersachsen und Bremen,
+                                Hannover (1962 - 1997), Autor/in</lido:displayActorInRole>
+                  <lido:actorInRole>
+                     <lido:actor>
+                        <lido:actorID lido:source="http://d-nb.info/gnd/" lido:type="URI">http://d-nb.info/gnd/2062183-8</lido:actorID>
+                        <lido:nameActorSet>
+                           <lido:appellationValue>Deutscher Werkbund Niedersachsen und
+                                            Bremen, Hannover</lido:appellationValue>
+                        </lido:nameActorSet>
+                     </lido:actor>
+                     <lido:roleActor>
+                        <lido:term>Autor/in</lido:term>
+                     </lido:roleActor>
+                  </lido:actorInRole>
+               </lido:eventActor>
+               <lido:eventDate>
+                  <lido:displayDate>1970</lido:displayDate>
+                  <lido:date>
+                     <lido:earliestDate>1970</lido:earliestDate>
+                     <lido:latestDate>1970</lido:latestDate>
+                  </lido:date>
+               </lido:eventDate>
+               <lido:eventMaterialsTech>
+                  <lido:displayMaterialsTech>Papier, Metall</lido:displayMaterialsTech>
+               </lido:eventMaterialsTech>
+            </lido:event>
+        </lido:eventSet>
+      </lido:eventWrap>
+      <lido:objectRelationWrap>
+        <lido:relatedWorksWrap>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:object>
+                     <lido:objectID lido:type="local">DE-MUS-275412/267753</lido:objectID>
+                     <lido:objectNote>D 4631, Troike, Heft, 1964</lido:objectNote>
+                  </lido:object>
+               </lido:relatedWork>
+               <lido:relatedWorkRelType>
+                  <lido:term>inhaltlicher Bezug zu</lido:term>
+               </lido:relatedWorkRelType>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:object>
+                     <lido:objectID lido:type="local">DE-MUS-275412/277213</lido:objectID>
+                     <lido:objectNote>O 224-01, Raacke, Werkbundkiste Besteck,
+                                    Tafellöffel, Suppenlöffel, 1962</lido:objectNote>
+                  </lido:object>
+               </lido:relatedWork>
+               <lido:relatedWorkRelType>
+                  <lido:term>inhaltlicher Bezug zu</lido:term>
+               </lido:relatedWorkRelType>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:object>
+                     <lido:objectID lido:type="local">DE-MUS-275412/278666</lido:objectID>
+                     <lido:objectNote>O 224-06, Raacke, Werkbundkiste Besteck,
+                                    Tafelmesser, 1958 - 1960</lido:objectNote>
+                  </lido:object>
+               </lido:relatedWork>
+               <lido:relatedWorkRelType>
+                  <lido:term>inhaltlicher Bezug zu</lido:term>
+               </lido:relatedWorkRelType>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:object>
+                     <lido:objectID lido:type="local">DE-MUS-275412/278667</lido:objectID>
+                     <lido:objectNote>O 224-09, Raacke, Werkbundkiste Besteck,
+                                    Dessertlöffel, 1958 - 1960</lido:objectNote>
+                  </lido:object>
+               </lido:relatedWork>
+               <lido:relatedWorkRelType>
+                  <lido:term>inhaltlicher Bezug zu</lido:term>
+               </lido:relatedWorkRelType>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:object>
+                     <lido:objectID lido:type="local">DE-MUS-275412/278668</lido:objectID>
+                     <lido:objectNote>O 224-07, Raacke, Werkbundkiste Besteck,
+                                    Tafelgabel, 1958 - 1960</lido:objectNote>
+                  </lido:object>
+               </lido:relatedWork>
+               <lido:relatedWorkRelType>
+                  <lido:term>inhaltlicher Bezug zu</lido:term>
+               </lido:relatedWorkRelType>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:object>
+                     <lido:objectID lido:type="local">DE-MUS-275412/278669</lido:objectID>
+                     <lido:objectNote>O 224-10, Raacke, Werkbundkiste Besteck,
+                                    Dessertmesser, 1958 - 1960</lido:objectNote>
+                  </lido:object>
+               </lido:relatedWork>
+               <lido:relatedWorkRelType>
+                  <lido:term>inhaltlicher Bezug zu</lido:term>
+               </lido:relatedWorkRelType>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:object>
+                     <lido:objectID lido:type="local">DE-MUS-275412/278670</lido:objectID>
+                     <lido:objectNote>O 224-23, Wagenfeld, Werkbundkiste Besteck,
+                                    Teelöffel, 1954 - 1954</lido:objectNote>
+                  </lido:object>
+               </lido:relatedWork>
+               <lido:relatedWorkRelType>
+                  <lido:term>inhaltlicher Bezug zu</lido:term>
+               </lido:relatedWorkRelType>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:object>
+                     <lido:objectID lido:type="local">DE-MUS-275412/278671</lido:objectID>
+                     <lido:objectNote>O 224-05, Raacke, Werkbundkiste Besteck,
+                                    Tafellöffel, Suppenlöffel, 1958 - 1960</lido:objectNote>
+                  </lido:object>
+               </lido:relatedWork>
+               <lido:relatedWorkRelType>
+                  <lido:term>inhaltlicher Bezug zu</lido:term>
+               </lido:relatedWorkRelType>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:object>
+                     <lido:objectID lido:type="local">DE-MUS-275412/278672</lido:objectID>
+                     <lido:objectNote>O 224-08, Raacke, Werkbundkiste Besteck, Teelöffel,
+                                    1958 - 1960</lido:objectNote>
+                  </lido:object>
+               </lido:relatedWork>
+               <lido:relatedWorkRelType>
+                  <lido:term>inhaltlicher Bezug zu</lido:term>
+               </lido:relatedWorkRelType>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:object>
+                     <lido:objectID lido:type="local">DE-MUS-275412/278673</lido:objectID>
+                     <lido:objectNote>O 224-02, Raacke, Werkbundkiste Besteck,
+                                    Tafelmesser, 1962</lido:objectNote>
+                  </lido:object>
+               </lido:relatedWork>
+               <lido:relatedWorkRelType>
+                  <lido:term>inhaltlicher Bezug zu</lido:term>
+               </lido:relatedWorkRelType>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:object>
+                     <lido:objectID lido:type="local">DE-MUS-275412/278674</lido:objectID>
+                     <lido:objectNote>O 224-03, Raacke, Werkbundkiste Besteck,
+                                    Tafelgabel, 1962</lido:objectNote>
+                  </lido:object>
+               </lido:relatedWork>
+               <lido:relatedWorkRelType>
+                  <lido:term>inhaltlicher Bezug zu</lido:term>
+               </lido:relatedWorkRelType>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:object>
+                     <lido:objectID lido:type="local">DE-MUS-275412/278675</lido:objectID>
+                     <lido:objectNote>O 224-04, Raacke, Werkbundkiste Besteck, Teelöffel,
+                                    1962</lido:objectNote>
+                  </lido:object>
+               </lido:relatedWork>
+               <lido:relatedWorkRelType>
+                  <lido:term>inhaltlicher Bezug zu</lido:term>
+               </lido:relatedWorkRelType>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:object>
+                     <lido:objectID lido:type="local">DE-MUS-275412/278676</lido:objectID>
+                     <lido:objectNote>O 224-00, Deutscher Werkbund Niedersachsen und
+                                    Bremen, Hannover, Werkbundkiste Besteck, 1964 -
+                                    1970</lido:objectNote>
+                  </lido:object>
+               </lido:relatedWork>
+               <lido:relatedWorkRelType>
+                  <lido:term>inhaltlicher Bezug zu</lido:term>
+               </lido:relatedWorkRelType>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:object>
+                     <lido:objectID lido:type="local">DE-MUS-275412/278689</lido:objectID>
+                     <lido:objectNote>O 223-00, Deutscher Werkbund Niedersachsen und
+                                    Bremen, Hannover, Werkbundkiste Porzellan, 1957 -
+                                    1962</lido:objectNote>
+                  </lido:object>
+               </lido:relatedWork>
+               <lido:relatedWorkRelType>
+                  <lido:term>inhaltlicher Bezug zu</lido:term>
+               </lido:relatedWorkRelType>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:object>
+                     <lido:objectID lido:type="local">DE-MUS-275412/278690</lido:objectID>
+                     <lido:objectNote>O 224-12, Pott, Werkbundkiste Besteck, Tafellöffel,
+                                    Suppenlöffel, 1964</lido:objectNote>
+                  </lido:object>
+               </lido:relatedWork>
+               <lido:relatedWorkRelType>
+                  <lido:term>inhaltlicher Bezug zu</lido:term>
+               </lido:relatedWorkRelType>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:object>
+                     <lido:objectID lido:type="local">DE-MUS-275412/278691</lido:objectID>
+                     <lido:objectNote>O 224-13, Pott, Werkbundkiste Besteck, Tafelmesser,
+                                    1964</lido:objectNote>
+                  </lido:object>
+               </lido:relatedWork>
+               <lido:relatedWorkRelType>
+                  <lido:term>inhaltlicher Bezug zu</lido:term>
+               </lido:relatedWorkRelType>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:object>
+                     <lido:objectID lido:type="local">DE-MUS-275412/278692</lido:objectID>
+                     <lido:objectNote>O 224-14, Pott, Werkbundkiste Besteck, Tafellöffel,
+                                    Suppenlöffel, 1964</lido:objectNote>
+                  </lido:object>
+               </lido:relatedWork>
+               <lido:relatedWorkRelType>
+                  <lido:term>inhaltlicher Bezug zu</lido:term>
+               </lido:relatedWorkRelType>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:object>
+                     <lido:objectID lido:type="local">DE-MUS-275412/278693</lido:objectID>
+                     <lido:objectNote>O 224-15, Pott, Werkbundkiste Besteck, Teelöffel,
+                                    1964</lido:objectNote>
+                  </lido:object>
+               </lido:relatedWork>
+               <lido:relatedWorkRelType>
+                  <lido:term>inhaltlicher Bezug zu</lido:term>
+               </lido:relatedWorkRelType>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:object>
+                     <lido:objectID lido:type="local">DE-MUS-275412/278694</lido:objectID>
+                     <lido:objectNote>O 224-19, Raacke, Werkbundkiste Besteck, Teelöffel,
+                                    1958</lido:objectNote>
+                  </lido:object>
+               </lido:relatedWork>
+               <lido:relatedWorkRelType>
+                  <lido:term>inhaltlicher Bezug zu</lido:term>
+               </lido:relatedWorkRelType>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:object>
+                     <lido:objectID lido:type="local">DE-MUS-275412/278695</lido:objectID>
+                     <lido:objectNote>O 224-20, Wagenfeld, Werkbundkiste Besteck,
+                                    Tafellöffel, Suppenlöffel, 1954</lido:objectNote>
+                  </lido:object>
+               </lido:relatedWork>
+               <lido:relatedWorkRelType>
+                  <lido:term>inhaltlicher Bezug zu</lido:term>
+               </lido:relatedWorkRelType>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:object>
+                     <lido:objectID lido:type="local">DE-MUS-275412/278696</lido:objectID>
+                     <lido:objectNote>O 224-21, Wagenfeld, Werkbundkiste Besteck,
+                                    Tafelmesser, 1954</lido:objectNote>
+                  </lido:object>
+               </lido:relatedWork>
+               <lido:relatedWorkRelType>
+                  <lido:term>inhaltlicher Bezug zu</lido:term>
+               </lido:relatedWorkRelType>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:object>
+                     <lido:objectID lido:type="local">DE-MUS-275412/278697</lido:objectID>
+                     <lido:objectNote>O 224-11, Raacke, Werkbundkiste Besteck,
+                                    Dessertlöffel, 1958 - 1960</lido:objectNote>
+                  </lido:object>
+               </lido:relatedWork>
+               <lido:relatedWorkRelType>
+                  <lido:term>inhaltlicher Bezug zu</lido:term>
+               </lido:relatedWorkRelType>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:object>
+                     <lido:objectID lido:type="local">DE-MUS-275412/278698</lido:objectID>
+                     <lido:objectNote>O 224-17, Raacke, Werkbundkiste Besteck,
+                                    Tafelmesser, 1958</lido:objectNote>
+                  </lido:object>
+               </lido:relatedWork>
+               <lido:relatedWorkRelType>
+                  <lido:term>inhaltlicher Bezug zu</lido:term>
+               </lido:relatedWorkRelType>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:object>
+                     <lido:objectID lido:type="local">DE-MUS-275412/278699</lido:objectID>
+                     <lido:objectNote>O 224-18, Raacke, Werkbundkiste, Tafelgabel,
+                                    1958</lido:objectNote>
+                  </lido:object>
+               </lido:relatedWork>
+               <lido:relatedWorkRelType>
+                  <lido:term>inhaltlicher Bezug zu</lido:term>
+               </lido:relatedWorkRelType>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:object>
+                     <lido:objectID lido:type="local">DE-MUS-275412/278700</lido:objectID>
+                     <lido:objectNote>O 224-22, Wagenfeld, Werkbundkiste Besteck,
+                                    Tafelgabel, 1954</lido:objectNote>
+                  </lido:object>
+               </lido:relatedWork>
+               <lido:relatedWorkRelType>
+                  <lido:term>inhaltlicher Bezug zu</lido:term>
+               </lido:relatedWorkRelType>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:object>
+                     <lido:objectID lido:type="local">DE-MUS-275412/282292</lido:objectID>
+                     <lido:objectNote>O 223-09, Unbekannt, Werkbundkiste Porzellan,
+                                    Kaffeekanne mit Deckel, 1957 - 1962</lido:objectNote>
+                  </lido:object>
+               </lido:relatedWork>
+               <lido:relatedWorkRelType>
+                  <lido:term>inhaltlicher Bezug zu</lido:term>
+               </lido:relatedWorkRelType>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:object>
+                     <lido:objectID lido:type="local">DE-MUS-275412/282293</lido:objectID>
+                     <lido:objectNote>O 223-10, Unbekannt, Werkbundkiste Porzellan,
+                                    Zuckerdose mit Deckel, 1957 - 1962</lido:objectNote>
+                  </lido:object>
+               </lido:relatedWork>
+               <lido:relatedWorkRelType>
+                  <lido:term>inhaltlicher Bezug zu</lido:term>
+               </lido:relatedWorkRelType>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:object>
+                     <lido:objectID lido:type="local">DE-MUS-275412/282294</lido:objectID>
+                     <lido:objectNote>O 223-11, Unbekannt, Werkbundkiste Porzellan,
+                                    Milchkännchen, Gießer, 1957 - 1962</lido:objectNote>
+                  </lido:object>
+               </lido:relatedWork>
+               <lido:relatedWorkRelType>
+                  <lido:term>inhaltlicher Bezug zu</lido:term>
+               </lido:relatedWorkRelType>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:object>
+                     <lido:objectID lido:type="local">DE-MUS-275412/282295</lido:objectID>
+                     <lido:objectNote>O 223-12, Unbekannt, Werkbundkiste Porzellan,
+                                    Kaffeetasse, 1957 - 1962</lido:objectNote>
+                  </lido:object>
+               </lido:relatedWork>
+               <lido:relatedWorkRelType>
+                  <lido:term>inhaltlicher Bezug zu</lido:term>
+               </lido:relatedWorkRelType>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:object>
+                     <lido:objectID lido:type="local">DE-MUS-275412/282296</lido:objectID>
+                     <lido:objectNote>O 223-13, Unbekannt, Werkbundkiste Porzellan,
+                                    Unterteller, Untertasse, 1957 - 1962</lido:objectNote>
+                  </lido:object>
+               </lido:relatedWork>
+               <lido:relatedWorkRelType>
+                  <lido:term>inhaltlicher Bezug zu</lido:term>
+               </lido:relatedWorkRelType>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:object>
+                     <lido:objectID lido:type="local">DE-MUS-275412/282297</lido:objectID>
+                     <lido:objectNote>O 223-14, Unbekannt, Werkbundkiste Porzellan,
+                                    Teller, 1957 - 1962</lido:objectNote>
+                  </lido:object>
+               </lido:relatedWork>
+               <lido:relatedWorkRelType>
+                  <lido:term>inhaltlicher Bezug zu</lido:term>
+               </lido:relatedWorkRelType>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:object>
+                     <lido:objectID lido:type="local">DE-MUS-275412/282299</lido:objectID>
+                     <lido:objectNote>O 223-15, Löffelhardt, Werkbundkiste Porzellan,
+                                    Kaffeekanne mit Deckel, 1963 - 1963</lido:objectNote>
+                  </lido:object>
+               </lido:relatedWork>
+               <lido:relatedWorkRelType>
+                  <lido:term>inhaltlicher Bezug zu</lido:term>
+               </lido:relatedWorkRelType>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:object>
+                     <lido:objectID lido:type="local">DE-MUS-275412/282300</lido:objectID>
+                     <lido:objectNote>O 223-16, Löffelhardt, Werkbundkiste Porzellan,
+                                    Zuckerdose mit Deckel, 1957 - 1962</lido:objectNote>
+                  </lido:object>
+               </lido:relatedWork>
+               <lido:relatedWorkRelType>
+                  <lido:term>inhaltlicher Bezug zu</lido:term>
+               </lido:relatedWorkRelType>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:object>
+                     <lido:objectID lido:type="local">DE-MUS-275412/282301</lido:objectID>
+                     <lido:objectNote>O 223-17, Löffelhardt, Werkbundkiste Porzellan,
+                                    Milchkännchen, Gießer, 1957 - 1962</lido:objectNote>
+                  </lido:object>
+               </lido:relatedWork>
+               <lido:relatedWorkRelType>
+                  <lido:term>inhaltlicher Bezug zu</lido:term>
+               </lido:relatedWorkRelType>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:object>
+                     <lido:objectID lido:type="local">DE-MUS-275412/282302</lido:objectID>
+                     <lido:objectNote>O 223-18, Löffelhardt, Werkbundkiste Porzellan,
+                                    Kaffeetasse, 1957 - 1962</lido:objectNote>
+                  </lido:object>
+               </lido:relatedWork>
+               <lido:relatedWorkRelType>
+                  <lido:term>inhaltlicher Bezug zu</lido:term>
+               </lido:relatedWorkRelType>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:object>
+                     <lido:objectID lido:type="local">DE-MUS-275412/282303</lido:objectID>
+                     <lido:objectNote>O 223-19, Löffelhardt, Werkbundkiste Porzellan,
+                                    Untertasse, 1957 - 1962</lido:objectNote>
+                  </lido:object>
+               </lido:relatedWork>
+               <lido:relatedWorkRelType>
+                  <lido:term>inhaltlicher Bezug zu</lido:term>
+               </lido:relatedWorkRelType>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:object>
+                     <lido:objectID lido:type="local">DE-MUS-275412/282304</lido:objectID>
+                     <lido:objectNote>O 223-20, Löffelhardt, Werkbundkiste Porzellan,
+                                    Teller, 1957 - 1962</lido:objectNote>
+                  </lido:object>
+               </lido:relatedWork>
+               <lido:relatedWorkRelType>
+                  <lido:term>inhaltlicher Bezug zu</lido:term>
+               </lido:relatedWorkRelType>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:object>
+                     <lido:objectID lido:type="local">DE-MUS-275412/282309</lido:objectID>
+                     <lido:objectNote>O 223-21, Löffelhardt, Werkbundkiste Porzellan,
+                                    Kaffeetasse, 1957 - 1962</lido:objectNote>
+                  </lido:object>
+               </lido:relatedWork>
+               <lido:relatedWorkRelType>
+                  <lido:term>inhaltlicher Bezug zu</lido:term>
+               </lido:relatedWorkRelType>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:object>
+                     <lido:objectID lido:type="local">DE-MUS-275412/282310</lido:objectID>
+                     <lido:objectNote>O 223-22, Löffelhardt, Werkbundkiste Porzellan,
+                                    Unterteller, Untertasse, 1957 - 1962</lido:objectNote>
+                  </lido:object>
+               </lido:relatedWork>
+               <lido:relatedWorkRelType>
+                  <lido:term>inhaltlicher Bezug zu</lido:term>
+               </lido:relatedWorkRelType>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:object>
+                     <lido:objectID lido:type="local">DE-MUS-275412/282311</lido:objectID>
+                     <lido:objectNote>O 223-23, Löffelhardt, Werkbundkiste Porzellan,
+                                    Kaffeetasse, 1957 - 1962</lido:objectNote>
+                  </lido:object>
+               </lido:relatedWork>
+               <lido:relatedWorkRelType>
+                  <lido:term>inhaltlicher Bezug zu</lido:term>
+               </lido:relatedWorkRelType>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:object>
+                     <lido:objectID lido:type="local">DE-MUS-275412/282312</lido:objectID>
+                     <lido:objectNote>O 223-24, Löffelhardt, Werkbundkiste Porzellan,
+                                    Untertasse, Unterteller, 1957 - 1962</lido:objectNote>
+                  </lido:object>
+               </lido:relatedWork>
+               <lido:relatedWorkRelType>
+                  <lido:term>inhaltlicher Bezug zu</lido:term>
+               </lido:relatedWorkRelType>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:object>
+                     <lido:objectID lido:type="local">DE-MUS-275412/282313</lido:objectID>
+                     <lido:objectNote>O 223-25, Löffelhardt, Werkbundkiste Porzellan,
+                                    Kaffeetasse, 1957 - 1962</lido:objectNote>
+                  </lido:object>
+               </lido:relatedWork>
+               <lido:relatedWorkRelType>
+                  <lido:term>inhaltlicher Bezug zu</lido:term>
+               </lido:relatedWorkRelType>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:object>
+                     <lido:objectID lido:type="local">DE-MUS-275412/282314</lido:objectID>
+                     <lido:objectNote>O 223-26, Löffelhardt, Werkbundkiste Porzellan,
+                                    Untertasse, Unterteller, 1957 - 1962</lido:objectNote>
+                  </lido:object>
+               </lido:relatedWork>
+               <lido:relatedWorkRelType>
+                  <lido:term>inhaltlicher Bezug zu</lido:term>
+               </lido:relatedWorkRelType>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:object>
+                     <lido:objectID lido:type="local">DE-MUS-275412/282315</lido:objectID>
+                     <lido:objectNote>O 223-27, Löffelhardt, Werkbundkiste Porzellan,
+                                    Kaffeetasse, 1957 - 1962</lido:objectNote>
+                  </lido:object>
+               </lido:relatedWork>
+               <lido:relatedWorkRelType>
+                  <lido:term>inhaltlicher Bezug zu</lido:term>
+               </lido:relatedWorkRelType>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:object>
+                     <lido:objectID lido:type="local">DE-MUS-275412/282316</lido:objectID>
+                     <lido:objectNote>O 223-28, Löffelhardt, Werkbundkiste Porzellan,
+                                    Unterteller, 1957 - 1962</lido:objectNote>
+                  </lido:object>
+               </lido:relatedWork>
+               <lido:relatedWorkRelType>
+                  <lido:term>inhaltlicher Bezug zu</lido:term>
+               </lido:relatedWorkRelType>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:object>
+                     <lido:objectID lido:type="local">DE-MUS-275412/282317</lido:objectID>
+                     <lido:objectNote>O 223-29, Löffelhardt, Werkbundkiste Porzellan,
+                                    Kaffeetasse, 1957 - 1962</lido:objectNote>
+                  </lido:object>
+               </lido:relatedWork>
+               <lido:relatedWorkRelType>
+                  <lido:term>inhaltlicher Bezug zu</lido:term>
+               </lido:relatedWorkRelType>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:object>
+                     <lido:objectID lido:type="local">DE-MUS-275412/305297</lido:objectID>
+                     <lido:objectNote>O 224-16, Raacke, Werkbundkiste Besteck,
+                                    Tafellöffel, Suppenlöffel, 1958</lido:objectNote>
+                  </lido:object>
+               </lido:relatedWork>
+               <lido:relatedWorkRelType>
+                  <lido:term>inhaltlicher Bezug zu</lido:term>
+               </lido:relatedWorkRelType>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:object>
+                     <lido:objectID lido:type="local">DE-MUS-275412/305314</lido:objectID>
+                     <lido:objectNote>O 223-30, Löffelhardt, Werkbundkiste Porzellan,
+                                    Untertasse, Unterteller, 1957 - 1962</lido:objectNote>
+                  </lido:object>
+               </lido:relatedWork>
+               <lido:relatedWorkRelType>
+                  <lido:term>inhaltlicher Bezug zu</lido:term>
+               </lido:relatedWorkRelType>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:object>
+                     <lido:objectID lido:type="local">DE-MUS-275412/305451</lido:objectID>
+                     <lido:objectNote>O 223-01, Unbekannt, Werkbundkiste Porzellan,
+                                    Bildtafel, 1957 - 1962</lido:objectNote>
+                  </lido:object>
+               </lido:relatedWork>
+               <lido:relatedWorkRelType>
+                  <lido:term>inhaltlicher Bezug zu</lido:term>
+               </lido:relatedWorkRelType>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:object>
+                     <lido:objectID lido:type="local">DE-MUS-275412/305452</lido:objectID>
+                     <lido:objectNote>O 223-02, Unbekannt, Werkbundkiste Porzellan,
+                                    Bildtafel, 1957 - 1962</lido:objectNote>
+                  </lido:object>
+               </lido:relatedWork>
+               <lido:relatedWorkRelType>
+                  <lido:term>inhaltlicher Bezug zu</lido:term>
+               </lido:relatedWorkRelType>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:object>
+                     <lido:objectID lido:type="local">DE-MUS-275412/305453</lido:objectID>
+                     <lido:objectNote>O 223-03, Unbekannt, Werkbundkiste Porzellan,
+                                    Bildtafel, 1957 - 1962</lido:objectNote>
+                  </lido:object>
+               </lido:relatedWork>
+               <lido:relatedWorkRelType>
+                  <lido:term>inhaltlicher Bezug zu</lido:term>
+               </lido:relatedWorkRelType>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:object>
+                     <lido:objectID lido:type="local">DE-MUS-275412/305454</lido:objectID>
+                     <lido:objectNote>O 223-04, Unbekannt, Werkbundkiste Porzellan,
+                                    Bildtafel, 1957 - 1962</lido:objectNote>
+                  </lido:object>
+               </lido:relatedWork>
+               <lido:relatedWorkRelType>
+                  <lido:term>inhaltlicher Bezug zu</lido:term>
+               </lido:relatedWorkRelType>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:object>
+                     <lido:objectID lido:type="local">DE-MUS-275412/305455</lido:objectID>
+                     <lido:objectNote>O 223-05, Unbekannt, Werkbundkiste Porzellan,
+                                    Bildtafel, 1957 - 1962</lido:objectNote>
+                  </lido:object>
+               </lido:relatedWork>
+               <lido:relatedWorkRelType>
+                  <lido:term>inhaltlicher Bezug zu</lido:term>
+               </lido:relatedWorkRelType>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:object>
+                     <lido:objectID lido:type="local">DE-MUS-275412/305456</lido:objectID>
+                     <lido:objectNote>O 223-06, Unbekannt, Werkbundkiste Porzellan,
+                                    Bildtafel, 1957 - 1962</lido:objectNote>
+                  </lido:object>
+               </lido:relatedWork>
+               <lido:relatedWorkRelType>
+                  <lido:term>inhaltlicher Bezug zu</lido:term>
+               </lido:relatedWorkRelType>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:object>
+                     <lido:objectID lido:type="local">DE-MUS-275412/305457</lido:objectID>
+                     <lido:objectNote>O 223-07, Unbekannt, Werkbundkiste Porzellan,
+                                    Bildtafel, 1957 - 1962</lido:objectNote>
+                  </lido:object>
+               </lido:relatedWork>
+               <lido:relatedWorkRelType>
+                  <lido:term>inhaltlicher Bezug zu</lido:term>
+               </lido:relatedWorkRelType>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:object>
+                     <lido:objectID lido:type="local">DE-MUS-275412/305458</lido:objectID>
+                     <lido:objectNote>O 223-08, Unbekannt, Werkbundkiste Porzellan,
+                                    Bildtafel, 1957 - 1962</lido:objectNote>
+                  </lido:object>
+               </lido:relatedWork>
+               <lido:relatedWorkRelType>
+                  <lido:term>inhaltlicher Bezug zu</lido:term>
+               </lido:relatedWorkRelType>
+            </lido:relatedWorkSet>
+        </lido:relatedWorksWrap>
+      </lido:objectRelationWrap>
+    </lido:descriptiveMetadata>
+    <lido:administrativeMetadata xml:lang="de">
+      <lido:rightsWorkWrap>
+        <lido:rightsWorkSet>
+            <lido:rightsHolder>
+               <lido:legalBodyName>
+                  <lido:appellationValue>Werkbundarchiv - Museum der Dinge,
+                                Berlin</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:rightsHolder>
+            <lido:creditLine>Förderprogramm zur Digitalisierung von Objekten des kulturellen Erbes des Landes Berlin</lido:creditLine>
+        </lido:rightsWorkSet>
+      </lido:rightsWorkWrap>
+      <lido:recordWrap>
+        <lido:recordID lido:type="local">267756</lido:recordID>
+        <lido:recordType>
+            <lido:conceptID lido:source="http://terminology.lido-schema.org" lido:type="URI">http://terminology.lido-schema.org/lido00141</lido:conceptID>
+            <lido:term>Einzelobjekt</lido:term>
+        </lido:recordType>
+        <lido:recordSource>
+            <lido:legalBodyID lido:source="ISL (ISO 15511)" lido:type="URI">info:isil/DE-MUS-275412</lido:legalBodyID>
+            <lido:legalBodyName>
+               <lido:appellationValue>Werkbundarchiv - Museum der Dinge,
+                            Berlin</lido:appellationValue>
+            </lido:legalBodyName>
+            <lido:legalBodyWeblink>http://www.museumderdinge.de</lido:legalBodyWeblink>
+        </lido:recordSource>
+        <lido:recordRights>
+            <lido:rightsType>
+               <lido:conceptID lido:type="URI">http://creativecommons.org/publicdomain/zero/1.0/deed.de</lido:conceptID>
+               <lido:term>CC0 Public Domain Dedication</lido:term>
+            </lido:rightsType>
+            <lido:rightsHolder>
+               <lido:legalBodyID lido:source="ISL (ISO 15511)" lido:type="URI">info:isil/DE-MUS-275412</lido:legalBodyID>
+               <lido:legalBodyName>
+                  <lido:appellationValue>Werkbundarchiv - Museum der Dinge,
+                                Berlin</lido:appellationValue>
+               </lido:legalBodyName>
+               <lido:legalBodyWeblink>http://www.museumderdinge.de</lido:legalBodyWeblink>
+            </lido:rightsHolder>
+        </lido:recordRights>
+        <lido:recordInfoSet>
+            <lido:recordInfoLink>http://sammlung.museumderdinge.de/node/267756</lido:recordInfoLink>
+            <lido:recordMetadataDate lido:type="export date">2018-03-01T11:00:45.983</lido:recordMetadataDate>
+        </lido:recordInfoSet>
+      </lido:recordWrap>
+      <lido:resourceWrap>
+        <lido:resourceSet>
+            <lido:resourceRepresentation lido:type="image_master">
+               <lido:linkResource>http://sammlung.museumderdinge.de/images/267756-image.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceType>
+               <lido:term>digital image</lido:term>
+            </lido:resourceType>
+            <lido:resourceSource lido:type="Fotograf">
+               <lido:legalBodyName>
+                  <lido:appellationValue>Armin Hermann</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:resourceSource>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="URI">http://www.deutsche-digitale-bibliothek.de/lizenzen/rv-fz/</lido:conceptID>
+                  <lido:term>Rechte vorbehalten - Freier Zugang</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Werkbundarchiv - Museum der Dinge, Berlin</lido:appellationValue>
+                  </lido:legalBodyName>
+               </lido:rightsHolder>
+            </lido:rightsResource>
+        </lido:resourceSet>
+      </lido:resourceWrap>
+    </lido:administrativeMetadata>
+  </lido:lido>
+

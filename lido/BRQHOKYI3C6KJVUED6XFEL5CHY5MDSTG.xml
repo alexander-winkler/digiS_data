@@ -1,0 +1,415 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lido:lido xmlns:lido="http://www.lido-schema.org"
+           xmlns:xalan="http://xml.apache.org/xalan">
+   <lido:lidoRecID lido:source="https://berlin.museum-digital.de/index.php?t=institution&amp;instnr=32"
+                   lido:type="local">DE-B185/67092</lido:lidoRecID>
+   <lido:category/>
+   <lido:descriptiveMetadata xml:lang="de">
+      <lido:objectClassificationWrap>
+         <lido:objectWorkTypeWrap>
+            <lido:objectWorkType>
+               <lido:conceptID lido:source="gnd" lido:type="uri">http://d-nb.info/gnd/4165892-9</lido:conceptID>
+               <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/8710</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Künstlerpostkarte</lido:term>
+            </lido:objectWorkType>
+         </lido:objectWorkTypeWrap>
+         <lido:classificationWrap>
+            <lido:classification lido:type="Sammlung">
+               <lido:conceptID lido:source="local" lido:type="collection_id">705</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Handzeichnungen, Druckgraphik, Gemälde</lido:term>
+            </lido:classification>
+            <lido:classification lido:type="Sammlung">
+               <lido:conceptID lido:source="local" lido:type="collection_id">731</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Nachlässe</lido:term>
+            </lido:classification>
+            <lido:classification lido:type="Sammlung">
+               <lido:conceptID lido:source="local" lido:type="collection_id">734</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Martha Ortrud Krebs</lido:term>
+            </lido:classification>
+         </lido:classificationWrap>
+      </lido:objectClassificationWrap>
+      <lido:objectIdentificationWrap>
+         <lido:titleWrap>
+            <lido:titleSet>
+               <lido:appellationValue lido:pref="preferred">Kronenburg (Eifel) [Gemeinde Dahlem, Kr. Euskirchen, Nordrhein-Westfalen]</lido:appellationValue>
+            </lido:titleSet>
+         </lido:titleWrap>
+         <lido:repositoryWrap>
+            <lido:repositorySet lido:type="current">
+               <lido:repositoryName>
+                  <lido:legalBodyID lido:type="isil">DE-B185</lido:legalBodyID>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+                  </lido:legalBodyName>
+                  <lido:legalBodyWeblink>http://geschichte-brandenburg.de/</lido:legalBodyWeblink>
+               </lido:repositoryName>
+               <lido:workID lido:type="inventory number">LGV-Archiv, B 70-09, Bl. 2</lido:workID>
+               <lido:repositoryLocation>
+                  <lido:namePlaceSet>
+                     <lido:appellationValue>Berlin</lido:appellationValue>
+                  </lido:namePlaceSet>
+                  <lido:gml>
+                     <gml:Point xmlns:gml="http://www.opengis.net/gml" srsName="EPSG:4326">
+                        <gml:pos>52.51533127 13.40440559</gml:pos>
+                     </gml:Point>
+                  </lido:gml>
+               </lido:repositoryLocation>
+            </lido:repositorySet>
+         </lido:repositoryWrap>
+         <lido:objectDescriptionWrap>
+            <lido:objectDescriptionSet>
+               <lido:descriptiveNoteValue>Künstlerpostkarte von Emil Oelieden mit expressionistischer Darstellung einer Gruppe von Gehöften in Kronenberg. Auf der Rückseite: Notiz von Martha Ortrud Krebs, Berlin, nach 1945: "Vom Maler selbst / erhalten. / Text lesen!" [Text fehlt. Gemeint sein könnte aber der Postkartentext auf Bl. 1v.] Denkbar wäre, dass sie während eines Besuchs bei ihrer Schwester Karoline Kurscheidt geb. Krebs in Bonn mit Oelieden in Kontakt gekommen ist.&#xD;
+Der als rheinländischer Expressionist bekannte Emil (Em) Oelieden (1875-1934) lebte zeitweise in Bonn. Ursprünglich Maurer sowie Stukkateur, Keramiker und Silberschmied, arbeitete er erst ab 1905/06 als Maler und Zeichner. Als junger Mann war er um 1900 vorübergehend als Stukkateur in Berlin tätig. Sein Nachlass wurde 1956 teilweise vom Kunstmuseum Bonn übernommen.&#xD;
+&#xD;
+Literatur zum Künstler: Irmgard Wolf: Kunst ohne Konzessionen. Zu Leben und Werk des Malers Em Oeliden. In: Bonner Geschichtsblätter 37 (1986), S. 249-304. - Raue Schönheit. Eifel und Ardennen im Blick der Künstler. Ausstellungskatalog Stadtmuseum Simeonstift Trier. Regensburg 2010, S. 210.</lido:descriptiveNoteValue>
+               <lido:sourceDescriptiveNote>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:sourceDescriptiveNote>
+            </lido:objectDescriptionSet>
+         </lido:objectDescriptionWrap>
+         <lido:objectMeasurementsWrap>
+            <lido:objectMeasurementsSet>
+               <lido:displayObjectMeasurements>Blattgröße: Höhe 8,5 cm, Breite 13,4 cm</lido:displayObjectMeasurements>
+               <lido:objectMeasurements/>
+            </lido:objectMeasurementsSet>
+         </lido:objectMeasurementsWrap>
+      </lido:objectIdentificationWrap>
+      <lido:eventWrap>
+         <lido:eventSet>
+            <lido:event>
+               <lido:eventType>
+                  <lido:conceptID lido:type="uri">https://event-types.museum-digital.org/1</lido:conceptID>
+                  <lido:term lido:addedSearchTerm="no">Hergestellt</lido:term>
+               </lido:eventType>
+               <lido:eventActor>
+                  <lido:displayActorInRole>Emil Oeliden (1875-1934)</lido:displayActorInRole>
+                  <lido:actorInRole>
+                     <lido:actor>
+                        <lido:actorID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/persinst/125432</lido:actorID>
+                        <lido:nameActorSet>
+                           <lido:appellationValue>Oeliden, Emil</lido:appellationValue>
+                           <lido:appellationValue xml:lang="de">Emil Oeliden</lido:appellationValue>
+                        </lido:nameActorSet>
+                        <lido:vitalDatesActor>
+                           <lido:earliestDate>1875</lido:earliestDate>
+                           <lido:latestDate>1934</lido:latestDate>
+                        </lido:vitalDatesActor>
+                     </lido:actor>
+                  </lido:actorInRole>
+               </lido:eventActor>
+               <lido:eventDate>
+                  <lido:displayDate>10.10.1919</lido:displayDate>
+                  <lido:displayDate xml:lang="ar">10/10/1919</lido:displayDate>
+                  <lido:displayDate xml:lang="de">10.10.1919</lido:displayDate>
+                  <lido:displayDate xml:lang="en">October 10, 1919</lido:displayDate>
+                  <lido:displayDate xml:lang="es">10/10/1919</lido:displayDate>
+                  <lido:displayDate xml:lang="fa">10/10/1919</lido:displayDate>
+                  <lido:displayDate xml:lang="fr">10/10/1919</lido:displayDate>
+                  <lido:displayDate xml:lang="hu">1919. október 10.</lido:displayDate>
+                  <lido:displayDate xml:lang="id">10 Oktober 1919</lido:displayDate>
+                  <lido:displayDate xml:lang="it">10/10/1919</lido:displayDate>
+                  <lido:displayDate xml:lang="ja">1919年10月10日</lido:displayDate>
+                  <lido:displayDate xml:lang="ka">10.10.1919</lido:displayDate>
+                  <lido:displayDate xml:lang="ko">1919년 10월 10일</lido:displayDate>
+                  <lido:displayDate xml:lang="pl">10.10.1919</lido:displayDate>
+                  <lido:displayDate xml:lang="pt">10/10/1919</lido:displayDate>
+                  <lido:displayDate xml:lang="ro">10.10.1919</lido:displayDate>
+                  <lido:displayDate xml:lang="ru">10.10.1919</lido:displayDate>
+                  <lido:displayDate xml:lang="ta">10-10-1919</lido:displayDate>
+                  <lido:displayDate xml:lang="tl">Oktubre 10, 1919</lido:displayDate>
+                  <lido:displayDate xml:lang="tr">10.10.1919</lido:displayDate>
+                  <lido:displayDate xml:lang="zh">1919年10月10日</lido:displayDate>
+                  <lido:date>
+                     <lido:earliestDate>1919</lido:earliestDate>
+                     <lido:latestDate>1919</lido:latestDate>
+                  </lido:date>
+               </lido:eventDate>
+               <lido:eventPlace>
+                  <lido:displayPlace>Kronenburg</lido:displayPlace>
+                  <lido:displayPlace xml:lang="de">Kronenburg</lido:displayPlace>
+                  <lido:displayPlace xml:lang="en">Kronenburg</lido:displayPlace>
+                  <lido:displayPlace xml:lang="fr">Kronenburg</lido:displayPlace>
+                  <lido:displayPlace xml:lang="nl">Kronenburg (Noordrijn-Westfalen)</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ro">Kronenburg</lido:displayPlace>
+                  <lido:place>
+                     <lido:placeID lido:source="geonames" lido:type="uri">https://sws.geonames.org/2883725</lido:placeID>
+                     <lido:placeID lido:source="TGN" lido:type="uri">http://vocab.getty.edu/tgn/7150075</lido:placeID>
+                     <lido:placeID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/1085432-0</lido:placeID>
+                     <lido:placeID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q830799</lido:placeID>
+                     <lido:placeID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/place/14789</lido:placeID>
+                     <lido:namePlaceSet>
+                        <lido:appellationValue>Kronenburg</lido:appellationValue>
+                        <lido:appellationValue xml:lang="de">Kronenburg</lido:appellationValue>
+                        <lido:appellationValue xml:lang="en">Kronenburg</lido:appellationValue>
+                        <lido:appellationValue xml:lang="fr">Kronenburg</lido:appellationValue>
+                        <lido:appellationValue xml:lang="nl">Kronenburg (Noordrijn-Westfalen)</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ro">Kronenburg</lido:appellationValue>
+                     </lido:namePlaceSet>
+                     <lido:gml>
+                        <gml:Point xmlns:gml="http://www.opengis.net/gml" srsName="EPSG:4326">
+                           <gml:pos>50.367553710938 6.4795079231262</gml:pos>
+                        </gml:Point>
+                     </lido:gml>
+                  </lido:place>
+               </lido:eventPlace>
+            </lido:event>
+         </lido:eventSet>
+         <lido:eventSet>
+            <lido:event>
+               <lido:eventType>
+                  <lido:conceptID lido:type="uri">http://terminology.lido-schema.org/lido00003</lido:conceptID>
+                  <lido:term>Event (non-specified)</lido:term>
+               </lido:eventType>
+               <lido:eventMaterialsTech>
+                  <lido:displayMaterialsTech>Skribent in Schwarz, koloriert mit leuchtenden Farben</lido:displayMaterialsTech>
+               </lido:eventMaterialsTech>
+            </lido:event>
+         </lido:eventSet>
+      </lido:eventWrap>
+      <lido:objectRelationWrap>
+         <lido:subjectWrap>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectPlace>
+                     <lido:displayPlace>Bonn</lido:displayPlace>
+                     <lido:displayPlace xml:lang="ar">بون</lido:displayPlace>
+                     <lido:displayPlace xml:lang="cs">Bonn</lido:displayPlace>
+                     <lido:displayPlace xml:lang="da">Bonn</lido:displayPlace>
+                     <lido:displayPlace xml:lang="de">Bonn</lido:displayPlace>
+                     <lido:displayPlace xml:lang="el">Βόννη</lido:displayPlace>
+                     <lido:displayPlace xml:lang="en">Bonn</lido:displayPlace>
+                     <lido:displayPlace xml:lang="es">Bonn</lido:displayPlace>
+                     <lido:displayPlace xml:lang="fa">بن</lido:displayPlace>
+                     <lido:displayPlace xml:lang="fi">Bonn</lido:displayPlace>
+                     <lido:displayPlace xml:lang="fr">Bonn</lido:displayPlace>
+                     <lido:displayPlace xml:lang="he">בון</lido:displayPlace>
+                     <lido:displayPlace xml:lang="hi">बॉन</lido:displayPlace>
+                     <lido:displayPlace xml:lang="hu">Bonn</lido:displayPlace>
+                     <lido:displayPlace xml:lang="id">Bonn</lido:displayPlace>
+                     <lido:displayPlace xml:lang="it">Bonn</lido:displayPlace>
+                     <lido:displayPlace xml:lang="ja">ボン</lido:displayPlace>
+                     <lido:displayPlace xml:lang="ka">ბონი</lido:displayPlace>
+                     <lido:displayPlace xml:lang="ko">본</lido:displayPlace>
+                     <lido:displayPlace xml:lang="nl">Bonn</lido:displayPlace>
+                     <lido:displayPlace xml:lang="pl">Bonn</lido:displayPlace>
+                     <lido:displayPlace xml:lang="pt">Bona</lido:displayPlace>
+                     <lido:displayPlace xml:lang="ru">Бонн</lido:displayPlace>
+                     <lido:displayPlace xml:lang="sv">Bonn</lido:displayPlace>
+                     <lido:displayPlace xml:lang="sw">Bonn</lido:displayPlace>
+                     <lido:displayPlace xml:lang="ta">பான்</lido:displayPlace>
+                     <lido:displayPlace xml:lang="th">บ็อน</lido:displayPlace>
+                     <lido:displayPlace xml:lang="tr">Bonn</lido:displayPlace>
+                     <lido:displayPlace xml:lang="ur">بون</lido:displayPlace>
+                     <lido:displayPlace xml:lang="vi">Bonn</lido:displayPlace>
+                     <lido:displayPlace xml:lang="zh">波恩</lido:displayPlace>
+                     <lido:place>
+                        <lido:placeID lido:source="geonames" lido:type="uri">https://sws.geonames.org/2946447</lido:placeID>
+                        <lido:placeID lido:source="TGN" lido:type="uri">http://vocab.getty.edu/tgn/7005090</lido:placeID>
+                        <lido:placeID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4007666-0</lido:placeID>
+                        <lido:placeID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q586</lido:placeID>
+                        <lido:placeID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/place/380</lido:placeID>
+                        <lido:namePlaceSet>
+                           <lido:appellationValue>Bonn</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ar">بون</lido:appellationValue>
+                           <lido:appellationValue xml:lang="cs">Bonn</lido:appellationValue>
+                           <lido:appellationValue xml:lang="da">Bonn</lido:appellationValue>
+                           <lido:appellationValue xml:lang="de">Bonn</lido:appellationValue>
+                           <lido:appellationValue xml:lang="el">Βόννη</lido:appellationValue>
+                           <lido:appellationValue xml:lang="en">Bonn</lido:appellationValue>
+                           <lido:appellationValue xml:lang="es">Bonn</lido:appellationValue>
+                           <lido:appellationValue xml:lang="fa">بن</lido:appellationValue>
+                           <lido:appellationValue xml:lang="fi">Bonn</lido:appellationValue>
+                           <lido:appellationValue xml:lang="fr">Bonn</lido:appellationValue>
+                           <lido:appellationValue xml:lang="he">בון</lido:appellationValue>
+                           <lido:appellationValue xml:lang="hi">बॉन</lido:appellationValue>
+                           <lido:appellationValue xml:lang="hu">Bonn</lido:appellationValue>
+                           <lido:appellationValue xml:lang="id">Bonn</lido:appellationValue>
+                           <lido:appellationValue xml:lang="it">Bonn</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ja">ボン</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ka">ბონი</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ko">본</lido:appellationValue>
+                           <lido:appellationValue xml:lang="nl">Bonn</lido:appellationValue>
+                           <lido:appellationValue xml:lang="pl">Bonn</lido:appellationValue>
+                           <lido:appellationValue xml:lang="pt">Bona</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ru">Бонн</lido:appellationValue>
+                           <lido:appellationValue xml:lang="sv">Bonn</lido:appellationValue>
+                           <lido:appellationValue xml:lang="sw">Bonn</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ta">பான்</lido:appellationValue>
+                           <lido:appellationValue xml:lang="th">บ็อน</lido:appellationValue>
+                           <lido:appellationValue xml:lang="tr">Bonn</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ur">بون</lido:appellationValue>
+                           <lido:appellationValue xml:lang="vi">Bonn</lido:appellationValue>
+                           <lido:appellationValue xml:lang="zh">波恩</lido:appellationValue>
+                        </lido:namePlaceSet>
+                        <lido:gml>
+                           <gml:Point xmlns:gml="http://www.opengis.net/gml" srsName="EPSG:4326">
+                              <gml:pos>50.733890533447 7.0997223854065</gml:pos>
+                           </gml:Point>
+                        </lido:gml>
+                     </lido:place>
+                  </lido:subjectPlace>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectPlace>
+                     <lido:displayPlace>Kronenburg</lido:displayPlace>
+                     <lido:displayPlace xml:lang="de">Kronenburg</lido:displayPlace>
+                     <lido:displayPlace xml:lang="en">Kronenburg</lido:displayPlace>
+                     <lido:displayPlace xml:lang="fr">Kronenburg</lido:displayPlace>
+                     <lido:displayPlace xml:lang="nl">Kronenburg (Noordrijn-Westfalen)</lido:displayPlace>
+                     <lido:displayPlace xml:lang="ro">Kronenburg</lido:displayPlace>
+                     <lido:place>
+                        <lido:placeID lido:source="geonames" lido:type="uri">https://sws.geonames.org/2883725</lido:placeID>
+                        <lido:placeID lido:source="TGN" lido:type="uri">http://vocab.getty.edu/tgn/7150075</lido:placeID>
+                        <lido:placeID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/1085432-0</lido:placeID>
+                        <lido:placeID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q830799</lido:placeID>
+                        <lido:placeID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/place/14789</lido:placeID>
+                        <lido:namePlaceSet>
+                           <lido:appellationValue>Kronenburg</lido:appellationValue>
+                           <lido:appellationValue xml:lang="de">Kronenburg</lido:appellationValue>
+                           <lido:appellationValue xml:lang="en">Kronenburg</lido:appellationValue>
+                           <lido:appellationValue xml:lang="fr">Kronenburg</lido:appellationValue>
+                           <lido:appellationValue xml:lang="nl">Kronenburg (Noordrijn-Westfalen)</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ro">Kronenburg</lido:appellationValue>
+                        </lido:namePlaceSet>
+                        <lido:gml>
+                           <gml:Point xmlns:gml="http://www.opengis.net/gml" srsName="EPSG:4326">
+                              <gml:pos>50.367553710938 6.4795079231262</gml:pos>
+                           </gml:Point>
+                        </lido:gml>
+                     </lido:place>
+                  </lido:subjectPlace>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">http://d-nb.info/gnd/4016044-0</lido:conceptID>
+                     <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh85046541</lido:conceptID>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">http://de.wikipedia.org/wiki/Expressionismus</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/1415</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Expressionismus</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">http://d-nb.info/gnd/4165892-9</lido:conceptID>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Künstlerpostkarte</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/8710</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Künstlerpostkarte</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="de">Künstlerpostkarte</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+         </lido:subjectWrap>
+         <lido:relatedWorksWrap>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:displayObject>Mehr zum Künstler:</lido:displayObject>
+                  <lido:object>
+                     <lido:objectWebResource>https://www.treffpunkt-kunst.net/k%C3%BCnstlerprofile-bonner-k%C3%BCnstler/em-il-oelieden/</lido:objectWebResource>
+                  </lido:object>
+               </lido:relatedWork>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:displayObject>Ein zweites Objekt vom selben Künstler findet sich in der Sammlung.</lido:displayObject>
+                  <lido:object>
+                     <lido:objectWebResource>https://berlin.museum-digital.de/index.php?t=objekt&amp;oges=67081</lido:objectWebResource>
+                  </lido:object>
+               </lido:relatedWork>
+            </lido:relatedWorkSet>
+         </lido:relatedWorksWrap>
+      </lido:objectRelationWrap>
+   </lido:descriptiveMetadata>
+   <lido:administrativeMetadata xml:lang="de">
+      <lido:rightsWorkWrap>
+         <lido:rightsWorkSet>
+            <lido:rightsHolder>
+               <lido:legalBodyName>
+                  <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:rightsHolder>
+         </lido:rightsWorkSet>
+      </lido:rightsWorkWrap>
+      <lido:recordWrap>
+         <lido:recordID lido:type="museum-digital">67092</lido:recordID>
+         <lido:recordType>
+            <lido:term lido:addedSearchTerm="no">item</lido:term>
+         </lido:recordType>
+         <lido:recordSource lido:type="dataProvider">
+            <lido:legalBodyName>
+               <lido:appellationValue>museum-digital</lido:appellationValue>
+            </lido:legalBodyName>
+            <lido:legalBodyWeblink>https://berlin.museum-digital.de/</lido:legalBodyWeblink>
+         </lido:recordSource>
+         <lido:recordSource>
+            <lido:legalBodyID lido:type="isil">DE-B185</lido:legalBodyID>
+            <lido:legalBodyName>
+               <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+            </lido:legalBodyName>
+         </lido:recordSource>
+         <lido:recordRights>
+            <lido:rightsType>
+               <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no">CC BY</lido:term>
+            </lido:rightsType>
+            <lido:rightsHolder>
+               <lido:legalBodyID lido:type="isil">DE-B185</lido:legalBodyID>
+               <lido:legalBodyName>
+                  <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+               </lido:legalBodyName>
+               <lido:legalBodyWeblink>http://geschichte-brandenburg.de/</lido:legalBodyWeblink>
+            </lido:rightsHolder>
+            <lido:creditLine>Förderprogramm zur Digitalisierung von Objekten des kulturellen Erbes des Landes Berlin</lido:creditLine>
+         </lido:recordRights>
+         <lido:recordInfoSet>
+            <lido:recordInfoLink>https://berlin.museum-digital.de/index.php?t=objekt&amp;oges=67092</lido:recordInfoLink>
+            <lido:recordMetadataDate>2021-04-27 07:59:54</lido:recordMetadataDate>
+         </lido:recordInfoSet>
+      </lido:recordWrap>
+      <lido:resourceWrap>
+         <lido:resourceSet lido:sortorder="1">
+            <lido:resourceID lido:source="image" lido:type="local">48676</lido:resourceID>
+            <lido:resourceRepresentation lido:type="masterfile">
+               <lido:linkResource lido:formatResource="image/tiff"/>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_thumb">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/202007/100h_kronenburg-eifel-gemeinde-dahlem-kr-euskirchen-nordrhein-westfalen-67092.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_preview">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/202007/200w_kronenburg-eifel-gemeinde-dahlem-kr-euskirchen-nordrhein-westfalen-67092.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/202007/kronenburg-eifel-gemeinde-dahlem-kr-euskirchen-nordrhein-westfalen-67092.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceType>
+               <lido:term lido:addedSearchTerm="no">image</lido:term>
+            </lido:resourceType>
+            <lido:resourceRelType>
+               <lido:term lido:addedSearchTerm="no">Hauptansicht</lido:term>
+            </lido:resourceRelType>
+            <lido:resourceDescription>Kronenburg (Eifel)</lido:resourceDescription>
+            <lido:resourceSource lido:type="creator">
+               <lido:legalBodyName>
+                  <lido:appellationValue>Thomas Voßbeck, 2020</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:resourceSource>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+                  <lido:term lido:addedSearchTerm="no">CC BY</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V.</lido:appellationValue>
+                  </lido:legalBodyName>
+               </lido:rightsHolder>
+               <lido:creditLine>Thomas Voßbeck, 2020</lido:creditLine>
+            </lido:rightsResource>
+         </lido:resourceSet>
+      </lido:resourceWrap>
+   </lido:administrativeMetadata>
+</lido:lido>
+

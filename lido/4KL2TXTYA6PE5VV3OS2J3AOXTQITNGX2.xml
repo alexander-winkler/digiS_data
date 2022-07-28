@@ -1,0 +1,415 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lido:lido xmlns:lido="http://www.lido-schema.org"
+           xmlns:xalan="http://xml.apache.org/xalan">
+   <lido:lidoRecID lido:source="https://berlin.museum-digital.de/index.php?t=institution&amp;instnr=32"
+                   lido:type="local">DE-B185/66879</lido:lidoRecID>
+   <lido:category/>
+   <lido:descriptiveMetadata xml:lang="de">
+      <lido:objectClassificationWrap>
+         <lido:objectWorkTypeWrap>
+            <lido:objectWorkType>
+               <lido:conceptID lido:source="aat" lido:type="uri">http://vocab.getty.edu/aat/300027221</lido:conceptID>
+               <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/4267</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Plakat</lido:term>
+            </lido:objectWorkType>
+         </lido:objectWorkTypeWrap>
+         <lido:classificationWrap>
+            <lido:classification lido:type="Sammlung">
+               <lido:conceptID lido:source="local" lido:type="collection_id">705</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Handzeichnungen, Druckgraphik, Gemälde</lido:term>
+            </lido:classification>
+            <lido:classification lido:type="Sammlung">
+               <lido:conceptID lido:source="local" lido:type="collection_id">731</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Nachlässe</lido:term>
+            </lido:classification>
+            <lido:classification lido:type="Sammlung">
+               <lido:conceptID lido:source="local" lido:type="collection_id">732</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Joachim Buhlmann</lido:term>
+            </lido:classification>
+         </lido:classificationWrap>
+      </lido:objectClassificationWrap>
+      <lido:objectIdentificationWrap>
+         <lido:titleWrap>
+            <lido:titleSet>
+               <lido:appellationValue lido:pref="preferred">Kunstausstellung in Brandenburg an der Havel 1969</lido:appellationValue>
+            </lido:titleSet>
+         </lido:titleWrap>
+         <lido:repositoryWrap>
+            <lido:repositorySet lido:type="current">
+               <lido:repositoryName>
+                  <lido:legalBodyID lido:type="isil">DE-B185</lido:legalBodyID>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+                  </lido:legalBodyName>
+                  <lido:legalBodyWeblink>http://geschichte-brandenburg.de/</lido:legalBodyWeblink>
+               </lido:repositoryName>
+               <lido:workID lido:type="inventory number">LGV-Archiv, C 12 G-1-005</lido:workID>
+               <lido:repositoryLocation>
+                  <lido:namePlaceSet>
+                     <lido:appellationValue>Berlin</lido:appellationValue>
+                  </lido:namePlaceSet>
+                  <lido:gml>
+                     <gml:Point xmlns:gml="http://www.opengis.net/gml" srsName="EPSG:4326">
+                        <gml:pos>52.51533127 13.40440559</gml:pos>
+                     </gml:Point>
+                  </lido:gml>
+               </lido:repositoryLocation>
+            </lido:repositorySet>
+         </lido:repositoryWrap>
+         <lido:objectDescriptionWrap>
+            <lido:objectDescriptionSet>
+               <lido:descriptiveNoteValue>Werbeplakat für die Ausstellung "Landschaftsgrafik / von Künstlern der DDR" in Brandenburg/Havel. Holzschnitt von Christian Heinze (1941-1990) mit Darstellung von Werder/Havel hinter Segelbooten unter hohem Himmel. Heinze war ab 1967 Leiter eines Mal- und Zeichenzirkels im Reichsbahnausbesserungswerk (RAW) Potsdam.
+
+Bez im Holzschnitt unter der Darstellung (Versalien) "Landschaftsgrafik / von Künstlern der DDR", darunter als Druck (Versalien) "Brandenburg 1. - 26. September 1969 / Kulturhaus der Stahl- und Walzwerker". Li. u. Druckgenehmigungsvermerk "I 16-23 F 623/69". Unter dem Bild handschriftlich signiert "C.Heinze 69". 
+
+Literatur zu Heinze: Dietmar Eisold: Lexikon Künstler in der DDR. Berlin 2010, S. 333.</lido:descriptiveNoteValue>
+               <lido:sourceDescriptiveNote>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:sourceDescriptiveNote>
+            </lido:objectDescriptionSet>
+         </lido:objectDescriptionWrap>
+         <lido:objectMeasurementsWrap>
+            <lido:objectMeasurementsSet>
+               <lido:displayObjectMeasurements>Blattgröße: Höhe 70,5 cm, Breite 45,5 cm</lido:displayObjectMeasurements>
+               <lido:objectMeasurements/>
+            </lido:objectMeasurementsSet>
+         </lido:objectMeasurementsWrap>
+      </lido:objectIdentificationWrap>
+      <lido:eventWrap>
+         <lido:eventSet>
+            <lido:event>
+               <lido:eventType>
+                  <lido:conceptID lido:type="uri">https://event-types.museum-digital.org/1</lido:conceptID>
+                  <lido:term lido:addedSearchTerm="no">Hergestellt</lido:term>
+               </lido:eventType>
+               <lido:eventActor>
+                  <lido:displayActorInRole>Christian Heinze (Maler) (1941-1990)</lido:displayActorInRole>
+                  <lido:actorInRole>
+                     <lido:actor>
+                        <lido:actorID lido:source="gnd" lido:type="uri">http://d-nb.info/gnd/101189906X</lido:actorID>
+                        <lido:actorID lido:source="viaf" lido:type="uri">https://viaf.org/viaf/170809697</lido:actorID>
+                        <lido:actorID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/persinst/124929</lido:actorID>
+                        <lido:nameActorSet>
+                           <lido:appellationValue>Heinze, Christian (Maler)</lido:appellationValue>
+                           <lido:appellationValue xml:lang="de">Christian Heinze (Maler)</lido:appellationValue>
+                        </lido:nameActorSet>
+                        <lido:vitalDatesActor>
+                           <lido:earliestDate>1941</lido:earliestDate>
+                           <lido:latestDate>1990</lido:latestDate>
+                        </lido:vitalDatesActor>
+                     </lido:actor>
+                  </lido:actorInRole>
+               </lido:eventActor>
+               <lido:eventDate>
+                  <lido:displayDate>1969</lido:displayDate>
+                  <lido:displayDate xml:lang="ar">1969</lido:displayDate>
+                  <lido:displayDate xml:lang="de">1969</lido:displayDate>
+                  <lido:displayDate xml:lang="en">1969</lido:displayDate>
+                  <lido:displayDate xml:lang="es">1969</lido:displayDate>
+                  <lido:displayDate xml:lang="fa">1969</lido:displayDate>
+                  <lido:displayDate xml:lang="fr">1969</lido:displayDate>
+                  <lido:displayDate xml:lang="hu">1969</lido:displayDate>
+                  <lido:displayDate xml:lang="id">1969</lido:displayDate>
+                  <lido:displayDate xml:lang="it">1969</lido:displayDate>
+                  <lido:displayDate xml:lang="ja">1969年</lido:displayDate>
+                  <lido:displayDate xml:lang="ka">1969</lido:displayDate>
+                  <lido:displayDate xml:lang="ko">1969년</lido:displayDate>
+                  <lido:displayDate xml:lang="pl">1969</lido:displayDate>
+                  <lido:displayDate xml:lang="pt">1969</lido:displayDate>
+                  <lido:displayDate xml:lang="ro">1969</lido:displayDate>
+                  <lido:displayDate xml:lang="ru">1969</lido:displayDate>
+                  <lido:displayDate xml:lang="ta">1969</lido:displayDate>
+                  <lido:displayDate xml:lang="tl">1969</lido:displayDate>
+                  <lido:displayDate xml:lang="tr">1969</lido:displayDate>
+                  <lido:displayDate xml:lang="zh">1969年</lido:displayDate>
+                  <lido:date>
+                     <lido:earliestDate>1969</lido:earliestDate>
+                     <lido:latestDate>1969</lido:latestDate>
+                  </lido:date>
+               </lido:eventDate>
+            </lido:event>
+         </lido:eventSet>
+         <lido:eventSet>
+            <lido:event>
+               <lido:eventType>
+                  <lido:conceptID lido:type="uri">http://terminology.lido-schema.org/lido00003</lido:conceptID>
+                  <lido:term>Event (non-specified)</lido:term>
+               </lido:eventType>
+               <lido:eventMaterialsTech>
+                  <lido:displayMaterialsTech>Offsetlithographie auf Velin</lido:displayMaterialsTech>
+               </lido:eventMaterialsTech>
+            </lido:event>
+         </lido:eventSet>
+      </lido:eventWrap>
+      <lido:objectRelationWrap>
+         <lido:subjectWrap>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectPlace>
+                     <lido:displayPlace>Havel</lido:displayPlace>
+                     <lido:displayPlace xml:lang="ar">نهر هافل</lido:displayPlace>
+                     <lido:displayPlace xml:lang="cs">Havola</lido:displayPlace>
+                     <lido:displayPlace xml:lang="da">Havel</lido:displayPlace>
+                     <lido:displayPlace xml:lang="de">Havel</lido:displayPlace>
+                     <lido:displayPlace xml:lang="el">Χάβελ</lido:displayPlace>
+                     <lido:displayPlace xml:lang="en">Havel</lido:displayPlace>
+                     <lido:displayPlace xml:lang="es">Río Havel</lido:displayPlace>
+                     <lido:displayPlace xml:lang="fa">هافل</lido:displayPlace>
+                     <lido:displayPlace xml:lang="fi">Havel</lido:displayPlace>
+                     <lido:displayPlace xml:lang="fr">Havel</lido:displayPlace>
+                     <lido:displayPlace xml:lang="he">האפל</lido:displayPlace>
+                     <lido:displayPlace xml:lang="hu">Havel (folyó)</lido:displayPlace>
+                     <lido:displayPlace xml:lang="id">Havel</lido:displayPlace>
+                     <lido:displayPlace xml:lang="it">Havel</lido:displayPlace>
+                     <lido:displayPlace xml:lang="ja">ハーフェル川</lido:displayPlace>
+                     <lido:displayPlace xml:lang="ka">ჰაფელი</lido:displayPlace>
+                     <lido:displayPlace xml:lang="ko">하펠강</lido:displayPlace>
+                     <lido:displayPlace xml:lang="nl">Havel (rivier)</lido:displayPlace>
+                     <lido:displayPlace xml:lang="pl">Hawela</lido:displayPlace>
+                     <lido:displayPlace xml:lang="pt">Rio Havel</lido:displayPlace>
+                     <lido:displayPlace xml:lang="ro">Havel</lido:displayPlace>
+                     <lido:displayPlace xml:lang="ru">Хафель</lido:displayPlace>
+                     <lido:displayPlace xml:lang="sv">Havel</lido:displayPlace>
+                     <lido:displayPlace xml:lang="th">แม่น้ำฮาเฟิล</lido:displayPlace>
+                     <lido:displayPlace xml:lang="tr">Havel</lido:displayPlace>
+                     <lido:displayPlace xml:lang="zh">哈弗爾河</lido:displayPlace>
+                     <lido:place>
+                        <lido:placeID lido:source="geonames" lido:type="uri">https://sws.geonames.org/2908646</lido:placeID>
+                        <lido:placeID lido:source="TGN" lido:type="uri">http://vocab.getty.edu/tgn/1124581</lido:placeID>
+                        <lido:placeID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4023868-4</lido:placeID>
+                        <lido:placeID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q1682</lido:placeID>
+                        <lido:placeID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/place/2689</lido:placeID>
+                        <lido:namePlaceSet>
+                           <lido:appellationValue>Havel</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ar">نهر هافل</lido:appellationValue>
+                           <lido:appellationValue xml:lang="cs">Havola</lido:appellationValue>
+                           <lido:appellationValue xml:lang="da">Havel</lido:appellationValue>
+                           <lido:appellationValue xml:lang="de">Havel</lido:appellationValue>
+                           <lido:appellationValue xml:lang="el">Χάβελ</lido:appellationValue>
+                           <lido:appellationValue xml:lang="en">Havel</lido:appellationValue>
+                           <lido:appellationValue xml:lang="es">Río Havel</lido:appellationValue>
+                           <lido:appellationValue xml:lang="fa">هافل</lido:appellationValue>
+                           <lido:appellationValue xml:lang="fi">Havel</lido:appellationValue>
+                           <lido:appellationValue xml:lang="fr">Havel</lido:appellationValue>
+                           <lido:appellationValue xml:lang="he">האפל</lido:appellationValue>
+                           <lido:appellationValue xml:lang="hu">Havel (folyó)</lido:appellationValue>
+                           <lido:appellationValue xml:lang="id">Havel</lido:appellationValue>
+                           <lido:appellationValue xml:lang="it">Havel</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ja">ハーフェル川</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ka">ჰაფელი</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ko">하펠강</lido:appellationValue>
+                           <lido:appellationValue xml:lang="nl">Havel (rivier)</lido:appellationValue>
+                           <lido:appellationValue xml:lang="pl">Hawela</lido:appellationValue>
+                           <lido:appellationValue xml:lang="pt">Rio Havel</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ro">Havel</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ru">Хафель</lido:appellationValue>
+                           <lido:appellationValue xml:lang="sv">Havel</lido:appellationValue>
+                           <lido:appellationValue xml:lang="th">แม่น้ำฮาเฟิล</lido:appellationValue>
+                           <lido:appellationValue xml:lang="tr">Havel</lido:appellationValue>
+                           <lido:appellationValue xml:lang="zh">哈弗爾河</lido:appellationValue>
+                        </lido:namePlaceSet>
+                        <lido:gml>
+                           <gml:Point xmlns:gml="http://www.opengis.net/gml" srsName="EPSG:4326">
+                              <gml:pos>53.467800140381 12.935600280762</gml:pos>
+                           </gml:Point>
+                        </lido:gml>
+                     </lido:place>
+                  </lido:subjectPlace>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectPlace>
+                     <lido:displayPlace>Werder (Havel)</lido:displayPlace>
+                     <lido:displayPlace xml:lang="ar">فيردر</lido:displayPlace>
+                     <lido:displayPlace xml:lang="da">Werder</lido:displayPlace>
+                     <lido:displayPlace xml:lang="de">Werder (Havel)</lido:displayPlace>
+                     <lido:displayPlace xml:lang="en">Werder (Havel)</lido:displayPlace>
+                     <lido:displayPlace xml:lang="es">Werder</lido:displayPlace>
+                     <lido:displayPlace xml:lang="fa">وردا</lido:displayPlace>
+                     <lido:displayPlace xml:lang="fr">Werder (Havel)</lido:displayPlace>
+                     <lido:displayPlace xml:lang="hu">Werder (Havel)</lido:displayPlace>
+                     <lido:displayPlace xml:lang="it">Werder (Havel)</lido:displayPlace>
+                     <lido:displayPlace xml:lang="nl">Werder</lido:displayPlace>
+                     <lido:displayPlace xml:lang="pl">Werder</lido:displayPlace>
+                     <lido:displayPlace xml:lang="ro">Werder</lido:displayPlace>
+                     <lido:displayPlace xml:lang="ru">Вердер</lido:displayPlace>
+                     <lido:displayPlace xml:lang="sv">Werder</lido:displayPlace>
+                     <lido:displayPlace xml:lang="tr">Werder</lido:displayPlace>
+                     <lido:displayPlace xml:lang="vi">Werder</lido:displayPlace>
+                     <lido:displayPlace xml:lang="zh">韦尔德尔</lido:displayPlace>
+                     <lido:place>
+                        <lido:placeID lido:source="geonames" lido:type="uri">https://sws.geonames.org/2810945</lido:placeID>
+                        <lido:placeID lido:source="TGN" lido:type="uri">http://vocab.getty.edu/tgn/1037967</lido:placeID>
+                        <lido:placeID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4065553-2</lido:placeID>
+                        <lido:placeID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q525686</lido:placeID>
+                        <lido:placeID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/place/1218</lido:placeID>
+                        <lido:namePlaceSet>
+                           <lido:appellationValue>Werder (Havel)</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ar">فيردر</lido:appellationValue>
+                           <lido:appellationValue xml:lang="da">Werder</lido:appellationValue>
+                           <lido:appellationValue xml:lang="de">Werder (Havel)</lido:appellationValue>
+                           <lido:appellationValue xml:lang="en">Werder (Havel)</lido:appellationValue>
+                           <lido:appellationValue xml:lang="es">Werder</lido:appellationValue>
+                           <lido:appellationValue xml:lang="fa">وردا</lido:appellationValue>
+                           <lido:appellationValue xml:lang="fr">Werder (Havel)</lido:appellationValue>
+                           <lido:appellationValue xml:lang="hu">Werder (Havel)</lido:appellationValue>
+                           <lido:appellationValue xml:lang="it">Werder (Havel)</lido:appellationValue>
+                           <lido:appellationValue xml:lang="nl">Werder</lido:appellationValue>
+                           <lido:appellationValue xml:lang="pl">Werder</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ro">Werder</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ru">Вердер</lido:appellationValue>
+                           <lido:appellationValue xml:lang="sv">Werder</lido:appellationValue>
+                           <lido:appellationValue xml:lang="tr">Werder</lido:appellationValue>
+                           <lido:appellationValue xml:lang="vi">Werder</lido:appellationValue>
+                           <lido:appellationValue xml:lang="zh">韦尔德尔</lido:appellationValue>
+                        </lido:namePlaceSet>
+                        <lido:gml>
+                           <gml:Point xmlns:gml="http://www.opengis.net/gml" srsName="EPSG:4326">
+                              <gml:pos>52.37805557251 12.935000419617</gml:pos>
+                           </gml:Point>
+                        </lido:gml>
+                     </lido:place>
+                  </lido:subjectPlace>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="aat" lido:type="uri">http://vocab.getty.edu/aat/300027221</lido:conceptID>
+                     <lido:conceptID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q429785</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/4267</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Plakat</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ar">ملصق</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="bn">পোস্টার</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="cs">Plakát</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="da">Plakat</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="de">Plakat</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="el">Αφίσα</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="en">Poster</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="es">Cartel</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fa">پوستر</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fi">Juliste</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fr">Affiche</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="he">כרזה</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hu">Plakát</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="id">Poster</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="it">Manifesto</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ja">ポスター</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ka">პოსტერი</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ko">포스터</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="nl">Poster</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pl">Plakat</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pt">Cartaz</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ro">Poster</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ru">плакат</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sv">Affischer</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ta">சுவரொட்டி</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="th">ใบปิด</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tr">Afiş</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="vi">Áp phích</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="zh">海報</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">http://d-nb.info/gnd/4132857-7</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/5169</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Flusslandschaft</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+         </lido:subjectWrap>
+         <lido:relatedWorksWrap/>
+      </lido:objectRelationWrap>
+   </lido:descriptiveMetadata>
+   <lido:administrativeMetadata xml:lang="de">
+      <lido:rightsWorkWrap>
+         <lido:rightsWorkSet>
+            <lido:rightsHolder>
+               <lido:legalBodyName>
+                  <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:rightsHolder>
+         </lido:rightsWorkSet>
+      </lido:rightsWorkWrap>
+      <lido:recordWrap>
+         <lido:recordID lido:type="museum-digital">66879</lido:recordID>
+         <lido:recordType>
+            <lido:term lido:addedSearchTerm="no">item</lido:term>
+         </lido:recordType>
+         <lido:recordSource lido:type="dataProvider">
+            <lido:legalBodyName>
+               <lido:appellationValue>museum-digital</lido:appellationValue>
+            </lido:legalBodyName>
+            <lido:legalBodyWeblink>https://berlin.museum-digital.de/</lido:legalBodyWeblink>
+         </lido:recordSource>
+         <lido:recordSource>
+            <lido:legalBodyID lido:type="isil">DE-B185</lido:legalBodyID>
+            <lido:legalBodyName>
+               <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+            </lido:legalBodyName>
+         </lido:recordSource>
+         <lido:recordRights>
+            <lido:rightsType>
+               <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no">CC BY</lido:term>
+            </lido:rightsType>
+            <lido:rightsHolder>
+               <lido:legalBodyID lido:type="isil">DE-B185</lido:legalBodyID>
+               <lido:legalBodyName>
+                  <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+               </lido:legalBodyName>
+               <lido:legalBodyWeblink>http://geschichte-brandenburg.de/</lido:legalBodyWeblink>
+            </lido:rightsHolder>
+            <lido:creditLine>Förderprogramm zur Digitalisierung von Objekten des kulturellen Erbes des Landes Berlin</lido:creditLine>
+         </lido:recordRights>
+         <lido:recordInfoSet>
+            <lido:recordInfoLink>https://berlin.museum-digital.de/index.php?t=objekt&amp;oges=66879</lido:recordInfoLink>
+            <lido:recordMetadataDate>2021-04-27 07:59:56</lido:recordMetadataDate>
+         </lido:recordInfoSet>
+      </lido:recordWrap>
+      <lido:resourceWrap>
+         <lido:resourceSet lido:sortorder="1">
+            <lido:resourceID lido:source="image" lido:type="local">48465</lido:resourceID>
+            <lido:resourceRepresentation lido:type="masterfile">
+               <lido:linkResource lido:formatResource="image/tiff"/>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_thumb">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/202007/100h_kunstausstellung-in-brandenburg-an-der-havel-1969-66879.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_preview">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/202007/200w_kunstausstellung-in-brandenburg-an-der-havel-1969-66879.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/202007/kunstausstellung-in-brandenburg-an-der-havel-1969-66879.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceType>
+               <lido:term lido:addedSearchTerm="no">image</lido:term>
+            </lido:resourceType>
+            <lido:resourceRelType>
+               <lido:term lido:addedSearchTerm="no">Hauptansicht</lido:term>
+            </lido:resourceRelType>
+            <lido:resourceDescription>Kunstausstellung in Brandenburg an der Havel 1969</lido:resourceDescription>
+            <lido:resourceSource lido:type="creator">
+               <lido:legalBodyName>
+                  <lido:appellationValue>Thomas Voßbeck, 2020</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:resourceSource>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+                  <lido:term lido:addedSearchTerm="no">CC BY</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V.</lido:appellationValue>
+                  </lido:legalBodyName>
+               </lido:rightsHolder>
+               <lido:creditLine>Thomas Voßbeck, 2020</lido:creditLine>
+            </lido:rightsResource>
+         </lido:resourceSet>
+      </lido:resourceWrap>
+   </lido:administrativeMetadata>
+</lido:lido>
+

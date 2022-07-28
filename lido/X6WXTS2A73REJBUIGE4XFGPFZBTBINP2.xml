@@ -1,0 +1,474 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lido:lido xmlns:lido="http://www.lido-schema.org"
+           xmlns:xalan="http://xml.apache.org/xalan">
+   <lido:lidoRecID lido:source="https://berlin.museum-digital.de/index.php?t=institution&amp;instnr=26"
+                   lido:type="local">ddb_oid1612959125221_66466</lido:lidoRecID>
+   <lido:descriptiveMetadata xml:lang="de">
+      <lido:objectClassificationWrap>
+         <lido:objectWorkTypeWrap>
+            <lido:objectWorkType>
+               <lido:term lido:addedSearchTerm="no">Planfilm-Negativ</lido:term>
+            </lido:objectWorkType>
+         </lido:objectWorkTypeWrap>
+         <lido:classificationWrap>
+            <lido:classification lido:type="Sammlung">
+               <lido:conceptID lido:source="local" lido:type="collection_id">604</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no">Kunstobjekte</lido:term>
+            </lido:classification>
+         </lido:classificationWrap>
+      </lido:objectClassificationWrap>
+      <lido:objectIdentificationWrap>
+         <lido:titleWrap>
+            <lido:titleSet>
+               <lido:appellationValue lido:pref="preferred">Fotografie Siegelring (1)</lido:appellationValue>
+            </lido:titleSet>
+         </lido:titleWrap>
+         <lido:repositoryWrap>
+            <lido:repositorySet lido:type="current">
+               <lido:repositoryName>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Gerda Schimpf Fotoarchiv</lido:appellationValue>
+                  </lido:legalBodyName>
+                  <lido:legalBodyWeblink>https://gerda-schimpf-fotoarchiv.com</lido:legalBodyWeblink>
+               </lido:repositoryName>
+               <lido:workID lido:type="inventory number">2_3820</lido:workID>
+               <lido:repositoryLocation>
+                  <lido:namePlaceSet>
+                     <lido:appellationValue>Berlin</lido:appellationValue>
+                  </lido:namePlaceSet>
+                  <lido:gml/>
+               </lido:repositoryLocation>
+            </lido:repositorySet>
+         </lido:repositoryWrap>
+         <lido:objectDescriptionWrap>
+            <lido:objectDescriptionSet>
+               <lido:descriptiveNoteValue>Schwarzweißfotografie, Innenaufnahme, 1959 &lt;br&gt;
+&lt;br&gt;
+Auf einer grauen Stoffunterlage wird ein silber- bzw. goldfarbener Ring von der Seite und der Oberseite mit folgenden Prägungen präsentiert: &lt;br&gt;
+- Auf der Vorderseite gibt es in der Mitte einen erhabenen Kreis, mit Schlangenlinien durchzogen, die einer Landkarte gleichen, mit einigen, quer dazu verlaufenden dünnen Streifen. Mittig geht längs ein Stab durch diesen Kreis, der oben in einer kleinen Kugel endet und links und rechts von zwei stilisierten Flügeln umgeben ist. Um den Stab selbst winden sich von unten nach oben zwei schlangenähnliche Bänder.&lt;br&gt;
+- Die linke Seite des Ringes zeigt ebenfalls eine Prägung, die jedoch zu undeutlich auf dem Foto abgebildet ist, um sie klar zu erkennen. Es könnte die Darstellung von drei Schornsteinen und drei übereinander gestellten Gebäuden sein o. ä..&lt;br&gt;
+&lt;br&gt;
+Bes. Merkmal: Im Auftragsbuch ist Herr Frohwein vermerkt, Deutsche Gesellschaft für Betriebswirtschaft, Siegelringe (Juwelier Krebs).&lt;br&gt;
+&lt;br&gt;
+Ch. K.</lido:descriptiveNoteValue>
+               <lido:sourceDescriptiveNote>Gerda Schimpf Fotoarchiv</lido:sourceDescriptiveNote>
+            </lido:objectDescriptionSet>
+         </lido:objectDescriptionWrap>
+         <lido:objectMeasurementsWrap>
+            <lido:objectMeasurementsSet>
+               <lido:displayObjectMeasurements>9x12</lido:displayObjectMeasurements>
+            </lido:objectMeasurementsSet>
+         </lido:objectMeasurementsWrap>
+      </lido:objectIdentificationWrap>
+      <lido:eventWrap>
+         <lido:eventSet>
+            <lido:displayEvent>Aufgenommen</lido:displayEvent>
+            <lido:event>
+               <lido:eventID lido:type="local">165130</lido:eventID>
+               <lido:eventType>
+                  <lido:conceptID lido:type="uri">https://event-types.museum-digital.org/10</lido:conceptID>
+                  <lido:term lido:addedSearchTerm="no">Aufgenommen</lido:term>
+               </lido:eventType>
+               <lido:eventActor>
+                  <lido:displayActorInRole>Gerda Schimpf (1913-2014)</lido:displayActorInRole>
+                  <lido:actorInRole>
+                     <lido:actor>
+                        <lido:actorID lido:source="gnd" lido:type="uri">http://d-nb.info/gnd/1131575903</lido:actorID>
+                        <lido:actorID lido:source="viaf" lido:type="uri">https://viaf.org/viaf/2653149489090493810007</lido:actorID>
+                        <lido:actorID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/persinst/42576</lido:actorID>
+                        <lido:nameActorSet>
+                           <lido:appellationValue>Schimpf, Gerda</lido:appellationValue>
+                        </lido:nameActorSet>
+                        <lido:vitalDatesActor>
+                           <lido:earliestDate>1913</lido:earliestDate>
+                           <lido:latestDate>2014</lido:latestDate>
+                        </lido:vitalDatesActor>
+                     </lido:actor>
+                  </lido:actorInRole>
+               </lido:eventActor>
+               <lido:eventDate>
+                  <lido:displayDate>1958</lido:displayDate>
+                  <lido:displayDate xml:lang="ar">1958</lido:displayDate>
+                  <lido:displayDate xml:lang="en">1958</lido:displayDate>
+                  <lido:displayDate xml:lang="es">1958</lido:displayDate>
+                  <lido:displayDate xml:lang="fa">1958</lido:displayDate>
+                  <lido:displayDate xml:lang="fr">1958</lido:displayDate>
+                  <lido:displayDate xml:lang="hu">1958</lido:displayDate>
+                  <lido:displayDate xml:lang="id">1958</lido:displayDate>
+                  <lido:displayDate xml:lang="it">1958</lido:displayDate>
+                  <lido:displayDate xml:lang="ja">1958年</lido:displayDate>
+                  <lido:displayDate xml:lang="ka">1958</lido:displayDate>
+                  <lido:displayDate xml:lang="ko">1958년</lido:displayDate>
+                  <lido:displayDate xml:lang="pl">1958</lido:displayDate>
+                  <lido:displayDate xml:lang="pt">1958</lido:displayDate>
+                  <lido:displayDate xml:lang="ro">1958</lido:displayDate>
+                  <lido:displayDate xml:lang="ru">1958</lido:displayDate>
+                  <lido:displayDate xml:lang="ta">1958</lido:displayDate>
+                  <lido:displayDate xml:lang="tl">1958</lido:displayDate>
+                  <lido:displayDate xml:lang="tr">1958</lido:displayDate>
+                  <lido:displayDate xml:lang="zh">1958年</lido:displayDate>
+                  <lido:date>
+                     <lido:earliestDate>1958</lido:earliestDate>
+                     <lido:latestDate>1958</lido:latestDate>
+                  </lido:date>
+               </lido:eventDate>
+               <lido:eventPlace>
+                  <lido:displayPlace>Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ar">برلين</lido:displayPlace>
+                  <lido:displayPlace xml:lang="bn">বার্লিন</lido:displayPlace>
+                  <lido:displayPlace xml:lang="cs">Berlín</lido:displayPlace>
+                  <lido:displayPlace xml:lang="da">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="el">Βερολίνο</lido:displayPlace>
+                  <lido:displayPlace xml:lang="en">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="es">Berlín</lido:displayPlace>
+                  <lido:displayPlace xml:lang="fa">برلین</lido:displayPlace>
+                  <lido:displayPlace xml:lang="fi">Berliini</lido:displayPlace>
+                  <lido:displayPlace xml:lang="fr">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ha">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="he">ברלין</lido:displayPlace>
+                  <lido:displayPlace xml:lang="hi">बर्लिन</lido:displayPlace>
+                  <lido:displayPlace xml:lang="hu">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="id">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="it">Berlino</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ja">ベルリン</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ka">ბერლინი</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ko">베를린</lido:displayPlace>
+                  <lido:displayPlace xml:lang="nl">Berlijn</lido:displayPlace>
+                  <lido:displayPlace xml:lang="pl">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="pt">Berlim</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ro">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ru">Берлин</lido:displayPlace>
+                  <lido:displayPlace xml:lang="sv">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="sw">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ta">பெர்லின்</lido:displayPlace>
+                  <lido:displayPlace xml:lang="th">เบอร์ลิน</lido:displayPlace>
+                  <lido:displayPlace xml:lang="tl">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="tr">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ur">برلن</lido:displayPlace>
+                  <lido:displayPlace xml:lang="vi">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="zh">柏林</lido:displayPlace>
+                  <lido:place>
+                     <lido:placeID lido:source="geonames" lido:type="uri">https://sws.geonames.org/2950159</lido:placeID>
+                     <lido:placeID lido:source="TGN" lido:type="uri">http://vocab.getty.edu/tgn/7209904</lido:placeID>
+                     <lido:placeID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4005728-8</lido:placeID>
+                     <lido:placeID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q64</lido:placeID>
+                     <lido:placeID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/place/61</lido:placeID>
+                     <lido:namePlaceSet>
+                        <lido:appellationValue>Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ar">برلين</lido:appellationValue>
+                        <lido:appellationValue xml:lang="bn">বার্লিন</lido:appellationValue>
+                        <lido:appellationValue xml:lang="cs">Berlín</lido:appellationValue>
+                        <lido:appellationValue xml:lang="da">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="el">Βερολίνο</lido:appellationValue>
+                        <lido:appellationValue xml:lang="en">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="es">Berlín</lido:appellationValue>
+                        <lido:appellationValue xml:lang="fa">برلین</lido:appellationValue>
+                        <lido:appellationValue xml:lang="fi">Berliini</lido:appellationValue>
+                        <lido:appellationValue xml:lang="fr">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ha">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="he">ברלין</lido:appellationValue>
+                        <lido:appellationValue xml:lang="hi">बर्लिन</lido:appellationValue>
+                        <lido:appellationValue xml:lang="hu">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="id">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="it">Berlino</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ja">ベルリン</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ka">ბერლინი</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ko">베를린</lido:appellationValue>
+                        <lido:appellationValue xml:lang="nl">Berlijn</lido:appellationValue>
+                        <lido:appellationValue xml:lang="pl">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="pt">Berlim</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ro">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ru">Берлин</lido:appellationValue>
+                        <lido:appellationValue xml:lang="sv">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="sw">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ta">பெர்லின்</lido:appellationValue>
+                        <lido:appellationValue xml:lang="th">เบอร์ลิน</lido:appellationValue>
+                        <lido:appellationValue xml:lang="tl">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="tr">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ur">برلن</lido:appellationValue>
+                        <lido:appellationValue xml:lang="vi">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="zh">柏林</lido:appellationValue>
+                     </lido:namePlaceSet>
+                     <lido:gml/>
+                  </lido:place>
+               </lido:eventPlace>
+            </lido:event>
+         </lido:eventSet>
+         <lido:eventSet>
+            <lido:event>
+               <lido:eventType>
+                  <lido:conceptID lido:type="uri">http://terminology.lido-schema.org/lido00003</lido:conceptID>
+                  <lido:term>Event (non-specified)</lido:term>
+               </lido:eventType>
+               <lido:eventMaterialsTech>
+                  <lido:displayMaterialsTech>Negativfilm Zelluloseacetat</lido:displayMaterialsTech>
+               </lido:eventMaterialsTech>
+            </lido:event>
+         </lido:eventSet>
+      </lido:eventWrap>
+      <lido:objectRelationWrap>
+         <lido:subjectWrap>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectActor>
+                     <lido:displayActor>Juwelier Krebs</lido:displayActor>
+                     <lido:actor>
+                        <lido:actorID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/persinst/155395</lido:actorID>
+                        <lido:nameActorSet>
+                           <lido:appellationValue>Juwelier Krebs</lido:appellationValue>
+                        </lido:nameActorSet>
+                     </lido:actor>
+                  </lido:subjectActor>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="aat" lido:type="uri">http://vocab.getty.edu/aat/300209286</lido:conceptID>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4052945-9</lido:conceptID>
+                     <lido:conceptID lido:source="grobsystematik" lido:type="uri">https://term.museum-digital.de/grobsystematik/tag/10490</lido:conceptID>
+                     <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh00005946</lido:conceptID>
+                     <lido:conceptID lido:source="oberbegriffsdatei" lido:type="uri">https://term.museum-digital.de/oberbegriffsdatei/tag/7353</lido:conceptID>
+                     <lido:conceptID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/w/index.php?search=&amp;search=Q161439</lido:conceptID>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Schmuck</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/413</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Schmuck</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ar">مجوهرات</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="bn">অলঙ্কার</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="cs">šperk</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="da">smykke</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="el">κόσμημα</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="en">jewellery</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="es">joyería</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fa">جواهر</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fi">koru</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fr">joaillerie</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="he">תכשיט</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hi">आभूषण</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="id">Perhiasan</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="it">gioielleria</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ja">アンティーク・ジュエリー</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ka">სამკაული</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ko">주얼리</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="nl">sieraad</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pl">biżuteria</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pt">joalharia</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ru">ювелирные изделия</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sv">smycken</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sw">Mapambo ya vito</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ta">அணிகலன்</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="th">อัญมณี</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tr">Mücevher</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ur">زیور</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="vi">trang sức</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="zh">珠寶</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="aat" lido:type="uri">http://vocab.getty.edu/aat/300055639</lido:conceptID>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4165914-4</lido:conceptID>
+                     <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh85126590.html</lido:conceptID>
+                     <lido:conceptID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q12507</lido:conceptID>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Kugel</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/4893</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Kugel</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ar">كرة</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="bn">গোলক</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="cs">Sféra</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="da">Kugle</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="el">Σφαίρα</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="en">Sphere</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="es">Esfera</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fa">کره</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fi">Pallo</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fr">Sphère</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="he">ספירה</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hi">गोला</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hu">gömb</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="id">Bola</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="it">Sfera</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ja">球面</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ka">სფერო</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ko">구</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="nl">Bol</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pl">Sfera</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pt">Esfera</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ro">Sferă</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ru">сфера</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sv">Sfär</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sw">Tufe</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ta">கோளம்</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="th">ทรงกลม</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tl">Espera</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tr">Küre</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="vi">mặt cầu</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="zh">球面</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">http://d-nb.info/gnd/7706003-9</lido:conceptID>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Siegelring</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/7676</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Siegelring</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="aat" lido:type="uri">http://vocab.getty.edu/aat/300028094</lido:conceptID>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4029783-4</lido:conceptID>
+                     <lido:conceptID lido:source="grobsystematik" lido:type="uri">https://term.museum-digital.de/grobsystematik/tag/5789</lido:conceptID>
+                     <lido:conceptID lido:source="iconclass" lido:type="uri">http://iconclass.org/rkd/25A3/</lido:conceptID>
+                     <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh85080858</lido:conceptID>
+                     <lido:conceptID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q4006</lido:conceptID>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Karte_(Kartografie)</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/11936</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Landkarte</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ar">خريطة</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="bn">মানচিত্র</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="cs">Mapa</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="da">Kort</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="el">χάρτης</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="en">Map</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="es">Mapa</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fa">نقشه</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fi">Kartta</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fr">Carte géographique</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="he">מפה</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hi">मानचित्र</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hu">térkép</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="id">Peta</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="it">Mappa</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ja">地図</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ka">გეოგრაფიული რუკა</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ko">지도</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="nl">Kaart</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pl">Mapa</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pt">Mapa</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ro">hartă</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ru">географическая карта</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sv">Karta</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sw">ramani</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ta">நிலப்படம்</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="th">แผนที่</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tl">Mapa</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tr">Harita</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ur">نقشہ</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="vi">bản đồ</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="zh">地图</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4467828-9</lido:conceptID>
+                     <lido:conceptID lido:source="iconclass" lido:type="uri">http://iconclass.org/rkd/48C311/</lido:conceptID>
+                     <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh85070192</lido:conceptID>
+                     <lido:conceptID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q336221</lido:conceptID>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Juwelier</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/26649</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Juwelier</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="cs">Klenotník</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="da">Juvelér</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="en">Jeweler</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="es">Joyero</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fr">Bijoutier</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="he">תכשיטן</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hu">ékszerész</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="it">Gioielliere</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="nl">Juwelier</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ru">ювелир</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sv">Juvelerare</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tr">Kuyumcu</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+         </lido:subjectWrap>
+      </lido:objectRelationWrap>
+   </lido:descriptiveMetadata>
+   <lido:administrativeMetadata xml:lang="de">
+      <lido:rightsWorkWrap>
+         <lido:rightsWorkSet>
+            <lido:rightsHolder>
+               <lido:legalBodyName>
+                  <lido:appellationValue>Gerda Schimpf Fotoarchiv</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:rightsHolder>
+         </lido:rightsWorkSet>
+      </lido:rightsWorkWrap>
+      <lido:recordWrap>
+         <lido:recordID lido:type="museum-digital">66466</lido:recordID>
+         <lido:recordType>
+            <lido:term lido:addedSearchTerm="no">item</lido:term>
+         </lido:recordType>
+         <lido:recordSource lido:type="dataProvider">
+            <lido:legalBodyName>
+               <lido:appellationValue>museum-digital</lido:appellationValue>
+            </lido:legalBodyName>
+            <lido:legalBodyWeblink>https://berlin.museum-digital.de/</lido:legalBodyWeblink>
+         </lido:recordSource>
+         <lido:recordSource>
+            <lido:legalBodyName>
+               <lido:appellationValue>Gerda Schimpf Fotoarchiv</lido:appellationValue>
+            </lido:legalBodyName>
+         </lido:recordSource>
+         <lido:recordRights>
+            <lido:rightsType>
+               <lido:conceptID lido:type="uri">https://creativecommons.org/publicdomain/zero/1.0/</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no">CC 0</lido:term>
+            </lido:rightsType>
+            <lido:rightsHolder>
+               <lido:legalBodyName>
+                  <lido:appellationValue>Gerda Schimpf Fotoarchiv</lido:appellationValue>
+               </lido:legalBodyName>
+               <lido:legalBodyWeblink>https://gerda-schimpf-fotoarchiv.com</lido:legalBodyWeblink>
+            </lido:rightsHolder>
+            <lido:creditLine>Förderprogramm zur Digitalisierung von Objekten des kulturellen Erbes des Landes Berlin</lido:creditLine>
+         </lido:recordRights>
+         <lido:recordInfoSet>
+            <lido:recordInfoLink>https://berlin.museum-digital.de/index.php?t=objekt&amp;oges=66466</lido:recordInfoLink>
+            <lido:recordMetadataDate>2021-05-10 13:20:50</lido:recordMetadataDate>
+         </lido:recordInfoSet>
+      </lido:recordWrap>
+      <lido:resourceWrap>
+         <lido:resourceSet lido:sortorder="1">
+            <lido:resourceID lido:source="image" lido:type="local">51286</lido:resourceID>
+            <lido:resourceRepresentation lido:type="image_thumb">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/26/66466-2_3820/fotografie_frohwein_herr/100h_fotografie-frohwein-herr-66466.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_preview">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/26/66466-2_3820/fotografie_frohwein_herr/200w_fotografie-frohwein-herr-66466.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="Provided image">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/26/66466-2_3820/fotografie_frohwein_herr/fotografie-frohwein-herr-66466.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceType>
+               <lido:term lido:addedSearchTerm="no">image</lido:term>
+            </lido:resourceType>
+            <lido:resourceRelType>
+               <lido:term lido:addedSearchTerm="no">Hauptansicht</lido:term>
+            </lido:resourceRelType>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+                  <lido:term lido:addedSearchTerm="no">CC BY</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Gerda Schimpf Fotoarchiv</lido:appellationValue>
+                  </lido:legalBodyName>
+               </lido:rightsHolder>
+            </lido:rightsResource>
+         </lido:resourceSet>
+      </lido:resourceWrap>
+   </lido:administrativeMetadata>
+</lido:lido>
+

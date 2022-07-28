@@ -1,0 +1,434 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lido:lido xmlns:lido="http://www.lido-schema.org"
+           xmlns:xalan="http://xml.apache.org/xalan">
+   <lido:lidoRecID lido:source="https://berlin.museum-digital.de/index.php?t=institution&amp;instnr=32"
+                   lido:type="local">DE-B185/67304</lido:lidoRecID>
+   <lido:category/>
+   <lido:descriptiveMetadata xml:lang="de">
+      <lido:objectClassificationWrap>
+         <lido:objectWorkTypeWrap>
+            <lido:objectWorkType>
+               <lido:conceptID lido:source="gnd" lido:type="uri">http://d-nb.info/gnd/4067453-8</lido:conceptID>
+               <lido:conceptID lido:source="grobsystematik" lido:type="uri">https://term.museum-digital.de/grobsystematik/tag/14445</lido:conceptID>
+               <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh85039408</lido:conceptID>
+               <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/945</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Handzeichnung</lido:term>
+            </lido:objectWorkType>
+         </lido:objectWorkTypeWrap>
+         <lido:classificationWrap>
+            <lido:classification lido:type="Sammlung">
+               <lido:conceptID lido:source="local" lido:type="collection_id">705</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Handzeichnungen, Druckgraphik, Gemälde</lido:term>
+            </lido:classification>
+            <lido:classification lido:type="Sammlung">
+               <lido:conceptID lido:source="local" lido:type="collection_id">731</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Nachlässe</lido:term>
+            </lido:classification>
+            <lido:classification lido:type="Sammlung">
+               <lido:conceptID lido:source="local" lido:type="collection_id">735</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Rudolf Lutter</lido:term>
+            </lido:classification>
+         </lido:classificationWrap>
+      </lido:objectClassificationWrap>
+      <lido:objectIdentificationWrap>
+         <lido:titleWrap>
+            <lido:titleSet>
+               <lido:appellationValue lido:pref="preferred">Schandau (Sächsische Schweiz): Ostrauer Mühle</lido:appellationValue>
+            </lido:titleSet>
+         </lido:titleWrap>
+         <lido:repositoryWrap>
+            <lido:repositorySet lido:type="current">
+               <lido:repositoryName>
+                  <lido:legalBodyID lido:type="isil">DE-B185</lido:legalBodyID>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+                  </lido:legalBodyName>
+                  <lido:legalBodyWeblink>http://geschichte-brandenburg.de/</lido:legalBodyWeblink>
+               </lido:repositoryName>
+               <lido:workID lido:type="inventory number">LGV-Archiv, C 12 H-4-032</lido:workID>
+               <lido:repositoryLocation>
+                  <lido:namePlaceSet>
+                     <lido:appellationValue>Berlin</lido:appellationValue>
+                  </lido:namePlaceSet>
+                  <lido:gml>
+                     <gml:Point xmlns:gml="http://www.opengis.net/gml" srsName="EPSG:4326">
+                        <gml:pos>52.51533127 13.40440559</gml:pos>
+                     </gml:Point>
+                  </lido:gml>
+               </lido:repositoryLocation>
+            </lido:repositorySet>
+         </lido:repositoryWrap>
+         <lido:objectDescriptionWrap>
+            <lido:objectDescriptionSet>
+               <lido:descriptiveNoteValue>Dargestellt ist hier die Aussicht auf die Ostrauer Mühle im Kirnitzschtal, die man von den umgebenden Hängen hat. Sie liegt direkt an dem historischen Malerweg, der von Dresden bis in die Böhmische Schweiz führte (Richter, S. 19, 55).
+
+Bez. mi. u. "Ostraer Mühle d 25 August 53.", re. o. "576."
+Das alt montierte Blatt wurde von Rudolf Lutter selbst oder von späteren Nutzern abgelöst, weshalb die linke obere Ecke des Blattes beschädigt ist.
+
+Literatur: Frank Richter: Der historische Malerweg. Die Entdeckung der Sächsischen Schweiz im 18. und 19. Jahrhundert. Dresden 2006.</lido:descriptiveNoteValue>
+               <lido:sourceDescriptiveNote>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:sourceDescriptiveNote>
+            </lido:objectDescriptionSet>
+         </lido:objectDescriptionWrap>
+         <lido:objectMeasurementsWrap>
+            <lido:objectMeasurementsSet>
+               <lido:displayObjectMeasurements>Blattgröße: Höhe 14,9 cm, Breite 16,3 cm</lido:displayObjectMeasurements>
+               <lido:objectMeasurements/>
+            </lido:objectMeasurementsSet>
+         </lido:objectMeasurementsWrap>
+      </lido:objectIdentificationWrap>
+      <lido:eventWrap>
+         <lido:eventSet>
+            <lido:event>
+               <lido:eventType>
+                  <lido:conceptID lido:type="uri">https://event-types.museum-digital.org/19</lido:conceptID>
+                  <lido:term lido:addedSearchTerm="no">Gezeichnet</lido:term>
+               </lido:eventType>
+               <lido:eventActor>
+                  <lido:displayActorInRole>Rudolf Lutter (1831-1913)</lido:displayActorInRole>
+                  <lido:actorInRole>
+                     <lido:actor>
+                        <lido:actorID lido:source="gnd" lido:type="uri">http://d-nb.info/gnd/1178185508</lido:actorID>
+                        <lido:actorID lido:source="viaf" lido:type="uri">https://viaf.org/viaf/7381155044839072520000</lido:actorID>
+                        <lido:actorID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/persinst/125364</lido:actorID>
+                        <lido:nameActorSet>
+                           <lido:appellationValue>Lutter, Rudolf</lido:appellationValue>
+                           <lido:appellationValue xml:lang="de">Rudolf Lutter</lido:appellationValue>
+                        </lido:nameActorSet>
+                        <lido:vitalDatesActor>
+                           <lido:earliestDate>1831</lido:earliestDate>
+                           <lido:latestDate>1913</lido:latestDate>
+                        </lido:vitalDatesActor>
+                     </lido:actor>
+                  </lido:actorInRole>
+               </lido:eventActor>
+               <lido:eventDate>
+                  <lido:displayDate>25.08.1853</lido:displayDate>
+                  <lido:displayDate xml:lang="ar">25/08/1853</lido:displayDate>
+                  <lido:displayDate xml:lang="de">25.08.1853</lido:displayDate>
+                  <lido:displayDate xml:lang="en">August 25, 1853</lido:displayDate>
+                  <lido:displayDate xml:lang="es">25/08/1853</lido:displayDate>
+                  <lido:displayDate xml:lang="fa">25/08/1853</lido:displayDate>
+                  <lido:displayDate xml:lang="fr">25/08/1853</lido:displayDate>
+                  <lido:displayDate xml:lang="hu">1853. augusztus 25.</lido:displayDate>
+                  <lido:displayDate xml:lang="id">25 Agustus 1853</lido:displayDate>
+                  <lido:displayDate xml:lang="it">25/08/1853</lido:displayDate>
+                  <lido:displayDate xml:lang="ja">1853年08月25日</lido:displayDate>
+                  <lido:displayDate xml:lang="ka">25.08.1853</lido:displayDate>
+                  <lido:displayDate xml:lang="ko">1853년 08월 25일</lido:displayDate>
+                  <lido:displayDate xml:lang="pl">25.08.1853</lido:displayDate>
+                  <lido:displayDate xml:lang="pt">25/08/1853</lido:displayDate>
+                  <lido:displayDate xml:lang="ro">25.08.1853</lido:displayDate>
+                  <lido:displayDate xml:lang="ru">25.08.1853</lido:displayDate>
+                  <lido:displayDate xml:lang="ta">25-08-1853</lido:displayDate>
+                  <lido:displayDate xml:lang="tl">Agosto 25, 1853</lido:displayDate>
+                  <lido:displayDate xml:lang="tr">25.08.1853</lido:displayDate>
+                  <lido:displayDate xml:lang="zh">1853年08月25日</lido:displayDate>
+                  <lido:date>
+                     <lido:earliestDate>1853</lido:earliestDate>
+                     <lido:latestDate>1853</lido:latestDate>
+                  </lido:date>
+               </lido:eventDate>
+            </lido:event>
+         </lido:eventSet>
+         <lido:eventSet>
+            <lido:event>
+               <lido:eventType>
+                  <lido:conceptID lido:type="uri">http://terminology.lido-schema.org/lido00003</lido:conceptID>
+                  <lido:term>Event (non-specified)</lido:term>
+               </lido:eventType>
+               <lido:eventMaterialsTech>
+                  <lido:displayMaterialsTech>Bleistift auf dünnem Papier, linke Ecke oben fehlend</lido:displayMaterialsTech>
+               </lido:eventMaterialsTech>
+            </lido:event>
+         </lido:eventSet>
+      </lido:eventWrap>
+      <lido:objectRelationWrap>
+         <lido:subjectWrap>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectPlace>
+                     <lido:displayPlace>Sächsische Schweiz</lido:displayPlace>
+                     <lido:displayPlace xml:lang="ar">سويسرا السكسونية</lido:displayPlace>
+                     <lido:displayPlace xml:lang="cs">Saské Švýcarsko</lido:displayPlace>
+                     <lido:displayPlace xml:lang="de">Sächsische Schweiz</lido:displayPlace>
+                     <lido:displayPlace xml:lang="en">Saxon Switzerland</lido:displayPlace>
+                     <lido:displayPlace xml:lang="es">Suiza sajona</lido:displayPlace>
+                     <lido:displayPlace xml:lang="fi">Saksin Sveitsi</lido:displayPlace>
+                     <lido:displayPlace xml:lang="fr">Suisse saxonne</lido:displayPlace>
+                     <lido:displayPlace xml:lang="hu">Szász Svájc</lido:displayPlace>
+                     <lido:displayPlace xml:lang="id">Swiss Sachsen</lido:displayPlace>
+                     <lido:displayPlace xml:lang="it">Svizzera sassone</lido:displayPlace>
+                     <lido:displayPlace xml:lang="ka">საქსონიის შვეიცარია</lido:displayPlace>
+                     <lido:displayPlace xml:lang="nl">Saksisch Zwitserland</lido:displayPlace>
+                     <lido:displayPlace xml:lang="pl">Saska Szwajcaria</lido:displayPlace>
+                     <lido:displayPlace xml:lang="ro">Sächsische Schweiz (munți)</lido:displayPlace>
+                     <lido:displayPlace xml:lang="ru">Саксонская Швейцария</lido:displayPlace>
+                     <lido:displayPlace xml:lang="zh">萨克森施韦茨</lido:displayPlace>
+                     <lido:place>
+                        <lido:placeID lido:source="geonames" lido:type="uri">https://sws.geonames.org/2842490</lido:placeID>
+                        <lido:placeID lido:source="TGN" lido:type="uri">http://vocab.getty.edu/tgn/1112140</lido:placeID>
+                        <lido:placeID lido:source="gnd" lido:type="uri">http://d-nb.info/gnd/4051225-3</lido:placeID>
+                        <lido:placeID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q159539</lido:placeID>
+                        <lido:placeID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/place/2570</lido:placeID>
+                        <lido:namePlaceSet>
+                           <lido:appellationValue>Sächsische Schweiz</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ar">سويسرا السكسونية</lido:appellationValue>
+                           <lido:appellationValue xml:lang="cs">Saské Švýcarsko</lido:appellationValue>
+                           <lido:appellationValue xml:lang="de">Sächsische Schweiz</lido:appellationValue>
+                           <lido:appellationValue xml:lang="en">Saxon Switzerland</lido:appellationValue>
+                           <lido:appellationValue xml:lang="es">Suiza sajona</lido:appellationValue>
+                           <lido:appellationValue xml:lang="fi">Saksin Sveitsi</lido:appellationValue>
+                           <lido:appellationValue xml:lang="fr">Suisse saxonne</lido:appellationValue>
+                           <lido:appellationValue xml:lang="hu">Szász Svájc</lido:appellationValue>
+                           <lido:appellationValue xml:lang="id">Swiss Sachsen</lido:appellationValue>
+                           <lido:appellationValue xml:lang="it">Svizzera sassone</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ka">საქსონიის შვეიცარია</lido:appellationValue>
+                           <lido:appellationValue xml:lang="nl">Saksisch Zwitserland</lido:appellationValue>
+                           <lido:appellationValue xml:lang="pl">Saska Szwajcaria</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ro">Sächsische Schweiz (munți)</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ru">Саксонская Швейцария</lido:appellationValue>
+                           <lido:appellationValue xml:lang="zh">萨克森施韦茨</lido:appellationValue>
+                        </lido:namePlaceSet>
+                        <lido:gml>
+                           <gml:Point xmlns:gml="http://www.opengis.net/gml" srsName="EPSG:4326">
+                              <gml:pos>50.920398712158 14.143500328064</gml:pos>
+                           </gml:Point>
+                        </lido:gml>
+                     </lido:place>
+                  </lido:subjectPlace>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectPlace>
+                     <lido:displayPlace>Bad Schandau</lido:displayPlace>
+                     <lido:displayPlace xml:lang="ar">باد شانداو</lido:displayPlace>
+                     <lido:displayPlace xml:lang="cs">Bad Schandau</lido:displayPlace>
+                     <lido:displayPlace xml:lang="de">Bad Schandau</lido:displayPlace>
+                     <lido:displayPlace xml:lang="en">Bad Schandau</lido:displayPlace>
+                     <lido:displayPlace xml:lang="es">Bad Schandau</lido:displayPlace>
+                     <lido:displayPlace xml:lang="fa">باد شواندوا</lido:displayPlace>
+                     <lido:displayPlace xml:lang="fr">Bad Schandau</lido:displayPlace>
+                     <lido:displayPlace xml:lang="hu">Bad Schandau</lido:displayPlace>
+                     <lido:displayPlace xml:lang="it">Bad Schandau</lido:displayPlace>
+                     <lido:displayPlace xml:lang="nl">Bad Schandau</lido:displayPlace>
+                     <lido:displayPlace xml:lang="pl">Bad Schandau</lido:displayPlace>
+                     <lido:displayPlace xml:lang="ro">Bad Schandau</lido:displayPlace>
+                     <lido:displayPlace xml:lang="ru">Бад-Шандау</lido:displayPlace>
+                     <lido:displayPlace xml:lang="sv">Bad Schandau</lido:displayPlace>
+                     <lido:displayPlace xml:lang="tr">Bad Schandau</lido:displayPlace>
+                     <lido:displayPlace xml:lang="vi">Bad Schandau</lido:displayPlace>
+                     <lido:displayPlace xml:lang="zh">巴特尚道</lido:displayPlace>
+                     <lido:place>
+                        <lido:placeID lido:source="geonames" lido:type="uri">https://sws.geonames.org/2953352</lido:placeID>
+                        <lido:placeID lido:source="TGN" lido:type="uri">http://vocab.getty.edu/tgn/7012799</lido:placeID>
+                        <lido:placeID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4105800-8</lido:placeID>
+                        <lido:placeID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q6406</lido:placeID>
+                        <lido:placeID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/place/8791</lido:placeID>
+                        <lido:namePlaceSet>
+                           <lido:appellationValue>Bad Schandau</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ar">باد شانداو</lido:appellationValue>
+                           <lido:appellationValue xml:lang="cs">Bad Schandau</lido:appellationValue>
+                           <lido:appellationValue xml:lang="de">Bad Schandau</lido:appellationValue>
+                           <lido:appellationValue xml:lang="en">Bad Schandau</lido:appellationValue>
+                           <lido:appellationValue xml:lang="es">Bad Schandau</lido:appellationValue>
+                           <lido:appellationValue xml:lang="fa">باد شواندوا</lido:appellationValue>
+                           <lido:appellationValue xml:lang="fr">Bad Schandau</lido:appellationValue>
+                           <lido:appellationValue xml:lang="hu">Bad Schandau</lido:appellationValue>
+                           <lido:appellationValue xml:lang="it">Bad Schandau</lido:appellationValue>
+                           <lido:appellationValue xml:lang="nl">Bad Schandau</lido:appellationValue>
+                           <lido:appellationValue xml:lang="pl">Bad Schandau</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ro">Bad Schandau</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ru">Бад-Шандау</lido:appellationValue>
+                           <lido:appellationValue xml:lang="sv">Bad Schandau</lido:appellationValue>
+                           <lido:appellationValue xml:lang="tr">Bad Schandau</lido:appellationValue>
+                           <lido:appellationValue xml:lang="vi">Bad Schandau</lido:appellationValue>
+                           <lido:appellationValue xml:lang="zh">巴特尚道</lido:appellationValue>
+                        </lido:namePlaceSet>
+                        <lido:gml>
+                           <gml:Point xmlns:gml="http://www.opengis.net/gml" srsName="EPSG:4326">
+                              <gml:pos>50.916667938232 14.14999961853</gml:pos>
+                           </gml:Point>
+                        </lido:gml>
+                     </lido:place>
+                  </lido:subjectPlace>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="aat" lido:type="uri">http://vocab.getty.edu/aat/300006270</lido:conceptID>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4064760-2</lido:conceptID>
+                     <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh85145585</lido:conceptID>
+                     <lido:conceptID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q185187</lido:conceptID>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Wasserm%C3%BChle</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/7656</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Wassermühle</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ar">طاحونة مائية</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="cs">Vodní mlýn</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="da">Vandmølle</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="de">Wassermühle</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="el">νερόμυλος</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="en">Watermill</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="es">Molino hidráulico</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fa">آسیاب آبی</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fi">Vesimylly</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fr">Moulin à eau</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="he">טחנת מים</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hi">पनचक्‍की</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hu">vízimalom</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="it">Mulino ad acqua</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ja">水車小屋</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ka">წყლის წისქვილი</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ko">물레방아</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="nl">Watermolen</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pl">Młyn wodny</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pt">Moinho de água</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ru">водяная мельница</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sv">Vattenkvarn</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tr">Su değirmeni</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ur">پن چکی</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="zh">水力磨坊</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="aat" lido:type="uri">http://vocab.getty.edu/aat/300008761</lido:conceptID>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4184374-5</lido:conceptID>
+                     <lido:conceptID lido:source="iconclass" lido:type="uri">http://iconclass.org/rkd/25H12/</lido:conceptID>
+                     <lido:conceptID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q39816</lido:conceptID>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Tal</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/18131</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Tal</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ar">واد</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="bn">উপত্যকা</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="cs">údolí</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="da">Dal</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="de">Tal</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="el">κοιλάδα</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="en">Valley</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="es">Valle</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fa">دره</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fi">Laakso</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fr">Vallée</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="he">עמק</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hi">घाटी - पर्वतों या उत्थित भागों के बीच निचली ज़मीन वाला हिस्सा, लम्बाई में विस्तार वाला</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hu">völgy</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="id">Lembah</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="it">Valle</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ja">谷</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ka">ხეობა</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ko">골짜기</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="nl">Dal</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pl">Dolina</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pt">Vale</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ro">vale</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ru">долина</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sv">Dal</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sw">Bonde</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ta">பள்ளத்தாக்கு</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="th">หุบเขา</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tl">Lambak</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tr">Vadi</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ur">وادی</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="vi">thung lũng</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="zh">谷地</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+         </lido:subjectWrap>
+         <lido:relatedWorksWrap/>
+      </lido:objectRelationWrap>
+   </lido:descriptiveMetadata>
+   <lido:administrativeMetadata xml:lang="de">
+      <lido:rightsWorkWrap>
+         <lido:rightsWorkSet>
+            <lido:rightsHolder>
+               <lido:legalBodyName>
+                  <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:rightsHolder>
+         </lido:rightsWorkSet>
+      </lido:rightsWorkWrap>
+      <lido:recordWrap>
+         <lido:recordID lido:type="museum-digital">67304</lido:recordID>
+         <lido:recordType>
+            <lido:term lido:addedSearchTerm="no">item</lido:term>
+         </lido:recordType>
+         <lido:recordSource lido:type="dataProvider">
+            <lido:legalBodyName>
+               <lido:appellationValue>museum-digital</lido:appellationValue>
+            </lido:legalBodyName>
+            <lido:legalBodyWeblink>https://berlin.museum-digital.de/</lido:legalBodyWeblink>
+         </lido:recordSource>
+         <lido:recordSource>
+            <lido:legalBodyID lido:type="isil">DE-B185</lido:legalBodyID>
+            <lido:legalBodyName>
+               <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+            </lido:legalBodyName>
+         </lido:recordSource>
+         <lido:recordRights>
+            <lido:rightsType>
+               <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no">CC BY</lido:term>
+            </lido:rightsType>
+            <lido:rightsHolder>
+               <lido:legalBodyID lido:type="isil">DE-B185</lido:legalBodyID>
+               <lido:legalBodyName>
+                  <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+               </lido:legalBodyName>
+               <lido:legalBodyWeblink>http://geschichte-brandenburg.de/</lido:legalBodyWeblink>
+            </lido:rightsHolder>
+            <lido:creditLine>Förderprogramm zur Digitalisierung von Objekten des kulturellen Erbes des Landes Berlin</lido:creditLine>
+         </lido:recordRights>
+         <lido:recordInfoSet>
+            <lido:recordInfoLink>https://berlin.museum-digital.de/index.php?t=objekt&amp;oges=67304</lido:recordInfoLink>
+            <lido:recordMetadataDate>2021-04-27 07:59:53</lido:recordMetadataDate>
+         </lido:recordInfoSet>
+      </lido:recordWrap>
+      <lido:resourceWrap>
+         <lido:resourceSet lido:sortorder="1">
+            <lido:resourceID lido:source="image" lido:type="local">48847</lido:resourceID>
+            <lido:resourceRepresentation lido:type="masterfile">
+               <lido:linkResource lido:formatResource="image/tiff"/>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_thumb">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/202007/100h_schandau-saechsische-schweiz-ostrauer-muehle-67304.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_preview">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/202007/200w_schandau-saechsische-schweiz-ostrauer-muehle-67304.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/202007/schandau-saechsische-schweiz-ostrauer-muehle-67304.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceType>
+               <lido:term lido:addedSearchTerm="no">image</lido:term>
+            </lido:resourceType>
+            <lido:resourceRelType>
+               <lido:term lido:addedSearchTerm="no">Hauptansicht</lido:term>
+            </lido:resourceRelType>
+            <lido:resourceDescription>Schandau (Sächsische Schweiz): Ostrauer Mühle</lido:resourceDescription>
+            <lido:resourceSource lido:type="creator">
+               <lido:legalBodyName>
+                  <lido:appellationValue>Thomas Voßbeck, 2020</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:resourceSource>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+                  <lido:term lido:addedSearchTerm="no">CC BY</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V.</lido:appellationValue>
+                  </lido:legalBodyName>
+               </lido:rightsHolder>
+               <lido:creditLine>Thomas Voßbeck, 2020</lido:creditLine>
+            </lido:rightsResource>
+         </lido:resourceSet>
+      </lido:resourceWrap>
+   </lido:administrativeMetadata>
+</lido:lido>
+

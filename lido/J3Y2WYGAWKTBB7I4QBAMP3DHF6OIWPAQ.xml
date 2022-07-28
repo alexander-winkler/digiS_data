@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lido:lido xmlns:lido="http://www.lido-schema.org"
+           xmlns:xalan="http://xml.apache.org/xalan">
+   <lido:lidoRecID lido:source="https://berlin.museum-digital.de/index.php?t=institution&amp;instnr=32"
+                   lido:type="local">DE-B185/67227</lido:lidoRecID>
+   <lido:category/>
+   <lido:descriptiveMetadata xml:lang="de">
+      <lido:objectClassificationWrap>
+         <lido:objectWorkTypeWrap>
+            <lido:objectWorkType>
+               <lido:conceptID lido:source="gnd" lido:type="uri">http://d-nb.info/gnd/4067453-8</lido:conceptID>
+               <lido:conceptID lido:source="grobsystematik" lido:type="uri">https://term.museum-digital.de/grobsystematik/tag/14445</lido:conceptID>
+               <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh85039408</lido:conceptID>
+               <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/945</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Handzeichnung</lido:term>
+            </lido:objectWorkType>
+         </lido:objectWorkTypeWrap>
+         <lido:classificationWrap>
+            <lido:classification lido:type="Sammlung">
+               <lido:conceptID lido:source="local" lido:type="collection_id">705</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Handzeichnungen, Druckgraphik, Gemälde</lido:term>
+            </lido:classification>
+            <lido:classification lido:type="Sammlung">
+               <lido:conceptID lido:source="local" lido:type="collection_id">706</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Ansichten</lido:term>
+            </lido:classification>
+            <lido:classification lido:type="Sammlung">
+               <lido:conceptID lido:source="local" lido:type="collection_id">708</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Brandenburg</lido:term>
+            </lido:classification>
+         </lido:classificationWrap>
+      </lido:objectClassificationWrap>
+      <lido:objectIdentificationWrap>
+         <lido:titleWrap>
+            <lido:titleSet>
+               <lido:appellationValue lido:pref="preferred">Gransee: Warte (Wartturm)</lido:appellationValue>
+            </lido:titleSet>
+         </lido:titleWrap>
+         <lido:repositoryWrap>
+            <lido:repositorySet lido:type="current">
+               <lido:repositoryName>
+                  <lido:legalBodyID lido:type="isil">DE-B185</lido:legalBodyID>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+                  </lido:legalBodyName>
+                  <lido:legalBodyWeblink>http://geschichte-brandenburg.de/</lido:legalBodyWeblink>
+               </lido:repositoryName>
+               <lido:workID lido:type="inventory number">LGV-Archiv, C 12 H-4-001</lido:workID>
+               <lido:repositoryLocation>
+                  <lido:namePlaceSet>
+                     <lido:appellationValue>Berlin</lido:appellationValue>
+                  </lido:namePlaceSet>
+                  <lido:gml>
+                     <gml:Point xmlns:gml="http://www.opengis.net/gml" srsName="EPSG:4326">
+                        <gml:pos>52.51533127 13.40440559</gml:pos>
+                     </gml:Point>
+                  </lido:gml>
+               </lido:repositoryLocation>
+            </lido:repositorySet>
+         </lido:repositoryWrap>
+         <lido:objectDescriptionWrap>
+            <lido:objectDescriptionSet>
+               <lido:descriptiveNoteValue>Skizzenhafte Ansicht des 1880 umgestalteten Warte-Turmes bei Gransee, der erhalten ist. Der Zeichner ist unbekannt.
+
+Bez. mi. u. mit Feder "Warthe bei Gransee."
+Altbestand (übernommen aus der Vereinsbibliothek).</lido:descriptiveNoteValue>
+               <lido:sourceDescriptiveNote>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:sourceDescriptiveNote>
+            </lido:objectDescriptionSet>
+         </lido:objectDescriptionWrap>
+         <lido:objectMeasurementsWrap>
+            <lido:objectMeasurementsSet>
+               <lido:displayObjectMeasurements>Blattgröße: Höhe 14 cm, Breite 9 cm (unregelmäßig beschnitten)</lido:displayObjectMeasurements>
+               <lido:objectMeasurements/>
+            </lido:objectMeasurementsSet>
+         </lido:objectMeasurementsWrap>
+      </lido:objectIdentificationWrap>
+      <lido:eventWrap>
+         <lido:eventSet>
+            <lido:event>
+               <lido:eventType>
+                  <lido:conceptID lido:type="uri">https://event-types.museum-digital.org/19</lido:conceptID>
+                  <lido:term lido:addedSearchTerm="no">Gezeichnet</lido:term>
+               </lido:eventType>
+               <lido:eventDate>
+                  <lido:displayDate>Nach 1920 (wahrscheinlich)</lido:displayDate>
+                  <lido:displayDate xml:lang="de">Nach 1920</lido:displayDate>
+                  <lido:displayDate xml:lang="hu">1920 után</lido:displayDate>
+                  <lido:date>
+                     <lido:earliestDate>1921</lido:earliestDate>
+                     <lido:latestDate>?</lido:latestDate>
+                  </lido:date>
+               </lido:eventDate>
+            </lido:event>
+         </lido:eventSet>
+         <lido:eventSet>
+            <lido:event>
+               <lido:eventType>
+                  <lido:conceptID lido:type="uri">http://terminology.lido-schema.org/lido00003</lido:conceptID>
+                  <lido:term>Event (non-specified)</lido:term>
+               </lido:eventType>
+               <lido:eventMaterialsTech>
+                  <lido:displayMaterialsTech>Bleistift auf kariertem Papier</lido:displayMaterialsTech>
+               </lido:eventMaterialsTech>
+            </lido:event>
+         </lido:eventSet>
+      </lido:eventWrap>
+      <lido:objectRelationWrap>
+         <lido:subjectWrap>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectPlace>
+                     <lido:displayPlace>Gransee</lido:displayPlace>
+                     <lido:displayPlace xml:lang="ar">غرانزيه</lido:displayPlace>
+                     <lido:displayPlace xml:lang="cs">Gransee</lido:displayPlace>
+                     <lido:displayPlace xml:lang="de">Gransee</lido:displayPlace>
+                     <lido:displayPlace xml:lang="en">Gransee</lido:displayPlace>
+                     <lido:displayPlace xml:lang="es">Gransee</lido:displayPlace>
+                     <lido:displayPlace xml:lang="fa">گرانزی</lido:displayPlace>
+                     <lido:displayPlace xml:lang="fr">Gransee</lido:displayPlace>
+                     <lido:displayPlace xml:lang="hu">Gransee</lido:displayPlace>
+                     <lido:displayPlace xml:lang="it">Gransee</lido:displayPlace>
+                     <lido:displayPlace xml:lang="nl">Gransee</lido:displayPlace>
+                     <lido:displayPlace xml:lang="pl">Gransee</lido:displayPlace>
+                     <lido:displayPlace xml:lang="ro">Gransee</lido:displayPlace>
+                     <lido:displayPlace xml:lang="ru">Гранзе</lido:displayPlace>
+                     <lido:displayPlace xml:lang="sv">Gransee</lido:displayPlace>
+                     <lido:displayPlace xml:lang="tr">Gransee</lido:displayPlace>
+                     <lido:displayPlace xml:lang="zh">格兰塞</lido:displayPlace>
+                     <lido:place>
+                        <lido:placeID lido:source="geonames" lido:type="uri">https://sws.geonames.org/6550618</lido:placeID>
+                        <lido:placeID lido:source="TGN" lido:type="uri">http://vocab.getty.edu/tgn/7081900</lido:placeID>
+                        <lido:placeID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4254703-9</lido:placeID>
+                        <lido:placeID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q585627</lido:placeID>
+                        <lido:placeID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/place/10625</lido:placeID>
+                        <lido:namePlaceSet>
+                           <lido:appellationValue>Gransee</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ar">غرانزيه</lido:appellationValue>
+                           <lido:appellationValue xml:lang="cs">Gransee</lido:appellationValue>
+                           <lido:appellationValue xml:lang="de">Gransee</lido:appellationValue>
+                           <lido:appellationValue xml:lang="en">Gransee</lido:appellationValue>
+                           <lido:appellationValue xml:lang="es">Gransee</lido:appellationValue>
+                           <lido:appellationValue xml:lang="fa">گرانزی</lido:appellationValue>
+                           <lido:appellationValue xml:lang="fr">Gransee</lido:appellationValue>
+                           <lido:appellationValue xml:lang="hu">Gransee</lido:appellationValue>
+                           <lido:appellationValue xml:lang="it">Gransee</lido:appellationValue>
+                           <lido:appellationValue xml:lang="nl">Gransee</lido:appellationValue>
+                           <lido:appellationValue xml:lang="pl">Gransee</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ro">Gransee</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ru">Гранзе</lido:appellationValue>
+                           <lido:appellationValue xml:lang="sv">Gransee</lido:appellationValue>
+                           <lido:appellationValue xml:lang="tr">Gransee</lido:appellationValue>
+                           <lido:appellationValue xml:lang="zh">格兰塞</lido:appellationValue>
+                        </lido:namePlaceSet>
+                        <lido:gml>
+                           <gml:Point xmlns:gml="http://www.opengis.net/gml" srsName="EPSG:4326">
+                              <gml:pos>53.006942749023 13.158611297607</gml:pos>
+                           </gml:Point>
+                        </lido:gml>
+                     </lido:place>
+                  </lido:subjectPlace>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="aat" lido:type="uri">http://vocab.getty.edu/aat/300004847</lido:conceptID>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4203577-6</lido:conceptID>
+                     <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh85136296</lido:conceptID>
+                     <lido:conceptID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q12518</lido:conceptID>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Turm</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/546</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Turm</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ar">برج (عمارة)</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="bn">মিনার</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="cs">Věž</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="da">Tårn</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="de">Turm</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="el">πύργος</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="en">Tower</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="es">Torre</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fa">برج</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fi">Torni</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fr">Tour</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="he">מגדל</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hi">बुर्ज</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hu">torony</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="id">Menara</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="it">Torre</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ja">塔</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ka">კოშკი</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ko">탑</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="nl">Toren</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pl">Wieża</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pt">Torre</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ro">turn</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ru">башня</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sv">Torn</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sw">Mnara</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ta">கோபுரம்</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="th">หอคอย</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tr">Kule</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ur">برج</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="vi">Tháp</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="zh">塔式建築</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="aat" lido:type="uri">http://vocab.getty.edu/aat/300020756</lido:conceptID>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4129108-6</lido:conceptID>
+                     <lido:conceptID lido:source="iconclass" lido:type="uri">http://iconclass.org/rkd/23T25/</lido:conceptID>
+                     <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh85085001</lido:conceptID>
+                     <lido:conceptID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q12554</lido:conceptID>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Mittelalter</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/571</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Mittelalter</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ar">العصور الوسطى</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="bn">মধ্যযুগ</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="cs">Středověk</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="da">Middelalderen</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="de">Mittelalter</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="el">Μεσαίωνας</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="en">Middle Ages</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="es">Edad Media</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fa">قرون وسطی</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fi">Keskiaika</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fr">Moyen Âge</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="he">ימי הביניים</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hi">मध्ययुग</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hu">középkor</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="id">Abad Pertengahan</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="it">Medioevo</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ja">中世</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ka">შუა საუკუნეები</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ko">중세</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="nl">Middeleeuwen</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pl">średniowiecze</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pt">Idade Média</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ro">Evul Mediu</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ru">Средние века</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sv">Medeltiden</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sw">Zama za Kati</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ta">நடுக் காலம்</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="th">สมัยกลาง</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tl">Gitnang Panahon</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tr">Orta Çağ</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ur">قرون وسطیٰ</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="vi">Trung Cổ</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="zh">中世纪</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/42743</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Warte</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+         </lido:subjectWrap>
+         <lido:relatedWorksWrap/>
+      </lido:objectRelationWrap>
+   </lido:descriptiveMetadata>
+   <lido:administrativeMetadata xml:lang="de">
+      <lido:rightsWorkWrap>
+         <lido:rightsWorkSet>
+            <lido:rightsHolder>
+               <lido:legalBodyName>
+                  <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:rightsHolder>
+         </lido:rightsWorkSet>
+      </lido:rightsWorkWrap>
+      <lido:recordWrap>
+         <lido:recordID lido:type="museum-digital">67227</lido:recordID>
+         <lido:recordType>
+            <lido:term lido:addedSearchTerm="no">item</lido:term>
+         </lido:recordType>
+         <lido:recordSource lido:type="dataProvider">
+            <lido:legalBodyName>
+               <lido:appellationValue>museum-digital</lido:appellationValue>
+            </lido:legalBodyName>
+            <lido:legalBodyWeblink>https://berlin.museum-digital.de/</lido:legalBodyWeblink>
+         </lido:recordSource>
+         <lido:recordSource>
+            <lido:legalBodyID lido:type="isil">DE-B185</lido:legalBodyID>
+            <lido:legalBodyName>
+               <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+            </lido:legalBodyName>
+         </lido:recordSource>
+         <lido:recordRights>
+            <lido:rightsType>
+               <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no">CC BY</lido:term>
+            </lido:rightsType>
+            <lido:rightsHolder>
+               <lido:legalBodyID lido:type="isil">DE-B185</lido:legalBodyID>
+               <lido:legalBodyName>
+                  <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+               </lido:legalBodyName>
+               <lido:legalBodyWeblink>http://geschichte-brandenburg.de/</lido:legalBodyWeblink>
+            </lido:rightsHolder>
+            <lido:creditLine>Förderprogramm zur Digitalisierung von Objekten des kulturellen Erbes des Landes Berlin</lido:creditLine>
+         </lido:recordRights>
+         <lido:recordInfoSet>
+            <lido:recordInfoLink>https://berlin.museum-digital.de/index.php?t=objekt&amp;oges=67227</lido:recordInfoLink>
+            <lido:recordMetadataDate>2021-04-27 07:59:53</lido:recordMetadataDate>
+         </lido:recordInfoSet>
+      </lido:recordWrap>
+      <lido:resourceWrap>
+         <lido:resourceSet lido:sortorder="1">
+            <lido:resourceID lido:source="image" lido:type="local">48809</lido:resourceID>
+            <lido:resourceRepresentation lido:type="masterfile">
+               <lido:linkResource lido:formatResource="image/tiff"/>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_thumb">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/202007/100h_gransee-warte-wartturm-67227.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_preview">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/202007/200w_gransee-warte-wartturm-67227.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/202007/gransee-warte-wartturm-67227.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceType>
+               <lido:term lido:addedSearchTerm="no">image</lido:term>
+            </lido:resourceType>
+            <lido:resourceRelType>
+               <lido:term lido:addedSearchTerm="no">Hauptansicht</lido:term>
+            </lido:resourceRelType>
+            <lido:resourceDescription>Gransee: Warte (Wartturm)</lido:resourceDescription>
+            <lido:resourceSource lido:type="creator">
+               <lido:legalBodyName>
+                  <lido:appellationValue>Thomas Voßbeck, 2020</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:resourceSource>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+                  <lido:term lido:addedSearchTerm="no">CC BY</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V.</lido:appellationValue>
+                  </lido:legalBodyName>
+               </lido:rightsHolder>
+               <lido:creditLine>Thomas Voßbeck, 2020</lido:creditLine>
+            </lido:rightsResource>
+         </lido:resourceSet>
+      </lido:resourceWrap>
+   </lido:administrativeMetadata>
+</lido:lido>
+

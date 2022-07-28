@@ -1,0 +1,397 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lido:lido xmlns:lido="http://www.lido-schema.org"
+           xmlns:xalan="http://xml.apache.org/xalan">
+   <lido:lidoRecID lido:source="https://berlin.museum-digital.de/index.php?t=institution&amp;instnr=32"
+                   lido:type="local">DE-B185/67385</lido:lidoRecID>
+   <lido:category/>
+   <lido:descriptiveMetadata xml:lang="de">
+      <lido:objectClassificationWrap>
+         <lido:objectWorkTypeWrap>
+            <lido:objectWorkType>
+               <lido:conceptID lido:source="gnd" lido:type="uri">http://d-nb.info/gnd/4139167-6</lido:conceptID>
+               <lido:conceptID lido:source="aat" lido:type="uri">http://vocab.getty.edu/aat/300034569</lido:conceptID>
+               <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh85129196</lido:conceptID>
+               <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/11970</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Bauzeichnung</lido:term>
+            </lido:objectWorkType>
+         </lido:objectWorkTypeWrap>
+         <lido:classificationWrap>
+            <lido:classification lido:type="Sammlung">
+               <lido:conceptID lido:source="local" lido:type="collection_id">706</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Ansichten</lido:term>
+            </lido:classification>
+            <lido:classification lido:type="Sammlung">
+               <lido:conceptID lido:source="local" lido:type="collection_id">708</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Brandenburg</lido:term>
+            </lido:classification>
+            <lido:classification lido:type="Sammlung">
+               <lido:conceptID lido:source="local" lido:type="collection_id">705</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Handzeichnungen, Druckgraphik, Gemälde</lido:term>
+            </lido:classification>
+         </lido:classificationWrap>
+      </lido:objectClassificationWrap>
+      <lido:objectIdentificationWrap>
+         <lido:titleWrap>
+            <lido:titleSet>
+               <lido:appellationValue lido:pref="preferred">Leegebruch (Kr. Osthavelland): Wohnhaus Schütze, Rosenstraße</lido:appellationValue>
+            </lido:titleSet>
+         </lido:titleWrap>
+         <lido:repositoryWrap>
+            <lido:repositorySet lido:type="current">
+               <lido:repositoryName>
+                  <lido:legalBodyID lido:type="isil">DE-B185</lido:legalBodyID>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+                  </lido:legalBodyName>
+                  <lido:legalBodyWeblink>http://geschichte-brandenburg.de/</lido:legalBodyWeblink>
+               </lido:repositoryName>
+               <lido:workID lido:type="inventory number">LGV-Archiv, C 04-0015, Bl. 2</lido:workID>
+               <lido:repositoryLocation>
+                  <lido:namePlaceSet>
+                     <lido:appellationValue>Berlin</lido:appellationValue>
+                  </lido:namePlaceSet>
+                  <lido:gml>
+                     <gml:Point xmlns:gml="http://www.opengis.net/gml" srsName="EPSG:4326">
+                        <gml:pos>52.51533127 13.40440559</gml:pos>
+                     </gml:Point>
+                  </lido:gml>
+               </lido:repositoryLocation>
+            </lido:repositorySet>
+         </lido:repositoryWrap>
+         <lido:objectDescriptionWrap>
+            <lido:objectDescriptionSet>
+               <lido:descriptiveNoteValue>Die Bauzeichnung ist als Anlage zum zugehörigen, vom Landrat des Kreises Osthavelland in Nauen am 20. Juli 1937 ausgestellten Bauschein (Bl. 1) überliefert. Sie ist betitelt "Zeichnung für ein Wohnhaus in Holzkonstruktion / des Herrn Karl Schütze in Leegebruch, Ernst Schwarz / Strasse. Grundbuch Bd. III Bl. 63." und enthält die Unterschriften des Eigentümers [also des Bauherrn] Karl Schütze, des für die Zeichnung verantwortlichen Architekten Georg Däumig, Oranienburg, des Ausführenden [also Bauunternehmers] Karl Zillig, des Leegebrucher Bürgermeisters und des für die baupolizeiliche Prüfung verantwortlichen Kreisbaurats und Leiters des Kreisbauamtes in Nauen. Sie zeigt alle vier Ansichten, einen Schnitt, den Erdgeschoss-Grundriss sowie entsprechende Zeichnungen zu einem separaten Abort, ferner einen Schnitt durch die Außenwand des Hauses und einen Lageplan. Laut Adressbuch für Oranienburg und Umgebung von 1939 war Karl Schütze Heizer und wohnte in der Ernst-Schwarz-Straße 32. Diese Straße heißt heute Rosenstraße, Leegebruch gehört seit 1993 zum Landkreis Oberhavel.
+
+Schenkung aus Berliner Privatbesitz 1988.</lido:descriptiveNoteValue>
+               <lido:sourceDescriptiveNote>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:sourceDescriptiveNote>
+            </lido:objectDescriptionSet>
+         </lido:objectDescriptionWrap>
+         <lido:objectMeasurementsWrap>
+            <lido:objectMeasurementsSet>
+               <lido:displayObjectMeasurements>Blattgröße: Höhe 36 cm, Breite 44,5 cm (links in die Akte eingebunden)</lido:displayObjectMeasurements>
+               <lido:objectMeasurements/>
+            </lido:objectMeasurementsSet>
+         </lido:objectMeasurementsWrap>
+      </lido:objectIdentificationWrap>
+      <lido:eventWrap>
+         <lido:eventSet>
+            <lido:event>
+               <lido:eventType>
+                  <lido:conceptID lido:type="uri">https://event-types.museum-digital.org/1</lido:conceptID>
+                  <lido:term lido:addedSearchTerm="no">Hergestellt</lido:term>
+               </lido:eventType>
+               <lido:eventActor>
+                  <lido:displayActorInRole>Georg Däumig (Architekt)</lido:displayActorInRole>
+                  <lido:actorInRole>
+                     <lido:actor>
+                        <lido:actorID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/persinst/125042</lido:actorID>
+                        <lido:nameActorSet>
+                           <lido:appellationValue>Däumig, Georg (Architekt)</lido:appellationValue>
+                           <lido:appellationValue xml:lang="de">Georg Däumig (Architekt)</lido:appellationValue>
+                        </lido:nameActorSet>
+                        <lido:vitalDatesActor>
+                           <lido:earliestDate/>
+                           <lido:latestDate/>
+                        </lido:vitalDatesActor>
+                     </lido:actor>
+                  </lido:actorInRole>
+               </lido:eventActor>
+               <lido:eventDate>
+                  <lido:displayDate>Juli 1937</lido:displayDate>
+                  <lido:displayDate xml:lang="ar">07/1937</lido:displayDate>
+                  <lido:displayDate xml:lang="de">Juli 1937</lido:displayDate>
+                  <lido:displayDate xml:lang="en">July 1937</lido:displayDate>
+                  <lido:displayDate xml:lang="es">julio 1937</lido:displayDate>
+                  <lido:displayDate xml:lang="fa">ژوئیه 1937</lido:displayDate>
+                  <lido:displayDate xml:lang="fr">juillet 1937</lido:displayDate>
+                  <lido:displayDate xml:lang="hu">1937. július</lido:displayDate>
+                  <lido:displayDate xml:lang="id">Juli 1937</lido:displayDate>
+                  <lido:displayDate xml:lang="it">luglio 1937</lido:displayDate>
+                  <lido:displayDate xml:lang="ja">1937年07月</lido:displayDate>
+                  <lido:displayDate xml:lang="ka">ივლისი 1937</lido:displayDate>
+                  <lido:displayDate xml:lang="ko">1937년 07월</lido:displayDate>
+                  <lido:displayDate xml:lang="pl">lipiec 1937</lido:displayDate>
+                  <lido:displayDate xml:lang="pt">julho 1937</lido:displayDate>
+                  <lido:displayDate xml:lang="ro">iulie 1937</lido:displayDate>
+                  <lido:displayDate xml:lang="ru">Июль 1937</lido:displayDate>
+                  <lido:displayDate xml:lang="ta">ஜூலை 1937</lido:displayDate>
+                  <lido:displayDate xml:lang="tl">Hulyo 1937</lido:displayDate>
+                  <lido:displayDate xml:lang="tr">Temmuz 1937</lido:displayDate>
+                  <lido:displayDate xml:lang="zh">1937年07月</lido:displayDate>
+                  <lido:date>
+                     <lido:earliestDate>1937</lido:earliestDate>
+                     <lido:latestDate>1937</lido:latestDate>
+                  </lido:date>
+               </lido:eventDate>
+               <lido:eventPlace>
+                  <lido:displayPlace>Oranienburg</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ar">أورانينبورغ</lido:displayPlace>
+                  <lido:displayPlace xml:lang="cs">Oranienburg</lido:displayPlace>
+                  <lido:displayPlace xml:lang="da">Oranienburg</lido:displayPlace>
+                  <lido:displayPlace xml:lang="de">Oranienburg</lido:displayPlace>
+                  <lido:displayPlace xml:lang="en">Oranienburg</lido:displayPlace>
+                  <lido:displayPlace xml:lang="es">Oranienburg</lido:displayPlace>
+                  <lido:displayPlace xml:lang="fa">ارانینبرگ</lido:displayPlace>
+                  <lido:displayPlace xml:lang="fi">Oranienburg</lido:displayPlace>
+                  <lido:displayPlace xml:lang="fr">Oranienbourg</lido:displayPlace>
+                  <lido:displayPlace xml:lang="he">אורניינבורג</lido:displayPlace>
+                  <lido:displayPlace xml:lang="hu">Oranienburg</lido:displayPlace>
+                  <lido:displayPlace xml:lang="it">Oranienburg</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ja">オラニエンブルク</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ka">ორანიენბურგი</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ko">오라니엔부르크</lido:displayPlace>
+                  <lido:displayPlace xml:lang="nl">Oranienburg</lido:displayPlace>
+                  <lido:displayPlace xml:lang="pl">Oranienburg</lido:displayPlace>
+                  <lido:displayPlace xml:lang="pt">Oranienburg</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ro">Oranienburg</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ru">Ораниенбург</lido:displayPlace>
+                  <lido:displayPlace xml:lang="sv">Oranienburg</lido:displayPlace>
+                  <lido:displayPlace xml:lang="tr">Oranienburg</lido:displayPlace>
+                  <lido:displayPlace xml:lang="vi">Oranienburg</lido:displayPlace>
+                  <lido:displayPlace xml:lang="zh">奥拉宁堡</lido:displayPlace>
+                  <lido:place>
+                     <lido:placeID lido:source="geonames" lido:type="uri">https://sws.geonames.org/2857129</lido:placeID>
+                     <lido:placeID lido:source="TGN" lido:type="uri">http://vocab.getty.edu/tgn/1037432</lido:placeID>
+                     <lido:placeID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4043700-0</lido:placeID>
+                     <lido:placeID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q14808</lido:placeID>
+                     <lido:placeID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/place/5244</lido:placeID>
+                     <lido:namePlaceSet>
+                        <lido:appellationValue>Oranienburg</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ar">أورانينبورغ</lido:appellationValue>
+                        <lido:appellationValue xml:lang="cs">Oranienburg</lido:appellationValue>
+                        <lido:appellationValue xml:lang="da">Oranienburg</lido:appellationValue>
+                        <lido:appellationValue xml:lang="de">Oranienburg</lido:appellationValue>
+                        <lido:appellationValue xml:lang="en">Oranienburg</lido:appellationValue>
+                        <lido:appellationValue xml:lang="es">Oranienburg</lido:appellationValue>
+                        <lido:appellationValue xml:lang="fa">ارانینبرگ</lido:appellationValue>
+                        <lido:appellationValue xml:lang="fi">Oranienburg</lido:appellationValue>
+                        <lido:appellationValue xml:lang="fr">Oranienbourg</lido:appellationValue>
+                        <lido:appellationValue xml:lang="he">אורניינבורג</lido:appellationValue>
+                        <lido:appellationValue xml:lang="hu">Oranienburg</lido:appellationValue>
+                        <lido:appellationValue xml:lang="it">Oranienburg</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ja">オラニエンブルク</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ka">ორანიენბურგი</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ko">오라니엔부르크</lido:appellationValue>
+                        <lido:appellationValue xml:lang="nl">Oranienburg</lido:appellationValue>
+                        <lido:appellationValue xml:lang="pl">Oranienburg</lido:appellationValue>
+                        <lido:appellationValue xml:lang="pt">Oranienburg</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ro">Oranienburg</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ru">Ораниенбург</lido:appellationValue>
+                        <lido:appellationValue xml:lang="sv">Oranienburg</lido:appellationValue>
+                        <lido:appellationValue xml:lang="tr">Oranienburg</lido:appellationValue>
+                        <lido:appellationValue xml:lang="vi">Oranienburg</lido:appellationValue>
+                        <lido:appellationValue xml:lang="zh">奥拉宁堡</lido:appellationValue>
+                     </lido:namePlaceSet>
+                     <lido:gml>
+                        <gml:Point xmlns:gml="http://www.opengis.net/gml" srsName="EPSG:4326">
+                           <gml:pos>52.754444122314 13.236944198608</gml:pos>
+                        </gml:Point>
+                     </lido:gml>
+                  </lido:place>
+               </lido:eventPlace>
+            </lido:event>
+         </lido:eventSet>
+         <lido:eventSet>
+            <lido:event>
+               <lido:eventType>
+                  <lido:conceptID lido:type="uri">http://terminology.lido-schema.org/lido00003</lido:conceptID>
+                  <lido:term>Event (non-specified)</lido:term>
+               </lido:eventType>
+               <lido:eventMaterialsTech>
+                  <lido:displayMaterialsTech>Lichtpause einer Handzeichnung auf gebräuntem Papier (mehrfach gefaltet)</lido:displayMaterialsTech>
+               </lido:eventMaterialsTech>
+            </lido:event>
+         </lido:eventSet>
+      </lido:eventWrap>
+      <lido:objectRelationWrap>
+         <lido:subjectWrap>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectPlace>
+                     <lido:displayPlace>Leegebruch</lido:displayPlace>
+                     <lido:displayPlace xml:lang="cs">Leegebruch</lido:displayPlace>
+                     <lido:displayPlace xml:lang="de">Leegebruch</lido:displayPlace>
+                     <lido:displayPlace xml:lang="en">Leegebruch</lido:displayPlace>
+                     <lido:displayPlace xml:lang="es">Leegebruch</lido:displayPlace>
+                     <lido:displayPlace xml:lang="fa">لگبروخ</lido:displayPlace>
+                     <lido:displayPlace xml:lang="fr">Leegebruch</lido:displayPlace>
+                     <lido:displayPlace xml:lang="hu">Leegebruch</lido:displayPlace>
+                     <lido:displayPlace xml:lang="it">Leegebruch</lido:displayPlace>
+                     <lido:displayPlace xml:lang="nl">Leegebruch</lido:displayPlace>
+                     <lido:displayPlace xml:lang="pl">Leegebruch</lido:displayPlace>
+                     <lido:displayPlace xml:lang="ro">Leegebruch</lido:displayPlace>
+                     <lido:displayPlace xml:lang="ru">Легебрух</lido:displayPlace>
+                     <lido:displayPlace xml:lang="sv">Leegebruch</lido:displayPlace>
+                     <lido:displayPlace xml:lang="zh">莱格布鲁</lido:displayPlace>
+                     <lido:place>
+                        <lido:placeID lido:source="geonames" lido:type="uri">https://sws.geonames.org/6547619</lido:placeID>
+                        <lido:placeID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4417168-7</lido:placeID>
+                        <lido:placeID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q531735</lido:placeID>
+                        <lido:placeID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/place/32876</lido:placeID>
+                        <lido:namePlaceSet>
+                           <lido:appellationValue>Leegebruch</lido:appellationValue>
+                           <lido:appellationValue xml:lang="cs">Leegebruch</lido:appellationValue>
+                           <lido:appellationValue xml:lang="de">Leegebruch</lido:appellationValue>
+                           <lido:appellationValue xml:lang="en">Leegebruch</lido:appellationValue>
+                           <lido:appellationValue xml:lang="es">Leegebruch</lido:appellationValue>
+                           <lido:appellationValue xml:lang="fa">لگبروخ</lido:appellationValue>
+                           <lido:appellationValue xml:lang="fr">Leegebruch</lido:appellationValue>
+                           <lido:appellationValue xml:lang="hu">Leegebruch</lido:appellationValue>
+                           <lido:appellationValue xml:lang="it">Leegebruch</lido:appellationValue>
+                           <lido:appellationValue xml:lang="nl">Leegebruch</lido:appellationValue>
+                           <lido:appellationValue xml:lang="pl">Leegebruch</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ro">Leegebruch</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ru">Легебрух</lido:appellationValue>
+                           <lido:appellationValue xml:lang="sv">Leegebruch</lido:appellationValue>
+                           <lido:appellationValue xml:lang="zh">莱格布鲁</lido:appellationValue>
+                        </lido:namePlaceSet>
+                        <lido:gml>
+                           <gml:Point xmlns:gml="http://www.opengis.net/gml" srsName="EPSG:4326">
+                              <gml:pos>52.716667175293 13.199999809265</gml:pos>
+                           </gml:Point>
+                        </lido:gml>
+                     </lido:place>
+                  </lido:subjectPlace>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="aat" lido:type="uri">https://vocab.getty.edu/page/aat/300005425</lido:conceptID>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">http://d-nb.info/gnd/4023693-6</lido:conceptID>
+                     <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh85062603</lido:conceptID>
+                     <lido:conceptID lido:source="oberbegriffsdatei" lido:type="uri">https://term.museum-digital.de/oberbegriffsdatei/tag/tag/90</lido:conceptID>
+                     <lido:conceptID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q11755880</lido:conceptID>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Wohngeb%C3%A4ude</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/11153</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Wohnhaus</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="de">Wohnhaus</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="en">Residential building</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="es">Vivienda</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fr">Bâtiment d'habitation</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="it">Edificio abitativo</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ja">居住建築物</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="nl">Woongebouw</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ru">жилое здание</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sv">Bostadshus</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tr">Konut binası</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="aat" lido:type="uri">http://vocab.getty.edu/aat/300034569</lido:conceptID>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">http://d-nb.info/gnd/4139167-6</lido:conceptID>
+                     <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh85129196</lido:conceptID>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">http://de.wikipedia.org/wiki/Bauzeichnung</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/11970</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Bauzeichnung</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4025677-7</lido:conceptID>
+                     <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh85017720</lido:conceptID>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Holzbau</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/32547</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Holzbau</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+         </lido:subjectWrap>
+         <lido:relatedWorksWrap/>
+      </lido:objectRelationWrap>
+   </lido:descriptiveMetadata>
+   <lido:administrativeMetadata xml:lang="de">
+      <lido:rightsWorkWrap>
+         <lido:rightsWorkSet>
+            <lido:rightsHolder>
+               <lido:legalBodyName>
+                  <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:rightsHolder>
+         </lido:rightsWorkSet>
+      </lido:rightsWorkWrap>
+      <lido:recordWrap>
+         <lido:recordID lido:type="museum-digital">67385</lido:recordID>
+         <lido:recordType>
+            <lido:term lido:addedSearchTerm="no">item</lido:term>
+         </lido:recordType>
+         <lido:recordSource lido:type="dataProvider">
+            <lido:legalBodyName>
+               <lido:appellationValue>museum-digital</lido:appellationValue>
+            </lido:legalBodyName>
+            <lido:legalBodyWeblink>https://berlin.museum-digital.de/</lido:legalBodyWeblink>
+         </lido:recordSource>
+         <lido:recordSource>
+            <lido:legalBodyID lido:type="isil">DE-B185</lido:legalBodyID>
+            <lido:legalBodyName>
+               <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+            </lido:legalBodyName>
+         </lido:recordSource>
+         <lido:recordRights>
+            <lido:rightsType>
+               <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no">CC BY</lido:term>
+            </lido:rightsType>
+            <lido:rightsHolder>
+               <lido:legalBodyID lido:type="isil">DE-B185</lido:legalBodyID>
+               <lido:legalBodyName>
+                  <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+               </lido:legalBodyName>
+               <lido:legalBodyWeblink>http://geschichte-brandenburg.de/</lido:legalBodyWeblink>
+            </lido:rightsHolder>
+            <lido:creditLine>Förderprogramm zur Digitalisierung von Objekten des kulturellen Erbes des Landes Berlin</lido:creditLine>
+         </lido:recordRights>
+         <lido:recordInfoSet>
+            <lido:recordInfoLink>https://berlin.museum-digital.de/index.php?t=objekt&amp;oges=67385</lido:recordInfoLink>
+            <lido:recordMetadataDate>2021-04-27 07:59:52</lido:recordMetadataDate>
+         </lido:recordInfoSet>
+      </lido:recordWrap>
+      <lido:resourceWrap>
+         <lido:resourceSet lido:sortorder="1">
+            <lido:resourceID lido:source="image" lido:type="local">49099</lido:resourceID>
+            <lido:resourceRepresentation lido:type="masterfile">
+               <lido:linkResource lido:formatResource="image/tiff"/>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_thumb">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/32/67385-lgv-archiv_c_04-0015_bl_2/leegebruch_kr_osthavellan/100h_leegebruch-kr-osthavelland-wohnhaus-schuetze-rosenstraSse-67385.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_preview">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/32/67385-lgv-archiv_c_04-0015_bl_2/leegebruch_kr_osthavellan/200w_leegebruch-kr-osthavelland-wohnhaus-schuetze-rosenstraSse-67385.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/32/67385-lgv-archiv_c_04-0015_bl_2/leegebruch_kr_osthavellan/leegebruch-kr-osthavelland-wohnhaus-schuetze-rosenstraSse-67385.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceType>
+               <lido:term lido:addedSearchTerm="no">image</lido:term>
+            </lido:resourceType>
+            <lido:resourceRelType>
+               <lido:term lido:addedSearchTerm="no">Hauptansicht</lido:term>
+            </lido:resourceRelType>
+            <lido:resourceDescription/>
+            <lido:resourceSource lido:type="creator">
+               <lido:legalBodyName>
+                  <lido:appellationValue>Thomas Voßbeck, 2020</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:resourceSource>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+                  <lido:term lido:addedSearchTerm="no">CC BY</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V.</lido:appellationValue>
+                  </lido:legalBodyName>
+               </lido:rightsHolder>
+               <lido:creditLine>Thomas Voßbeck, 2020</lido:creditLine>
+            </lido:rightsResource>
+         </lido:resourceSet>
+      </lido:resourceWrap>
+   </lido:administrativeMetadata>
+</lido:lido>
+

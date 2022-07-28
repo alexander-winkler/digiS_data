@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lido:lido xmlns:lido="http://www.lido-schema.org"
+           xmlns:xalan="http://xml.apache.org/xalan">
+   <lido:lidoRecID lido:source="https://berlin.museum-digital.de/index.php?t=institution&amp;instnr=32"
+                   lido:type="local">DE-B185/67032</lido:lidoRecID>
+   <lido:category/>
+   <lido:descriptiveMetadata xml:lang="de">
+      <lido:objectClassificationWrap>
+         <lido:objectWorkTypeWrap>
+            <lido:objectWorkType>
+               <lido:conceptID lido:source="gnd" lido:type="uri">http://d-nb.info/gnd/4021845-4</lido:conceptID>
+               <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/13314</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Druckgraphik</lido:term>
+            </lido:objectWorkType>
+         </lido:objectWorkTypeWrap>
+         <lido:classificationWrap>
+            <lido:classification lido:type="Sammlung">
+               <lido:conceptID lido:source="local" lido:type="collection_id">705</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Handzeichnungen, Druckgraphik, Gemälde</lido:term>
+            </lido:classification>
+            <lido:classification lido:type="Sammlung">
+               <lido:conceptID lido:source="local" lido:type="collection_id">706</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Ansichten</lido:term>
+            </lido:classification>
+            <lido:classification lido:type="Sammlung">
+               <lido:conceptID lido:source="local" lido:type="collection_id">708</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Brandenburg</lido:term>
+            </lido:classification>
+         </lido:classificationWrap>
+      </lido:objectClassificationWrap>
+      <lido:objectIdentificationWrap>
+         <lido:titleWrap>
+            <lido:titleSet>
+               <lido:appellationValue lido:pref="preferred">Cottbus: Staatstheater, Eingangsseite</lido:appellationValue>
+            </lido:titleSet>
+         </lido:titleWrap>
+         <lido:repositoryWrap>
+            <lido:repositorySet lido:type="current">
+               <lido:repositoryName>
+                  <lido:legalBodyID lido:type="isil">DE-B185</lido:legalBodyID>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+                  </lido:legalBodyName>
+                  <lido:legalBodyWeblink>http://geschichte-brandenburg.de/</lido:legalBodyWeblink>
+               </lido:repositoryName>
+               <lido:workID lido:type="inventory number">LGV-Archiv, C 12 G-3-114</lido:workID>
+               <lido:repositoryLocation>
+                  <lido:namePlaceSet>
+                     <lido:appellationValue>Berlin</lido:appellationValue>
+                  </lido:namePlaceSet>
+                  <lido:gml>
+                     <gml:Point xmlns:gml="http://www.opengis.net/gml" srsName="EPSG:4326">
+                        <gml:pos>52.51533127 13.40440559</gml:pos>
+                     </gml:Point>
+                  </lido:gml>
+               </lido:repositoryLocation>
+            </lido:repositorySet>
+         </lido:repositoryWrap>
+         <lido:objectDescriptionWrap>
+            <lido:objectDescriptionSet>
+               <lido:descriptiveNoteValue>1908 wurde das nach Entwürfen des Berliner Architekten Bernhard Sehring (1855-1941) erbaute Stadttheater Cottbus eingeweiht. Die Baukosten trugen die Bürger der Stadt. Es wurde durch Engagement der Cottbuser nach 1945 vor dem Abriss bewahrt und ist das wohl bedeutendste erhaltene Theater im Jugendstil. Als (brandenburgisches) Staatstheater Cottbus wird es als Vierspartenhaus bespielt und nimmt im Kulturleben der Stadt einen hohen Rang ein. Die Radierung stammt aus der Zeit nach 1990.
+
+Handschriftlich (Bleistift) bez. li. u. "Cottbus, Theater", mi. u. "Orig. Rad.", re. u. "Pohl rad."
+Erworben 2012 (übernommen aus der Vereinsbibliothek).</lido:descriptiveNoteValue>
+               <lido:sourceDescriptiveNote>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:sourceDescriptiveNote>
+            </lido:objectDescriptionSet>
+         </lido:objectDescriptionWrap>
+         <lido:objectMeasurementsWrap>
+            <lido:objectMeasurementsSet>
+               <lido:displayObjectMeasurements>Blattgröße: Höhe 23,5 cm, Breite 29,8 cm, Plattengröße: Höhe 11,6 cm, Breite 17,2 cm</lido:displayObjectMeasurements>
+               <lido:objectMeasurements/>
+            </lido:objectMeasurementsSet>
+         </lido:objectMeasurementsWrap>
+      </lido:objectIdentificationWrap>
+      <lido:eventWrap>
+         <lido:eventSet>
+            <lido:event>
+               <lido:eventType>
+                  <lido:conceptID lido:type="uri">https://event-types.museum-digital.org/1</lido:conceptID>
+                  <lido:term lido:addedSearchTerm="no">Hergestellt</lido:term>
+               </lido:eventType>
+               <lido:eventDate>
+                  <lido:displayDate>Nach 1990</lido:displayDate>
+                  <lido:displayDate xml:lang="de">Nach 1990</lido:displayDate>
+                  <lido:displayDate xml:lang="en">After 1990</lido:displayDate>
+                  <lido:displayDate xml:lang="hu">1990 után</lido:displayDate>
+                  <lido:date>
+                     <lido:earliestDate>1991</lido:earliestDate>
+                     <lido:latestDate>?</lido:latestDate>
+                  </lido:date>
+               </lido:eventDate>
+            </lido:event>
+         </lido:eventSet>
+         <lido:eventSet>
+            <lido:event>
+               <lido:eventType>
+                  <lido:conceptID lido:type="uri">http://terminology.lido-schema.org/lido00003</lido:conceptID>
+                  <lido:term>Event (non-specified)</lido:term>
+               </lido:eventType>
+               <lido:eventMaterialsTech>
+                  <lido:displayMaterialsTech>Radierung, Aquatinta auf Kupferdruckpapier</lido:displayMaterialsTech>
+               </lido:eventMaterialsTech>
+            </lido:event>
+         </lido:eventSet>
+      </lido:eventWrap>
+      <lido:objectRelationWrap>
+         <lido:subjectWrap>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="aat" lido:type="uri">http://vocab.getty.edu/aat/300054148</lido:conceptID>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4059702-7</lido:conceptID>
+                     <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh85134522</lido:conceptID>
+                     <lido:conceptID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q11635</lido:conceptID>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Theater</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/40</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Theater</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ar">مسرح</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="bn">নাট্যকলা</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="cs">Divadlo</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="da">Teater</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="de">Theater</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="el">θέατρο</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="en">Theater</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="es">Teatro</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fa">تئاتر</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fi">Teatteri</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fr">Théâtre</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="he">תיאטרון</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hi">रंगमंच</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hu">színházművészet</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="id">Teater</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="it">Teatro</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ja">演劇</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ka">თეატრი</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ko">연극</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="nl">Theater</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pl">Teatr</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pt">Teatro</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ru">театр</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sv">Teater</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sw">Tamthilia</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ta">அரங்கு</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="th">ละคร</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tl">Tanghalan</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tr">Tiyatro</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ur">جلوہ گاہ</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="vi">Sân khấu kịch</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="zh">劇場</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">http://d-nb.info/gnd/4028939-4</lido:conceptID>
+                     <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh85008032</lido:conceptID>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">http://de.wikipedia.org/wiki/Jugendstil</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/671</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Jugendstil</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="aat" lido:type="uri">http://vocab.getty.edu/aat/300053241</lido:conceptID>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4048166-9</lido:conceptID>
+                     <lido:conceptID lido:source="grobsystematik" lido:type="uri">https://term.museum-digital.de/grobsystematik/tag/9367</lido:conceptID>
+                     <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh85045046</lido:conceptID>
+                     <lido:conceptID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q186986</lido:conceptID>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Radierung</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/3418</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Radierung</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ar">تنميش</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="cs">Lept</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="da">Radering</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="de">Radierung</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="el">Γραμμική οξυγραφία</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="en">Etching</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="es">Aguafuerte</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fa">چاپ فلزی</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fi">Etsaus</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fr">Eau-forte</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="he">תצריב</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hi">नक्काशी</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hu">Rézkarc</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="id">Etsa</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="it">Acquaforte</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ja">エッチング</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ko">에칭</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="nl">Etstechniek</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pl">Akwaforta</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pt">Água-forte</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ro">Acvaforte</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ru">офорт</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sv">Etsning</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tr">Gravür</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="vi">Khắc axit</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="zh">蚀刻版画</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4021845-4</lido:conceptID>
+                     <lido:conceptID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q1027879</lido:conceptID>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">https://en.wikipedia.org/wiki/Graphics</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/13314</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Druckgraphik</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ar">رسوميات</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="bn">গ্রাফিক্স</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="cs">Grafika</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="de">Druckgraphik</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="el">Γραφικά</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="en">Graphics</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="es">gráficos</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fa">ارتباط تصویری</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fr">Graphique</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="he">גרפיקה</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hi">चित्रालेख</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hu">Grafika</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="id">Grafika</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ja">グラフィック</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ka">გრაფიკა</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ko">그래픽</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="nl">Grafiek</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pl">Grafika</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pt">Gráfico</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ro">grafică</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ru">графика</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ta">வரைகலை</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tr">Grafik</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ur">تخطیط</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="zh">图形</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+         </lido:subjectWrap>
+         <lido:relatedWorksWrap/>
+      </lido:objectRelationWrap>
+   </lido:descriptiveMetadata>
+   <lido:administrativeMetadata xml:lang="de">
+      <lido:rightsWorkWrap>
+         <lido:rightsWorkSet>
+            <lido:rightsHolder>
+               <lido:legalBodyName>
+                  <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:rightsHolder>
+         </lido:rightsWorkSet>
+      </lido:rightsWorkWrap>
+      <lido:recordWrap>
+         <lido:recordID lido:type="museum-digital">67032</lido:recordID>
+         <lido:recordType>
+            <lido:term lido:addedSearchTerm="no">item</lido:term>
+         </lido:recordType>
+         <lido:recordSource lido:type="dataProvider">
+            <lido:legalBodyName>
+               <lido:appellationValue>museum-digital</lido:appellationValue>
+            </lido:legalBodyName>
+            <lido:legalBodyWeblink>https://berlin.museum-digital.de/</lido:legalBodyWeblink>
+         </lido:recordSource>
+         <lido:recordSource>
+            <lido:legalBodyID lido:type="isil">DE-B185</lido:legalBodyID>
+            <lido:legalBodyName>
+               <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+            </lido:legalBodyName>
+         </lido:recordSource>
+         <lido:recordRights>
+            <lido:rightsType>
+               <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no">CC BY</lido:term>
+            </lido:rightsType>
+            <lido:rightsHolder>
+               <lido:legalBodyID lido:type="isil">DE-B185</lido:legalBodyID>
+               <lido:legalBodyName>
+                  <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+               </lido:legalBodyName>
+               <lido:legalBodyWeblink>http://geschichte-brandenburg.de/</lido:legalBodyWeblink>
+            </lido:rightsHolder>
+            <lido:creditLine>Förderprogramm zur Digitalisierung von Objekten des kulturellen Erbes des Landes Berlin</lido:creditLine>
+         </lido:recordRights>
+         <lido:recordInfoSet>
+            <lido:recordInfoLink>https://berlin.museum-digital.de/index.php?t=objekt&amp;oges=67032</lido:recordInfoLink>
+            <lido:recordMetadataDate>2021-04-27 07:59:54</lido:recordMetadataDate>
+         </lido:recordInfoSet>
+      </lido:recordWrap>
+      <lido:resourceWrap>
+         <lido:resourceSet lido:sortorder="1">
+            <lido:resourceID lido:source="image" lido:type="local">49091</lido:resourceID>
+            <lido:resourceRepresentation lido:type="masterfile">
+               <lido:linkResource lido:formatResource="image/tiff"/>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_thumb">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/32/67032-lgv-archiv_c_12_g-3-114/cottbus_staatstheater_ein/100h_cottbus-staatstheater-eingangsseite-67032.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_preview">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/32/67032-lgv-archiv_c_12_g-3-114/cottbus_staatstheater_ein/200w_cottbus-staatstheater-eingangsseite-67032.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/32/67032-lgv-archiv_c_12_g-3-114/cottbus_staatstheater_ein/cottbus-staatstheater-eingangsseite-67032.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceType>
+               <lido:term lido:addedSearchTerm="no">image</lido:term>
+            </lido:resourceType>
+            <lido:resourceRelType>
+               <lido:term lido:addedSearchTerm="no">Hauptansicht</lido:term>
+            </lido:resourceRelType>
+            <lido:resourceDescription/>
+            <lido:resourceSource lido:type="creator">
+               <lido:legalBodyName>
+                  <lido:appellationValue>Thomas Voßbeck, 2020</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:resourceSource>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+                  <lido:term lido:addedSearchTerm="no">CC BY</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V.</lido:appellationValue>
+                  </lido:legalBodyName>
+               </lido:rightsHolder>
+               <lido:creditLine>Thomas Voßbeck, 2020</lido:creditLine>
+            </lido:rightsResource>
+         </lido:resourceSet>
+      </lido:resourceWrap>
+   </lido:administrativeMetadata>
+</lido:lido>
+

@@ -1,0 +1,444 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lido:lido xmlns:lido="http://www.lido-schema.org"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <lido:lidoRecID lido:type="local">DE-MUS-275412/305473</lido:lidoRecID>
+    <lido:category>
+      <lido:conceptID lido:type="URI">http://www.cidoc-crm.org/crm-concepts/E22</lido:conceptID>
+      <lido:term xml:lang="en">Man-Made Object</lido:term>
+    </lido:category>
+    <lido:descriptiveMetadata xml:lang="de">
+      <lido:objectClassificationWrap>
+        <lido:objectWorkTypeWrap>
+            <lido:objectWorkType lido:sortorder="1">
+               <lido:conceptID lido:source="http://vocab.getty.edu/aat/" lido:type="URI">http://vocab.getty.edu/aat/300026367</lido:conceptID>
+               <lido:term>Lehrmaterial</lido:term>
+            </lido:objectWorkType>
+        </lido:objectWorkTypeWrap>
+        <lido:classificationWrap>
+            <lido:classification lido:type="Sammlung">
+               <lido:term>Dokumentesammlung</lido:term>
+            </lido:classification>
+        </lido:classificationWrap>
+      </lido:objectClassificationWrap>
+      <lido:objectIdentificationWrap>
+        <lido:titleWrap>
+            <lido:titleSet>
+               <lido:appellationValue lido:pref="preferred">Moderne Sitzmöbel Gruppe G VII (Leporello zur Werkbundkiste)</lido:appellationValue>
+            </lido:titleSet>
+        </lido:titleWrap>
+        <lido:repositoryWrap>
+            <lido:repositorySet lido:type="current">
+               <lido:repositoryName>
+                  <lido:legalBodyID lido:source="ISIL (ISO 15511)" lido:type="URI">info:isil/DE-MUS-275412</lido:legalBodyID>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Werkbundarchiv - Museum der Dinge, Berlin</lido:appellationValue>
+                  </lido:legalBodyName>
+                  <lido:legalBodyWeblink>http://www.museumderdinge.de</lido:legalBodyWeblink>
+               </lido:repositoryName>
+               <lido:workID lido:type="inventory number">D 2114-01</lido:workID>
+            </lido:repositorySet>
+        </lido:repositoryWrap>
+        <lido:objectDescriptionWrap>
+            <lido:objectDescriptionSet lido:type="Bemerkungen">
+               <lido:descriptiveNoteValue>Fehlt im Bestand. S. Werkbundkiste Moderne Sitzmöbel O 272-00ff, Textbuch D 2114-00.
+</lido:descriptiveNoteValue>
+            </lido:objectDescriptionSet>
+            <lido:objectDescriptionSet lido:type="Beschreibung">
+               <lido:descriptiveNoteValue>Im Badischen Landesmuseum Karlsruhe / Bestand Werkbundkisten ist kein Leporello vorhanden, evtl. wurde für diese Kiste keiner angefertigt.</lido:descriptiveNoteValue>
+            </lido:objectDescriptionSet>
+        </lido:objectDescriptionWrap>
+      </lido:objectIdentificationWrap>
+      <lido:eventWrap>
+        <lido:eventSet lido:sortorder="1">
+            <lido:event>
+               <lido:eventType>
+                  <lido:conceptID lido:source="http://terminology.lido-schema.org" lido:type="URI">http://terminology.lido-schema.org/lido00007</lido:conceptID>
+                  <lido:term>Herstellung</lido:term>
+               </lido:eventType>
+               <lido:eventActor lido:sortorder="1">
+                  <lido:displayActorInRole>Geschäftsstelle für die Ergänzung des Kunstunterrichts an den Schulen Karlsruhe (*1955), Herausgeber/in</lido:displayActorInRole>
+                  <lido:actorInRole>
+                     <lido:actor>
+                        <lido:nameActorSet>
+                           <lido:appellationValue>Geschäftsstelle für die Ergänzung des Kunstunterrichts an den Schulen Karlsruhe</lido:appellationValue>
+                        </lido:nameActorSet>
+                     </lido:actor>
+                     <lido:roleActor>
+                        <lido:term>Herausgeber/in</lido:term>
+                     </lido:roleActor>
+                  </lido:actorInRole>
+               </lido:eventActor>
+               <lido:eventActor lido:sortorder="6">
+                  <lido:displayActorInRole>Badisches Landesmuseum Karlsruhe (*1919), Herausgeber/in</lido:displayActorInRole>
+                  <lido:actorInRole>
+                     <lido:actor>
+                        <lido:actorID lido:source="http://d-nb.info/gnd/" lido:type="URI">http://d-nb.info/gnd/2005684-9</lido:actorID>
+                        <lido:nameActorSet>
+                           <lido:appellationValue>Badisches Landesmuseum Karlsruhe</lido:appellationValue>
+                        </lido:nameActorSet>
+                     </lido:actor>
+                     <lido:roleActor>
+                        <lido:term>Herausgeber/in</lido:term>
+                     </lido:roleActor>
+                  </lido:actorInRole>
+               </lido:eventActor>
+               <lido:eventDate>
+                  <lido:displayDate>1960</lido:displayDate>
+                  <lido:date>
+                     <lido:earliestDate>1960</lido:earliestDate>
+                     <lido:latestDate>1960</lido:latestDate>
+                  </lido:date>
+               </lido:eventDate>
+               <lido:eventMaterialsTech>
+                  <lido:displayMaterialsTech>Papier, Kunststoff, Ringbindung</lido:displayMaterialsTech>
+               </lido:eventMaterialsTech>
+            </lido:event>
+        </lido:eventSet>
+      </lido:eventWrap>
+      <lido:objectRelationWrap>
+        <lido:relatedWorksWrap>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:object>
+                     <lido:objectID lido:type="local">DE-MUS-275412/305213</lido:objectID>
+                     <lido:objectNote>D 2114-00, Geschäftsstelle für die Ergänzung des Kunstunterrichts an den Schulen Karlsruhe, Textbuch zur Werkbundkiste, 1960</lido:objectNote>
+                  </lido:object>
+               </lido:relatedWork>
+               <lido:relatedWorkRelType>
+                  <lido:term>inhaltlicher Bezug zu</lido:term>
+               </lido:relatedWorkRelType>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:object>
+                     <lido:objectID lido:type="local">DE-MUS-275412/278752</lido:objectID>
+                     <lido:objectNote>O 272-00, Geschäftsstelle für die Ergänzung des Kunstunterrichts an den Schulen Karlsruhe, Werkbundkiste Moderne Sitzmöbel, 1958 - 1960</lido:objectNote>
+                  </lido:object>
+               </lido:relatedWork>
+               <lido:relatedWorkRelType>
+                  <lido:term>inhaltlicher Bezug zu</lido:term>
+               </lido:relatedWorkRelType>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:object>
+                     <lido:objectID lido:type="local">DE-MUS-275412/278753</lido:objectID>
+                     <lido:objectNote>O 272-01, Fr. Schäfer, Stuhl- und Tischfabrik, Tübingen, Werkbundkiste Moderne Sitzmöbel, Schautafel, 1960</lido:objectNote>
+                  </lido:object>
+               </lido:relatedWork>
+               <lido:relatedWorkRelType>
+                  <lido:term>inhaltlicher Bezug zu</lido:term>
+               </lido:relatedWorkRelType>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:object>
+                     <lido:objectID lido:type="local">DE-MUS-275412/278754</lido:objectID>
+                     <lido:objectNote>O 272-02, Germanisches Nationalmuseum Nürnberg (GNM), Werkbundkiste Moderne Sitzmöbel, Schautafel, 1960</lido:objectNote>
+                  </lido:object>
+               </lido:relatedWork>
+               <lido:relatedWorkRelType>
+                  <lido:term>inhaltlicher Bezug zu</lido:term>
+               </lido:relatedWorkRelType>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:object>
+                     <lido:objectID lido:type="local">DE-MUS-275412/278755</lido:objectID>
+                     <lido:objectNote>O 272-03, Domus KG, H. Schoeck, Schwaikheim bei Stuttgart, Werkbundkiste Moderne Sitzmöbel, Schautafel, 1960</lido:objectNote>
+                  </lido:object>
+               </lido:relatedWork>
+               <lido:relatedWorkRelType>
+                  <lido:term>inhaltlicher Bezug zu</lido:term>
+               </lido:relatedWorkRelType>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:object>
+                     <lido:objectID lido:type="local">DE-MUS-275412/278756</lido:objectID>
+                     <lido:objectNote>O 272-04, Werksentwurf, Werkbundkiste Moderne Sitzmöbel, Schautafel, 1960</lido:objectNote>
+                  </lido:object>
+               </lido:relatedWork>
+               <lido:relatedWorkRelType>
+                  <lido:term>inhaltlicher Bezug zu</lido:term>
+               </lido:relatedWorkRelType>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:object>
+                     <lido:objectID lido:type="local">DE-MUS-275412/278757</lido:objectID>
+                     <lido:objectNote>O 272-05, Lübke und Rolf, Rheda/Westfalen, Werkbundkiste Moderne Sitzmöbel, Schautafel, 1960</lido:objectNote>
+                  </lido:object>
+               </lido:relatedWork>
+               <lido:relatedWorkRelType>
+                  <lido:term>inhaltlicher Bezug zu</lido:term>
+               </lido:relatedWorkRelType>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:object>
+                     <lido:objectID lido:type="local">DE-MUS-275412/278758</lido:objectID>
+                     <lido:objectNote>O 272-06, Eiermann, Werkbundkiste Moderne Sitzmöbel, Schautafel, 1960</lido:objectNote>
+                  </lido:object>
+               </lido:relatedWork>
+               <lido:relatedWorkRelType>
+                  <lido:term>inhaltlicher Bezug zu</lido:term>
+               </lido:relatedWorkRelType>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:object>
+                     <lido:objectID lido:type="local">DE-MUS-275412/278759</lido:objectID>
+                     <lido:objectNote>O 272-07, Lange, Werkbundkiste Moderne Sitzmöbel, Schautafel, 1960</lido:objectNote>
+                  </lido:object>
+               </lido:relatedWork>
+               <lido:relatedWorkRelType>
+                  <lido:term>inhaltlicher Bezug zu</lido:term>
+               </lido:relatedWorkRelType>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:object>
+                     <lido:objectID lido:type="local">DE-MUS-275412/278760</lido:objectID>
+                     <lido:objectNote>O 272-08, Hirche, Werkbundkiste Moderne Sitzmöbel, Schautafel, 1960</lido:objectNote>
+                  </lido:object>
+               </lido:relatedWork>
+               <lido:relatedWorkRelType>
+                  <lido:term>inhaltlicher Bezug zu</lido:term>
+               </lido:relatedWorkRelType>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:object>
+                     <lido:objectID lido:type="local">DE-MUS-275412/278761</lido:objectID>
+                     <lido:objectNote>O 272-09, Federholzgesellschaft N. Bode &amp; Sohn, Kassel, Werkbundkiste Moderne Sitzmöbel, Schautafel, 1960</lido:objectNote>
+                  </lido:object>
+               </lido:relatedWork>
+               <lido:relatedWorkRelType>
+                  <lido:term>inhaltlicher Bezug zu</lido:term>
+               </lido:relatedWorkRelType>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:object>
+                     <lido:objectID lido:type="local">DE-MUS-275412/278762</lido:objectID>
+                     <lido:objectNote>O 272-10, Correcta-Werke GmbH, Bad Wildungen, Werkbundkiste Moderne Sitzmöbel, Schautafel, 1960</lido:objectNote>
+                  </lido:object>
+               </lido:relatedWork>
+               <lido:relatedWorkRelType>
+                  <lido:term>inhaltlicher Bezug zu</lido:term>
+               </lido:relatedWorkRelType>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:object>
+                     <lido:objectID lido:type="local">DE-MUS-275412/278763</lido:objectID>
+                     <lido:objectNote>O 272-11, Vedel, Werkbundkiste Moderne Sitzmöbel, Schautafel, 1960</lido:objectNote>
+                  </lido:object>
+               </lido:relatedWork>
+               <lido:relatedWorkRelType>
+                  <lido:term>inhaltlicher Bezug zu</lido:term>
+               </lido:relatedWorkRelType>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:object>
+                     <lido:objectID lido:type="local">DE-MUS-275412/278764</lido:objectID>
+                     <lido:objectNote>O 272-12, Eames, Werkbundkiste Moderne Sitzmöbel, Schautafel, 1960</lido:objectNote>
+                  </lido:object>
+               </lido:relatedWork>
+               <lido:relatedWorkRelType>
+                  <lido:term>inhaltlicher Bezug zu</lido:term>
+               </lido:relatedWorkRelType>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:object>
+                     <lido:objectID lido:type="local">DE-MUS-275412/278765</lido:objectID>
+                     <lido:objectNote>O 272-13, Bremschey-Stahlrohrmöbel, Solingen-Ohligs, Werkbundkiste Moderne Sitzmöbel, Schautafel, 1960</lido:objectNote>
+                  </lido:object>
+               </lido:relatedWork>
+               <lido:relatedWorkRelType>
+                  <lido:term>inhaltlicher Bezug zu</lido:term>
+               </lido:relatedWorkRelType>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:object>
+                     <lido:objectID lido:type="local">DE-MUS-275412/278766</lido:objectID>
+                     <lido:objectNote>O 272-14, Mies van der Rohe, Werkbundkiste Moderne Sitzmöbel, Schautafel, 1960</lido:objectNote>
+                  </lido:object>
+               </lido:relatedWork>
+               <lido:relatedWorkRelType>
+                  <lido:term>inhaltlicher Bezug zu</lido:term>
+               </lido:relatedWorkRelType>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:object>
+                     <lido:objectID lido:type="local">DE-MUS-275412/278767</lido:objectID>
+                     <lido:objectNote>O 272-15, Bellmann, Werkbundkiste Moderne Sitzmöbel, Schautafel, 1960</lido:objectNote>
+                  </lido:object>
+               </lido:relatedWork>
+               <lido:relatedWorkRelType>
+                  <lido:term>inhaltlicher Bezug zu</lido:term>
+               </lido:relatedWorkRelType>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:object>
+                     <lido:objectID lido:type="local">DE-MUS-275412/278768</lido:objectID>
+                     <lido:objectNote>O 272-16, August Sommer, Plüderhausen i.W., Werkbundkiste Moderne Sitzmöbel, Schautafel, 1960</lido:objectNote>
+                  </lido:object>
+               </lido:relatedWork>
+               <lido:relatedWorkRelType>
+                  <lido:term>inhaltlicher Bezug zu</lido:term>
+               </lido:relatedWorkRelType>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:object>
+                     <lido:objectID lido:type="local">DE-MUS-275412/278769</lido:objectID>
+                     <lido:objectNote>O 272-17, Eames, Werkbundkiste Moderne Sitzmöbel, Schautafel, 1960</lido:objectNote>
+                  </lido:object>
+               </lido:relatedWork>
+               <lido:relatedWorkRelType>
+                  <lido:term>inhaltlicher Bezug zu</lido:term>
+               </lido:relatedWorkRelType>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:object>
+                     <lido:objectID lido:type="local">DE-MUS-275412/278770</lido:objectID>
+                     <lido:objectNote>O 272-18, Bayer AG,  Leverkusen, Werkbundkiste Moderne Sitzmöbel, Schautafel, 1960</lido:objectNote>
+                  </lido:object>
+               </lido:relatedWork>
+               <lido:relatedWorkRelType>
+                  <lido:term>inhaltlicher Bezug zu</lido:term>
+               </lido:relatedWorkRelType>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:object>
+                     <lido:objectID lido:type="local">DE-MUS-275412/278771</lido:objectID>
+                     <lido:objectNote>O 272-19, Witzemann, Werkbundkiste Moderne Sitzmöbel, Schautafel, 1960</lido:objectNote>
+                  </lido:object>
+               </lido:relatedWork>
+               <lido:relatedWorkRelType>
+                  <lido:term>inhaltlicher Bezug zu</lido:term>
+               </lido:relatedWorkRelType>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:object>
+                     <lido:objectID lido:type="local">DE-MUS-275412/278772</lido:objectID>
+                     <lido:objectNote>O 272-20, Eisen u. Drahtwerk Erlau AG, Aalen/Württemberg, Werkbundkiste Moderne Sitzmöbel, Schautafel, 1960</lido:objectNote>
+                  </lido:object>
+               </lido:relatedWork>
+               <lido:relatedWorkRelType>
+                  <lido:term>inhaltlicher Bezug zu</lido:term>
+               </lido:relatedWorkRelType>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:object>
+                     <lido:objectID lido:type="local">DE-MUS-275412/278773</lido:objectID>
+                     <lido:objectNote>O 272-21, Herlag, Werkbundkiste Moderne Sitzmöbel, Schautafel, 1960</lido:objectNote>
+                  </lido:object>
+               </lido:relatedWork>
+               <lido:relatedWorkRelType>
+                  <lido:term>inhaltlicher Bezug zu</lido:term>
+               </lido:relatedWorkRelType>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:object>
+                     <lido:objectID lido:type="local">DE-MUS-275412/278774</lido:objectID>
+                     <lido:objectNote>O 272-22, Fr. Drabert Söhne, Minden/Westfalen, Werkbundkiste Moderne Sitzmöbel, Schautafel, 1960</lido:objectNote>
+                  </lido:object>
+               </lido:relatedWork>
+               <lido:relatedWorkRelType>
+                  <lido:term>inhaltlicher Bezug zu</lido:term>
+               </lido:relatedWorkRelType>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:object>
+                     <lido:objectID lido:type="local">DE-MUS-275412/278775</lido:objectID>
+                     <lido:objectNote>O 272-23, Eiermann, Werkbundkiste Moderne Sitzmöbel, Schautafel, 1960</lido:objectNote>
+                  </lido:object>
+               </lido:relatedWork>
+               <lido:relatedWorkRelType>
+                  <lido:term>inhaltlicher Bezug zu</lido:term>
+               </lido:relatedWorkRelType>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:object>
+                     <lido:objectID lido:type="local">DE-MUS-275412/278742</lido:objectID>
+                     <lido:objectNote>O 272-24, Fr. Schäfer, Stuhl- und Tischfabrik, Tübingen, Werkbundkiste Moderne Sitzmöbel, Schautafel, 1960</lido:objectNote>
+                  </lido:object>
+               </lido:relatedWork>
+               <lido:relatedWorkRelType>
+                  <lido:term>inhaltlicher Bezug zu</lido:term>
+               </lido:relatedWorkRelType>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:object>
+                     <lido:objectID lido:type="local">DE-MUS-275412/278776</lido:objectID>
+                     <lido:objectNote>O 272-25, Geschäftsstelle für die Ergänzung des Kunstunterrichts an den Schulen Karlsruhe, Werkbundkiste Moderne Sitzmöbel, Schautafel, 1960</lido:objectNote>
+                  </lido:object>
+               </lido:relatedWork>
+               <lido:relatedWorkRelType>
+                  <lido:term>inhaltlicher Bezug zu</lido:term>
+               </lido:relatedWorkRelType>
+            </lido:relatedWorkSet>
+        </lido:relatedWorksWrap>
+      </lido:objectRelationWrap>
+    </lido:descriptiveMetadata>
+    <lido:administrativeMetadata xml:lang="de">
+      <lido:rightsWorkWrap>
+        <lido:rightsWorkSet>
+            <lido:rightsHolder>
+               <lido:legalBodyName>
+                  <lido:appellationValue>Werkbundarchiv - Museum der Dinge, Berlin</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:rightsHolder>
+            <lido:creditLine>Förderprogramm zur Digitalisierung von Objekten des kulturellen Erbes des Landes Berlin</lido:creditLine>
+        </lido:rightsWorkSet>
+      </lido:rightsWorkWrap>
+      <lido:recordWrap>
+        <lido:recordID lido:type="local">305473</lido:recordID>
+        <lido:recordType>
+            <lido:conceptID lido:source="http://terminology.lido-schema.org" lido:type="URI">http://terminology.lido-schema.org/lido00141</lido:conceptID>
+            <lido:term>Einzelobjekt</lido:term>
+        </lido:recordType>
+        <lido:recordSource>
+            <lido:legalBodyID lido:source="ISL (ISO 15511)" lido:type="URI">info:isil/DE-MUS-275412</lido:legalBodyID>
+            <lido:legalBodyName>
+               <lido:appellationValue>Werkbundarchiv - Museum der Dinge, Berlin</lido:appellationValue>
+            </lido:legalBodyName>
+            <lido:legalBodyWeblink>http://www.museumderdinge.de</lido:legalBodyWeblink>
+        </lido:recordSource>
+        <lido:recordRights>
+            <lido:rightsType>
+               <lido:conceptID lido:type="URI">http://creativecommons.org/publicdomain/zero/1.0/deed.de</lido:conceptID>
+               <lido:term>CC0 Public Domain Dedication</lido:term>
+            </lido:rightsType>
+            <lido:rightsHolder>
+               <lido:legalBodyID lido:source="ISL (ISO 15511)" lido:type="URI">info:isil/DE-MUS-275412</lido:legalBodyID>
+               <lido:legalBodyName>
+                  <lido:appellationValue>Werkbundarchiv - Museum der Dinge, Berlin</lido:appellationValue>
+               </lido:legalBodyName>
+               <lido:legalBodyWeblink>http://www.museumderdinge.de</lido:legalBodyWeblink>
+            </lido:rightsHolder>
+        </lido:recordRights>
+        <lido:recordInfoSet>
+            <lido:recordInfoLink>http://sammlung.museumderdinge.de/node/305473</lido:recordInfoLink>
+            <lido:recordMetadataDate lido:type="export date">2018-03-01T11:06:24.950</lido:recordMetadataDate>
+        </lido:recordInfoSet>
+      </lido:recordWrap>
+    </lido:administrativeMetadata>
+  </lido:lido>
+

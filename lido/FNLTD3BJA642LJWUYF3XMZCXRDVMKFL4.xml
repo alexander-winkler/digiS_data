@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lido:lido xmlns:lido="http://www.lido-schema.org"
+           xmlns:xalan="http://xml.apache.org/xalan">
+   <lido:lidoRecID lido:source="https://berlin.museum-digital.de/index.php?t=institution&amp;instnr=32"
+                   lido:type="local">DE-B185/67185</lido:lidoRecID>
+   <lido:category/>
+   <lido:descriptiveMetadata xml:lang="de">
+      <lido:objectClassificationWrap>
+         <lido:objectWorkTypeWrap>
+            <lido:objectWorkType>
+               <lido:conceptID lido:source="gnd" lido:type="uri">http://d-nb.info/gnd/4021845-4</lido:conceptID>
+               <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/13314</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Druckgraphik</lido:term>
+            </lido:objectWorkType>
+         </lido:objectWorkTypeWrap>
+         <lido:classificationWrap>
+            <lido:classification lido:type="Sammlung">
+               <lido:conceptID lido:source="local" lido:type="collection_id">706</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Ansichten</lido:term>
+            </lido:classification>
+            <lido:classification lido:type="Sammlung">
+               <lido:conceptID lido:source="local" lido:type="collection_id">708</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Brandenburg</lido:term>
+            </lido:classification>
+            <lido:classification lido:type="Sammlung">
+               <lido:conceptID lido:source="local" lido:type="collection_id">705</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Handzeichnungen, Druckgraphik, Gemälde</lido:term>
+            </lido:classification>
+         </lido:classificationWrap>
+      </lido:objectClassificationWrap>
+      <lido:objectIdentificationWrap>
+         <lido:titleWrap>
+            <lido:titleSet>
+               <lido:appellationValue lido:pref="preferred">Criewen (Kr. Angermünde): Dorfkirche</lido:appellationValue>
+            </lido:titleSet>
+         </lido:titleWrap>
+         <lido:repositoryWrap>
+            <lido:repositorySet lido:type="current">
+               <lido:repositoryName>
+                  <lido:legalBodyID lido:type="isil">DE-B185</lido:legalBodyID>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+                  </lido:legalBodyName>
+                  <lido:legalBodyWeblink>http://geschichte-brandenburg.de/</lido:legalBodyWeblink>
+               </lido:repositoryName>
+               <lido:workID lido:type="inventory number">LGV-Archiv, C 12 G-4-105</lido:workID>
+               <lido:repositoryLocation>
+                  <lido:namePlaceSet>
+                     <lido:appellationValue>Berlin</lido:appellationValue>
+                  </lido:namePlaceSet>
+                  <lido:gml>
+                     <gml:Point xmlns:gml="http://www.opengis.net/gml" srsName="EPSG:4326">
+                        <gml:pos>52.51533127 13.40440559</gml:pos>
+                     </gml:Point>
+                  </lido:gml>
+               </lido:repositoryLocation>
+            </lido:repositorySet>
+         </lido:repositoryWrap>
+         <lido:objectDescriptionWrap>
+            <lido:objectDescriptionSet>
+               <lido:descriptiveNoteValue>Die Criewener Dorfkirche kam durch Verlegung des Dorfes 1816 um 500 m zu einer Lage abseits des Dorfes im Gutspark. 1830-1833 kam es zu Umbauten an der Kirche, damals wurde auch der Fachwerkturm mit den neogotischen Holzverschalungen errichtet, auf den der bisher nicht identifizierte Radierer besondere Sorgfalt richtete. Dargestellt ist die Kirche von Südosten, auch der neogotische Stufengiebel auf der Osteseite stammt aus dem Umbau 1830-1833.
+
+Bez. "Orig Radg / A Tesch[Teuth?]) / Kirche in Criewen". Rücks. Vorbesitzervermerk über geschenkweisen Erhalt vom 17. 12. 1984.
+Schenkung aus Berliner Privatbesitz 2015.</lido:descriptiveNoteValue>
+               <lido:sourceDescriptiveNote>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:sourceDescriptiveNote>
+            </lido:objectDescriptionSet>
+         </lido:objectDescriptionWrap>
+         <lido:objectMeasurementsWrap>
+            <lido:objectMeasurementsSet>
+               <lido:displayObjectMeasurements>Blattgröße: Höhe 14,4 cm, Breite 9 cm ; Plattengröße: Höhe 10,3 cm, Breite 7,5 cm</lido:displayObjectMeasurements>
+               <lido:objectMeasurements/>
+            </lido:objectMeasurementsSet>
+         </lido:objectMeasurementsWrap>
+      </lido:objectIdentificationWrap>
+      <lido:eventWrap>
+         <lido:eventSet>
+            <lido:event>
+               <lido:eventType>
+                  <lido:conceptID lido:type="uri">https://event-types.museum-digital.org/1</lido:conceptID>
+                  <lido:term lido:addedSearchTerm="no">Hergestellt</lido:term>
+               </lido:eventType>
+               <lido:eventDate>
+                  <lido:displayDate>1984 (wahrscheinlich)</lido:displayDate>
+                  <lido:displayDate xml:lang="ar">1984</lido:displayDate>
+                  <lido:displayDate xml:lang="de">1984</lido:displayDate>
+                  <lido:displayDate xml:lang="en">1984</lido:displayDate>
+                  <lido:displayDate xml:lang="es">1984</lido:displayDate>
+                  <lido:displayDate xml:lang="fa">1984</lido:displayDate>
+                  <lido:displayDate xml:lang="fr">1984</lido:displayDate>
+                  <lido:displayDate xml:lang="hu">1984</lido:displayDate>
+                  <lido:displayDate xml:lang="id">1984</lido:displayDate>
+                  <lido:displayDate xml:lang="it">1984</lido:displayDate>
+                  <lido:displayDate xml:lang="ja">1984年</lido:displayDate>
+                  <lido:displayDate xml:lang="ka">1984</lido:displayDate>
+                  <lido:displayDate xml:lang="ko">1984년</lido:displayDate>
+                  <lido:displayDate xml:lang="pl">1984</lido:displayDate>
+                  <lido:displayDate xml:lang="pt">1984</lido:displayDate>
+                  <lido:displayDate xml:lang="ro">1984</lido:displayDate>
+                  <lido:displayDate xml:lang="ru">1984</lido:displayDate>
+                  <lido:displayDate xml:lang="ta">1984</lido:displayDate>
+                  <lido:displayDate xml:lang="tl">1984</lido:displayDate>
+                  <lido:displayDate xml:lang="tr">1984</lido:displayDate>
+                  <lido:displayDate xml:lang="zh">1984年</lido:displayDate>
+                  <lido:date>
+                     <lido:earliestDate>1984</lido:earliestDate>
+                     <lido:latestDate>1984</lido:latestDate>
+                  </lido:date>
+               </lido:eventDate>
+            </lido:event>
+         </lido:eventSet>
+         <lido:eventSet>
+            <lido:event>
+               <lido:eventType>
+                  <lido:conceptID lido:type="uri">http://terminology.lido-schema.org/lido00003</lido:conceptID>
+                  <lido:term>Event (non-specified)</lido:term>
+               </lido:eventType>
+               <lido:eventMaterialsTech>
+                  <lido:displayMaterialsTech>Radierung auf Tiefdruckpapier, aufgeklebt auf Unterpapier (beschnitten)</lido:displayMaterialsTech>
+               </lido:eventMaterialsTech>
+            </lido:event>
+         </lido:eventSet>
+      </lido:eventWrap>
+      <lido:objectRelationWrap>
+         <lido:subjectWrap>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectPlace>
+                     <lido:displayPlace>Criewen</lido:displayPlace>
+                     <lido:displayPlace xml:lang="de">Criewen</lido:displayPlace>
+                     <lido:displayPlace xml:lang="en">Criewen</lido:displayPlace>
+                     <lido:displayPlace xml:lang="fr">Criewen</lido:displayPlace>
+                     <lido:displayPlace xml:lang="nl">Criewen</lido:displayPlace>
+                     <lido:place>
+                        <lido:placeID lido:source="geonames" lido:type="uri">https://sws.geonames.org/2939751</lido:placeID>
+                        <lido:placeID lido:source="TGN" lido:type="uri">http://vocab.getty.edu/tgn/7207473</lido:placeID>
+                        <lido:placeID lido:source="gnd" lido:type="uri">http://d-nb.info/gnd/1204513155</lido:placeID>
+                        <lido:placeID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q1139984</lido:placeID>
+                        <lido:placeID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/place/57251</lido:placeID>
+                        <lido:namePlaceSet>
+                           <lido:appellationValue>Criewen</lido:appellationValue>
+                           <lido:appellationValue xml:lang="de">Criewen</lido:appellationValue>
+                           <lido:appellationValue xml:lang="en">Criewen</lido:appellationValue>
+                           <lido:appellationValue xml:lang="fr">Criewen</lido:appellationValue>
+                           <lido:appellationValue xml:lang="nl">Criewen</lido:appellationValue>
+                        </lido:namePlaceSet>
+                        <lido:gml>
+                           <gml:Point xmlns:gml="http://www.opengis.net/gml" srsName="EPSG:4326">
+                              <gml:pos>53.014099121094 14.219900131226</gml:pos>
+                           </gml:Point>
+                        </lido:gml>
+                     </lido:place>
+                  </lido:subjectPlace>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="aat" lido:type="uri">http://vocab.getty.edu/aat/300052264</lido:conceptID>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">http://d-nb.info/gnd/4139209-7</lido:conceptID>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">http://de.wikipedia.org/wiki/Fachwerk</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/1046</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Fachwerk</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="aat" lido:type="uri">http://vocab.getty.edu/aat/300028886</lido:conceptID>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4181892-1</lido:conceptID>
+                     <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh85125691</lido:conceptID>
+                     <lido:conceptID lido:source="oberbegriffsdatei" lido:type="uri">https://term.museum-digital.de/oberbegriffsdatei/tag/4993</lido:conceptID>
+                     <lido:conceptID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q212469</lido:conceptID>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Souvenir</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/3510</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Souvenir</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ar">تذكار</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="cs">Suvenýr</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="da">Souvenir</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="de">Souvenir</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="en">Souvenir</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="es">Souvenir</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fa">ره‌آورد</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fi">Matkamuisto</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fr">Souvenir</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="he">מזכרת</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hu">emléktárgy</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="id">Cendera mata</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="it">Souvenir</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ko">기념품</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="nl">Souvenir</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pt">Suvenir</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ro">Suvenir</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ru">сувенир</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sv">Souvenir</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="vi">Quà lưu niệm</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="zh">紀念品</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4070552-3</lido:conceptID>
+                     <lido:conceptID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q1244038</lido:conceptID>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Dorfkirche</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/5951</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Dorfkirche</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="de">Dorfkirche</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/71176</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Neogotik</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+         </lido:subjectWrap>
+         <lido:relatedWorksWrap/>
+      </lido:objectRelationWrap>
+   </lido:descriptiveMetadata>
+   <lido:administrativeMetadata xml:lang="de">
+      <lido:rightsWorkWrap>
+         <lido:rightsWorkSet>
+            <lido:rightsHolder>
+               <lido:legalBodyName>
+                  <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:rightsHolder>
+         </lido:rightsWorkSet>
+      </lido:rightsWorkWrap>
+      <lido:recordWrap>
+         <lido:recordID lido:type="museum-digital">67185</lido:recordID>
+         <lido:recordType>
+            <lido:term lido:addedSearchTerm="no">item</lido:term>
+         </lido:recordType>
+         <lido:recordSource lido:type="dataProvider">
+            <lido:legalBodyName>
+               <lido:appellationValue>museum-digital</lido:appellationValue>
+            </lido:legalBodyName>
+            <lido:legalBodyWeblink>https://berlin.museum-digital.de/</lido:legalBodyWeblink>
+         </lido:recordSource>
+         <lido:recordSource>
+            <lido:legalBodyID lido:type="isil">DE-B185</lido:legalBodyID>
+            <lido:legalBodyName>
+               <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+            </lido:legalBodyName>
+         </lido:recordSource>
+         <lido:recordRights>
+            <lido:rightsType>
+               <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no">CC BY</lido:term>
+            </lido:rightsType>
+            <lido:rightsHolder>
+               <lido:legalBodyID lido:type="isil">DE-B185</lido:legalBodyID>
+               <lido:legalBodyName>
+                  <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+               </lido:legalBodyName>
+               <lido:legalBodyWeblink>http://geschichte-brandenburg.de/</lido:legalBodyWeblink>
+            </lido:rightsHolder>
+            <lido:creditLine>Förderprogramm zur Digitalisierung von Objekten des kulturellen Erbes des Landes Berlin</lido:creditLine>
+         </lido:recordRights>
+         <lido:recordInfoSet>
+            <lido:recordInfoLink>https://berlin.museum-digital.de/index.php?t=objekt&amp;oges=67185</lido:recordInfoLink>
+            <lido:recordMetadataDate>2021-04-27 07:59:53</lido:recordMetadataDate>
+         </lido:recordInfoSet>
+      </lido:recordWrap>
+      <lido:resourceWrap>
+         <lido:resourceSet lido:sortorder="1">
+            <lido:resourceID lido:source="image" lido:type="local">48768</lido:resourceID>
+            <lido:resourceRepresentation lido:type="masterfile">
+               <lido:linkResource lido:formatResource="image/tiff"/>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_thumb">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/202007/100h_criewen-kr-angermuende-dorfkirche-67185.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_preview">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/202007/200w_criewen-kr-angermuende-dorfkirche-67185.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/202007/criewen-kr-angermuende-dorfkirche-67185.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceType>
+               <lido:term lido:addedSearchTerm="no">image</lido:term>
+            </lido:resourceType>
+            <lido:resourceRelType>
+               <lido:term lido:addedSearchTerm="no">Hauptansicht</lido:term>
+            </lido:resourceRelType>
+            <lido:resourceDescription>Criewen (Kr. Angermünde): Dorfkirche</lido:resourceDescription>
+            <lido:resourceSource lido:type="creator">
+               <lido:legalBodyName>
+                  <lido:appellationValue>Thomas Voßbeck, 2020</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:resourceSource>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+                  <lido:term lido:addedSearchTerm="no">CC BY</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V.</lido:appellationValue>
+                  </lido:legalBodyName>
+               </lido:rightsHolder>
+               <lido:creditLine>Thomas Voßbeck, 2020</lido:creditLine>
+            </lido:rightsResource>
+         </lido:resourceSet>
+      </lido:resourceWrap>
+   </lido:administrativeMetadata>
+</lido:lido>
+

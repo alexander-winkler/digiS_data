@@ -1,0 +1,393 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lido:lido xmlns:lido="http://www.lido-schema.org"
+           xmlns:xalan="http://xml.apache.org/xalan">
+   <lido:lidoRecID lido:source="https://berlin.museum-digital.de/index.php?t=institution&amp;instnr=32"
+                   lido:type="local">DE-B185/67188</lido:lidoRecID>
+   <lido:category/>
+   <lido:descriptiveMetadata xml:lang="de">
+      <lido:objectClassificationWrap>
+         <lido:objectWorkTypeWrap>
+            <lido:objectWorkType>
+               <lido:conceptID lido:source="gnd" lido:type="uri">http://d-nb.info/gnd/4021845-4</lido:conceptID>
+               <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/13314</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Druckgraphik</lido:term>
+            </lido:objectWorkType>
+         </lido:objectWorkTypeWrap>
+         <lido:classificationWrap>
+            <lido:classification lido:type="Sammlung">
+               <lido:conceptID lido:source="local" lido:type="collection_id">706</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Ansichten</lido:term>
+            </lido:classification>
+            <lido:classification lido:type="Sammlung">
+               <lido:conceptID lido:source="local" lido:type="collection_id">707</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Berlin</lido:term>
+            </lido:classification>
+            <lido:classification lido:type="Sammlung">
+               <lido:conceptID lido:source="local" lido:type="collection_id">705</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Handzeichnungen, Druckgraphik, Gemälde</lido:term>
+            </lido:classification>
+         </lido:classificationWrap>
+      </lido:objectClassificationWrap>
+      <lido:objectIdentificationWrap>
+         <lido:titleWrap>
+            <lido:titleSet>
+               <lido:appellationValue lido:pref="preferred">Berlin-Kreuzberg: Blick auf das Barackenlager des Lazaretts auf dem Tempelhofer Feld</lido:appellationValue>
+            </lido:titleSet>
+         </lido:titleWrap>
+         <lido:repositoryWrap>
+            <lido:repositorySet lido:type="current">
+               <lido:repositoryName>
+                  <lido:legalBodyID lido:type="isil">DE-B185</lido:legalBodyID>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+                  </lido:legalBodyName>
+                  <lido:legalBodyWeblink>http://geschichte-brandenburg.de/</lido:legalBodyWeblink>
+               </lido:repositoryName>
+               <lido:workID lido:type="inventory number">LGV-Archiv, C 12 G-4-118</lido:workID>
+               <lido:repositoryLocation>
+                  <lido:namePlaceSet>
+                     <lido:appellationValue>Berlin</lido:appellationValue>
+                  </lido:namePlaceSet>
+                  <lido:gml>
+                     <gml:Point xmlns:gml="http://www.opengis.net/gml" srsName="EPSG:4326">
+                        <gml:pos>52.51533127 13.40440559</gml:pos>
+                     </gml:Point>
+                  </lido:gml>
+               </lido:repositoryLocation>
+            </lido:repositorySet>
+         </lido:repositoryWrap>
+         <lido:objectDescriptionWrap>
+            <lido:objectDescriptionSet>
+               <lido:descriptiveNoteValue>Der Blick fällt nach Südosten auf das Lazarett des Roten Kreuzes, das während des Deutsch-Französischen Krieges 1870/71 auf dem Tempelhofer Feld eingerichtet wurde. Der Betrachter steht auf der Anhöhe des Kreuzberges und hat im Vordergrund links neben sich die Aktienbrauerei (später Schultheiss). Der auch als Vedutist und Illustrator vielbeschäftigte Landschaftsmaler Christian Wilberg (1839 Havelberg-1882 während einer Parisreise) bettet die Darstellung des weiträumigen monotonen Lagergeländes in ein durch Pyramidenpappeln und die Turmvilla der Aktienbrauerei geradezu italienisch aufgewertetes Landschaftsbild ein. Die Abbildung stammt aus: Die Gartenlaube, Leipzig, 1870, Nr. 42, S. 705. Es handelt sich um die Illustration zum Beitrag "Eine Schmerzensstadt" von F. K. (ebd., S. 704, Text nicht im Archiv vorhanden).&#xD;
+In dem Beitrag heißt es u.a.: "In jener weiten Fläche, die man vom Kreuzberge, den Blick von Berlin abgewendet, überschaut, ist eine solche Stadt emporgewachsen. Ein hoher Bretterzaun umschließt in unregelmäßigem Viereck Baracken und Wirthschaftsgebäude, die für fünfzehnhundert Verwundete hergerichtet sind. [...] Kaum forderte der heilige Krieg für deutsche Ehre und Freiheit die ersten Opfer, als Staat, Gemeinde und Privatvereine einen ruhmvollen Wettkampf eingingen, das Loos ihrer verwundeten Helden zu mildern. Der Staat begann zwanzig, die Stadt Berlin und der Hülfsverein für die Armeen im Felde je fünfzehn Baracken zu bauen; so entstanden drei Abtheilungen, deren jede ein Ganzes für sich bildet und seine eigene, in der höchsten Spitze jedoch vereinte Verwaltung hat."&#xD;
+&#xD;
+Titel: "Das Barackenlager bei Berlin vom Kreuzberge aus gesehen. / Nach der Natur aufgeommen von C. Wilberg." Bez. li. u. "X.A.v.R. BRENDAMOUR." Im Bild li.u. "C. Wilberg".&#xD;
+Erworben 2012 (Nachlass Hans-Werner Klünner).</lido:descriptiveNoteValue>
+               <lido:sourceDescriptiveNote>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:sourceDescriptiveNote>
+            </lido:objectDescriptionSet>
+         </lido:objectDescriptionWrap>
+         <lido:objectMeasurementsWrap>
+            <lido:objectMeasurementsSet>
+               <lido:displayObjectMeasurements>Blattgröße: Höhe 19,7 cm, Breite 28,4 cm ; Bildgröße (an den Ecken abgerundet): Höhe 17,3 cm, Breite 26,3 cm</lido:displayObjectMeasurements>
+               <lido:objectMeasurements/>
+            </lido:objectMeasurementsSet>
+         </lido:objectMeasurementsWrap>
+      </lido:objectIdentificationWrap>
+      <lido:eventWrap>
+         <lido:eventSet>
+            <lido:event>
+               <lido:eventType>
+                  <lido:conceptID lido:type="uri">https://event-types.museum-digital.org/19</lido:conceptID>
+                  <lido:term lido:addedSearchTerm="no">Gezeichnet</lido:term>
+               </lido:eventType>
+               <lido:eventActor>
+                  <lido:displayActorInRole>Christian Wilberg (1839-1882)</lido:displayActorInRole>
+                  <lido:actorInRole>
+                     <lido:actor>
+                        <lido:actorID lido:source="NDB/ADB" lido:type="uri">http://www.deutsche-biographie.de/sfz85492.html</lido:actorID>
+                        <lido:actorID lido:source="Wikipedia" lido:type="uri">https://sv.wikipedia.org/wiki/Christian_Wilberg</lido:actorID>
+                        <lido:actorID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/117377562</lido:actorID>
+                        <lido:actorID lido:source="rkd" lido:type="uri">https://rkd.nl/explore/artists/84443</lido:actorID>
+                        <lido:actorID lido:source="ulan" lido:type="uri">http://vocab.getty.edu/ulan/500407572</lido:actorID>
+                        <lido:actorID lido:source="viaf" lido:type="uri">https://viaf.org/viaf/3151594330005350717</lido:actorID>
+                        <lido:actorID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q876710</lido:actorID>
+                        <lido:actorID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/persinst/4969</lido:actorID>
+                        <lido:nameActorSet>
+                           <lido:appellationValue>Wilberg, Christian</lido:appellationValue>
+                           <lido:appellationValue xml:lang="de">Christian Wilberg</lido:appellationValue>
+                           <lido:appellationValue xml:lang="en">Christian Wilberg</lido:appellationValue>
+                           <lido:appellationValue xml:lang="es">Christian Wilberg</lido:appellationValue>
+                           <lido:appellationValue xml:lang="fr">Christian Wilberg</lido:appellationValue>
+                           <lido:appellationValue xml:lang="nl">Christian Wilberg</lido:appellationValue>
+                           <lido:appellationValue xml:lang="sv">Christian Wilberg</lido:appellationValue>
+                        </lido:nameActorSet>
+                        <lido:vitalDatesActor>
+                           <lido:earliestDate>1839</lido:earliestDate>
+                           <lido:latestDate>1882</lido:latestDate>
+                        </lido:vitalDatesActor>
+                     </lido:actor>
+                  </lido:actorInRole>
+               </lido:eventActor>
+               <lido:eventDate>
+                  <lido:displayDate>1870</lido:displayDate>
+                  <lido:displayDate xml:lang="ar">1870</lido:displayDate>
+                  <lido:displayDate xml:lang="de">1870</lido:displayDate>
+                  <lido:displayDate xml:lang="en">1870</lido:displayDate>
+                  <lido:displayDate xml:lang="es">1870</lido:displayDate>
+                  <lido:displayDate xml:lang="fa">1870</lido:displayDate>
+                  <lido:displayDate xml:lang="fr">1870</lido:displayDate>
+                  <lido:displayDate xml:lang="hu">1870</lido:displayDate>
+                  <lido:displayDate xml:lang="id">1870</lido:displayDate>
+                  <lido:displayDate xml:lang="it">1870</lido:displayDate>
+                  <lido:displayDate xml:lang="ja">1870年</lido:displayDate>
+                  <lido:displayDate xml:lang="ka">1870</lido:displayDate>
+                  <lido:displayDate xml:lang="ko">1870년</lido:displayDate>
+                  <lido:displayDate xml:lang="pl">1870</lido:displayDate>
+                  <lido:displayDate xml:lang="pt">1870</lido:displayDate>
+                  <lido:displayDate xml:lang="ro">1870</lido:displayDate>
+                  <lido:displayDate xml:lang="ru">1870</lido:displayDate>
+                  <lido:displayDate xml:lang="ta">1870</lido:displayDate>
+                  <lido:displayDate xml:lang="tl">1870</lido:displayDate>
+                  <lido:displayDate xml:lang="tr">1870</lido:displayDate>
+                  <lido:displayDate xml:lang="zh">1870年</lido:displayDate>
+                  <lido:date>
+                     <lido:earliestDate>1870</lido:earliestDate>
+                     <lido:latestDate>1870</lido:latestDate>
+                  </lido:date>
+               </lido:eventDate>
+            </lido:event>
+         </lido:eventSet>
+         <lido:eventSet>
+            <lido:event>
+               <lido:eventType>
+                  <lido:conceptID lido:type="uri">http://terminology.lido-schema.org/lido00003</lido:conceptID>
+                  <lido:term>Event (non-specified)</lido:term>
+               </lido:eventType>
+               <lido:eventMaterialsTech>
+                  <lido:displayMaterialsTech>Holzstich auf Maschinenpapier (Rückseite mit Text)</lido:displayMaterialsTech>
+               </lido:eventMaterialsTech>
+            </lido:event>
+         </lido:eventSet>
+      </lido:eventWrap>
+      <lido:objectRelationWrap>
+         <lido:subjectWrap>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectPlace>
+                     <lido:displayPlace>Berlin-Tempelhof</lido:displayPlace>
+                     <lido:displayPlace xml:lang="da">Berlin-Tempelhof</lido:displayPlace>
+                     <lido:displayPlace xml:lang="de">Berlin-Tempelhof</lido:displayPlace>
+                     <lido:displayPlace xml:lang="el">Τέμπελχοφ</lido:displayPlace>
+                     <lido:displayPlace xml:lang="en">Berlin-Tempelhof</lido:displayPlace>
+                     <lido:displayPlace xml:lang="fa">تمپلهوف</lido:displayPlace>
+                     <lido:displayPlace xml:lang="fi">Tempelhof</lido:displayPlace>
+                     <lido:displayPlace xml:lang="fr">Berlin-Tempelhof</lido:displayPlace>
+                     <lido:displayPlace xml:lang="he">טמפלהוף</lido:displayPlace>
+                     <lido:displayPlace xml:lang="id">Berlin-Tempelhof</lido:displayPlace>
+                     <lido:displayPlace xml:lang="it">Tempelhof</lido:displayPlace>
+                     <lido:displayPlace xml:lang="nl">Berlin-Tempelhof</lido:displayPlace>
+                     <lido:displayPlace xml:lang="pl">Tempelhof</lido:displayPlace>
+                     <lido:displayPlace xml:lang="pt">Tempelhof</lido:displayPlace>
+                     <lido:displayPlace xml:lang="ro">Tempelhof</lido:displayPlace>
+                     <lido:displayPlace xml:lang="ru">Темпельхоф</lido:displayPlace>
+                     <lido:displayPlace xml:lang="sv">Tempelhof</lido:displayPlace>
+                     <lido:displayPlace xml:lang="zh">滕珀爾霍夫</lido:displayPlace>
+                     <lido:place>
+                        <lido:placeID lido:source="geonames" lido:type="uri">https://sws.geonames.org/2823538</lido:placeID>
+                        <lido:placeID lido:source="TGN" lido:type="uri">http://vocab.getty.edu/tgn/1005725</lido:placeID>
+                        <lido:placeID lido:source="gnd" lido:type="uri">http://d-nb.info/gnd/2004197-4</lido:placeID>
+                        <lido:placeID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q363830</lido:placeID>
+                        <lido:placeID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/place/777</lido:placeID>
+                        <lido:namePlaceSet>
+                           <lido:appellationValue>Berlin-Tempelhof</lido:appellationValue>
+                           <lido:appellationValue xml:lang="da">Berlin-Tempelhof</lido:appellationValue>
+                           <lido:appellationValue xml:lang="de">Berlin-Tempelhof</lido:appellationValue>
+                           <lido:appellationValue xml:lang="el">Τέμπελχοφ</lido:appellationValue>
+                           <lido:appellationValue xml:lang="en">Berlin-Tempelhof</lido:appellationValue>
+                           <lido:appellationValue xml:lang="fa">تمپلهوف</lido:appellationValue>
+                           <lido:appellationValue xml:lang="fi">Tempelhof</lido:appellationValue>
+                           <lido:appellationValue xml:lang="fr">Berlin-Tempelhof</lido:appellationValue>
+                           <lido:appellationValue xml:lang="he">טמפלהוף</lido:appellationValue>
+                           <lido:appellationValue xml:lang="id">Berlin-Tempelhof</lido:appellationValue>
+                           <lido:appellationValue xml:lang="it">Tempelhof</lido:appellationValue>
+                           <lido:appellationValue xml:lang="nl">Berlin-Tempelhof</lido:appellationValue>
+                           <lido:appellationValue xml:lang="pl">Tempelhof</lido:appellationValue>
+                           <lido:appellationValue xml:lang="pt">Tempelhof</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ro">Tempelhof</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ru">Темпельхоф</lido:appellationValue>
+                           <lido:appellationValue xml:lang="sv">Tempelhof</lido:appellationValue>
+                           <lido:appellationValue xml:lang="zh">滕珀爾霍夫</lido:appellationValue>
+                        </lido:namePlaceSet>
+                        <lido:gml>
+                           <gml:Point xmlns:gml="http://www.opengis.net/gml" srsName="EPSG:4326">
+                              <gml:pos>52.466701507568 13.383299827576</gml:pos>
+                           </gml:Point>
+                        </lido:gml>
+                     </lido:place>
+                  </lido:subjectPlace>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="aat" lido:type="uri">http://vocab.getty.edu/aat/300055314</lido:conceptID>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4033114-3</lido:conceptID>
+                     <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh85145114</lido:conceptID>
+                     <lido:conceptID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q198</lido:conceptID>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Krieg</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/1520</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Krieg</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ar">حرب</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="bn">যুদ্ধ</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="cs">Válka</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="da">Krig</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="de">Krieg</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="el">πόλεμος</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="en">War</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="es">Guerra</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fa">جنگ</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fi">Sota</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fr">Guerre</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="he">מלחמה</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hi">संग्राम</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hu">háború</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="id">Perang</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="it">Guerra</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ja">戦争</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ka">ომი</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ko">전쟁</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="nl">Oorlog</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pl">Wojna</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pt">Guerra</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ro">război</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ru">война</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sv">Krig</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sw">Vita</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ta">போர்</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="th">สงคราม</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tl">Digmaan</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tr">Savaş</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ur">جنگ</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="vi">chiến tranh</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="zh">戰爭</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/20158</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Rotes Kreuz</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">http://d-nb.info/gnd/4125574-4</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/20323</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Lager</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">http://d-nb.info/gnd/4315480-3</lido:conceptID>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Baracke</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/27800</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Baracke</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/75747</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Verwundete</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+         </lido:subjectWrap>
+         <lido:relatedWorksWrap>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:displayObject>Die Zeitschrift Gartenlaube auch als Digitalisat online:</lido:displayObject>
+                  <lido:object>
+                     <lido:objectWebResource>https://de.wikisource.org/wiki/Die_Gartenlaube_(1870)/Heft_42).</lido:objectWebResource>
+                  </lido:object>
+               </lido:relatedWork>
+            </lido:relatedWorkSet>
+         </lido:relatedWorksWrap>
+      </lido:objectRelationWrap>
+   </lido:descriptiveMetadata>
+   <lido:administrativeMetadata xml:lang="de">
+      <lido:rightsWorkWrap>
+         <lido:rightsWorkSet>
+            <lido:rightsHolder>
+               <lido:legalBodyName>
+                  <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:rightsHolder>
+         </lido:rightsWorkSet>
+      </lido:rightsWorkWrap>
+      <lido:recordWrap>
+         <lido:recordID lido:type="museum-digital">67188</lido:recordID>
+         <lido:recordType>
+            <lido:term lido:addedSearchTerm="no">item</lido:term>
+         </lido:recordType>
+         <lido:recordSource lido:type="dataProvider">
+            <lido:legalBodyName>
+               <lido:appellationValue>museum-digital</lido:appellationValue>
+            </lido:legalBodyName>
+            <lido:legalBodyWeblink>https://berlin.museum-digital.de/</lido:legalBodyWeblink>
+         </lido:recordSource>
+         <lido:recordSource>
+            <lido:legalBodyID lido:type="isil">DE-B185</lido:legalBodyID>
+            <lido:legalBodyName>
+               <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+            </lido:legalBodyName>
+         </lido:recordSource>
+         <lido:recordRights>
+            <lido:rightsType>
+               <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no">CC BY</lido:term>
+            </lido:rightsType>
+            <lido:rightsHolder>
+               <lido:legalBodyID lido:type="isil">DE-B185</lido:legalBodyID>
+               <lido:legalBodyName>
+                  <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+               </lido:legalBodyName>
+               <lido:legalBodyWeblink>http://geschichte-brandenburg.de/</lido:legalBodyWeblink>
+            </lido:rightsHolder>
+            <lido:creditLine>Förderprogramm zur Digitalisierung von Objekten des kulturellen Erbes des Landes Berlin</lido:creditLine>
+         </lido:recordRights>
+         <lido:recordInfoSet>
+            <lido:recordInfoLink>https://berlin.museum-digital.de/index.php?t=objekt&amp;oges=67188</lido:recordInfoLink>
+            <lido:recordMetadataDate>2021-04-27 07:59:53</lido:recordMetadataDate>
+         </lido:recordInfoSet>
+      </lido:recordWrap>
+      <lido:resourceWrap>
+         <lido:resourceSet lido:sortorder="1">
+            <lido:resourceID lido:source="image" lido:type="local">48771</lido:resourceID>
+            <lido:resourceRepresentation lido:type="masterfile">
+               <lido:linkResource lido:formatResource="image/tiff"/>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_thumb">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/202007/100h_berlin-kreuzberg-blick-auf-das-barackenlager-des-lazaretts-auf-dem-tempelhofer-feld-67188.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_preview">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/202007/200w_berlin-kreuzberg-blick-auf-das-barackenlager-des-lazaretts-auf-dem-tempelhofer-feld-67188.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/202007/berlin-kreuzberg-blick-auf-das-barackenlager-des-lazaretts-auf-dem-tempelhofer-feld-67188.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceType>
+               <lido:term lido:addedSearchTerm="no">image</lido:term>
+            </lido:resourceType>
+            <lido:resourceRelType>
+               <lido:term lido:addedSearchTerm="no">Hauptansicht</lido:term>
+            </lido:resourceRelType>
+            <lido:resourceDescription>Berlin-Kreuzberg: Blick auf das Barackenlager des Lazaretts auf dem Tempelhofer Feld</lido:resourceDescription>
+            <lido:resourceSource lido:type="creator">
+               <lido:legalBodyName>
+                  <lido:appellationValue>Thomas Voßbeck, 2020</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:resourceSource>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+                  <lido:term lido:addedSearchTerm="no">CC BY</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V.</lido:appellationValue>
+                  </lido:legalBodyName>
+               </lido:rightsHolder>
+               <lido:creditLine>Thomas Voßbeck, 2020</lido:creditLine>
+            </lido:rightsResource>
+         </lido:resourceSet>
+      </lido:resourceWrap>
+   </lido:administrativeMetadata>
+</lido:lido>
+

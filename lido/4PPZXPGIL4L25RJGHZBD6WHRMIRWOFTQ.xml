@@ -1,0 +1,402 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lido:lido xmlns:lido="http://www.lido-schema.org"
+           xmlns:xalan="http://xml.apache.org/xalan">
+   <lido:lidoRecID lido:source="https://berlin.museum-digital.de/index.php?t=institution&amp;instnr=32"
+                   lido:type="local">DE-B185/66837</lido:lidoRecID>
+   <lido:category/>
+   <lido:descriptiveMetadata xml:lang="de">
+      <lido:objectClassificationWrap>
+         <lido:objectWorkTypeWrap>
+            <lido:objectWorkType>
+               <lido:conceptID lido:source="gnd" lido:type="uri">http://d-nb.info/gnd/4021845-4</lido:conceptID>
+               <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/13314</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Druckgraphik</lido:term>
+            </lido:objectWorkType>
+         </lido:objectWorkTypeWrap>
+         <lido:classificationWrap>
+            <lido:classification lido:type="Sammlung">
+               <lido:conceptID lido:source="local" lido:type="collection_id">705</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Handzeichnungen, Druckgraphik, Gemälde</lido:term>
+            </lido:classification>
+            <lido:classification lido:type="Sammlung">
+               <lido:conceptID lido:source="local" lido:type="collection_id">706</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Ansichten</lido:term>
+            </lido:classification>
+            <lido:classification lido:type="Sammlung">
+               <lido:conceptID lido:source="local" lido:type="collection_id">709</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Sonstige Länder</lido:term>
+            </lido:classification>
+         </lido:classificationWrap>
+      </lido:objectClassificationWrap>
+      <lido:objectIdentificationWrap>
+         <lido:titleWrap>
+            <lido:titleSet>
+               <lido:appellationValue lido:pref="preferred">Weimar: Schillerhaus (Schillerstraße 12), Friedrich von Schillers Arbeits- und Sterbezimmer</lido:appellationValue>
+            </lido:titleSet>
+         </lido:titleWrap>
+         <lido:repositoryWrap>
+            <lido:repositorySet lido:type="current">
+               <lido:repositoryName>
+                  <lido:legalBodyID lido:type="isil">DE-B185</lido:legalBodyID>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+                  </lido:legalBodyName>
+                  <lido:legalBodyWeblink>http://geschichte-brandenburg.de/</lido:legalBodyWeblink>
+               </lido:repositoryName>
+               <lido:workID lido:type="inventory number">LGV-Archiv, B 22-08</lido:workID>
+               <lido:repositoryLocation>
+                  <lido:namePlaceSet>
+                     <lido:appellationValue>Berlin</lido:appellationValue>
+                  </lido:namePlaceSet>
+                  <lido:gml>
+                     <gml:Point xmlns:gml="http://www.opengis.net/gml" srsName="EPSG:4326">
+                        <gml:pos>52.51533127 13.40440559</gml:pos>
+                     </gml:Point>
+                  </lido:gml>
+               </lido:repositoryLocation>
+            </lido:repositorySet>
+         </lido:repositoryWrap>
+         <lido:objectDescriptionWrap>
+            <lido:objectDescriptionSet>
+               <lido:descriptiveNoteValue>Die kleine Innenraumansicht ist im Nachlass des Fontane-Forschers Dr. Hermann Fricke (1895-1982) überliefert und stammt wohl aus der Mitte des 19. Jahrhunderts, als das Bürgertum Darstellungen von Goethes und Schillers privatem Lebensumfeld zu den bildungsbürgerlichen Ikonen zählte. Eine entsprechende bürgertumsinterne Nutzung zu Kommunikationszwecken in der Zeit des eben gegründeten Kaiserreichs offenbart die Rückseite, die das aufgeklebte Blatt zu einem Gruß-Billet macht: "Aus dem Thüringerwald / senden die herzlichsten / Grüße und Glückwünsche / zum 20 August 1871 / an die hochverehrte / Frau Chevaliere / Friede [von anderen Händen eigenhändig gez.:] Robert Eggers, genannt Räbing[?] / Otto Foersterling". So dürfte sich auch das Interesse Frickes an diesem Billet erklären, denn die Personen lassen sich wohl zumindest indirekt mit dem Berliner literarisch-geselligen Zirkel "Tunnel über der Spree" bzw. dessen Seitentrieben "Ellora" und "Rytly" in Verbindung bringen, mit denen sich Fricke befasst hat, da auch Fontane ihnen angehörte. "Chevalier" war der Rytly-Name des Juristen Dr. Carl Zöllner (1821-1897), "Chevaliere" nannte man dementsprechend dessen Frau Emilie geb. Timm (1828-um 1919), die also die Adressatin des Billets sein dürfte (vgl. ihr Porträt. Ob Robert Eggers ein weiterer Bruder des Rytly-"Anakreon" Friedrich Eggers (1819-1872) und dessen Bruders Karl Eggers (1826-1900) ("Barkhusen") war, bleibt freilich ungewiss, ebenso, ob die zweite unterzeichnende Person mit dem aus Berlin stammenden Maler Otto Försterling (1843-1904) identisch ist.&#xD;
+&#xD;
+Literatur: Hermann Fricke: Die Ellora und das Rytly. Zwei Seitentriebe des Tunnel über der Spree. In: Jahrbuch für brandenburgische Landesgeschichte 7 (1956), S. 19-24. - Liselott Ziegert-Hackbarth: Emilie Zöllner - die "Chevalière" aus Fontanes Freundeskreis. In: Jahrbuch für brandenburgische Landesgeschichte 15 (1964), S. 157-160, Abb. S. 157. Ergänzung dazu in: Landesgeschichtliche Vereinigung für die Mark Brandenburg. Mitteilungsblatt, Nr. 48 (1965), S. 390-391.</lido:descriptiveNoteValue>
+               <lido:sourceDescriptiveNote>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:sourceDescriptiveNote>
+            </lido:objectDescriptionSet>
+         </lido:objectDescriptionWrap>
+         <lido:objectMeasurementsWrap>
+            <lido:objectMeasurementsSet>
+               <lido:displayObjectMeasurements>Bildgröße: Höhe 4,8 cm, Breite 7,6 cm, aufgeklebt auf Karton Höhe 7,8 cm, Breite 12,2 cm</lido:displayObjectMeasurements>
+               <lido:objectMeasurements/>
+            </lido:objectMeasurementsSet>
+         </lido:objectMeasurementsWrap>
+      </lido:objectIdentificationWrap>
+      <lido:eventWrap>
+         <lido:eventSet>
+            <lido:event>
+               <lido:eventType>
+                  <lido:conceptID lido:type="uri">https://event-types.museum-digital.org/1</lido:conceptID>
+                  <lido:term lido:addedSearchTerm="no">Hergestellt</lido:term>
+               </lido:eventType>
+               <lido:eventDate>
+                  <lido:displayDate>1871 (wahrscheinlich)</lido:displayDate>
+                  <lido:displayDate xml:lang="ar">1871</lido:displayDate>
+                  <lido:displayDate xml:lang="de">1871</lido:displayDate>
+                  <lido:displayDate xml:lang="en">1871</lido:displayDate>
+                  <lido:displayDate xml:lang="es">1871</lido:displayDate>
+                  <lido:displayDate xml:lang="fa">1871</lido:displayDate>
+                  <lido:displayDate xml:lang="fr">1871</lido:displayDate>
+                  <lido:displayDate xml:lang="hu">1871</lido:displayDate>
+                  <lido:displayDate xml:lang="id">1871</lido:displayDate>
+                  <lido:displayDate xml:lang="it">1871</lido:displayDate>
+                  <lido:displayDate xml:lang="ja">1871年</lido:displayDate>
+                  <lido:displayDate xml:lang="ka">1871</lido:displayDate>
+                  <lido:displayDate xml:lang="ko">1871년</lido:displayDate>
+                  <lido:displayDate xml:lang="pl">1871</lido:displayDate>
+                  <lido:displayDate xml:lang="pt">1871</lido:displayDate>
+                  <lido:displayDate xml:lang="ro">1871</lido:displayDate>
+                  <lido:displayDate xml:lang="ru">1871</lido:displayDate>
+                  <lido:displayDate xml:lang="ta">1871</lido:displayDate>
+                  <lido:displayDate xml:lang="tl">1871</lido:displayDate>
+                  <lido:displayDate xml:lang="tr">1871</lido:displayDate>
+                  <lido:displayDate xml:lang="zh">1871年</lido:displayDate>
+                  <lido:date>
+                     <lido:earliestDate>1871</lido:earliestDate>
+                     <lido:latestDate>1871</lido:latestDate>
+                  </lido:date>
+               </lido:eventDate>
+            </lido:event>
+         </lido:eventSet>
+         <lido:eventSet>
+            <lido:event>
+               <lido:eventType>
+                  <lido:conceptID lido:type="uri">http://terminology.lido-schema.org/lido00003</lido:conceptID>
+                  <lido:term>Event (non-specified)</lido:term>
+               </lido:eventType>
+               <lido:eventMaterialsTech>
+                  <lido:displayMaterialsTech>Federlithographie, koloriert</lido:displayMaterialsTech>
+               </lido:eventMaterialsTech>
+            </lido:event>
+         </lido:eventSet>
+      </lido:eventWrap>
+      <lido:objectRelationWrap>
+         <lido:subjectWrap>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectPlace>
+                     <lido:displayPlace>Weimar</lido:displayPlace>
+                     <lido:displayPlace xml:lang="ar">فايمار</lido:displayPlace>
+                     <lido:displayPlace xml:lang="cs">Výmar</lido:displayPlace>
+                     <lido:displayPlace xml:lang="da">Weimar</lido:displayPlace>
+                     <lido:displayPlace xml:lang="de">Weimar</lido:displayPlace>
+                     <lido:displayPlace xml:lang="el">Βαϊμάρη</lido:displayPlace>
+                     <lido:displayPlace xml:lang="en">Weimar</lido:displayPlace>
+                     <lido:displayPlace xml:lang="es">Weimar</lido:displayPlace>
+                     <lido:displayPlace xml:lang="fa">وایمار</lido:displayPlace>
+                     <lido:displayPlace xml:lang="fi">Weimar</lido:displayPlace>
+                     <lido:displayPlace xml:lang="fr">Weimar</lido:displayPlace>
+                     <lido:displayPlace xml:lang="he">ויימאר</lido:displayPlace>
+                     <lido:displayPlace xml:lang="hi">वाइमर</lido:displayPlace>
+                     <lido:displayPlace xml:lang="hu">Weimar</lido:displayPlace>
+                     <lido:displayPlace xml:lang="id">Weimar</lido:displayPlace>
+                     <lido:displayPlace xml:lang="it">Weimar</lido:displayPlace>
+                     <lido:displayPlace xml:lang="ja">ヴァイマル</lido:displayPlace>
+                     <lido:displayPlace xml:lang="ka">ვაიმარი</lido:displayPlace>
+                     <lido:displayPlace xml:lang="ko">바이마르</lido:displayPlace>
+                     <lido:displayPlace xml:lang="nl">Weimar</lido:displayPlace>
+                     <lido:displayPlace xml:lang="pl">Weimar</lido:displayPlace>
+                     <lido:displayPlace xml:lang="pt">Weimar</lido:displayPlace>
+                     <lido:displayPlace xml:lang="ru">Веймар</lido:displayPlace>
+                     <lido:displayPlace xml:lang="sv">Weimar</lido:displayPlace>
+                     <lido:displayPlace xml:lang="sw">Weimar</lido:displayPlace>
+                     <lido:displayPlace xml:lang="th">ไวมาร์</lido:displayPlace>
+                     <lido:displayPlace xml:lang="tr">Weimar</lido:displayPlace>
+                     <lido:displayPlace xml:lang="ur">وایمار</lido:displayPlace>
+                     <lido:displayPlace xml:lang="vi">Weimar</lido:displayPlace>
+                     <lido:displayPlace xml:lang="zh">魏玛</lido:displayPlace>
+                     <lido:place>
+                        <lido:placeID lido:source="geonames" lido:type="uri">https://sws.geonames.org/2812482</lido:placeID>
+                        <lido:placeID lido:source="TGN" lido:type="uri">http://vocab.getty.edu/tgn/7012886</lido:placeID>
+                        <lido:placeID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4065105-8</lido:placeID>
+                        <lido:placeID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q3955</lido:placeID>
+                        <lido:placeID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/place/88</lido:placeID>
+                        <lido:namePlaceSet>
+                           <lido:appellationValue>Weimar</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ar">فايمار</lido:appellationValue>
+                           <lido:appellationValue xml:lang="cs">Výmar</lido:appellationValue>
+                           <lido:appellationValue xml:lang="da">Weimar</lido:appellationValue>
+                           <lido:appellationValue xml:lang="de">Weimar</lido:appellationValue>
+                           <lido:appellationValue xml:lang="el">Βαϊμάρη</lido:appellationValue>
+                           <lido:appellationValue xml:lang="en">Weimar</lido:appellationValue>
+                           <lido:appellationValue xml:lang="es">Weimar</lido:appellationValue>
+                           <lido:appellationValue xml:lang="fa">وایمار</lido:appellationValue>
+                           <lido:appellationValue xml:lang="fi">Weimar</lido:appellationValue>
+                           <lido:appellationValue xml:lang="fr">Weimar</lido:appellationValue>
+                           <lido:appellationValue xml:lang="he">ויימאר</lido:appellationValue>
+                           <lido:appellationValue xml:lang="hi">वाइमर</lido:appellationValue>
+                           <lido:appellationValue xml:lang="hu">Weimar</lido:appellationValue>
+                           <lido:appellationValue xml:lang="id">Weimar</lido:appellationValue>
+                           <lido:appellationValue xml:lang="it">Weimar</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ja">ヴァイマル</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ka">ვაიმარი</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ko">바이마르</lido:appellationValue>
+                           <lido:appellationValue xml:lang="nl">Weimar</lido:appellationValue>
+                           <lido:appellationValue xml:lang="pl">Weimar</lido:appellationValue>
+                           <lido:appellationValue xml:lang="pt">Weimar</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ru">Веймар</lido:appellationValue>
+                           <lido:appellationValue xml:lang="sv">Weimar</lido:appellationValue>
+                           <lido:appellationValue xml:lang="sw">Weimar</lido:appellationValue>
+                           <lido:appellationValue xml:lang="th">ไวมาร์</lido:appellationValue>
+                           <lido:appellationValue xml:lang="tr">Weimar</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ur">وایمار</lido:appellationValue>
+                           <lido:appellationValue xml:lang="vi">Weimar</lido:appellationValue>
+                           <lido:appellationValue xml:lang="zh">魏玛</lido:appellationValue>
+                        </lido:namePlaceSet>
+                        <lido:gml>
+                           <gml:Point xmlns:gml="http://www.opengis.net/gml" srsName="EPSG:4326">
+                              <gml:pos>50.983333587646 11.316666603088</gml:pos>
+                           </gml:Point>
+                        </lido:gml>
+                     </lido:place>
+                  </lido:subjectPlace>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="aat" lido:type="uri">http://vocab.getty.edu/aat/300025513</lido:conceptID>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4436441-6</lido:conceptID>
+                     <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh85103733</lido:conceptID>
+                     <lido:conceptID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q1293108</lido:conceptID>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Dichter</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/879</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Dichter</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="de">Dichter</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="en">Poet</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="nl">dichter</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="aat" lido:type="uri">http://vocab.getty.edu/aat/300004064</lido:conceptID>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4066768-6</lido:conceptID>
+                     <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh85005908</lido:conceptID>
+                     <lido:conceptID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q188507</lido:conceptID>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Wohnung</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/8855</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Wohnung</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ar">شقة</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="cs">Byt</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="da">Lejlighed</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="de">Wohnung</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="el">διαμέρισμα</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="en">Apartment</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="es">Apartamento</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fa">آپارتمان</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fr">Appartement</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="he">דירה</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="id">Apartemen</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="it">Appartamento</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ja">アパート</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ka">ბინა</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ko">아파트</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="nl">Appartement</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pl">Mieszkanie</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pt">Apartamento</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ro">Apartament</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ru">квартира</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sv">Lägenhet</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ta">அடுக்குமாடி வீட்டுத்தொகுதி</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="th">อะพาร์ตเมนต์</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tr">Apartman</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ur">فلیٹ</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="vi">Chung cư</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="zh">公寓</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="aat" lido:type="uri">http://vocab.getty.edu/aat/300403901</lido:conceptID>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">http://d-nb.info/gnd/7786906-0</lido:conceptID>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">http://de.wikipedia.org/wiki/Sterbebett</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/15630</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Sterbebett</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+         </lido:subjectWrap>
+         <lido:relatedWorksWrap>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:displayObject/>
+               </lido:relatedWork>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:displayObject>Das Objekt hat eine Widmung an Emilie Zöllner.</lido:displayObject>
+                  <lido:object>
+                     <lido:objectWebResource>https://berlin.museum-digital.de/index.php?t=objekt&amp;oges=67207</lido:objectWebResource>
+                  </lido:object>
+               </lido:relatedWork>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:displayObject>Link auf Friedrich Eggers:</lido:displayObject>
+                  <lido:object>
+                     <lido:objectWebResource>https://de.wikipedia.org/wiki/Friedrich_Eggers</lido:objectWebResource>
+                  </lido:object>
+               </lido:relatedWork>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:displayObject>Link auf Karl Eggers:</lido:displayObject>
+                  <lido:object>
+                     <lido:objectWebResource>https://de.wikipedia.org/wiki/Karl_Eggers_(Schriftsteller)</lido:objectWebResource>
+                  </lido:object>
+               </lido:relatedWork>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:displayObject>Link auf Otto Försterling:</lido:displayObject>
+                  <lido:object>
+                     <lido:objectWebResource>https://de.wikipedia.org/wiki/Otto_F%C3%B6rsterling</lido:objectWebResource>
+                  </lido:object>
+               </lido:relatedWork>
+            </lido:relatedWorkSet>
+         </lido:relatedWorksWrap>
+      </lido:objectRelationWrap>
+   </lido:descriptiveMetadata>
+   <lido:administrativeMetadata xml:lang="de">
+      <lido:rightsWorkWrap>
+         <lido:rightsWorkSet>
+            <lido:rightsHolder>
+               <lido:legalBodyName>
+                  <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:rightsHolder>
+         </lido:rightsWorkSet>
+      </lido:rightsWorkWrap>
+      <lido:recordWrap>
+         <lido:recordID lido:type="museum-digital">66837</lido:recordID>
+         <lido:recordType>
+            <lido:term lido:addedSearchTerm="no">item</lido:term>
+         </lido:recordType>
+         <lido:recordSource lido:type="dataProvider">
+            <lido:legalBodyName>
+               <lido:appellationValue>museum-digital</lido:appellationValue>
+            </lido:legalBodyName>
+            <lido:legalBodyWeblink>https://berlin.museum-digital.de/</lido:legalBodyWeblink>
+         </lido:recordSource>
+         <lido:recordSource>
+            <lido:legalBodyID lido:type="isil">DE-B185</lido:legalBodyID>
+            <lido:legalBodyName>
+               <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+            </lido:legalBodyName>
+         </lido:recordSource>
+         <lido:recordRights>
+            <lido:rightsType>
+               <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no">CC BY</lido:term>
+            </lido:rightsType>
+            <lido:rightsHolder>
+               <lido:legalBodyID lido:type="isil">DE-B185</lido:legalBodyID>
+               <lido:legalBodyName>
+                  <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+               </lido:legalBodyName>
+               <lido:legalBodyWeblink>http://geschichte-brandenburg.de/</lido:legalBodyWeblink>
+            </lido:rightsHolder>
+            <lido:creditLine>Förderprogramm zur Digitalisierung von Objekten des kulturellen Erbes des Landes Berlin</lido:creditLine>
+         </lido:recordRights>
+         <lido:recordInfoSet>
+            <lido:recordInfoLink>https://berlin.museum-digital.de/index.php?t=objekt&amp;oges=66837</lido:recordInfoLink>
+            <lido:recordMetadataDate>2021-04-27 07:59:56</lido:recordMetadataDate>
+         </lido:recordInfoSet>
+      </lido:recordWrap>
+      <lido:resourceWrap>
+         <lido:resourceSet lido:sortorder="1">
+            <lido:resourceID lido:source="image" lido:type="local">48424</lido:resourceID>
+            <lido:resourceRepresentation lido:type="masterfile">
+               <lido:linkResource lido:formatResource="image/tiff"/>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_thumb">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/202007/100h_weimar-schillerhaus-schillerstraSse-12-friedrich-von-schillers-arbeits-und-sterbezimmer-66.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_preview">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/202007/200w_weimar-schillerhaus-schillerstraSse-12-friedrich-von-schillers-arbeits-und-sterbezimmer-66.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/202007/weimar-schillerhaus-schillerstraSse-12-friedrich-von-schillers-arbeits-und-sterbezimmer-66.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceType>
+               <lido:term lido:addedSearchTerm="no">image</lido:term>
+            </lido:resourceType>
+            <lido:resourceRelType>
+               <lido:term lido:addedSearchTerm="no">Hauptansicht</lido:term>
+            </lido:resourceRelType>
+            <lido:resourceDescription>Weimar: Schillerhaus (Schillerstraße 12), Friedrich von Schillers Arbeits- und Sterbezimmer</lido:resourceDescription>
+            <lido:resourceSource lido:type="creator">
+               <lido:legalBodyName>
+                  <lido:appellationValue>Thomas Voßbeck, 2020</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:resourceSource>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+                  <lido:term lido:addedSearchTerm="no">CC BY</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V.</lido:appellationValue>
+                  </lido:legalBodyName>
+               </lido:rightsHolder>
+               <lido:creditLine>Thomas Voßbeck, 2020</lido:creditLine>
+            </lido:rightsResource>
+         </lido:resourceSet>
+      </lido:resourceWrap>
+   </lido:administrativeMetadata>
+</lido:lido>
+

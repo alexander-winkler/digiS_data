@@ -1,0 +1,600 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lido:lido xmlns:lido="http://www.lido-schema.org"
+           xmlns:xalan="http://xml.apache.org/xalan">
+   <lido:lidoRecID lido:source="https://berlin.museum-digital.de/index.php?t=institution&amp;instnr=26"
+                   lido:type="local">ddb_oid1612959125221_66807</lido:lidoRecID>
+   <lido:descriptiveMetadata xml:lang="de">
+      <lido:objectClassificationWrap>
+         <lido:objectWorkTypeWrap>
+            <lido:objectWorkType>
+               <lido:term lido:addedSearchTerm="no">Planfilm-Negativ</lido:term>
+            </lido:objectWorkType>
+         </lido:objectWorkTypeWrap>
+         <lido:classificationWrap>
+            <lido:classification lido:type="Sammlung">
+               <lido:conceptID lido:source="local" lido:type="collection_id">604</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no">Kunstobjekte</lido:term>
+            </lido:classification>
+         </lido:classificationWrap>
+      </lido:objectClassificationWrap>
+      <lido:objectIdentificationWrap>
+         <lido:titleWrap>
+            <lido:titleSet>
+               <lido:appellationValue lido:pref="preferred">Fotografie Briefmarke von Eva Schwimmer (1901-1986) (1)</lido:appellationValue>
+            </lido:titleSet>
+         </lido:titleWrap>
+         <lido:repositoryWrap>
+            <lido:repositorySet lido:type="current">
+               <lido:repositoryName>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Gerda Schimpf Fotoarchiv</lido:appellationValue>
+                  </lido:legalBodyName>
+                  <lido:legalBodyWeblink>https://gerda-schimpf-fotoarchiv.com</lido:legalBodyWeblink>
+               </lido:repositoryName>
+               <lido:workID lido:type="inventory number">5026a</lido:workID>
+               <lido:repositoryLocation>
+                  <lido:namePlaceSet>
+                     <lido:appellationValue>Berlin</lido:appellationValue>
+                  </lido:namePlaceSet>
+                  <lido:gml/>
+               </lido:repositoryLocation>
+            </lido:repositorySet>
+         </lido:repositoryWrap>
+         <lido:objectDescriptionWrap>
+            <lido:objectDescriptionSet>
+               <lido:descriptiveNoteValue>Schwarzweißfotografie, Repro, Briefmarke Miseror 1963, 20 Pfennige, 1963&lt;br&gt;
+&lt;br&gt;
+Ein dunkler Rahmen in dem sich die Briefmarke in einer Art Sonderdruck, mit weißem breitem Rand befindet. &lt;br&gt;
+Zu sehen ist darauf eine Grafik. Motiv: der Heilige Martin, mit seinem Schwert, mit dem er seinen Mantel geteilt und einem nackten Mann die eine Hälfte gereicht hat, der sich darin einhüllt. Im Hintergrund das Pferd des Heiligen und ein Ölbaum. Im Vordergrund eine weiße Taube.&lt;br&gt;
+&lt;br&gt;
+Ch. K.</lido:descriptiveNoteValue>
+               <lido:sourceDescriptiveNote>Gerda Schimpf Fotoarchiv</lido:sourceDescriptiveNote>
+            </lido:objectDescriptionSet>
+         </lido:objectDescriptionWrap>
+         <lido:objectMeasurementsWrap>
+            <lido:objectMeasurementsSet>
+               <lido:displayObjectMeasurements>Höhe: 9 cm, Breite: 12 cm</lido:displayObjectMeasurements>
+               <lido:objectMeasurements>
+                  <lido:measurementsSet>
+                     <lido:measurementType>width</lido:measurementType>
+                     <lido:measurementUnit>cm</lido:measurementUnit>
+                     <lido:measurementValue>12</lido:measurementValue>
+                  </lido:measurementsSet>
+                  <lido:measurementsSet>
+                     <lido:measurementType>height</lido:measurementType>
+                     <lido:measurementUnit>cm</lido:measurementUnit>
+                     <lido:measurementValue>9</lido:measurementValue>
+                  </lido:measurementsSet>
+               </lido:objectMeasurements>
+            </lido:objectMeasurementsSet>
+         </lido:objectMeasurementsWrap>
+      </lido:objectIdentificationWrap>
+      <lido:eventWrap>
+         <lido:eventSet>
+            <lido:displayEvent>Aufgenommen</lido:displayEvent>
+            <lido:event>
+               <lido:eventID lido:type="local">165470</lido:eventID>
+               <lido:eventType>
+                  <lido:conceptID lido:type="uri">https://event-types.museum-digital.org/10</lido:conceptID>
+                  <lido:term lido:addedSearchTerm="no">Aufgenommen</lido:term>
+               </lido:eventType>
+               <lido:eventActor>
+                  <lido:displayActorInRole>Gerda Schimpf (1913-2014)</lido:displayActorInRole>
+                  <lido:actorInRole>
+                     <lido:actor>
+                        <lido:actorID lido:source="gnd" lido:type="uri">http://d-nb.info/gnd/1131575903</lido:actorID>
+                        <lido:actorID lido:source="viaf" lido:type="uri">https://viaf.org/viaf/2653149489090493810007</lido:actorID>
+                        <lido:actorID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/persinst/42576</lido:actorID>
+                        <lido:nameActorSet>
+                           <lido:appellationValue>Schimpf, Gerda</lido:appellationValue>
+                        </lido:nameActorSet>
+                        <lido:vitalDatesActor>
+                           <lido:earliestDate>1913</lido:earliestDate>
+                           <lido:latestDate>2014</lido:latestDate>
+                        </lido:vitalDatesActor>
+                     </lido:actor>
+                  </lido:actorInRole>
+               </lido:eventActor>
+               <lido:eventDate>
+                  <lido:displayDate>1962</lido:displayDate>
+                  <lido:date>
+                     <lido:earliestDate>1962</lido:earliestDate>
+                     <lido:latestDate>1962</lido:latestDate>
+                  </lido:date>
+               </lido:eventDate>
+               <lido:eventPlace>
+                  <lido:displayPlace>Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ar">برلين</lido:displayPlace>
+                  <lido:displayPlace xml:lang="bn">বার্লিন</lido:displayPlace>
+                  <lido:displayPlace xml:lang="cs">Berlín</lido:displayPlace>
+                  <lido:displayPlace xml:lang="da">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="el">Βερολίνο</lido:displayPlace>
+                  <lido:displayPlace xml:lang="en">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="es">Berlín</lido:displayPlace>
+                  <lido:displayPlace xml:lang="fa">برلین</lido:displayPlace>
+                  <lido:displayPlace xml:lang="fi">Berliini</lido:displayPlace>
+                  <lido:displayPlace xml:lang="fr">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ha">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="he">ברלין</lido:displayPlace>
+                  <lido:displayPlace xml:lang="hi">बर्लिन</lido:displayPlace>
+                  <lido:displayPlace xml:lang="hu">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="id">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="it">Berlino</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ja">ベルリン</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ka">ბერლინი</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ko">베를린</lido:displayPlace>
+                  <lido:displayPlace xml:lang="nl">Berlijn</lido:displayPlace>
+                  <lido:displayPlace xml:lang="pl">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="pt">Berlim</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ro">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ru">Берлин</lido:displayPlace>
+                  <lido:displayPlace xml:lang="sv">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="sw">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ta">பெர்லின்</lido:displayPlace>
+                  <lido:displayPlace xml:lang="th">เบอร์ลิน</lido:displayPlace>
+                  <lido:displayPlace xml:lang="tl">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="tr">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ur">برلن</lido:displayPlace>
+                  <lido:displayPlace xml:lang="vi">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="zh">柏林</lido:displayPlace>
+                  <lido:place>
+                     <lido:placeID lido:source="geonames" lido:type="uri">https://sws.geonames.org/2950159</lido:placeID>
+                     <lido:placeID lido:source="TGN" lido:type="uri">http://vocab.getty.edu/tgn/7209904</lido:placeID>
+                     <lido:placeID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4005728-8</lido:placeID>
+                     <lido:placeID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q64</lido:placeID>
+                     <lido:placeID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/place/61</lido:placeID>
+                     <lido:namePlaceSet>
+                        <lido:appellationValue>Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ar">برلين</lido:appellationValue>
+                        <lido:appellationValue xml:lang="bn">বার্লিন</lido:appellationValue>
+                        <lido:appellationValue xml:lang="cs">Berlín</lido:appellationValue>
+                        <lido:appellationValue xml:lang="da">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="el">Βερολίνο</lido:appellationValue>
+                        <lido:appellationValue xml:lang="en">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="es">Berlín</lido:appellationValue>
+                        <lido:appellationValue xml:lang="fa">برلین</lido:appellationValue>
+                        <lido:appellationValue xml:lang="fi">Berliini</lido:appellationValue>
+                        <lido:appellationValue xml:lang="fr">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ha">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="he">ברלין</lido:appellationValue>
+                        <lido:appellationValue xml:lang="hi">बर्लिन</lido:appellationValue>
+                        <lido:appellationValue xml:lang="hu">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="id">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="it">Berlino</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ja">ベルリン</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ka">ბერლინი</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ko">베를린</lido:appellationValue>
+                        <lido:appellationValue xml:lang="nl">Berlijn</lido:appellationValue>
+                        <lido:appellationValue xml:lang="pl">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="pt">Berlim</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ro">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ru">Берлин</lido:appellationValue>
+                        <lido:appellationValue xml:lang="sv">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="sw">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ta">பெர்லின்</lido:appellationValue>
+                        <lido:appellationValue xml:lang="th">เบอร์ลิน</lido:appellationValue>
+                        <lido:appellationValue xml:lang="tl">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="tr">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ur">برلن</lido:appellationValue>
+                        <lido:appellationValue xml:lang="vi">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="zh">柏林</lido:appellationValue>
+                     </lido:namePlaceSet>
+                     <lido:gml/>
+                  </lido:place>
+               </lido:eventPlace>
+            </lido:event>
+         </lido:eventSet>
+         <lido:eventSet>
+            <lido:displayEvent>Gemalt</lido:displayEvent>
+            <lido:event>
+               <lido:eventID lido:type="local">169348</lido:eventID>
+               <lido:eventType>
+                  <lido:conceptID lido:type="uri">https://event-types.museum-digital.org/9</lido:conceptID>
+                  <lido:term lido:addedSearchTerm="no">Gemalt</lido:term>
+               </lido:eventType>
+               <lido:eventName>
+                  <lido:appellationValue>Gemalt --- Objekt 66807</lido:appellationValue>
+               </lido:eventName>
+               <lido:eventActor>
+                  <lido:displayActorInRole>Eva Schwimmer (1901-1986)</lido:displayActorInRole>
+                  <lido:actorInRole>
+                     <lido:actor>
+                        <lido:actorID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Eva_Schwimmer</lido:actorID>
+                        <lido:actorID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/124655947</lido:actorID>
+                        <lido:actorID lido:source="rkd" lido:type="uri">https://rkd.nl/explore/artists/327981</lido:actorID>
+                        <lido:actorID lido:source="viaf" lido:type="uri">https://viaf.org/viaf/49048479</lido:actorID>
+                        <lido:actorID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q15428707</lido:actorID>
+                        <lido:actorID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/persinst/126621</lido:actorID>
+                        <lido:nameActorSet>
+                           <lido:appellationValue>Schwimmer, Eva</lido:appellationValue>
+                           <lido:appellationValue xml:lang="da">Eva Schwimmer</lido:appellationValue>
+                           <lido:appellationValue xml:lang="en">Eva Schwimmer</lido:appellationValue>
+                           <lido:appellationValue xml:lang="nl">Eva Lizzie Toni Schwimmer</lido:appellationValue>
+                           <lido:appellationValue xml:lang="sv">Eva Schwimmer</lido:appellationValue>
+                        </lido:nameActorSet>
+                        <lido:vitalDatesActor>
+                           <lido:earliestDate>1901</lido:earliestDate>
+                           <lido:latestDate>1986</lido:latestDate>
+                        </lido:vitalDatesActor>
+                     </lido:actor>
+                  </lido:actorInRole>
+               </lido:eventActor>
+            </lido:event>
+         </lido:eventSet>
+         <lido:eventSet>
+            <lido:event>
+               <lido:eventType>
+                  <lido:conceptID lido:type="uri">http://terminology.lido-schema.org/lido00003</lido:conceptID>
+                  <lido:term>Event (non-specified)</lido:term>
+               </lido:eventType>
+               <lido:eventMaterialsTech>
+                  <lido:displayMaterialsTech>Negativfilm Zelluloseacetat</lido:displayMaterialsTech>
+               </lido:eventMaterialsTech>
+            </lido:event>
+         </lido:eventSet>
+      </lido:eventWrap>
+      <lido:objectRelationWrap>
+         <lido:subjectWrap>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectActor>
+                     <lido:displayActor>Martin (Heiliger) (316-397)</lido:displayActor>
+                     <lido:actor>
+                        <lido:actorID lido:source="bne" lido:type="uri">http://datos.bne.es/persona/XX867216</lido:actorID>
+                        <lido:actorID lido:source="bnf" lido:type="uri">https://catalogue.bnf.fr/ark:/12148/cb119423647</lido:actorID>
+                        <lido:actorID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/118578308</lido:actorID>
+                        <lido:actorID lido:source="loc" lido:type="uri">http://id.loc.gov/authorities/names/n50080635</lido:actorID>
+                        <lido:actorID lido:source="ulan" lido:type="uri">http://vocab.getty.edu/ulan/500357034</lido:actorID>
+                        <lido:actorID lido:source="viaf" lido:type="uri">https://viaf.org/viaf/73825464</lido:actorID>
+                        <lido:actorID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q133704</lido:actorID>
+                        <lido:actorID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Martin_von_Tours</lido:actorID>
+                        <lido:actorID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/persinst/126676</lido:actorID>
+                        <lido:nameActorSet>
+                           <lido:appellationValue>Martin (Heiliger)</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ar">مارتين التوروزي</lido:appellationValue>
+                           <lido:appellationValue xml:lang="cs">Martin z Tours</lido:appellationValue>
+                           <lido:appellationValue xml:lang="da">Sankt Morten</lido:appellationValue>
+                           <lido:appellationValue xml:lang="el">Μαρτίνος της Τουρ</lido:appellationValue>
+                           <lido:appellationValue xml:lang="en">Martin of Tours</lido:appellationValue>
+                           <lido:appellationValue xml:lang="es">Martín de Tours</lido:appellationValue>
+                           <lido:appellationValue xml:lang="fa">مارتین تور</lido:appellationValue>
+                           <lido:appellationValue xml:lang="fi">Martinus Toursilainen</lido:appellationValue>
+                           <lido:appellationValue xml:lang="fr">Martin de Tours</lido:appellationValue>
+                           <lido:appellationValue xml:lang="he">מרטין מטור</lido:appellationValue>
+                           <lido:appellationValue xml:lang="hu">Tours-i Szent Márton</lido:appellationValue>
+                           <lido:appellationValue xml:lang="id">Martinus dari Tours</lido:appellationValue>
+                           <lido:appellationValue xml:lang="it">Martino di Tours</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ja">トゥールのマルティヌス</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ka">მარტინე ტურელი</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ko">투르의 마르티누스</lido:appellationValue>
+                           <lido:appellationValue xml:lang="nl">Martinus van Tours</lido:appellationValue>
+                           <lido:appellationValue xml:lang="pl">Marcin z Tours</lido:appellationValue>
+                           <lido:appellationValue xml:lang="pt">Martinho de Tours</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ro">Martin de Tours</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ru">Мартин Турский</lido:appellationValue>
+                           <lido:appellationValue xml:lang="sv">Martin av Tours</lido:appellationValue>
+                           <lido:appellationValue xml:lang="sw">Martino wa Tours</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ta">மார்ட்டின்</lido:appellationValue>
+                           <lido:appellationValue xml:lang="th">มาร์แต็งแห่งตูร์</lido:appellationValue>
+                           <lido:appellationValue xml:lang="tr">Tourslu Martin</lido:appellationValue>
+                           <lido:appellationValue xml:lang="vi">Martino thành Tours</lido:appellationValue>
+                           <lido:appellationValue xml:lang="zh">都爾的瑪爾定</lido:appellationValue>
+                        </lido:nameActorSet>
+                        <lido:vitalDatesActor>
+                           <lido:earliestDate>316</lido:earliestDate>
+                           <lido:latestDate>397</lido:latestDate>
+                        </lido:vitalDatesActor>
+                     </lido:actor>
+                  </lido:subjectActor>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="aat" lido:type="uri">http://vocab.getty.edu/aat/300310553</lido:conceptID>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">http://d-nb.info/gnd/4059120-7</lido:conceptID>
+                     <lido:conceptID lido:source="iconclass" lido:type="uri">http://iconclass.org/rkd/25F39(DOVE)/</lido:conceptID>
+                     <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh85102085</lido:conceptID>
+                     <lido:conceptID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/w/index.php?search=&amp;search=Q10856</lido:conceptID>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">https://fr.wikipedia.org/wiki/Colombe</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/101</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Taube</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ar">حماميات</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="bn">কলাম্বিডি</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="cs">Holubovití</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="da">Due</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="el">Περιστερίδες</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="en">Columbidae</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="es">Columbidae</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fa">کبوتر</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fi">Kyyhky</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fr">Columbidae</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="he">יוניים</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hi">कबूतर</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hu">Galambfélék</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="id">Columbidae</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="it">Columbidae</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ja">ハト科</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ka">მტრედი</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ko">비둘기</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="nl">Duiven</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pl">Gołębiowate</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pt">Columbidae</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ru">голубиные</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sv">Duvor</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sw">Njiwa</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ta">புறா</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="th">วงศ์นกพิราบและนกเขา</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tl">Kalapati</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tr">Güvercingiller</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ur">کبوتر</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="vi">Họ Bồ câu</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="zh">鸠鸽科</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="aat" lido:type="uri">http://vocab.getty.edu/aat/300054216</lido:conceptID>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4037220-0</lido:conceptID>
+                     <lido:conceptID lido:source="iconclass" lido:type="uri">http://iconclass.org/rkd/48C51/</lido:conceptID>
+                     <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh85096661</lido:conceptID>
+                     <lido:conceptID lido:source="oberbegriffsdatei" lido:type="uri">https://term.museum-digital.de/oberbegriffsdatei/tag/7140</lido:conceptID>
+                     <lido:conceptID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q11629</lido:conceptID>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Malerei</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/106</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Malerei</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ar">تصوير</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="bn">চিত্রকলার শিল্প</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="cs">Malířství</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="da">Malerkunst</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="el">ζωγραφική</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="en">Art of painting</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="es">Pintura</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fa">نقاشی</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fi">Maalaustaide</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fr">Peinture</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="he">ציור</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hi">चित्रकला</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hu">festőművészet</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="id">Lukisan</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="it">Pittura</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ja">絵画</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ka">ფერწერა</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ko">회화</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="nl">Schilderkunst</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pl">Malarstwo</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pt">Pintura</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ro">pictură</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ru">живопись</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sv">Målarkonst</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sw">Uchoraji</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ta">ஓவியக் கலை</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="th">จิตรกรรม</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tl">Pagpinta</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tr">Resim</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ur">نقاشی</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="vi">hội họa</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="zh">绘画</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4021845-4</lido:conceptID>
+                     <lido:conceptID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q1027879</lido:conceptID>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">https://en.wikipedia.org/wiki/Graphics</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/145</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Grafik</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ar">رسوميات</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="bn">গ্রাফিক্স</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="cs">Grafika</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="el">Γραφικά</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="en">Graphics</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="es">Gráficos</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fa">ارتباط تصویری</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fr">Graphique</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="he">גרפיקה</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hi">चित्रालेख</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hu">Grafika</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="id">Grafika</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ja">グラフィック</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ka">გრაფიკა</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ko">그래픽</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="nl">Grafiek</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pl">Grafika</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pt">Gráfico</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ro">grafică</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ru">графика</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ta">வரைகலை</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tr">Grafik</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ur">تخطیط</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="zh">图形</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="aat" lido:type="uri">http://vocab.getty.edu/aat/300037048</lido:conceptID>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4053972-6</lido:conceptID>
+                     <lido:conceptID lido:source="grobsystematik" lido:type="uri">https://term.museum-digital.de/grobsystematik/tag/10989</lido:conceptID>
+                     <lido:conceptID lido:source="iconclass" lido:type="uri">http://iconclass.org/rkd/45C13(SWORD)/</lido:conceptID>
+                     <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh85131359</lido:conceptID>
+                     <lido:conceptID lido:source="oberbegriffsdatei" lido:type="uri">https://term.museum-digital.de/oberbegriffsdatei/tag/3101</lido:conceptID>
+                     <lido:conceptID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/w/index.php?search=&amp;search=Q12791</lido:conceptID>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Schwert</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/1512</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Schwert</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ar">سيف</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="bn">তরবারি</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="cs">Meč</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="da">Sværd</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="el">Ξίφος</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="en">Sword</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="es">Espada</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fa">شمشیر</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fi">Miekka</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fr">épée</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="he">חרב</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hi">तलवार</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hu">kard</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="id">Pedang</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="it">Spada</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ja">剣</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ka">ხმალი</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ko">검</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="nl">Zwaard</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pl">Miecz</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pt">Espada</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ro">spadă</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ru">меч</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sv">Svärd</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sw">Upanga</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ta">வாள்</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="th">ดาบ</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tl">Tabak</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tr">Kılıç</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ur">تلوار</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="vi">kiếm</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="zh">劍</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="aat" lido:type="uri">http://vocab.getty.edu/aat/300037321</lido:conceptID>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4008242-8</lido:conceptID>
+                     <lido:conceptID lido:source="grobsystematik" lido:type="uri">https://term.museum-digital.de/grobsystematik/tag/1422</lido:conceptID>
+                     <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh85105428</lido:conceptID>
+                     <lido:conceptID lido:source="oberbegriffsdatei" lido:type="uri">https://term.museum-digital.de/oberbegriffsdatei/tag/3839</lido:conceptID>
+                     <lido:conceptID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q37930</lido:conceptID>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Briefmarke</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/12749</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Briefmarke</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ar">طابع بريد</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="bn">ডাকটিকিট</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="cs">Poštovní známka</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="da">Frimærke</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="el">Γραμματόσημο</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="en">Postage stamp</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="es">Sello postal</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fa">تمبر</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fi">Postimerkki</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fr">Timbre postal</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="he">בול דואר</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hi">डाक टिकट</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hu">postabélyeg</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="id">Prangko</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="it">Francobollo</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ja">切手</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ka">საფოსტო მარკა</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ko">우표</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="nl">Postzegel</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pl">Znaczek pocztowy</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pt">Selo postal</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ro">Marcă poștală</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ru">почтовая марка</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sv">Frimärke</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sw">Stempu</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ta">அஞ்சற்றலை</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="th">แสตมป์</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tl">Selyo</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tr">Pul</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="vi">Tem thư</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="zh">邮票</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/76498</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Miseror</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+         </lido:subjectWrap>
+      </lido:objectRelationWrap>
+   </lido:descriptiveMetadata>
+   <lido:administrativeMetadata xml:lang="de">
+      <lido:rightsWorkWrap>
+         <lido:rightsWorkSet>
+            <lido:rightsHolder>
+               <lido:legalBodyName>
+                  <lido:appellationValue>Gerda Schimpf Fotoarchiv</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:rightsHolder>
+         </lido:rightsWorkSet>
+      </lido:rightsWorkWrap>
+      <lido:recordWrap>
+         <lido:recordID lido:type="museum-digital">66807</lido:recordID>
+         <lido:recordType>
+            <lido:term lido:addedSearchTerm="no">item</lido:term>
+         </lido:recordType>
+         <lido:recordSource lido:type="dataProvider">
+            <lido:legalBodyName>
+               <lido:appellationValue>museum-digital</lido:appellationValue>
+            </lido:legalBodyName>
+            <lido:legalBodyWeblink>https://berlin.museum-digital.de/</lido:legalBodyWeblink>
+         </lido:recordSource>
+         <lido:recordSource>
+            <lido:legalBodyName>
+               <lido:appellationValue>Gerda Schimpf Fotoarchiv</lido:appellationValue>
+            </lido:legalBodyName>
+         </lido:recordSource>
+         <lido:recordRights>
+            <lido:rightsType>
+               <lido:conceptID lido:type="uri">https://creativecommons.org/publicdomain/zero/1.0/</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no">CC 0</lido:term>
+            </lido:rightsType>
+            <lido:rightsHolder>
+               <lido:legalBodyName>
+                  <lido:appellationValue>Gerda Schimpf Fotoarchiv</lido:appellationValue>
+               </lido:legalBodyName>
+               <lido:legalBodyWeblink>https://gerda-schimpf-fotoarchiv.com</lido:legalBodyWeblink>
+            </lido:rightsHolder>
+            <lido:creditLine>Förderprogramm zur Digitalisierung von Objekten des kulturellen Erbes des Landes Berlin</lido:creditLine>
+         </lido:recordRights>
+         <lido:recordInfoSet>
+            <lido:recordInfoLink>https://berlin.museum-digital.de/index.php?t=objekt&amp;oges=66807</lido:recordInfoLink>
+            <lido:recordMetadataDate>2021-05-10 13:20:52</lido:recordMetadataDate>
+         </lido:recordInfoSet>
+      </lido:recordWrap>
+      <lido:resourceWrap>
+         <lido:resourceSet lido:sortorder="1">
+            <lido:resourceID lido:source="image" lido:type="local">64619</lido:resourceID>
+            <lido:resourceRepresentation lido:type="image_thumb">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/26/66807-5026a/fotografie_briefmarke_von/100h_fotografie-briefmarke-von-eva-schwimmer-1901-1986-1-66807.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_preview">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/26/66807-5026a/fotografie_briefmarke_von/200w_fotografie-briefmarke-von-eva-schwimmer-1901-1986-1-66807.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="Provided image">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/26/66807-5026a/fotografie_briefmarke_von/fotografie-briefmarke-von-eva-schwimmer-1901-1986-1-66807.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceType>
+               <lido:term lido:addedSearchTerm="no">image</lido:term>
+            </lido:resourceType>
+            <lido:resourceRelType>
+               <lido:term lido:addedSearchTerm="no">Hauptansicht</lido:term>
+            </lido:resourceRelType>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+                  <lido:term lido:addedSearchTerm="no">CC BY</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Gerda Schimpf Fotoarchiv</lido:appellationValue>
+                  </lido:legalBodyName>
+               </lido:rightsHolder>
+            </lido:rightsResource>
+         </lido:resourceSet>
+      </lido:resourceWrap>
+   </lido:administrativeMetadata>
+</lido:lido>
+

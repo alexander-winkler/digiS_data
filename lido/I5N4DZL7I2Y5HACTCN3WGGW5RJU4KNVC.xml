@@ -1,0 +1,410 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lido:lido xmlns:lido="http://www.lido-schema.org"
+           xmlns:xalan="http://xml.apache.org/xalan">
+   <lido:lidoRecID lido:source="https://berlin.museum-digital.de/index.php?t=institution&amp;instnr=32"
+                   lido:type="local">DE-B185/67397</lido:lidoRecID>
+   <lido:category/>
+   <lido:descriptiveMetadata xml:lang="de">
+      <lido:objectClassificationWrap>
+         <lido:objectWorkTypeWrap>
+            <lido:objectWorkType>
+               <lido:conceptID lido:source="gnd" lido:type="uri">http://d-nb.info/gnd/4067453-8</lido:conceptID>
+               <lido:conceptID lido:source="grobsystematik" lido:type="uri">https://term.museum-digital.de/grobsystematik/tag/14445</lido:conceptID>
+               <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh85039408</lido:conceptID>
+               <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/945</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Handzeichnung</lido:term>
+            </lido:objectWorkType>
+         </lido:objectWorkTypeWrap>
+         <lido:classificationWrap>
+            <lido:classification lido:type="Sammlung">
+               <lido:conceptID lido:source="local" lido:type="collection_id">705</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Handzeichnungen, Druckgraphik, Gemälde</lido:term>
+            </lido:classification>
+            <lido:classification lido:type="Sammlung">
+               <lido:conceptID lido:source="local" lido:type="collection_id">731</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Nachlässe</lido:term>
+            </lido:classification>
+            <lido:classification lido:type="Sammlung">
+               <lido:conceptID lido:source="local" lido:type="collection_id">738</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Familie von Bärensprung</lido:term>
+            </lido:classification>
+         </lido:classificationWrap>
+      </lido:objectClassificationWrap>
+      <lido:objectIdentificationWrap>
+         <lido:titleWrap>
+            <lido:titleSet>
+               <lido:appellationValue lido:pref="preferred">Baumstamm</lido:appellationValue>
+            </lido:titleSet>
+         </lido:titleWrap>
+         <lido:repositoryWrap>
+            <lido:repositorySet lido:type="current">
+               <lido:repositoryName>
+                  <lido:legalBodyID lido:type="isil">DE-B185</lido:legalBodyID>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+                  </lido:legalBodyName>
+                  <lido:legalBodyWeblink>http://geschichte-brandenburg.de/</lido:legalBodyWeblink>
+               </lido:repositoryName>
+               <lido:workID lido:type="inventory number">LGV-Archiv, C 04-0811, Bl. 19</lido:workID>
+               <lido:repositoryLocation>
+                  <lido:namePlaceSet>
+                     <lido:appellationValue>Berlin</lido:appellationValue>
+                  </lido:namePlaceSet>
+                  <lido:gml>
+                     <gml:Point xmlns:gml="http://www.opengis.net/gml" srsName="EPSG:4326">
+                        <gml:pos>52.51533127 13.40440559</gml:pos>
+                     </gml:Point>
+                  </lido:gml>
+               </lido:repositoryLocation>
+            </lido:repositorySet>
+         </lido:repositoryWrap>
+         <lido:objectDescriptionWrap>
+            <lido:objectDescriptionSet>
+               <lido:descriptiveNoteValue>Der achtzehnjährige Student Carl von Bärensprung verfasste 1793 einen Übungsaufsatz "Ausrechnung eines gefällten Baues, wie viel Schuhe sein Inhalt beträgt." (Bl. 18-21). Der Aufsatz inklusive der integrierten Zeichnung (Bl. 19r) ist am Ende (Bl. 21r unten) unterzeichnet und datiert "v. Barensprung. / 1793." Er wurde offenbar dem Vater nach Berlin übersandt.
+Es handelt sich bei dem Zeichner um den späteren (1790 mit dem Vater geadelten) Könglich preußischen Geheimen Regierungsrat Karl von Bärensprung (1775-1842), der 1793-1795 im (Neustadt benachbarten! ) Erlangen Jura studierte und, nach kurzem Aufenthalt an der Universität Halle (1795), im Laufe seiner 1795 begonnenen Karriere als preußischer höherer Verwaltungsbeamter mit den Stationen Berlin, Heiligenstadt bzw. Erfurt und Königsberg zuletzt bei der Preußischen Regierung in Frankfurt (Oder) tätig war (Straubel, S. 35). Nur am Rande sei bemerkt, dass Carls als Finanzrat im Generaldirektorium in Berlin tätiger Vater Johann George Wilhelm (1741-1803) in den frühen neunziger Jahren von Berlin aus die Übernahme der Fürstentümer Ansbach und Bayreuth koordinierte, 1791 die Konvention über die Abtretung an Preußen schloss und 1792 den Vortrag über die inneren Angelegenheiten der Fürstentümer inne hatte, wofür ihm zur Entlastung die bis dahin zugleich wahrgenommene Arbeit bei der Nutz- und Brennholzadministration abgenommen wurde (Straubel, S. 36). Der Sohn wählte demnach für den dem Vater übersandten Aufsatz ein Thema, das diesem dienstlich vertraut war.
+
+Literatur: Rolf Straubel: Biographisches Handbuch der preußischen Verwaltungs- und Justizbeamten 1740-1806/15. T. 1: Biographien A - L. München 2009. - Gothaisches Genealogisches Taschenbuch der Briefadeligen Häuser 12 (1918), S. 17-18.</lido:descriptiveNoteValue>
+               <lido:sourceDescriptiveNote>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:sourceDescriptiveNote>
+            </lido:objectDescriptionSet>
+         </lido:objectDescriptionWrap>
+         <lido:objectMeasurementsWrap>
+            <lido:objectMeasurementsSet>
+               <lido:displayObjectMeasurements>Blattgröße: Höhe 21,6 cm, Breite 18 cm</lido:displayObjectMeasurements>
+               <lido:objectMeasurements/>
+            </lido:objectMeasurementsSet>
+         </lido:objectMeasurementsWrap>
+      </lido:objectIdentificationWrap>
+      <lido:eventWrap>
+         <lido:eventSet>
+            <lido:event>
+               <lido:eventType>
+                  <lido:conceptID lido:type="uri">https://event-types.museum-digital.org/1</lido:conceptID>
+                  <lido:term lido:addedSearchTerm="no">Hergestellt</lido:term>
+               </lido:eventType>
+               <lido:eventActor>
+                  <lido:displayActorInRole>Carl von Bärensprung (1775-1842)</lido:displayActorInRole>
+                  <lido:actorInRole>
+                     <lido:actor>
+                        <lido:actorID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/persinst/125050</lido:actorID>
+                        <lido:nameActorSet>
+                           <lido:appellationValue>Bärensprung, Carl von</lido:appellationValue>
+                           <lido:appellationValue xml:lang="de">Carl von Bärensprung</lido:appellationValue>
+                        </lido:nameActorSet>
+                        <lido:vitalDatesActor>
+                           <lido:earliestDate>1775</lido:earliestDate>
+                           <lido:latestDate>1842</lido:latestDate>
+                        </lido:vitalDatesActor>
+                     </lido:actor>
+                  </lido:actorInRole>
+               </lido:eventActor>
+               <lido:eventDate>
+                  <lido:displayDate>1793</lido:displayDate>
+                  <lido:displayDate xml:lang="ar">1793</lido:displayDate>
+                  <lido:displayDate xml:lang="de">1793</lido:displayDate>
+                  <lido:displayDate xml:lang="en">1793</lido:displayDate>
+                  <lido:displayDate xml:lang="es">1793</lido:displayDate>
+                  <lido:displayDate xml:lang="fa">1793</lido:displayDate>
+                  <lido:displayDate xml:lang="fr">1793</lido:displayDate>
+                  <lido:displayDate xml:lang="hu">1793</lido:displayDate>
+                  <lido:displayDate xml:lang="id">1793</lido:displayDate>
+                  <lido:displayDate xml:lang="it">1793</lido:displayDate>
+                  <lido:displayDate xml:lang="ja">1793年</lido:displayDate>
+                  <lido:displayDate xml:lang="ka">1793</lido:displayDate>
+                  <lido:displayDate xml:lang="ko">1793년</lido:displayDate>
+                  <lido:displayDate xml:lang="pl">1793</lido:displayDate>
+                  <lido:displayDate xml:lang="pt">1793</lido:displayDate>
+                  <lido:displayDate xml:lang="ro">1793</lido:displayDate>
+                  <lido:displayDate xml:lang="ru">1793</lido:displayDate>
+                  <lido:displayDate xml:lang="ta">1793</lido:displayDate>
+                  <lido:displayDate xml:lang="tl">1793</lido:displayDate>
+                  <lido:displayDate xml:lang="tr">1793</lido:displayDate>
+                  <lido:displayDate xml:lang="zh">1793年</lido:displayDate>
+                  <lido:date>
+                     <lido:earliestDate>1793</lido:earliestDate>
+                     <lido:latestDate>1793</lido:latestDate>
+                  </lido:date>
+               </lido:eventDate>
+               <lido:eventPlace>
+                  <lido:displayPlace>Neustadt an der Aisch</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ar">نويشتات أن در آيش</lido:displayPlace>
+                  <lido:displayPlace xml:lang="cs">Neustadt an der Aisch</lido:displayPlace>
+                  <lido:displayPlace xml:lang="da">Neustadt an der Aisch</lido:displayPlace>
+                  <lido:displayPlace xml:lang="de">Neustadt an der Aisch</lido:displayPlace>
+                  <lido:displayPlace xml:lang="en">Neustadt an der Aisch</lido:displayPlace>
+                  <lido:displayPlace xml:lang="es">Neustadt an der Aisch</lido:displayPlace>
+                  <lido:displayPlace xml:lang="fa">نوی‌اشتات آن در آیش</lido:displayPlace>
+                  <lido:displayPlace xml:lang="fr">Neustadt an der Aisch</lido:displayPlace>
+                  <lido:displayPlace xml:lang="hu">Neustadt an der Aisch</lido:displayPlace>
+                  <lido:displayPlace xml:lang="id">Neustadt an der Aisch</lido:displayPlace>
+                  <lido:displayPlace xml:lang="it">Neustadt an der Aisch</lido:displayPlace>
+                  <lido:displayPlace xml:lang="nl">Neustadt an der Aisch</lido:displayPlace>
+                  <lido:displayPlace xml:lang="pl">Neustadt an der Aisch</lido:displayPlace>
+                  <lido:displayPlace xml:lang="pt">Neustadt an der Aisch</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ro">Neustadt an der Aisch</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ru">Нойштадт-ан-дер-Айш</lido:displayPlace>
+                  <lido:displayPlace xml:lang="sv">Neustadt an der Aisch</lido:displayPlace>
+                  <lido:displayPlace xml:lang="tr">Neustadt an der Aisch</lido:displayPlace>
+                  <lido:displayPlace xml:lang="vi">Neustadt an der Aisch</lido:displayPlace>
+                  <lido:displayPlace xml:lang="zh">艾施河畔诺伊施塔特</lido:displayPlace>
+                  <lido:place>
+                     <lido:placeID lido:source="geonames" lido:type="uri">https://sws.geonames.org/6558988</lido:placeID>
+                     <lido:placeID lido:source="TGN" lido:type="uri">http://vocab.getty.edu/tgn/1040479</lido:placeID>
+                     <lido:placeID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4041928-9</lido:placeID>
+                     <lido:placeID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q31503</lido:placeID>
+                     <lido:placeID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/place/55383</lido:placeID>
+                     <lido:namePlaceSet>
+                        <lido:appellationValue>Neustadt an der Aisch</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ar">نويشتات أن در آيش</lido:appellationValue>
+                        <lido:appellationValue xml:lang="cs">Neustadt an der Aisch</lido:appellationValue>
+                        <lido:appellationValue xml:lang="da">Neustadt an der Aisch</lido:appellationValue>
+                        <lido:appellationValue xml:lang="de">Neustadt an der Aisch</lido:appellationValue>
+                        <lido:appellationValue xml:lang="en">Neustadt an der Aisch</lido:appellationValue>
+                        <lido:appellationValue xml:lang="es">Neustadt an der Aisch</lido:appellationValue>
+                        <lido:appellationValue xml:lang="fa">نوی‌اشتات آن در آیش</lido:appellationValue>
+                        <lido:appellationValue xml:lang="fr">Neustadt an der Aisch</lido:appellationValue>
+                        <lido:appellationValue xml:lang="hu">Neustadt an der Aisch</lido:appellationValue>
+                        <lido:appellationValue xml:lang="id">Neustadt an der Aisch</lido:appellationValue>
+                        <lido:appellationValue xml:lang="it">Neustadt an der Aisch</lido:appellationValue>
+                        <lido:appellationValue xml:lang="nl">Neustadt an der Aisch</lido:appellationValue>
+                        <lido:appellationValue xml:lang="pl">Neustadt an der Aisch</lido:appellationValue>
+                        <lido:appellationValue xml:lang="pt">Neustadt an der Aisch</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ro">Neustadt an der Aisch</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ru">Нойштадт-ан-дер-Айш</lido:appellationValue>
+                        <lido:appellationValue xml:lang="sv">Neustadt an der Aisch</lido:appellationValue>
+                        <lido:appellationValue xml:lang="tr">Neustadt an der Aisch</lido:appellationValue>
+                        <lido:appellationValue xml:lang="vi">Neustadt an der Aisch</lido:appellationValue>
+                        <lido:appellationValue xml:lang="zh">艾施河畔诺伊施塔特</lido:appellationValue>
+                     </lido:namePlaceSet>
+                     <lido:gml>
+                        <gml:Point xmlns:gml="http://www.opengis.net/gml" srsName="EPSG:4326">
+                           <gml:pos>49.580001831055 10.608888626099</gml:pos>
+                        </gml:Point>
+                     </lido:gml>
+                  </lido:place>
+               </lido:eventPlace>
+            </lido:event>
+         </lido:eventSet>
+         <lido:eventSet>
+            <lido:event>
+               <lido:eventType>
+                  <lido:conceptID lido:type="uri">http://terminology.lido-schema.org/lido00003</lido:conceptID>
+                  <lido:term>Event (non-specified)</lido:term>
+               </lido:eventType>
+               <lido:eventMaterialsTech>
+                  <lido:displayMaterialsTech>Feder, Pinsel in Braun, Grau laviert auf Bütten (in die Akte eingeheftet)</lido:displayMaterialsTech>
+               </lido:eventMaterialsTech>
+            </lido:event>
+         </lido:eventSet>
+      </lido:eventWrap>
+      <lido:objectRelationWrap>
+         <lido:subjectWrap>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">http://d-nb.info/gnd/4015482-8</lido:conceptID>
+                     <lido:conceptID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q47130304</lido:conceptID>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">http://de.wikipedia.org/wiki/Erziehung</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/185</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Erziehung</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="de">Erziehung</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fi">Kasvatus</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="aat" lido:type="uri">http://vocab.getty.edu/aat/300011914</lido:conceptID>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4025668-6</lido:conceptID>
+                     <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh85147783</lido:conceptID>
+                     <lido:conceptID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q287</lido:conceptID>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Holz</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/634</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Holz</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ar">خشب</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="bn">কাঠ</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="cs">Dřevo</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="da">Træ</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="de">Holz</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="el">ξύλο</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="en">Wood</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="es">Madera</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fa">چوب</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fi">Puuaines</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fr">Bois</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ha">Katako</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="he">עץ</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hi">लकड़ी</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hu">fa (anyag)</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="id">Kayu</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="it">Legno</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ja">木材</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ka">მერქანი</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ko">목재</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="nl">Hout</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pl">Drewno</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pt">Madeira</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ro">lemn</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ru">древесина</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sv">Trä</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sw">Ubao</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ta">மரம்</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="th">ไม้</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tl">Kahoy</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tr">Tahta</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ur">لکڑی</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="vi">gỗ</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="zh">木材</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4004845-7</lido:conceptID>
+                     <lido:conceptID lido:source="iconclass" lido:type="uri">http://iconclass.org/rkd/25G3/</lido:conceptID>
+                     <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh85137241</lido:conceptID>
+                     <lido:conceptID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q10884</lido:conceptID>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Baum</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/792</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Baum</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ar">شجرة</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="bn">বৃক্ষ</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="cs">strom</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="da">træ</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="de">Baum</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="el">δέντρο</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="en">Tree</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="es">árbol</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fa">درخت</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fi">puu</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fr">arbre</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ha">Bishiya</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="he">עץ</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hi">वृक्ष</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hu">fa (növény)</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="id">Pohon</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="it">albero</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ja">木</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ko">나무</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="nl">boom</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pl">drzewo</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pt">árvore</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ru">дерево</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sv">träd</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sw">Mti</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ta">மரம்</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="th">ต้นไม้</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tl">Puno</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tr">Ağaç</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ur">درخت</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="vi">cây</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="zh">树</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">http://d-nb.info/gnd/4037944-9</lido:conceptID>
+                     <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh85082139</lido:conceptID>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">http://de.wikipedia.org/wiki/Mathematik</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/2127</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Mathematik</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+         </lido:subjectWrap>
+         <lido:relatedWorksWrap/>
+      </lido:objectRelationWrap>
+   </lido:descriptiveMetadata>
+   <lido:administrativeMetadata xml:lang="de">
+      <lido:rightsWorkWrap>
+         <lido:rightsWorkSet>
+            <lido:rightsHolder>
+               <lido:legalBodyName>
+                  <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:rightsHolder>
+         </lido:rightsWorkSet>
+      </lido:rightsWorkWrap>
+      <lido:recordWrap>
+         <lido:recordID lido:type="museum-digital">67397</lido:recordID>
+         <lido:recordType>
+            <lido:term lido:addedSearchTerm="no">item</lido:term>
+         </lido:recordType>
+         <lido:recordSource lido:type="dataProvider">
+            <lido:legalBodyName>
+               <lido:appellationValue>museum-digital</lido:appellationValue>
+            </lido:legalBodyName>
+            <lido:legalBodyWeblink>https://berlin.museum-digital.de/</lido:legalBodyWeblink>
+         </lido:recordSource>
+         <lido:recordSource>
+            <lido:legalBodyID lido:type="isil">DE-B185</lido:legalBodyID>
+            <lido:legalBodyName>
+               <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+            </lido:legalBodyName>
+         </lido:recordSource>
+         <lido:recordRights>
+            <lido:rightsType>
+               <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no">CC BY</lido:term>
+            </lido:rightsType>
+            <lido:rightsHolder>
+               <lido:legalBodyID lido:type="isil">DE-B185</lido:legalBodyID>
+               <lido:legalBodyName>
+                  <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+               </lido:legalBodyName>
+               <lido:legalBodyWeblink>http://geschichte-brandenburg.de/</lido:legalBodyWeblink>
+            </lido:rightsHolder>
+            <lido:creditLine>Förderprogramm zur Digitalisierung von Objekten des kulturellen Erbes des Landes Berlin</lido:creditLine>
+         </lido:recordRights>
+         <lido:recordInfoSet>
+            <lido:recordInfoLink>https://berlin.museum-digital.de/index.php?t=objekt&amp;oges=67397</lido:recordInfoLink>
+            <lido:recordMetadataDate>2021-04-27 07:59:51</lido:recordMetadataDate>
+         </lido:recordInfoSet>
+      </lido:recordWrap>
+      <lido:resourceWrap>
+         <lido:resourceSet lido:sortorder="1">
+            <lido:resourceID lido:source="image" lido:type="local">48941</lido:resourceID>
+            <lido:resourceRepresentation lido:type="masterfile">
+               <lido:linkResource lido:formatResource="image/tiff"/>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_thumb">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/202007/100h_baumstamm-67397.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_preview">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/202007/200w_baumstamm-67397.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/202007/baumstamm-67397.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceType>
+               <lido:term lido:addedSearchTerm="no">image</lido:term>
+            </lido:resourceType>
+            <lido:resourceRelType>
+               <lido:term lido:addedSearchTerm="no">Hauptansicht</lido:term>
+            </lido:resourceRelType>
+            <lido:resourceDescription>Baumstamm</lido:resourceDescription>
+            <lido:resourceSource lido:type="creator">
+               <lido:legalBodyName>
+                  <lido:appellationValue>Thomas Voßbeck, 2020</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:resourceSource>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+                  <lido:term lido:addedSearchTerm="no">CC BY</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V.</lido:appellationValue>
+                  </lido:legalBodyName>
+               </lido:rightsHolder>
+               <lido:creditLine>Thomas Voßbeck, 2020</lido:creditLine>
+            </lido:rightsResource>
+         </lido:resourceSet>
+      </lido:resourceWrap>
+   </lido:administrativeMetadata>
+</lido:lido>
+

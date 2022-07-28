@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lido:lido xmlns:lido="http://www.lido-schema.org"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <lido:lidoRecID lido:type="http://terminology.lido-schema.org/identifier_type/local_identifier">DE-MUS-061525/1349358</lido:lidoRecID>
+   <lido:descriptiveMetadata xml:lang="de">
+      <lido:objectClassificationWrap>
+         <lido:objectWorkTypeWrap>
+            <lido:objectWorkType>
+               <lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://d-nb.info/gnd/4008240-4</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no">Brief</lido:term>
+            </lido:objectWorkType>
+         </lido:objectWorkTypeWrap>
+      </lido:objectClassificationWrap>
+      <lido:objectIdentificationWrap>
+         <lido:titleWrap>
+            <lido:titleSet>
+               <lido:appellationValue lido:pref="preferred">René Just Haüy an Charles Willson Peale</lido:appellationValue>
+            </lido:titleSet>
+         </lido:titleWrap>
+         <lido:repositoryWrap>
+            <lido:repositorySet>
+               <lido:repositoryName>
+                  <lido:legalBodyID lido:source="ISIL (ISO 15511)"
+                                    lido:type="http://terminology.lido-schema.org/identifier_type/uri">info:isil/DE-MUS-061525</lido:legalBodyID>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Stiftung Stadtmuseum Berlin</lido:appellationValue>
+                  </lido:legalBodyName>
+                  <lido:legalBodyWeblink>https://www.stadtmuseum.de</lido:legalBodyWeblink>
+               </lido:repositoryName>
+               <lido:workID lido:type="Inventarnummer">HU 99/165 QA</lido:workID>
+               <lido:repositoryLocation>
+                  <lido:placeID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://www.geonames.org/2950159</lido:placeID>
+                  <lido:namePlaceSet>
+                     <lido:appellationValue>Berlin</lido:appellationValue>
+                  </lido:namePlaceSet>
+               </lido:repositoryLocation>
+            </lido:repositorySet>
+         </lido:repositoryWrap>
+         <lido:objectDescriptionWrap>
+            <lido:objectDescriptionSet>
+               <lido:descriptiveNoteValue>Eigenhändiger Brief mit Unterschrift von René Just Haüy (28.02.1743, Saint-Just-en-Chaussée – 03.06.1822, Paris), französischer Mineraloge, an Charles Willson Peale (15.04.1741, St. Paul‘s Parish, Maryland -  22.02.1827, Philadelphia, Pennsylvania), amerikanischer Kunstmaler und Naturaliensammler, Paris 10.10.1809.
+René Just Haüy studierte Theologie in Paris. Anschließend lehrte er als römisch-katholischer Theologe am Collège du Cardinal Lemoine. Daneben befasste er sich intensiv mit Naturkunde, insbesondere interessierte ihn die Botanik. Als er 1784 jedoch versehentlich einen Kalkspat (Calcit) fallen ließ, stellte er fest, dass die abgebrochenen Stücke an beliebiger Stelle passgenau an den Calcit angesetzt werden konnten. Sein Interesse für Mineralogie war geweckt und nach weiteren Versuchen mit anderen Calciten formulierte Haüy das Symmetriegesetz der Kristallographie. Er wird heute oft als „Vater der modernen Kristallographie“ bezeichnet. 1802 wurde er zum Professor für Mineralogie am Muséum national d‘histoire naturelle berufen und gründete das Musée de minéralogie in Paris.
+
+Der Porträt- und Landschaftsmaler Peale hatte großes Interesse an Naturkunde. In dem von ihm  gegründeten Philadelphia Museum, später Peal’s American Museum genannt, waren umfangreiche botanische, zoologische und geowissenschaftliche Sammlungen zu bestaunen.</lido:descriptiveNoteValue>
+            </lido:objectDescriptionSet>
+         </lido:objectDescriptionWrap>
+         <lido:objectMeasurementsWrap>
+            <lido:objectMeasurementsSet>
+               <lido:displayObjectMeasurements>Blatt, gefaltet (HxB): 22,6 x 18,5 cm</lido:displayObjectMeasurements>
+               <lido:objectMeasurements>
+                  <lido:measurementsSet>
+                     <lido:measurementType>Höhe</lido:measurementType>
+                     <lido:measurementUnit>mm</lido:measurementUnit>
+                     <lido:measurementValue>226</lido:measurementValue>
+                  </lido:measurementsSet>
+                  <lido:measurementsSet>
+                     <lido:measurementType>Breite</lido:measurementType>
+                     <lido:measurementUnit>mm</lido:measurementUnit>
+                     <lido:measurementValue>185</lido:measurementValue>
+                  </lido:measurementsSet>
+               </lido:objectMeasurements>
+            </lido:objectMeasurementsSet>
+            <lido:objectMeasurementsSet>
+               <lido:displayObjectMeasurements>Blatt, auseinandergefaltet (HxB): 22,6 x 37 cm</lido:displayObjectMeasurements>
+               <lido:objectMeasurements>
+                  <lido:measurementsSet>
+                     <lido:measurementType>Höhe</lido:measurementType>
+                     <lido:measurementUnit>mm</lido:measurementUnit>
+                     <lido:measurementValue>226</lido:measurementValue>
+                  </lido:measurementsSet>
+                  <lido:measurementsSet>
+                     <lido:measurementType>Breite</lido:measurementType>
+                     <lido:measurementUnit>cm</lido:measurementUnit>
+                     <lido:measurementValue>37</lido:measurementValue>
+                  </lido:measurementsSet>
+               </lido:objectMeasurements>
+            </lido:objectMeasurementsSet>
+         </lido:objectMeasurementsWrap>
+      </lido:objectIdentificationWrap>
+      <lido:eventWrap>
+         <lido:eventSet>
+            <lido:event>
+               <lido:eventType>
+                  <lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://terminology.lido-schema.org/lido00007</lido:conceptID>
+                  <lido:term lido:addedSearchTerm="no">Herstellung</lido:term>
+               </lido:eventType>
+               <lido:eventActor lido:sortorder="1">
+                  <lido:displayActorInRole>Haüy, René Just (1743-1822) (Autor)</lido:displayActorInRole>
+                  <lido:actorInRole>
+                     <lido:actor lido:type="http://terminology.lido-schema.org/actor_type/person">
+                        <lido:actorID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://d-nb.info/gnd/119097125</lido:actorID>
+                        <lido:nameActorSet>
+                           <lido:appellationValue>Haüy, René Just</lido:appellationValue>
+                        </lido:nameActorSet>
+                     </lido:actor>
+                     <lido:roleActor>
+                        <lido:term lido:addedSearchTerm="no">Autor</lido:term>
+                     </lido:roleActor>
+                  </lido:actorInRole>
+               </lido:eventActor>
+               <lido:eventActor lido:sortorder="2">
+                  <lido:displayActorInRole>Peale, Charles Willson (1741-1827) (Empfänger)</lido:displayActorInRole>
+                  <lido:actorInRole>
+                     <lido:actor lido:type="http://terminology.lido-schema.org/actor_type/person">
+                        <lido:actorID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://d-nb.info/gnd/118790080</lido:actorID>
+                        <lido:nameActorSet>
+                           <lido:appellationValue>Peale, Charles Willson</lido:appellationValue>
+                        </lido:nameActorSet>
+                     </lido:actor>
+                     <lido:roleActor>
+                        <lido:term lido:addedSearchTerm="no">Empfänger</lido:term>
+                     </lido:roleActor>
+                  </lido:actorInRole>
+               </lido:eventActor>
+               <lido:eventDate>
+                  <lido:displayDate>10.10.1809</lido:displayDate>
+                  <lido:date>
+                     <lido:earliestDate>1809</lido:earliestDate>
+                     <lido:latestDate>1809</lido:latestDate>
+                  </lido:date>
+               </lido:eventDate>
+               <lido:eventPlace>
+                  <lido:displayPlace>Paris</lido:displayPlace>
+                  <lido:place>
+                     <lido:placeID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://www.geonames.org/6455259</lido:placeID>
+                     <lido:namePlaceSet>
+                        <lido:appellationValue>Paris</lido:appellationValue>
+                     </lido:namePlaceSet>
+                  </lido:place>
+               </lido:eventPlace>
+               <lido:eventMaterialsTech>
+                  <lido:displayMaterialsTech>Eigenhändiger Brief mit Unterschrift.</lido:displayMaterialsTech>
+                  <lido:materialsTech>
+                     <lido:termMaterialsTech lido:sortorder="1"
+                                             lido:type="http://terminology.lido-schema.org/termMaterialsTech_type/technique">
+                        <lido:term lido:addedSearchTerm="no">Handschrift</lido:term>
+                     </lido:termMaterialsTech>
+                     <lido:termMaterialsTech lido:sortorder="1"
+                                             lido:type="http://terminology.lido-schema.org/termMaterialsTech_type/material">
+                        <lido:term lido:addedSearchTerm="no">Papier</lido:term>
+                     </lido:termMaterialsTech>
+                  </lido:materialsTech>
+               </lido:eventMaterialsTech>
+            </lido:event>
+         </lido:eventSet>
+      </lido:eventWrap>
+      <lido:objectRelationWrap>
+         <lido:subjectWrap>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://d-nb.info/gnd/4329065-6</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Mineraloge</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://d-nb.info/gnd/4037215-7</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Maler</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://d-nb.info/gnd/4179037-6</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Sammler</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://d-nb.info/gnd/4008240-4</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Korrespondenz &amp;lt;Brief&amp;gt;</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://d-nb.info/gnd/4141451-2</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Adressbuch</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+         </lido:subjectWrap>
+      </lido:objectRelationWrap>
+   </lido:descriptiveMetadata>
+   <lido:administrativeMetadata xml:lang="de">
+      <lido:rightsWorkWrap>
+         <lido:rightsWorkSet>
+            <lido:rightsType>
+               <lido:term lido:addedSearchTerm="no">Eigentumsrechte</lido:term>
+            </lido:rightsType>
+            <lido:rightsHolder>
+               <lido:legalBodyName>
+                  <lido:appellationValue>Stiftung Stadtmuseum Berlin</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:rightsHolder>
+         </lido:rightsWorkSet>
+      </lido:rightsWorkWrap>
+      <lido:recordWrap>
+         <lido:recordID lido:type="http://terminology.lido-schema.org/identifier_type/local_identifier">1349358</lido:recordID>
+         <lido:recordType>
+            <lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://terminology.lido-schema.org/lido00141</lido:conceptID>
+            <lido:term lido:addedSearchTerm="no">Einzelobjekt</lido:term>
+         </lido:recordType>
+         <lido:recordSource>
+            <lido:legalBodyID lido:source="ISIL (ISO 15511)"
+                              lido:type="http://terminology.lido-schema.org/identifier_type/uri">info:isil/DE-MUS-061525</lido:legalBodyID>
+            <lido:legalBodyName>
+               <lido:appellationValue>Stiftung Stadtmuseum Berlin</lido:appellationValue>
+            </lido:legalBodyName>
+         </lido:recordSource>
+         <lido:recordRights>
+            <lido:rightsType>
+               <lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">https://creativecommons.org/publicdomain/zero/1.0/</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no">CC0 1.0 Universal (CC0 1.0) Public Domain Dedication</lido:term>
+            </lido:rightsType>
+            <lido:creditLine>Förderprogramm zur Digitalisierung von Objekten des kulturellen Erbes des Landes Berlin</lido:creditLine>
+         </lido:recordRights>
+         <lido:recordInfoSet>
+            <lido:recordInfoLink>https://sammlung-online.stadtmuseum.de/Details/Index/1349358</lido:recordInfoLink>
+            <lido:recordMetadataDate>2021-06-08T14:46:01</lido:recordMetadataDate>
+         </lido:recordInfoSet>
+      </lido:recordWrap>
+      <lido:resourceWrap>
+         <lido:resourceSet>
+            <lido:resourceID lido:type="http://terminology.lido-schema.org/identifier_type/local_identifier">HU 99''str''165 QA_1</lido:resourceID>
+            <lido:resourceRepresentation lido:type="Provided image">
+               <lido:linkResource lido:formatResource="jpg">https://sammlung-online.stadtmuseum.de/imagescreate/image?id=1349358&amp;type=gross</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceType>
+               <lido:term lido:addedSearchTerm="no">Digitalfoto</lido:term>
+            </lido:resourceType>
+            <lido:resourceRelType>
+               <lido:term lido:addedSearchTerm="no">Vorschaubild</lido:term>
+            </lido:resourceRelType>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">https://creativecommons.org/publicdomain/mark/1.0/</lido:conceptID>
+                  <lido:term lido:addedSearchTerm="no">Public Domain</lido:term>
+               </lido:rightsType>
+            </lido:rightsResource>
+         </lido:resourceSet>
+      </lido:resourceWrap>
+   </lido:administrativeMetadata>
+</lido:lido>
+

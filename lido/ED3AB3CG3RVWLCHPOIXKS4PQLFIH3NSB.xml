@@ -1,0 +1,519 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lido:lido xmlns:lido="http://www.lido-schema.org"
+           xmlns:xalan="http://xml.apache.org/xalan">
+   <lido:lidoRecID lido:source="https://berlin.museum-digital.de/index.php?t=institution&amp;instnr=32"
+                   lido:type="local">DE-B185/66928</lido:lidoRecID>
+   <lido:category/>
+   <lido:descriptiveMetadata xml:lang="de">
+      <lido:objectClassificationWrap>
+         <lido:objectWorkTypeWrap>
+            <lido:objectWorkType>
+               <lido:conceptID lido:source="gnd" lido:type="uri">http://d-nb.info/gnd/4021845-4</lido:conceptID>
+               <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/13314</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Druckgraphik</lido:term>
+            </lido:objectWorkType>
+         </lido:objectWorkTypeWrap>
+         <lido:classificationWrap>
+            <lido:classification lido:type="Sammlung">
+               <lido:conceptID lido:source="local" lido:type="collection_id">705</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Handzeichnungen, Druckgraphik, Gemälde</lido:term>
+            </lido:classification>
+            <lido:classification lido:type="Sammlung">
+               <lido:conceptID lido:source="local" lido:type="collection_id">706</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Ansichten</lido:term>
+            </lido:classification>
+            <lido:classification lido:type="Sammlung">
+               <lido:conceptID lido:source="local" lido:type="collection_id">709</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Sonstige Länder</lido:term>
+            </lido:classification>
+         </lido:classificationWrap>
+      </lido:objectClassificationWrap>
+      <lido:objectIdentificationWrap>
+         <lido:titleWrap>
+            <lido:titleSet>
+               <lido:appellationValue lido:pref="preferred">Duisburg: Entwurf eines Gartenhauses (Architectonisches Skizzenbuch)</lido:appellationValue>
+            </lido:titleSet>
+         </lido:titleWrap>
+         <lido:repositoryWrap>
+            <lido:repositorySet lido:type="current">
+               <lido:repositoryName>
+                  <lido:legalBodyID lido:type="isil">DE-B185</lido:legalBodyID>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+                  </lido:legalBodyName>
+                  <lido:legalBodyWeblink>http://geschichte-brandenburg.de/</lido:legalBodyWeblink>
+               </lido:repositoryName>
+               <lido:workID lido:type="inventory number">LGV-Archiv, C 12 G-3-020</lido:workID>
+               <lido:repositoryLocation>
+                  <lido:namePlaceSet>
+                     <lido:appellationValue>Berlin</lido:appellationValue>
+                  </lido:namePlaceSet>
+                  <lido:gml>
+                     <gml:Point xmlns:gml="http://www.opengis.net/gml" srsName="EPSG:4326">
+                        <gml:pos>52.51533127 13.40440559</gml:pos>
+                     </gml:Point>
+                  </lido:gml>
+               </lido:repositoryLocation>
+            </lido:repositorySet>
+         </lido:repositoryWrap>
+         <lido:objectDescriptionWrap>
+            <lido:objectDescriptionSet>
+               <lido:descriptiveNoteValue>Es handelt sich um den Entwurf einer Sitzgruppe und die Fassade eines Gartenhauses bei Duisburg. Das Blatt stammt aus "Architektonisches Skizzen-Buch. Eine Sammlung von Landhäusern, Villen, ländlichen Gebäuden, Gartenhäusern, Gartenverzierungen, Gittern, Erkern, Balkons, Blumenfenstern, Brunnen, Springbrunnen, Hofgebäuden, Einfassungsmauern, Candelabern, Grabmonumenten und andern kleinen Baulichkeiten, welche zur Verschönerung baulicher Anlagen dienen, und in Berlin, Potsdam, und an anderen Orten ausgeführt sind. Mit Details.", von dem zwischen 1852 und 1886 im Verlag Ernst und Korn in Berlin jährlich sechs Hefte erschienen. Bereits Karl Friedrich Schinkel hatte seine architektonischen Entwürfe druckgraphisch publiziert in dem deutlichen Gefühl, dass angesichts einer Fülle neuartiger Bauaufgaben den angehenden Architekten und Bauherren qualitativ hochwertige Muster und Stilvorbilder an die Hand gegeben werden müssen. Schinkels Sammlung wie auch die nachfolgenden Projekte, darunter das Architektonische Skizzenbuch erlangten weite Verbreitung, weil sie in einer Phase des Baubooms eine große Nachfrage erfuhren.&#xD;
+&#xD;
+Bez. li. u. "gez. von Borstell", re. u. "H. Nikoley gest.", mi. u. "Ernst &amp; Korn (Gropius'sche Buchh.) Berlin.", darüber: "Gartenhaus bei Duisburg".&#xD;
+Bez. li. o. "Architekton. Skizzenbuch." re. o. "Heft 1, Blatt III." (1. Jahrgang).&#xD;
+Altbestand des Archivs (Geschenk Hans-Werner Klünner).</lido:descriptiveNoteValue>
+               <lido:sourceDescriptiveNote>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:sourceDescriptiveNote>
+            </lido:objectDescriptionSet>
+         </lido:objectDescriptionWrap>
+         <lido:objectMeasurementsWrap>
+            <lido:objectMeasurementsSet>
+               <lido:displayObjectMeasurements>Blattgröße: Höhe 34,5 cm, Breite 25,4 cm</lido:displayObjectMeasurements>
+               <lido:objectMeasurements/>
+            </lido:objectMeasurementsSet>
+         </lido:objectMeasurementsWrap>
+      </lido:objectIdentificationWrap>
+      <lido:eventWrap>
+         <lido:eventSet>
+            <lido:event>
+               <lido:eventType>
+                  <lido:conceptID lido:type="uri">https://event-types.museum-digital.org/1</lido:conceptID>
+                  <lido:term lido:addedSearchTerm="no">Hergestellt</lido:term>
+               </lido:eventType>
+               <lido:eventDate>
+                  <lido:displayDate>1852</lido:displayDate>
+                  <lido:displayDate xml:lang="ar">1852</lido:displayDate>
+                  <lido:displayDate xml:lang="de">1852</lido:displayDate>
+                  <lido:displayDate xml:lang="en">1852</lido:displayDate>
+                  <lido:displayDate xml:lang="es">1852</lido:displayDate>
+                  <lido:displayDate xml:lang="fa">1852</lido:displayDate>
+                  <lido:displayDate xml:lang="fr">1852</lido:displayDate>
+                  <lido:displayDate xml:lang="hu">1852</lido:displayDate>
+                  <lido:displayDate xml:lang="id">1852</lido:displayDate>
+                  <lido:displayDate xml:lang="it">1852</lido:displayDate>
+                  <lido:displayDate xml:lang="ja">1852年</lido:displayDate>
+                  <lido:displayDate xml:lang="ka">1852</lido:displayDate>
+                  <lido:displayDate xml:lang="ko">1852년</lido:displayDate>
+                  <lido:displayDate xml:lang="pl">1852</lido:displayDate>
+                  <lido:displayDate xml:lang="pt">1852</lido:displayDate>
+                  <lido:displayDate xml:lang="ro">1852</lido:displayDate>
+                  <lido:displayDate xml:lang="ru">1852</lido:displayDate>
+                  <lido:displayDate xml:lang="ta">1852</lido:displayDate>
+                  <lido:displayDate xml:lang="tl">1852</lido:displayDate>
+                  <lido:displayDate xml:lang="tr">1852</lido:displayDate>
+                  <lido:displayDate xml:lang="zh">1852年</lido:displayDate>
+                  <lido:date>
+                     <lido:earliestDate>1852</lido:earliestDate>
+                     <lido:latestDate>1852</lido:latestDate>
+                  </lido:date>
+               </lido:eventDate>
+               <lido:eventPlace>
+                  <lido:displayPlace>Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ar">برلين</lido:displayPlace>
+                  <lido:displayPlace xml:lang="bn">বার্লিন</lido:displayPlace>
+                  <lido:displayPlace xml:lang="cs">Berlín</lido:displayPlace>
+                  <lido:displayPlace xml:lang="da">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="de">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="el">Βερολίνο</lido:displayPlace>
+                  <lido:displayPlace xml:lang="en">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="es">Berlín</lido:displayPlace>
+                  <lido:displayPlace xml:lang="fa">برلین</lido:displayPlace>
+                  <lido:displayPlace xml:lang="fi">Berliini</lido:displayPlace>
+                  <lido:displayPlace xml:lang="fr">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ha">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="he">ברלין</lido:displayPlace>
+                  <lido:displayPlace xml:lang="hi">बर्लिन</lido:displayPlace>
+                  <lido:displayPlace xml:lang="hu">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="id">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="it">Berlino</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ja">ベルリン</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ka">ბერლინი</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ko">베를린</lido:displayPlace>
+                  <lido:displayPlace xml:lang="nl">Berlijn</lido:displayPlace>
+                  <lido:displayPlace xml:lang="pl">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="pt">Berlim</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ro">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ru">Берлин</lido:displayPlace>
+                  <lido:displayPlace xml:lang="sv">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="sw">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ta">பெர்லின்</lido:displayPlace>
+                  <lido:displayPlace xml:lang="th">เบอร์ลิน</lido:displayPlace>
+                  <lido:displayPlace xml:lang="tl">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="tr">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ur">برلن</lido:displayPlace>
+                  <lido:displayPlace xml:lang="vi">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="zh">柏林</lido:displayPlace>
+                  <lido:place>
+                     <lido:placeID lido:source="geonames" lido:type="uri">https://sws.geonames.org/2950159</lido:placeID>
+                     <lido:placeID lido:source="TGN" lido:type="uri">http://vocab.getty.edu/tgn/7209904</lido:placeID>
+                     <lido:placeID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4005728-8</lido:placeID>
+                     <lido:placeID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q64</lido:placeID>
+                     <lido:placeID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/place/61</lido:placeID>
+                     <lido:namePlaceSet>
+                        <lido:appellationValue>Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ar">برلين</lido:appellationValue>
+                        <lido:appellationValue xml:lang="bn">বার্লিন</lido:appellationValue>
+                        <lido:appellationValue xml:lang="cs">Berlín</lido:appellationValue>
+                        <lido:appellationValue xml:lang="da">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="de">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="el">Βερολίνο</lido:appellationValue>
+                        <lido:appellationValue xml:lang="en">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="es">Berlín</lido:appellationValue>
+                        <lido:appellationValue xml:lang="fa">برلین</lido:appellationValue>
+                        <lido:appellationValue xml:lang="fi">Berliini</lido:appellationValue>
+                        <lido:appellationValue xml:lang="fr">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ha">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="he">ברלין</lido:appellationValue>
+                        <lido:appellationValue xml:lang="hi">बर्लिन</lido:appellationValue>
+                        <lido:appellationValue xml:lang="hu">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="id">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="it">Berlino</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ja">ベルリン</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ka">ბერლინი</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ko">베를린</lido:appellationValue>
+                        <lido:appellationValue xml:lang="nl">Berlijn</lido:appellationValue>
+                        <lido:appellationValue xml:lang="pl">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="pt">Berlim</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ro">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ru">Берлин</lido:appellationValue>
+                        <lido:appellationValue xml:lang="sv">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="sw">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ta">பெர்லின்</lido:appellationValue>
+                        <lido:appellationValue xml:lang="th">เบอร์ลิน</lido:appellationValue>
+                        <lido:appellationValue xml:lang="tl">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="tr">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ur">برلن</lido:appellationValue>
+                        <lido:appellationValue xml:lang="vi">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="zh">柏林</lido:appellationValue>
+                     </lido:namePlaceSet>
+                     <lido:gml>
+                        <gml:Point xmlns:gml="http://www.opengis.net/gml" srsName="EPSG:4326">
+                           <gml:pos>52.516666412354 13.383333206177</gml:pos>
+                        </gml:Point>
+                     </lido:gml>
+                  </lido:place>
+               </lido:eventPlace>
+            </lido:event>
+         </lido:eventSet>
+         <lido:eventSet>
+            <lido:event>
+               <lido:eventType>
+                  <lido:conceptID lido:type="uri">https://event-types.museum-digital.org/3</lido:conceptID>
+                  <lido:term lido:addedSearchTerm="no">Veröffentlicht</lido:term>
+               </lido:eventType>
+               <lido:eventActor>
+                  <lido:displayActorInRole>Ernst &amp; Korn (Verlag)</lido:displayActorInRole>
+                  <lido:actorInRole>
+                     <lido:actor>
+                        <lido:actorID lido:source="gnd" lido:type="uri">http://d-nb.info/gnd/3058684-7</lido:actorID>
+                        <lido:actorID lido:source="viaf" lido:type="uri">https://viaf.org/viaf/148725298</lido:actorID>
+                        <lido:actorID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/persinst/51907</lido:actorID>
+                        <lido:nameActorSet>
+                           <lido:appellationValue>Ernst &amp; Korn (Verlag)</lido:appellationValue>
+                        </lido:nameActorSet>
+                        <lido:vitalDatesActor>
+                           <lido:earliestDate/>
+                           <lido:latestDate/>
+                        </lido:vitalDatesActor>
+                     </lido:actor>
+                  </lido:actorInRole>
+               </lido:eventActor>
+            </lido:event>
+         </lido:eventSet>
+         <lido:eventSet>
+            <lido:event>
+               <lido:eventType>
+                  <lido:conceptID lido:type="uri">http://terminology.lido-schema.org/lido00003</lido:conceptID>
+                  <lido:term>Event (non-specified)</lido:term>
+               </lido:eventType>
+               <lido:eventMaterialsTech>
+                  <lido:displayMaterialsTech>Zinkographie mit Tonplatte</lido:displayMaterialsTech>
+               </lido:eventMaterialsTech>
+            </lido:event>
+         </lido:eventSet>
+      </lido:eventWrap>
+      <lido:objectRelationWrap>
+         <lido:subjectWrap>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectPlace>
+                     <lido:displayPlace>Duisburg</lido:displayPlace>
+                     <lido:displayPlace xml:lang="ar">دويسبورغ</lido:displayPlace>
+                     <lido:displayPlace xml:lang="cs">Duisburg</lido:displayPlace>
+                     <lido:displayPlace xml:lang="da">Duisburg</lido:displayPlace>
+                     <lido:displayPlace xml:lang="de">Duisburg</lido:displayPlace>
+                     <lido:displayPlace xml:lang="el">Ντούισμπουργκ</lido:displayPlace>
+                     <lido:displayPlace xml:lang="en">Duisburg</lido:displayPlace>
+                     <lido:displayPlace xml:lang="es">Duisburgo</lido:displayPlace>
+                     <lido:displayPlace xml:lang="fa">دویسبورگ</lido:displayPlace>
+                     <lido:displayPlace xml:lang="fi">Duisburg</lido:displayPlace>
+                     <lido:displayPlace xml:lang="fr">Duisbourg</lido:displayPlace>
+                     <lido:displayPlace xml:lang="ha">Duisburg</lido:displayPlace>
+                     <lido:displayPlace xml:lang="he">דיסבורג</lido:displayPlace>
+                     <lido:displayPlace xml:lang="hu">Duisburg</lido:displayPlace>
+                     <lido:displayPlace xml:lang="id">Duisburg</lido:displayPlace>
+                     <lido:displayPlace xml:lang="it">Duisburg</lido:displayPlace>
+                     <lido:displayPlace xml:lang="ja">デュースブルク</lido:displayPlace>
+                     <lido:displayPlace xml:lang="ka">დუისბურგი</lido:displayPlace>
+                     <lido:displayPlace xml:lang="ko">뒤스부르크</lido:displayPlace>
+                     <lido:displayPlace xml:lang="nl">Duisburg</lido:displayPlace>
+                     <lido:displayPlace xml:lang="pl">Duisburg</lido:displayPlace>
+                     <lido:displayPlace xml:lang="pt">Duisburgo</lido:displayPlace>
+                     <lido:displayPlace xml:lang="ro">Duisburg</lido:displayPlace>
+                     <lido:displayPlace xml:lang="ru">Дуйсбург</lido:displayPlace>
+                     <lido:displayPlace xml:lang="sv">Duisburg</lido:displayPlace>
+                     <lido:displayPlace xml:lang="sw">Duisburg</lido:displayPlace>
+                     <lido:displayPlace xml:lang="th">ดืสบวร์ค</lido:displayPlace>
+                     <lido:displayPlace xml:lang="tr">Duisburg</lido:displayPlace>
+                     <lido:displayPlace xml:lang="ur">ڈیسبورگ</lido:displayPlace>
+                     <lido:displayPlace xml:lang="vi">Duisburg</lido:displayPlace>
+                     <lido:displayPlace xml:lang="zh">杜伊斯堡</lido:displayPlace>
+                     <lido:place>
+                        <lido:placeID lido:source="geonames" lido:type="uri">https://sws.geonames.org/2934691</lido:placeID>
+                        <lido:placeID lido:source="TGN" lido:type="uri">http://vocab.getty.edu/tgn/7004923</lido:placeID>
+                        <lido:placeID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4013284-5</lido:placeID>
+                        <lido:placeID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q2100</lido:placeID>
+                        <lido:placeID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/place/1220</lido:placeID>
+                        <lido:namePlaceSet>
+                           <lido:appellationValue>Duisburg</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ar">دويسبورغ</lido:appellationValue>
+                           <lido:appellationValue xml:lang="cs">Duisburg</lido:appellationValue>
+                           <lido:appellationValue xml:lang="da">Duisburg</lido:appellationValue>
+                           <lido:appellationValue xml:lang="de">Duisburg</lido:appellationValue>
+                           <lido:appellationValue xml:lang="el">Ντούισμπουργκ</lido:appellationValue>
+                           <lido:appellationValue xml:lang="en">Duisburg</lido:appellationValue>
+                           <lido:appellationValue xml:lang="es">Duisburgo</lido:appellationValue>
+                           <lido:appellationValue xml:lang="fa">دویسبورگ</lido:appellationValue>
+                           <lido:appellationValue xml:lang="fi">Duisburg</lido:appellationValue>
+                           <lido:appellationValue xml:lang="fr">Duisbourg</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ha">Duisburg</lido:appellationValue>
+                           <lido:appellationValue xml:lang="he">דיסבורג</lido:appellationValue>
+                           <lido:appellationValue xml:lang="hu">Duisburg</lido:appellationValue>
+                           <lido:appellationValue xml:lang="id">Duisburg</lido:appellationValue>
+                           <lido:appellationValue xml:lang="it">Duisburg</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ja">デュースブルク</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ka">დუისბურგი</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ko">뒤스부르크</lido:appellationValue>
+                           <lido:appellationValue xml:lang="nl">Duisburg</lido:appellationValue>
+                           <lido:appellationValue xml:lang="pl">Duisburg</lido:appellationValue>
+                           <lido:appellationValue xml:lang="pt">Duisburgo</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ro">Duisburg</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ru">Дуйсбург</lido:appellationValue>
+                           <lido:appellationValue xml:lang="sv">Duisburg</lido:appellationValue>
+                           <lido:appellationValue xml:lang="sw">Duisburg</lido:appellationValue>
+                           <lido:appellationValue xml:lang="th">ดืสบวร์ค</lido:appellationValue>
+                           <lido:appellationValue xml:lang="tr">Duisburg</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ur">ڈیسبورگ</lido:appellationValue>
+                           <lido:appellationValue xml:lang="vi">Duisburg</lido:appellationValue>
+                           <lido:appellationValue xml:lang="zh">杜伊斯堡</lido:appellationValue>
+                        </lido:namePlaceSet>
+                        <lido:gml>
+                           <gml:Point xmlns:gml="http://www.opengis.net/gml" srsName="EPSG:4326">
+                              <gml:pos>51.432220458984 6.7611112594604</gml:pos>
+                           </gml:Point>
+                        </lido:gml>
+                     </lido:place>
+                  </lido:subjectPlace>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="aat" lido:type="uri">http://vocab.getty.edu/aat/300006958</lido:conceptID>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4011453-3</lido:conceptID>
+                     <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh85087089</lido:conceptID>
+                     <lido:conceptID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q4989906</lido:conceptID>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Denkmal_(Gedenken)</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/890</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Denkmal</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ar">معلم تذكاري</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="bn">সৌধ</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="cs">Pomník</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="da">Monument</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="de">Denkmal</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="el">μνημείο</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="en">Monument</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="es">Monumento</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fa">یادمانی</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fi">Monumentti</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fr">Monument</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="he">מונומנט</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hi">स्मारक</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hu">emlékmű</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="id">Monumen</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="it">Monumento</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ja">モニュメント</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ko">기념물</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="nl">Gedenkmonument</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pl">Pomnik</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pt">Monumento</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ro">monument</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ru">памятник</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sv">Minnesmärke</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ta">நினைவுச் சின்னம்</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="th">อนุสรณ์สถาน</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tr">Anıt</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="vi">di tích</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="zh">紀念建築物</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="aat" lido:type="uri">http://vocab.getty.edu/aat/300005909</lido:conceptID>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">http://d-nb.info/gnd/4021732-2</lido:conceptID>
+                     <lido:conceptID lido:source="iconclass" lido:type="uri">http://iconclass.org/rkd/42E35/</lido:conceptID>
+                     <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh85120127</lido:conceptID>
+                     <lido:conceptID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q56055312</lido:conceptID>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Grabmal</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/2425</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Grabdenkmal</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="de">Grabdenkmal</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="en">Sepulchral monument</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="es">Monumento sepulcral</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fr">Monument funéraire</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="nl">Grafmonument</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sv">Gravmonument</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4018480-8</lido:conceptID>
+                     <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh85051992.html</lido:conceptID>
+                     <lido:conceptID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q491</lido:conceptID>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">https://en.wikipedia.org/wiki/Friendship</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/4690</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Freundschaft</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ar">صداقة</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="bn">বন্ধুত্ব</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="cs">Přátelství</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="da">Venskab</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="de">Freundschaft</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="el">Φιλία</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="en">Friendship</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="es">Amistad</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fa">دوستی</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fi">Ystävyys</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fr">Amitié</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="he">ידידות</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hi">मित्रता</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hu">barátság</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="id">Persahabatan</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="it">Amicizia</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ja">友情</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ka">მეგობრობა</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ko">우정</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="nl">Vriendschap</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pl">Przyjaźń</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pt">Amizade</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ro">prietenie</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ru">дружба</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sv">Vänskap</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sw">Rafiki</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ta">நட்பு</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="th">มิตรภาพ</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tl">Kaibigan</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tr">Arkadaşlık</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ur">دوستی</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="vi">Tình bạn</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="zh">友情</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+         </lido:subjectWrap>
+         <lido:relatedWorksWrap/>
+      </lido:objectRelationWrap>
+   </lido:descriptiveMetadata>
+   <lido:administrativeMetadata xml:lang="de">
+      <lido:rightsWorkWrap>
+         <lido:rightsWorkSet>
+            <lido:rightsHolder>
+               <lido:legalBodyName>
+                  <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:rightsHolder>
+         </lido:rightsWorkSet>
+      </lido:rightsWorkWrap>
+      <lido:recordWrap>
+         <lido:recordID lido:type="museum-digital">66928</lido:recordID>
+         <lido:recordType>
+            <lido:term lido:addedSearchTerm="no">item</lido:term>
+         </lido:recordType>
+         <lido:recordSource lido:type="dataProvider">
+            <lido:legalBodyName>
+               <lido:appellationValue>museum-digital</lido:appellationValue>
+            </lido:legalBodyName>
+            <lido:legalBodyWeblink>https://berlin.museum-digital.de/</lido:legalBodyWeblink>
+         </lido:recordSource>
+         <lido:recordSource>
+            <lido:legalBodyID lido:type="isil">DE-B185</lido:legalBodyID>
+            <lido:legalBodyName>
+               <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+            </lido:legalBodyName>
+         </lido:recordSource>
+         <lido:recordRights>
+            <lido:rightsType>
+               <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no">CC BY</lido:term>
+            </lido:rightsType>
+            <lido:rightsHolder>
+               <lido:legalBodyID lido:type="isil">DE-B185</lido:legalBodyID>
+               <lido:legalBodyName>
+                  <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+               </lido:legalBodyName>
+               <lido:legalBodyWeblink>http://geschichte-brandenburg.de/</lido:legalBodyWeblink>
+            </lido:rightsHolder>
+            <lido:creditLine>Förderprogramm zur Digitalisierung von Objekten des kulturellen Erbes des Landes Berlin</lido:creditLine>
+         </lido:recordRights>
+         <lido:recordInfoSet>
+            <lido:recordInfoLink>https://berlin.museum-digital.de/index.php?t=objekt&amp;oges=66928</lido:recordInfoLink>
+            <lido:recordMetadataDate>2021-04-27 07:59:55</lido:recordMetadataDate>
+         </lido:recordInfoSet>
+      </lido:recordWrap>
+      <lido:resourceWrap>
+         <lido:resourceSet lido:sortorder="1">
+            <lido:resourceID lido:source="image" lido:type="local">48514</lido:resourceID>
+            <lido:resourceRepresentation lido:type="masterfile">
+               <lido:linkResource lido:formatResource="image/tiff"/>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_thumb">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/202007/100h_duisburg-entwurf-eines-gartenhauses-architectonisches-skizzenbuch-66928.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_preview">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/202007/200w_duisburg-entwurf-eines-gartenhauses-architectonisches-skizzenbuch-66928.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/202007/duisburg-entwurf-eines-gartenhauses-architectonisches-skizzenbuch-66928.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceType>
+               <lido:term lido:addedSearchTerm="no">image</lido:term>
+            </lido:resourceType>
+            <lido:resourceRelType>
+               <lido:term lido:addedSearchTerm="no">Hauptansicht</lido:term>
+            </lido:resourceRelType>
+            <lido:resourceDescription>Duisburg: Entwurf eines Gartenhauses (Architectonisches Skizzenbuch)</lido:resourceDescription>
+            <lido:resourceSource lido:type="creator">
+               <lido:legalBodyName>
+                  <lido:appellationValue>Thomas Voßbeck, 2020</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:resourceSource>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+                  <lido:term lido:addedSearchTerm="no">CC BY</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V.</lido:appellationValue>
+                  </lido:legalBodyName>
+               </lido:rightsHolder>
+               <lido:creditLine>Thomas Voßbeck, 2020</lido:creditLine>
+            </lido:rightsResource>
+         </lido:resourceSet>
+      </lido:resourceWrap>
+   </lido:administrativeMetadata>
+</lido:lido>
+

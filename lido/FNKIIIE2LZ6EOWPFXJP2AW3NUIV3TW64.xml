@@ -1,0 +1,442 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lido:lido xmlns:lido="http://www.lido-schema.org"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <lido:lidoRecID lido:type="local">DE-MUS-275412/305507</lido:lidoRecID>
+    <lido:category>
+      <lido:conceptID lido:type="URI">http://www.cidoc-crm.org/crm-concepts/E22</lido:conceptID>
+      <lido:term xml:lang="en">Man-Made Object</lido:term>
+    </lido:category>
+    <lido:descriptiveMetadata xml:lang="de">
+      <lido:objectClassificationWrap>
+        <lido:objectWorkTypeWrap>
+            <lido:objectWorkType lido:sortorder="1">
+               <lido:conceptID lido:source="http://vocab.getty.edu/aat/" lido:type="URI">http://vocab.getty.edu/aat/300026367</lido:conceptID>
+               <lido:term>Lehrmaterial</lido:term>
+            </lido:objectWorkType>
+        </lido:objectWorkTypeWrap>
+        <lido:classificationWrap>
+            <lido:classification lido:type="Sammlung">
+               <lido:term>Dokumentesammlung</lido:term>
+            </lido:classification>
+        </lido:classificationWrap>
+      </lido:objectClassificationWrap>
+      <lido:objectIdentificationWrap>
+        <lido:titleWrap>
+            <lido:titleSet>
+               <lido:appellationValue lido:pref="preferred">Konstruktionsprinzipien im heutigen Bauen Gruppe  G VIII (Leporello zur Werkbundkiste)</lido:appellationValue>
+            </lido:titleSet>
+        </lido:titleWrap>
+        <lido:repositoryWrap>
+            <lido:repositorySet lido:type="current">
+               <lido:repositoryName>
+                  <lido:legalBodyID lido:source="ISIL (ISO 15511)" lido:type="URI">info:isil/DE-MUS-275412</lido:legalBodyID>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Werkbundarchiv - Museum der Dinge, Berlin</lido:appellationValue>
+                  </lido:legalBodyName>
+                  <lido:legalBodyWeblink>http://www.museumderdinge.de</lido:legalBodyWeblink>
+               </lido:repositoryName>
+               <lido:workID lido:type="inventory number">D 6321-01</lido:workID>
+            </lido:repositorySet>
+        </lido:repositoryWrap>
+        <lido:objectDescriptionWrap>
+            <lido:objectDescriptionSet lido:type="Bemerkungen">
+               <lido:descriptiveNoteValue>Fehlt im Bestand. S. Werkbundkiste Konstruktionsprinzipien O 280-00ff., Textbuch D 6321-00.
+</lido:descriptiveNoteValue>
+            </lido:objectDescriptionSet>
+            <lido:objectDescriptionSet lido:type="Beschreibung">
+               <lido:descriptiveNoteValue>Im Badischen Landesmuseum Karlsruhe / Bestand Werkbundkisten ist kein Leporello vorhanden, evtl. wurde für diese Kiste keiner angefertigt.</lido:descriptiveNoteValue>
+            </lido:objectDescriptionSet>
+        </lido:objectDescriptionWrap>
+      </lido:objectIdentificationWrap>
+      <lido:eventWrap>
+        <lido:eventSet lido:sortorder="1">
+            <lido:event>
+               <lido:eventType>
+                  <lido:conceptID lido:source="http://terminology.lido-schema.org" lido:type="URI">http://terminology.lido-schema.org/lido00007</lido:conceptID>
+                  <lido:term>Herstellung</lido:term>
+               </lido:eventType>
+               <lido:eventActor lido:sortorder="1">
+                  <lido:displayActorInRole>Geschäftsstelle für die Ergänzung des Kunstunterrichts an den Schulen Karlsruhe (*1955), Herausgeber/in</lido:displayActorInRole>
+                  <lido:actorInRole>
+                     <lido:actor>
+                        <lido:nameActorSet>
+                           <lido:appellationValue>Geschäftsstelle für die Ergänzung des Kunstunterrichts an den Schulen Karlsruhe</lido:appellationValue>
+                        </lido:nameActorSet>
+                     </lido:actor>
+                     <lido:roleActor>
+                        <lido:term>Herausgeber/in</lido:term>
+                     </lido:roleActor>
+                  </lido:actorInRole>
+               </lido:eventActor>
+               <lido:eventActor lido:sortorder="6">
+                  <lido:displayActorInRole>Badisches Landesmuseum Karlsruhe (*1919), Herausgeber/in</lido:displayActorInRole>
+                  <lido:actorInRole>
+                     <lido:actor>
+                        <lido:actorID lido:source="http://d-nb.info/gnd/" lido:type="URI">http://d-nb.info/gnd/2005684-9</lido:actorID>
+                        <lido:nameActorSet>
+                           <lido:appellationValue>Badisches Landesmuseum Karlsruhe</lido:appellationValue>
+                        </lido:nameActorSet>
+                     </lido:actor>
+                     <lido:roleActor>
+                        <lido:term>Herausgeber/in</lido:term>
+                     </lido:roleActor>
+                  </lido:actorInRole>
+               </lido:eventActor>
+               <lido:eventDate>
+                  <lido:displayDate>Entwurf: 1958</lido:displayDate>
+                  <lido:date>
+                     <lido:earliestDate>1958</lido:earliestDate>
+                     <lido:latestDate>1958</lido:latestDate>
+                  </lido:date>
+               </lido:eventDate>
+               <lido:eventMaterialsTech/>
+            </lido:event>
+        </lido:eventSet>
+      </lido:eventWrap>
+      <lido:objectRelationWrap>
+        <lido:relatedWorksWrap>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:object>
+                     <lido:objectID lido:type="local">DE-MUS-275412/305506</lido:objectID>
+                     <lido:objectNote>D 6321-00, Geschäftsstelle für die Ergänzung des Kunstunterrichts an den Schulen Karlsruhe, Textbuch zur Werkbundkiste, 1958</lido:objectNote>
+                  </lido:object>
+               </lido:relatedWork>
+               <lido:relatedWorkRelType>
+                  <lido:term>inhaltlicher Bezug zu</lido:term>
+               </lido:relatedWorkRelType>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:object>
+                     <lido:objectID lido:type="local">DE-MUS-275412/282410</lido:objectID>
+                     <lido:objectNote>O 280-00, Haupt, Werkbundkiste Konstruktionsprinzipien im heutigen Bauen, 1958</lido:objectNote>
+                  </lido:object>
+               </lido:relatedWork>
+               <lido:relatedWorkRelType>
+                  <lido:term>inhaltlicher Bezug zu</lido:term>
+               </lido:relatedWorkRelType>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:object>
+                     <lido:objectID lido:type="local">DE-MUS-275412/282411</lido:objectID>
+                     <lido:objectNote>O 280-01, Haupt, Werkbundkiste Konstruktionsprinzipien im heutigen Bauen, Schautafel, 1958</lido:objectNote>
+                  </lido:object>
+               </lido:relatedWork>
+               <lido:relatedWorkRelType>
+                  <lido:term>inhaltlicher Bezug zu</lido:term>
+               </lido:relatedWorkRelType>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:object>
+                     <lido:objectID lido:type="local">DE-MUS-275412/282359</lido:objectID>
+                     <lido:objectNote>O 280-02, Neutra, Werkbundkiste Konstruktionsprinzipien im heutigen Bauen, Schautafel, 1958</lido:objectNote>
+                  </lido:object>
+               </lido:relatedWork>
+               <lido:relatedWorkRelType>
+                  <lido:term>inhaltlicher Bezug zu</lido:term>
+               </lido:relatedWorkRelType>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:object>
+                     <lido:objectID lido:type="local">DE-MUS-275412/282360</lido:objectID>
+                     <lido:objectNote>O 280-03, Kraemer, Werkbundkiste Konstruktionsprinzipien im heutigen Bauen, Schautafel, 1958</lido:objectNote>
+                  </lido:object>
+               </lido:relatedWork>
+               <lido:relatedWorkRelType>
+                  <lido:term>inhaltlicher Bezug zu</lido:term>
+               </lido:relatedWorkRelType>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:object>
+                     <lido:objectID lido:type="local">DE-MUS-275412/282361</lido:objectID>
+                     <lido:objectNote>O 280-04, Guédy, Werkbundkiste Konstruktionsprinzipien im heutigen Bauen, Schautafel, 1958</lido:objectNote>
+                  </lido:object>
+               </lido:relatedWork>
+               <lido:relatedWorkRelType>
+                  <lido:term>inhaltlicher Bezug zu</lido:term>
+               </lido:relatedWorkRelType>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:object>
+                     <lido:objectID lido:type="local">DE-MUS-275412/282362</lido:objectID>
+                     <lido:objectNote>O 280-05, Maillart, Werkbundkiste Konstruktionsprinzipien im heutigen Bauen, Schautafel, 1958</lido:objectNote>
+                  </lido:object>
+               </lido:relatedWork>
+               <lido:relatedWorkRelType>
+                  <lido:term>inhaltlicher Bezug zu</lido:term>
+               </lido:relatedWorkRelType>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:object>
+                     <lido:objectID lido:type="local">DE-MUS-275412/282363</lido:objectID>
+                     <lido:objectNote>O 280-06, Mies van der Rohe, Werkbundkiste Konstruktionsprinzipien im heutigen Bauen, Schautafel, 1958</lido:objectNote>
+                  </lido:object>
+               </lido:relatedWork>
+               <lido:relatedWorkRelType>
+                  <lido:term>inhaltlicher Bezug zu</lido:term>
+               </lido:relatedWorkRelType>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:object>
+                     <lido:objectID lido:type="local">DE-MUS-275412/282364</lido:objectID>
+                     <lido:objectNote>O 280-07, Nervi, Werkbundkiste Konstruktionsprinzipien im heutigen Bauen, Schautafel, 1958</lido:objectNote>
+                  </lido:object>
+               </lido:relatedWork>
+               <lido:relatedWorkRelType>
+                  <lido:term>inhaltlicher Bezug zu</lido:term>
+               </lido:relatedWorkRelType>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:object>
+                     <lido:objectID lido:type="local">DE-MUS-275412/282365</lido:objectID>
+                     <lido:objectNote>O 280-08, Strauss, Werkbundkiste Konstruktionsprinzipien im heutigen Bauen, Schautafel, 1958</lido:objectNote>
+                  </lido:object>
+               </lido:relatedWork>
+               <lido:relatedWorkRelType>
+                  <lido:term>inhaltlicher Bezug zu</lido:term>
+               </lido:relatedWorkRelType>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:object>
+                     <lido:objectID lido:type="local">DE-MUS-275412/282366</lido:objectID>
+                     <lido:objectNote>O 280-09, Böhm, Werkbundkiste Konstruktionsprinzipien im heutigen Bauen, Schautafel, 1958</lido:objectNote>
+                  </lido:object>
+               </lido:relatedWork>
+               <lido:relatedWorkRelType>
+                  <lido:term>inhaltlicher Bezug zu</lido:term>
+               </lido:relatedWorkRelType>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:object>
+                     <lido:objectID lido:type="local">DE-MUS-275412/282367</lido:objectID>
+                     <lido:objectNote>O 280-10, Carrasco, Werkbundkiste Konstruktionsprinzipien im heutigen Bauen, Schautafel, 1958</lido:objectNote>
+                  </lido:object>
+               </lido:relatedWork>
+               <lido:relatedWorkRelType>
+                  <lido:term>inhaltlicher Bezug zu</lido:term>
+               </lido:relatedWorkRelType>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:object>
+                     <lido:objectID lido:type="local">DE-MUS-275412/282368</lido:objectID>
+                     <lido:objectNote>O 280-11, Weinbrenner, Werkbundkiste Konstruktionsprinzipien im heutigen Bauen, Schautafel, 1958</lido:objectNote>
+                  </lido:object>
+               </lido:relatedWork>
+               <lido:relatedWorkRelType>
+                  <lido:term>inhaltlicher Bezug zu</lido:term>
+               </lido:relatedWorkRelType>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:object>
+                     <lido:objectID lido:type="local">DE-MUS-275412/282369</lido:objectID>
+                     <lido:objectNote>O 280-12, Nervi, Werkbundkiste Konstruktionsprinzipien im heutigen Bauen, Schautafel, 1958</lido:objectNote>
+                  </lido:object>
+               </lido:relatedWork>
+               <lido:relatedWorkRelType>
+                  <lido:term>inhaltlicher Bezug zu</lido:term>
+               </lido:relatedWorkRelType>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:object>
+                     <lido:objectID lido:type="local">DE-MUS-275412/282370</lido:objectID>
+                     <lido:objectNote>O 280-13, Lünenborg, Werkbundkiste Konstruktionsprinzipien im heutigen Bauen, Schautafel, 1958</lido:objectNote>
+                  </lido:object>
+               </lido:relatedWork>
+               <lido:relatedWorkRelType>
+                  <lido:term>inhaltlicher Bezug zu</lido:term>
+               </lido:relatedWorkRelType>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:object>
+                     <lido:objectID lido:type="local">DE-MUS-275412/282371</lido:objectID>
+                     <lido:objectNote>O 280-14, Wachsmann, Werkbundkiste Konstruktionsprinzipien im heutigen Bauen, Schautafel, 1958</lido:objectNote>
+                  </lido:object>
+               </lido:relatedWork>
+               <lido:relatedWorkRelType>
+                  <lido:term>inhaltlicher Bezug zu</lido:term>
+               </lido:relatedWorkRelType>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:object>
+                     <lido:objectID lido:type="local">DE-MUS-275412/282373</lido:objectID>
+                     <lido:objectNote>O 280-15, Roth, Werkbundkiste Konstruktionsprinzipien im heutigen Bauen, Schautafel, 1958</lido:objectNote>
+                  </lido:object>
+               </lido:relatedWork>
+               <lido:relatedWorkRelType>
+                  <lido:term>inhaltlicher Bezug zu</lido:term>
+               </lido:relatedWorkRelType>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:object>
+                     <lido:objectID lido:type="local">DE-MUS-275412/282374</lido:objectID>
+                     <lido:objectNote>O 280-16, Skidmore, Werkbundkiste Konstruktionsprinzipien im heutigen Bauen, Schautafel, 1958</lido:objectNote>
+                  </lido:object>
+               </lido:relatedWork>
+               <lido:relatedWorkRelType>
+                  <lido:term>inhaltlicher Bezug zu</lido:term>
+               </lido:relatedWorkRelType>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:object>
+                     <lido:objectID lido:type="local">DE-MUS-275412/282375</lido:objectID>
+                     <lido:objectNote>O 280-17, Figini, Werkbundkiste Konstruktionsprinzipien im heutigen Bauen, Schautafel, 1958</lido:objectNote>
+                  </lido:object>
+               </lido:relatedWork>
+               <lido:relatedWorkRelType>
+                  <lido:term>inhaltlicher Bezug zu</lido:term>
+               </lido:relatedWorkRelType>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:object>
+                     <lido:objectID lido:type="local">DE-MUS-275412/282376</lido:objectID>
+                     <lido:objectNote>O 280-18, Wright, Werkbundkiste Konstruktionsprinzipien im heutigen Bauen, Schautafel, 1958</lido:objectNote>
+                  </lido:object>
+               </lido:relatedWork>
+               <lido:relatedWorkRelType>
+                  <lido:term>inhaltlicher Bezug zu</lido:term>
+               </lido:relatedWorkRelType>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:object>
+                     <lido:objectID lido:type="local">DE-MUS-275412/282377</lido:objectID>
+                     <lido:objectNote>O 280-19, Otto, Werkbundkiste Konstruktionsprinzipien im heutigen Bauen, Schautafel, 1958</lido:objectNote>
+                  </lido:object>
+               </lido:relatedWork>
+               <lido:relatedWorkRelType>
+                  <lido:term>inhaltlicher Bezug zu</lido:term>
+               </lido:relatedWorkRelType>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:object>
+                     <lido:objectID lido:type="local">DE-MUS-275412/282378</lido:objectID>
+                     <lido:objectNote>O 280-20, Stubbins, Werkbundkiste Konstruktionsprinzipien im heutigen Bauen, Schautafel, 1958</lido:objectNote>
+                  </lido:object>
+               </lido:relatedWork>
+               <lido:relatedWorkRelType>
+                  <lido:term>inhaltlicher Bezug zu</lido:term>
+               </lido:relatedWorkRelType>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:object>
+                     <lido:objectID lido:type="local">DE-MUS-275412/282379</lido:objectID>
+                     <lido:objectNote>O 280-21, Haupt, Werkbundkiste Konstruktionsprinzipien im heutigen Bauen, Schautafel, 1958</lido:objectNote>
+                  </lido:object>
+               </lido:relatedWork>
+               <lido:relatedWorkRelType>
+                  <lido:term>inhaltlicher Bezug zu</lido:term>
+               </lido:relatedWorkRelType>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:object>
+                     <lido:objectID lido:type="local">DE-MUS-275412/282380</lido:objectID>
+                     <lido:objectNote>O 280-22, Haupt, Werkbundkiste Konstruktionsprinzipien im heutigen Bauen, Schautafel, 1958</lido:objectNote>
+                  </lido:object>
+               </lido:relatedWork>
+               <lido:relatedWorkRelType>
+                  <lido:term>inhaltlicher Bezug zu</lido:term>
+               </lido:relatedWorkRelType>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:object>
+                     <lido:objectID lido:type="local">DE-MUS-275412/282381</lido:objectID>
+                     <lido:objectNote>O 280-23, Haupt, Werkbundkiste Konstruktionsprinzipien im heutigen Bauen, Schautafel, 1958</lido:objectNote>
+                  </lido:object>
+               </lido:relatedWork>
+               <lido:relatedWorkRelType>
+                  <lido:term>inhaltlicher Bezug zu</lido:term>
+               </lido:relatedWorkRelType>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:object>
+                     <lido:objectID lido:type="local">DE-MUS-275412/282382</lido:objectID>
+                     <lido:objectNote>O 280-24, Haupt, Werkbundkiste Konstruktionsprinzipien im heutigen Bauen, Schautafel, 1958</lido:objectNote>
+                  </lido:object>
+               </lido:relatedWork>
+               <lido:relatedWorkRelType>
+                  <lido:term>inhaltlicher Bezug zu</lido:term>
+               </lido:relatedWorkRelType>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:object>
+                     <lido:objectID lido:type="local">DE-MUS-275412/282383</lido:objectID>
+                     <lido:objectNote>O 280-25, Haupt, Werkbundkiste Konstruktionsprinzipien im heutigen Bauen, Schautafel, 1958</lido:objectNote>
+                  </lido:object>
+               </lido:relatedWork>
+               <lido:relatedWorkRelType>
+                  <lido:term>inhaltlicher Bezug zu</lido:term>
+               </lido:relatedWorkRelType>
+            </lido:relatedWorkSet>
+        </lido:relatedWorksWrap>
+      </lido:objectRelationWrap>
+    </lido:descriptiveMetadata>
+    <lido:administrativeMetadata xml:lang="de">
+      <lido:rightsWorkWrap>
+        <lido:rightsWorkSet>
+            <lido:rightsHolder>
+               <lido:legalBodyName>
+                  <lido:appellationValue>Werkbundarchiv - Museum der Dinge, Berlin</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:rightsHolder>
+            <lido:creditLine>Förderprogramm zur Digitalisierung von Objekten des kulturellen Erbes des Landes Berlin</lido:creditLine>
+        </lido:rightsWorkSet>
+      </lido:rightsWorkWrap>
+      <lido:recordWrap>
+        <lido:recordID lido:type="local">305507</lido:recordID>
+        <lido:recordType>
+            <lido:conceptID lido:source="http://terminology.lido-schema.org" lido:type="URI">http://terminology.lido-schema.org/lido00141</lido:conceptID>
+            <lido:term>Einzelobjekt</lido:term>
+        </lido:recordType>
+        <lido:recordSource>
+            <lido:legalBodyID lido:source="ISL (ISO 15511)" lido:type="URI">info:isil/DE-MUS-275412</lido:legalBodyID>
+            <lido:legalBodyName>
+               <lido:appellationValue>Werkbundarchiv - Museum der Dinge, Berlin</lido:appellationValue>
+            </lido:legalBodyName>
+            <lido:legalBodyWeblink>http://www.museumderdinge.de</lido:legalBodyWeblink>
+        </lido:recordSource>
+        <lido:recordRights>
+            <lido:rightsType>
+               <lido:conceptID lido:type="URI">http://creativecommons.org/publicdomain/zero/1.0/deed.de</lido:conceptID>
+               <lido:term>CC0 Public Domain Dedication</lido:term>
+            </lido:rightsType>
+            <lido:rightsHolder>
+               <lido:legalBodyID lido:source="ISL (ISO 15511)" lido:type="URI">info:isil/DE-MUS-275412</lido:legalBodyID>
+               <lido:legalBodyName>
+                  <lido:appellationValue>Werkbundarchiv - Museum der Dinge, Berlin</lido:appellationValue>
+               </lido:legalBodyName>
+               <lido:legalBodyWeblink>http://www.museumderdinge.de</lido:legalBodyWeblink>
+            </lido:rightsHolder>
+        </lido:recordRights>
+        <lido:recordInfoSet>
+            <lido:recordInfoLink>http://sammlung.museumderdinge.de/node/305507</lido:recordInfoLink>
+            <lido:recordMetadataDate lido:type="export date">2018-03-01T11:06:25.860</lido:recordMetadataDate>
+        </lido:recordInfoSet>
+      </lido:recordWrap>
+    </lido:administrativeMetadata>
+  </lido:lido>
+

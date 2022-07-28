@@ -1,0 +1,458 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lido:lido xmlns:lido="http://www.lido-schema.org"
+           xmlns:xalan="http://xml.apache.org/xalan">
+   <lido:lidoRecID lido:source="https://berlin.museum-digital.de/index.php?t=institution&amp;instnr=32"
+                   lido:type="local">DE-B185/67101</lido:lidoRecID>
+   <lido:category/>
+   <lido:descriptiveMetadata xml:lang="de">
+      <lido:objectClassificationWrap>
+         <lido:objectWorkTypeWrap>
+            <lido:objectWorkType>
+               <lido:conceptID lido:source="gnd" lido:type="uri">http://d-nb.info/gnd/4021845-4</lido:conceptID>
+               <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/13314</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Druckgraphik</lido:term>
+            </lido:objectWorkType>
+         </lido:objectWorkTypeWrap>
+         <lido:classificationWrap>
+            <lido:classification lido:type="Sammlung">
+               <lido:conceptID lido:source="local" lido:type="collection_id">705</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Handzeichnungen, Druckgraphik, Gemälde</lido:term>
+            </lido:classification>
+            <lido:classification lido:type="Sammlung">
+               <lido:conceptID lido:source="local" lido:type="collection_id">706</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Ansichten</lido:term>
+            </lido:classification>
+            <lido:classification lido:type="Sammlung">
+               <lido:conceptID lido:source="local" lido:type="collection_id">708</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Brandenburg</lido:term>
+            </lido:classification>
+         </lido:classificationWrap>
+      </lido:objectClassificationWrap>
+      <lido:objectIdentificationWrap>
+         <lido:titleWrap>
+            <lido:titleSet>
+               <lido:appellationValue lido:pref="preferred">Himmelpfort (Kr. Templin)]: Klosterkirche von Norden</lido:appellationValue>
+            </lido:titleSet>
+         </lido:titleWrap>
+         <lido:repositoryWrap>
+            <lido:repositorySet lido:type="current">
+               <lido:repositoryName>
+                  <lido:legalBodyID lido:type="isil">DE-B185</lido:legalBodyID>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+                  </lido:legalBodyName>
+                  <lido:legalBodyWeblink>http://geschichte-brandenburg.de/</lido:legalBodyWeblink>
+               </lido:repositoryName>
+               <lido:workID lido:type="inventory number">LGV-Archiv, C 12 G-4-030</lido:workID>
+               <lido:repositoryLocation>
+                  <lido:namePlaceSet>
+                     <lido:appellationValue>Berlin</lido:appellationValue>
+                  </lido:namePlaceSet>
+                  <lido:gml>
+                     <gml:Point xmlns:gml="http://www.opengis.net/gml" srsName="EPSG:4326">
+                        <gml:pos>52.51533127 13.40440559</gml:pos>
+                     </gml:Point>
+                  </lido:gml>
+               </lido:repositoryLocation>
+            </lido:repositorySet>
+         </lido:repositoryWrap>
+         <lido:objectDescriptionWrap>
+            <lido:objectDescriptionSet>
+               <lido:descriptiveNoteValue>Die hier noch vermauert unter Dach ansichtige Klosterkirche ist heute Ruine, der Chor weiterhin als (evangelische) Kirche genutzt. Das Blatt ist eine von zwei Illustationen zum Aufsatz "Das Cistercienser-Mönchsklosters Himmelpforte" von [Ernst Daniel Martin] Kirchner in der Zeitschrift "Märkische Forschungen", Bd. 6 (18858), S. 1-121, und war dem Titelblatt des Bandes als zweite Tafel vorgeschaltet. Die erste Tafel zeigt das "Kloster-Brauhaus". Ein Exemplar des Bandes mit den (dort un- bzw. weniger stark beschnittenen) Tafeln befindet sich in der Bibliothek der LGV.&#xD;
+&#xD;
+Bez. re. u. "Lith. Anst. v. W. Loeillot in Berlin.", mi. u. "Die Kirche des Cistercienser-Mönchs-Klosters Himmelpforte, anno 1858."&#xD;
+Wilhelm Loeillot (um 1827-1876) ist als Lithograph und auch als Verleger zwischen 1827 und 1876 in Berlin nachweisbar. Sein umfangreiches Werk steht in einem Missverhältnis zur wissenschaftlichen Aufmerksamkeit, die er bisher gefunden hat. Der Künstler der Aufnahmezeichnung ist unbekannt, doch hat er eine Datierung des Blattes hinterlassen.&#xD;
+Altbestand des Archivs.</lido:descriptiveNoteValue>
+               <lido:sourceDescriptiveNote>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:sourceDescriptiveNote>
+            </lido:objectDescriptionSet>
+         </lido:objectDescriptionWrap>
+         <lido:objectMeasurementsWrap>
+            <lido:objectMeasurementsSet>
+               <lido:displayObjectMeasurements>Blattgröße (stark beschnitten): Höhe 11,8 cm, Breite 19,4 cm</lido:displayObjectMeasurements>
+               <lido:objectMeasurements/>
+            </lido:objectMeasurementsSet>
+         </lido:objectMeasurementsWrap>
+      </lido:objectIdentificationWrap>
+      <lido:eventWrap>
+         <lido:eventSet>
+            <lido:event>
+               <lido:eventType>
+                  <lido:conceptID lido:type="uri">https://event-types.museum-digital.org/1</lido:conceptID>
+                  <lido:term lido:addedSearchTerm="no">Hergestellt</lido:term>
+               </lido:eventType>
+               <lido:eventActor>
+                  <lido:displayActorInRole>Wilhelm Loeillot (1804-1881)</lido:displayActorInRole>
+                  <lido:actorInRole>
+                     <lido:actor>
+                        <lido:actorID lido:source="gnd" lido:type="uri">http://d-nb.info/gnd/128830689</lido:actorID>
+                        <lido:actorID lido:source="viaf" lido:type="uri">https://viaf.org/viaf/311331011</lido:actorID>
+                        <lido:actorID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q9374488</lido:actorID>
+                        <lido:actorID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/persinst/31229</lido:actorID>
+                        <lido:nameActorSet>
+                           <lido:appellationValue>Loeillot, Wilhelm</lido:appellationValue>
+                           <lido:appellationValue xml:lang="pl">Wilhelm Loeillot</lido:appellationValue>
+                        </lido:nameActorSet>
+                        <lido:vitalDatesActor>
+                           <lido:earliestDate>1804</lido:earliestDate>
+                           <lido:latestDate>1881</lido:latestDate>
+                        </lido:vitalDatesActor>
+                     </lido:actor>
+                  </lido:actorInRole>
+               </lido:eventActor>
+               <lido:eventDate>
+                  <lido:displayDate>1858</lido:displayDate>
+                  <lido:displayDate xml:lang="ar">1858</lido:displayDate>
+                  <lido:displayDate xml:lang="de">1858</lido:displayDate>
+                  <lido:displayDate xml:lang="en">1858</lido:displayDate>
+                  <lido:displayDate xml:lang="es">1858</lido:displayDate>
+                  <lido:displayDate xml:lang="fa">1858</lido:displayDate>
+                  <lido:displayDate xml:lang="fr">1858</lido:displayDate>
+                  <lido:displayDate xml:lang="hu">1858</lido:displayDate>
+                  <lido:displayDate xml:lang="id">1858</lido:displayDate>
+                  <lido:displayDate xml:lang="it">1858</lido:displayDate>
+                  <lido:displayDate xml:lang="ja">1858年</lido:displayDate>
+                  <lido:displayDate xml:lang="ka">1858</lido:displayDate>
+                  <lido:displayDate xml:lang="ko">1858년</lido:displayDate>
+                  <lido:displayDate xml:lang="pl">1858</lido:displayDate>
+                  <lido:displayDate xml:lang="pt">1858</lido:displayDate>
+                  <lido:displayDate xml:lang="ro">1858</lido:displayDate>
+                  <lido:displayDate xml:lang="ru">1858</lido:displayDate>
+                  <lido:displayDate xml:lang="ta">1858</lido:displayDate>
+                  <lido:displayDate xml:lang="tl">1858</lido:displayDate>
+                  <lido:displayDate xml:lang="tr">1858</lido:displayDate>
+                  <lido:displayDate xml:lang="zh">1858年</lido:displayDate>
+                  <lido:date>
+                     <lido:earliestDate>1858</lido:earliestDate>
+                     <lido:latestDate>1858</lido:latestDate>
+                  </lido:date>
+               </lido:eventDate>
+               <lido:eventPlace>
+                  <lido:displayPlace>Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ar">برلين</lido:displayPlace>
+                  <lido:displayPlace xml:lang="bn">বার্লিন</lido:displayPlace>
+                  <lido:displayPlace xml:lang="cs">Berlín</lido:displayPlace>
+                  <lido:displayPlace xml:lang="da">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="de">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="el">Βερολίνο</lido:displayPlace>
+                  <lido:displayPlace xml:lang="en">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="es">Berlín</lido:displayPlace>
+                  <lido:displayPlace xml:lang="fa">برلین</lido:displayPlace>
+                  <lido:displayPlace xml:lang="fi">Berliini</lido:displayPlace>
+                  <lido:displayPlace xml:lang="fr">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ha">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="he">ברלין</lido:displayPlace>
+                  <lido:displayPlace xml:lang="hi">बर्लिन</lido:displayPlace>
+                  <lido:displayPlace xml:lang="hu">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="id">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="it">Berlino</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ja">ベルリン</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ka">ბერლინი</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ko">베를린</lido:displayPlace>
+                  <lido:displayPlace xml:lang="nl">Berlijn</lido:displayPlace>
+                  <lido:displayPlace xml:lang="pl">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="pt">Berlim</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ro">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ru">Берлин</lido:displayPlace>
+                  <lido:displayPlace xml:lang="sv">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="sw">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ta">பெர்லின்</lido:displayPlace>
+                  <lido:displayPlace xml:lang="th">เบอร์ลิน</lido:displayPlace>
+                  <lido:displayPlace xml:lang="tl">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="tr">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ur">برلن</lido:displayPlace>
+                  <lido:displayPlace xml:lang="vi">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="zh">柏林</lido:displayPlace>
+                  <lido:place>
+                     <lido:placeID lido:source="geonames" lido:type="uri">https://sws.geonames.org/2950159</lido:placeID>
+                     <lido:placeID lido:source="TGN" lido:type="uri">http://vocab.getty.edu/tgn/7209904</lido:placeID>
+                     <lido:placeID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4005728-8</lido:placeID>
+                     <lido:placeID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q64</lido:placeID>
+                     <lido:placeID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/place/61</lido:placeID>
+                     <lido:namePlaceSet>
+                        <lido:appellationValue>Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ar">برلين</lido:appellationValue>
+                        <lido:appellationValue xml:lang="bn">বার্লিন</lido:appellationValue>
+                        <lido:appellationValue xml:lang="cs">Berlín</lido:appellationValue>
+                        <lido:appellationValue xml:lang="da">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="de">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="el">Βερολίνο</lido:appellationValue>
+                        <lido:appellationValue xml:lang="en">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="es">Berlín</lido:appellationValue>
+                        <lido:appellationValue xml:lang="fa">برلین</lido:appellationValue>
+                        <lido:appellationValue xml:lang="fi">Berliini</lido:appellationValue>
+                        <lido:appellationValue xml:lang="fr">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ha">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="he">ברלין</lido:appellationValue>
+                        <lido:appellationValue xml:lang="hi">बर्लिन</lido:appellationValue>
+                        <lido:appellationValue xml:lang="hu">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="id">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="it">Berlino</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ja">ベルリン</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ka">ბერლინი</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ko">베를린</lido:appellationValue>
+                        <lido:appellationValue xml:lang="nl">Berlijn</lido:appellationValue>
+                        <lido:appellationValue xml:lang="pl">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="pt">Berlim</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ro">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ru">Берлин</lido:appellationValue>
+                        <lido:appellationValue xml:lang="sv">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="sw">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ta">பெர்லின்</lido:appellationValue>
+                        <lido:appellationValue xml:lang="th">เบอร์ลิน</lido:appellationValue>
+                        <lido:appellationValue xml:lang="tl">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="tr">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ur">برلن</lido:appellationValue>
+                        <lido:appellationValue xml:lang="vi">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="zh">柏林</lido:appellationValue>
+                     </lido:namePlaceSet>
+                     <lido:gml>
+                        <gml:Point xmlns:gml="http://www.opengis.net/gml" srsName="EPSG:4326">
+                           <gml:pos>52.516666412354 13.383333206177</gml:pos>
+                        </gml:Point>
+                     </lido:gml>
+                  </lido:place>
+               </lido:eventPlace>
+            </lido:event>
+         </lido:eventSet>
+         <lido:eventSet>
+            <lido:event>
+               <lido:eventType>
+                  <lido:conceptID lido:type="uri">http://terminology.lido-schema.org/lido00003</lido:conceptID>
+                  <lido:term>Event (non-specified)</lido:term>
+               </lido:eventType>
+               <lido:eventMaterialsTech>
+                  <lido:displayMaterialsTech>Lithographie mit Tonplatte</lido:displayMaterialsTech>
+               </lido:eventMaterialsTech>
+            </lido:event>
+         </lido:eventSet>
+      </lido:eventWrap>
+      <lido:objectRelationWrap>
+         <lido:subjectWrap>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectPlace>
+                     <lido:displayPlace>Himmelpfort</lido:displayPlace>
+                     <lido:displayPlace xml:lang="de">Himmelpfort</lido:displayPlace>
+                     <lido:displayPlace xml:lang="en">Himmelpfort</lido:displayPlace>
+                     <lido:displayPlace xml:lang="fr">Himmelpfort</lido:displayPlace>
+                     <lido:displayPlace xml:lang="nl">Himmelpfort</lido:displayPlace>
+                     <lido:displayPlace xml:lang="ru">Химмельфорт</lido:displayPlace>
+                     <lido:displayPlace xml:lang="sv">Himmelpfort</lido:displayPlace>
+                     <lido:place>
+                        <lido:placeID lido:source="geonames" lido:type="uri">https://sws.geonames.org/2904546</lido:placeID>
+                        <lido:placeID lido:source="TGN" lido:type="uri">http://vocab.getty.edu/tgn/7171096</lido:placeID>
+                        <lido:placeID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4803011-9</lido:placeID>
+                        <lido:placeID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q542328</lido:placeID>
+                        <lido:placeID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/place/14340</lido:placeID>
+                        <lido:namePlaceSet>
+                           <lido:appellationValue>Himmelpfort</lido:appellationValue>
+                           <lido:appellationValue xml:lang="de">Himmelpfort</lido:appellationValue>
+                           <lido:appellationValue xml:lang="en">Himmelpfort</lido:appellationValue>
+                           <lido:appellationValue xml:lang="fr">Himmelpfort</lido:appellationValue>
+                           <lido:appellationValue xml:lang="nl">Himmelpfort</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ru">Химмельфорт</lido:appellationValue>
+                           <lido:appellationValue xml:lang="sv">Himmelpfort</lido:appellationValue>
+                        </lido:namePlaceSet>
+                        <lido:gml>
+                           <gml:Point xmlns:gml="http://www.opengis.net/gml" srsName="EPSG:4326">
+                              <gml:pos>53.17919921875 13.228099822998</gml:pos>
+                           </gml:Point>
+                        </lido:gml>
+                     </lido:place>
+                  </lido:subjectPlace>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="aat" lido:type="uri">http://vocab.getty.edu/aat/300000650</lido:conceptID>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4031225-2</lido:conceptID>
+                     <lido:conceptID lido:source="iconclass" lido:type="uri">http://iconclass.org/rkd/11P31512/</lido:conceptID>
+                     <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh85086690</lido:conceptID>
+                     <lido:conceptID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q44613</lido:conceptID>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Kloster</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/196</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Kloster</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ar">دير</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="cs">Klášter</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="da">Kloster</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="de">Kloster</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="el">μοναστήρι</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="en">Monastery</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="es">Monasterio</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fa">صومعه</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fi">Luostari</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fr">Monastère</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="he">מנזר</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hu">kolostor</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="id">Biara</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="it">Monastero</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ja">僧院</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ka">მონასტერი</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ko">수도원</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="nl">Kloostercomplex</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pl">Klasztor</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pt">Mosteiro</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ro">mănăstire</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ru">монастырь</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sv">Kloster</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sw">monasteri</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="th">อาราม</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tr">Manastır</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ur">خانقاہ</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="vi">tu viện</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="zh">僧院</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="aat" lido:type="uri">http://vocab.getty.edu/aat/300148071</lido:conceptID>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/1008453-8</lido:conceptID>
+                     <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/n81025943</lido:conceptID>
+                     <lido:conceptID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q166861</lido:conceptID>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Zisterzienser</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/8004</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Zisterzienser</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ar">سيسترسية</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="cs">Cisterciácký řád</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="da">Cistercienserordenen</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="de">Zisterzienser</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="el">Κιστερκιανό Τάγμα</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="en">Cistercians</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="es">Orden del Císter</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fa">سیسترسی‌ها</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fi">Sisterssiläiset</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fr">Ordre cistercien</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="he">נזירים ציסטרסיאניים</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hu">ciszterciek</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="id">Sistersian</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="it">Ordine cistercense</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ja">シトー会</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ka">ცისტერციანელები</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ko">시토회</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="nl">Cisterciënzers</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pl">Cystersi</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pt">Ordem de Cister</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ro">Ordinul cistercian</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ru">Цистерцианцы</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sv">Cisterciensorden</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="th">คณะซิสเตอร์เชียน</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tr">Sistersiyenler</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="vi">Dòng Xitô</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="zh">熙笃会</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+         </lido:subjectWrap>
+         <lido:relatedWorksWrap>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:displayObject>Weitere Ansicht im selben Band der "Märkischen Forschungen".</lido:displayObject>
+                  <lido:object>
+                     <lido:objectWebResource>https://berlin.museum-digital.de/index.php?t=objekt&amp;oges=67102</lido:objectWebResource>
+                  </lido:object>
+               </lido:relatedWork>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:displayObject>Link auf den Band in der Bibliothek:</lido:displayObject>
+                  <lido:object>
+                     <lido:objectWebResource>http://www.geschichte-brandenburg.allegronet.de/grec.php?urN=39198</lido:objectWebResource>
+                  </lido:object>
+               </lido:relatedWork>
+            </lido:relatedWorkSet>
+         </lido:relatedWorksWrap>
+      </lido:objectRelationWrap>
+   </lido:descriptiveMetadata>
+   <lido:administrativeMetadata xml:lang="de">
+      <lido:rightsWorkWrap>
+         <lido:rightsWorkSet>
+            <lido:rightsHolder>
+               <lido:legalBodyName>
+                  <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:rightsHolder>
+         </lido:rightsWorkSet>
+      </lido:rightsWorkWrap>
+      <lido:recordWrap>
+         <lido:recordID lido:type="museum-digital">67101</lido:recordID>
+         <lido:recordType>
+            <lido:term lido:addedSearchTerm="no">item</lido:term>
+         </lido:recordType>
+         <lido:recordSource lido:type="dataProvider">
+            <lido:legalBodyName>
+               <lido:appellationValue>museum-digital</lido:appellationValue>
+            </lido:legalBodyName>
+            <lido:legalBodyWeblink>https://berlin.museum-digital.de/</lido:legalBodyWeblink>
+         </lido:recordSource>
+         <lido:recordSource>
+            <lido:legalBodyID lido:type="isil">DE-B185</lido:legalBodyID>
+            <lido:legalBodyName>
+               <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+            </lido:legalBodyName>
+         </lido:recordSource>
+         <lido:recordRights>
+            <lido:rightsType>
+               <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no">CC BY</lido:term>
+            </lido:rightsType>
+            <lido:rightsHolder>
+               <lido:legalBodyID lido:type="isil">DE-B185</lido:legalBodyID>
+               <lido:legalBodyName>
+                  <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+               </lido:legalBodyName>
+               <lido:legalBodyWeblink>http://geschichte-brandenburg.de/</lido:legalBodyWeblink>
+            </lido:rightsHolder>
+            <lido:creditLine>Förderprogramm zur Digitalisierung von Objekten des kulturellen Erbes des Landes Berlin</lido:creditLine>
+         </lido:recordRights>
+         <lido:recordInfoSet>
+            <lido:recordInfoLink>https://berlin.museum-digital.de/index.php?t=objekt&amp;oges=67101</lido:recordInfoLink>
+            <lido:recordMetadataDate>2021-04-27 07:59:54</lido:recordMetadataDate>
+         </lido:recordInfoSet>
+      </lido:recordWrap>
+      <lido:resourceWrap>
+         <lido:resourceSet lido:sortorder="1">
+            <lido:resourceID lido:source="image" lido:type="local">48685</lido:resourceID>
+            <lido:resourceRepresentation lido:type="masterfile">
+               <lido:linkResource lido:formatResource="image/tiff"/>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_thumb">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/202007/100h_himmelpfort-kr-templin-klosterkirche-von-norden-67101.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_preview">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/202007/200w_himmelpfort-kr-templin-klosterkirche-von-norden-67101.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/202007/himmelpfort-kr-templin-klosterkirche-von-norden-67101.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceType>
+               <lido:term lido:addedSearchTerm="no">image</lido:term>
+            </lido:resourceType>
+            <lido:resourceRelType>
+               <lido:term lido:addedSearchTerm="no">Hauptansicht</lido:term>
+            </lido:resourceRelType>
+            <lido:resourceDescription>Himmelpfort (Kr. Templin)]: Klosterkirche von Norden</lido:resourceDescription>
+            <lido:resourceSource lido:type="creator">
+               <lido:legalBodyName>
+                  <lido:appellationValue>Thomas Voßbeck, 2020</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:resourceSource>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+                  <lido:term lido:addedSearchTerm="no">CC BY</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V.</lido:appellationValue>
+                  </lido:legalBodyName>
+               </lido:rightsHolder>
+               <lido:creditLine>Thomas Voßbeck, 2020</lido:creditLine>
+            </lido:rightsResource>
+         </lido:resourceSet>
+      </lido:resourceWrap>
+   </lido:administrativeMetadata>
+</lido:lido>
+

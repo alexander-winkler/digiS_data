@@ -1,0 +1,588 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lido:lido xmlns:lido="http://www.lido-schema.org"
+           xmlns:xalan="http://xml.apache.org/xalan">
+   <lido:lidoRecID lido:source="https://berlin.museum-digital.de/index.php?t=institution&amp;instnr=32"
+                   lido:type="local">DE-B185/66833</lido:lidoRecID>
+   <lido:category/>
+   <lido:descriptiveMetadata xml:lang="de">
+      <lido:objectClassificationWrap>
+         <lido:objectWorkTypeWrap>
+            <lido:objectWorkType>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Gartenplan</lido:term>
+            </lido:objectWorkType>
+         </lido:objectWorkTypeWrap>
+         <lido:classificationWrap>
+            <lido:classification lido:type="Sammlung">
+               <lido:conceptID lido:source="local" lido:type="collection_id">705</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Handzeichnungen, Druckgraphik, Gemälde</lido:term>
+            </lido:classification>
+            <lido:classification lido:type="Sammlung">
+               <lido:conceptID lido:source="local" lido:type="collection_id">706</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Ansichten</lido:term>
+            </lido:classification>
+            <lido:classification lido:type="Sammlung">
+               <lido:conceptID lido:source="local" lido:type="collection_id">708</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Brandenburg</lido:term>
+            </lido:classification>
+         </lido:classificationWrap>
+      </lido:objectClassificationWrap>
+      <lido:objectIdentificationWrap>
+         <lido:titleWrap>
+            <lido:titleSet>
+               <lido:appellationValue lido:pref="preferred">Neuruppin (Kr. Ruppin): Lageplan der Klosterkirche und ihrer Umgebung</lido:appellationValue>
+            </lido:titleSet>
+         </lido:titleWrap>
+         <lido:repositoryWrap>
+            <lido:repositorySet lido:type="current">
+               <lido:repositoryName>
+                  <lido:legalBodyID lido:type="isil">DE-B185</lido:legalBodyID>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+                  </lido:legalBodyName>
+                  <lido:legalBodyWeblink>http://geschichte-brandenburg.de/</lido:legalBodyWeblink>
+               </lido:repositoryName>
+               <lido:workID lido:type="inventory number">LGV-Archiv, C 11 D-019</lido:workID>
+               <lido:repositoryLocation>
+                  <lido:namePlaceSet>
+                     <lido:appellationValue>Berlin</lido:appellationValue>
+                  </lido:namePlaceSet>
+                  <lido:gml>
+                     <gml:Point xmlns:gml="http://www.opengis.net/gml" srsName="EPSG:4326">
+                        <gml:pos>52.51533127 13.40440559</gml:pos>
+                     </gml:Point>
+                  </lido:gml>
+               </lido:repositoryLocation>
+            </lido:repositorySet>
+         </lido:repositoryWrap>
+         <lido:objectDescriptionWrap>
+            <lido:objectDescriptionSet>
+               <lido:descriptiveNoteValue>Der Plan ist gesüdwestet und zeigt die Umgebung der Klosterkirche Neuruppin vom Ruppiner See bis zur Klosterstraße, von der Bergstraße (im Westen) bis zur östlich gelegenen Poststraße. Es handelt sich um eine detailgetreue Kopie nach einer originalen Planung von Peter Joseph Lenné (Günther/Harksen, Nr. 442 ; Schulz, S. 98f.). Die Neuruppiner Dominikanerkirche wurde in den Jahren 1836 bis 1841 unter der Leitung Karl Friedrich Schinkels restauriert, der auch die Wegeführung um die Kirche bereits anlegte und die als Sichtschutz angelegte Bepflanzung östlich derselben. Schon Schinkel wollte die Aussicht zum See durch Abbruch eines Stückes der Stadtmauer öffnen. Der Gartengestalter Lenné wurde im Januar 1840 einbezogen. Um ihm die Arbeit zu erleichtern, übersandte man ihm eine von Maurermeister Seiffert gefertigte Karte (derselbe Seiffert, der auch die hier vorliegende Kopie zeichnete). Er brauchte nur noch seine Vorschläge einzutragen, das waren: die detaillierte Bepflanzung der Grünanlagen und der alleenartigen Bepflanzung an der Poststraße in Korrespondenz zur Klosterkirche, leichte Korrektur der Schinkelschen Wegeführung zu mehr Schwung und die Präzisierung der überraschenden romantischen Sichtbeziehung zum See. Lenné schlug vor, den südwestlich der Kirche gelegenen Teil der Grünanlage an der Stadtmauer dicht zu bepflanzen und die Mauer um 30 cm zu erhöhen, damit der Ausblick auf den See überraschend wirkt, wo die Stadtmauer bis zu einer Höhe von wenig über 80 cm abgetragen wurde (heute turmartiger Aussichtspunkt). Die Arbeiten waren bis Mitte des Jahres im Wesentlichen vollendet, am 16. Mai 1841 erfolgte die Einweihung der Kirche.
+
+Handschriftlich bez. li. u. "Plan der Klosterkirche und deren Umgebungen / zu / Neu-Ruppin.", darunter "angefertigt im Maerz 1840 / durch den Maurermeister / Seiffert in Neu Ruppin. // Copiam der Entwürfe des / Herrn Lenné. Das Original hat der Magistrat." Li. o. "Copie." Bezeichnet auf der Rückseite: "Plan von der Kloster Kirche / zu Neu Ruppin. / No. 25".
+Altbestand des Archivs (Nachlass Dr. Eberhard Faden).
+
+Literatur: Peter Joseph Lenné. Katalog der Zeichnungen. Bearb. von Harri Günther u. Sibylle Harksen. Berlin/Tübingen 1993, Nr. 442 (die den Plan noch für verloren hielten). - Gerhard Hinz: Peter Joseph Lenné. Das Gesamtwerk des Gartenarchitekten und Städteplaners. T. 1-2. Hildesheim u.a. 1989, S. 262-265. (m. Abb. des Lenné-Plans ohne Abbildungsnachweis). - Gabriele Schulz: Neuruppin. Niemöllerplatz. Landkreis Ostprignitz-Ruppin. In: Peter Joseph Lenné. Parks und Gärten im Land Brandenburg. Werkverzeichnis. Bearb. von Detlef Karg u. Hans-Joachim Dreger (Forschungen und Beiträge zur Denkmalpflege im Land Brandenburg, Bd 7). Bd. 2. Worms 2005, S. 96-99 (mit Abb. des originalen Planes, Stiftung Preußische Schlösser und Gärten Berlin-Brandenburg, PK 4369).</lido:descriptiveNoteValue>
+               <lido:sourceDescriptiveNote>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:sourceDescriptiveNote>
+            </lido:objectDescriptionSet>
+         </lido:objectDescriptionWrap>
+         <lido:objectMeasurementsWrap>
+            <lido:objectMeasurementsSet>
+               <lido:displayObjectMeasurements>Blattgröße: Höhe 65 cm, Breite 74 cm</lido:displayObjectMeasurements>
+               <lido:objectMeasurements/>
+            </lido:objectMeasurementsSet>
+         </lido:objectMeasurementsWrap>
+      </lido:objectIdentificationWrap>
+      <lido:eventWrap>
+         <lido:eventSet>
+            <lido:event>
+               <lido:eventType>
+                  <lido:conceptID lido:type="uri">https://event-types.museum-digital.org/1</lido:conceptID>
+                  <lido:term lido:addedSearchTerm="no">Hergestellt</lido:term>
+               </lido:eventType>
+               <lido:eventActor>
+                  <lido:displayActorInRole>Peter Joseph Lenné (1789-1866)</lido:displayActorInRole>
+                  <lido:actorInRole>
+                     <lido:actor>
+                        <lido:actorID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Peter_Joseph_Lenn%C3%A9</lido:actorID>
+                        <lido:actorID lido:source="bnf" lido:type="uri">https://catalogue.bnf.fr/ark:/12148/cb12352190j</lido:actorID>
+                        <lido:actorID lido:source="edition humboldt digital" lido:type="uri">https://edition-humboldt.de/register/personen/detail.xql?normid=http://d-nb.info/gnd/118571559</lido:actorID>
+                        <lido:actorID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/118571559</lido:actorID>
+                        <lido:actorID lido:source="loc" lido:type="uri">http://id.loc.gov/authorities/names/n85371734</lido:actorID>
+                        <lido:actorID lido:source="rkd" lido:type="uri">https://rkd.nl/explore/artists/304416</lido:actorID>
+                        <lido:actorID lido:source="ULAN" lido:type="uri">http://vocab.getty.edu/ulan/500003742</lido:actorID>
+                        <lido:actorID lido:source="viaf" lido:type="uri">https://viaf.org/viaf/78145857807823020176</lido:actorID>
+                        <lido:actorID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q65910</lido:actorID>
+                        <lido:actorID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/persinst/11361</lido:actorID>
+                        <lido:nameActorSet>
+                           <lido:appellationValue>Lenné, Peter Joseph</lido:appellationValue>
+                           <lido:appellationValue xml:lang="de">Peter Joseph Lenné</lido:appellationValue>
+                           <lido:appellationValue xml:lang="en">Peter Joseph Lenné</lido:appellationValue>
+                           <lido:appellationValue xml:lang="es">Peter Joseph Lenné</lido:appellationValue>
+                           <lido:appellationValue xml:lang="fi">Peter Joseph Lenné</lido:appellationValue>
+                           <lido:appellationValue xml:lang="fr">Peter Joseph Lenné</lido:appellationValue>
+                           <lido:appellationValue xml:lang="hu">Peter Joseph Lenné</lido:appellationValue>
+                           <lido:appellationValue xml:lang="it">Peter Joseph Lenné</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ja">ペーター・ヨセフ・レンネ</lido:appellationValue>
+                           <lido:appellationValue xml:lang="nl">Peter Joseph Lenné</lido:appellationValue>
+                           <lido:appellationValue xml:lang="pl">Peter Joseph Lenné</lido:appellationValue>
+                           <lido:appellationValue xml:lang="pt">Peter Joseph Lenné</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ru">Петер Йозеф Ленне</lido:appellationValue>
+                           <lido:appellationValue xml:lang="sv">Peter Joseph Lenné</lido:appellationValue>
+                        </lido:nameActorSet>
+                        <lido:vitalDatesActor>
+                           <lido:earliestDate>1789</lido:earliestDate>
+                           <lido:latestDate>1866</lido:latestDate>
+                        </lido:vitalDatesActor>
+                     </lido:actor>
+                  </lido:actorInRole>
+               </lido:eventActor>
+               <lido:eventDate>
+                  <lido:displayDate>März 1840</lido:displayDate>
+                  <lido:displayDate xml:lang="ar">03/1840</lido:displayDate>
+                  <lido:displayDate xml:lang="de">März 1840</lido:displayDate>
+                  <lido:displayDate xml:lang="en">March 1840</lido:displayDate>
+                  <lido:displayDate xml:lang="es">marzo 1840</lido:displayDate>
+                  <lido:displayDate xml:lang="fa">مارس 1840</lido:displayDate>
+                  <lido:displayDate xml:lang="fr">mars 1840</lido:displayDate>
+                  <lido:displayDate xml:lang="hu">1840. március</lido:displayDate>
+                  <lido:displayDate xml:lang="id">Maret 1840</lido:displayDate>
+                  <lido:displayDate xml:lang="it">marzo 1840</lido:displayDate>
+                  <lido:displayDate xml:lang="ja">1840年03月</lido:displayDate>
+                  <lido:displayDate xml:lang="ka">მარტი 1840</lido:displayDate>
+                  <lido:displayDate xml:lang="ko">1840년 03월</lido:displayDate>
+                  <lido:displayDate xml:lang="pl">marzec 1840</lido:displayDate>
+                  <lido:displayDate xml:lang="pt">março 1840</lido:displayDate>
+                  <lido:displayDate xml:lang="ro">martie 1840</lido:displayDate>
+                  <lido:displayDate xml:lang="ru">Март 1840</lido:displayDate>
+                  <lido:displayDate xml:lang="ta">மார்ச் 1840</lido:displayDate>
+                  <lido:displayDate xml:lang="tl">Marso 1840</lido:displayDate>
+                  <lido:displayDate xml:lang="tr">Mart 1840</lido:displayDate>
+                  <lido:displayDate xml:lang="zh">1840年03月</lido:displayDate>
+                  <lido:date>
+                     <lido:earliestDate>1840</lido:earliestDate>
+                     <lido:latestDate>1840</lido:latestDate>
+                  </lido:date>
+               </lido:eventDate>
+               <lido:eventPlace>
+                  <lido:displayPlace>Neuruppin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ar">نويروبين</lido:displayPlace>
+                  <lido:displayPlace xml:lang="cs">Neuruppin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="da">Neuruppin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="de">Neuruppin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="el">Νόυρουππιν</lido:displayPlace>
+                  <lido:displayPlace xml:lang="en">Neuruppin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="es">Neuruppin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="fa">نویروپین</lido:displayPlace>
+                  <lido:displayPlace xml:lang="fi">Neuruppin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="fr">Neuruppin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="hu">Neuruppin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="it">Neuruppin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ja">ノイルピーン</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ka">ნოირუპინი</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ko">노이루핀</lido:displayPlace>
+                  <lido:displayPlace xml:lang="nl">Neuruppin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="pl">Neuruppin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="pt">Neuruppin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ro">Neuruppin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ru">Нойруппин</lido:displayPlace>
+                  <lido:displayPlace xml:lang="sv">Neuruppin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="tr">Neuruppin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="vi">Neuruppin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="zh">诺伊鲁平</lido:displayPlace>
+                  <lido:place>
+                     <lido:placeID lido:source="geonames" lido:type="uri">https://sws.geonames.org/2864276</lido:placeID>
+                     <lido:placeID lido:source="TGN" lido:type="uri">http://vocab.getty.edu/tgn/7012848</lido:placeID>
+                     <lido:placeID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4041908-3</lido:placeID>
+                     <lido:placeID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q16085</lido:placeID>
+                     <lido:placeID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/place/920</lido:placeID>
+                     <lido:namePlaceSet>
+                        <lido:appellationValue>Neuruppin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ar">نويروبين</lido:appellationValue>
+                        <lido:appellationValue xml:lang="cs">Neuruppin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="da">Neuruppin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="de">Neuruppin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="el">Νόυρουππιν</lido:appellationValue>
+                        <lido:appellationValue xml:lang="en">Neuruppin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="es">Neuruppin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="fa">نویروپین</lido:appellationValue>
+                        <lido:appellationValue xml:lang="fi">Neuruppin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="fr">Neuruppin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="hu">Neuruppin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="it">Neuruppin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ja">ノイルピーン</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ka">ნოირუპინი</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ko">노이루핀</lido:appellationValue>
+                        <lido:appellationValue xml:lang="nl">Neuruppin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="pl">Neuruppin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="pt">Neuruppin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ro">Neuruppin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ru">Нойруппин</lido:appellationValue>
+                        <lido:appellationValue xml:lang="sv">Neuruppin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="tr">Neuruppin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="vi">Neuruppin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="zh">诺伊鲁平</lido:appellationValue>
+                     </lido:namePlaceSet>
+                     <lido:gml>
+                        <gml:Point xmlns:gml="http://www.opengis.net/gml" srsName="EPSG:4326">
+                           <gml:pos>52.922222137451 12.800000190735</gml:pos>
+                        </gml:Point>
+                     </lido:gml>
+                  </lido:place>
+               </lido:eventPlace>
+            </lido:event>
+         </lido:eventSet>
+         <lido:eventSet>
+            <lido:event>
+               <lido:eventType>
+                  <lido:conceptID lido:type="uri">http://terminology.lido-schema.org/lido00003</lido:conceptID>
+                  <lido:term>Event (non-specified)</lido:term>
+               </lido:eventType>
+               <lido:eventMaterialsTech>
+                  <lido:displayMaterialsTech>Feder in Braun, koloriert auf festem Karton</lido:displayMaterialsTech>
+               </lido:eventMaterialsTech>
+            </lido:event>
+         </lido:eventSet>
+      </lido:eventWrap>
+      <lido:objectRelationWrap>
+         <lido:subjectWrap>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectPlace>
+                     <lido:displayPlace>Brandenburg</lido:displayPlace>
+                     <lido:displayPlace xml:lang="ar">براندنبورغ</lido:displayPlace>
+                     <lido:displayPlace xml:lang="bn">ব্রান্ডেনবুর্গ</lido:displayPlace>
+                     <lido:displayPlace xml:lang="cs">Braniborsko</lido:displayPlace>
+                     <lido:displayPlace xml:lang="da">Brandenburg</lido:displayPlace>
+                     <lido:displayPlace xml:lang="de">Brandenburg</lido:displayPlace>
+                     <lido:displayPlace xml:lang="el">Βρανδεμβούργο</lido:displayPlace>
+                     <lido:displayPlace xml:lang="en">Brandenburg</lido:displayPlace>
+                     <lido:displayPlace xml:lang="es">Brandeburgo</lido:displayPlace>
+                     <lido:displayPlace xml:lang="fa">براندنبورگ</lido:displayPlace>
+                     <lido:displayPlace xml:lang="fi">Brandenburg</lido:displayPlace>
+                     <lido:displayPlace xml:lang="fr">Brandebourg</lido:displayPlace>
+                     <lido:displayPlace xml:lang="he">ברנדנבורג</lido:displayPlace>
+                     <lido:displayPlace xml:lang="hi">ब्रैंडेनबर्ग</lido:displayPlace>
+                     <lido:displayPlace xml:lang="hu">Brandenburg</lido:displayPlace>
+                     <lido:displayPlace xml:lang="id">Brandenburg</lido:displayPlace>
+                     <lido:displayPlace xml:lang="it">Brandeburgo</lido:displayPlace>
+                     <lido:displayPlace xml:lang="ja">ブランデンブルク州</lido:displayPlace>
+                     <lido:displayPlace xml:lang="ka">ბრანდენბურგის მხარე</lido:displayPlace>
+                     <lido:displayPlace xml:lang="ko">브란덴부르크주</lido:displayPlace>
+                     <lido:displayPlace xml:lang="nl">Brandenburg (deelstaat)</lido:displayPlace>
+                     <lido:displayPlace xml:lang="pl">Brandenburgia</lido:displayPlace>
+                     <lido:displayPlace xml:lang="pt">Brandemburgo</lido:displayPlace>
+                     <lido:displayPlace xml:lang="ro">Brandenburg</lido:displayPlace>
+                     <lido:displayPlace xml:lang="ru">Бранденбург</lido:displayPlace>
+                     <lido:displayPlace xml:lang="sv">Brandenburg</lido:displayPlace>
+                     <lido:displayPlace xml:lang="sw">Brandenburg</lido:displayPlace>
+                     <lido:displayPlace xml:lang="ta">பிரண்டென்பேர்க்</lido:displayPlace>
+                     <lido:displayPlace xml:lang="th">รัฐบรันเดินบวร์ค</lido:displayPlace>
+                     <lido:displayPlace xml:lang="tl">Brandeburgo</lido:displayPlace>
+                     <lido:displayPlace xml:lang="tr">Brandenburg</lido:displayPlace>
+                     <lido:displayPlace xml:lang="ur">برندن برک</lido:displayPlace>
+                     <lido:displayPlace xml:lang="vi">Brandenburg</lido:displayPlace>
+                     <lido:displayPlace xml:lang="zh">勃兰登堡</lido:displayPlace>
+                     <lido:place>
+                        <lido:placeID lido:source="geonames" lido:type="uri">https://sws.geonames.org/2945356</lido:placeID>
+                        <lido:placeID lido:source="TGN" lido:type="uri">http://vocab.getty.edu/tgn/7201651</lido:placeID>
+                        <lido:placeID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4007955-7</lido:placeID>
+                        <lido:placeID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q1208</lido:placeID>
+                        <lido:placeID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/place/2334</lido:placeID>
+                        <lido:namePlaceSet>
+                           <lido:appellationValue>Brandenburg</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ar">براندنبورغ</lido:appellationValue>
+                           <lido:appellationValue xml:lang="bn">ব্রান্ডেনবুর্গ</lido:appellationValue>
+                           <lido:appellationValue xml:lang="cs">Braniborsko</lido:appellationValue>
+                           <lido:appellationValue xml:lang="da">Brandenburg</lido:appellationValue>
+                           <lido:appellationValue xml:lang="de">Brandenburg</lido:appellationValue>
+                           <lido:appellationValue xml:lang="el">Βρανδεμβούργο</lido:appellationValue>
+                           <lido:appellationValue xml:lang="en">Brandenburg</lido:appellationValue>
+                           <lido:appellationValue xml:lang="es">Brandeburgo</lido:appellationValue>
+                           <lido:appellationValue xml:lang="fa">براندنبورگ</lido:appellationValue>
+                           <lido:appellationValue xml:lang="fi">Brandenburg</lido:appellationValue>
+                           <lido:appellationValue xml:lang="fr">Brandebourg</lido:appellationValue>
+                           <lido:appellationValue xml:lang="he">ברנדנבורג</lido:appellationValue>
+                           <lido:appellationValue xml:lang="hi">ब्रैंडेनबर्ग</lido:appellationValue>
+                           <lido:appellationValue xml:lang="hu">Brandenburg</lido:appellationValue>
+                           <lido:appellationValue xml:lang="id">Brandenburg</lido:appellationValue>
+                           <lido:appellationValue xml:lang="it">Brandeburgo</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ja">ブランデンブルク州</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ka">ბრანდენბურგის მხარე</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ko">브란덴부르크주</lido:appellationValue>
+                           <lido:appellationValue xml:lang="nl">Brandenburg (deelstaat)</lido:appellationValue>
+                           <lido:appellationValue xml:lang="pl">Brandenburgia</lido:appellationValue>
+                           <lido:appellationValue xml:lang="pt">Brandemburgo</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ro">Brandenburg</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ru">Бранденбург</lido:appellationValue>
+                           <lido:appellationValue xml:lang="sv">Brandenburg</lido:appellationValue>
+                           <lido:appellationValue xml:lang="sw">Brandenburg</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ta">பிரண்டென்பேர்க்</lido:appellationValue>
+                           <lido:appellationValue xml:lang="th">รัฐบรันเดินบวร์ค</lido:appellationValue>
+                           <lido:appellationValue xml:lang="tl">Brandeburgo</lido:appellationValue>
+                           <lido:appellationValue xml:lang="tr">Brandenburg</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ur">برندن برک</lido:appellationValue>
+                           <lido:appellationValue xml:lang="vi">Brandenburg</lido:appellationValue>
+                           <lido:appellationValue xml:lang="zh">勃兰登堡</lido:appellationValue>
+                        </lido:namePlaceSet>
+                        <lido:gml>
+                           <gml:Point xmlns:gml="http://www.opengis.net/gml" srsName="EPSG:4326">
+                              <gml:pos>52.361946105957 13.008055686951</gml:pos>
+                           </gml:Point>
+                        </lido:gml>
+                     </lido:place>
+                  </lido:subjectPlace>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectPlace>
+                     <lido:displayPlace>Neuruppin</lido:displayPlace>
+                     <lido:displayPlace xml:lang="ar">نويروبين</lido:displayPlace>
+                     <lido:displayPlace xml:lang="cs">Neuruppin</lido:displayPlace>
+                     <lido:displayPlace xml:lang="da">Neuruppin</lido:displayPlace>
+                     <lido:displayPlace xml:lang="de">Neuruppin</lido:displayPlace>
+                     <lido:displayPlace xml:lang="el">Νόυρουππιν</lido:displayPlace>
+                     <lido:displayPlace xml:lang="en">Neuruppin</lido:displayPlace>
+                     <lido:displayPlace xml:lang="es">Neuruppin</lido:displayPlace>
+                     <lido:displayPlace xml:lang="fa">نویروپین</lido:displayPlace>
+                     <lido:displayPlace xml:lang="fi">Neuruppin</lido:displayPlace>
+                     <lido:displayPlace xml:lang="fr">Neuruppin</lido:displayPlace>
+                     <lido:displayPlace xml:lang="hu">Neuruppin</lido:displayPlace>
+                     <lido:displayPlace xml:lang="it">Neuruppin</lido:displayPlace>
+                     <lido:displayPlace xml:lang="ja">ノイルピーン</lido:displayPlace>
+                     <lido:displayPlace xml:lang="ka">ნოირუპინი</lido:displayPlace>
+                     <lido:displayPlace xml:lang="ko">노이루핀</lido:displayPlace>
+                     <lido:displayPlace xml:lang="nl">Neuruppin</lido:displayPlace>
+                     <lido:displayPlace xml:lang="pl">Neuruppin</lido:displayPlace>
+                     <lido:displayPlace xml:lang="pt">Neuruppin</lido:displayPlace>
+                     <lido:displayPlace xml:lang="ro">Neuruppin</lido:displayPlace>
+                     <lido:displayPlace xml:lang="ru">Нойруппин</lido:displayPlace>
+                     <lido:displayPlace xml:lang="sv">Neuruppin</lido:displayPlace>
+                     <lido:displayPlace xml:lang="tr">Neuruppin</lido:displayPlace>
+                     <lido:displayPlace xml:lang="vi">Neuruppin</lido:displayPlace>
+                     <lido:displayPlace xml:lang="zh">诺伊鲁平</lido:displayPlace>
+                     <lido:place>
+                        <lido:placeID lido:source="geonames" lido:type="uri">https://sws.geonames.org/2864276</lido:placeID>
+                        <lido:placeID lido:source="TGN" lido:type="uri">http://vocab.getty.edu/tgn/7012848</lido:placeID>
+                        <lido:placeID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4041908-3</lido:placeID>
+                        <lido:placeID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q16085</lido:placeID>
+                        <lido:placeID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/place/920</lido:placeID>
+                        <lido:namePlaceSet>
+                           <lido:appellationValue>Neuruppin</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ar">نويروبين</lido:appellationValue>
+                           <lido:appellationValue xml:lang="cs">Neuruppin</lido:appellationValue>
+                           <lido:appellationValue xml:lang="da">Neuruppin</lido:appellationValue>
+                           <lido:appellationValue xml:lang="de">Neuruppin</lido:appellationValue>
+                           <lido:appellationValue xml:lang="el">Νόυρουππιν</lido:appellationValue>
+                           <lido:appellationValue xml:lang="en">Neuruppin</lido:appellationValue>
+                           <lido:appellationValue xml:lang="es">Neuruppin</lido:appellationValue>
+                           <lido:appellationValue xml:lang="fa">نویروپین</lido:appellationValue>
+                           <lido:appellationValue xml:lang="fi">Neuruppin</lido:appellationValue>
+                           <lido:appellationValue xml:lang="fr">Neuruppin</lido:appellationValue>
+                           <lido:appellationValue xml:lang="hu">Neuruppin</lido:appellationValue>
+                           <lido:appellationValue xml:lang="it">Neuruppin</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ja">ノイルピーン</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ka">ნოირუპინი</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ko">노이루핀</lido:appellationValue>
+                           <lido:appellationValue xml:lang="nl">Neuruppin</lido:appellationValue>
+                           <lido:appellationValue xml:lang="pl">Neuruppin</lido:appellationValue>
+                           <lido:appellationValue xml:lang="pt">Neuruppin</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ro">Neuruppin</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ru">Нойруппин</lido:appellationValue>
+                           <lido:appellationValue xml:lang="sv">Neuruppin</lido:appellationValue>
+                           <lido:appellationValue xml:lang="tr">Neuruppin</lido:appellationValue>
+                           <lido:appellationValue xml:lang="vi">Neuruppin</lido:appellationValue>
+                           <lido:appellationValue xml:lang="zh">诺伊鲁平</lido:appellationValue>
+                        </lido:namePlaceSet>
+                        <lido:gml>
+                           <gml:Point xmlns:gml="http://www.opengis.net/gml" srsName="EPSG:4326">
+                              <gml:pos>52.922222137451 12.800000190735</gml:pos>
+                           </gml:Point>
+                        </lido:gml>
+                     </lido:place>
+                  </lido:subjectPlace>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q22698</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/2568</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Park</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ar">متنزه</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="cs">Park</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="da">Park</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="de">Park</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="el">πάρκο</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="en">Park</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="es">Parque</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fa">بوستان</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fi">Puisto</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fr">Parc</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="he">פארק</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hi">पार्क</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hu">park</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="id">Taman</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="it">Parco</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ja">公園</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ko">공원</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="nl">Park</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pl">Park</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pt">Parque</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ro">parc</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ru">парк</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sv">Park</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ta">பூங்கா</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="th">สวนสาธารณะ</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tl">Liwasan</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tr">Park</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ur">پارک</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="vi">công viên</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="zh">公园</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="aat" lido:type="uri">https://vocab.getty.edu/page/aat/300005072</lido:conceptID>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">http://d-nb.info/gnd/4139373-9</lido:conceptID>
+                     <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh85026297</lido:conceptID>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">http://de.wikipedia.org/wiki/Stadtmauer</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/7384</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Stadtmauer</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="aat" lido:type="uri">https://vocab.getty.edu/page/aat/300056365</lido:conceptID>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">http://d-nb.info/gnd/4499740-1</lido:conceptID>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Aussichtspunkt</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/27286</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Aussichtspunkt</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="aat" lido:type="uri">http://vocab.getty.edu/aat/300054157</lido:conceptID>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/7700528-4</lido:conceptID>
+                     <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh85074420</lido:conceptID>
+                     <lido:conceptID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q47844</lido:conceptID>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Landschaftsarchitektur</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/37599</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Landschaftsarchitektur</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ar">تصميم المناظر الطبيعية</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="cs">Zahradní architektura</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="de">Landschaftsarchitektur</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="en">Landscape architecture</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="es">Arquitectura del paisaje</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fa">معماری منظر</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fi">Puutarhasuunnittelu</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fr">Architecture du paysage</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="he">אדריכלות נוף</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hi">भूदृश्य वास्तुकला</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hu">Tájépítészet</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="id">Arsitektur lansekap</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="it">Architettura del paesaggio</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ja">造園</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ko">조경</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="nl">landschapsarchitectuur</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pl">architektura krajobrazu</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pt">arquitetura paisagista</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ru">ландшафтная архитектура</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sv">landskapsarkitektur</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ta">நிலத்தோற்றக் கலை</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="th">ภูมิสถาปัตยกรรม</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tl">Arkitekturang paisahe</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tr">Peyzaj mimarlığı</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="vi">Kiến trúc cảnh quan</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="zh">景觀設計</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/75673</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Gartengestaltung</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+         </lido:subjectWrap>
+         <lido:relatedWorksWrap/>
+      </lido:objectRelationWrap>
+   </lido:descriptiveMetadata>
+   <lido:administrativeMetadata xml:lang="de">
+      <lido:rightsWorkWrap>
+         <lido:rightsWorkSet>
+            <lido:rightsHolder>
+               <lido:legalBodyName>
+                  <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:rightsHolder>
+         </lido:rightsWorkSet>
+      </lido:rightsWorkWrap>
+      <lido:recordWrap>
+         <lido:recordID lido:type="museum-digital">66833</lido:recordID>
+         <lido:recordType>
+            <lido:term lido:addedSearchTerm="no">item</lido:term>
+         </lido:recordType>
+         <lido:recordSource lido:type="dataProvider">
+            <lido:legalBodyName>
+               <lido:appellationValue>museum-digital</lido:appellationValue>
+            </lido:legalBodyName>
+            <lido:legalBodyWeblink>https://berlin.museum-digital.de/</lido:legalBodyWeblink>
+         </lido:recordSource>
+         <lido:recordSource>
+            <lido:legalBodyID lido:type="isil">DE-B185</lido:legalBodyID>
+            <lido:legalBodyName>
+               <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+            </lido:legalBodyName>
+         </lido:recordSource>
+         <lido:recordRights>
+            <lido:rightsType>
+               <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no">CC BY</lido:term>
+            </lido:rightsType>
+            <lido:rightsHolder>
+               <lido:legalBodyID lido:type="isil">DE-B185</lido:legalBodyID>
+               <lido:legalBodyName>
+                  <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+               </lido:legalBodyName>
+               <lido:legalBodyWeblink>http://geschichte-brandenburg.de/</lido:legalBodyWeblink>
+            </lido:rightsHolder>
+            <lido:creditLine>Förderprogramm zur Digitalisierung von Objekten des kulturellen Erbes des Landes Berlin</lido:creditLine>
+         </lido:recordRights>
+         <lido:recordInfoSet>
+            <lido:recordInfoLink>https://berlin.museum-digital.de/index.php?t=objekt&amp;oges=66833</lido:recordInfoLink>
+            <lido:recordMetadataDate>2021-04-27 07:59:56</lido:recordMetadataDate>
+         </lido:recordInfoSet>
+      </lido:recordWrap>
+      <lido:resourceWrap>
+         <lido:resourceSet lido:sortorder="1">
+            <lido:resourceID lido:source="image" lido:type="local">48420</lido:resourceID>
+            <lido:resourceRepresentation lido:type="masterfile">
+               <lido:linkResource lido:formatResource="image/tiff"/>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_thumb">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/202007/100h_neuruppin-kr-ruppin-lageplan-der-klosterkirche-und-ihrer-umgebung-66833.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_preview">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/202007/200w_neuruppin-kr-ruppin-lageplan-der-klosterkirche-und-ihrer-umgebung-66833.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/202007/neuruppin-kr-ruppin-lageplan-der-klosterkirche-und-ihrer-umgebung-66833.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceType>
+               <lido:term lido:addedSearchTerm="no">image</lido:term>
+            </lido:resourceType>
+            <lido:resourceRelType>
+               <lido:term lido:addedSearchTerm="no">Hauptansicht</lido:term>
+            </lido:resourceRelType>
+            <lido:resourceDescription>Neuruppin (Kr. Ruppin): Lageplan der Klosterkirche und ihrer Umgebung</lido:resourceDescription>
+            <lido:resourceSource lido:type="creator">
+               <lido:legalBodyName>
+                  <lido:appellationValue>Thomas Voßbeck, 2020</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:resourceSource>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+                  <lido:term lido:addedSearchTerm="no">CC BY</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V.</lido:appellationValue>
+                  </lido:legalBodyName>
+               </lido:rightsHolder>
+               <lido:creditLine>Thomas Voßbeck, 2020</lido:creditLine>
+            </lido:rightsResource>
+         </lido:resourceSet>
+      </lido:resourceWrap>
+   </lido:administrativeMetadata>
+</lido:lido>
+

@@ -1,0 +1,435 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lido:lido xmlns:lido="http://www.lido-schema.org"
+           xmlns:xalan="http://xml.apache.org/xalan">
+   <lido:lidoRecID lido:source="https://berlin.museum-digital.de/index.php?t=institution&amp;instnr=32"
+                   lido:type="local">DE-B185/67177</lido:lidoRecID>
+   <lido:category/>
+   <lido:descriptiveMetadata xml:lang="de">
+      <lido:objectClassificationWrap>
+         <lido:objectWorkTypeWrap>
+            <lido:objectWorkType>
+               <lido:conceptID lido:source="gnd" lido:type="uri">http://d-nb.info/gnd/4021845-4</lido:conceptID>
+               <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/13314</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Druckgraphik</lido:term>
+            </lido:objectWorkType>
+         </lido:objectWorkTypeWrap>
+         <lido:classificationWrap>
+            <lido:classification lido:type="Sammlung">
+               <lido:conceptID lido:source="local" lido:type="collection_id">705</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Handzeichnungen, Druckgraphik, Gemälde</lido:term>
+            </lido:classification>
+            <lido:classification lido:type="Sammlung">
+               <lido:conceptID lido:source="local" lido:type="collection_id">710</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Porträts</lido:term>
+            </lido:classification>
+         </lido:classificationWrap>
+      </lido:objectClassificationWrap>
+      <lido:objectIdentificationWrap>
+         <lido:titleWrap>
+            <lido:titleSet>
+               <lido:appellationValue lido:pref="preferred">Kleist von Nollendorf, Friedrich Graf (1762-1823), preuß. Generalfeldmarschall</lido:appellationValue>
+            </lido:titleSet>
+         </lido:titleWrap>
+         <lido:repositoryWrap>
+            <lido:repositorySet lido:type="current">
+               <lido:repositoryName>
+                  <lido:legalBodyID lido:type="isil">DE-B185</lido:legalBodyID>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+                  </lido:legalBodyName>
+                  <lido:legalBodyWeblink>http://geschichte-brandenburg.de/</lido:legalBodyWeblink>
+               </lido:repositoryName>
+               <lido:workID lido:type="inventory number">LGV-Archiv, C 12 G-4-098</lido:workID>
+               <lido:repositoryLocation>
+                  <lido:namePlaceSet>
+                     <lido:appellationValue>Berlin</lido:appellationValue>
+                  </lido:namePlaceSet>
+                  <lido:gml>
+                     <gml:Point xmlns:gml="http://www.opengis.net/gml" srsName="EPSG:4326">
+                        <gml:pos>52.51533127 13.40440559</gml:pos>
+                     </gml:Point>
+                  </lido:gml>
+               </lido:repositoryLocation>
+            </lido:repositorySet>
+         </lido:repositoryWrap>
+         <lido:objectDescriptionWrap>
+            <lido:objectDescriptionSet>
+               <lido:descriptiveNoteValue>Brustbild.&#xD;
+Aus: Johann Sporschil: Die große Chronik. Geschichte des Krieges des Verbündeten Europa's gegen Napoleon Bonaparte, in den Jahren 1813, 1814 und 1815. Zweiter Theil. Braunschweig 1841, S. 414. &#xD;
+&#xD;
+Bez. li. u. "[...] G. Westermann in Braunschweig.", re. u. "Leipzig d. K[…].", darüber mi. "KLEIST v. NOLLENDORF."&#xD;
+Altbestand des Archivs.&#xD;
+&#xD;
+Literatur: Peter Mortzfeld: Katalog der graphischen Porträts in der Herzog-August-Bibliothek Wolfenbüttel 1500-1850. Bd. 1-50. München 1986-2009, Nr. A 11096.</lido:descriptiveNoteValue>
+               <lido:sourceDescriptiveNote>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:sourceDescriptiveNote>
+            </lido:objectDescriptionSet>
+         </lido:objectDescriptionWrap>
+         <lido:objectMeasurementsWrap>
+            <lido:objectMeasurementsSet>
+               <lido:displayObjectMeasurements>Blattgröße: Höhe 21,2 cm, Breite 13,4 cm</lido:displayObjectMeasurements>
+               <lido:objectMeasurements/>
+            </lido:objectMeasurementsSet>
+         </lido:objectMeasurementsWrap>
+      </lido:objectIdentificationWrap>
+      <lido:eventWrap>
+         <lido:eventSet>
+            <lido:event>
+               <lido:eventType>
+                  <lido:conceptID lido:type="uri">https://event-types.museum-digital.org/1</lido:conceptID>
+                  <lido:term lido:addedSearchTerm="no">Hergestellt</lido:term>
+               </lido:eventType>
+               <lido:eventActor>
+                  <lido:displayActorInRole>Georg Westermann Verlag</lido:displayActorInRole>
+                  <lido:actorInRole>
+                     <lido:actor>
+                        <lido:actorID lido:source="Wikipedia" lido:type="uri">http://de.wikipedia.org/wiki/Westermann_Druck-_und_Verlagsgruppe</lido:actorID>
+                        <lido:actorID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/2011629-9</lido:actorID>
+                        <lido:actorID lido:source="viaf" lido:type="uri">https://viaf.org/viaf/128971405</lido:actorID>
+                        <lido:actorID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q62479647</lido:actorID>
+                        <lido:actorID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/persinst/2829</lido:actorID>
+                        <lido:nameActorSet>
+                           <lido:appellationValue>Georg Westermann Verlag</lido:appellationValue>
+                           <lido:appellationValue xml:lang="de">Georg Westermann Verlag</lido:appellationValue>
+                        </lido:nameActorSet>
+                        <lido:vitalDatesActor>
+                           <lido:earliestDate/>
+                           <lido:latestDate/>
+                        </lido:vitalDatesActor>
+                     </lido:actor>
+                  </lido:actorInRole>
+               </lido:eventActor>
+               <lido:eventDate>
+                  <lido:displayDate>1841</lido:displayDate>
+                  <lido:displayDate xml:lang="ar">1841</lido:displayDate>
+                  <lido:displayDate xml:lang="de">1841</lido:displayDate>
+                  <lido:displayDate xml:lang="en">1841</lido:displayDate>
+                  <lido:displayDate xml:lang="es">1841</lido:displayDate>
+                  <lido:displayDate xml:lang="fa">1841</lido:displayDate>
+                  <lido:displayDate xml:lang="fr">1841</lido:displayDate>
+                  <lido:displayDate xml:lang="hu">1841</lido:displayDate>
+                  <lido:displayDate xml:lang="id">1841</lido:displayDate>
+                  <lido:displayDate xml:lang="it">1841</lido:displayDate>
+                  <lido:displayDate xml:lang="ja">1841年</lido:displayDate>
+                  <lido:displayDate xml:lang="ka">1841</lido:displayDate>
+                  <lido:displayDate xml:lang="ko">1841년</lido:displayDate>
+                  <lido:displayDate xml:lang="pl">1841</lido:displayDate>
+                  <lido:displayDate xml:lang="pt">1841</lido:displayDate>
+                  <lido:displayDate xml:lang="ro">1841</lido:displayDate>
+                  <lido:displayDate xml:lang="ru">1841</lido:displayDate>
+                  <lido:displayDate xml:lang="ta">1841</lido:displayDate>
+                  <lido:displayDate xml:lang="tl">1841</lido:displayDate>
+                  <lido:displayDate xml:lang="tr">1841</lido:displayDate>
+                  <lido:displayDate xml:lang="zh">1841年</lido:displayDate>
+                  <lido:date>
+                     <lido:earliestDate>1841</lido:earliestDate>
+                     <lido:latestDate>1841</lido:latestDate>
+                  </lido:date>
+               </lido:eventDate>
+               <lido:eventPlace>
+                  <lido:displayPlace>Braunschweig</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ar">براونشفايغ</lido:displayPlace>
+                  <lido:displayPlace xml:lang="cs">Braunschweig</lido:displayPlace>
+                  <lido:displayPlace xml:lang="da">Braunschweig</lido:displayPlace>
+                  <lido:displayPlace xml:lang="de">Braunschweig</lido:displayPlace>
+                  <lido:displayPlace xml:lang="el">Μπράουνσβαϊγκ</lido:displayPlace>
+                  <lido:displayPlace xml:lang="en">Brunswick</lido:displayPlace>
+                  <lido:displayPlace xml:lang="es">Brunswick</lido:displayPlace>
+                  <lido:displayPlace xml:lang="fa">براونشوایگ</lido:displayPlace>
+                  <lido:displayPlace xml:lang="fi">Braunschweig</lido:displayPlace>
+                  <lido:displayPlace xml:lang="fr">Brunswick</lido:displayPlace>
+                  <lido:displayPlace xml:lang="he">בראונשווייג</lido:displayPlace>
+                  <lido:displayPlace xml:lang="hi">ब्रंजविक</lido:displayPlace>
+                  <lido:displayPlace xml:lang="hu">Braunschweig</lido:displayPlace>
+                  <lido:displayPlace xml:lang="id">Braunschweig</lido:displayPlace>
+                  <lido:displayPlace xml:lang="it">Braunschweig</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ja">ブラウンシュヴァイク</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ka">ბრაუნშვაიგი</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ko">브라운슈바이크</lido:displayPlace>
+                  <lido:displayPlace xml:lang="nl">Braunschweig</lido:displayPlace>
+                  <lido:displayPlace xml:lang="pl">Brunszwik</lido:displayPlace>
+                  <lido:displayPlace xml:lang="pt">Brunsvique</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ro">Braunschweig</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ru">Брауншвейг</lido:displayPlace>
+                  <lido:displayPlace xml:lang="sv">Braunschweig</lido:displayPlace>
+                  <lido:displayPlace xml:lang="sw">Braunschweig</lido:displayPlace>
+                  <lido:displayPlace xml:lang="th">เบราน์ชไวค์</lido:displayPlace>
+                  <lido:displayPlace xml:lang="tr">Braunschweig</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ur">برانشویگ</lido:displayPlace>
+                  <lido:displayPlace xml:lang="vi">Braunschweig</lido:displayPlace>
+                  <lido:displayPlace xml:lang="zh">不伦瑞克</lido:displayPlace>
+                  <lido:place>
+                     <lido:placeID lido:source="geonames" lido:type="uri">https://sws.geonames.org/2945024</lido:placeID>
+                     <lido:placeID lido:source="TGN" lido:type="uri">http://vocab.getty.edu/tgn/7004434</lido:placeID>
+                     <lido:placeID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4008065-1</lido:placeID>
+                     <lido:placeID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q2773</lido:placeID>
+                     <lido:placeID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/place/31</lido:placeID>
+                     <lido:namePlaceSet>
+                        <lido:appellationValue>Braunschweig</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ar">براونشفايغ</lido:appellationValue>
+                        <lido:appellationValue xml:lang="cs">Braunschweig</lido:appellationValue>
+                        <lido:appellationValue xml:lang="da">Braunschweig</lido:appellationValue>
+                        <lido:appellationValue xml:lang="de">Braunschweig</lido:appellationValue>
+                        <lido:appellationValue xml:lang="el">Μπράουνσβαϊγκ</lido:appellationValue>
+                        <lido:appellationValue xml:lang="en">Brunswick</lido:appellationValue>
+                        <lido:appellationValue xml:lang="es">Brunswick</lido:appellationValue>
+                        <lido:appellationValue xml:lang="fa">براونشوایگ</lido:appellationValue>
+                        <lido:appellationValue xml:lang="fi">Braunschweig</lido:appellationValue>
+                        <lido:appellationValue xml:lang="fr">Brunswick</lido:appellationValue>
+                        <lido:appellationValue xml:lang="he">בראונשווייג</lido:appellationValue>
+                        <lido:appellationValue xml:lang="hi">ब्रंजविक</lido:appellationValue>
+                        <lido:appellationValue xml:lang="hu">Braunschweig</lido:appellationValue>
+                        <lido:appellationValue xml:lang="id">Braunschweig</lido:appellationValue>
+                        <lido:appellationValue xml:lang="it">Braunschweig</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ja">ブラウンシュヴァイク</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ka">ბრაუნშვაიგი</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ko">브라운슈바이크</lido:appellationValue>
+                        <lido:appellationValue xml:lang="nl">Braunschweig</lido:appellationValue>
+                        <lido:appellationValue xml:lang="pl">Brunszwik</lido:appellationValue>
+                        <lido:appellationValue xml:lang="pt">Brunsvique</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ro">Braunschweig</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ru">Брауншвейг</lido:appellationValue>
+                        <lido:appellationValue xml:lang="sv">Braunschweig</lido:appellationValue>
+                        <lido:appellationValue xml:lang="sw">Braunschweig</lido:appellationValue>
+                        <lido:appellationValue xml:lang="th">เบราน์ชไวค์</lido:appellationValue>
+                        <lido:appellationValue xml:lang="tr">Braunschweig</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ur">برانشویگ</lido:appellationValue>
+                        <lido:appellationValue xml:lang="vi">Braunschweig</lido:appellationValue>
+                        <lido:appellationValue xml:lang="zh">不伦瑞克</lido:appellationValue>
+                     </lido:namePlaceSet>
+                     <lido:gml>
+                        <gml:Point xmlns:gml="http://www.opengis.net/gml" srsName="EPSG:4326">
+                           <gml:pos>52.269165039062 10.521111488342</gml:pos>
+                        </gml:Point>
+                     </lido:gml>
+                  </lido:place>
+               </lido:eventPlace>
+            </lido:event>
+         </lido:eventSet>
+         <lido:eventSet>
+            <lido:event>
+               <lido:eventType>
+                  <lido:conceptID lido:type="uri">http://terminology.lido-schema.org/lido00003</lido:conceptID>
+                  <lido:term>Event (non-specified)</lido:term>
+               </lido:eventType>
+               <lido:eventMaterialsTech>
+                  <lido:displayMaterialsTech>Kupferstich auf dünnem Papier, leicht gebräunt, fleckig</lido:displayMaterialsTech>
+               </lido:eventMaterialsTech>
+            </lido:event>
+         </lido:eventSet>
+      </lido:eventWrap>
+      <lido:objectRelationWrap>
+         <lido:subjectWrap>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="aat" lido:type="uri">http://vocab.getty.edu/aat/300015637</lido:conceptID>
+                     <lido:conceptID lido:source="iconclass" lido:type="uri">http://iconclass.org/rkd/61B11/</lido:conceptID>
+                     <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh99001681</lido:conceptID>
+                     <lido:conceptID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q134307</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/22</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Porträt</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ar">بورتريه</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="cs">Portrét</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="da">Portræt</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="de">Porträt</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="el">προσωπογραφία</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="en">Portrait</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="es">Retrato</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fa">چهره‌نگاری</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fi">Muotokuva</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fr">Portrait</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="he">דיוקן</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hi">चित्र</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hu">arckép</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="id">Potret</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="it">Ritratto</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ja">肖像</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ka">პორტრეტი</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ko">초상</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="nl">Portret</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pl">Portret</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pt">Retrato</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ro">portret</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ru">портрет</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sv">Porträtt</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="th">ภาพเหมือน</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tr">Portre</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="zh">肖像</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4039305-7</lido:conceptID>
+                     <lido:conceptID lido:source="iconclass" lido:type="uri">http://iconclass.org/rkd/45D21/</lido:conceptID>
+                     <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh99002455</lido:conceptID>
+                     <lido:conceptID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q8473</lido:conceptID>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Milit%C3%A4r</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/72</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Militär</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ar">عسكرية</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="bn">সামরিক</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="cs">Vojsko</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="da">Militær</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="de">Militär</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="el">στράτευμα</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="en">Military</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="es">Ejército</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fa">نیروی نظامی</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fi">Armeija</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fr">Armée</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="he">צבא</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hi">सेना</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hu">hadsereg</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="id">Militer</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="it">Forze armate</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ja">軍隊</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ko">군대</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="nl">Militairen</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pl">Wojskowość</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pt">Militar</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ro">armată</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ru">армия</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sv">Militär</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sw">Jeshi</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ta">படைத்துறை</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="th">การทหาร</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tl">Hukbo</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tr">Askeriye</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ur">فوج</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="vi">quân đội</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="zh">軍隊</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh2008113370</lido:conceptID>
+                     <lido:conceptID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q814235</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/1329</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Befreiungskriege</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="de">Befreiungskriege</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="en">German Campaign of 1813</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fr">Campagne d´Allemagne (1813)</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="it">Campagna di Germania del 1813</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ja">解放戦争 (ドイツ)</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="nl">Duitse bevrijdingsoorlog</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ru">Освободительная война в Германии</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/9395</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Herrenporträt</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="de">Herrenporträt</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hu">ferfi portre</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+         </lido:subjectWrap>
+         <lido:relatedWorksWrap>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:displayObject>Link zum Porträtierten:</lido:displayObject>
+                  <lido:object>
+                     <lido:objectWebResource>https://de.wikipedia.org/wiki/Friedrich_von_Kleist</lido:objectWebResource>
+                  </lido:object>
+               </lido:relatedWork>
+            </lido:relatedWorkSet>
+         </lido:relatedWorksWrap>
+      </lido:objectRelationWrap>
+   </lido:descriptiveMetadata>
+   <lido:administrativeMetadata xml:lang="de">
+      <lido:rightsWorkWrap>
+         <lido:rightsWorkSet>
+            <lido:rightsHolder>
+               <lido:legalBodyName>
+                  <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:rightsHolder>
+         </lido:rightsWorkSet>
+      </lido:rightsWorkWrap>
+      <lido:recordWrap>
+         <lido:recordID lido:type="museum-digital">67177</lido:recordID>
+         <lido:recordType>
+            <lido:term lido:addedSearchTerm="no">item</lido:term>
+         </lido:recordType>
+         <lido:recordSource lido:type="dataProvider">
+            <lido:legalBodyName>
+               <lido:appellationValue>museum-digital</lido:appellationValue>
+            </lido:legalBodyName>
+            <lido:legalBodyWeblink>https://berlin.museum-digital.de/</lido:legalBodyWeblink>
+         </lido:recordSource>
+         <lido:recordSource>
+            <lido:legalBodyID lido:type="isil">DE-B185</lido:legalBodyID>
+            <lido:legalBodyName>
+               <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+            </lido:legalBodyName>
+         </lido:recordSource>
+         <lido:recordRights>
+            <lido:rightsType>
+               <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no">CC BY</lido:term>
+            </lido:rightsType>
+            <lido:rightsHolder>
+               <lido:legalBodyID lido:type="isil">DE-B185</lido:legalBodyID>
+               <lido:legalBodyName>
+                  <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+               </lido:legalBodyName>
+               <lido:legalBodyWeblink>http://geschichte-brandenburg.de/</lido:legalBodyWeblink>
+            </lido:rightsHolder>
+            <lido:creditLine>Förderprogramm zur Digitalisierung von Objekten des kulturellen Erbes des Landes Berlin</lido:creditLine>
+         </lido:recordRights>
+         <lido:recordInfoSet>
+            <lido:recordInfoLink>https://berlin.museum-digital.de/index.php?t=objekt&amp;oges=67177</lido:recordInfoLink>
+            <lido:recordMetadataDate>2021-04-27 07:59:53</lido:recordMetadataDate>
+         </lido:recordInfoSet>
+      </lido:recordWrap>
+      <lido:resourceWrap>
+         <lido:resourceSet lido:sortorder="1">
+            <lido:resourceID lido:source="image" lido:type="local">48760</lido:resourceID>
+            <lido:resourceRepresentation lido:type="masterfile">
+               <lido:linkResource lido:formatResource="image/tiff"/>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_thumb">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/202007/100h_kleist-von-nollendorf-friedrich-graf-1762-1823-preuSs-generalfeldmarschall-67177.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_preview">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/202007/200w_kleist-von-nollendorf-friedrich-graf-1762-1823-preuSs-generalfeldmarschall-67177.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/202007/kleist-von-nollendorf-friedrich-graf-1762-1823-preuSs-generalfeldmarschall-67177.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceType>
+               <lido:term lido:addedSearchTerm="no">image</lido:term>
+            </lido:resourceType>
+            <lido:resourceRelType>
+               <lido:term lido:addedSearchTerm="no">Hauptansicht</lido:term>
+            </lido:resourceRelType>
+            <lido:resourceDescription>Kleist von Nollendorf, Friedrich Graf (1762-1823), preuß. Generalfeldmarschall</lido:resourceDescription>
+            <lido:resourceSource lido:type="creator">
+               <lido:legalBodyName>
+                  <lido:appellationValue>Thomas Voßbeck, 2020</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:resourceSource>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+                  <lido:term lido:addedSearchTerm="no">CC BY</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V.</lido:appellationValue>
+                  </lido:legalBodyName>
+               </lido:rightsHolder>
+               <lido:creditLine>Thomas Voßbeck, 2020</lido:creditLine>
+            </lido:rightsResource>
+         </lido:resourceSet>
+      </lido:resourceWrap>
+   </lido:administrativeMetadata>
+</lido:lido>
+

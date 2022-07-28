@@ -1,0 +1,380 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lido:lido xmlns:lido="http://www.lido-schema.org"
+           xmlns:xalan="http://xml.apache.org/xalan">
+   <lido:lidoRecID lido:source="https://berlin.museum-digital.de/index.php?t=institution&amp;instnr=26"
+                   lido:type="local">ddb_oid1612959125221_66161</lido:lidoRecID>
+   <lido:descriptiveMetadata xml:lang="de">
+      <lido:objectClassificationWrap>
+         <lido:objectWorkTypeWrap>
+            <lido:objectWorkType>
+               <lido:term lido:addedSearchTerm="no">Planfilm-Negativ</lido:term>
+            </lido:objectWorkType>
+         </lido:objectWorkTypeWrap>
+         <lido:classificationWrap>
+            <lido:classification lido:type="Sammlung">
+               <lido:conceptID lido:source="local" lido:type="collection_id">746</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no">Firmen und Geschäfte Berlin (West)</lido:term>
+            </lido:classification>
+         </lido:classificationWrap>
+      </lido:objectClassificationWrap>
+      <lido:objectIdentificationWrap>
+         <lido:titleWrap>
+            <lido:titleSet>
+               <lido:appellationValue lido:pref="preferred">Fotografie Handstaubsauger Univera, Firma Munack (1)</lido:appellationValue>
+            </lido:titleSet>
+         </lido:titleWrap>
+         <lido:repositoryWrap>
+            <lido:repositorySet lido:type="current">
+               <lido:repositoryName>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Gerda Schimpf Fotoarchiv</lido:appellationValue>
+                  </lido:legalBodyName>
+                  <lido:legalBodyWeblink>https://gerda-schimpf-fotoarchiv.com</lido:legalBodyWeblink>
+               </lido:repositoryName>
+               <lido:workID lido:type="inventory number">8498</lido:workID>
+               <lido:repositoryLocation>
+                  <lido:namePlaceSet>
+                     <lido:appellationValue>Berlin</lido:appellationValue>
+                  </lido:namePlaceSet>
+                  <lido:gml/>
+               </lido:repositoryLocation>
+            </lido:repositorySet>
+         </lido:repositoryWrap>
+         <lido:objectDescriptionWrap>
+            <lido:objectDescriptionSet>
+               <lido:descriptiveNoteValue>Schwarzweißfotografie, Innenaufnahme, Fotoatelier, Produktpräsentation, 1955&lt;br&gt;
+&lt;br&gt;
+Ganzfigur, stehend, Profil links - Eine junge, schlanke Frau, bekleidet mit einer weißen Bluse, dunklem, langen schwarzen Faltenrock und Pumps steht seitlich schräg rechts. Links von ihr an der Wand befindet sich eine mit hellem Stoff bespannte Flurgarderobe, mit Hutablage, rechts einem länglichem Spiegel, darunter einem Schränkchen. An der Garderobe hängt an einem der Metallhaken auf einem Bügel ein Jackett in Donegaloptik. Die Frau hält in der rechten Hand an dessen mittig angebrachten Griff einen Handstaubsauger. Mit der linken Hand faßt sie mit zwei Fingern das Jackett am unteren Rand und hält es straff, während sie es absaugt. &lt;br&gt;
+&lt;br&gt;
+Der Staubsauger besteht aus einem kurzen Rohr am Ende, einem schmalen länglichen, dunklen Rundkörper, mit einer hellen Kappe oben und unten. Unten ist ein kurzes metallenes Saugrohr mit einem schwarzen, breiten Saugkopf zu sehen. Der Stecker ist links an der weißen Kappe angebracht, oben gibt es einen schwarzen kleinen Anschaltknopf zum rein drücken. Am anderen Ende sind rechts und links am Gerät je eine Metallklammer, zum Öffnen des Gerätes (zur Entnahme bzw. Wechsel des Staubbeutels). Die elektrische Schnur ist mit einem fasrigen Material umwickelt, das Kabelende mit Stecker liegt auf dem Boden. &lt;br&gt;
+&lt;br&gt;
+Links neben der Garderobe befindet sich ein niedriges Tischchen mit Kacheln auf der Fläche und Vase, in der Zweige dekoriert sind.&lt;br&gt;
+&lt;br&gt;
+Anmerkung:&lt;br&gt;
+Die Firma Munack Vertriebsgesellschaft mbH, Elektrogeräte erscheint im West-Berliner Branchenbuch von 1955 unter der Adresse Seeburger Straße 9-11, Berlin-Spandau.&lt;br&gt;
+&lt;br&gt;
+Ch. Kahlau</lido:descriptiveNoteValue>
+               <lido:sourceDescriptiveNote>Gerda Schimpf Fotoarchiv</lido:sourceDescriptiveNote>
+            </lido:objectDescriptionSet>
+         </lido:objectDescriptionWrap>
+         <lido:objectMeasurementsWrap>
+            <lido:objectMeasurementsSet>
+               <lido:displayObjectMeasurements>Höhe: 6 cm, Breite: 6 cm</lido:displayObjectMeasurements>
+               <lido:objectMeasurements>
+                  <lido:measurementsSet>
+                     <lido:measurementType>width</lido:measurementType>
+                     <lido:measurementUnit>cm</lido:measurementUnit>
+                     <lido:measurementValue>6</lido:measurementValue>
+                  </lido:measurementsSet>
+                  <lido:measurementsSet>
+                     <lido:measurementType>height</lido:measurementType>
+                     <lido:measurementUnit>cm</lido:measurementUnit>
+                     <lido:measurementValue>6</lido:measurementValue>
+                  </lido:measurementsSet>
+               </lido:objectMeasurements>
+            </lido:objectMeasurementsSet>
+         </lido:objectMeasurementsWrap>
+      </lido:objectIdentificationWrap>
+      <lido:eventWrap>
+         <lido:eventSet>
+            <lido:displayEvent>Aufgenommen</lido:displayEvent>
+            <lido:event>
+               <lido:eventID lido:type="local">166204</lido:eventID>
+               <lido:eventType>
+                  <lido:conceptID lido:type="uri">https://event-types.museum-digital.org/10</lido:conceptID>
+                  <lido:term lido:addedSearchTerm="no">Aufgenommen</lido:term>
+               </lido:eventType>
+               <lido:eventName>
+                  <lido:appellationValue>Aufgenommen - Obj. 66161</lido:appellationValue>
+               </lido:eventName>
+               <lido:eventActor>
+                  <lido:displayActorInRole>Gerda Schimpf (1913-2014)</lido:displayActorInRole>
+                  <lido:actorInRole>
+                     <lido:actor>
+                        <lido:actorID lido:source="gnd" lido:type="uri">http://d-nb.info/gnd/1131575903</lido:actorID>
+                        <lido:actorID lido:source="viaf" lido:type="uri">https://viaf.org/viaf/2653149489090493810007</lido:actorID>
+                        <lido:actorID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/persinst/42576</lido:actorID>
+                        <lido:nameActorSet>
+                           <lido:appellationValue>Schimpf, Gerda</lido:appellationValue>
+                        </lido:nameActorSet>
+                        <lido:vitalDatesActor>
+                           <lido:earliestDate>1913</lido:earliestDate>
+                           <lido:latestDate>2014</lido:latestDate>
+                        </lido:vitalDatesActor>
+                     </lido:actor>
+                  </lido:actorInRole>
+               </lido:eventActor>
+               <lido:eventDate>
+                  <lido:displayDate>1957</lido:displayDate>
+                  <lido:displayDate xml:lang="ar">1957</lido:displayDate>
+                  <lido:displayDate xml:lang="en">1957</lido:displayDate>
+                  <lido:displayDate xml:lang="es">1957</lido:displayDate>
+                  <lido:displayDate xml:lang="fa">1957</lido:displayDate>
+                  <lido:displayDate xml:lang="fr">1957</lido:displayDate>
+                  <lido:displayDate xml:lang="hu">1957</lido:displayDate>
+                  <lido:displayDate xml:lang="id">1957</lido:displayDate>
+                  <lido:displayDate xml:lang="it">1957</lido:displayDate>
+                  <lido:displayDate xml:lang="ja">1957年</lido:displayDate>
+                  <lido:displayDate xml:lang="ka">1957</lido:displayDate>
+                  <lido:displayDate xml:lang="ko">1957년</lido:displayDate>
+                  <lido:displayDate xml:lang="pl">1957</lido:displayDate>
+                  <lido:displayDate xml:lang="pt">1957</lido:displayDate>
+                  <lido:displayDate xml:lang="ro">1957</lido:displayDate>
+                  <lido:displayDate xml:lang="ru">1957</lido:displayDate>
+                  <lido:displayDate xml:lang="ta">1957</lido:displayDate>
+                  <lido:displayDate xml:lang="tl">1957</lido:displayDate>
+                  <lido:displayDate xml:lang="tr">1957</lido:displayDate>
+                  <lido:displayDate xml:lang="zh">1957年</lido:displayDate>
+                  <lido:date>
+                     <lido:earliestDate>1957</lido:earliestDate>
+                     <lido:latestDate>1957</lido:latestDate>
+                  </lido:date>
+               </lido:eventDate>
+               <lido:eventPlace>
+                  <lido:displayPlace>Berlin-Charlottenburg</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ar">تشارلوتنبرغ</lido:displayPlace>
+                  <lido:displayPlace xml:lang="cs">Charlottenburg</lido:displayPlace>
+                  <lido:displayPlace xml:lang="da">Charlottenburg</lido:displayPlace>
+                  <lido:displayPlace xml:lang="el">Σαρλότενμπουργκ</lido:displayPlace>
+                  <lido:displayPlace xml:lang="en">Charlottenburg</lido:displayPlace>
+                  <lido:displayPlace xml:lang="es">Charlottenburg</lido:displayPlace>
+                  <lido:displayPlace xml:lang="fa">شارلوتنبورگ</lido:displayPlace>
+                  <lido:displayPlace xml:lang="fi">Charlottenburg</lido:displayPlace>
+                  <lido:displayPlace xml:lang="fr">Berlin-Charlottenbourg</lido:displayPlace>
+                  <lido:displayPlace xml:lang="he">שרלוטנבורג</lido:displayPlace>
+                  <lido:displayPlace xml:lang="id">Berlin-Charlottenbourg</lido:displayPlace>
+                  <lido:displayPlace xml:lang="it">Charlottenburg</lido:displayPlace>
+                  <lido:displayPlace xml:lang="nl">Berlin-Charlottenburg</lido:displayPlace>
+                  <lido:displayPlace xml:lang="pl">Charlottenburg (dzielnica Berlina)</lido:displayPlace>
+                  <lido:displayPlace xml:lang="pt">Charlottenburg</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ru">Шарлоттенбург (район Берлина)</lido:displayPlace>
+                  <lido:displayPlace xml:lang="sv">Charlottenburg</lido:displayPlace>
+                  <lido:displayPlace xml:lang="tr">Charlottenburg</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ur">شارلوتنبورگ</lido:displayPlace>
+                  <lido:displayPlace xml:lang="zh">夏洛滕堡</lido:displayPlace>
+                  <lido:place>
+                     <lido:placeID lido:source="geonames" lido:type="uri">https://sws.geonames.org/2940187</lido:placeID>
+                     <lido:placeID lido:source="TGN" lido:type="uri">http://vocab.getty.edu/tgn/1004256</lido:placeID>
+                     <lido:placeID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4087306-7</lido:placeID>
+                     <lido:placeID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q162049</lido:placeID>
+                     <lido:placeID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/place/755</lido:placeID>
+                     <lido:namePlaceSet>
+                        <lido:appellationValue>Berlin-Charlottenburg</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ar">تشارلوتنبرغ</lido:appellationValue>
+                        <lido:appellationValue xml:lang="cs">Charlottenburg</lido:appellationValue>
+                        <lido:appellationValue xml:lang="da">Charlottenburg</lido:appellationValue>
+                        <lido:appellationValue xml:lang="el">Σαρλότενμπουργκ</lido:appellationValue>
+                        <lido:appellationValue xml:lang="en">Charlottenburg</lido:appellationValue>
+                        <lido:appellationValue xml:lang="es">Charlottenburg</lido:appellationValue>
+                        <lido:appellationValue xml:lang="fa">شارلوتنبورگ</lido:appellationValue>
+                        <lido:appellationValue xml:lang="fi">Charlottenburg</lido:appellationValue>
+                        <lido:appellationValue xml:lang="fr">Berlin-Charlottenbourg</lido:appellationValue>
+                        <lido:appellationValue xml:lang="he">שרלוטנבורג</lido:appellationValue>
+                        <lido:appellationValue xml:lang="id">Berlin-Charlottenbourg</lido:appellationValue>
+                        <lido:appellationValue xml:lang="it">Charlottenburg</lido:appellationValue>
+                        <lido:appellationValue xml:lang="nl">Berlin-Charlottenburg</lido:appellationValue>
+                        <lido:appellationValue xml:lang="pl">Charlottenburg (dzielnica Berlina)</lido:appellationValue>
+                        <lido:appellationValue xml:lang="pt">Charlottenburg</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ru">Шарлоттенбург (район Берлина)</lido:appellationValue>
+                        <lido:appellationValue xml:lang="sv">Charlottenburg</lido:appellationValue>
+                        <lido:appellationValue xml:lang="tr">Charlottenburg</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ur">شارلوتنبورگ</lido:appellationValue>
+                        <lido:appellationValue xml:lang="zh">夏洛滕堡</lido:appellationValue>
+                     </lido:namePlaceSet>
+                     <lido:gml/>
+                  </lido:place>
+               </lido:eventPlace>
+            </lido:event>
+         </lido:eventSet>
+         <lido:eventSet>
+            <lido:event>
+               <lido:eventType>
+                  <lido:conceptID lido:type="uri">http://terminology.lido-schema.org/lido00003</lido:conceptID>
+                  <lido:term>Event (non-specified)</lido:term>
+               </lido:eventType>
+               <lido:eventMaterialsTech>
+                  <lido:displayMaterialsTech>Negativfilm, Zelluloseacetat</lido:displayMaterialsTech>
+               </lido:eventMaterialsTech>
+            </lido:event>
+         </lido:eventSet>
+      </lido:eventWrap>
+      <lido:objectRelationWrap>
+         <lido:subjectWrap>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectActor>
+                     <lido:displayActor>Firma Munack</lido:displayActor>
+                     <lido:actor>
+                        <lido:actorID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/persinst/126154</lido:actorID>
+                        <lido:nameActorSet>
+                           <lido:appellationValue>Munack Vetriebsgesellschaft mbH, Elektrogeräte</lido:appellationValue>
+                        </lido:nameActorSet>
+                     </lido:actor>
+                  </lido:subjectActor>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">http://d-nb.info/gnd/4121634-9</lido:conceptID>
+                     <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh99002613</lido:conceptID>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">http://de.wikipedia.org/wiki/Schwarzweißfotografie</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/8718</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Schwarzweißfotografie</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">http://d-nb.info/gnd/4065541-6</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/12164</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Produktwerbung</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="aat" lido:type="uri">http://vocab.getty.edu/aat/300257284</lido:conceptID>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4023740-0</lido:conceptID>
+                     <lido:conceptID lido:source="iconclass" lido:type="uri">http://iconclass.org/rkd/42F32/</lido:conceptID>
+                     <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh85062574</lido:conceptID>
+                     <lido:conceptID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q212920</lido:conceptID>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Haushaltsger%C3%A4t</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/13205</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Haushaltsgerät</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ar">جهاز منزلي</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="cs">domácí spotřebič</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="da">Hvidevarer</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="en">Home appliance</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="es">Electrodoméstico</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fa">لوازم خانگی</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fi">Kodinkone</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fr">Appareil ménager</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="he">מכשירי חשמל ביתיים</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hi">गृहोपयोगी सामान</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="it">Elettrodomestico</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ja">家電機器</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ko">가전제품</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pl">Sprzęt AGD</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pt">Eletrodoméstico</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ro">Electrocasnice</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ru">бытовая техника</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sv">Hushållsapparater</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ta">இல்லப் பயன்பொருள்கள்</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tr">Beyaz eşya</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ur">گھریلو آلات</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="vi">thiết bị gia dụng</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="zh">家庭电器</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">http://d-nb.info/gnd/4364750-9</lido:conceptID>
+                     <lido:conceptID lido:source="oberbegriffsdatei" lido:type="uri">https://term.museum-digital.de/oberbegriffsdatei/tag/3463</lido:conceptID>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Staubsauger</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/20989</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Staubsauger</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/69963</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Produktpräsentation</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/76122</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Handstaubsauger</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+         </lido:subjectWrap>
+      </lido:objectRelationWrap>
+   </lido:descriptiveMetadata>
+   <lido:administrativeMetadata xml:lang="de">
+      <lido:rightsWorkWrap>
+         <lido:rightsWorkSet>
+            <lido:rightsHolder>
+               <lido:legalBodyName>
+                  <lido:appellationValue>Gerda Schimpf Fotoarchiv</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:rightsHolder>
+         </lido:rightsWorkSet>
+      </lido:rightsWorkWrap>
+      <lido:recordWrap>
+         <lido:recordID lido:type="museum-digital">66161</lido:recordID>
+         <lido:recordType>
+            <lido:term lido:addedSearchTerm="no">item</lido:term>
+         </lido:recordType>
+         <lido:recordSource lido:type="dataProvider">
+            <lido:legalBodyName>
+               <lido:appellationValue>museum-digital</lido:appellationValue>
+            </lido:legalBodyName>
+            <lido:legalBodyWeblink>https://berlin.museum-digital.de/</lido:legalBodyWeblink>
+         </lido:recordSource>
+         <lido:recordSource>
+            <lido:legalBodyName>
+               <lido:appellationValue>Gerda Schimpf Fotoarchiv</lido:appellationValue>
+            </lido:legalBodyName>
+         </lido:recordSource>
+         <lido:recordRights>
+            <lido:rightsType>
+               <lido:conceptID lido:type="uri">https://creativecommons.org/publicdomain/zero/1.0/</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no">CC 0</lido:term>
+            </lido:rightsType>
+            <lido:rightsHolder>
+               <lido:legalBodyName>
+                  <lido:appellationValue>Gerda Schimpf Fotoarchiv</lido:appellationValue>
+               </lido:legalBodyName>
+               <lido:legalBodyWeblink>https://gerda-schimpf-fotoarchiv.com</lido:legalBodyWeblink>
+            </lido:rightsHolder>
+            <lido:creditLine>Förderprogramm zur Digitalisierung von Objekten des kulturellen Erbes des Landes Berlin</lido:creditLine>
+         </lido:recordRights>
+         <lido:recordInfoSet>
+            <lido:recordInfoLink>https://berlin.museum-digital.de/index.php?t=objekt&amp;oges=66161</lido:recordInfoLink>
+            <lido:recordMetadataDate>2021-05-10 13:20:47</lido:recordMetadataDate>
+         </lido:recordInfoSet>
+      </lido:recordWrap>
+      <lido:resourceWrap>
+         <lido:resourceSet lido:sortorder="1">
+            <lido:resourceID lido:source="image" lido:type="local">48181</lido:resourceID>
+            <lido:resourceRepresentation lido:type="image_thumb">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/202003/100h_produktpraesentation-munack-66161.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_preview">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/202003/200w_produktpraesentation-munack-66161.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="Provided image">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/202003/produktpraesentation-munack-66161.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceType>
+               <lido:term lido:addedSearchTerm="no">image</lido:term>
+            </lido:resourceType>
+            <lido:resourceRelType>
+               <lido:term lido:addedSearchTerm="no">Hauptansicht</lido:term>
+            </lido:resourceRelType>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+                  <lido:term lido:addedSearchTerm="no">CC BY</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Gerda Schimpf Fotoarchiv</lido:appellationValue>
+                  </lido:legalBodyName>
+               </lido:rightsHolder>
+            </lido:rightsResource>
+         </lido:resourceSet>
+      </lido:resourceWrap>
+   </lido:administrativeMetadata>
+</lido:lido>
+

@@ -1,0 +1,894 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lido:lido xmlns:gml="http://www.opengis.net/gml"
+           xmlns:lido="http://www.lido-schema.org"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <lido:lidoRecID lido:source="https://berlin.museum-digital.de/index.php?t=institution&amp;instnr=21"
+                   lido:type="local">DE-MUS-061525/86341</lido:lidoRecID>
+   <lido:descriptiveMetadata xml:lang="de">
+      <lido:objectClassificationWrap>
+         <lido:objectWorkTypeWrap>
+            <lido:objectWorkType>
+               <lido:conceptID lido:source="gnd" lido:type="uri">http://d-nb.info/gnd/4164176-0</lido:conceptID>
+               <lido:conceptID lido:source="grobsystematik" lido:type="uri">https://term.museum-digital.de/grobsystematik/tag/13321</lido:conceptID>
+               <lido:conceptID lido:source="oberbegriffsdatei" lido:type="uri">https://term.museum-digital.de/oberbegriffsdatei/tag/2036</lido:conceptID>
+               <lido:conceptID lido:source="aat" lido:type="uri">http://vocab.getty.edu/aat/300041575</lido:conceptID>
+               <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh85027100</lido:conceptID>
+               <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/1331</lido:conceptID>
+               <lido:term>Uhr</lido:term>
+            </lido:objectWorkType>
+         </lido:objectWorkTypeWrap>
+         <lido:classificationWrap>
+            <lido:classification lido:type="Sammlung">
+               <lido:conceptID lido:source="local" lido:type="collection_id">623</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no">Uhrensammlung</lido:term>
+            </lido:classification>
+         </lido:classificationWrap>
+      </lido:objectClassificationWrap>
+      <lido:objectIdentificationWrap>
+         <lido:titleWrap>
+            <lido:titleSet>
+               <lido:appellationValue lido:pref="preferred">Johann Christian Gottlob Gunckel, Reiseuhr, um 1750, Inv. Nr. KH 98/210 UH</lido:appellationValue>
+            </lido:titleSet>
+         </lido:titleWrap>
+         <lido:inscriptionsWrap>
+            <lido:inscriptions>
+               <lido:inscriptionDescription>
+                  <lido:descriptiveNoteValue>GUNCKEL BERLIN</lido:descriptiveNoteValue>
+               </lido:inscriptionDescription>
+            </lido:inscriptions>
+         </lido:inscriptionsWrap>
+         <lido:repositoryWrap>
+            <lido:repositorySet lido:type="current">
+               <lido:repositoryName>
+                  <lido:legalBodyID lido:type="isil">DE-MUS-061525</lido:legalBodyID>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Stiftung Stadtmuseum Berlin</lido:appellationValue>
+                  </lido:legalBodyName>
+                  <lido:legalBodyWeblink>https://www.stadtmuseum.de</lido:legalBodyWeblink>
+               </lido:repositoryName>
+               <lido:workID lido:type="inventory number">KH 98/210 UH</lido:workID>
+               <lido:repositoryLocation>
+                  <lido:namePlaceSet>
+                     <lido:appellationValue>Berlin</lido:appellationValue>
+                  </lido:namePlaceSet>
+                  <lido:gml>
+                     <gml:Point srsName="EPSG:4326">
+                        <gml:pos>52.51618576 13.40692997</gml:pos>
+                     </gml:Point>
+                  </lido:gml>
+               </lido:repositoryLocation>
+            </lido:repositorySet>
+         </lido:repositoryWrap>
+         <lido:objectDescriptionWrap>
+            <lido:objectDescriptionSet>
+               <lido:descriptiveNoteValue>Die Vielzahl signierter Berliner Reiseuhren zeigt heute noch, dass wohlhabende Berliner oft auf Reisen waren. Das Reisen bedeutete, dass man oft mehrere Tage unterwegs war und eine zuverlässige Uhr bei sich haben musste, um Postkutschenfahrpläne einzuhalten. Sicher ist die Reiseuhr in der damaligen Zeit auch als Statussymbol zu betrachten, denn die Kosten für eine solche Uhr waren nicht unerheblich. Oft waren sie über Generationen in Gebrauch. Die Qualität dieser Objekte mit ihren meist feuervergoldeten Gehäusen, einem Weckwerk und einem Vollstundenschlagwerk mit Bronzeglocke ist robust und zuverlässig, und die Gravuren geben den schlichten Flächen des Gehäuses einen edlen Charakter. Reiseuhren besitzen meistens ein Etui, das bei dieser Uhr verloren ist. &lt;br&gt;
+Johann Christian Gottlob Gunckel erwarb 1736 seinen Meistertitel und wird bis etwa 1770 in den Berliner Adressbüchern erwähnt. Er wohnte in seinem Haus in der Heiliggeiststraße gegenüber der „Weißen Taube“. Bereits 1708 erwarb ein H. Ch. Gunckel, Kleinuhrmacher aus Einbeck/Hannover, das Bürgerrecht in Berlin/Cölln und gab 4 Taler in die Bürgerkasse. Das Stadtmuseum Berlin besitzt ein zweites Exemplar einer Reiseuhr mit der Signatur „Gunckel Berlin“. Es ist zu vermuten, dass es sich hier um Vater und Sohn handelt und die Signatur auf den Familienbetrieb hindeutet, da bei den Signaturen kein Vorname angegeben wurde. Das Berlin Museum kaufte diese Uhr 1989 von der Erbengemeinschaft Günther Erhardt. (Marina de Fümel)&lt;br&gt;</lido:descriptiveNoteValue>
+               <lido:sourceDescriptiveNote>Stiftung Stadtmuseum Berlin</lido:sourceDescriptiveNote>
+            </lido:objectDescriptionSet>
+            <lido:objectDescriptionSet lido:type="Detailbeschreibung">
+               <lido:descriptiveNoteValue>Die hochrechteckige Reiseuhr mit nach oben getrepptem und gewölbtem Abschluss mit abklappbarem Tragering besitzt ein hochrechteckiges Uhrwerk mit einer Platinenstärke von 1,4 mm, leicht nach unten gebauchten Werkpfeilern (H: 2,8 cm) mit je unten und oben ein wenig gedrehten Verzierungen. Die dreischenklige Radunruh (D: 3,1 cm) mit Spindelgang kann von vorn im oberen Abschluss durch einen Vierkant, der nach hinten durch eine Achse mit der Regulierscheibe verbunden ist, gesteuert werden und macht so eine Feinregulierung möglich. Die Kadratur mit dem Rechenschlagwerk liegt hinter dem Zifferblatt (der Front). Das Gehwerk ist mit Schnecke und Kette ausgestattet, das Schlagwerk und auch das Weckwerk besitzen feststehende Federhäuser. Sowohl das Schlagwerk als auch das Weckwerk schlagen mit ihren Hämmern auf die unter dem Gehäuse angebrachte Bronzeglocke. &lt;br&gt;
+Der weiße Emailziffernring (D: 7,4 cm; B: 1,8 cm) mit arabischen Stundenzahlen, Minuterie in Strichen und arabischen Fünfminutenschritten wurde auf der Vorderfront dezentral und etwas darunter die ovale weiße Emailkartusche mit der Signatur GUNCKEL BERLIN positioniert. Die Weckscheibe in der Mitte des Emailziffernringes ist feuervergoldet und mit arabischen Zahlen und 24 Strichen ausgestattet. Vier Bohrungen ermöglichen ein Stellen mit einem spitzen Gegenstand. Oben rechts auf dem Gesims ist ein Knopf, der bei Betätigung das Schlagwerk repetieren lässt. Die geschwärzten Stahlzeiger sind eine Nachbildung. &lt;br&gt;
+Der Aufzug der drei Antriebsfedern erfolgt von hinten. Die Seiten der Uhr wurden ebenfalls mit einer floralen Gravierung verziert, nach oben und unten verjüngend ausgeschnitten und verglast, so dass ein Blick in das Uhrwerk möglich ist. Das Etui, das meistens zweiteilig war, schloss nicht den Tragering ein und ermöglichte so ein sicheres Transportieren der Uhr im Etui. &lt;br&gt;
+Die Feuervergoldung ist am gesamten Gehäuse leicht durchgerieben. Die Uhr wurde 2013 in der Metallrestaurierung der Stiftung Stadtmuseum Berlin von der Autorin restauriert und ist voll funktionstüchtig. (Marina de Fümel)</lido:descriptiveNoteValue>
+               <lido:sourceDescriptiveNote>Stiftung Stadtmuseum Berlin</lido:sourceDescriptiveNote>
+            </lido:objectDescriptionSet>
+         </lido:objectDescriptionWrap>
+         <lido:objectMeasurementsWrap>
+            <lido:objectMeasurementsSet>
+               <lido:displayObjectMeasurements>Höhe ohne Ring: 15,5 cm; mit Ring: 19 cm; Breite 9 cm; Tiefe 6 cm</lido:displayObjectMeasurements>
+            </lido:objectMeasurementsSet>
+         </lido:objectMeasurementsWrap>
+      </lido:objectIdentificationWrap>
+      <lido:eventWrap>
+         <lido:eventSet>
+            <lido:displayEvent>Hergestellt</lido:displayEvent>
+            <lido:event>
+               <lido:eventType>
+                  <lido:conceptID lido:type="uri">http://terminology.lido-schema.org/lido00007</lido:conceptID>
+                  <lido:term lido:addedSearchTerm="no">Hergestellt</lido:term>
+               </lido:eventType>
+               <lido:eventActor>
+                  <lido:displayActorInRole>Johann Christian Gottlob Gunckel</lido:displayActorInRole>
+                  <lido:actorInRole>
+                     <lido:actor>
+                        <lido:actorID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/persinst/150678</lido:actorID>
+                        <lido:nameActorSet>
+                           <lido:appellationValue>Gunckel, Johann Christian Gottlob</lido:appellationValue>
+                        </lido:nameActorSet>
+                     </lido:actor>
+                  </lido:actorInRole>
+               </lido:eventActor>
+               <lido:eventDate>
+                  <lido:displayDate>1750 (wahrscheinlich)</lido:displayDate>
+                  <lido:displayDate xml:lang="ar">1750</lido:displayDate>
+                  <lido:displayDate xml:lang="en">1750</lido:displayDate>
+                  <lido:displayDate xml:lang="es">1750</lido:displayDate>
+                  <lido:displayDate xml:lang="fa">1750</lido:displayDate>
+                  <lido:displayDate xml:lang="fr">1750</lido:displayDate>
+                  <lido:displayDate xml:lang="hu">1750</lido:displayDate>
+                  <lido:displayDate xml:lang="id">1750</lido:displayDate>
+                  <lido:displayDate xml:lang="it">1750</lido:displayDate>
+                  <lido:displayDate xml:lang="ja">1750年</lido:displayDate>
+                  <lido:displayDate xml:lang="ka">1750</lido:displayDate>
+                  <lido:displayDate xml:lang="ko">1750년</lido:displayDate>
+                  <lido:displayDate xml:lang="pl">1750</lido:displayDate>
+                  <lido:displayDate xml:lang="pt">1750</lido:displayDate>
+                  <lido:displayDate xml:lang="ro">1750</lido:displayDate>
+                  <lido:displayDate xml:lang="ru">1750</lido:displayDate>
+                  <lido:displayDate xml:lang="ta">1750</lido:displayDate>
+                  <lido:displayDate xml:lang="tl">1750</lido:displayDate>
+                  <lido:displayDate xml:lang="tr">1750</lido:displayDate>
+                  <lido:displayDate xml:lang="zh">1750年</lido:displayDate>
+                  <lido:date>
+                     <lido:earliestDate>1750</lido:earliestDate>
+                     <lido:latestDate>1750</lido:latestDate>
+                  </lido:date>
+               </lido:eventDate>
+               <lido:eventPlace>
+                  <lido:displayPlace>Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ar">برلين</lido:displayPlace>
+                  <lido:displayPlace xml:lang="bn">বার্লিন</lido:displayPlace>
+                  <lido:displayPlace xml:lang="cs">Berlín</lido:displayPlace>
+                  <lido:displayPlace xml:lang="da">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="el">Βερολίνο</lido:displayPlace>
+                  <lido:displayPlace xml:lang="en">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="es">Berlín</lido:displayPlace>
+                  <lido:displayPlace xml:lang="fa">برلین</lido:displayPlace>
+                  <lido:displayPlace xml:lang="fi">Berliini</lido:displayPlace>
+                  <lido:displayPlace xml:lang="fr">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ha">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="he">ברלין</lido:displayPlace>
+                  <lido:displayPlace xml:lang="hi">बर्लिन</lido:displayPlace>
+                  <lido:displayPlace xml:lang="hu">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="id">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="it">Berlino</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ja">ベルリン</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ka">ბერლინი</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ko">베를린</lido:displayPlace>
+                  <lido:displayPlace xml:lang="nl">Berlijn</lido:displayPlace>
+                  <lido:displayPlace xml:lang="pl">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="pt">Berlim</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ro">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ru">Берлин</lido:displayPlace>
+                  <lido:displayPlace xml:lang="sv">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="sw">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ta">பெர்லின்</lido:displayPlace>
+                  <lido:displayPlace xml:lang="th">เบอร์ลิน</lido:displayPlace>
+                  <lido:displayPlace xml:lang="tl">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="tr">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ur">برلن</lido:displayPlace>
+                  <lido:displayPlace xml:lang="vi">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="zh">柏林</lido:displayPlace>
+                  <lido:place>
+                     <lido:placeID lido:source="geonames" lido:type="uri">https://sws.geonames.org/2950159</lido:placeID>
+                     <lido:placeID lido:source="TGN" lido:type="uri">http://vocab.getty.edu/tgn/7209904</lido:placeID>
+                     <lido:placeID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4005728-8</lido:placeID>
+                     <lido:placeID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q64</lido:placeID>
+                     <lido:placeID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/place/61</lido:placeID>
+                     <lido:namePlaceSet>
+                        <lido:appellationValue>Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ar">برلين</lido:appellationValue>
+                        <lido:appellationValue xml:lang="bn">বার্লিন</lido:appellationValue>
+                        <lido:appellationValue xml:lang="cs">Berlín</lido:appellationValue>
+                        <lido:appellationValue xml:lang="da">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="el">Βερολίνο</lido:appellationValue>
+                        <lido:appellationValue xml:lang="en">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="es">Berlín</lido:appellationValue>
+                        <lido:appellationValue xml:lang="fa">برلین</lido:appellationValue>
+                        <lido:appellationValue xml:lang="fi">Berliini</lido:appellationValue>
+                        <lido:appellationValue xml:lang="fr">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ha">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="he">ברלין</lido:appellationValue>
+                        <lido:appellationValue xml:lang="hi">बर्लिन</lido:appellationValue>
+                        <lido:appellationValue xml:lang="hu">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="id">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="it">Berlino</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ja">ベルリン</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ka">ბერლინი</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ko">베를린</lido:appellationValue>
+                        <lido:appellationValue xml:lang="nl">Berlijn</lido:appellationValue>
+                        <lido:appellationValue xml:lang="pl">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="pt">Berlim</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ro">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ru">Берлин</lido:appellationValue>
+                        <lido:appellationValue xml:lang="sv">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="sw">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ta">பெர்லின்</lido:appellationValue>
+                        <lido:appellationValue xml:lang="th">เบอร์ลิน</lido:appellationValue>
+                        <lido:appellationValue xml:lang="tl">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="tr">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ur">برلن</lido:appellationValue>
+                        <lido:appellationValue xml:lang="vi">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="zh">柏林</lido:appellationValue>
+                     </lido:namePlaceSet>
+                     <lido:gml>
+                        <gml:Point srsName="EPSG:4326">
+                           <gml:pos>52.516666412354 13.383333206177</gml:pos>
+                        </gml:Point>
+                     </lido:gml>
+                  </lido:place>
+               </lido:eventPlace>
+               <lido:eventMaterialsTech>
+                  <lido:displayMaterialsTech>Messing, feuervergoldet; Stahl; Email; Glas</lido:displayMaterialsTech>
+               </lido:eventMaterialsTech>
+            </lido:event>
+         </lido:eventSet>
+         <lido:eventSet>
+            <lido:displayEvent>Verkauft</lido:displayEvent>
+            <lido:event>
+               <lido:eventType>
+                  <lido:conceptID lido:type="uri">http://terminology.lido-schema.org/lido00005</lido:conceptID>
+                  <lido:term lido:addedSearchTerm="no">Verkauft</lido:term>
+               </lido:eventType>
+               <lido:eventActor>
+                  <lido:displayActorInRole>Günther Erhardt</lido:displayActorInRole>
+                  <lido:actorInRole>
+                     <lido:actor>
+                        <lido:actorID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/persinst/150679</lido:actorID>
+                        <lido:nameActorSet>
+                           <lido:appellationValue>Günther Erhardt</lido:appellationValue>
+                        </lido:nameActorSet>
+                     </lido:actor>
+                  </lido:actorInRole>
+               </lido:eventActor>
+               <lido:eventDate>
+                  <lido:displayDate>1989</lido:displayDate>
+                  <lido:displayDate xml:lang="ar">1989</lido:displayDate>
+                  <lido:displayDate xml:lang="en">1989</lido:displayDate>
+                  <lido:displayDate xml:lang="es">1989</lido:displayDate>
+                  <lido:displayDate xml:lang="fa">1989</lido:displayDate>
+                  <lido:displayDate xml:lang="fr">1989</lido:displayDate>
+                  <lido:displayDate xml:lang="hu">1989</lido:displayDate>
+                  <lido:displayDate xml:lang="id">1989</lido:displayDate>
+                  <lido:displayDate xml:lang="it">1989</lido:displayDate>
+                  <lido:displayDate xml:lang="ja">1989年</lido:displayDate>
+                  <lido:displayDate xml:lang="ka">1989</lido:displayDate>
+                  <lido:displayDate xml:lang="ko">1989년</lido:displayDate>
+                  <lido:displayDate xml:lang="pl">1989</lido:displayDate>
+                  <lido:displayDate xml:lang="pt">1989</lido:displayDate>
+                  <lido:displayDate xml:lang="ro">1989</lido:displayDate>
+                  <lido:displayDate xml:lang="ru">1989</lido:displayDate>
+                  <lido:displayDate xml:lang="ta">1989</lido:displayDate>
+                  <lido:displayDate xml:lang="tl">1989</lido:displayDate>
+                  <lido:displayDate xml:lang="tr">1989</lido:displayDate>
+                  <lido:displayDate xml:lang="zh">1989年</lido:displayDate>
+                  <lido:date>
+                     <lido:earliestDate>1989</lido:earliestDate>
+                     <lido:latestDate>1989</lido:latestDate>
+                  </lido:date>
+               </lido:eventDate>
+            </lido:event>
+         </lido:eventSet>
+         <lido:eventSet>
+            <lido:displayEvent>Restauriert</lido:displayEvent>
+            <lido:event>
+               <lido:eventType>
+                  <lido:conceptID lido:type="uri">http://terminology.lido-schema.org/lido00034</lido:conceptID>
+                  <lido:term lido:addedSearchTerm="no">Restauriert</lido:term>
+               </lido:eventType>
+               <lido:eventActor>
+                  <lido:displayActorInRole>Marina de Fümel</lido:displayActorInRole>
+                  <lido:actorInRole>
+                     <lido:actor>
+                        <lido:actorID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/persinst/150637</lido:actorID>
+                        <lido:nameActorSet>
+                           <lido:appellationValue>Fümel, Marina de</lido:appellationValue>
+                        </lido:nameActorSet>
+                     </lido:actor>
+                  </lido:actorInRole>
+               </lido:eventActor>
+               <lido:eventDate>
+                  <lido:displayDate>2013</lido:displayDate>
+                  <lido:displayDate xml:lang="ar">2013</lido:displayDate>
+                  <lido:displayDate xml:lang="en">2013</lido:displayDate>
+                  <lido:displayDate xml:lang="es">2013</lido:displayDate>
+                  <lido:displayDate xml:lang="fa">2013</lido:displayDate>
+                  <lido:displayDate xml:lang="fr">2013</lido:displayDate>
+                  <lido:displayDate xml:lang="hu">2013</lido:displayDate>
+                  <lido:displayDate xml:lang="id">2013</lido:displayDate>
+                  <lido:displayDate xml:lang="it">2013</lido:displayDate>
+                  <lido:displayDate xml:lang="ja">2013年</lido:displayDate>
+                  <lido:displayDate xml:lang="ka">2013</lido:displayDate>
+                  <lido:displayDate xml:lang="ko">2013년</lido:displayDate>
+                  <lido:displayDate xml:lang="pl">2013</lido:displayDate>
+                  <lido:displayDate xml:lang="pt">2013</lido:displayDate>
+                  <lido:displayDate xml:lang="ro">2013</lido:displayDate>
+                  <lido:displayDate xml:lang="ru">2013</lido:displayDate>
+                  <lido:displayDate xml:lang="ta">2013</lido:displayDate>
+                  <lido:displayDate xml:lang="tl">2013</lido:displayDate>
+                  <lido:displayDate xml:lang="tr">2013</lido:displayDate>
+                  <lido:displayDate xml:lang="zh">2013年</lido:displayDate>
+                  <lido:date>
+                     <lido:earliestDate>2013</lido:earliestDate>
+                     <lido:latestDate>2013</lido:latestDate>
+                  </lido:date>
+               </lido:eventDate>
+               <lido:eventPlace>
+                  <lido:displayPlace>Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ar">برلين</lido:displayPlace>
+                  <lido:displayPlace xml:lang="bn">বার্লিন</lido:displayPlace>
+                  <lido:displayPlace xml:lang="cs">Berlín</lido:displayPlace>
+                  <lido:displayPlace xml:lang="da">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="el">Βερολίνο</lido:displayPlace>
+                  <lido:displayPlace xml:lang="en">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="es">Berlín</lido:displayPlace>
+                  <lido:displayPlace xml:lang="fa">برلین</lido:displayPlace>
+                  <lido:displayPlace xml:lang="fi">Berliini</lido:displayPlace>
+                  <lido:displayPlace xml:lang="fr">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ha">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="he">ברלין</lido:displayPlace>
+                  <lido:displayPlace xml:lang="hi">बर्लिन</lido:displayPlace>
+                  <lido:displayPlace xml:lang="hu">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="id">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="it">Berlino</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ja">ベルリン</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ka">ბერლინი</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ko">베를린</lido:displayPlace>
+                  <lido:displayPlace xml:lang="nl">Berlijn</lido:displayPlace>
+                  <lido:displayPlace xml:lang="pl">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="pt">Berlim</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ro">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ru">Берлин</lido:displayPlace>
+                  <lido:displayPlace xml:lang="sv">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="sw">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ta">பெர்லின்</lido:displayPlace>
+                  <lido:displayPlace xml:lang="th">เบอร์ลิน</lido:displayPlace>
+                  <lido:displayPlace xml:lang="tl">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="tr">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ur">برلن</lido:displayPlace>
+                  <lido:displayPlace xml:lang="vi">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="zh">柏林</lido:displayPlace>
+                  <lido:place>
+                     <lido:placeID lido:source="geonames" lido:type="uri">https://sws.geonames.org/2950159</lido:placeID>
+                     <lido:placeID lido:source="TGN" lido:type="uri">http://vocab.getty.edu/tgn/7209904</lido:placeID>
+                     <lido:placeID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4005728-8</lido:placeID>
+                     <lido:placeID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q64</lido:placeID>
+                     <lido:placeID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/place/61</lido:placeID>
+                     <lido:namePlaceSet>
+                        <lido:appellationValue>Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ar">برلين</lido:appellationValue>
+                        <lido:appellationValue xml:lang="bn">বার্লিন</lido:appellationValue>
+                        <lido:appellationValue xml:lang="cs">Berlín</lido:appellationValue>
+                        <lido:appellationValue xml:lang="da">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="el">Βερολίνο</lido:appellationValue>
+                        <lido:appellationValue xml:lang="en">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="es">Berlín</lido:appellationValue>
+                        <lido:appellationValue xml:lang="fa">برلین</lido:appellationValue>
+                        <lido:appellationValue xml:lang="fi">Berliini</lido:appellationValue>
+                        <lido:appellationValue xml:lang="fr">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ha">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="he">ברלין</lido:appellationValue>
+                        <lido:appellationValue xml:lang="hi">बर्लिन</lido:appellationValue>
+                        <lido:appellationValue xml:lang="hu">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="id">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="it">Berlino</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ja">ベルリン</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ka">ბერლინი</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ko">베를린</lido:appellationValue>
+                        <lido:appellationValue xml:lang="nl">Berlijn</lido:appellationValue>
+                        <lido:appellationValue xml:lang="pl">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="pt">Berlim</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ro">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ru">Берлин</lido:appellationValue>
+                        <lido:appellationValue xml:lang="sv">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="sw">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ta">பெர்லின்</lido:appellationValue>
+                        <lido:appellationValue xml:lang="th">เบอร์ลิน</lido:appellationValue>
+                        <lido:appellationValue xml:lang="tl">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="tr">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ur">برلن</lido:appellationValue>
+                        <lido:appellationValue xml:lang="vi">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="zh">柏林</lido:appellationValue>
+                     </lido:namePlaceSet>
+                     <lido:gml>
+                        <gml:Point srsName="EPSG:4326">
+                           <gml:pos>52.516666412354 13.383333206177</gml:pos>
+                        </gml:Point>
+                     </lido:gml>
+                  </lido:place>
+               </lido:eventPlace>
+            </lido:event>
+         </lido:eventSet>
+      </lido:eventWrap>
+      <lido:objectRelationWrap>
+         <lido:subjectWrap>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Uhr</lido:conceptID>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4164176-0</lido:conceptID>
+                     <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh85027100</lido:conceptID>
+                     <lido:conceptID lido:source="aat" lido:type="uri">http://vocab.getty.edu/aat/300041575</lido:conceptID>
+                     <lido:conceptID lido:source="grobsystematik" lido:type="uri">https://term.museum-digital.de/grobsystematik/tag/13321</lido:conceptID>
+                     <lido:conceptID lido:source="oberbegriffsdatei" lido:type="uri">https://term.museum-digital.de/Oberbegriffsdatei/tag/2036</lido:conceptID>
+                     <lido:conceptID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q376</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/1331</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Uhr</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ar">ساعة</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="bn">ঘড়ি</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="cs">Hodiny</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="da">Ur</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="el">Ρολόι</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="en">Clock</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="es">Reloj</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fa">ساعت</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fi">Kello</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fr">Horloge</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ha">agogo</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="he">שעון</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hi">घडी</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hu">óra</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="id">Jam</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="it">Orologio</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ja">時計</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ka">საათი</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ko">시계</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="nl">Klok</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pl">Zegar</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pt">Relógio</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ro">ceas</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ru">часы</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sv">Klocka</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sw">saa</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ta">கடிகாரம்</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="th">นาฬิกา</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tl">Orasan</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tr">Saat</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ur">گھنٹا</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="vi">Đồng hồ</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="zh">時鐘</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">http://d-nb.info/gnd/4127004-6</lido:conceptID>
+                     <lido:conceptID lido:source="grobsystematik" lido:type="uri">https://term.museum-digital.de/grobsystematik/tag/12840</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/10272</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Tischuhr</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="en">Table clock</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/46103</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Reiseuhr</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+         </lido:subjectWrap>
+         <lido:relatedWorksWrap>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:displayObject>Stiftung Stadtmuseum Berlin, Inv. Nr. KH 98/28 UH, Reiseuhr</lido:displayObject>
+               </lido:relatedWork>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:displayObject>Adreß-Kalender der Königlich Preußischen Haupt- und Residenz-Städte Berlin und Potsdam, besonders der daselbst befindlichen hohen und niederen Collegien, Instanzien und Expeditionen, auf das Jahr 1704 (–1806)</lido:displayObject>
+                  <lido:object>
+                     <lido:objectWebResource>http://resolver.staatsbibliothek-berlin.de/SBB00014F0900000000</lido:objectWebResource>
+                  </lido:object>
+               </lido:relatedWork>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:displayObject>Abeler, Jürgen, 2010: Meister der Uhrmacherkunst, Wuppertal, S. 232</lido:displayObject>
+               </lido:relatedWork>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:displayObject>König, Gerhard, 1988: Uhren und Uhrmacherei in Berlin 1450–1900 (= Miniaturen zur Geschichte, Kultur und Denkmalpflege Berlins; 24), Berlin, S. 70</lido:displayObject>
+               </lido:relatedWork>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:displayObject>Fümel, Marina de, 2014: Reiseuhr, In: Nentwig, Franziska (Hrsg.): ABC Berliner Luxusgüter, Feinste Waren aus dem 18. und 19. Jahrhundert (= Edition Stadtmuseum Berlin. Das Museum in der Tasche; 8). Berlin, S. 64</lido:displayObject>
+               </lido:relatedWork>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:displayObject>Kaeber, Ernst (Hrsg.), 1934: Die Bürgerbücher und Bürgerprotokollbücher Berlins von 1701–1750 (= Quellen und Forschungen zur Geschichte Berlins; 4) (= Veröffentlichungen der Historischen Komission für die Provinz Brandenburg und die Reichshauptstadt Berlin I, 4), Berlin, S. 248</lido:displayObject>
+               </lido:relatedWork>
+            </lido:relatedWorkSet>
+         </lido:relatedWorksWrap>
+      </lido:objectRelationWrap>
+   </lido:descriptiveMetadata>
+   <lido:administrativeMetadata xml:lang="de">
+      <lido:rightsWorkWrap>
+         <lido:rightsWorkSet>
+            <lido:rightsHolder>
+               <lido:legalBodyName>
+                  <lido:appellationValue>Stiftung Stadtmuseum Berlin</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:rightsHolder>
+         </lido:rightsWorkSet>
+      </lido:rightsWorkWrap>
+      <lido:recordWrap>
+         <lido:recordID lido:type="museum-digital">86341</lido:recordID>
+         <lido:recordType>
+            <lido:term lido:addedSearchTerm="no">item</lido:term>
+         </lido:recordType>
+         <lido:recordSource lido:type="dataProvider">
+            <lido:legalBodyName>
+               <lido:appellationValue>museum-digital</lido:appellationValue>
+            </lido:legalBodyName>
+            <lido:legalBodyWeblink>https://berlin.museum-digital.de/</lido:legalBodyWeblink>
+         </lido:recordSource>
+         <lido:recordSource>
+            <lido:legalBodyID lido:type="isil">DE-MUS-061525</lido:legalBodyID>
+            <lido:legalBodyName>
+               <lido:appellationValue>Stiftung Stadtmuseum Berlin</lido:appellationValue>
+            </lido:legalBodyName>
+         </lido:recordSource>
+         <lido:recordRights>
+            <lido:rightsType>
+               <lido:conceptID lido:type="uri">https://creativecommons.org/publicdomain/zero/1.0/</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no">CC 0</lido:term>
+            </lido:rightsType>
+            <lido:rightsHolder>
+               <lido:legalBodyID lido:type="isil">DE-MUS-061525</lido:legalBodyID>
+               <lido:legalBodyName>
+                  <lido:appellationValue>Stiftung Stadtmuseum Berlin</lido:appellationValue>
+               </lido:legalBodyName>
+               <lido:legalBodyWeblink>https://www.stadtmuseum.de</lido:legalBodyWeblink>
+            </lido:rightsHolder>
+            <lido:creditLine>Förderprogramm zur Digitalisierung von Objekten des kulturellen Erbes des Landes Berlin</lido:creditLine>
+         </lido:recordRights>
+         <lido:recordInfoSet>
+            <lido:recordInfoLink>https://berlin.museum-digital.de/index.php?t=objekt&amp;oges=86341</lido:recordInfoLink>
+            <lido:recordMetadataDate>2021-02-23 13:44:55</lido:recordMetadataDate>
+         </lido:recordInfoSet>
+      </lido:recordWrap>
+      <lido:resourceWrap>
+         <lido:resourceSet lido:sortorder="1">
+            <lido:resourceID lido:source="image" lido:type="local">59577</lido:resourceID>
+            <lido:resourceRepresentation lido:type="image_thumb">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/86341-kh_98210_uh/reiseuhr_gunckel/100h_reiseuhr-gunckel-86341-2.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_preview">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/86341-kh_98210_uh/reiseuhr_gunckel/200w_reiseuhr-gunckel-86341-2.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/86341-kh_98210_uh/reiseuhr_gunckel/reiseuhr-gunckel-86341-2.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceType>
+               <lido:term>image</lido:term>
+            </lido:resourceType>
+            <lido:resourceSource lido:type="creator">
+               <lido:legalBodyName>
+                  <lido:appellationValue>Oliver Ziebe, Berlin (2020)</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:resourceSource>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+                  <lido:term>CC BY 4.0</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Stiftung Stadtmuseum Berlin</lido:appellationValue>
+                  </lido:legalBodyName>
+               </lido:rightsHolder>
+            </lido:rightsResource>
+         </lido:resourceSet>
+         <lido:resourceSet lido:sortorder="2">
+            <lido:resourceID lido:source="image" lido:type="local">59576</lido:resourceID>
+            <lido:resourceRepresentation lido:type="image_thumb">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/86341-kh_98210_uh/reiseuhr_gunckel/100h_reiseuhr-gunckel-86341.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_preview">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/86341-kh_98210_uh/reiseuhr_gunckel/200w_reiseuhr-gunckel-86341.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/86341-kh_98210_uh/reiseuhr_gunckel/reiseuhr-gunckel-86341.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceType>
+               <lido:term>image</lido:term>
+            </lido:resourceType>
+            <lido:resourceRelType>
+               <lido:term>Hauptansicht</lido:term>
+            </lido:resourceRelType>
+            <lido:resourceSource lido:type="creator">
+               <lido:legalBodyName>
+                  <lido:appellationValue>Oliver Ziebe, Berlin (2020)</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:resourceSource>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+                  <lido:term>CC BY 4.0</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Stiftung Stadtmuseum Berlin</lido:appellationValue>
+                  </lido:legalBodyName>
+               </lido:rightsHolder>
+            </lido:rightsResource>
+         </lido:resourceSet>
+         <lido:resourceSet lido:sortorder="3">
+            <lido:resourceID lido:source="image" lido:type="local">59578</lido:resourceID>
+            <lido:resourceRepresentation lido:type="image_thumb">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/86341-kh_98210_uh/reiseuhr_gunckel/100h_reiseuhr-gunckel-86341-3.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_preview">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/86341-kh_98210_uh/reiseuhr_gunckel/200w_reiseuhr-gunckel-86341-3.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/86341-kh_98210_uh/reiseuhr_gunckel/reiseuhr-gunckel-86341-3.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceType>
+               <lido:term>image</lido:term>
+            </lido:resourceType>
+            <lido:resourceSource lido:type="creator">
+               <lido:legalBodyName>
+                  <lido:appellationValue>Oliver Ziebe, Berlin (2020)</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:resourceSource>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+                  <lido:term>CC BY 4.0</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Stiftung Stadtmuseum Berlin</lido:appellationValue>
+                  </lido:legalBodyName>
+               </lido:rightsHolder>
+            </lido:rightsResource>
+         </lido:resourceSet>
+         <lido:resourceSet lido:sortorder="4">
+            <lido:resourceID lido:source="image" lido:type="local">59579</lido:resourceID>
+            <lido:resourceRepresentation lido:type="image_thumb">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/86341-kh_98210_uh/reiseuhr_gunckel/100h_reiseuhr-gunckel-86341-4.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_preview">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/86341-kh_98210_uh/reiseuhr_gunckel/200w_reiseuhr-gunckel-86341-4.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/86341-kh_98210_uh/reiseuhr_gunckel/reiseuhr-gunckel-86341-4.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceType>
+               <lido:term>image</lido:term>
+            </lido:resourceType>
+            <lido:resourceSource lido:type="creator">
+               <lido:legalBodyName>
+                  <lido:appellationValue>Oliver Ziebe, Berlin (2020)</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:resourceSource>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+                  <lido:term>CC BY 4.0</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Stiftung Stadtmuseum Berlin</lido:appellationValue>
+                  </lido:legalBodyName>
+               </lido:rightsHolder>
+            </lido:rightsResource>
+         </lido:resourceSet>
+         <lido:resourceSet lido:sortorder="5">
+            <lido:resourceID lido:source="image" lido:type="local">59580</lido:resourceID>
+            <lido:resourceRepresentation lido:type="image_thumb">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/86341-kh_98210_uh/reiseuhr_gunckel/100h_reiseuhr-gunckel-86341-5.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_preview">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/86341-kh_98210_uh/reiseuhr_gunckel/200w_reiseuhr-gunckel-86341-5.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/86341-kh_98210_uh/reiseuhr_gunckel/reiseuhr-gunckel-86341-5.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceType>
+               <lido:term>image</lido:term>
+            </lido:resourceType>
+            <lido:resourceSource lido:type="creator">
+               <lido:legalBodyName>
+                  <lido:appellationValue>Oliver Ziebe, Berlin (2020)</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:resourceSource>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+                  <lido:term>CC BY 4.0</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Stiftung Stadtmuseum Berlin</lido:appellationValue>
+                  </lido:legalBodyName>
+               </lido:rightsHolder>
+            </lido:rightsResource>
+         </lido:resourceSet>
+         <lido:resourceSet lido:sortorder="6">
+            <lido:resourceID lido:source="image" lido:type="local">59581</lido:resourceID>
+            <lido:resourceRepresentation lido:type="image_thumb">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/86341-kh_98210_uh/reiseuhr_gunckel/100h_reiseuhr-gunckel-86341-6.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_preview">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/86341-kh_98210_uh/reiseuhr_gunckel/200w_reiseuhr-gunckel-86341-6.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/86341-kh_98210_uh/reiseuhr_gunckel/reiseuhr-gunckel-86341-6.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceType>
+               <lido:term>image</lido:term>
+            </lido:resourceType>
+            <lido:resourceSource lido:type="creator">
+               <lido:legalBodyName>
+                  <lido:appellationValue>Oliver Ziebe, Berlin (2020)</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:resourceSource>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+                  <lido:term>CC BY 4.0</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Stiftung Stadtmuseum Berlin</lido:appellationValue>
+                  </lido:legalBodyName>
+               </lido:rightsHolder>
+            </lido:rightsResource>
+         </lido:resourceSet>
+         <lido:resourceSet lido:sortorder="7">
+            <lido:resourceID lido:source="image" lido:type="local">59582</lido:resourceID>
+            <lido:resourceRepresentation lido:type="image_thumb">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/86341-kh_98210_uh/reiseuhr_gunckel/100h_reiseuhr-gunckel-86341-7.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_preview">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/86341-kh_98210_uh/reiseuhr_gunckel/200w_reiseuhr-gunckel-86341-7.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/86341-kh_98210_uh/reiseuhr_gunckel/reiseuhr-gunckel-86341-7.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceType>
+               <lido:term>image</lido:term>
+            </lido:resourceType>
+            <lido:resourceSource lido:type="creator">
+               <lido:legalBodyName>
+                  <lido:appellationValue>Oliver Ziebe, Berlin (2020)</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:resourceSource>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+                  <lido:term>CC BY 4.0</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Stiftung Stadtmuseum Berlin</lido:appellationValue>
+                  </lido:legalBodyName>
+               </lido:rightsHolder>
+            </lido:rightsResource>
+         </lido:resourceSet>
+         <lido:resourceSet lido:sortorder="8">
+            <lido:resourceID lido:source="image" lido:type="local">59583</lido:resourceID>
+            <lido:resourceRepresentation lido:type="image_thumb">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/86341-kh_98210_uh/reiseuhr_gunckel/100h_reiseuhr-gunckel-86341-8.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_preview">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/86341-kh_98210_uh/reiseuhr_gunckel/200w_reiseuhr-gunckel-86341-8.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/86341-kh_98210_uh/reiseuhr_gunckel/reiseuhr-gunckel-86341-8.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceType>
+               <lido:term>image</lido:term>
+            </lido:resourceType>
+            <lido:resourceSource lido:type="creator">
+               <lido:legalBodyName>
+                  <lido:appellationValue>Oliver Ziebe, Berlin (2020)</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:resourceSource>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+                  <lido:term>CC BY 4.0</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Stiftung Stadtmuseum Berlin</lido:appellationValue>
+                  </lido:legalBodyName>
+               </lido:rightsHolder>
+            </lido:rightsResource>
+         </lido:resourceSet>
+         <lido:resourceSet lido:sortorder="9">
+            <lido:resourceID lido:source="image" lido:type="local">59625</lido:resourceID>
+            <lido:resourceRepresentation lido:type="image_thumb">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/86341-kh_98210_uh/reiseuhr_gunckel/100h_reiseuhr-gunckel-86341-9.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_preview">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/86341-kh_98210_uh/reiseuhr_gunckel/200w_reiseuhr-gunckel-86341-9.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/86341-kh_98210_uh/reiseuhr_gunckel/reiseuhr-gunckel-86341-9.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceType>
+               <lido:term>image</lido:term>
+            </lido:resourceType>
+            <lido:resourceSource lido:type="creator">
+               <lido:legalBodyName>
+                  <lido:appellationValue>Marina de Fümel, Berlin</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:resourceSource>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+                  <lido:term>CC BY 4.0</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Stiftung Stadtmuseum Berlin</lido:appellationValue>
+                  </lido:legalBodyName>
+               </lido:rightsHolder>
+            </lido:rightsResource>
+         </lido:resourceSet>
+         <lido:resourceSet lido:sortorder="10">
+            <lido:resourceID lido:source="image" lido:type="local">59626</lido:resourceID>
+            <lido:resourceRepresentation lido:type="image_thumb">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/86341-kh_98210_uh/reiseuhr_gunckel/100h_reiseuhr-gunckel-86341-10.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_preview">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/86341-kh_98210_uh/reiseuhr_gunckel/200w_reiseuhr-gunckel-86341-10.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/86341-kh_98210_uh/reiseuhr_gunckel/reiseuhr-gunckel-86341-10.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceType>
+               <lido:term>image</lido:term>
+            </lido:resourceType>
+            <lido:resourceSource lido:type="creator">
+               <lido:legalBodyName>
+                  <lido:appellationValue>Marina de Fümel, Berlin</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:resourceSource>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+                  <lido:term>CC BY 4.0</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Stiftung Stadtmuseum Berlin</lido:appellationValue>
+                  </lido:legalBodyName>
+               </lido:rightsHolder>
+            </lido:rightsResource>
+         </lido:resourceSet>
+         <lido:resourceSet lido:sortorder="11">
+            <lido:resourceID lido:source="image" lido:type="local">59627</lido:resourceID>
+            <lido:resourceRepresentation lido:type="image_thumb">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/86341-kh_98210_uh/reiseuhr_gunckel/100h_reiseuhr-gunckel-86341-11.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_preview">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/86341-kh_98210_uh/reiseuhr_gunckel/200w_reiseuhr-gunckel-86341-11.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/86341-kh_98210_uh/reiseuhr_gunckel/reiseuhr-gunckel-86341-11.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceType>
+               <lido:term>image</lido:term>
+            </lido:resourceType>
+            <lido:resourceSource lido:type="creator">
+               <lido:legalBodyName>
+                  <lido:appellationValue>Marina de Fümel, Berlin</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:resourceSource>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+                  <lido:term>CC BY 4.0</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Stiftung Stadtmuseum Berlin</lido:appellationValue>
+                  </lido:legalBodyName>
+               </lido:rightsHolder>
+            </lido:rightsResource>
+         </lido:resourceSet>
+      </lido:resourceWrap>
+   </lido:administrativeMetadata>
+</lido:lido>
+

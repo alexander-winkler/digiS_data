@@ -1,0 +1,373 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lido:lido xmlns:lido="http://www.lido-schema.org"
+           xmlns:xalan="http://xml.apache.org/xalan">
+   <lido:lidoRecID lido:source="https://berlin.museum-digital.de/index.php?t=institution&amp;instnr=32"
+                   lido:type="local">DE-B185/67184</lido:lidoRecID>
+   <lido:category/>
+   <lido:descriptiveMetadata xml:lang="de">
+      <lido:objectClassificationWrap>
+         <lido:objectWorkTypeWrap>
+            <lido:objectWorkType>
+               <lido:conceptID lido:source="gnd" lido:type="uri">http://d-nb.info/gnd/4021845-4</lido:conceptID>
+               <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/13314</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Druckgraphik</lido:term>
+            </lido:objectWorkType>
+         </lido:objectWorkTypeWrap>
+         <lido:classificationWrap>
+            <lido:classification lido:type="Sammlung">
+               <lido:conceptID lido:source="local" lido:type="collection_id">705</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Handzeichnungen, Druckgraphik, Gemälde</lido:term>
+            </lido:classification>
+            <lido:classification lido:type="Sammlung">
+               <lido:conceptID lido:source="local" lido:type="collection_id">706</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Ansichten</lido:term>
+            </lido:classification>
+            <lido:classification lido:type="Sammlung">
+               <lido:conceptID lido:source="local" lido:type="collection_id">709</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Sonstige Länder</lido:term>
+            </lido:classification>
+         </lido:classificationWrap>
+      </lido:objectClassificationWrap>
+      <lido:objectIdentificationWrap>
+         <lido:titleWrap>
+            <lido:titleSet>
+               <lido:appellationValue lido:pref="preferred">Königsberg in Preußen: Altstädtische Kirche, Innenansicht</lido:appellationValue>
+            </lido:titleSet>
+         </lido:titleWrap>
+         <lido:repositoryWrap>
+            <lido:repositorySet lido:type="current">
+               <lido:repositoryName>
+                  <lido:legalBodyID lido:type="isil">DE-B185</lido:legalBodyID>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+                  </lido:legalBodyName>
+                  <lido:legalBodyWeblink>http://geschichte-brandenburg.de/</lido:legalBodyWeblink>
+               </lido:repositoryName>
+               <lido:workID lido:type="inventory number">LGV-Archiv, C 12 G-4-104</lido:workID>
+               <lido:repositoryLocation>
+                  <lido:namePlaceSet>
+                     <lido:appellationValue>Berlin</lido:appellationValue>
+                  </lido:namePlaceSet>
+                  <lido:gml>
+                     <gml:Point xmlns:gml="http://www.opengis.net/gml" srsName="EPSG:4326">
+                        <gml:pos>52.51533127 13.40440559</gml:pos>
+                     </gml:Point>
+                  </lido:gml>
+               </lido:repositoryLocation>
+            </lido:repositorySet>
+         </lido:repositoryWrap>
+         <lido:objectDescriptionWrap>
+            <lido:objectDescriptionSet>
+               <lido:descriptiveNoteValue>Perspektivische Innenansicht zum Chor nach ihrer Vollendung 1845. Kolorierte Lithographie, wahrscheinlich von Friedrich Bils (1801-1853). Der Künstler kam 1833 aus Berlin und Frankfurt (Oder) nach Königsberg "und hat hier eine Fülle von Motiven und Ereignissen zeichnerisch festgehalten, die als Lithographie weite Verbreitung fanden" (Meyer-Bremen/Barfod, S. 8)&#xD;
+Die Altstädtische Kirche St. Nikolai war die bedeutendste Stadtpfarrkirche in Königsberg, sie befand sich in der Altstadt nordöstlich unweit des Schlosses. Hier wurde die erste Predigt der Reformation in Ostpreußen gehalten. Wegen Baufälligkeit wurde der mittelalterliche Bau 1826 abgetragen und 1838 bis 1845 der hier gezeigte Neubau errichtet. Die ursprünglichen Entwürfe von Karl Friedrich Schinkel, der bereits 1841 starb, wurden aus Kostengründen verändert. Nach starken Zerstörungen im Zweiten Weltkrieg wurde die Kirche abgetragen.&#xD;
+&#xD;
+Rückseite handschriftlich (wohl von der Vorbesitzerin Krieg-Büsche): "Altstädtische / Kirche in / Königsberg i. Pr. (geht auf / Schinkel / zurück. // Meine Konfirmations- / Kirche".&#xD;
+Schenkung aus Berliner Privatbesitz 2020.&#xD;
+&#xD;
+Literatur: Eva Börsch-Supan unter Mitw. von Zofia Ostrowska-Kębłowska: Die Provinzen Ost- und Westpreußen und Großherzogtum Posen (Karl Friedrich Schinkel. Lebenswerk, Bd. 18). München/Berlin 2003, S. 497-520, hier S. 520; vgl. S. 511 Abb. 458: S/W-Abb. eines weiteren Exemplars (im Germanischen Nationalmuseum Nürnberg). - Eva Börsch-Supan: Die Entwurfsgeschichte von Schinkels Altstädtischer Kirche in Königsberg. In: Von Schinkel bis van de Velde. Architektur- und Kunstgeschichtliche Beiträge vom Klassizismus bis zum Jugendstil. Festschrift für Dieter Dolgner zum 65. Geburtstag. Hrsg. von Angela Dolgner, Leonhard Helten u. Gotthard Voß. Dößel 2005, S. 99-112. (m. Abb. der hier vorliegenden Ansicht Taf. V.) - Vgl. über Friedrich Bils: Rudolf Meyer-Bremen, Jörn Barfod: Frühe Ansichten Ost- und Westpreußens im Steindruck. Ausstellung im Ostpreußischen Landesmuseum Lüneburg. Husum 2001.</lido:descriptiveNoteValue>
+               <lido:sourceDescriptiveNote>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:sourceDescriptiveNote>
+            </lido:objectDescriptionSet>
+         </lido:objectDescriptionWrap>
+         <lido:objectMeasurementsWrap>
+            <lido:objectMeasurementsSet>
+               <lido:displayObjectMeasurements>Blattgröße: Höhe 19,8 cm, Breite 13, 7 cm (auf Bildgröße beschnitten)</lido:displayObjectMeasurements>
+               <lido:objectMeasurements/>
+            </lido:objectMeasurementsSet>
+         </lido:objectMeasurementsWrap>
+      </lido:objectIdentificationWrap>
+      <lido:eventWrap>
+         <lido:eventSet>
+            <lido:event>
+               <lido:eventType>
+                  <lido:conceptID lido:type="uri">https://event-types.museum-digital.org/1</lido:conceptID>
+                  <lido:term lido:addedSearchTerm="no">Hergestellt</lido:term>
+               </lido:eventType>
+               <lido:eventActor>
+                  <lido:displayActorInRole>Friedrich Bils (1801-1853)</lido:displayActorInRole>
+                  <lido:actorInRole>
+                     <lido:actor>
+                        <lido:actorID lido:source="gnd" lido:type="uri">http://d-nb.info/gnd/131629476</lido:actorID>
+                        <lido:actorID lido:source="viaf" lido:type="uri">https://viaf.org/viaf/30675787</lido:actorID>
+                        <lido:actorID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/persinst/51990</lido:actorID>
+                        <lido:nameActorSet>
+                           <lido:appellationValue>Bils, Friedrich</lido:appellationValue>
+                           <lido:appellationValue xml:lang="de">Friedrich Bils</lido:appellationValue>
+                        </lido:nameActorSet>
+                        <lido:vitalDatesActor>
+                           <lido:earliestDate>1801</lido:earliestDate>
+                           <lido:latestDate>1853</lido:latestDate>
+                        </lido:vitalDatesActor>
+                     </lido:actor>
+                  </lido:actorInRole>
+               </lido:eventActor>
+               <lido:eventDate>
+                  <lido:displayDate>Nach 1845</lido:displayDate>
+                  <lido:displayDate xml:lang="de">Nach 1845</lido:displayDate>
+                  <lido:displayDate xml:lang="en">After 1845</lido:displayDate>
+                  <lido:displayDate xml:lang="hu">1845 után</lido:displayDate>
+                  <lido:date>
+                     <lido:earliestDate>1846</lido:earliestDate>
+                     <lido:latestDate>?</lido:latestDate>
+                  </lido:date>
+               </lido:eventDate>
+            </lido:event>
+         </lido:eventSet>
+         <lido:eventSet>
+            <lido:event>
+               <lido:eventType>
+                  <lido:conceptID lido:type="uri">http://terminology.lido-schema.org/lido00003</lido:conceptID>
+                  <lido:term>Event (non-specified)</lido:term>
+               </lido:eventType>
+               <lido:eventMaterialsTech>
+                  <lido:displayMaterialsTech>Lithographie auf festem Papier mit Tempera koloriert, eiweiß</lido:displayMaterialsTech>
+               </lido:eventMaterialsTech>
+            </lido:event>
+         </lido:eventSet>
+      </lido:eventWrap>
+      <lido:objectRelationWrap>
+         <lido:subjectWrap>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectPlace>
+                     <lido:displayPlace>Kaliningrad</lido:displayPlace>
+                     <lido:displayPlace xml:lang="ar">كالينينغراد</lido:displayPlace>
+                     <lido:displayPlace xml:lang="bn">কালিনিনগ্রাদ</lido:displayPlace>
+                     <lido:displayPlace xml:lang="cs">Kaliningrad</lido:displayPlace>
+                     <lido:displayPlace xml:lang="da">Kaliningrad</lido:displayPlace>
+                     <lido:displayPlace xml:lang="de">Kaliningrad</lido:displayPlace>
+                     <lido:displayPlace xml:lang="el">Καλίνινγκραντ</lido:displayPlace>
+                     <lido:displayPlace xml:lang="en">Kaliningrad</lido:displayPlace>
+                     <lido:displayPlace xml:lang="es">Kaliningrado</lido:displayPlace>
+                     <lido:displayPlace xml:lang="fa">کالینینگراد</lido:displayPlace>
+                     <lido:displayPlace xml:lang="fi">Kaliningrad</lido:displayPlace>
+                     <lido:displayPlace xml:lang="fr">Kaliningrad</lido:displayPlace>
+                     <lido:displayPlace xml:lang="he">קלינינגרד</lido:displayPlace>
+                     <lido:displayPlace xml:lang="hi">कैलिनिनग्राद</lido:displayPlace>
+                     <lido:displayPlace xml:lang="hu">Kalinyingrád</lido:displayPlace>
+                     <lido:displayPlace xml:lang="id">Kaliningrad</lido:displayPlace>
+                     <lido:displayPlace xml:lang="it">Kaliningrad</lido:displayPlace>
+                     <lido:displayPlace xml:lang="ja">カリーニングラード</lido:displayPlace>
+                     <lido:displayPlace xml:lang="ka">კალინინგრადი</lido:displayPlace>
+                     <lido:displayPlace xml:lang="ko">칼리닌그라드</lido:displayPlace>
+                     <lido:displayPlace xml:lang="nl">Kaliningrad</lido:displayPlace>
+                     <lido:displayPlace xml:lang="pl">Kaliningrad</lido:displayPlace>
+                     <lido:displayPlace xml:lang="pt">Kaliningrado</lido:displayPlace>
+                     <lido:displayPlace xml:lang="ro">Kaliningrad</lido:displayPlace>
+                     <lido:displayPlace xml:lang="ru">Калининград</lido:displayPlace>
+                     <lido:displayPlace xml:lang="sv">Kaliningrad</lido:displayPlace>
+                     <lido:displayPlace xml:lang="sw">Kaliningrad</lido:displayPlace>
+                     <lido:displayPlace xml:lang="ta">கலினின்கிராத்</lido:displayPlace>
+                     <lido:displayPlace xml:lang="th">คาลีนินกราด</lido:displayPlace>
+                     <lido:displayPlace xml:lang="tl">Kaliningrado</lido:displayPlace>
+                     <lido:displayPlace xml:lang="tr">Kaliningrad</lido:displayPlace>
+                     <lido:displayPlace xml:lang="ur">کیلننگراڈ</lido:displayPlace>
+                     <lido:displayPlace xml:lang="vi">Kaliningrad</lido:displayPlace>
+                     <lido:displayPlace xml:lang="zh">加里寧格勒</lido:displayPlace>
+                     <lido:place>
+                        <lido:placeID lido:source="geonames" lido:type="uri">https://sws.geonames.org/554234</lido:placeID>
+                        <lido:placeID lido:source="TGN" lido:type="uri">http://vocab.getty.edu/tgn/7013050</lido:placeID>
+                        <lido:placeID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4031541-1</lido:placeID>
+                        <lido:placeID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q1829</lido:placeID>
+                        <lido:placeID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/place/890</lido:placeID>
+                        <lido:namePlaceSet>
+                           <lido:appellationValue>Kaliningrad</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ar">كالينينغراد</lido:appellationValue>
+                           <lido:appellationValue xml:lang="bn">কালিনিনগ্রাদ</lido:appellationValue>
+                           <lido:appellationValue xml:lang="cs">Kaliningrad</lido:appellationValue>
+                           <lido:appellationValue xml:lang="da">Kaliningrad</lido:appellationValue>
+                           <lido:appellationValue xml:lang="de">Kaliningrad</lido:appellationValue>
+                           <lido:appellationValue xml:lang="el">Καλίνινγκραντ</lido:appellationValue>
+                           <lido:appellationValue xml:lang="en">Kaliningrad</lido:appellationValue>
+                           <lido:appellationValue xml:lang="es">Kaliningrado</lido:appellationValue>
+                           <lido:appellationValue xml:lang="fa">کالینینگراد</lido:appellationValue>
+                           <lido:appellationValue xml:lang="fi">Kaliningrad</lido:appellationValue>
+                           <lido:appellationValue xml:lang="fr">Kaliningrad</lido:appellationValue>
+                           <lido:appellationValue xml:lang="he">קלינינגרד</lido:appellationValue>
+                           <lido:appellationValue xml:lang="hi">कैलिनिनग्राद</lido:appellationValue>
+                           <lido:appellationValue xml:lang="hu">Kalinyingrád</lido:appellationValue>
+                           <lido:appellationValue xml:lang="id">Kaliningrad</lido:appellationValue>
+                           <lido:appellationValue xml:lang="it">Kaliningrad</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ja">カリーニングラード</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ka">კალინინგრადი</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ko">칼리닌그라드</lido:appellationValue>
+                           <lido:appellationValue xml:lang="nl">Kaliningrad</lido:appellationValue>
+                           <lido:appellationValue xml:lang="pl">Kaliningrad</lido:appellationValue>
+                           <lido:appellationValue xml:lang="pt">Kaliningrado</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ro">Kaliningrad</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ru">Калининград</lido:appellationValue>
+                           <lido:appellationValue xml:lang="sv">Kaliningrad</lido:appellationValue>
+                           <lido:appellationValue xml:lang="sw">Kaliningrad</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ta">கலினின்கிராத்</lido:appellationValue>
+                           <lido:appellationValue xml:lang="th">คาลีนินกราด</lido:appellationValue>
+                           <lido:appellationValue xml:lang="tl">Kaliningrado</lido:appellationValue>
+                           <lido:appellationValue xml:lang="tr">Kaliningrad</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ur">کیلننگراڈ</lido:appellationValue>
+                           <lido:appellationValue xml:lang="vi">Kaliningrad</lido:appellationValue>
+                           <lido:appellationValue xml:lang="zh">加里寧格勒</lido:appellationValue>
+                        </lido:namePlaceSet>
+                        <lido:gml>
+                           <gml:Point xmlns:gml="http://www.opengis.net/gml" srsName="EPSG:4326">
+                              <gml:pos>54.716667175293 20.5</gml:pos>
+                           </gml:Point>
+                        </lido:gml>
+                     </lido:place>
+                  </lido:subjectPlace>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="aat" lido:type="uri">http://vocab.getty.edu/aat/300054156</lido:conceptID>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4002851-3</lido:conceptID>
+                     <lido:conceptID lido:source="iconclass" lido:type="uri">http://iconclass.org/rkd/48C1/</lido:conceptID>
+                     <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh85006611</lido:conceptID>
+                     <lido:conceptID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q12271</lido:conceptID>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Architektur</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/800</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Architektur</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ar">عمارة</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="bn">স্থাপত্য</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="cs">Architektura</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="da">Arkitektur</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="de">Architektur</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="el">αρχιτεκτονική</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="en">Architecture</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="es">Arquitectura</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fa">معماری</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fi">Arkkitehtuuri</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fr">Architecture</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="he">אדריכלות</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hi">वास्तुशास्त्र</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hu">építészet</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="id">Arsitektur</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="it">Architettura</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ja">建築</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ka">არქიტექტურა</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ko">건축</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="nl">Architectuur</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pl">Architektura</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pt">Arquitetura</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ro">arhitectură</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ru">архитектура</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sv">Arkitektur</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sw">Ujenzi</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ta">கட்டிடக்கலை</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="th">สถาปัตยกรรม</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tl">Arkitektura</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tr">Mimarlık</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ur">معماری</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="vi">kiến trúc</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="zh">建筑</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/71176</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Neogotik</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/75711</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Sakralarchitektur</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+         </lido:subjectWrap>
+         <lido:relatedWorksWrap/>
+      </lido:objectRelationWrap>
+   </lido:descriptiveMetadata>
+   <lido:administrativeMetadata xml:lang="de">
+      <lido:rightsWorkWrap>
+         <lido:rightsWorkSet>
+            <lido:rightsHolder>
+               <lido:legalBodyName>
+                  <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:rightsHolder>
+         </lido:rightsWorkSet>
+      </lido:rightsWorkWrap>
+      <lido:recordWrap>
+         <lido:recordID lido:type="museum-digital">67184</lido:recordID>
+         <lido:recordType>
+            <lido:term lido:addedSearchTerm="no">item</lido:term>
+         </lido:recordType>
+         <lido:recordSource lido:type="dataProvider">
+            <lido:legalBodyName>
+               <lido:appellationValue>museum-digital</lido:appellationValue>
+            </lido:legalBodyName>
+            <lido:legalBodyWeblink>https://berlin.museum-digital.de/</lido:legalBodyWeblink>
+         </lido:recordSource>
+         <lido:recordSource>
+            <lido:legalBodyID lido:type="isil">DE-B185</lido:legalBodyID>
+            <lido:legalBodyName>
+               <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+            </lido:legalBodyName>
+         </lido:recordSource>
+         <lido:recordRights>
+            <lido:rightsType>
+               <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no">CC BY</lido:term>
+            </lido:rightsType>
+            <lido:rightsHolder>
+               <lido:legalBodyID lido:type="isil">DE-B185</lido:legalBodyID>
+               <lido:legalBodyName>
+                  <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+               </lido:legalBodyName>
+               <lido:legalBodyWeblink>http://geschichte-brandenburg.de/</lido:legalBodyWeblink>
+            </lido:rightsHolder>
+            <lido:creditLine>Förderprogramm zur Digitalisierung von Objekten des kulturellen Erbes des Landes Berlin</lido:creditLine>
+         </lido:recordRights>
+         <lido:recordInfoSet>
+            <lido:recordInfoLink>https://berlin.museum-digital.de/index.php?t=objekt&amp;oges=67184</lido:recordInfoLink>
+            <lido:recordMetadataDate>2021-04-27 07:59:53</lido:recordMetadataDate>
+         </lido:recordInfoSet>
+      </lido:recordWrap>
+      <lido:resourceWrap>
+         <lido:resourceSet lido:sortorder="1">
+            <lido:resourceID lido:source="image" lido:type="local">48767</lido:resourceID>
+            <lido:resourceRepresentation lido:type="masterfile">
+               <lido:linkResource lido:formatResource="image/tiff"/>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_thumb">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/202007/100h_koenigsberg-in-preuSsen-altstaedtische-kirche-innenansicht-67184.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_preview">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/202007/200w_koenigsberg-in-preuSsen-altstaedtische-kirche-innenansicht-67184.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/202007/koenigsberg-in-preuSsen-altstaedtische-kirche-innenansicht-67184.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceType>
+               <lido:term lido:addedSearchTerm="no">image</lido:term>
+            </lido:resourceType>
+            <lido:resourceRelType>
+               <lido:term lido:addedSearchTerm="no">Hauptansicht</lido:term>
+            </lido:resourceRelType>
+            <lido:resourceDescription>Königsberg in Preußen: Altstädtische Kirche, Innenansicht</lido:resourceDescription>
+            <lido:resourceSource lido:type="creator">
+               <lido:legalBodyName>
+                  <lido:appellationValue>Thomas Voßbeck, 2020</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:resourceSource>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+                  <lido:term lido:addedSearchTerm="no">CC BY</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V.</lido:appellationValue>
+                  </lido:legalBodyName>
+               </lido:rightsHolder>
+               <lido:creditLine>Thomas Voßbeck, 2020</lido:creditLine>
+            </lido:rightsResource>
+         </lido:resourceSet>
+      </lido:resourceWrap>
+   </lido:administrativeMetadata>
+</lido:lido>
+

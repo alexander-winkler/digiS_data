@@ -1,0 +1,1154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lido:lido xmlns:gml="http://www.opengis.net/gml"
+           xmlns:lido="http://www.lido-schema.org"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <lido:lidoRecID lido:source="https://berlin.museum-digital.de/index.php?t=institution&amp;instnr=21"
+                   lido:type="local">DE-MUS-061525/70731</lido:lidoRecID>
+   <lido:descriptiveMetadata xml:lang="de">
+      <lido:objectClassificationWrap>
+         <lido:objectWorkTypeWrap>
+            <lido:objectWorkType>
+               <lido:conceptID lido:source="gnd" lido:type="uri">http://d-nb.info/gnd/4164176-0</lido:conceptID>
+               <lido:conceptID lido:source="grobsystematik" lido:type="uri">https://term.museum-digital.de/grobsystematik/tag/13321</lido:conceptID>
+               <lido:conceptID lido:source="oberbegriffsdatei" lido:type="uri">https://term.museum-digital.de/oberbegriffsdatei/tag/2036</lido:conceptID>
+               <lido:conceptID lido:source="aat" lido:type="uri">http://vocab.getty.edu/aat/300041575</lido:conceptID>
+               <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh85027100</lido:conceptID>
+               <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/1331</lido:conceptID>
+               <lido:term>Uhr</lido:term>
+            </lido:objectWorkType>
+         </lido:objectWorkTypeWrap>
+         <lido:classificationWrap>
+            <lido:classification lido:type="Sammlung">
+               <lido:conceptID lido:source="local" lido:type="collection_id">623</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no">Uhrensammlung</lido:term>
+            </lido:classification>
+         </lido:classificationWrap>
+      </lido:objectClassificationWrap>
+      <lido:objectIdentificationWrap>
+         <lido:titleWrap>
+            <lido:titleSet>
+               <lido:appellationValue lido:pref="preferred">Albert Karl Julius Felsing, Figurenuhr „Friedrich Schiller“, um 1866, Inv. Nr. KH 98/57 UH</lido:appellationValue>
+            </lido:titleSet>
+         </lido:titleWrap>
+         <lido:inscriptionsWrap>
+            <lido:inscriptions>
+               <lido:inscriptionDescription>
+                  <lido:descriptiveNoteValue>auf dem Zifferblatt: CONRAD FELSING Hof Uhrmacher BERLIN</lido:descriptiveNoteValue>
+               </lido:inscriptionDescription>
+            </lido:inscriptions>
+         </lido:inscriptionsWrap>
+         <lido:repositoryWrap>
+            <lido:repositorySet lido:type="current">
+               <lido:repositoryName>
+                  <lido:legalBodyID lido:type="isil">DE-MUS-061525</lido:legalBodyID>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Stiftung Stadtmuseum Berlin</lido:appellationValue>
+                  </lido:legalBodyName>
+                  <lido:legalBodyWeblink>https://www.stadtmuseum.de</lido:legalBodyWeblink>
+               </lido:repositoryName>
+               <lido:workID lido:type="inventory number">KH 98/57 UH</lido:workID>
+               <lido:repositoryLocation>
+                  <lido:namePlaceSet>
+                     <lido:appellationValue>Berlin</lido:appellationValue>
+                  </lido:namePlaceSet>
+                  <lido:gml>
+                     <gml:Point srsName="EPSG:4326">
+                        <gml:pos>52.51618576 13.40692997</gml:pos>
+                     </gml:Point>
+                  </lido:gml>
+               </lido:repositoryLocation>
+            </lido:repositorySet>
+         </lido:repositoryWrap>
+         <lido:objectDescriptionWrap>
+            <lido:objectDescriptionSet>
+               <lido:descriptiveNoteValue>Auf dem queroblongen Alabaster-Sockel auf vier runden, vergoldeten Zinkguss-Füßen, in der Mitte gekehlt, mit vorkragendem Mittelteil und vergoldeten Zierleisten steht das Uhrgehäuse rechts, daneben die ganzfigurige Darstellung des Dichters Friedrich Schiller (1759-1805) mit zwei auf dem Boden liegenden Büchern. Die Rückseite des Podests ist gerade und ohne Zierrat gefertigt. Das asymmetrisch ausgebildete, vollplastische Uhrgehäuse – die linke untere Volute wurde zugunsten der danebenstehenden Figur gekürzt – orientiert sich an französischen Formen aus der Zeit um 1775, wie sie beispielweise der Pariser Bronzegießer Robert Osmond (1711-1789) für seine Uhrgehäuse benutzte. Das Blatt- und Blütenmotiv unter dem Zifferblatt wiederholt sich leicht verändert an der rechten Volute. Seitlich wird das Zifferblatt von zwei großen, plastisch hervortretenden Rosetten mit Blattverzierung gerahmt, die rechte mit einem Knauf. Den Übergang zur quadratischen, pagodenförmig abgestuften Verdachung bildet eine Palmette mit seitlichen Voluten. In der Kehle am Alabastersockel fehlt vorn in der Mitte ein Zierelement, die dafür gedachten vier Befestigungslöcher sind sichtbar. Die Verglasung der vorderen und die Abdeckung der rückwärtigen Lünette sind ebenfalls nicht mehr vorhanden.&lt;br&gt;
+Die stark idealisiert wiedergegebene Figur Friedrich Schillers in langem Mantel und Stiefeln, den linken Arm vor der Brust mit einem Blatt Papier in der Hand, die Linke mit Schreibgerät nach unten zu den Büchern ausgestreckt, tritt dem Betrachter in Schrittstellung entgegen. Der Kopf mit den Gesichtszügen des jungen Mannes, orientiert an der Darstellung von Johann Heinrich von Dannecker (1758-1841) aus dem Jahr 1793, ist leicht nach links gewandt. Ruhig und bestimmt wirkt der Dichter hier, im Gegensatz zu der Darstellung an einer um 1830 entstandenen französischen Figurenuhr im Schloss Charlottenburg (SPSG, Inv. Nr. V 119), an der Schiller über dem Zifferblatt mit erhobenem linken Arm und wehendem Mantel nach oben zu stürmen scheint. &lt;br&gt;
+Der Entwurf für die Uhr stammt von dem französischen Bildhauer Philippe Mourey (1840-1910), dessen Name sich gestempelt auf der Rückseite des Gehäuses – eingerahmt durch die Ziffern 4 und 66 – befindet. Dies könnte auf eine Modellnummer oder/und das Jahr 1866 verweisen. Eine kleine, 11,5 cm hohe Gipsbüste Friedrich Schillers entstand nach demselben Entwurf. Von Mourey existieren viele französische Figurenuhren in vergleichbarem Duktus, mitunter auch auf sehr ähnlichen Alabastersockeln, sowie prunkvolle vergoldete Gerätschaften, wie große Kandelaber mit Putten – alle aus der zweiten Hälfte des 19. Jahrhunderts. Ob der Entwurf der Schiller-Uhr im Zusammenhang mit den zahlreichen Denkmälern zu sehen ist, die um den 100. Geburtstag des verehrten Dichterfürsten entstanden, ist noch zu klären. So kann die Darstellung an der Uhr verglichen werden mit denen der Schiller-Monumente von Johannes Dielmann (1859-62) in Frankfurt am Main oder den Konkurrenz-Entwürfen von Rudolf Leopold Siemering (1835-1905) und Reinhold Begas (1831-1911) zu dem Denkmal für den Berliner Gendarmenmarkt. Inwieweit der Franzose Mourey davon inspiriert war, ist bislang nicht bekannt. (Silke Kiesant)&lt;br&gt;</lido:descriptiveNoteValue>
+               <lido:sourceDescriptiveNote>Stiftung Stadtmuseum Berlin</lido:sourceDescriptiveNote>
+            </lido:objectDescriptionSet>
+            <lido:objectDescriptionSet lido:type="Detailbeschreibung">
+               <lido:descriptiveNoteValue>Das runde Vollplatinenwerk kaufte Felsing von den Pariser Uhrwerke-Hersteller Japy Frères (Stempel auf der Rückplatine). Es besitzt ein Schlossscheibenschlagwerk mit Halbstundenschlag auf einer Glocke (an der Rückplatine befestigt), Pendelfeder, Clementhemmung, Feinregulierung auf XII Uhr im Lünettenrahmen, zwei Aufzugslöcher auf IIII und VIII Uhr. Das Zifferblatt besteht aus Alabaster mit ausgesägten, aufgelegten römischen Messingziffern und sehr feinen Zeigern mit Spitzen in Birnenform. Die Signatur auf dem Zifferblatt ist mit goldener Schrift ausgeführt. Auf der Rückplatine befinden sich außer dem runden Stempel „JAPY FRÈRES &amp; CIE / G. MED. D’HONNEUR“ (darüber die Nummer 69) und einem ovalem Stempel: „(…) &amp; CIE PARIS“, darunter die Nummer 319, mehrere eingekratzte Reparaturzeichen. Auf der Rückseite des vergoldeten Gehäusesockels ist der Stempel „4 PH. MOUREY 66“ zu erkennen. Ein Aufziehschlüssel mit gerändeltem Rand, auf einer Seite die Nummer „7“ und ein gravierter Vogel, hat sich erhalten.&lt;br&gt;
+Die Firma Japy Frères geht zurück auf den französischen Uhrmacher Frédéric Japy (1749-1812), der schon Ende der 1770er Jahre maschinell Rohwerke herstellen ließ. 1807 übernahmen seine Söhne den Betrieb und gründeten in Frankreich neue Fabriken für die Massenproduktion.&lt;br&gt;
+Der Berliner Uhrmacher Albert Felsing (1827-1901), der häufig Japy-Rohwerke bezog und mit ausländischen Uhren handelte, gab dieser eigentlich französischen Uhr den Namen seiner Firma. Möglicherweise hat er das Rohwerk von Japy noch weiter verarbeitet, bevor er es in das Gehäuse einsetzte. &lt;br&gt;
+Albert führte die Firma seines Vaters Johann Conrad Felsing ab 1851 unter dessen Namen weiter. Er war wie sein Vater Hofuhrmacher und stiftete die Turmuhr für die Kaiser Wilhelm-Gedächtniskirche. Albert Felsing erhielt den Kronenorden IV. Klasse, war Kommissionsrat und Konzessionär bei der Firma A. Lange &amp; Söhne. Seine Uhrwerke bezog er außer von Japy u.a. auch aus der Schweiz von namhaften Firmen wie „Vacheron Constantin" oder „Patek Philippe". Die Genfer Manufaktur „Alex Hüning" kaufte dagegen häufig Uhrwerke bei Felsing ein, nachdem sie dort verfeinert wurden. Umgekehrt lieferte „Alex Hüning" Gehäuse nach Berlin – gemarkt mit "F&amp;H" (Fiebiger &amp; Hüning). &lt;br&gt;
+Das bekannte Geschäft Felsing in der Straße Unter den Linden 19-21 bestand unter diesem Namen bis 1938. Im Kunsthandel oder in Privatsammlungen tauchen noch oft Produkte der Firma auf, auch mit der Signatur „Felsing in Berlin“, darunter eine Tischuhr in äußerlich aufwendig wirkenden Gehäusen mit viel Rokoko-Zierrat, jedoch von minderer Qualität und mit einem Uhrwerk von Japy Frères in Paris, oder eine kleine Pendule im Boulle-Stil. Die Stiftung Stadtmuseum Berlin bewahrt ein weiteres Werk von Felsing, eine kleine Reiseuhr. Seltener zu finden sind dagegen solche Objekte wie der Schritt-Taktgeber bezeichnet mit „Conrad Felsing Berlin“, ein Metronom zur Bestimmung der Marschgeschwindigkeit beim Militär, in Taschenuhrform (Privatbesitz). (Marina de Fümel, Franka Görike, Silke Kiesant)</lido:descriptiveNoteValue>
+               <lido:sourceDescriptiveNote>Stiftung Stadtmuseum Berlin</lido:sourceDescriptiveNote>
+            </lido:objectDescriptionSet>
+         </lido:objectDescriptionWrap>
+         <lido:objectMeasurementsWrap>
+            <lido:objectMeasurementsSet>
+               <lido:displayObjectMeasurements>Höhe 53 cm, Breite 54 cm, Tiefe 21 cm, Durchmesser 8,2 cm</lido:displayObjectMeasurements>
+            </lido:objectMeasurementsSet>
+         </lido:objectMeasurementsWrap>
+      </lido:objectIdentificationWrap>
+      <lido:eventWrap>
+         <lido:eventSet>
+            <lido:displayEvent>Geistige Schöpfung</lido:displayEvent>
+            <lido:event>
+               <lido:eventType>
+                  <lido:conceptID lido:type="uri">http://terminology.lido-schema.org/lido00012</lido:conceptID>
+                  <lido:term lido:addedSearchTerm="no">Geistige Schöpfung</lido:term>
+               </lido:eventType>
+               <lido:eventActor>
+                  <lido:displayActorInRole>Johann Heinrich von Dannecker (1758-1841)</lido:displayActorInRole>
+                  <lido:actorInRole>
+                     <lido:actor>
+                        <lido:actorID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Johann_Heinrich_Dannecker</lido:actorID>
+                        <lido:actorID lido:source="NDB/ADB" lido:type="uri">https://www.deutsche-biographie.de/pnd118678809.html#ndbcontent</lido:actorID>
+                        <lido:actorID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/118678809</lido:actorID>
+                        <lido:actorID lido:source="viaf" lido:type="uri">https://viaf.org/viaf/67259677</lido:actorID>
+                        <lido:actorID lido:source="ulan" lido:type="uri">http://vocab.getty.edu/ulan/500016828</lido:actorID>
+                        <lido:actorID lido:source="rkd" lido:type="uri">https://rkd.nl/explore/artists/19997</lido:actorID>
+                        <lido:actorID lido:source="bnf" lido:type="uri">https://catalogue.bnf.fr/ark:/12148/cb123095235</lido:actorID>
+                        <lido:actorID lido:source="loc" lido:type="uri">http://id.loc.gov/authorities/names/n83199656</lido:actorID>
+                        <lido:actorID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q382900</lido:actorID>
+                        <lido:actorID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/persinst/5363</lido:actorID>
+                        <lido:nameActorSet>
+                           <lido:appellationValue>Dannecker, Johann Heinrich von</lido:appellationValue>
+                           <lido:appellationValue xml:lang="da">Johann Heinrich Dannecker</lido:appellationValue>
+                           <lido:appellationValue xml:lang="en">Johann Heinrich von Dannecker</lido:appellationValue>
+                           <lido:appellationValue xml:lang="es">Johann Heinrich von Dannecker</lido:appellationValue>
+                           <lido:appellationValue xml:lang="fr">Johann Heinrich Dannecker</lido:appellationValue>
+                           <lido:appellationValue xml:lang="hu">Johann Heinrich Dannecker</lido:appellationValue>
+                           <lido:appellationValue xml:lang="it">Johann Heinrich Dannecker</lido:appellationValue>
+                           <lido:appellationValue xml:lang="nl">Johann Heinrich von Dannecker</lido:appellationValue>
+                           <lido:appellationValue xml:lang="pt">Johann Heinrich von Dannecker</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ru">Даннекер, Иоганн Генрих фон</lido:appellationValue>
+                           <lido:appellationValue xml:lang="sv">Johann Heinrich Dannecker</lido:appellationValue>
+                        </lido:nameActorSet>
+                        <lido:vitalDatesActor>
+                           <lido:earliestDate>1758</lido:earliestDate>
+                           <lido:latestDate>1841</lido:latestDate>
+                        </lido:vitalDatesActor>
+                     </lido:actor>
+                  </lido:actorInRole>
+               </lido:eventActor>
+               <lido:eventDate>
+                  <lido:displayDate>1793</lido:displayDate>
+                  <lido:displayDate xml:lang="ar">1793</lido:displayDate>
+                  <lido:displayDate xml:lang="en">1793</lido:displayDate>
+                  <lido:displayDate xml:lang="es">1793</lido:displayDate>
+                  <lido:displayDate xml:lang="fa">1793</lido:displayDate>
+                  <lido:displayDate xml:lang="fr">1793</lido:displayDate>
+                  <lido:displayDate xml:lang="hu">1793</lido:displayDate>
+                  <lido:displayDate xml:lang="id">1793</lido:displayDate>
+                  <lido:displayDate xml:lang="it">1793</lido:displayDate>
+                  <lido:displayDate xml:lang="ja">1793年</lido:displayDate>
+                  <lido:displayDate xml:lang="ka">1793</lido:displayDate>
+                  <lido:displayDate xml:lang="ko">1793년</lido:displayDate>
+                  <lido:displayDate xml:lang="pl">1793</lido:displayDate>
+                  <lido:displayDate xml:lang="pt">1793</lido:displayDate>
+                  <lido:displayDate xml:lang="ro">1793</lido:displayDate>
+                  <lido:displayDate xml:lang="ru">1793</lido:displayDate>
+                  <lido:displayDate xml:lang="ta">1793</lido:displayDate>
+                  <lido:displayDate xml:lang="tl">1793</lido:displayDate>
+                  <lido:displayDate xml:lang="tr">1793</lido:displayDate>
+                  <lido:displayDate xml:lang="zh">1793年</lido:displayDate>
+                  <lido:date>
+                     <lido:earliestDate>1793</lido:earliestDate>
+                     <lido:latestDate>1793</lido:latestDate>
+                  </lido:date>
+               </lido:eventDate>
+            </lido:event>
+         </lido:eventSet>
+         <lido:eventSet>
+            <lido:displayEvent>Geistige Schöpfung</lido:displayEvent>
+            <lido:event>
+               <lido:eventType>
+                  <lido:conceptID lido:type="uri">http://terminology.lido-schema.org/lido00012</lido:conceptID>
+                  <lido:term lido:addedSearchTerm="no">Geistige Schöpfung</lido:term>
+               </lido:eventType>
+               <lido:eventActor>
+                  <lido:displayActorInRole>Philippe Mourey (1840-1910)</lido:displayActorInRole>
+                  <lido:actorInRole>
+                     <lido:actor>
+                        <lido:actorID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/persinst/142985</lido:actorID>
+                        <lido:nameActorSet>
+                           <lido:appellationValue>Mourey, Philippe</lido:appellationValue>
+                        </lido:nameActorSet>
+                        <lido:vitalDatesActor>
+                           <lido:earliestDate>1840</lido:earliestDate>
+                           <lido:latestDate>1910</lido:latestDate>
+                        </lido:vitalDatesActor>
+                     </lido:actor>
+                  </lido:actorInRole>
+               </lido:eventActor>
+               <lido:eventDate>
+                  <lido:displayDate>1866 (wahrscheinlich)</lido:displayDate>
+                  <lido:displayDate xml:lang="ar">1866</lido:displayDate>
+                  <lido:displayDate xml:lang="en">1866</lido:displayDate>
+                  <lido:displayDate xml:lang="es">1866</lido:displayDate>
+                  <lido:displayDate xml:lang="fa">1866</lido:displayDate>
+                  <lido:displayDate xml:lang="fr">1866</lido:displayDate>
+                  <lido:displayDate xml:lang="hu">1866</lido:displayDate>
+                  <lido:displayDate xml:lang="id">1866</lido:displayDate>
+                  <lido:displayDate xml:lang="it">1866</lido:displayDate>
+                  <lido:displayDate xml:lang="ja">1866年</lido:displayDate>
+                  <lido:displayDate xml:lang="ka">1866</lido:displayDate>
+                  <lido:displayDate xml:lang="ko">1866년</lido:displayDate>
+                  <lido:displayDate xml:lang="pl">1866</lido:displayDate>
+                  <lido:displayDate xml:lang="pt">1866</lido:displayDate>
+                  <lido:displayDate xml:lang="ro">1866</lido:displayDate>
+                  <lido:displayDate xml:lang="ru">1866</lido:displayDate>
+                  <lido:displayDate xml:lang="ta">1866</lido:displayDate>
+                  <lido:displayDate xml:lang="tl">1866</lido:displayDate>
+                  <lido:displayDate xml:lang="tr">1866</lido:displayDate>
+                  <lido:displayDate xml:lang="zh">1866年</lido:displayDate>
+                  <lido:date>
+                     <lido:earliestDate>1866</lido:earliestDate>
+                     <lido:latestDate>1866</lido:latestDate>
+                  </lido:date>
+               </lido:eventDate>
+            </lido:event>
+         </lido:eventSet>
+         <lido:eventSet>
+            <lido:displayEvent>Hergestellt</lido:displayEvent>
+            <lido:event>
+               <lido:eventType>
+                  <lido:conceptID lido:type="uri">http://terminology.lido-schema.org/lido00007</lido:conceptID>
+                  <lido:term lido:addedSearchTerm="no">Hergestellt</lido:term>
+               </lido:eventType>
+               <lido:eventActor>
+                  <lido:displayActorInRole>Albert Karl Julius Felsing (1827-1901)</lido:displayActorInRole>
+                  <lido:actorInRole>
+                     <lido:actor>
+                        <lido:actorID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/persinst/127243</lido:actorID>
+                        <lido:nameActorSet>
+                           <lido:appellationValue>Felsing, Albert Karl Julius</lido:appellationValue>
+                        </lido:nameActorSet>
+                        <lido:vitalDatesActor>
+                           <lido:earliestDate>1827</lido:earliestDate>
+                           <lido:latestDate>1901</lido:latestDate>
+                        </lido:vitalDatesActor>
+                     </lido:actor>
+                  </lido:actorInRole>
+               </lido:eventActor>
+               <lido:eventActor>
+                  <lido:displayActorInRole>Japy Frères et Cie.</lido:displayActorInRole>
+                  <lido:actorInRole>
+                     <lido:actor>
+                        <lido:actorID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/persinst/72872</lido:actorID>
+                        <lido:nameActorSet>
+                           <lido:appellationValue>Japy Frères et Cie.</lido:appellationValue>
+                        </lido:nameActorSet>
+                     </lido:actor>
+                  </lido:actorInRole>
+               </lido:eventActor>
+               <lido:eventDate>
+                  <lido:displayDate>1866 (wahrscheinlich)</lido:displayDate>
+                  <lido:displayDate xml:lang="ar">1866</lido:displayDate>
+                  <lido:displayDate xml:lang="en">1866</lido:displayDate>
+                  <lido:displayDate xml:lang="es">1866</lido:displayDate>
+                  <lido:displayDate xml:lang="fa">1866</lido:displayDate>
+                  <lido:displayDate xml:lang="fr">1866</lido:displayDate>
+                  <lido:displayDate xml:lang="hu">1866</lido:displayDate>
+                  <lido:displayDate xml:lang="id">1866</lido:displayDate>
+                  <lido:displayDate xml:lang="it">1866</lido:displayDate>
+                  <lido:displayDate xml:lang="ja">1866年</lido:displayDate>
+                  <lido:displayDate xml:lang="ka">1866</lido:displayDate>
+                  <lido:displayDate xml:lang="ko">1866년</lido:displayDate>
+                  <lido:displayDate xml:lang="pl">1866</lido:displayDate>
+                  <lido:displayDate xml:lang="pt">1866</lido:displayDate>
+                  <lido:displayDate xml:lang="ro">1866</lido:displayDate>
+                  <lido:displayDate xml:lang="ru">1866</lido:displayDate>
+                  <lido:displayDate xml:lang="ta">1866</lido:displayDate>
+                  <lido:displayDate xml:lang="tl">1866</lido:displayDate>
+                  <lido:displayDate xml:lang="tr">1866</lido:displayDate>
+                  <lido:displayDate xml:lang="zh">1866年</lido:displayDate>
+                  <lido:date>
+                     <lido:earliestDate>1866</lido:earliestDate>
+                     <lido:latestDate>1866</lido:latestDate>
+                  </lido:date>
+               </lido:eventDate>
+               <lido:eventPlace>
+                  <lido:displayPlace>Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ar">برلين</lido:displayPlace>
+                  <lido:displayPlace xml:lang="bn">বার্লিন</lido:displayPlace>
+                  <lido:displayPlace xml:lang="cs">Berlín</lido:displayPlace>
+                  <lido:displayPlace xml:lang="da">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="el">Βερολίνο</lido:displayPlace>
+                  <lido:displayPlace xml:lang="en">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="es">Berlín</lido:displayPlace>
+                  <lido:displayPlace xml:lang="fa">برلین</lido:displayPlace>
+                  <lido:displayPlace xml:lang="fi">Berliini</lido:displayPlace>
+                  <lido:displayPlace xml:lang="fr">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ha">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="he">ברלין</lido:displayPlace>
+                  <lido:displayPlace xml:lang="hi">बर्लिन</lido:displayPlace>
+                  <lido:displayPlace xml:lang="hu">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="id">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="it">Berlino</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ja">ベルリン</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ka">ბერლინი</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ko">베를린</lido:displayPlace>
+                  <lido:displayPlace xml:lang="nl">Berlijn</lido:displayPlace>
+                  <lido:displayPlace xml:lang="pl">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="pt">Berlim</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ro">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ru">Берлин</lido:displayPlace>
+                  <lido:displayPlace xml:lang="sv">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="sw">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ta">பெர்லின்</lido:displayPlace>
+                  <lido:displayPlace xml:lang="th">เบอร์ลิน</lido:displayPlace>
+                  <lido:displayPlace xml:lang="tl">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="tr">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ur">برلن</lido:displayPlace>
+                  <lido:displayPlace xml:lang="vi">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="zh">柏林</lido:displayPlace>
+                  <lido:place>
+                     <lido:placeID lido:source="geonames" lido:type="uri">https://sws.geonames.org/2950159</lido:placeID>
+                     <lido:placeID lido:source="TGN" lido:type="uri">http://vocab.getty.edu/tgn/7209904</lido:placeID>
+                     <lido:placeID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4005728-8</lido:placeID>
+                     <lido:placeID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q64</lido:placeID>
+                     <lido:placeID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/place/61</lido:placeID>
+                     <lido:namePlaceSet>
+                        <lido:appellationValue>Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ar">برلين</lido:appellationValue>
+                        <lido:appellationValue xml:lang="bn">বার্লিন</lido:appellationValue>
+                        <lido:appellationValue xml:lang="cs">Berlín</lido:appellationValue>
+                        <lido:appellationValue xml:lang="da">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="el">Βερολίνο</lido:appellationValue>
+                        <lido:appellationValue xml:lang="en">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="es">Berlín</lido:appellationValue>
+                        <lido:appellationValue xml:lang="fa">برلین</lido:appellationValue>
+                        <lido:appellationValue xml:lang="fi">Berliini</lido:appellationValue>
+                        <lido:appellationValue xml:lang="fr">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ha">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="he">ברלין</lido:appellationValue>
+                        <lido:appellationValue xml:lang="hi">बर्लिन</lido:appellationValue>
+                        <lido:appellationValue xml:lang="hu">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="id">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="it">Berlino</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ja">ベルリン</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ka">ბერლინი</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ko">베를린</lido:appellationValue>
+                        <lido:appellationValue xml:lang="nl">Berlijn</lido:appellationValue>
+                        <lido:appellationValue xml:lang="pl">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="pt">Berlim</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ro">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ru">Берлин</lido:appellationValue>
+                        <lido:appellationValue xml:lang="sv">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="sw">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ta">பெர்லின்</lido:appellationValue>
+                        <lido:appellationValue xml:lang="th">เบอร์ลิน</lido:appellationValue>
+                        <lido:appellationValue xml:lang="tl">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="tr">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ur">برلن</lido:appellationValue>
+                        <lido:appellationValue xml:lang="vi">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="zh">柏林</lido:appellationValue>
+                     </lido:namePlaceSet>
+                     <lido:gml>
+                        <gml:Point srsName="EPSG:4326">
+                           <gml:pos>52.516666412354 13.383333206177</gml:pos>
+                        </gml:Point>
+                     </lido:gml>
+                  </lido:place>
+               </lido:eventPlace>
+               <lido:eventPlace>
+                  <lido:displayPlace>Paris</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ar">باريس</lido:displayPlace>
+                  <lido:displayPlace xml:lang="bn">প্যারিস</lido:displayPlace>
+                  <lido:displayPlace xml:lang="cs">Paříž</lido:displayPlace>
+                  <lido:displayPlace xml:lang="da">Paris</lido:displayPlace>
+                  <lido:displayPlace xml:lang="el">Παρίσι</lido:displayPlace>
+                  <lido:displayPlace xml:lang="en">Paris</lido:displayPlace>
+                  <lido:displayPlace xml:lang="es">París</lido:displayPlace>
+                  <lido:displayPlace xml:lang="fa">پاریس</lido:displayPlace>
+                  <lido:displayPlace xml:lang="fi">Pariisi</lido:displayPlace>
+                  <lido:displayPlace xml:lang="fr">Paris</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ha">Faris</lido:displayPlace>
+                  <lido:displayPlace xml:lang="he">פריז</lido:displayPlace>
+                  <lido:displayPlace xml:lang="hi">पैरिस</lido:displayPlace>
+                  <lido:displayPlace xml:lang="hu">Párizs</lido:displayPlace>
+                  <lido:displayPlace xml:lang="id">Paris</lido:displayPlace>
+                  <lido:displayPlace xml:lang="it">Parigi</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ja">パリ</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ka">პარიზი</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ko">파리</lido:displayPlace>
+                  <lido:displayPlace xml:lang="nl">Parijs</lido:displayPlace>
+                  <lido:displayPlace xml:lang="pl">Paryż</lido:displayPlace>
+                  <lido:displayPlace xml:lang="pt">Paris</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ru">Париж</lido:displayPlace>
+                  <lido:displayPlace xml:lang="sv">Paris</lido:displayPlace>
+                  <lido:displayPlace xml:lang="sw">Paris</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ta">பாரிஸ்</lido:displayPlace>
+                  <lido:displayPlace xml:lang="th">ปารีส</lido:displayPlace>
+                  <lido:displayPlace xml:lang="tl">Paris</lido:displayPlace>
+                  <lido:displayPlace xml:lang="tr">Paris</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ur">پیرس</lido:displayPlace>
+                  <lido:displayPlace xml:lang="vi">Paris</lido:displayPlace>
+                  <lido:displayPlace xml:lang="zh">巴黎</lido:displayPlace>
+                  <lido:place>
+                     <lido:placeID lido:source="geonames" lido:type="uri">https://sws.geonames.org/2968815</lido:placeID>
+                     <lido:placeID lido:source="TGN" lido:type="uri">http://vocab.getty.edu/tgn/7008038</lido:placeID>
+                     <lido:placeID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4044660-8</lido:placeID>
+                     <lido:placeID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q90</lido:placeID>
+                     <lido:placeID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/place/199</lido:placeID>
+                     <lido:namePlaceSet>
+                        <lido:appellationValue>Paris</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ar">باريس</lido:appellationValue>
+                        <lido:appellationValue xml:lang="bn">প্যারিস</lido:appellationValue>
+                        <lido:appellationValue xml:lang="cs">Paříž</lido:appellationValue>
+                        <lido:appellationValue xml:lang="da">Paris</lido:appellationValue>
+                        <lido:appellationValue xml:lang="el">Παρίσι</lido:appellationValue>
+                        <lido:appellationValue xml:lang="en">Paris</lido:appellationValue>
+                        <lido:appellationValue xml:lang="es">París</lido:appellationValue>
+                        <lido:appellationValue xml:lang="fa">پاریس</lido:appellationValue>
+                        <lido:appellationValue xml:lang="fi">Pariisi</lido:appellationValue>
+                        <lido:appellationValue xml:lang="fr">Paris</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ha">Faris</lido:appellationValue>
+                        <lido:appellationValue xml:lang="he">פריז</lido:appellationValue>
+                        <lido:appellationValue xml:lang="hi">पैरिस</lido:appellationValue>
+                        <lido:appellationValue xml:lang="hu">Párizs</lido:appellationValue>
+                        <lido:appellationValue xml:lang="id">Paris</lido:appellationValue>
+                        <lido:appellationValue xml:lang="it">Parigi</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ja">パリ</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ka">პარიზი</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ko">파리</lido:appellationValue>
+                        <lido:appellationValue xml:lang="nl">Parijs</lido:appellationValue>
+                        <lido:appellationValue xml:lang="pl">Paryż</lido:appellationValue>
+                        <lido:appellationValue xml:lang="pt">Paris</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ru">Париж</lido:appellationValue>
+                        <lido:appellationValue xml:lang="sv">Paris</lido:appellationValue>
+                        <lido:appellationValue xml:lang="sw">Paris</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ta">பாரிஸ்</lido:appellationValue>
+                        <lido:appellationValue xml:lang="th">ปารีส</lido:appellationValue>
+                        <lido:appellationValue xml:lang="tl">Paris</lido:appellationValue>
+                        <lido:appellationValue xml:lang="tr">Paris</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ur">پیرس</lido:appellationValue>
+                        <lido:appellationValue xml:lang="vi">Paris</lido:appellationValue>
+                        <lido:appellationValue xml:lang="zh">巴黎</lido:appellationValue>
+                     </lido:namePlaceSet>
+                     <lido:gml>
+                        <gml:Point srsName="EPSG:4326">
+                           <gml:pos>48.856945037842 2.3513889312744</gml:pos>
+                        </gml:Point>
+                     </lido:gml>
+                  </lido:place>
+               </lido:eventPlace>
+               <lido:eventMaterialsTech>
+                  <lido:displayMaterialsTech>Alabaster; Zinkguss, galvanisch vergoldet; Messing; Stahl</lido:displayMaterialsTech>
+               </lido:eventMaterialsTech>
+            </lido:event>
+         </lido:eventSet>
+      </lido:eventWrap>
+      <lido:objectRelationWrap>
+         <lido:subjectWrap>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectActor>
+                     <lido:displayActor>Friedrich Schiller (1759-1805)</lido:displayActor>
+                     <lido:actor>
+                        <lido:actorID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/118607626</lido:actorID>
+                        <lido:actorID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Friedrich_Schiller</lido:actorID>
+                        <lido:actorID lido:source="NDB/ADB" lido:type="uri">https://www.deutsche-biographie.de/pnd118607626.html#ndbcontent</lido:actorID>
+                        <lido:actorID lido:source="ULAN" lido:type="uri">http://vocab.getty.edu/ulan/500228189</lido:actorID>
+                        <lido:actorID lido:source="viaf" lido:type="uri">https://viaf.org/viaf/96994450</lido:actorID>
+                        <lido:actorID lido:source="rkd" lido:type="uri">https://rkd.nl/explore/artists/326058</lido:actorID>
+                        <lido:actorID lido:source="bnf" lido:type="uri">https://catalogue.bnf.fr/ark:/12148/cb11887510q</lido:actorID>
+                        <lido:actorID lido:source="ndl" lido:type="uri">https://id.ndl.go.jp/auth/ndlna/00455554</lido:actorID>
+                        <lido:actorID lido:source="loc" lido:type="uri">http://id.loc.gov/authorities/names/n79111538</lido:actorID>
+                        <lido:actorID lido:source="bne" lido:type="uri">http://datos.bne.es/persona/XX1144351</lido:actorID>
+                        <lido:actorID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q22670</lido:actorID>
+                        <lido:actorID lido:source="edition humboldt digital" lido:type="uri">https://edition-humboldt.de/register/personen/detail.xql?normid=http://d-nb.info/gnd/118607626</lido:actorID>
+                        <lido:actorID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/persinst/81</lido:actorID>
+                        <lido:nameActorSet>
+                           <lido:appellationValue>Schiller, Friedrich</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ar">فريدريك شيلر</lido:appellationValue>
+                           <lido:appellationValue xml:lang="cs">Friedrich Schiller</lido:appellationValue>
+                           <lido:appellationValue xml:lang="da">Friedrich Schiller</lido:appellationValue>
+                           <lido:appellationValue xml:lang="el">Φρίντριχ Σίλερ</lido:appellationValue>
+                           <lido:appellationValue xml:lang="en">Friedrich Schiller</lido:appellationValue>
+                           <lido:appellationValue xml:lang="es">Friedrich Schiller</lido:appellationValue>
+                           <lido:appellationValue xml:lang="fa">فریدریش شیلر</lido:appellationValue>
+                           <lido:appellationValue xml:lang="fi">Friedrich Schiller</lido:appellationValue>
+                           <lido:appellationValue xml:lang="fr">Friedrich von Schiller</lido:appellationValue>
+                           <lido:appellationValue xml:lang="he">פרידריך שילר</lido:appellationValue>
+                           <lido:appellationValue xml:lang="hi">फ्रेडरिक शिलर</lido:appellationValue>
+                           <lido:appellationValue xml:lang="hu">Friedrich Schiller</lido:appellationValue>
+                           <lido:appellationValue xml:lang="id">Friedrich Schiller</lido:appellationValue>
+                           <lido:appellationValue xml:lang="it">Friedrich Schiller</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ja">フリードリヒ・フォン・シラー</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ka">ფრიდრიხ შილერი</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ko">프리드리히 실러</lido:appellationValue>
+                           <lido:appellationValue xml:lang="nl">Friedrich Schiller</lido:appellationValue>
+                           <lido:appellationValue xml:lang="pl">Friedrich Schiller</lido:appellationValue>
+                           <lido:appellationValue xml:lang="pt">Friedrich Schiller</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ru">Фридрих Шиллер</lido:appellationValue>
+                           <lido:appellationValue xml:lang="sv">Friedrich Schiller</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ta">பிரெடெரிக் ஷில்லர்</lido:appellationValue>
+                           <lido:appellationValue xml:lang="th">ฟรีดริช ชิลเลอร์</lido:appellationValue>
+                           <lido:appellationValue xml:lang="tr">Friedrich Schiller</lido:appellationValue>
+                           <lido:appellationValue xml:lang="zh">弗里德里希·席勒</lido:appellationValue>
+                        </lido:nameActorSet>
+                        <lido:vitalDatesActor>
+                           <lido:earliestDate>1759</lido:earliestDate>
+                           <lido:latestDate>1805</lido:latestDate>
+                        </lido:vitalDatesActor>
+                     </lido:actor>
+                  </lido:subjectActor>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Denkmal_(Gedenken)</lido:conceptID>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4011453-3</lido:conceptID>
+                     <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh85087089</lido:conceptID>
+                     <lido:conceptID lido:source="aat" lido:type="uri">http://vocab.getty.edu/aat/300006958</lido:conceptID>
+                     <lido:conceptID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q4989906</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/890</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Denkmal</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ar">معلم تذكاري</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="bn">সৌধ</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="cs">Pomník</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="da">Monument</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="el">μνημείο</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="en">Monument</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="es">Monumento</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fa">یادمانی</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fi">Monumentti</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fr">Monument</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="he">מונומנט</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hi">स्मारक</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hu">emlékmű</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="id">Monumen</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="it">Monumento</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ja">モニュメント</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ko">기념물</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="nl">Gedenkmonument</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pl">Pomnik</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pt">Monumento</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ro">monument</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ru">памятник</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sv">Minnesmärke</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ta">நினைவுச் சின்னம்</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="th">อนุสรณ์สถาน</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tr">Anıt</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="vi">di tích</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="zh">紀念建築物</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Uhr</lido:conceptID>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4164176-0</lido:conceptID>
+                     <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh85027100</lido:conceptID>
+                     <lido:conceptID lido:source="aat" lido:type="uri">http://vocab.getty.edu/aat/300041575</lido:conceptID>
+                     <lido:conceptID lido:source="grobsystematik" lido:type="uri">https://term.museum-digital.de/grobsystematik/tag/13321</lido:conceptID>
+                     <lido:conceptID lido:source="oberbegriffsdatei" lido:type="uri">https://term.museum-digital.de/Oberbegriffsdatei/tag/2036</lido:conceptID>
+                     <lido:conceptID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q376</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/1331</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Uhr</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ar">ساعة</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="bn">ঘড়ি</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="cs">Hodiny</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="da">Ur</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="el">Ρολόι</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="en">Clock</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="es">Reloj</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fa">ساعت</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fi">Kello</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fr">Horloge</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ha">agogo</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="he">שעון</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hi">घडी</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hu">óra</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="id">Jam</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="it">Orologio</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ja">時計</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ka">საათი</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ko">시계</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="nl">Klok</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pl">Zegar</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pt">Relógio</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ro">ceas</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ru">часы</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sv">Klocka</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sw">saa</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ta">கடிகாரம்</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="th">นาฬิกา</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tl">Orasan</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tr">Saat</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ur">گھنٹا</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="vi">Đồng hồ</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="zh">時鐘</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Historismus</lido:conceptID>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4025142-1</lido:conceptID>
+                     <lido:conceptID lido:source="aat" lido:type="uri">http://vocab.getty.edu/aat/300391347</lido:conceptID>
+                     <lido:conceptID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q277466</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/6476</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Historismus</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ar">تاريخانية</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="cs">Historismus</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="da">Historicisme</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="en">Historicism</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="es">Historicismo</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fi">Kertaustyylit</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fr">Historicisme</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hu">historizmus</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="it">Storicismo</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="nl">Historisme</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ro">Istorism</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ru">историзм</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sv">Historicism</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="vi">Chủ nghĩa Lịch sử</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">http://d-nb.info/gnd/4127004-6</lido:conceptID>
+                     <lido:conceptID lido:source="grobsystematik" lido:type="uri">https://term.museum-digital.de/grobsystematik/tag/12840</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/10272</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Tischuhr</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="en">Table clock</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">http://d-nb.info/gnd/4705185-1</lido:conceptID>
+                     <lido:conceptID lido:source="grobsystematik" lido:type="uri">https://term.museum-digital.de/grobsystematik/tag/5700</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/20625</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Kaminuhr</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Figurenuhr</lido:conceptID>
+                     <lido:conceptID lido:source="grobsystematik" lido:type="uri">https://term.museum-digital.de/grobsystematik/tag/tag/3154</lido:conceptID>
+                     <lido:conceptID lido:source="oberbegriffsdatei" lido:type="uri">https://term.museum-digital.de/oberbegriffsdatei/tag/tag/2653</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/30300</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Figurenuhr</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+         </lido:subjectWrap>
+         <lido:relatedWorksWrap>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:displayObject>Stiftung Preußische Schlösser und Gärten, Inv. Nr. V 119, Figurenuhr „Friedrich Schiller“, Paris um 1830&lt;br&gt;
+Stiftung Stadtmuseum Berlin, Inv. Nr. II 64/560 j, Johann Conrad Felsing, Kleine Reiseuhr, um 1850 (Uhrwerk um 1900)</lido:displayObject>
+               </lido:relatedWork>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:displayObject>Felsing, Albert</lido:displayObject>
+                  <lido:object>
+                     <lido:objectWebResource>https://watch-wiki.org/index.php?title=Felsing,_Albert</lido:objectWebResource>
+                  </lido:object>
+               </lido:relatedWork>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:displayObject>Felsing</lido:displayObject>
+                  <lido:object>
+                     <lido:objectWebResource>http://www.uhrenpaul.eu/Uhrenseite/Unterseiten/Subseite_Felsing.php</lido:objectWebResource>
+                  </lido:object>
+               </lido:relatedWork>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:displayObject>Stiftung Stadtmuseum Berlin, Inv. Nr. II 64/560 j, Johann Conrad Felsing, Kleine Reiseuhr, um 1850 (Uhrwerk um 1900)</lido:displayObject>
+                  <lido:object>
+                     <lido:objectWebResource>https://berlin.museum-digital.de/index.php?t=objekt&amp;oges=66202</lido:objectWebResource>
+                     <lido:objectID lido:type="local">DE-MUS-061525/66202</lido:objectID>
+                  </lido:object>
+               </lido:relatedWork>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:displayObject>Abeler, Jürgen, 2010: Meister der Uhrmacherkunst, Wuppertal, S. 151 (Felsing)</lido:displayObject>
+               </lido:relatedWork>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:displayObject>Fléchon, Dominique, 2011: The mastery of time. A history of timekeeping, from the sundial to the wristwatch: discoveries, inventions, and advances in master watchmaking, Paris, S. 247-251 (Frédéric Japy, Pioneer of Industrial Era)</lido:displayObject>
+                  <lido:object>
+                     <lido:objectID lido:type="ISBN">9782080200808</lido:objectID>
+                  </lido:object>
+               </lido:relatedWork>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:displayObject>König, Gerhard, 1988: Uhren und Uhrmacherei in Berlin 1450–1900 (= Miniaturen zur Geschichte, Kultur und Denkmalpflege Berlins; 24), Berlin, S. 69 (Felsing)</lido:displayObject>
+               </lido:relatedWork>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:displayObject>Osterhausen, Fritz von, 1999: Callweys Uhrenlexikon, München, S. 157 (Japy)</lido:displayObject>
+               </lido:relatedWork>
+            </lido:relatedWorkSet>
+         </lido:relatedWorksWrap>
+      </lido:objectRelationWrap>
+   </lido:descriptiveMetadata>
+   <lido:administrativeMetadata xml:lang="de">
+      <lido:rightsWorkWrap>
+         <lido:rightsWorkSet>
+            <lido:rightsHolder>
+               <lido:legalBodyName>
+                  <lido:appellationValue>Stiftung Stadtmuseum Berlin</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:rightsHolder>
+         </lido:rightsWorkSet>
+      </lido:rightsWorkWrap>
+      <lido:recordWrap>
+         <lido:recordID lido:type="museum-digital">70731</lido:recordID>
+         <lido:recordType>
+            <lido:term lido:addedSearchTerm="no">item</lido:term>
+         </lido:recordType>
+         <lido:recordSource lido:type="dataProvider">
+            <lido:legalBodyName>
+               <lido:appellationValue>museum-digital</lido:appellationValue>
+            </lido:legalBodyName>
+            <lido:legalBodyWeblink>https://berlin.museum-digital.de/</lido:legalBodyWeblink>
+         </lido:recordSource>
+         <lido:recordSource>
+            <lido:legalBodyID lido:type="isil">DE-MUS-061525</lido:legalBodyID>
+            <lido:legalBodyName>
+               <lido:appellationValue>Stiftung Stadtmuseum Berlin</lido:appellationValue>
+            </lido:legalBodyName>
+         </lido:recordSource>
+         <lido:recordRights>
+            <lido:rightsType>
+               <lido:conceptID lido:type="uri">https://creativecommons.org/publicdomain/zero/1.0/</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no">CC 0</lido:term>
+            </lido:rightsType>
+            <lido:rightsHolder>
+               <lido:legalBodyID lido:type="isil">DE-MUS-061525</lido:legalBodyID>
+               <lido:legalBodyName>
+                  <lido:appellationValue>Stiftung Stadtmuseum Berlin</lido:appellationValue>
+               </lido:legalBodyName>
+               <lido:legalBodyWeblink>https://www.stadtmuseum.de</lido:legalBodyWeblink>
+            </lido:rightsHolder>
+            <lido:creditLine>Förderprogramm zur Digitalisierung von Objekten des kulturellen Erbes des Landes Berlin</lido:creditLine>
+         </lido:recordRights>
+         <lido:recordInfoSet>
+            <lido:recordInfoLink>https://berlin.museum-digital.de/index.php?t=objekt&amp;oges=70731</lido:recordInfoLink>
+            <lido:recordMetadataDate>2021-02-23 13:41:47</lido:recordMetadataDate>
+         </lido:recordInfoSet>
+      </lido:recordWrap>
+      <lido:resourceWrap>
+         <lido:resourceSet lido:sortorder="1">
+            <lido:resourceID lido:source="image" lido:type="local">60738</lido:resourceID>
+            <lido:resourceRepresentation lido:type="image_thumb">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/70731-kh_9857_uh/albert_karl_julius_felsin/100h_albert-karl-julius-felsing-figurenuhr-friedrich-schiller-um-1866-inv-nr-kh-9857-uh-70731.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_preview">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/70731-kh_9857_uh/albert_karl_julius_felsin/200w_albert-karl-julius-felsing-figurenuhr-friedrich-schiller-um-1866-inv-nr-kh-9857-uh-70731.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/70731-kh_9857_uh/albert_karl_julius_felsin/albert-karl-julius-felsing-figurenuhr-friedrich-schiller-um-1866-inv-nr-kh-9857-uh-70731.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceType>
+               <lido:term>image</lido:term>
+            </lido:resourceType>
+            <lido:resourceSource lido:type="creator">
+               <lido:legalBodyName>
+                  <lido:appellationValue>Oliver Ziebe, Berlin (2020)</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:resourceSource>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+                  <lido:term>CC BY 4.0</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Stiftung Stadtmuseum Berlin</lido:appellationValue>
+                  </lido:legalBodyName>
+               </lido:rightsHolder>
+            </lido:rightsResource>
+         </lido:resourceSet>
+         <lido:resourceSet lido:sortorder="2">
+            <lido:resourceID lido:source="image" lido:type="local">51457</lido:resourceID>
+            <lido:resourceRepresentation lido:type="image_thumb">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/70731-kh_9857_uh/figurenuhr_friedrich_schi/100h_figurenuhr-friedrich-schiller-70731-4.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_preview">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/70731-kh_9857_uh/figurenuhr_friedrich_schi/200w_figurenuhr-friedrich-schiller-70731-4.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/70731-kh_9857_uh/figurenuhr_friedrich_schi/figurenuhr-friedrich-schiller-70731-4.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceType>
+               <lido:term>image</lido:term>
+            </lido:resourceType>
+            <lido:resourceSource lido:type="creator">
+               <lido:legalBodyName>
+                  <lido:appellationValue>Oliver Ziebe, Berlin (2020)</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:resourceSource>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+                  <lido:term>CC BY 4.0</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Stiftung Stadtmuseum Berlin</lido:appellationValue>
+                  </lido:legalBodyName>
+               </lido:rightsHolder>
+            </lido:rightsResource>
+         </lido:resourceSet>
+         <lido:resourceSet lido:sortorder="3">
+            <lido:resourceID lido:source="image" lido:type="local">51458</lido:resourceID>
+            <lido:resourceRepresentation lido:type="image_thumb">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/70731-kh_9857_uh/figurenuhr_friedrich_schi/100h_figurenuhr-friedrich-schiller-70731-5.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_preview">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/70731-kh_9857_uh/figurenuhr_friedrich_schi/200w_figurenuhr-friedrich-schiller-70731-5.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/70731-kh_9857_uh/figurenuhr_friedrich_schi/figurenuhr-friedrich-schiller-70731-5.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceType>
+               <lido:term>image</lido:term>
+            </lido:resourceType>
+            <lido:resourceRelType>
+               <lido:term>Hauptansicht</lido:term>
+            </lido:resourceRelType>
+            <lido:resourceSource lido:type="creator">
+               <lido:legalBodyName>
+                  <lido:appellationValue>Oliver Ziebe, Berlin (2020)</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:resourceSource>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+                  <lido:term>CC BY 4.0</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Stiftung Stadtmuseum Berlin</lido:appellationValue>
+                  </lido:legalBodyName>
+               </lido:rightsHolder>
+            </lido:rightsResource>
+         </lido:resourceSet>
+         <lido:resourceSet lido:sortorder="4">
+            <lido:resourceID lido:source="image" lido:type="local">51459</lido:resourceID>
+            <lido:resourceRepresentation lido:type="image_thumb">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/70731-kh_9857_uh/figurenuhr_friedrich_schi/100h_figurenuhr-friedrich-schiller-70731-6.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_preview">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/70731-kh_9857_uh/figurenuhr_friedrich_schi/200w_figurenuhr-friedrich-schiller-70731-6.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/70731-kh_9857_uh/figurenuhr_friedrich_schi/figurenuhr-friedrich-schiller-70731-6.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceType>
+               <lido:term>image</lido:term>
+            </lido:resourceType>
+            <lido:resourceSource lido:type="creator">
+               <lido:legalBodyName>
+                  <lido:appellationValue>Oliver Ziebe, Berlin (2020)</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:resourceSource>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+                  <lido:term>CC BY 4.0</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Stiftung Stadtmuseum Berlin</lido:appellationValue>
+                  </lido:legalBodyName>
+               </lido:rightsHolder>
+            </lido:rightsResource>
+         </lido:resourceSet>
+         <lido:resourceSet lido:sortorder="5">
+            <lido:resourceID lido:source="image" lido:type="local">51460</lido:resourceID>
+            <lido:resourceRepresentation lido:type="image_thumb">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/70731-kh_9857_uh/figurenuhr_friedrich_schi/100h_figurenuhr-friedrich-schiller-70731-7.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_preview">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/70731-kh_9857_uh/figurenuhr_friedrich_schi/200w_figurenuhr-friedrich-schiller-70731-7.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/70731-kh_9857_uh/figurenuhr_friedrich_schi/figurenuhr-friedrich-schiller-70731-7.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceType>
+               <lido:term>image</lido:term>
+            </lido:resourceType>
+            <lido:resourceSource lido:type="creator">
+               <lido:legalBodyName>
+                  <lido:appellationValue>Oliver Ziebe, Berlin (2020)</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:resourceSource>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+                  <lido:term>CC BY 4.0</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Stiftung Stadtmuseum Berlin</lido:appellationValue>
+                  </lido:legalBodyName>
+               </lido:rightsHolder>
+            </lido:rightsResource>
+         </lido:resourceSet>
+         <lido:resourceSet lido:sortorder="6">
+            <lido:resourceID lido:source="image" lido:type="local">51461</lido:resourceID>
+            <lido:resourceRepresentation lido:type="image_thumb">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/70731-kh_9857_uh/figurenuhr_friedrich_schi/100h_figurenuhr-friedrich-schiller-70731-8.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_preview">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/70731-kh_9857_uh/figurenuhr_friedrich_schi/200w_figurenuhr-friedrich-schiller-70731-8.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/70731-kh_9857_uh/figurenuhr_friedrich_schi/figurenuhr-friedrich-schiller-70731-8.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceType>
+               <lido:term>image</lido:term>
+            </lido:resourceType>
+            <lido:resourceSource lido:type="creator">
+               <lido:legalBodyName>
+                  <lido:appellationValue>Oliver Ziebe, Berlin (2020)</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:resourceSource>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+                  <lido:term>CC BY 4.0</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Stiftung Stadtmuseum Berlin</lido:appellationValue>
+                  </lido:legalBodyName>
+               </lido:rightsHolder>
+            </lido:rightsResource>
+         </lido:resourceSet>
+         <lido:resourceSet lido:sortorder="7">
+            <lido:resourceID lido:source="image" lido:type="local">51456</lido:resourceID>
+            <lido:resourceRepresentation lido:type="image_thumb">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/70731-kh_9857_uh/figurenuhr_friedrich_schi/100h_figurenuhr-friedrich-schiller-70731-3.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_preview">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/70731-kh_9857_uh/figurenuhr_friedrich_schi/200w_figurenuhr-friedrich-schiller-70731-3.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/70731-kh_9857_uh/figurenuhr_friedrich_schi/figurenuhr-friedrich-schiller-70731-3.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceType>
+               <lido:term>image</lido:term>
+            </lido:resourceType>
+            <lido:resourceSource lido:type="creator">
+               <lido:legalBodyName>
+                  <lido:appellationValue>Oliver Ziebe, Berlin (2020)</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:resourceSource>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+                  <lido:term>CC BY 4.0</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Stiftung Stadtmuseum Berlin</lido:appellationValue>
+                  </lido:legalBodyName>
+               </lido:rightsHolder>
+            </lido:rightsResource>
+         </lido:resourceSet>
+         <lido:resourceSet lido:sortorder="8">
+            <lido:resourceID lido:source="image" lido:type="local">51455</lido:resourceID>
+            <lido:resourceRepresentation lido:type="image_thumb">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/70731-kh_9857_uh/figurenuhr_friedrich_schi/100h_figurenuhr-friedrich-schiller-70731-2.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_preview">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/70731-kh_9857_uh/figurenuhr_friedrich_schi/200w_figurenuhr-friedrich-schiller-70731-2.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/70731-kh_9857_uh/figurenuhr_friedrich_schi/figurenuhr-friedrich-schiller-70731-2.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceType>
+               <lido:term>image</lido:term>
+            </lido:resourceType>
+            <lido:resourceSource lido:type="creator">
+               <lido:legalBodyName>
+                  <lido:appellationValue>Oliver Ziebe, Berlin (2020)</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:resourceSource>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+                  <lido:term>CC BY 4.0</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Stiftung Stadtmuseum Berlin</lido:appellationValue>
+                  </lido:legalBodyName>
+               </lido:rightsHolder>
+            </lido:rightsResource>
+         </lido:resourceSet>
+         <lido:resourceSet lido:sortorder="9">
+            <lido:resourceID lido:source="image" lido:type="local">51462</lido:resourceID>
+            <lido:resourceRepresentation lido:type="image_thumb">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/70731-kh_9857_uh/figurenuhr_friedrich_schi/100h_figurenuhr-friedrich-schiller-70731-9.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_preview">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/70731-kh_9857_uh/figurenuhr_friedrich_schi/200w_figurenuhr-friedrich-schiller-70731-9.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/70731-kh_9857_uh/figurenuhr_friedrich_schi/figurenuhr-friedrich-schiller-70731-9.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceType>
+               <lido:term>image</lido:term>
+            </lido:resourceType>
+            <lido:resourceSource lido:type="creator">
+               <lido:legalBodyName>
+                  <lido:appellationValue>Oliver Ziebe, Berlin (2020)</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:resourceSource>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+                  <lido:term>CC BY 4.0</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Stiftung Stadtmuseum Berlin</lido:appellationValue>
+                  </lido:legalBodyName>
+               </lido:rightsHolder>
+            </lido:rightsResource>
+         </lido:resourceSet>
+         <lido:resourceSet lido:sortorder="10">
+            <lido:resourceID lido:source="image" lido:type="local">51463</lido:resourceID>
+            <lido:resourceRepresentation lido:type="image_thumb">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/70731-kh_9857_uh/figurenuhr_friedrich_schi/100h_figurenuhr-friedrich-schiller-70731-10.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_preview">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/70731-kh_9857_uh/figurenuhr_friedrich_schi/200w_figurenuhr-friedrich-schiller-70731-10.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/70731-kh_9857_uh/figurenuhr_friedrich_schi/figurenuhr-friedrich-schiller-70731-10.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceType>
+               <lido:term>image</lido:term>
+            </lido:resourceType>
+            <lido:resourceSource lido:type="creator">
+               <lido:legalBodyName>
+                  <lido:appellationValue>Oliver Ziebe, Berlin (2020)</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:resourceSource>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+                  <lido:term>CC BY 4.0</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Stiftung Stadtmuseum Berlin</lido:appellationValue>
+                  </lido:legalBodyName>
+               </lido:rightsHolder>
+            </lido:rightsResource>
+         </lido:resourceSet>
+         <lido:resourceSet lido:sortorder="11">
+            <lido:resourceID lido:source="image" lido:type="local">51465</lido:resourceID>
+            <lido:resourceRepresentation lido:type="image_thumb">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/70731-kh_9857_uh/figurenuhr_friedrich_schi/100h_figurenuhr-friedrich-schiller-70731-12.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_preview">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/70731-kh_9857_uh/figurenuhr_friedrich_schi/200w_figurenuhr-friedrich-schiller-70731-12.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/70731-kh_9857_uh/figurenuhr_friedrich_schi/figurenuhr-friedrich-schiller-70731-12.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceType>
+               <lido:term>image</lido:term>
+            </lido:resourceType>
+            <lido:resourceSource lido:type="creator">
+               <lido:legalBodyName>
+                  <lido:appellationValue>Oliver Ziebe, Berlin (2020)</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:resourceSource>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+                  <lido:term>CC BY 4.0</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Stiftung Stadtmuseum Berlin</lido:appellationValue>
+                  </lido:legalBodyName>
+               </lido:rightsHolder>
+            </lido:rightsResource>
+         </lido:resourceSet>
+         <lido:resourceSet lido:sortorder="12">
+            <lido:resourceID lido:source="image" lido:type="local">51466</lido:resourceID>
+            <lido:resourceRepresentation lido:type="image_thumb">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/70731-kh_9857_uh/figurenuhr_friedrich_schi/100h_figurenuhr-friedrich-schiller-70731-13.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_preview">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/70731-kh_9857_uh/figurenuhr_friedrich_schi/200w_figurenuhr-friedrich-schiller-70731-13.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/70731-kh_9857_uh/figurenuhr_friedrich_schi/figurenuhr-friedrich-schiller-70731-13.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceType>
+               <lido:term>image</lido:term>
+            </lido:resourceType>
+            <lido:resourceSource lido:type="creator">
+               <lido:legalBodyName>
+                  <lido:appellationValue>Oliver Ziebe, Berlin (2020)</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:resourceSource>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+                  <lido:term>CC BY 4.0</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Stiftung Stadtmuseum Berlin</lido:appellationValue>
+                  </lido:legalBodyName>
+               </lido:rightsHolder>
+            </lido:rightsResource>
+         </lido:resourceSet>
+         <lido:resourceSet lido:sortorder="13">
+            <lido:resourceID lido:source="image" lido:type="local">51464</lido:resourceID>
+            <lido:resourceRepresentation lido:type="image_thumb">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/70731-kh_9857_uh/figurenuhr_friedrich_schi/100h_figurenuhr-friedrich-schiller-70731-11.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_preview">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/70731-kh_9857_uh/figurenuhr_friedrich_schi/200w_figurenuhr-friedrich-schiller-70731-11.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/70731-kh_9857_uh/figurenuhr_friedrich_schi/figurenuhr-friedrich-schiller-70731-11.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceType>
+               <lido:term>image</lido:term>
+            </lido:resourceType>
+            <lido:resourceSource lido:type="creator">
+               <lido:legalBodyName>
+                  <lido:appellationValue>Oliver Ziebe, Berlin (2020)</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:resourceSource>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+                  <lido:term>CC BY 4.0</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Stiftung Stadtmuseum Berlin</lido:appellationValue>
+                  </lido:legalBodyName>
+               </lido:rightsHolder>
+            </lido:rightsResource>
+         </lido:resourceSet>
+      </lido:resourceWrap>
+   </lido:administrativeMetadata>
+</lido:lido>
+

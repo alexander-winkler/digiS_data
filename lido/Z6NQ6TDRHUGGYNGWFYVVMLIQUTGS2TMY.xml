@@ -1,0 +1,437 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lido:lido xmlns:lido="http://www.lido-schema.org"
+           xmlns:xalan="http://xml.apache.org/xalan">
+   <lido:lidoRecID lido:source="https://berlin.museum-digital.de/index.php?t=institution&amp;instnr=32"
+                   lido:type="local">DE-B185/67202</lido:lidoRecID>
+   <lido:category/>
+   <lido:descriptiveMetadata xml:lang="de">
+      <lido:objectClassificationWrap>
+         <lido:objectWorkTypeWrap>
+            <lido:objectWorkType>
+               <lido:conceptID lido:source="gnd" lido:type="uri">http://d-nb.info/gnd/4002511-1</lido:conceptID>
+               <lido:conceptID lido:source="grobsystematik" lido:type="uri">https://term.museum-digital.de/grobsystematik/tag/382</lido:conceptID>
+               <lido:conceptID lido:source="aat" lido:type="uri">http://vocab.getty.edu/aat/300389895</lido:conceptID>
+               <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh85145673</lido:conceptID>
+               <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/603</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Aquarell</lido:term>
+            </lido:objectWorkType>
+         </lido:objectWorkTypeWrap>
+         <lido:classificationWrap>
+            <lido:classification lido:type="Sammlung">
+               <lido:conceptID lido:source="local" lido:type="collection_id">705</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Handzeichnungen, Druckgraphik, Gemälde</lido:term>
+            </lido:classification>
+            <lido:classification lido:type="Sammlung">
+               <lido:conceptID lido:source="local" lido:type="collection_id">706</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Ansichten</lido:term>
+            </lido:classification>
+            <lido:classification lido:type="Sammlung">
+               <lido:conceptID lido:source="local" lido:type="collection_id">707</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Berlin</lido:term>
+            </lido:classification>
+            <lido:classification>
+               <lido:conceptID lido:source="local" lido:type="series_id">147</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no">Gruppe von Aquarellen von Wilhelm Pütz</lido:term>
+            </lido:classification>
+         </lido:classificationWrap>
+      </lido:objectClassificationWrap>
+      <lido:objectIdentificationWrap>
+         <lido:titleWrap>
+            <lido:titleSet>
+               <lido:appellationValue lido:pref="preferred">Berlin-Charlottenburg: Jungfernheide, Forsthaus Königsdamm</lido:appellationValue>
+            </lido:titleSet>
+         </lido:titleWrap>
+         <lido:repositoryWrap>
+            <lido:repositorySet lido:type="current">
+               <lido:repositoryName>
+                  <lido:legalBodyID lido:type="isil">DE-B185</lido:legalBodyID>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+                  </lido:legalBodyName>
+                  <lido:legalBodyWeblink>http://geschichte-brandenburg.de/</lido:legalBodyWeblink>
+               </lido:repositoryName>
+               <lido:workID lido:type="inventory number">LGV-Archiv, C 12 H-3-002</lido:workID>
+               <lido:repositoryLocation>
+                  <lido:namePlaceSet>
+                     <lido:appellationValue>Berlin</lido:appellationValue>
+                  </lido:namePlaceSet>
+                  <lido:gml>
+                     <gml:Point xmlns:gml="http://www.opengis.net/gml" srsName="EPSG:4326">
+                        <gml:pos>52.51533127 13.40440559</gml:pos>
+                     </gml:Point>
+                  </lido:gml>
+               </lido:repositoryLocation>
+            </lido:repositorySet>
+         </lido:repositoryWrap>
+         <lido:objectDescriptionWrap>
+            <lido:objectDescriptionSet>
+               <lido:descriptiveNoteValue>Es handelt sich um eines von drei (wohl schon um 1900 in das Archiv gelangten) Aqaurellen des aus Andernach stammenden Berliner Zeichners Wilhelm Pütz (1850-1904), von denen mindestens zwei Landschaften in den vor 1920 noch zur Provinz Brandenburg gehördenen Teilen Berlins zeigen, die man damals als Umgebung Berlins verstand.&#xD;
+Pütz arbeitete ab 1880 als Zeichner (Techniker) zunächst bis 1901 an der Königlichen Bergakademie in Berlin und 1902-1904 im Zeichnerbüro für wissenschaftliche Veröffentlichungen der Königlichen Geologischen Landesanstalt in Berlin. Bekannt geworden ist er durch seine Aquarelle mit Außen- und Innenansichten des Königsgrabes bei Seddin, an dessen Öffnung er 1899 teilnahm. 1886-1894 war er Mitglied des Touristenklubs für die Mark Brandenburg (seit 1935 Landesgeschichtliche Vereinigung für die Mark Brandenburg) und 1888-1891 dessen 1. Vorsitzender, anschließend Beisitzer im Vorstand. Danach verlagerten sich seine Aktivitäten mehr auf die dem Märkischen Provinzial-Museum (später Märkisches Museum, heute Stiftung Stadtmuseum Berlin) nahestehende "Brandenburgia (Gesellschaft für Heimatkunde der Provinz Brandenburg)", deren Gründungsmitglied er 1892 war und in deren Zeitschrift "Brandenburgia" er in den Jahren 1894-1901 mehrere landeskundliche Beiträge veröffentlichte. In derselben Zeitschrift wird er im Nachruf als "vortrefflicher wissenschaftlicher und künstlerischer Zeichner und Photograph" bezeichnet (1904/05), in einem anderen Beitrag zuvor schon als "einer unserer geschicktesten Amateurphotographen" (1901/02). Fünf weitere Aquarelle mit berlin-brandenburgischen Motiven aus den Jahren 1878-1885 befinden sich im Stadtmuseum Berlin, das auch Fotografien der Zeichnungen des Königsgrabes besitzt.&#xD;
+Mit dem hier dargestellten Raum hat sich Pütz intensiv landeskundlich befasst. Das zeigt sein späterer Beitrag "Die weissen Sandberge am Südrande der Jungfernhaide" in der Zeitschrift "Brandenburgia" 4 (1895/96), S. 82-84.&#xD;
+&#xD;
+Bez. re. u. im Bild "Jungfernheide / Forsth. Königsdam(m) / W. Pütz 7.10.79".&#xD;
+Altbestand des Archivs (Geschenk des Künstlers).&#xD;
+&#xD;
+Literatur zum Zeichner: Brandenburgia 10 (1901/02), S. 48; 13 (1904/05), S. 258-259 (Nachruf). - Torsten Foelsch: Das Königsgrab bei Seddin in der Westprignitz. Perleberg 2002. - Die Landesgeschichtliche Vereinigung für die Mark Brandenburg in Vergangenheit und Gegenwart. Aus Anlass ihres 125jährigen Bestehens bearb. u. hrsg. von Peter Bahl. Berlin 2009. - Die Landesgeschichtliche Vereinigung für die Mark Brandenburg in Vergangenheit und Gegenwart. Aus Anlass ihres 125jährigen Bestehens bearb. u. hrsg. von Peter Bahl. Berlin 2009.</lido:descriptiveNoteValue>
+               <lido:sourceDescriptiveNote>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:sourceDescriptiveNote>
+            </lido:objectDescriptionSet>
+         </lido:objectDescriptionWrap>
+         <lido:objectMeasurementsWrap>
+            <lido:objectMeasurementsSet>
+               <lido:displayObjectMeasurements>Blattgröße: Höhe 22 cm, Breite 30,7 cm (alt aufgezogen und an den Ecken abgeschrägt)</lido:displayObjectMeasurements>
+               <lido:objectMeasurements/>
+            </lido:objectMeasurementsSet>
+         </lido:objectMeasurementsWrap>
+      </lido:objectIdentificationWrap>
+      <lido:eventWrap>
+         <lido:eventSet>
+            <lido:event>
+               <lido:eventType>
+                  <lido:conceptID lido:type="uri">https://event-types.museum-digital.org/1</lido:conceptID>
+                  <lido:term lido:addedSearchTerm="no">Hergestellt</lido:term>
+               </lido:eventType>
+               <lido:eventActor>
+                  <lido:displayActorInRole>Wilhelm Pütz (Zeichner) (1850-1904)</lido:displayActorInRole>
+                  <lido:actorInRole>
+                     <lido:actor>
+                        <lido:actorID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/persinst/125017</lido:actorID>
+                        <lido:nameActorSet>
+                           <lido:appellationValue>Pütz, Wilhelm (Zeichner)</lido:appellationValue>
+                           <lido:appellationValue xml:lang="de">Wilhelm Pütz (Zeichner)</lido:appellationValue>
+                        </lido:nameActorSet>
+                        <lido:vitalDatesActor>
+                           <lido:earliestDate>1850</lido:earliestDate>
+                           <lido:latestDate>1904</lido:latestDate>
+                        </lido:vitalDatesActor>
+                     </lido:actor>
+                  </lido:actorInRole>
+               </lido:eventActor>
+               <lido:eventDate>
+                  <lido:displayDate>07.10.1879</lido:displayDate>
+                  <lido:displayDate xml:lang="ar">07/10/1879</lido:displayDate>
+                  <lido:displayDate xml:lang="de">07.10.1879</lido:displayDate>
+                  <lido:displayDate xml:lang="en">October 07, 1879</lido:displayDate>
+                  <lido:displayDate xml:lang="es">07/10/1879</lido:displayDate>
+                  <lido:displayDate xml:lang="fa">07/10/1879</lido:displayDate>
+                  <lido:displayDate xml:lang="fr">07/10/1879</lido:displayDate>
+                  <lido:displayDate xml:lang="hu">1879. október 07.</lido:displayDate>
+                  <lido:displayDate xml:lang="id">07 Oktober 1879</lido:displayDate>
+                  <lido:displayDate xml:lang="it">07/10/1879</lido:displayDate>
+                  <lido:displayDate xml:lang="ja">1879年10月07日</lido:displayDate>
+                  <lido:displayDate xml:lang="ka">07.10.1879</lido:displayDate>
+                  <lido:displayDate xml:lang="ko">1879년 10월 07일</lido:displayDate>
+                  <lido:displayDate xml:lang="pl">07.10.1879</lido:displayDate>
+                  <lido:displayDate xml:lang="pt">07/10/1879</lido:displayDate>
+                  <lido:displayDate xml:lang="ro">07.10.1879</lido:displayDate>
+                  <lido:displayDate xml:lang="ru">07.10.1879</lido:displayDate>
+                  <lido:displayDate xml:lang="ta">07-10-1879</lido:displayDate>
+                  <lido:displayDate xml:lang="tl">Oktubre 07, 1879</lido:displayDate>
+                  <lido:displayDate xml:lang="tr">07.10.1879</lido:displayDate>
+                  <lido:displayDate xml:lang="zh">1879年10月07日</lido:displayDate>
+                  <lido:date>
+                     <lido:earliestDate>1879</lido:earliestDate>
+                     <lido:latestDate>1879</lido:latestDate>
+                  </lido:date>
+               </lido:eventDate>
+               <lido:eventPlace>
+                  <lido:displayPlace>Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ar">برلين</lido:displayPlace>
+                  <lido:displayPlace xml:lang="bn">বার্লিন</lido:displayPlace>
+                  <lido:displayPlace xml:lang="cs">Berlín</lido:displayPlace>
+                  <lido:displayPlace xml:lang="da">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="de">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="el">Βερολίνο</lido:displayPlace>
+                  <lido:displayPlace xml:lang="en">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="es">Berlín</lido:displayPlace>
+                  <lido:displayPlace xml:lang="fa">برلین</lido:displayPlace>
+                  <lido:displayPlace xml:lang="fi">Berliini</lido:displayPlace>
+                  <lido:displayPlace xml:lang="fr">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ha">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="he">ברלין</lido:displayPlace>
+                  <lido:displayPlace xml:lang="hi">बर्लिन</lido:displayPlace>
+                  <lido:displayPlace xml:lang="hu">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="id">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="it">Berlino</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ja">ベルリン</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ka">ბერლინი</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ko">베를린</lido:displayPlace>
+                  <lido:displayPlace xml:lang="nl">Berlijn</lido:displayPlace>
+                  <lido:displayPlace xml:lang="pl">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="pt">Berlim</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ro">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ru">Берлин</lido:displayPlace>
+                  <lido:displayPlace xml:lang="sv">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="sw">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ta">பெர்லின்</lido:displayPlace>
+                  <lido:displayPlace xml:lang="th">เบอร์ลิน</lido:displayPlace>
+                  <lido:displayPlace xml:lang="tl">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="tr">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ur">برلن</lido:displayPlace>
+                  <lido:displayPlace xml:lang="vi">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="zh">柏林</lido:displayPlace>
+                  <lido:place>
+                     <lido:placeID lido:source="geonames" lido:type="uri">https://sws.geonames.org/2950159</lido:placeID>
+                     <lido:placeID lido:source="TGN" lido:type="uri">http://vocab.getty.edu/tgn/7209904</lido:placeID>
+                     <lido:placeID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4005728-8</lido:placeID>
+                     <lido:placeID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q64</lido:placeID>
+                     <lido:placeID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/place/61</lido:placeID>
+                     <lido:namePlaceSet>
+                        <lido:appellationValue>Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ar">برلين</lido:appellationValue>
+                        <lido:appellationValue xml:lang="bn">বার্লিন</lido:appellationValue>
+                        <lido:appellationValue xml:lang="cs">Berlín</lido:appellationValue>
+                        <lido:appellationValue xml:lang="da">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="de">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="el">Βερολίνο</lido:appellationValue>
+                        <lido:appellationValue xml:lang="en">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="es">Berlín</lido:appellationValue>
+                        <lido:appellationValue xml:lang="fa">برلین</lido:appellationValue>
+                        <lido:appellationValue xml:lang="fi">Berliini</lido:appellationValue>
+                        <lido:appellationValue xml:lang="fr">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ha">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="he">ברלין</lido:appellationValue>
+                        <lido:appellationValue xml:lang="hi">बर्लिन</lido:appellationValue>
+                        <lido:appellationValue xml:lang="hu">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="id">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="it">Berlino</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ja">ベルリン</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ka">ბერლინი</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ko">베를린</lido:appellationValue>
+                        <lido:appellationValue xml:lang="nl">Berlijn</lido:appellationValue>
+                        <lido:appellationValue xml:lang="pl">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="pt">Berlim</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ro">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ru">Берлин</lido:appellationValue>
+                        <lido:appellationValue xml:lang="sv">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="sw">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ta">பெர்லின்</lido:appellationValue>
+                        <lido:appellationValue xml:lang="th">เบอร์ลิน</lido:appellationValue>
+                        <lido:appellationValue xml:lang="tl">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="tr">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ur">برلن</lido:appellationValue>
+                        <lido:appellationValue xml:lang="vi">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="zh">柏林</lido:appellationValue>
+                     </lido:namePlaceSet>
+                     <lido:gml>
+                        <gml:Point xmlns:gml="http://www.opengis.net/gml" srsName="EPSG:4326">
+                           <gml:pos>52.516666412354 13.383333206177</gml:pos>
+                        </gml:Point>
+                     </lido:gml>
+                  </lido:place>
+               </lido:eventPlace>
+            </lido:event>
+         </lido:eventSet>
+         <lido:eventSet>
+            <lido:event>
+               <lido:eventType>
+                  <lido:conceptID lido:type="uri">http://terminology.lido-schema.org/lido00003</lido:conceptID>
+                  <lido:term>Event (non-specified)</lido:term>
+               </lido:eventType>
+               <lido:eventMaterialsTech>
+                  <lido:displayMaterialsTech>Aquarell auf Karton (aufgezogen)</lido:displayMaterialsTech>
+               </lido:eventMaterialsTech>
+            </lido:event>
+         </lido:eventSet>
+      </lido:eventWrap>
+      <lido:objectRelationWrap>
+         <lido:subjectWrap>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectPlace>
+                     <lido:displayPlace>Berlin-Charlottenburg</lido:displayPlace>
+                     <lido:displayPlace xml:lang="ar">تشارلوتنبرغ</lido:displayPlace>
+                     <lido:displayPlace xml:lang="cs">Charlottenburg</lido:displayPlace>
+                     <lido:displayPlace xml:lang="da">Charlottenburg</lido:displayPlace>
+                     <lido:displayPlace xml:lang="de">Berlin-Charlottenburg</lido:displayPlace>
+                     <lido:displayPlace xml:lang="el">Σαρλότενμπουργκ</lido:displayPlace>
+                     <lido:displayPlace xml:lang="en">Charlottenburg</lido:displayPlace>
+                     <lido:displayPlace xml:lang="es">Charlottenburg</lido:displayPlace>
+                     <lido:displayPlace xml:lang="fa">شارلوتنبورگ</lido:displayPlace>
+                     <lido:displayPlace xml:lang="fi">Charlottenburg</lido:displayPlace>
+                     <lido:displayPlace xml:lang="fr">Berlin-Charlottenbourg</lido:displayPlace>
+                     <lido:displayPlace xml:lang="he">שרלוטנבורג</lido:displayPlace>
+                     <lido:displayPlace xml:lang="id">Berlin-Charlottenbourg</lido:displayPlace>
+                     <lido:displayPlace xml:lang="it">Charlottenburg</lido:displayPlace>
+                     <lido:displayPlace xml:lang="nl">Berlin-Charlottenburg</lido:displayPlace>
+                     <lido:displayPlace xml:lang="pl">Charlottenburg (dzielnica Berlina)</lido:displayPlace>
+                     <lido:displayPlace xml:lang="pt">Charlottenburg</lido:displayPlace>
+                     <lido:displayPlace xml:lang="ru">Шарлоттенбург (район Берлина)</lido:displayPlace>
+                     <lido:displayPlace xml:lang="sv">Charlottenburg</lido:displayPlace>
+                     <lido:displayPlace xml:lang="tr">Charlottenburg</lido:displayPlace>
+                     <lido:displayPlace xml:lang="ur">شارلوتنبورگ</lido:displayPlace>
+                     <lido:displayPlace xml:lang="zh">夏洛滕堡</lido:displayPlace>
+                     <lido:place>
+                        <lido:placeID lido:source="geonames" lido:type="uri">https://sws.geonames.org/2940187</lido:placeID>
+                        <lido:placeID lido:source="TGN" lido:type="uri">http://vocab.getty.edu/tgn/1004256</lido:placeID>
+                        <lido:placeID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4087306-7</lido:placeID>
+                        <lido:placeID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q162049</lido:placeID>
+                        <lido:placeID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/place/755</lido:placeID>
+                        <lido:namePlaceSet>
+                           <lido:appellationValue>Berlin-Charlottenburg</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ar">تشارلوتنبرغ</lido:appellationValue>
+                           <lido:appellationValue xml:lang="cs">Charlottenburg</lido:appellationValue>
+                           <lido:appellationValue xml:lang="da">Charlottenburg</lido:appellationValue>
+                           <lido:appellationValue xml:lang="de">Berlin-Charlottenburg</lido:appellationValue>
+                           <lido:appellationValue xml:lang="el">Σαρλότενμπουργκ</lido:appellationValue>
+                           <lido:appellationValue xml:lang="en">Charlottenburg</lido:appellationValue>
+                           <lido:appellationValue xml:lang="es">Charlottenburg</lido:appellationValue>
+                           <lido:appellationValue xml:lang="fa">شارلوتنبورگ</lido:appellationValue>
+                           <lido:appellationValue xml:lang="fi">Charlottenburg</lido:appellationValue>
+                           <lido:appellationValue xml:lang="fr">Berlin-Charlottenbourg</lido:appellationValue>
+                           <lido:appellationValue xml:lang="he">שרלוטנבורג</lido:appellationValue>
+                           <lido:appellationValue xml:lang="id">Berlin-Charlottenbourg</lido:appellationValue>
+                           <lido:appellationValue xml:lang="it">Charlottenburg</lido:appellationValue>
+                           <lido:appellationValue xml:lang="nl">Berlin-Charlottenburg</lido:appellationValue>
+                           <lido:appellationValue xml:lang="pl">Charlottenburg (dzielnica Berlina)</lido:appellationValue>
+                           <lido:appellationValue xml:lang="pt">Charlottenburg</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ru">Шарлоттенбург (район Берлина)</lido:appellationValue>
+                           <lido:appellationValue xml:lang="sv">Charlottenburg</lido:appellationValue>
+                           <lido:appellationValue xml:lang="tr">Charlottenburg</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ur">شارلوتنبورگ</lido:appellationValue>
+                           <lido:appellationValue xml:lang="zh">夏洛滕堡</lido:appellationValue>
+                        </lido:namePlaceSet>
+                        <lido:gml>
+                           <gml:Point xmlns:gml="http://www.opengis.net/gml" srsName="EPSG:4326">
+                              <gml:pos>52.516666412354 13.300000190735</gml:pos>
+                           </gml:Point>
+                        </lido:gml>
+                     </lido:place>
+                  </lido:subjectPlace>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="aat" lido:type="uri">http://vocab.getty.edu/aat/300015636</lido:conceptID>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4034343-1</lido:conceptID>
+                     <lido:conceptID lido:source="iconclass" lido:type="uri">http://iconclass.org/rkd/25HH/</lido:conceptID>
+                     <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh85074392</lido:conceptID>
+                     <lido:conceptID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q107425</lido:conceptID>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Landschaft</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/858</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Landschaft</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ar">منظر طبيعي</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="bn">ভূদৃশ্য</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="cs">krajina</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="da">landskab</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="de">Landschaft</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="el">τοπίο</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="en">Landscape</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="es">paisaje</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fa">چشم‌ انداز</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fi">maisema</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fr">paysage</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="he">נוף</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hi">भूदृश्य</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="id">Lanskap</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="it">paesaggio</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ja">ランドスケープ</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ka">ლანდშაფტი</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ko">경관</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="nl">landschap</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pl">krajobraz</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pt">paisagem</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ru">ландшафт</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sv">landskap</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ta">நிலத்தோற்றம்</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="th">ภูมิทัศน์</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tr">Peyzaj</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="vi">phong cảnh</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="zh">景观</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+         </lido:subjectWrap>
+         <lido:relatedWorksWrap/>
+      </lido:objectRelationWrap>
+   </lido:descriptiveMetadata>
+   <lido:administrativeMetadata xml:lang="de">
+      <lido:rightsWorkWrap>
+         <lido:rightsWorkSet>
+            <lido:rightsHolder>
+               <lido:legalBodyName>
+                  <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:rightsHolder>
+         </lido:rightsWorkSet>
+      </lido:rightsWorkWrap>
+      <lido:recordWrap>
+         <lido:recordID lido:type="museum-digital">67202</lido:recordID>
+         <lido:recordType>
+            <lido:term lido:addedSearchTerm="no">item</lido:term>
+         </lido:recordType>
+         <lido:recordSource lido:type="dataProvider">
+            <lido:legalBodyName>
+               <lido:appellationValue>museum-digital</lido:appellationValue>
+            </lido:legalBodyName>
+            <lido:legalBodyWeblink>https://berlin.museum-digital.de/</lido:legalBodyWeblink>
+         </lido:recordSource>
+         <lido:recordSource>
+            <lido:legalBodyID lido:type="isil">DE-B185</lido:legalBodyID>
+            <lido:legalBodyName>
+               <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+            </lido:legalBodyName>
+         </lido:recordSource>
+         <lido:recordRights>
+            <lido:rightsType>
+               <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no">CC BY</lido:term>
+            </lido:rightsType>
+            <lido:rightsHolder>
+               <lido:legalBodyID lido:type="isil">DE-B185</lido:legalBodyID>
+               <lido:legalBodyName>
+                  <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+               </lido:legalBodyName>
+               <lido:legalBodyWeblink>http://geschichte-brandenburg.de/</lido:legalBodyWeblink>
+            </lido:rightsHolder>
+            <lido:creditLine>Förderprogramm zur Digitalisierung von Objekten des kulturellen Erbes des Landes Berlin</lido:creditLine>
+         </lido:recordRights>
+         <lido:recordInfoSet>
+            <lido:recordInfoLink>https://berlin.museum-digital.de/index.php?t=objekt&amp;oges=67202</lido:recordInfoLink>
+            <lido:recordMetadataDate>2021-04-27 07:59:53</lido:recordMetadataDate>
+         </lido:recordInfoSet>
+      </lido:recordWrap>
+      <lido:resourceWrap>
+         <lido:resourceSet lido:sortorder="1">
+            <lido:resourceID lido:source="image" lido:type="local">48785</lido:resourceID>
+            <lido:resourceRepresentation lido:type="masterfile">
+               <lido:linkResource lido:formatResource="image/tiff"/>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_thumb">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/202007/100h_berlin-charlottenburg-jungfernheide-forsthaus-koenigsdamm-67202.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_preview">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/202007/200w_berlin-charlottenburg-jungfernheide-forsthaus-koenigsdamm-67202.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/202007/berlin-charlottenburg-jungfernheide-forsthaus-koenigsdamm-67202.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceType>
+               <lido:term lido:addedSearchTerm="no">image</lido:term>
+            </lido:resourceType>
+            <lido:resourceRelType>
+               <lido:term lido:addedSearchTerm="no">Hauptansicht</lido:term>
+            </lido:resourceRelType>
+            <lido:resourceDescription>Berlin-Charlottenburg: Jungfernheide, Forsthaus Königsdamm</lido:resourceDescription>
+            <lido:resourceSource lido:type="creator">
+               <lido:legalBodyName>
+                  <lido:appellationValue>Thomas Voßbeck, 2020</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:resourceSource>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+                  <lido:term lido:addedSearchTerm="no">CC BY</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V.</lido:appellationValue>
+                  </lido:legalBodyName>
+               </lido:rightsHolder>
+               <lido:creditLine>Thomas Voßbeck, 2020</lido:creditLine>
+            </lido:rightsResource>
+         </lido:resourceSet>
+      </lido:resourceWrap>
+   </lido:administrativeMetadata>
+</lido:lido>
+

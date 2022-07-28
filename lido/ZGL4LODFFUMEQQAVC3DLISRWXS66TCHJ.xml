@@ -1,0 +1,424 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lido:lido xmlns:lido="http://www.lido-schema.org"
+           xmlns:xalan="http://xml.apache.org/xalan">
+   <lido:lidoRecID lido:source="https://berlin.museum-digital.de/index.php?t=institution&amp;instnr=32"
+                   lido:type="local">DE-B185/66916</lido:lidoRecID>
+   <lido:category/>
+   <lido:descriptiveMetadata xml:lang="de">
+      <lido:objectClassificationWrap>
+         <lido:objectWorkTypeWrap>
+            <lido:objectWorkType>
+               <lido:conceptID lido:source="gnd" lido:type="uri">http://d-nb.info/gnd/4021845-4</lido:conceptID>
+               <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/13314</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Druckgraphik</lido:term>
+            </lido:objectWorkType>
+         </lido:objectWorkTypeWrap>
+         <lido:classificationWrap>
+            <lido:classification lido:type="Sammlung">
+               <lido:conceptID lido:source="local" lido:type="collection_id">705</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Handzeichnungen, Druckgraphik, Gemälde</lido:term>
+            </lido:classification>
+            <lido:classification lido:type="Sammlung">
+               <lido:conceptID lido:source="local" lido:type="collection_id">706</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Ansichten</lido:term>
+            </lido:classification>
+            <lido:classification lido:type="Sammlung">
+               <lido:conceptID lido:source="local" lido:type="collection_id">708</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Brandenburg</lido:term>
+            </lido:classification>
+         </lido:classificationWrap>
+      </lido:objectClassificationWrap>
+      <lido:objectIdentificationWrap>
+         <lido:titleWrap>
+            <lido:titleSet>
+               <lido:appellationValue lido:pref="preferred">Wiesenburg/Mark (Kr. Zauch-Belzig) : Schloss und Park von Süden, mit Beiblatt</lido:appellationValue>
+            </lido:titleSet>
+         </lido:titleWrap>
+         <lido:repositoryWrap>
+            <lido:repositorySet lido:type="current">
+               <lido:repositoryName>
+                  <lido:legalBodyID lido:type="isil">DE-B185</lido:legalBodyID>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+                  </lido:legalBodyName>
+                  <lido:legalBodyWeblink>http://geschichte-brandenburg.de/</lido:legalBodyWeblink>
+               </lido:repositoryName>
+               <lido:workID lido:type="inventory number">LGV-Archiv, C 12 G-3-009</lido:workID>
+               <lido:repositoryLocation>
+                  <lido:namePlaceSet>
+                     <lido:appellationValue>Berlin</lido:appellationValue>
+                  </lido:namePlaceSet>
+                  <lido:gml>
+                     <gml:Point xmlns:gml="http://www.opengis.net/gml" srsName="EPSG:4326">
+                        <gml:pos>52.51533127 13.40440559</gml:pos>
+                     </gml:Point>
+                  </lido:gml>
+               </lido:repositoryLocation>
+            </lido:repositorySet>
+         </lido:repositoryWrap>
+         <lido:objectDescriptionWrap>
+            <lido:objectDescriptionSet>
+               <lido:descriptiveNoteValue>Das Blatt stammt aus Band 7 des von Alexander Duncker verlegten Ansichtenwerkes ("Die ländlichen Wohnsitze, Schlösser und Residenzen der ritterschaftlichen Grundbesitzer in der preußischen Monarchie nebst den Königlichen Familien-, Haus-Fideicommiss- und Schatull-Gütern in naturgetreuen, künstlerisch ausgeführten, farbigen Darstellungen nebst begleitendem Text", 320 Lieferungen in 16 Bänden mit insgesamt 960 Ansichten, 1853-1887). Dieses Blatt erschien 1864 und zeigt die Südseite von Park und Garten vor den Umbauten unter Curt Friedrich Ernst von Watzdorf, die noch heute Schloss und Park prägen. Wie im Titel angegeben entstanden die Darstellungen, hier von Theodor Hennicke, alle nach der Natur und sind daher von großem historischen Wert.
+
+Bez. li. u. "Nach einer Origin.-Aufn. v. Th. Hennicke ausgeführt v. H. Menzler Druck b. J. Börner", re. u. "Verlag von Alexander Duncker, Königl. Hofbuchhändler, Berlin."
+Altbestand des Archivs.
+
+Literatur: Udo Geiseler, Monika Loddenkemper: Wiesenburg. In: Herrenhäuser in Brandenburg und der Niederlausitz. Kommentierte Neuausgabe des Ansichtenwers von Alexander Duncker (1857-1883). Hrsg. Peter-Michael Hahn/Hellmut Lorenz. Berlin 2000, Bd. 2: Katalog, S. 630-635 (Dunckers Begleittext ebd., Bd. 1, S. 141f.) - Iris Berndt: Alexander Dunckers Ansichten von Herrenhäusern im Fläming. In: Die Mark 88 (2013), S. 12-21, S. 15 (Text S. 17f.).</lido:descriptiveNoteValue>
+               <lido:sourceDescriptiveNote>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:sourceDescriptiveNote>
+            </lido:objectDescriptionSet>
+         </lido:objectDescriptionWrap>
+         <lido:objectMeasurementsWrap>
+            <lido:objectMeasurementsSet>
+               <lido:displayObjectMeasurements>Blattgröße: Höhe 30,4 cm, Breite 41 cm</lido:displayObjectMeasurements>
+               <lido:objectMeasurements/>
+            </lido:objectMeasurementsSet>
+         </lido:objectMeasurementsWrap>
+      </lido:objectIdentificationWrap>
+      <lido:eventWrap>
+         <lido:eventSet>
+            <lido:event>
+               <lido:eventType>
+                  <lido:conceptID lido:type="uri">https://event-types.museum-digital.org/1</lido:conceptID>
+                  <lido:term lido:addedSearchTerm="no">Hergestellt</lido:term>
+               </lido:eventType>
+               <lido:eventActor>
+                  <lido:displayActorInRole>Theodor Hennicke</lido:displayActorInRole>
+                  <lido:actorInRole>
+                     <lido:actor>
+                        <lido:actorID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/persinst/14061</lido:actorID>
+                        <lido:nameActorSet>
+                           <lido:appellationValue>Hennicke, Theodor</lido:appellationValue>
+                        </lido:nameActorSet>
+                        <lido:vitalDatesActor>
+                           <lido:earliestDate/>
+                           <lido:latestDate/>
+                        </lido:vitalDatesActor>
+                     </lido:actor>
+                  </lido:actorInRole>
+               </lido:eventActor>
+               <lido:eventDate>
+                  <lido:displayDate>1864</lido:displayDate>
+                  <lido:displayDate xml:lang="ar">1864</lido:displayDate>
+                  <lido:displayDate xml:lang="de">1864</lido:displayDate>
+                  <lido:displayDate xml:lang="en">1864</lido:displayDate>
+                  <lido:displayDate xml:lang="es">1864</lido:displayDate>
+                  <lido:displayDate xml:lang="fa">1864</lido:displayDate>
+                  <lido:displayDate xml:lang="fr">1864</lido:displayDate>
+                  <lido:displayDate xml:lang="hu">1864</lido:displayDate>
+                  <lido:displayDate xml:lang="id">1864</lido:displayDate>
+                  <lido:displayDate xml:lang="it">1864</lido:displayDate>
+                  <lido:displayDate xml:lang="ja">1864年</lido:displayDate>
+                  <lido:displayDate xml:lang="ka">1864</lido:displayDate>
+                  <lido:displayDate xml:lang="ko">1864년</lido:displayDate>
+                  <lido:displayDate xml:lang="pl">1864</lido:displayDate>
+                  <lido:displayDate xml:lang="pt">1864</lido:displayDate>
+                  <lido:displayDate xml:lang="ro">1864</lido:displayDate>
+                  <lido:displayDate xml:lang="ru">1864</lido:displayDate>
+                  <lido:displayDate xml:lang="ta">1864</lido:displayDate>
+                  <lido:displayDate xml:lang="tl">1864</lido:displayDate>
+                  <lido:displayDate xml:lang="tr">1864</lido:displayDate>
+                  <lido:displayDate xml:lang="zh">1864年</lido:displayDate>
+                  <lido:date>
+                     <lido:earliestDate>1864</lido:earliestDate>
+                     <lido:latestDate>1864</lido:latestDate>
+                  </lido:date>
+               </lido:eventDate>
+            </lido:event>
+         </lido:eventSet>
+         <lido:eventSet>
+            <lido:event>
+               <lido:eventType>
+                  <lido:conceptID lido:type="uri">https://event-types.museum-digital.org/3</lido:conceptID>
+                  <lido:term lido:addedSearchTerm="no">Veröffentlicht</lido:term>
+               </lido:eventType>
+               <lido:eventActor>
+                  <lido:displayActorInRole>Alexander Duncker (Verlag)</lido:displayActorInRole>
+                  <lido:actorInRole>
+                     <lido:actor>
+                        <lido:actorID lido:source="gnd" lido:type="uri"> 	http://d-nb.info/gnd/1027775950</lido:actorID>
+                        <lido:actorID lido:source="viaf" lido:type="uri">https://viaf.org/viaf/278882629</lido:actorID>
+                        <lido:actorID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/persinst/7883</lido:actorID>
+                        <lido:nameActorSet>
+                           <lido:appellationValue>Alexander Duncker (Verlag)</lido:appellationValue>
+                        </lido:nameActorSet>
+                        <lido:vitalDatesActor>
+                           <lido:earliestDate/>
+                           <lido:latestDate/>
+                        </lido:vitalDatesActor>
+                     </lido:actor>
+                  </lido:actorInRole>
+               </lido:eventActor>
+            </lido:event>
+         </lido:eventSet>
+         <lido:eventSet>
+            <lido:event>
+               <lido:eventType>
+                  <lido:conceptID lido:type="uri">http://terminology.lido-schema.org/lido00003</lido:conceptID>
+                  <lido:term>Event (non-specified)</lido:term>
+               </lido:eventType>
+               <lido:eventMaterialsTech>
+                  <lido:displayMaterialsTech>Farblithographie, am Rand leicht gebräunt</lido:displayMaterialsTech>
+               </lido:eventMaterialsTech>
+            </lido:event>
+         </lido:eventSet>
+      </lido:eventWrap>
+      <lido:objectRelationWrap>
+         <lido:subjectWrap>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectActor>
+                     <lido:displayActor>Winckelmann &amp; Söhne (Verlag)</lido:displayActor>
+                     <lido:actor>
+                        <lido:actorID lido:source="gnd" lido:type="uri">http://d-nb.info/gnd/10175165-5</lido:actorID>
+                        <lido:actorID lido:source="viaf" lido:type="uri">https://viaf.org/viaf/159297635</lido:actorID>
+                        <lido:actorID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/persinst/10162</lido:actorID>
+                        <lido:nameActorSet>
+                           <lido:appellationValue>Winckelmann &amp; Söhne (Verlag)</lido:appellationValue>
+                        </lido:nameActorSet>
+                        <lido:vitalDatesActor>
+                           <lido:earliestDate/>
+                           <lido:latestDate/>
+                        </lido:vitalDatesActor>
+                     </lido:actor>
+                  </lido:subjectActor>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectPlace>
+                     <lido:displayPlace>Wiesenburg/Mark</lido:displayPlace>
+                     <lido:displayPlace xml:lang="cs">Wiesenburg/Mark</lido:displayPlace>
+                     <lido:displayPlace xml:lang="de">Wiesenburg/Mark</lido:displayPlace>
+                     <lido:displayPlace xml:lang="en">Wiesenburg</lido:displayPlace>
+                     <lido:displayPlace xml:lang="es">Wiesenburg</lido:displayPlace>
+                     <lido:displayPlace xml:lang="fa">ویزنبورگ</lido:displayPlace>
+                     <lido:displayPlace xml:lang="fr">Wiesenburg</lido:displayPlace>
+                     <lido:displayPlace xml:lang="hu">Wiesenburg/Mark</lido:displayPlace>
+                     <lido:displayPlace xml:lang="it">Wiesenburg/Mark</lido:displayPlace>
+                     <lido:displayPlace xml:lang="nl">Wiesenburg/Mark</lido:displayPlace>
+                     <lido:displayPlace xml:lang="pl">Wiesenburg/Mark</lido:displayPlace>
+                     <lido:displayPlace xml:lang="ro">Wiesenburg/Mark</lido:displayPlace>
+                     <lido:displayPlace xml:lang="ru">Визенбург (Марк)</lido:displayPlace>
+                     <lido:displayPlace xml:lang="sv">Wiesenburg/Mark</lido:displayPlace>
+                     <lido:displayPlace xml:lang="vi">Wiesenburg</lido:displayPlace>
+                     <lido:displayPlace xml:lang="zh">维森堡</lido:displayPlace>
+                     <lido:place>
+                        <lido:placeID lido:source="geonames" lido:type="uri">https://sws.geonames.org/2809259</lido:placeID>
+                        <lido:placeID lido:source="TGN" lido:type="uri">http://vocab.getty.edu/tgn/1037987</lido:placeID>
+                        <lido:placeID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4380264-3</lido:placeID>
+                        <lido:placeID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q623510</lido:placeID>
+                        <lido:placeID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/place/6481</lido:placeID>
+                        <lido:namePlaceSet>
+                           <lido:appellationValue>Wiesenburg/Mark</lido:appellationValue>
+                           <lido:appellationValue xml:lang="cs">Wiesenburg/Mark</lido:appellationValue>
+                           <lido:appellationValue xml:lang="de">Wiesenburg/Mark</lido:appellationValue>
+                           <lido:appellationValue xml:lang="en">Wiesenburg</lido:appellationValue>
+                           <lido:appellationValue xml:lang="es">Wiesenburg</lido:appellationValue>
+                           <lido:appellationValue xml:lang="fa">ویزنبورگ</lido:appellationValue>
+                           <lido:appellationValue xml:lang="fr">Wiesenburg</lido:appellationValue>
+                           <lido:appellationValue xml:lang="hu">Wiesenburg/Mark</lido:appellationValue>
+                           <lido:appellationValue xml:lang="it">Wiesenburg/Mark</lido:appellationValue>
+                           <lido:appellationValue xml:lang="nl">Wiesenburg/Mark</lido:appellationValue>
+                           <lido:appellationValue xml:lang="pl">Wiesenburg/Mark</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ro">Wiesenburg/Mark</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ru">Визенбург (Марк)</lido:appellationValue>
+                           <lido:appellationValue xml:lang="sv">Wiesenburg/Mark</lido:appellationValue>
+                           <lido:appellationValue xml:lang="vi">Wiesenburg</lido:appellationValue>
+                           <lido:appellationValue xml:lang="zh">维森堡</lido:appellationValue>
+                        </lido:namePlaceSet>
+                        <lido:gml>
+                           <gml:Point xmlns:gml="http://www.opengis.net/gml" srsName="EPSG:4326">
+                              <gml:pos>52.116664886475 12.449722290039</gml:pos>
+                           </gml:Point>
+                        </lido:gml>
+                     </lido:place>
+                  </lido:subjectPlace>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q22698</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/2568</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Park</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ar">متنزه</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="cs">Park</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="da">Park</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="de">Park</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="el">πάρκο</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="en">Park</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="es">Parque</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fa">بوستان</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fi">Puisto</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fr">Parc</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="he">פארק</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hi">पार्क</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hu">park</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="id">Taman</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="it">Parco</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ja">公園</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ko">공원</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="nl">Park</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pl">Park</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pt">Parque</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ro">parc</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ru">парк</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sv">Park</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ta">பூங்கா</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="th">สวนสาธารณะ</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tl">Liwasan</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tr">Park</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ur">پارک</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="vi">công viên</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="zh">公园</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">http://d-nb.info/gnd/4140684-9</lido:conceptID>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">http://de.wikipedia.org/wiki/Schlosspark</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/8261</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Schlosspark</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4021845-4</lido:conceptID>
+                     <lido:conceptID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q1027879</lido:conceptID>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">https://en.wikipedia.org/wiki/Graphics</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/13314</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Druckgraphik</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ar">رسوميات</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="bn">গ্রাফিক্স</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="cs">Grafika</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="de">Druckgraphik</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="el">Γραφικά</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="en">Graphics</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="es">gráficos</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fa">ارتباط تصویری</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fr">Graphique</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="he">גרפיקה</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hi">चित्रालेख</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hu">Grafika</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="id">Grafika</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ja">グラフィック</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ka">გრაფიკა</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ko">그래픽</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="nl">Grafiek</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pl">Grafika</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pt">Gráfico</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ro">grafică</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ru">графика</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ta">வரைகலை</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tr">Grafik</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ur">تخطیط</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="zh">图形</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/72817</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Schloss</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+         </lido:subjectWrap>
+         <lido:relatedWorksWrap/>
+      </lido:objectRelationWrap>
+   </lido:descriptiveMetadata>
+   <lido:administrativeMetadata xml:lang="de">
+      <lido:rightsWorkWrap>
+         <lido:rightsWorkSet>
+            <lido:rightsHolder>
+               <lido:legalBodyName>
+                  <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:rightsHolder>
+         </lido:rightsWorkSet>
+      </lido:rightsWorkWrap>
+      <lido:recordWrap>
+         <lido:recordID lido:type="museum-digital">66916</lido:recordID>
+         <lido:recordType>
+            <lido:term lido:addedSearchTerm="no">item</lido:term>
+         </lido:recordType>
+         <lido:recordSource lido:type="dataProvider">
+            <lido:legalBodyName>
+               <lido:appellationValue>museum-digital</lido:appellationValue>
+            </lido:legalBodyName>
+            <lido:legalBodyWeblink>https://berlin.museum-digital.de/</lido:legalBodyWeblink>
+         </lido:recordSource>
+         <lido:recordSource>
+            <lido:legalBodyID lido:type="isil">DE-B185</lido:legalBodyID>
+            <lido:legalBodyName>
+               <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+            </lido:legalBodyName>
+         </lido:recordSource>
+         <lido:recordRights>
+            <lido:rightsType>
+               <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no">CC BY</lido:term>
+            </lido:rightsType>
+            <lido:rightsHolder>
+               <lido:legalBodyID lido:type="isil">DE-B185</lido:legalBodyID>
+               <lido:legalBodyName>
+                  <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+               </lido:legalBodyName>
+               <lido:legalBodyWeblink>http://geschichte-brandenburg.de/</lido:legalBodyWeblink>
+            </lido:rightsHolder>
+            <lido:creditLine>Förderprogramm zur Digitalisierung von Objekten des kulturellen Erbes des Landes Berlin</lido:creditLine>
+         </lido:recordRights>
+         <lido:recordInfoSet>
+            <lido:recordInfoLink>https://berlin.museum-digital.de/index.php?t=objekt&amp;oges=66916</lido:recordInfoLink>
+            <lido:recordMetadataDate>2021-04-27 07:59:55</lido:recordMetadataDate>
+         </lido:recordInfoSet>
+      </lido:recordWrap>
+      <lido:resourceWrap>
+         <lido:resourceSet lido:sortorder="1">
+            <lido:resourceID lido:source="image" lido:type="local">48502</lido:resourceID>
+            <lido:resourceRepresentation lido:type="masterfile">
+               <lido:linkResource lido:formatResource="image/tiff"/>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_thumb">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/202007/100h_wiesenburgmark-kr-zauch-belzig-schloss-und-park-von-sueden-mit-beiblatt-66916.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_preview">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/202007/200w_wiesenburgmark-kr-zauch-belzig-schloss-und-park-von-sueden-mit-beiblatt-66916.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/202007/wiesenburgmark-kr-zauch-belzig-schloss-und-park-von-sueden-mit-beiblatt-66916.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceType>
+               <lido:term lido:addedSearchTerm="no">image</lido:term>
+            </lido:resourceType>
+            <lido:resourceRelType>
+               <lido:term lido:addedSearchTerm="no">Hauptansicht</lido:term>
+            </lido:resourceRelType>
+            <lido:resourceDescription>Wiesenburg/Mark (Kr. Zauch-Belzig) : Schloss und Park von Süden, mit Beiblatt</lido:resourceDescription>
+            <lido:resourceSource lido:type="creator">
+               <lido:legalBodyName>
+                  <lido:appellationValue>Thomas Voßbeck, 2020</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:resourceSource>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+                  <lido:term lido:addedSearchTerm="no">CC BY</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V.</lido:appellationValue>
+                  </lido:legalBodyName>
+               </lido:rightsHolder>
+               <lido:creditLine>Thomas Voßbeck, 2020</lido:creditLine>
+            </lido:rightsResource>
+         </lido:resourceSet>
+      </lido:resourceWrap>
+   </lido:administrativeMetadata>
+</lido:lido>
+

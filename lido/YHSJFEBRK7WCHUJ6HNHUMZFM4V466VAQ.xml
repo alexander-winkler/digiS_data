@@ -1,0 +1,602 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lido:lido xmlns:lido="http://www.lido-schema.org"
+           xmlns:xalan="http://xml.apache.org/xalan">
+   <lido:lidoRecID lido:source="https://berlin.museum-digital.de/index.php?t=institution&amp;instnr=32"
+                   lido:type="local">DE-B185/67358</lido:lidoRecID>
+   <lido:category/>
+   <lido:descriptiveMetadata xml:lang="de">
+      <lido:objectClassificationWrap>
+         <lido:objectWorkTypeWrap>
+            <lido:objectWorkType>
+               <lido:conceptID lido:source="gnd" lido:type="uri">http://d-nb.info/gnd/4021845-4</lido:conceptID>
+               <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/13314</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Druckgraphik</lido:term>
+            </lido:objectWorkType>
+         </lido:objectWorkTypeWrap>
+         <lido:classificationWrap>
+            <lido:classification lido:type="Sammlung">
+               <lido:conceptID lido:source="local" lido:type="collection_id">705</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Handzeichnungen, Druckgraphik, Gemälde</lido:term>
+            </lido:classification>
+            <lido:classification lido:type="Sammlung">
+               <lido:conceptID lido:source="local" lido:type="collection_id">706</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Ansichten</lido:term>
+            </lido:classification>
+            <lido:classification lido:type="Sammlung">
+               <lido:conceptID lido:source="local" lido:type="collection_id">709</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Sonstige Länder</lido:term>
+            </lido:classification>
+         </lido:classificationWrap>
+      </lido:objectClassificationWrap>
+      <lido:objectIdentificationWrap>
+         <lido:titleWrap>
+            <lido:titleSet>
+               <lido:appellationValue lido:pref="preferred">Marienburg in Westpreußen: Schloss</lido:appellationValue>
+            </lido:titleSet>
+         </lido:titleWrap>
+         <lido:repositoryWrap>
+            <lido:repositorySet lido:type="current">
+               <lido:repositoryName>
+                  <lido:legalBodyID lido:type="isil">DE-B185</lido:legalBodyID>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+                  </lido:legalBodyName>
+                  <lido:legalBodyWeblink>http://geschichte-brandenburg.de/</lido:legalBodyWeblink>
+               </lido:repositoryName>
+               <lido:workID lido:type="inventory number">LGV-Archiv, B 132-01, Bl. 23</lido:workID>
+               <lido:repositoryLocation>
+                  <lido:namePlaceSet>
+                     <lido:appellationValue>Berlin</lido:appellationValue>
+                  </lido:namePlaceSet>
+                  <lido:gml>
+                     <gml:Point xmlns:gml="http://www.opengis.net/gml" srsName="EPSG:4326">
+                        <gml:pos>52.51533127 13.40440559</gml:pos>
+                     </gml:Point>
+                  </lido:gml>
+               </lido:repositoryLocation>
+            </lido:repositorySet>
+         </lido:repositoryWrap>
+         <lido:objectDescriptionWrap>
+            <lido:objectDescriptionSet>
+               <lido:descriptiveNoteValue>1797 wurden zwei Bände der "Sammlung / nützlicher Aufsätze und Nachrichten, / die Baukunst betreffend. / für angehende Baumeister und Freunde der Architektur." herausgegeben, die Wahl der Marienburg als Titelmotiv des zweiten Bandes (1797) folgt der Programmatik der Zeitschrift.
+
+Li. u.: "aufgenommen von F: Gilly." Re. u.: gestochen von FFrick." Darunter zentriert der Titel: "Haupt Ansicht des alten Schlosses zu Marienburg. / gebaut um das Jahr 1309, durch die Ritter des teutschen Ordens, unter dem Hochmeister Siegfried von Feuchtwangen. / als Beytrag zur Geschichte der vaterländischen Architectur".
+Erworben 2020 (Nachlass Dr. Hella Reelfs).
+
+Literatur: Katalog "Vom Schönen und Nützlichen. David Gilly 1748-1808. Hrsg. von der Fachhochschule Potsdam u. der Stiftung Preußische Schlösser und Gärten Berlin und Brandenburg. Potsdam 1998, S. 111.</lido:descriptiveNoteValue>
+               <lido:sourceDescriptiveNote>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:sourceDescriptiveNote>
+            </lido:objectDescriptionSet>
+         </lido:objectDescriptionWrap>
+         <lido:objectMeasurementsWrap>
+            <lido:objectMeasurementsSet>
+               <lido:displayObjectMeasurements>Blattgröße: Höhe 11,4 xm, Breite 17,3 cm (Plattenrand beschnitten)</lido:displayObjectMeasurements>
+               <lido:objectMeasurements/>
+            </lido:objectMeasurementsSet>
+         </lido:objectMeasurementsWrap>
+      </lido:objectIdentificationWrap>
+      <lido:eventWrap>
+         <lido:eventSet>
+            <lido:displayEvent>Herstellung</lido:displayEvent>
+            <lido:event>
+               <lido:eventType>
+                  <lido:conceptID lido:type="uri">https://event-types.museum-digital.org/12</lido:conceptID>
+                  <lido:term lido:addedSearchTerm="no">Druckplatte hergestellt</lido:term>
+               </lido:eventType>
+               <lido:eventActor>
+                  <lido:displayActorInRole>Johann Friedrich Frick (1774-1850)</lido:displayActorInRole>
+                  <lido:actorInRole>
+                     <lido:actor>
+                        <lido:actorID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/1014908558</lido:actorID>
+                        <lido:actorID lido:source="ulan" lido:type="uri">http://vocab.getty.edu/ulan/500014397</lido:actorID>
+                        <lido:actorID lido:source="viaf" lido:type="uri">https://viaf.org/viaf/95769256</lido:actorID>
+                        <lido:actorID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q37765903</lido:actorID>
+                        <lido:actorID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/persinst/50351</lido:actorID>
+                        <lido:nameActorSet>
+                           <lido:appellationValue>Frick, Johann Friedrich</lido:appellationValue>
+                           <lido:appellationValue xml:lang="en">Johann Friedrich Frick</lido:appellationValue>
+                        </lido:nameActorSet>
+                        <lido:vitalDatesActor>
+                           <lido:earliestDate>1774</lido:earliestDate>
+                           <lido:latestDate>1850</lido:latestDate>
+                        </lido:vitalDatesActor>
+                     </lido:actor>
+                  </lido:actorInRole>
+               </lido:eventActor>
+               <lido:eventDate>
+                  <lido:displayDate>1797</lido:displayDate>
+                  <lido:displayDate xml:lang="ar">1797</lido:displayDate>
+                  <lido:displayDate xml:lang="de">1797</lido:displayDate>
+                  <lido:displayDate xml:lang="en">1797</lido:displayDate>
+                  <lido:displayDate xml:lang="es">1797</lido:displayDate>
+                  <lido:displayDate xml:lang="fa">1797</lido:displayDate>
+                  <lido:displayDate xml:lang="fr">1797</lido:displayDate>
+                  <lido:displayDate xml:lang="hu">1797</lido:displayDate>
+                  <lido:displayDate xml:lang="id">1797</lido:displayDate>
+                  <lido:displayDate xml:lang="it">1797</lido:displayDate>
+                  <lido:displayDate xml:lang="ja">1797年</lido:displayDate>
+                  <lido:displayDate xml:lang="ka">1797</lido:displayDate>
+                  <lido:displayDate xml:lang="ko">1797년</lido:displayDate>
+                  <lido:displayDate xml:lang="pl">1797</lido:displayDate>
+                  <lido:displayDate xml:lang="pt">1797</lido:displayDate>
+                  <lido:displayDate xml:lang="ro">1797</lido:displayDate>
+                  <lido:displayDate xml:lang="ru">1797</lido:displayDate>
+                  <lido:displayDate xml:lang="ta">1797</lido:displayDate>
+                  <lido:displayDate xml:lang="tl">1797</lido:displayDate>
+                  <lido:displayDate xml:lang="tr">1797</lido:displayDate>
+                  <lido:displayDate xml:lang="zh">1797年</lido:displayDate>
+                  <lido:date>
+                     <lido:earliestDate>1797</lido:earliestDate>
+                     <lido:latestDate>1797</lido:latestDate>
+                  </lido:date>
+               </lido:eventDate>
+               <lido:eventPlace>
+                  <lido:displayPlace>Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ar">برلين</lido:displayPlace>
+                  <lido:displayPlace xml:lang="bn">বার্লিন</lido:displayPlace>
+                  <lido:displayPlace xml:lang="cs">Berlín</lido:displayPlace>
+                  <lido:displayPlace xml:lang="da">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="de">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="el">Βερολίνο</lido:displayPlace>
+                  <lido:displayPlace xml:lang="en">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="es">Berlín</lido:displayPlace>
+                  <lido:displayPlace xml:lang="fa">برلین</lido:displayPlace>
+                  <lido:displayPlace xml:lang="fi">Berliini</lido:displayPlace>
+                  <lido:displayPlace xml:lang="fr">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ha">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="he">ברלין</lido:displayPlace>
+                  <lido:displayPlace xml:lang="hi">बर्लिन</lido:displayPlace>
+                  <lido:displayPlace xml:lang="hu">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="id">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="it">Berlino</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ja">ベルリン</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ka">ბერლინი</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ko">베를린</lido:displayPlace>
+                  <lido:displayPlace xml:lang="nl">Berlijn</lido:displayPlace>
+                  <lido:displayPlace xml:lang="pl">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="pt">Berlim</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ro">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ru">Берлин</lido:displayPlace>
+                  <lido:displayPlace xml:lang="sv">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="sw">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ta">பெர்லின்</lido:displayPlace>
+                  <lido:displayPlace xml:lang="th">เบอร์ลิน</lido:displayPlace>
+                  <lido:displayPlace xml:lang="tl">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="tr">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ur">برلن</lido:displayPlace>
+                  <lido:displayPlace xml:lang="vi">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="zh">柏林</lido:displayPlace>
+                  <lido:place>
+                     <lido:placeID lido:source="geonames" lido:type="uri">https://sws.geonames.org/2950159</lido:placeID>
+                     <lido:placeID lido:source="TGN" lido:type="uri">http://vocab.getty.edu/tgn/7209904</lido:placeID>
+                     <lido:placeID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4005728-8</lido:placeID>
+                     <lido:placeID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q64</lido:placeID>
+                     <lido:placeID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/place/61</lido:placeID>
+                     <lido:namePlaceSet>
+                        <lido:appellationValue>Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ar">برلين</lido:appellationValue>
+                        <lido:appellationValue xml:lang="bn">বার্লিন</lido:appellationValue>
+                        <lido:appellationValue xml:lang="cs">Berlín</lido:appellationValue>
+                        <lido:appellationValue xml:lang="da">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="de">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="el">Βερολίνο</lido:appellationValue>
+                        <lido:appellationValue xml:lang="en">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="es">Berlín</lido:appellationValue>
+                        <lido:appellationValue xml:lang="fa">برلین</lido:appellationValue>
+                        <lido:appellationValue xml:lang="fi">Berliini</lido:appellationValue>
+                        <lido:appellationValue xml:lang="fr">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ha">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="he">ברלין</lido:appellationValue>
+                        <lido:appellationValue xml:lang="hi">बर्लिन</lido:appellationValue>
+                        <lido:appellationValue xml:lang="hu">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="id">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="it">Berlino</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ja">ベルリン</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ka">ბერლინი</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ko">베를린</lido:appellationValue>
+                        <lido:appellationValue xml:lang="nl">Berlijn</lido:appellationValue>
+                        <lido:appellationValue xml:lang="pl">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="pt">Berlim</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ro">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ru">Берлин</lido:appellationValue>
+                        <lido:appellationValue xml:lang="sv">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="sw">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ta">பெர்லின்</lido:appellationValue>
+                        <lido:appellationValue xml:lang="th">เบอร์ลิน</lido:appellationValue>
+                        <lido:appellationValue xml:lang="tl">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="tr">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ur">برلن</lido:appellationValue>
+                        <lido:appellationValue xml:lang="vi">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="zh">柏林</lido:appellationValue>
+                     </lido:namePlaceSet>
+                     <lido:gml>
+                        <gml:Point xmlns:gml="http://www.opengis.net/gml" srsName="EPSG:4326">
+                           <gml:pos>52.516666412354 13.383333206177</gml:pos>
+                        </gml:Point>
+                     </lido:gml>
+                  </lido:place>
+               </lido:eventPlace>
+            </lido:event>
+         </lido:eventSet>
+         <lido:eventSet>
+            <lido:event>
+               <lido:eventType>
+                  <lido:conceptID lido:type="uri">https://event-types.museum-digital.org/19</lido:conceptID>
+                  <lido:term lido:addedSearchTerm="no">Gezeichnet</lido:term>
+               </lido:eventType>
+               <lido:eventActor>
+                  <lido:displayActorInRole>Friedrich Gilly (1772-1800)</lido:displayActorInRole>
+                  <lido:actorInRole>
+                     <lido:actor>
+                        <lido:actorID lido:source="NDB/ADB" lido:type="uri">https://www.deutsche-biographie.de/pnd118539345.html#ndbcontent</lido:actorID>
+                        <lido:actorID lido:source="Wikipedia" lido:type="uri">https://sv.wikipedia.org/wiki/Friedrich_Gilly</lido:actorID>
+                        <lido:actorID lido:source="bnf" lido:type="uri">https://catalogue.bnf.fr/ark:/12148/cb119971580</lido:actorID>
+                        <lido:actorID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/118539345</lido:actorID>
+                        <lido:actorID lido:source="loc" lido:type="uri">http://id.loc.gov/authorities/names/n82087080</lido:actorID>
+                        <lido:actorID lido:source="rkd" lido:type="uri">https://rkd.nl/explore/artists/282719</lido:actorID>
+                        <lido:actorID lido:source="ULAN" lido:type="uri">http://vocab.getty.edu/ulan/500023936</lido:actorID>
+                        <lido:actorID lido:source="viaf" lido:type="uri">https://viaf.org/viaf/10637254</lido:actorID>
+                        <lido:actorID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q62973</lido:actorID>
+                        <lido:actorID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/persinst/22663</lido:actorID>
+                        <lido:nameActorSet>
+                           <lido:appellationValue>Gilly, Friedrich</lido:appellationValue>
+                           <lido:appellationValue xml:lang="da">Friedrich Gilly</lido:appellationValue>
+                           <lido:appellationValue xml:lang="de">Friedrich Gilly</lido:appellationValue>
+                           <lido:appellationValue xml:lang="en">Friedrich Gilly</lido:appellationValue>
+                           <lido:appellationValue xml:lang="es">Friedrich Gilly</lido:appellationValue>
+                           <lido:appellationValue xml:lang="fa">فریدریش گیلی</lido:appellationValue>
+                           <lido:appellationValue xml:lang="fr">Friedrich Gilly</lido:appellationValue>
+                           <lido:appellationValue xml:lang="it">Friedrich Gilly</lido:appellationValue>
+                           <lido:appellationValue xml:lang="nl">Friedrich Gilly</lido:appellationValue>
+                           <lido:appellationValue xml:lang="pl">Friedrich Gilly</lido:appellationValue>
+                           <lido:appellationValue xml:lang="pt">Friedrich Gilly</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ru">Жилли, Фридрих Давид</lido:appellationValue>
+                           <lido:appellationValue xml:lang="sv">Friedrich Gilly</lido:appellationValue>
+                           <lido:appellationValue xml:lang="zh">弗里德里希·基利</lido:appellationValue>
+                        </lido:nameActorSet>
+                        <lido:vitalDatesActor>
+                           <lido:earliestDate>1772</lido:earliestDate>
+                           <lido:latestDate>1800</lido:latestDate>
+                        </lido:vitalDatesActor>
+                     </lido:actor>
+                  </lido:actorInRole>
+               </lido:eventActor>
+               <lido:eventDate>
+                  <lido:displayDate>1794-1795</lido:displayDate>
+                  <lido:date>
+                     <lido:earliestDate>1794</lido:earliestDate>
+                     <lido:latestDate>1795</lido:latestDate>
+                  </lido:date>
+               </lido:eventDate>
+               <lido:eventPlace>
+                  <lido:displayPlace>Marienburg</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ar">مالبورك</lido:displayPlace>
+                  <lido:displayPlace xml:lang="cs">Malbork</lido:displayPlace>
+                  <lido:displayPlace xml:lang="da">Malbork</lido:displayPlace>
+                  <lido:displayPlace xml:lang="de">Marienburg</lido:displayPlace>
+                  <lido:displayPlace xml:lang="el">Μάλμπορκ</lido:displayPlace>
+                  <lido:displayPlace xml:lang="en">Malbork</lido:displayPlace>
+                  <lido:displayPlace xml:lang="es">Malbork</lido:displayPlace>
+                  <lido:displayPlace xml:lang="fa">مالبورک</lido:displayPlace>
+                  <lido:displayPlace xml:lang="fi">Malbork</lido:displayPlace>
+                  <lido:displayPlace xml:lang="fr">Malbork</lido:displayPlace>
+                  <lido:displayPlace xml:lang="hu">Malbork</lido:displayPlace>
+                  <lido:displayPlace xml:lang="id">Malbork</lido:displayPlace>
+                  <lido:displayPlace xml:lang="it">Malbork</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ja">マルボルク</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ko">말보르크</lido:displayPlace>
+                  <lido:displayPlace xml:lang="nl">Malbork</lido:displayPlace>
+                  <lido:displayPlace xml:lang="pl">Malbork</lido:displayPlace>
+                  <lido:displayPlace xml:lang="pt">Malbork</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ro">Malbork</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ru">Мальборк</lido:displayPlace>
+                  <lido:displayPlace xml:lang="sv">Malbork</lido:displayPlace>
+                  <lido:displayPlace xml:lang="th">มัลบอร์ก</lido:displayPlace>
+                  <lido:displayPlace xml:lang="tr">Malbork</lido:displayPlace>
+                  <lido:displayPlace xml:lang="vi">Malbork</lido:displayPlace>
+                  <lido:displayPlace xml:lang="zh">马尔堡 (波兰)</lido:displayPlace>
+                  <lido:place>
+                     <lido:placeID lido:source="geonames" lido:type="uri">https://sws.geonames.org/7531264</lido:placeID>
+                     <lido:placeID lido:source="TGN" lido:type="uri">http://vocab.getty.edu/tgn/7007740</lido:placeID>
+                     <lido:placeID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q146820</lido:placeID>
+                     <lido:placeID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/place/4867</lido:placeID>
+                     <lido:namePlaceSet>
+                        <lido:appellationValue>Marienburg</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ar">مالبورك</lido:appellationValue>
+                        <lido:appellationValue xml:lang="cs">Malbork</lido:appellationValue>
+                        <lido:appellationValue xml:lang="da">Malbork</lido:appellationValue>
+                        <lido:appellationValue xml:lang="de">Marienburg</lido:appellationValue>
+                        <lido:appellationValue xml:lang="el">Μάλμπορκ</lido:appellationValue>
+                        <lido:appellationValue xml:lang="en">Malbork</lido:appellationValue>
+                        <lido:appellationValue xml:lang="es">Malbork</lido:appellationValue>
+                        <lido:appellationValue xml:lang="fa">مالبورک</lido:appellationValue>
+                        <lido:appellationValue xml:lang="fi">Malbork</lido:appellationValue>
+                        <lido:appellationValue xml:lang="fr">Malbork</lido:appellationValue>
+                        <lido:appellationValue xml:lang="hu">Malbork</lido:appellationValue>
+                        <lido:appellationValue xml:lang="id">Malbork</lido:appellationValue>
+                        <lido:appellationValue xml:lang="it">Malbork</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ja">マルボルク</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ko">말보르크</lido:appellationValue>
+                        <lido:appellationValue xml:lang="nl">Malbork</lido:appellationValue>
+                        <lido:appellationValue xml:lang="pl">Malbork</lido:appellationValue>
+                        <lido:appellationValue xml:lang="pt">Malbork</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ro">Malbork</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ru">Мальборк</lido:appellationValue>
+                        <lido:appellationValue xml:lang="sv">Malbork</lido:appellationValue>
+                        <lido:appellationValue xml:lang="th">มัลบอร์ก</lido:appellationValue>
+                        <lido:appellationValue xml:lang="tr">Malbork</lido:appellationValue>
+                        <lido:appellationValue xml:lang="vi">Malbork</lido:appellationValue>
+                        <lido:appellationValue xml:lang="zh">马尔堡 (波兰)</lido:appellationValue>
+                     </lido:namePlaceSet>
+                     <lido:gml>
+                        <gml:Point xmlns:gml="http://www.opengis.net/gml" srsName="EPSG:4326">
+                           <gml:pos>54.033332824707 19.049999237061</gml:pos>
+                        </gml:Point>
+                     </lido:gml>
+                  </lido:place>
+               </lido:eventPlace>
+            </lido:event>
+         </lido:eventSet>
+         <lido:eventSet>
+            <lido:event>
+               <lido:eventType>
+                  <lido:conceptID lido:type="uri">http://terminology.lido-schema.org/lido00003</lido:conceptID>
+                  <lido:term>Event (non-specified)</lido:term>
+               </lido:eventType>
+               <lido:eventMaterialsTech>
+                  <lido:displayMaterialsTech>Kupferstich, Radierung auf dünnem Büttenpapier (aufgeklebt auf Karton)</lido:displayMaterialsTech>
+               </lido:eventMaterialsTech>
+            </lido:event>
+         </lido:eventSet>
+      </lido:eventWrap>
+      <lido:objectRelationWrap>
+         <lido:subjectWrap>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectPlace>
+                     <lido:displayPlace>Malbork</lido:displayPlace>
+                     <lido:displayPlace xml:lang="ar">مالبورك</lido:displayPlace>
+                     <lido:displayPlace xml:lang="cs">Malbork</lido:displayPlace>
+                     <lido:displayPlace xml:lang="da">Malbork</lido:displayPlace>
+                     <lido:displayPlace xml:lang="de">Malbork</lido:displayPlace>
+                     <lido:displayPlace xml:lang="el">Μάλμπορκ</lido:displayPlace>
+                     <lido:displayPlace xml:lang="en">Malbork</lido:displayPlace>
+                     <lido:displayPlace xml:lang="es">Malbork</lido:displayPlace>
+                     <lido:displayPlace xml:lang="fa">مالبورک</lido:displayPlace>
+                     <lido:displayPlace xml:lang="fi">Malbork</lido:displayPlace>
+                     <lido:displayPlace xml:lang="fr">Malbork</lido:displayPlace>
+                     <lido:displayPlace xml:lang="hu">Malbork</lido:displayPlace>
+                     <lido:displayPlace xml:lang="id">Malbork</lido:displayPlace>
+                     <lido:displayPlace xml:lang="it">Malbork</lido:displayPlace>
+                     <lido:displayPlace xml:lang="ja">マルボルク</lido:displayPlace>
+                     <lido:displayPlace xml:lang="ko">말보르크</lido:displayPlace>
+                     <lido:displayPlace xml:lang="nl">Malbork</lido:displayPlace>
+                     <lido:displayPlace xml:lang="pl">Malbork</lido:displayPlace>
+                     <lido:displayPlace xml:lang="pt">Malbork</lido:displayPlace>
+                     <lido:displayPlace xml:lang="ru">Мальборк</lido:displayPlace>
+                     <lido:displayPlace xml:lang="sv">Malbork</lido:displayPlace>
+                     <lido:displayPlace xml:lang="th">มัลบอร์ก</lido:displayPlace>
+                     <lido:displayPlace xml:lang="tr">Malbork</lido:displayPlace>
+                     <lido:displayPlace xml:lang="vi">Malbork</lido:displayPlace>
+                     <lido:displayPlace xml:lang="zh">马尔堡</lido:displayPlace>
+                     <lido:place>
+                        <lido:placeID lido:source="geonames" lido:type="uri">https://sws.geonames.org/3092472</lido:placeID>
+                        <lido:placeID lido:source="TGN" lido:type="uri">http://vocab.getty.edu/tgn/7007740</lido:placeID>
+                        <lido:placeID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4037544-4</lido:placeID>
+                        <lido:placeID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q146820</lido:placeID>
+                        <lido:placeID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/place/35954</lido:placeID>
+                        <lido:namePlaceSet>
+                           <lido:appellationValue>Malbork</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ar">مالبورك</lido:appellationValue>
+                           <lido:appellationValue xml:lang="cs">Malbork</lido:appellationValue>
+                           <lido:appellationValue xml:lang="da">Malbork</lido:appellationValue>
+                           <lido:appellationValue xml:lang="de">Malbork</lido:appellationValue>
+                           <lido:appellationValue xml:lang="el">Μάλμπορκ</lido:appellationValue>
+                           <lido:appellationValue xml:lang="en">Malbork</lido:appellationValue>
+                           <lido:appellationValue xml:lang="es">Malbork</lido:appellationValue>
+                           <lido:appellationValue xml:lang="fa">مالبورک</lido:appellationValue>
+                           <lido:appellationValue xml:lang="fi">Malbork</lido:appellationValue>
+                           <lido:appellationValue xml:lang="fr">Malbork</lido:appellationValue>
+                           <lido:appellationValue xml:lang="hu">Malbork</lido:appellationValue>
+                           <lido:appellationValue xml:lang="id">Malbork</lido:appellationValue>
+                           <lido:appellationValue xml:lang="it">Malbork</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ja">マルボルク</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ko">말보르크</lido:appellationValue>
+                           <lido:appellationValue xml:lang="nl">Malbork</lido:appellationValue>
+                           <lido:appellationValue xml:lang="pl">Malbork</lido:appellationValue>
+                           <lido:appellationValue xml:lang="pt">Malbork</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ru">Мальборк</lido:appellationValue>
+                           <lido:appellationValue xml:lang="sv">Malbork</lido:appellationValue>
+                           <lido:appellationValue xml:lang="th">มัลบอร์ก</lido:appellationValue>
+                           <lido:appellationValue xml:lang="tr">Malbork</lido:appellationValue>
+                           <lido:appellationValue xml:lang="vi">Malbork</lido:appellationValue>
+                           <lido:appellationValue xml:lang="zh">马尔堡</lido:appellationValue>
+                        </lido:namePlaceSet>
+                        <lido:gml>
+                           <gml:Point xmlns:gml="http://www.opengis.net/gml" srsName="EPSG:4326">
+                              <gml:pos>54.030361175537 19.061279296875</gml:pos>
+                           </gml:Point>
+                        </lido:gml>
+                     </lido:place>
+                  </lido:subjectPlace>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="aat" lido:type="uri">http://vocab.getty.edu/aat/300006891</lido:conceptID>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4009104-1</lido:conceptID>
+                     <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh85020702</lido:conceptID>
+                     <lido:conceptID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q23413</lido:conceptID>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Burg</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/791</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Burg</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ar">قلعة</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="cs">Hrad</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="da">Borg</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="de">Burg</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="el">κάστρο</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="en">Castle</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="es">Castillo</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fa">دژ</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fi">Linna</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fr">Château fort</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="he">טירה</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hi">गढ़</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hu">vár</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="id">Kastil</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="it">Castello</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ja">城</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ka">ციხესიმაგრე</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ko">성</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="nl">Burcht</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pl">Zamek</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pt">Castelo</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ro">Castel</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ru">замок</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sv">Borg</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sw">Ngome</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ta">கோட்டையகம்</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="th">ปราสาท</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tr">Kale</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ur">قلعہ</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="vi">Lâu đài</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="zh">城堡</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="aat" lido:type="uri">http://vocab.getty.edu/aat/300020775</lido:conceptID>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4021656-1</lido:conceptID>
+                     <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh85007682</lido:conceptID>
+                     <lido:conceptID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q46825</lido:conceptID>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Gotik</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/3636</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Gotik</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ar">فن قوطي</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="bn">গথিক শিল্প</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="cs">gotika</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="da">Gotik</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="de">Gotik</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="el">Γοτθική τέχνη</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="en">Gothic art</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="es">arte gótico</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fa">هنر گوتیک</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fi">Gotiikan taide</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fr">art gothique</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="he">אמנות גותית</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hi">गोथिक कला</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hu">gótika</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="id">Gotik</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="it">gotico</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ja">ゴシック</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ka">გოთიკა</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ko">고딕 미술</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="nl">gotiek</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pl">gotyk</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pt">Estilo gótico</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ru">готика</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sv">gotik</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ta">கோதிக் கலை</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="th">ศิลปะกอทิก</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tr">Gotik</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="vi">Nghệ thuật Gothic</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="zh">哥特式艺术</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+         </lido:subjectWrap>
+         <lido:relatedWorksWrap/>
+      </lido:objectRelationWrap>
+   </lido:descriptiveMetadata>
+   <lido:administrativeMetadata xml:lang="de">
+      <lido:rightsWorkWrap>
+         <lido:rightsWorkSet>
+            <lido:rightsHolder>
+               <lido:legalBodyName>
+                  <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:rightsHolder>
+         </lido:rightsWorkSet>
+      </lido:rightsWorkWrap>
+      <lido:recordWrap>
+         <lido:recordID lido:type="museum-digital">67358</lido:recordID>
+         <lido:recordType>
+            <lido:term lido:addedSearchTerm="no">item</lido:term>
+         </lido:recordType>
+         <lido:recordSource lido:type="dataProvider">
+            <lido:legalBodyName>
+               <lido:appellationValue>museum-digital</lido:appellationValue>
+            </lido:legalBodyName>
+            <lido:legalBodyWeblink>https://berlin.museum-digital.de/</lido:legalBodyWeblink>
+         </lido:recordSource>
+         <lido:recordSource>
+            <lido:legalBodyID lido:type="isil">DE-B185</lido:legalBodyID>
+            <lido:legalBodyName>
+               <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+            </lido:legalBodyName>
+         </lido:recordSource>
+         <lido:recordRights>
+            <lido:rightsType>
+               <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no">CC BY</lido:term>
+            </lido:rightsType>
+            <lido:rightsHolder>
+               <lido:legalBodyID lido:type="isil">DE-B185</lido:legalBodyID>
+               <lido:legalBodyName>
+                  <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+               </lido:legalBodyName>
+               <lido:legalBodyWeblink>http://geschichte-brandenburg.de/</lido:legalBodyWeblink>
+            </lido:rightsHolder>
+            <lido:creditLine>Förderprogramm zur Digitalisierung von Objekten des kulturellen Erbes des Landes Berlin</lido:creditLine>
+         </lido:recordRights>
+         <lido:recordInfoSet>
+            <lido:recordInfoLink>https://berlin.museum-digital.de/index.php?t=objekt&amp;oges=67358</lido:recordInfoLink>
+            <lido:recordMetadataDate>2021-04-27 07:59:52</lido:recordMetadataDate>
+         </lido:recordInfoSet>
+      </lido:recordWrap>
+      <lido:resourceWrap>
+         <lido:resourceSet lido:sortorder="1">
+            <lido:resourceID lido:source="image" lido:type="local">48901</lido:resourceID>
+            <lido:resourceRepresentation lido:type="masterfile">
+               <lido:linkResource lido:formatResource="image/tiff"/>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_thumb">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/202007/100h_marienburg-in-westpreuSsen-schloss-67358.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_preview">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/202007/200w_marienburg-in-westpreuSsen-schloss-67358.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/202007/marienburg-in-westpreuSsen-schloss-67358.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceType>
+               <lido:term lido:addedSearchTerm="no">image</lido:term>
+            </lido:resourceType>
+            <lido:resourceRelType>
+               <lido:term lido:addedSearchTerm="no">Hauptansicht</lido:term>
+            </lido:resourceRelType>
+            <lido:resourceDescription>Marienburg in Westpreußen: Schloss</lido:resourceDescription>
+            <lido:resourceSource lido:type="creator">
+               <lido:legalBodyName>
+                  <lido:appellationValue>Thomas Voßbeck, 2020</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:resourceSource>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+                  <lido:term lido:addedSearchTerm="no">CC BY</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V.</lido:appellationValue>
+                  </lido:legalBodyName>
+               </lido:rightsHolder>
+               <lido:creditLine>Thomas Voßbeck, 2020</lido:creditLine>
+            </lido:rightsResource>
+         </lido:resourceSet>
+      </lido:resourceWrap>
+   </lido:administrativeMetadata>
+</lido:lido>
+

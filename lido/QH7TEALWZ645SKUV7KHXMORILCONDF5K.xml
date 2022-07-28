@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lido:lido xmlns:lido="http://www.lido-schema.org"
+           xmlns:xalan="http://xml.apache.org/xalan">
+   <lido:lidoRecID lido:source="https://berlin.museum-digital.de/index.php?t=institution&amp;instnr=32"
+                   lido:type="local">DE-B185/67280</lido:lidoRecID>
+   <lido:category/>
+   <lido:descriptiveMetadata xml:lang="de">
+      <lido:objectClassificationWrap>
+         <lido:objectWorkTypeWrap>
+            <lido:objectWorkType>
+               <lido:conceptID lido:source="gnd" lido:type="uri">http://d-nb.info/gnd/4067453-8</lido:conceptID>
+               <lido:conceptID lido:source="grobsystematik" lido:type="uri">https://term.museum-digital.de/grobsystematik/tag/14445</lido:conceptID>
+               <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh85039408</lido:conceptID>
+               <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/945</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Handzeichnung</lido:term>
+            </lido:objectWorkType>
+         </lido:objectWorkTypeWrap>
+         <lido:classificationWrap>
+            <lido:classification lido:type="Sammlung">
+               <lido:conceptID lido:source="local" lido:type="collection_id">705</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Handzeichnungen, Druckgraphik, Gemälde</lido:term>
+            </lido:classification>
+            <lido:classification lido:type="Sammlung">
+               <lido:conceptID lido:source="local" lido:type="collection_id">728</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Sammelwerke</lido:term>
+            </lido:classification>
+            <lido:classification lido:type="Sammlung">
+               <lido:conceptID lido:source="local" lido:type="collection_id">730</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Skizzenbuch Ernst Morgenstern</lido:term>
+            </lido:classification>
+         </lido:classificationWrap>
+      </lido:objectClassificationWrap>
+      <lido:objectIdentificationWrap>
+         <lido:titleWrap>
+            <lido:titleSet>
+               <lido:appellationValue lido:pref="preferred">Unidentifizierter Ort: Fichtenwald hinter Schneefeld (Skizzenbuch Ernst Morgenstern, Beilage)</lido:appellationValue>
+            </lido:titleSet>
+         </lido:titleWrap>
+         <lido:repositoryWrap>
+            <lido:repositorySet lido:type="current">
+               <lido:repositoryName>
+                  <lido:legalBodyID lido:type="isil">DE-B185</lido:legalBodyID>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+                  </lido:legalBodyName>
+                  <lido:legalBodyWeblink>http://geschichte-brandenburg.de/</lido:legalBodyWeblink>
+               </lido:repositoryName>
+               <lido:workID lido:type="inventory number">LGV-Archiv, C 12 H-4-017-32</lido:workID>
+               <lido:repositoryLocation>
+                  <lido:namePlaceSet>
+                     <lido:appellationValue>Berlin</lido:appellationValue>
+                  </lido:namePlaceSet>
+                  <lido:gml>
+                     <gml:Point xmlns:gml="http://www.opengis.net/gml" srsName="EPSG:4326">
+                        <gml:pos>52.51533127 13.40440559</gml:pos>
+                     </gml:Point>
+                  </lido:gml>
+               </lido:repositoryLocation>
+            </lido:repositorySet>
+         </lido:repositoryWrap>
+         <lido:objectDescriptionWrap>
+            <lido:objectDescriptionSet>
+               <lido:descriptiveNoteValue>Das Blatt gehört zu den lose dem Skizzenbuch beigelegten Blättern, offenbar eine Auswahl aus anderen aufgelösten Skizzenbüchern. Ebenso wie das vorhergehende stammt es offenbar von einer Winterreise ins Mittelgebirge.
+
+Bez. li. u. "1. 10".</lido:descriptiveNoteValue>
+               <lido:sourceDescriptiveNote>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:sourceDescriptiveNote>
+            </lido:objectDescriptionSet>
+         </lido:objectDescriptionWrap>
+         <lido:objectMeasurementsWrap>
+            <lido:objectMeasurementsSet>
+               <lido:displayObjectMeasurements>Blattgröße: Höhe 12 cm, Breite 16,7 cm</lido:displayObjectMeasurements>
+               <lido:objectMeasurements/>
+            </lido:objectMeasurementsSet>
+         </lido:objectMeasurementsWrap>
+      </lido:objectIdentificationWrap>
+      <lido:eventWrap>
+         <lido:eventSet>
+            <lido:event>
+               <lido:eventType>
+                  <lido:conceptID lido:type="uri">https://event-types.museum-digital.org/19</lido:conceptID>
+                  <lido:term lido:addedSearchTerm="no">Gezeichnet</lido:term>
+               </lido:eventType>
+               <lido:eventActor>
+                  <lido:displayActorInRole>Ernst Morgenstern (1851-1919)</lido:displayActorInRole>
+                  <lido:actorInRole>
+                     <lido:actor>
+                        <lido:actorID lido:source="gnd" lido:type="uri">http://d-nb.info/gnd/116916141</lido:actorID>
+                        <lido:actorID lido:source="viaf" lido:type="uri">https://viaf.org/viaf/316023167</lido:actorID>
+                        <lido:actorID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q94878242</lido:actorID>
+                        <lido:actorID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/persinst/125031</lido:actorID>
+                        <lido:nameActorSet>
+                           <lido:appellationValue>Morgenstern, Ernst</lido:appellationValue>
+                           <lido:appellationValue xml:lang="de">Ernst Morgenstern</lido:appellationValue>
+                        </lido:nameActorSet>
+                        <lido:vitalDatesActor>
+                           <lido:earliestDate>1851</lido:earliestDate>
+                           <lido:latestDate>1919</lido:latestDate>
+                        </lido:vitalDatesActor>
+                     </lido:actor>
+                  </lido:actorInRole>
+               </lido:eventActor>
+               <lido:eventDate>
+                  <lido:displayDate>Januar 1910</lido:displayDate>
+                  <lido:displayDate xml:lang="ar">01/1910</lido:displayDate>
+                  <lido:displayDate xml:lang="de">Januar 1910</lido:displayDate>
+                  <lido:displayDate xml:lang="en">January 1910</lido:displayDate>
+                  <lido:displayDate xml:lang="es">enero 1910</lido:displayDate>
+                  <lido:displayDate xml:lang="fa">ژانویه 1910</lido:displayDate>
+                  <lido:displayDate xml:lang="fr">janvier 1910</lido:displayDate>
+                  <lido:displayDate xml:lang="hu">1910. január</lido:displayDate>
+                  <lido:displayDate xml:lang="id">Januari 1910</lido:displayDate>
+                  <lido:displayDate xml:lang="it">gennaio 1910</lido:displayDate>
+                  <lido:displayDate xml:lang="ja">1910年01月</lido:displayDate>
+                  <lido:displayDate xml:lang="ka">იანვარი 1910</lido:displayDate>
+                  <lido:displayDate xml:lang="ko">1910년 01월</lido:displayDate>
+                  <lido:displayDate xml:lang="pl">styczeń 1910</lido:displayDate>
+                  <lido:displayDate xml:lang="pt">janeiro 1910</lido:displayDate>
+                  <lido:displayDate xml:lang="ro">ianuarie 1910</lido:displayDate>
+                  <lido:displayDate xml:lang="ru">Январь 1910</lido:displayDate>
+                  <lido:displayDate xml:lang="ta">ஜனவரி 1910</lido:displayDate>
+                  <lido:displayDate xml:lang="tl">Enero 1910</lido:displayDate>
+                  <lido:displayDate xml:lang="tr">Ocak 1910</lido:displayDate>
+                  <lido:displayDate xml:lang="zh">1910年01月</lido:displayDate>
+                  <lido:date>
+                     <lido:earliestDate>1910</lido:earliestDate>
+                     <lido:latestDate>1910</lido:latestDate>
+                  </lido:date>
+               </lido:eventDate>
+            </lido:event>
+         </lido:eventSet>
+         <lido:eventSet>
+            <lido:event>
+               <lido:eventType>
+                  <lido:conceptID lido:type="uri">http://terminology.lido-schema.org/lido00003</lido:conceptID>
+                  <lido:term>Event (non-specified)</lido:term>
+               </lido:eventType>
+               <lido:eventMaterialsTech>
+                  <lido:displayMaterialsTech>Bleistift auf Papier</lido:displayMaterialsTech>
+               </lido:eventMaterialsTech>
+            </lido:event>
+         </lido:eventSet>
+      </lido:eventWrap>
+      <lido:objectRelationWrap>
+         <lido:subjectWrap>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="aat" lido:type="uri">http://vocab.getty.edu/aat/300132451</lido:conceptID>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4064354-2</lido:conceptID>
+                     <lido:conceptID lido:source="iconclass" lido:type="uri">http://iconclass.org/rkd/25HH15/</lido:conceptID>
+                     <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh85050707</lido:conceptID>
+                     <lido:conceptID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q4421</lido:conceptID>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Wald</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/18</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Wald</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ar">غابة</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="bn">অরণ্য</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="cs">Les</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="da">Skov</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="de">Wald</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="el">δάσος</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="en">Forest</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="es">Bosque</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fa">جنگل</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fi">Metsä</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fr">Forêt</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="he">יער</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hi">वन</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hu">erdő</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="id">Hutan</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="it">Foresta</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ja">森林</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ka">ტყე</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ko">숲</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="nl">Bos</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pl">Las</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pt">Floresta</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ru">лес</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sv">Skog</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sw">Msitu</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ta">காடு</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="th">ป่าไม้</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tl">Gubat</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tr">Orman</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ur">جنگل</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="vi">rừng</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="zh">森林</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="aat" lido:type="uri">http://vocab.getty.edu/aat/300133101</lido:conceptID>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4066326-7</lido:conceptID>
+                     <lido:conceptID lido:source="lcsh" lido:type="uri">https://id.loc.gov/authorities/subjects/sh85147029</lido:conceptID>
+                     <lido:conceptID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q1311</lido:conceptID>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Winter</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/269</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Winter</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ar">شتاء</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="bn">শীত</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="cs">Zima</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="da">Vinter</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="de">Winter</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="el">χειμώνας</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="en">Winter</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="es">Invierno</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fa">زمستان</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fi">Talvi</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fr">Hiver</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="he">חורף</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hi">शीत ऋतु</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hu">tél</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="id">Musim dingin</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="it">Inverno</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ja">冬</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ka">ზამთარი</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ko">겨울</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="nl">Winter</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pl">Zima</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pt">Inverno</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ro">iarnă</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ru">зима</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sv">Vinter</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sw">majira ya baridi</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ta">குளிர்காலம்</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="th">ฤดูหนาว</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tl">Taglamig</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tr">Kış</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ur">موسم سرما</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="vi">mùa đông</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="zh">冬季</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">http://d-nb.info/gnd/4055251-2</lido:conceptID>
+                     <lido:conceptID lido:source="grobsystematik" lido:type="uri">https://term.museum-digital.de/grobsystematik/tag/11351</lido:conceptID>
+                     <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh99001967</lido:conceptID>
+                     <lido:conceptID lido:source="oberbegriffsdatei" lido:type="uri">https://term.museum-digital.de/oberbegriffsdatei/tag/4031</lido:conceptID>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Skizzenbuch</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/21588</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Skizzenbuch</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+         </lido:subjectWrap>
+         <lido:relatedWorksWrap/>
+      </lido:objectRelationWrap>
+   </lido:descriptiveMetadata>
+   <lido:administrativeMetadata xml:lang="de">
+      <lido:rightsWorkWrap>
+         <lido:rightsWorkSet>
+            <lido:rightsHolder>
+               <lido:legalBodyName>
+                  <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:rightsHolder>
+         </lido:rightsWorkSet>
+      </lido:rightsWorkWrap>
+      <lido:recordWrap>
+         <lido:recordID lido:type="museum-digital">67280</lido:recordID>
+         <lido:recordType>
+            <lido:term lido:addedSearchTerm="no">item</lido:term>
+         </lido:recordType>
+         <lido:recordSource lido:type="dataProvider">
+            <lido:legalBodyName>
+               <lido:appellationValue>museum-digital</lido:appellationValue>
+            </lido:legalBodyName>
+            <lido:legalBodyWeblink>https://berlin.museum-digital.de/</lido:legalBodyWeblink>
+         </lido:recordSource>
+         <lido:recordSource>
+            <lido:legalBodyID lido:type="isil">DE-B185</lido:legalBodyID>
+            <lido:legalBodyName>
+               <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+            </lido:legalBodyName>
+         </lido:recordSource>
+         <lido:recordRights>
+            <lido:rightsType>
+               <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no">CC BY</lido:term>
+            </lido:rightsType>
+            <lido:rightsHolder>
+               <lido:legalBodyID lido:type="isil">DE-B185</lido:legalBodyID>
+               <lido:legalBodyName>
+                  <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+               </lido:legalBodyName>
+               <lido:legalBodyWeblink>http://geschichte-brandenburg.de/</lido:legalBodyWeblink>
+            </lido:rightsHolder>
+            <lido:creditLine>Förderprogramm zur Digitalisierung von Objekten des kulturellen Erbes des Landes Berlin</lido:creditLine>
+         </lido:recordRights>
+         <lido:recordInfoSet>
+            <lido:recordInfoLink>https://berlin.museum-digital.de/index.php?t=objekt&amp;oges=67280</lido:recordInfoLink>
+            <lido:recordMetadataDate>2021-04-27 07:59:53</lido:recordMetadataDate>
+         </lido:recordInfoSet>
+      </lido:recordWrap>
+      <lido:resourceWrap>
+         <lido:resourceSet lido:sortorder="1">
+            <lido:resourceID lido:source="image" lido:type="local">48988</lido:resourceID>
+            <lido:resourceRepresentation lido:type="masterfile">
+               <lido:linkResource lido:formatResource="image/tiff"/>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_thumb">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/32/67280-lgv-archiv_c_12_h-4-017-32/unidentifizierter_ort_fic/100h_unidentifizierter-ort-fichtenwald-hinter-schneefeld-skizzenbuch-ernst-morgenstern-beilage.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_preview">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/32/67280-lgv-archiv_c_12_h-4-017-32/unidentifizierter_ort_fic/200w_unidentifizierter-ort-fichtenwald-hinter-schneefeld-skizzenbuch-ernst-morgenstern-beilage.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/32/67280-lgv-archiv_c_12_h-4-017-32/unidentifizierter_ort_fic/unidentifizierter-ort-fichtenwald-hinter-schneefeld-skizzenbuch-ernst-morgenstern-beilage.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceType>
+               <lido:term lido:addedSearchTerm="no">image</lido:term>
+            </lido:resourceType>
+            <lido:resourceRelType>
+               <lido:term lido:addedSearchTerm="no">Hauptansicht</lido:term>
+            </lido:resourceRelType>
+            <lido:resourceDescription/>
+            <lido:resourceSource lido:type="creator">
+               <lido:legalBodyName>
+                  <lido:appellationValue>Thomas Voßbeck, 2020</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:resourceSource>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+                  <lido:term lido:addedSearchTerm="no">CC BY</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V.</lido:appellationValue>
+                  </lido:legalBodyName>
+               </lido:rightsHolder>
+               <lido:creditLine>Thomas Voßbeck, 2020</lido:creditLine>
+            </lido:rightsResource>
+         </lido:resourceSet>
+      </lido:resourceWrap>
+   </lido:administrativeMetadata>
+</lido:lido>
+

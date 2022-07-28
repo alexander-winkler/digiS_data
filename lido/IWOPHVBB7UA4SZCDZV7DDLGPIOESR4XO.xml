@@ -1,0 +1,465 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lido:lido xmlns:lido="http://www.lido-schema.org"
+           xmlns:xalan="http://xml.apache.org/xalan">
+   <lido:lidoRecID lido:source="https://berlin.museum-digital.de/index.php?t=institution&amp;instnr=32"
+                   lido:type="local">DE-B185/66884</lido:lidoRecID>
+   <lido:category/>
+   <lido:descriptiveMetadata xml:lang="de">
+      <lido:objectClassificationWrap>
+         <lido:objectWorkTypeWrap>
+            <lido:objectWorkType>
+               <lido:conceptID lido:source="gnd" lido:type="uri">http://d-nb.info/gnd/4021845-4</lido:conceptID>
+               <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/13314</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Druckgraphik</lido:term>
+            </lido:objectWorkType>
+         </lido:objectWorkTypeWrap>
+         <lido:classificationWrap>
+            <lido:classification lido:type="Sammlung">
+               <lido:conceptID lido:source="local" lido:type="collection_id">705</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Handzeichnungen, Druckgraphik, Gemälde</lido:term>
+            </lido:classification>
+            <lido:classification lido:type="Sammlung">
+               <lido:conceptID lido:source="local" lido:type="collection_id">710</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Porträts</lido:term>
+            </lido:classification>
+         </lido:classificationWrap>
+      </lido:objectClassificationWrap>
+      <lido:objectIdentificationWrap>
+         <lido:titleWrap>
+            <lido:titleSet>
+               <lido:appellationValue lido:pref="preferred">Streit, Sigismund (1687-1775), Kauf- und Handelsmann in Venedig</lido:appellationValue>
+            </lido:titleSet>
+         </lido:titleWrap>
+         <lido:repositoryWrap>
+            <lido:repositorySet lido:type="current">
+               <lido:repositoryName>
+                  <lido:legalBodyID lido:type="isil">DE-B185</lido:legalBodyID>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+                  </lido:legalBodyName>
+                  <lido:legalBodyWeblink>http://geschichte-brandenburg.de/</lido:legalBodyWeblink>
+               </lido:repositoryName>
+               <lido:workID lido:type="inventory number">LGV-Archiv, C 12 G-2-004</lido:workID>
+               <lido:repositoryLocation>
+                  <lido:namePlaceSet>
+                     <lido:appellationValue>Berlin</lido:appellationValue>
+                  </lido:namePlaceSet>
+                  <lido:gml>
+                     <gml:Point xmlns:gml="http://www.opengis.net/gml" srsName="EPSG:4326">
+                        <gml:pos>52.51533127 13.40440559</gml:pos>
+                     </gml:Point>
+                  </lido:gml>
+               </lido:repositoryLocation>
+            </lido:repositorySet>
+         </lido:repositoryWrap>
+         <lido:objectDescriptionWrap>
+            <lido:objectDescriptionSet>
+               <lido:descriptiveNoteValue>Der aus Berlin stammende kinderlose Sigismund Streit vermachte sein als Kaufmann in Venedig erlangtes Vermögen nebst Gemälden und Büchern seiner Berliner Schule, dem Berlinischen Gymnasium zum Grauen Kloster. Die "Streitsche Stiftung" betreut noch heute die historischen Sammlungen (Bibliothek und Archiv) des ehemaligen Gymnasiums. Der Porträtstich von Joseph Wagner (1706-1780) angeblich lt. Bezeichnung nach Jacopo Amigoni (um 1682-1752), woran jedoch mit Recht gezweifelt wird, existiert in Drucken aus sehr verschiedenen Zeiträumen, aber jeweils nach derselben Orginalplatte. "Die Kupferplatte gab Streit nach Januar 1760 in Auftrag; sie kam 1763 nach Berlin." (Knackmuß/Rohrlach, S. 2). Nach dieser Platte, die sich noch heute im Besitz der Streitschen Stiftung befindet, sind nach deren Auskunft noch bis in das 19. Jh. (in Berlin) Exemplare hergestellt worden und u.a. als Geschenk zu besonderen Anlässen überreicht worden. Um einen solchen nicht zeitgenössischen Druck von der Originalplatte handelt es sich offenbar bei dem hier präsentierten Exemplar.&#xD;
+&#xD;
+Bez. unter der Darstellung li.: "Amiconi pinx:", re.: "J. Wagner sculp:"&#xD;
+Darunter Text von Carl Jäck, ab der 2. Zeile beiderseits des Wappens des Porträtierten: "Herr Sigismund Streit / Vornehmer Kauf und Handelsman in Venedig / Geboren in Berlin 1687 den 13 April / gestorben in Padua 1775 den 19 Decb: / dahin Er, nach aufgebung seiner vieljährigen / allezeit rühmlich geführten Handlung / in Venedig, sein Leben in / Ruhe zu endigen, sich begeben. / sein leichnam ist auf der Insel S.t C.hristoph bey Venedig, / auf dem kirchhof der Protestant: Deutschen begraben."&#xD;
+Darunter li. klein: "Carl Jäck Scrip: et Sculp:"&#xD;
+Altbestand des Archivs.&#xD;
+&#xD;
+Literatur zu Sigismund Streit: Peter P. Rohrlach: Siegmund Streit und seine Stiftung. In: Blick auf den Canal Grande. Venedig und die Sammlung des Berliner Kaufmanns Siegmund Streit. Ausstellungskatalog. Berlin 2002, S. 8-16. - Susanne Knackmuß, Peter P. Rohrlach (Hrsg.): Die Streitsche Stiftung zu Berlin. Berlin 2008, S. 208-</lido:descriptiveNoteValue>
+               <lido:sourceDescriptiveNote>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:sourceDescriptiveNote>
+            </lido:objectDescriptionSet>
+         </lido:objectDescriptionWrap>
+         <lido:objectMeasurementsWrap>
+            <lido:objectMeasurementsSet>
+               <lido:displayObjectMeasurements>Blattgröße: Höhe 55 cm, Breite 39 cm ; Plattengröße: Höhe 42 cm, Breite 29 cm</lido:displayObjectMeasurements>
+               <lido:objectMeasurements/>
+            </lido:objectMeasurementsSet>
+         </lido:objectMeasurementsWrap>
+      </lido:objectIdentificationWrap>
+      <lido:eventWrap>
+         <lido:eventSet>
+            <lido:event>
+               <lido:eventType>
+                  <lido:conceptID lido:type="uri">https://event-types.museum-digital.org/1</lido:conceptID>
+                  <lido:term lido:addedSearchTerm="no">Hergestellt</lido:term>
+               </lido:eventType>
+               <lido:eventActor>
+                  <lido:displayActorInRole>Joseph Wagner (1706-1780)</lido:displayActorInRole>
+                  <lido:actorInRole>
+                     <lido:actor>
+                        <lido:actorID lido:source="NDB/ADB" lido:type="uri">https://www.deutsche-biographie.de/pnd121772624.html#adbcontent</lido:actorID>
+                        <lido:actorID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Joseph_Wagner_(Kupferstecher)</lido:actorID>
+                        <lido:actorID lido:source="bnf" lido:type="uri">https://catalogue.bnf.fr/ark:/12148/cb149621515</lido:actorID>
+                        <lido:actorID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/121772624</lido:actorID>
+                        <lido:actorID lido:source="loc" lido:type="uri">http://id.loc.gov/authorities/names/nr2001036595</lido:actorID>
+                        <lido:actorID lido:source="npg" lido:type="uri">https://www.npg.org.uk/collections/search/person/mp63804</lido:actorID>
+                        <lido:actorID lido:source="rkd" lido:type="uri">https://rkd.nl/explore/artists/82448</lido:actorID>
+                        <lido:actorID lido:source="ulan" lido:type="uri">http://vocab.getty.edu/ulan/500020794</lido:actorID>
+                        <lido:actorID lido:source="viaf" lido:type="uri">https://viaf.org/viaf/17494731</lido:actorID>
+                        <lido:actorID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q11728479</lido:actorID>
+                        <lido:actorID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/persinst/48885</lido:actorID>
+                        <lido:nameActorSet>
+                           <lido:appellationValue>Wagner, Joseph</lido:appellationValue>
+                           <lido:appellationValue xml:lang="de">Joseph Wagner</lido:appellationValue>
+                           <lido:appellationValue xml:lang="en">Joseph Wagner</lido:appellationValue>
+                           <lido:appellationValue xml:lang="it">Joseph Wagner</lido:appellationValue>
+                           <lido:appellationValue xml:lang="nl">Joseph Wagner</lido:appellationValue>
+                           <lido:appellationValue xml:lang="pl">Joseph Wagner</lido:appellationValue>
+                        </lido:nameActorSet>
+                        <lido:vitalDatesActor>
+                           <lido:earliestDate>1706</lido:earliestDate>
+                           <lido:latestDate>1780</lido:latestDate>
+                        </lido:vitalDatesActor>
+                     </lido:actor>
+                  </lido:actorInRole>
+               </lido:eventActor>
+               <lido:eventDate>
+                  <lido:displayDate>1761</lido:displayDate>
+                  <lido:displayDate xml:lang="ar">1761</lido:displayDate>
+                  <lido:displayDate xml:lang="de">1761</lido:displayDate>
+                  <lido:displayDate xml:lang="en">1761</lido:displayDate>
+                  <lido:displayDate xml:lang="es">1761</lido:displayDate>
+                  <lido:displayDate xml:lang="fa">1761</lido:displayDate>
+                  <lido:displayDate xml:lang="fr">1761</lido:displayDate>
+                  <lido:displayDate xml:lang="hu">1761</lido:displayDate>
+                  <lido:displayDate xml:lang="id">1761</lido:displayDate>
+                  <lido:displayDate xml:lang="it">1761</lido:displayDate>
+                  <lido:displayDate xml:lang="ja">1761年</lido:displayDate>
+                  <lido:displayDate xml:lang="ka">1761</lido:displayDate>
+                  <lido:displayDate xml:lang="ko">1761년</lido:displayDate>
+                  <lido:displayDate xml:lang="pl">1761</lido:displayDate>
+                  <lido:displayDate xml:lang="pt">1761</lido:displayDate>
+                  <lido:displayDate xml:lang="ro">1761</lido:displayDate>
+                  <lido:displayDate xml:lang="ru">1761</lido:displayDate>
+                  <lido:displayDate xml:lang="ta">1761</lido:displayDate>
+                  <lido:displayDate xml:lang="tl">1761</lido:displayDate>
+                  <lido:displayDate xml:lang="tr">1761</lido:displayDate>
+                  <lido:displayDate xml:lang="zh">1761年</lido:displayDate>
+                  <lido:date>
+                     <lido:earliestDate>1761</lido:earliestDate>
+                     <lido:latestDate>1761</lido:latestDate>
+                  </lido:date>
+               </lido:eventDate>
+               <lido:eventPlace>
+                  <lido:displayPlace>Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ar">برلين</lido:displayPlace>
+                  <lido:displayPlace xml:lang="bn">বার্লিন</lido:displayPlace>
+                  <lido:displayPlace xml:lang="cs">Berlín</lido:displayPlace>
+                  <lido:displayPlace xml:lang="da">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="de">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="el">Βερολίνο</lido:displayPlace>
+                  <lido:displayPlace xml:lang="en">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="es">Berlín</lido:displayPlace>
+                  <lido:displayPlace xml:lang="fa">برلین</lido:displayPlace>
+                  <lido:displayPlace xml:lang="fi">Berliini</lido:displayPlace>
+                  <lido:displayPlace xml:lang="fr">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ha">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="he">ברלין</lido:displayPlace>
+                  <lido:displayPlace xml:lang="hi">बर्लिन</lido:displayPlace>
+                  <lido:displayPlace xml:lang="hu">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="id">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="it">Berlino</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ja">ベルリン</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ka">ბერლინი</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ko">베를린</lido:displayPlace>
+                  <lido:displayPlace xml:lang="nl">Berlijn</lido:displayPlace>
+                  <lido:displayPlace xml:lang="pl">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="pt">Berlim</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ro">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ru">Берлин</lido:displayPlace>
+                  <lido:displayPlace xml:lang="sv">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="sw">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ta">பெர்லின்</lido:displayPlace>
+                  <lido:displayPlace xml:lang="th">เบอร์ลิน</lido:displayPlace>
+                  <lido:displayPlace xml:lang="tl">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="tr">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ur">برلن</lido:displayPlace>
+                  <lido:displayPlace xml:lang="vi">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="zh">柏林</lido:displayPlace>
+                  <lido:place>
+                     <lido:placeID lido:source="geonames" lido:type="uri">https://sws.geonames.org/2950159</lido:placeID>
+                     <lido:placeID lido:source="TGN" lido:type="uri">http://vocab.getty.edu/tgn/7209904</lido:placeID>
+                     <lido:placeID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4005728-8</lido:placeID>
+                     <lido:placeID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q64</lido:placeID>
+                     <lido:placeID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/place/61</lido:placeID>
+                     <lido:namePlaceSet>
+                        <lido:appellationValue>Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ar">برلين</lido:appellationValue>
+                        <lido:appellationValue xml:lang="bn">বার্লিন</lido:appellationValue>
+                        <lido:appellationValue xml:lang="cs">Berlín</lido:appellationValue>
+                        <lido:appellationValue xml:lang="da">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="de">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="el">Βερολίνο</lido:appellationValue>
+                        <lido:appellationValue xml:lang="en">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="es">Berlín</lido:appellationValue>
+                        <lido:appellationValue xml:lang="fa">برلین</lido:appellationValue>
+                        <lido:appellationValue xml:lang="fi">Berliini</lido:appellationValue>
+                        <lido:appellationValue xml:lang="fr">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ha">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="he">ברלין</lido:appellationValue>
+                        <lido:appellationValue xml:lang="hi">बर्लिन</lido:appellationValue>
+                        <lido:appellationValue xml:lang="hu">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="id">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="it">Berlino</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ja">ベルリン</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ka">ბერლინი</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ko">베를린</lido:appellationValue>
+                        <lido:appellationValue xml:lang="nl">Berlijn</lido:appellationValue>
+                        <lido:appellationValue xml:lang="pl">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="pt">Berlim</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ro">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ru">Берлин</lido:appellationValue>
+                        <lido:appellationValue xml:lang="sv">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="sw">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ta">பெர்லின்</lido:appellationValue>
+                        <lido:appellationValue xml:lang="th">เบอร์ลิน</lido:appellationValue>
+                        <lido:appellationValue xml:lang="tl">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="tr">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ur">برلن</lido:appellationValue>
+                        <lido:appellationValue xml:lang="vi">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="zh">柏林</lido:appellationValue>
+                     </lido:namePlaceSet>
+                     <lido:gml>
+                        <gml:Point xmlns:gml="http://www.opengis.net/gml" srsName="EPSG:4326">
+                           <gml:pos>52.516666412354 13.383333206177</gml:pos>
+                        </gml:Point>
+                     </lido:gml>
+                  </lido:place>
+               </lido:eventPlace>
+            </lido:event>
+         </lido:eventSet>
+         <lido:eventSet>
+            <lido:event>
+               <lido:eventType>
+                  <lido:conceptID lido:type="uri">http://terminology.lido-schema.org/lido00003</lido:conceptID>
+                  <lido:term>Event (non-specified)</lido:term>
+               </lido:eventType>
+               <lido:eventMaterialsTech>
+                  <lido:displayMaterialsTech>Kupferstich auf festem Kupferdruckpapier mit vollem Rand</lido:displayMaterialsTech>
+               </lido:eventMaterialsTech>
+            </lido:event>
+         </lido:eventSet>
+      </lido:eventWrap>
+      <lido:objectRelationWrap>
+         <lido:subjectWrap>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="aat" lido:type="uri">http://vocab.getty.edu/aat/300015637</lido:conceptID>
+                     <lido:conceptID lido:source="iconclass" lido:type="uri">http://iconclass.org/rkd/61B11/</lido:conceptID>
+                     <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh99001681</lido:conceptID>
+                     <lido:conceptID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q134307</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/22</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Porträt</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ar">بورتريه</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="cs">Portrét</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="da">Portræt</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="de">Porträt</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="el">προσωπογραφία</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="en">Portrait</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="es">Retrato</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fa">چهره‌نگاری</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fi">Muotokuva</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fr">Portrait</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="he">דיוקן</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hi">चित्र</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hu">arckép</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="id">Potret</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="it">Ritratto</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ja">肖像</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ka">პორტრეტი</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ko">초상</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="nl">Portret</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pl">Portret</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pt">Retrato</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ro">portret</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ru">портрет</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sv">Porträtt</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="th">ภาพเหมือน</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tr">Portre</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="zh">肖像</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="aat" lido:type="uri">http://vocab.getty.edu/aat/300021147</lido:conceptID>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4004541-9</lido:conceptID>
+                     <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh85008345</lido:conceptID>
+                     <lido:conceptID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q37853</lido:conceptID>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Barock</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/1842</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Barock</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ar">باروكية</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="bn">বারোক</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="cs">Baroko</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="da">Barokken</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="de">Barock</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="el">μπαρόκ</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="en">Baroque</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="es">Barroco</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fa">باروک</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fi">Barokki</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fr">Baroque</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="he">בארוק</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hi">बरॉक</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hu">barokk</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="id">Barok</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="it">Barocco</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ja">バロック</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ka">ბაროკო</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ko">바로크</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="nl">Barok</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pl">Barok</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pt">Barroco</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ro">baroc</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ru">барокко</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sv">Barocken</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sw">Baroko</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ta">பரோக்</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="th">บารอก</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tl">Istilong Baroque</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tr">Barok</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ur">باروکے ادب</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="vi">Baroque</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="zh">巴洛克艺术</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4057542-1</lido:conceptID>
+                     <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh85051049.html</lido:conceptID>
+                     <lido:conceptID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q157031</lido:conceptID>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Stiftung</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/3847</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Stiftung</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ar">مؤسسة</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="cs">Nadace</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="da">Fond</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="de">Stiftung</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="el">ίδρυμα</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="en">Foundation</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="es">Fundación</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fa">بنیاد</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fr">Fondation</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="he">קרן פילנתרופית</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hi">निधिसंस्था (लाभनिरपेक्ष)</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hu">alapítvány</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="id">Yayasan</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="it">Fondazione</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ka">ფონდი</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ko">재단법인</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="nl">Stichting</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pl">Fundacja</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pt">Fundação</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ro">fundație</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ru">фонд</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sv">Stiftelse</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tr">Vakıf</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="vi">quỹ</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="zh">基金会</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+         </lido:subjectWrap>
+         <lido:relatedWorksWrap>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:displayObject>Link zum Dargestellten:</lido:displayObject>
+                  <lido:object>
+                     <lido:objectWebResource>https://de.wikipedia.org/wiki/Sigismund_Streit</lido:objectWebResource>
+                  </lido:object>
+               </lido:relatedWork>
+            </lido:relatedWorkSet>
+         </lido:relatedWorksWrap>
+      </lido:objectRelationWrap>
+   </lido:descriptiveMetadata>
+   <lido:administrativeMetadata xml:lang="de">
+      <lido:rightsWorkWrap>
+         <lido:rightsWorkSet>
+            <lido:rightsHolder>
+               <lido:legalBodyName>
+                  <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:rightsHolder>
+         </lido:rightsWorkSet>
+      </lido:rightsWorkWrap>
+      <lido:recordWrap>
+         <lido:recordID lido:type="museum-digital">66884</lido:recordID>
+         <lido:recordType>
+            <lido:term lido:addedSearchTerm="no">item</lido:term>
+         </lido:recordType>
+         <lido:recordSource lido:type="dataProvider">
+            <lido:legalBodyName>
+               <lido:appellationValue>museum-digital</lido:appellationValue>
+            </lido:legalBodyName>
+            <lido:legalBodyWeblink>https://berlin.museum-digital.de/</lido:legalBodyWeblink>
+         </lido:recordSource>
+         <lido:recordSource>
+            <lido:legalBodyID lido:type="isil">DE-B185</lido:legalBodyID>
+            <lido:legalBodyName>
+               <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+            </lido:legalBodyName>
+         </lido:recordSource>
+         <lido:recordRights>
+            <lido:rightsType>
+               <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no">CC BY</lido:term>
+            </lido:rightsType>
+            <lido:rightsHolder>
+               <lido:legalBodyID lido:type="isil">DE-B185</lido:legalBodyID>
+               <lido:legalBodyName>
+                  <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+               </lido:legalBodyName>
+               <lido:legalBodyWeblink>http://geschichte-brandenburg.de/</lido:legalBodyWeblink>
+            </lido:rightsHolder>
+            <lido:creditLine>Förderprogramm zur Digitalisierung von Objekten des kulturellen Erbes des Landes Berlin</lido:creditLine>
+         </lido:recordRights>
+         <lido:recordInfoSet>
+            <lido:recordInfoLink>https://berlin.museum-digital.de/index.php?t=objekt&amp;oges=66884</lido:recordInfoLink>
+            <lido:recordMetadataDate>2021-04-27 07:59:56</lido:recordMetadataDate>
+         </lido:recordInfoSet>
+      </lido:recordWrap>
+      <lido:resourceWrap>
+         <lido:resourceSet lido:sortorder="1">
+            <lido:resourceID lido:source="image" lido:type="local">48470</lido:resourceID>
+            <lido:resourceRepresentation lido:type="masterfile">
+               <lido:linkResource lido:formatResource="image/tiff"/>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_thumb">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/202007/100h_streit-sigismund-1687-1775-kauf-und-handelsmann-in-venedig-66884.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_preview">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/202007/200w_streit-sigismund-1687-1775-kauf-und-handelsmann-in-venedig-66884.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/202007/streit-sigismund-1687-1775-kauf-und-handelsmann-in-venedig-66884.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceType>
+               <lido:term lido:addedSearchTerm="no">image</lido:term>
+            </lido:resourceType>
+            <lido:resourceRelType>
+               <lido:term lido:addedSearchTerm="no">Hauptansicht</lido:term>
+            </lido:resourceRelType>
+            <lido:resourceDescription>Streit, Sigismund (1687-1775), Kauf- und Handelsmann in Venedig</lido:resourceDescription>
+            <lido:resourceSource lido:type="creator">
+               <lido:legalBodyName>
+                  <lido:appellationValue>Thomas Voßbeck, 2020</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:resourceSource>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+                  <lido:term lido:addedSearchTerm="no">CC BY</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V.</lido:appellationValue>
+                  </lido:legalBodyName>
+               </lido:rightsHolder>
+               <lido:creditLine>Thomas Voßbeck, 2020</lido:creditLine>
+            </lido:rightsResource>
+         </lido:resourceSet>
+      </lido:resourceWrap>
+   </lido:administrativeMetadata>
+</lido:lido>
+

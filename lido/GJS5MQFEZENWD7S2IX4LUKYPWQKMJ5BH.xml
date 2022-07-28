@@ -1,0 +1,2207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lido:lido xmlns:gml="http://www.opengis.net/gml"
+           xmlns:lido="http://www.lido-schema.org"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <lido:lidoRecID lido:source="https://berlin.museum-digital.de/index.php?t=institution&amp;instnr=21"
+                   lido:type="local">DE-MUS-061525/66203</lido:lidoRecID>
+   <lido:descriptiveMetadata xml:lang="de">
+      <lido:objectClassificationWrap>
+         <lido:objectWorkTypeWrap>
+            <lido:objectWorkType>
+               <lido:conceptID lido:source="gnd" lido:type="uri">http://d-nb.info/gnd/4164176-0</lido:conceptID>
+               <lido:conceptID lido:source="grobsystematik" lido:type="uri">https://term.museum-digital.de/grobsystematik/tag/13321</lido:conceptID>
+               <lido:conceptID lido:source="oberbegriffsdatei" lido:type="uri">https://term.museum-digital.de/oberbegriffsdatei/tag/2036</lido:conceptID>
+               <lido:conceptID lido:source="aat" lido:type="uri">http://vocab.getty.edu/aat/300041575</lido:conceptID>
+               <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh85027100</lido:conceptID>
+               <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/1331</lido:conceptID>
+               <lido:term>Uhr</lido:term>
+            </lido:objectWorkType>
+         </lido:objectWorkTypeWrap>
+         <lido:classificationWrap>
+            <lido:classification lido:type="Sammlung">
+               <lido:conceptID lido:source="local" lido:type="collection_id">624</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no">Musikaliensammlung</lido:term>
+            </lido:classification>
+         </lido:classificationWrap>
+      </lido:objectClassificationWrap>
+      <lido:objectIdentificationWrap>
+         <lido:titleWrap>
+            <lido:titleSet>
+               <lido:appellationValue lido:pref="preferred">Christian Möllinger, Bodenstanduhr mit Flötenwerk, Anfang 19. Jahrhundert, Inv. Nr. II 61/151 J</lido:appellationValue>
+            </lido:titleSet>
+         </lido:titleWrap>
+         <lido:inscriptionsWrap>
+            <lido:inscriptions>
+               <lido:inscriptionDescription>
+                  <lido:descriptiveNoteValue>auf dem Emailzifferblatt: „Möllinger A BERLIN“</lido:descriptiveNoteValue>
+               </lido:inscriptionDescription>
+            </lido:inscriptions>
+         </lido:inscriptionsWrap>
+         <lido:repositoryWrap>
+            <lido:repositorySet lido:type="current">
+               <lido:repositoryName>
+                  <lido:legalBodyID lido:type="isil">DE-MUS-061525</lido:legalBodyID>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Stiftung Stadtmuseum Berlin</lido:appellationValue>
+                  </lido:legalBodyName>
+                  <lido:legalBodyWeblink>https://www.stadtmuseum.de</lido:legalBodyWeblink>
+               </lido:repositoryName>
+               <lido:workID lido:type="inventory number">II 61/151 J</lido:workID>
+               <lido:repositoryLocation>
+                  <lido:namePlaceSet>
+                     <lido:appellationValue>Berlin</lido:appellationValue>
+                  </lido:namePlaceSet>
+                  <lido:gml>
+                     <gml:Point srsName="EPSG:4326">
+                        <gml:pos>52.51618576 13.40692997</gml:pos>
+                     </gml:Point>
+                  </lido:gml>
+               </lido:repositoryLocation>
+            </lido:repositorySet>
+         </lido:repositoryWrap>
+         <lido:objectDescriptionWrap>
+            <lido:objectDescriptionSet>
+               <lido:descriptiveNoteValue>Im Inneren dieses Kunstwerkes verbirgt sich eine aufwändige Mechanik des Berliner Oberhofuhrmachers Christian Möllinger (1754-1826). Das Uhrwerk befindet sich in dem bekrönenden Gehäuseaufsatz, das zugehörige Flötenwerk im verspiegelten Mittelteil. &lt;br&gt;
+Das in Rahmenbauweise konstruierte Gehäuse ist auf hölzernen Rollen (je Rolle Länge 9 cm; Durchmesser 7 cm) gelagert. Der zweigeschossige Aufbau steht auf einem profilierten Sockel. Die beiden Kranzgesimse – das untere auskragend, das obere eingezogen – werden von Eckpilastern getragen, dazwischen befinden sich Kassetten. Die Rückseiten sind jeweils als Türen ausgebildet. Am Untergeschoss befinden sich an den drei Schauseiten von vergoldeten Perlstableisten gerahmte eingetiefte Felder. Die ebenso gerahmten seitlichen Pilaster sind durch Rosetten dekoriert; ein vergoldeter Zahnschnittfries schließt diesen Teil ab. Das Obergeschoss besitzt vorn einen Spiegel, die Seiten sind als Schallöffnungen ausgebildet und mit Textil (2020 erneuert) bespannt. Die oberen Pilaster weisen einen Schmuck aus nach unten im Durchmesser kleiner werdenden hölzernen Scheiben auf, die auf einem vergoldeten Stab „aufgefädelt“ sind, darüber befinden sich antikisierende vergoldete Masken und ein geometrischer Stabwerksfries, in den Ecken wiederum vergoldete Rosetten. Ein flaches Zeltdach leitet zum würfelförmigen Uhrenaufsatz über: seitlich Pilaster, unten mit Bogenfries, darüber an der Vorderseite das Zifferblatt mit oberhalb angebrachtem Tuchgehänge, an den Seiten jeweils kleinere Tuchgehänge. Den oberen Abschluss des Gehäuses bildet ein runder Aufsatz mit flacher Kuppel und Pinienzapfen.&lt;br&gt;
+Das Objekt verweist in der Art des architektonisch ausgebildeten Pfeileruhrtypus auf ein Möbelstück. Als besonderes Merkmal für die um 1800 von England beeinflusste Berliner Möbelkunst weist sie im Obergeschoss einen Spiegel auf. Ansonsten wirkt das Gehäuse allein durch das edle Nussbaumfurnier und die sparsamen, aber effektvoll arrangierten vergoldeten Messingzierrate, die an antiken Formen orientiert sind. Der Pfeileruhrtypus folgt den Vorbildern aus der Neuwieder Werkstatt von David Roentgen (1743-1807). Deren früherer Mitarbeiter Johann David Hacker (1748-1801) hatte sich 1791 in Berlin niedergelassen und hier schon bald darauf das Hoftischler-Prädikat erhalten. Für die erste Wohnung König Friedrich Wilhelms II. von Preußen im Schloss Charlottenburg lieferte er eine Flötenuhr mit einem an die Rückwand zurückgesetzten Spiegelaufsatz. Im unteren Teil des Rahmens befand sich die Stundenuhr, im Kasten darunter das Flötenwerk. Die Stiftung Stadtmuseum Berlin bewahrt eine mit der hier vorgestellten Uhr nahezu baugleiche, jedoch reicher ausgestattete Flötenuhr mit der bekrönenden Sitzstatue einer Urania im Knoblauchhaus. Eine dritte Uhr dieses Typs (ebenfalls mit Urania-Bekrönung) wurde 1931 in Berlin bei dem Antiquar Paul Graupe versteigert (Kat. 593), 2018 und 2020 auf der TEFAF in Maastricht bei Peter Mühlbauer gezeigt. In der Zusammenschau dieser drei Flötenuhren wird beim Aufbau und der sehr ähnlichen Dekoration der Gehäuse (Zahnschnitt, Lattenwerk-Fries „fretwork“, Rosetten und antikisierende Masken) sichtbar, dass ein Grundmodell offenbar mehrfach in den Dekorationen variiert worden ist. Dabei orientiert sich dieser streng architektonische Typ an den um 1795/1800 in Berlin beliebten Aufsatzmöbeln mit einflügeligen Spiegeltüren. Bei den Uhrgehäusen konnten je nach Kundenwunsch einzelne Elemente, wie der bekrönende Aufsatz, der Zierrat der Pilasterfüllungen oder die Applikationen in den Kassetten der Schauseiten ausgetauscht werden. Da die Kunsttischler in dieser Zeit nur sehr selten ihre Produkte signierten, ist es schwer, den Urheber des Gehäuses zu ermitteln. Nur wenn, wie im Fall der Hacker-Uhr für Schloss Charlottenburg, Rechnungen, Inventaraufzeichnungen oder andere Quellen vorhanden sind, ist mitunter der Name des Herstellers überliefert. Ist dies nicht der Fall, so kann nur über Analogien zu ähnlichen Objekten die Verbindung zu einem Uhrmacher oder Kunsttischler hergestellt werden. Wegen der Ähnlichkeiten zu den drei oben aufgeführten Beispielen kann davon ausgegangen werden, dass ein Berliner Möbelschreiner, vielleicht Hacker selbst oder eine Werkstatt aus seinem Umkreis, das Gehäuse fertigte. Der Entwurf könnte von einem namhaften Architekten, wie Friedrich Gilly (1772-1800), der nachweislich auch Zimmer- und Möbeldekorationen plante, angeregt sein.&lt;br&gt;
+Als Käufer solch aufwändig gearbeiteter und kostspieliger Musikuhren kommt nur ein vermögender Kunde aus dem Adel oder reichen Bürgertum in Frage. Wer der Auftraggeber bzw. Erstbesitzer dieser Uhr war, ist nicht bekannt. Das Objekt wurde 1936 vom Märkischen Museum im Berliner Kunsthandel (Antiquariat Paul Graupe) für 30.000 Mark erworben. 2019 wurde das Gehäuse restauriert. (Silke Kiesant)&lt;br&gt;</lido:descriptiveNoteValue>
+               <lido:sourceDescriptiveNote>Stiftung Stadtmuseum Berlin</lido:sourceDescriptiveNote>
+            </lido:objectDescriptionSet>
+            <lido:objectDescriptionSet lido:type="Detailbeschreibung">
+               <lido:descriptiveNoteValue>Das von Christian Möllinger geschaffene Uhrwerk besteht aus einem runden Vollplatinenwerk mit unterem geraden Abschluss und Halbstundenschlagwerk auf eine Glocke. Es befindet sich in dem kleinen oberen Kasten des Gehäuses (Rückplatine: D: 13,4 cm, Platinestärke: 0,3 cm, Pendellänge: 19,5 cm, Vorderplatine T: 0,35 cm, Werkpfeilerhöhe: 3,55 cm). Das Werk besitzt eine rückführende Hemmung nach Clement mit Stahlanker, ein Schlossscheibenschlagwerk, zwei große umlaufende Federhäuser und ein Pendel mit Fadenaufhängung. Die Gangdauer beträgt 14 Tage. Auf dem Email-Zifferblatt mit zwei Aufzugslöchern zwischen III und IIII sowie VIII und IX steht die Signatur „Möllinger A · BERLIN“. Das Zifferblatt mit 15 cm Durchmesser, wohl eine Arbeit von dem in Friedrichsthal bei Oranienburg sowie in Berlin tätigen Zifferblatthersteller Louis Buzat, zeigt größere römische Stunden- und kleinere arabische Fünfminutenziffern sowie eine Minuterie mit Punkten, die Fünfminuten sind etwas stärker ausgebildet. Die Zeiger bestehen aus durchbrochen gearbeitetem, ziseliertem und vergoldetem Messing. Die ursprünglich vorhandene Auslösung zwischen Uhr- und Spielwerk funktioniert derzeit nicht.&lt;br&gt;
+Das runde Uhrwerk mit der abgeflachten unteren Seite verweist auf Möllingers Lehrmeister Christian Ernst Kleemeyer (1739-1799), welcher diese typische Berliner Art von robusten Uhrwerken für viele seiner Flötenuhren bzw. Pendulen benutzte. Es war platzsparend, denn man konnte auf einen zusätzlichen Gewichtsantrieb verzichten. Die Ganggenauigkeit ist allerdings bei gewichtsgetriebenen Bodenstanduhren exakter. (Marina de Fümel)&lt;br&gt;
+&lt;br&gt;
+Das Flötenwerk ist zwar nicht signiert, kann aber ebenfalls Christian Möllinger zugeschrieben werden. Es befindet sich im mittleren Gehäusekasten hinter der Walze und ist auf ein Basisbrett (H: 4,3 cm; B: 49,5 cm; T: 40,8 cm) montiert. Zum Abtasten der Walze sind 31 Claves vorhanden. Davon sorgen 29 für die Wiedergabe des Tones im Umfang von c-e‘‘‘. Zwei Claves bedienen die Schaltung der beiden Register für Forte- und Piano-Spiel. Die Labialpfeifen befinden sich hinter dem Clavesblock und sind aufsteigend in Doppelreihe angeordnet, je mit 29 Pfeifen (forte) bzw. 23 Pfeifen (piano). Um die Tonstärke zu verringern, wurden die Bohrungen mit Bleieinlagen in den Pfeifenfüßen verengt. &lt;br&gt;
+Die Walze (L: 36 cm; D: 15,8 cm; Walzenöffnungen rechts und linksseitig differierend 1,5 und 1,2 cm) liegt auf einer quadratisch geformten und konisch verlaufenden Achse, wodurch die Öffnungen an beiden Seiten differieren. Sie ist schraubenförmig mit Stiften und Brücken bestiftet. Nach dem Auslösen des Spielwerkes wird die Walze von einem schneckenförmigen Rad automatisch seitlich verschoben und dreht sich mehrfach um die eigene Achse. Die ursprüngliche Beschriftung an der Stirnseite der Walze ist nicht mehr lesbar.&lt;br&gt;
+Rechtsseitig, auf dem Basisbrett, befindet sich das Antriebswerk (Platine/Spielwerkrahmen auf Seite des Antriebes: H: 19,7cm; B: 26,5 cm; Plattenstärke: 0,35 cm; gegenüberliegende Seite: H: 23,1 cm; B: 23,4 cm, Rahmendicke: 0,7 cm). Es ist als rechteckiges Vollplatinenwerk gefertigt, deren verkürzte Rückplatine für den freien Lauf der Walze ausgeschnitten ist, ein typisches Merkmal der Berliner Bauweise. Dies trifft auch auf die Lagerung der Seiltrommel zwischen den beiden Platinen zu. Über die Seiltrommel läuft der Gewichtsaufzug, mit dem das Werk angetrieben und mit einer Kurbel an der rechten Seite aufgezogen wird. Der Windfang mit seinen eckigen Windflügeln ist mittels Stahlkloben oberhalb der Platinen gelagert.&lt;br&gt;
+Direkt über der Mechanik ist der Blasebalg mit Magazinbalg und zwei Schöpfbälgen untergebracht (Balganlage: H: 6,0 cm; B: 39,5 cm; T rechts: 17 cm, T links: 14,5 cm). Zu dieser Uhr gehören vier Walzen, deren Beschriftung nur noch auf einer Walze mit zwei Satzbezeichnungen, Andante und Allegro, lesbar ist. Nur eine Walze ist derzeit spielbar, das darauf notierte Musikstück konnte bisher nicht eindeutig zugeordnet werden. Die Melodie entspricht dem Zeitgeschmack im Stil der Wiener Klassik und ist harmonisch sehr einfach ausgeführt. Nach einer Wiederholung des Themas wird dieses in schnellem Tempo variiert. Mit den zwei Registern in Forte und Piano erzeugt das Flötenwerk ein dynamisches Spiel. Christian Möllinger war mit vielen zeitgenössischen Berliner Komponisten bekannt. Möglicherweise verlangte der Besitzer dieser Uhr eine Walze mit einem erfolgreichen, aber kurzlebigen und heute vergessenen „Tagesschlager“ für die häusliche Unterhaltung. (Vgl. Tonaufnahme 2020)&lt;br&gt;
+2019/20 wurde das Flötenwerk von Horst Riesebeck restauriert. (Anne Franzkowiak, Franka Görike)</lido:descriptiveNoteValue>
+               <lido:sourceDescriptiveNote>Stiftung Stadtmuseum Berlin</lido:sourceDescriptiveNote>
+            </lido:objectDescriptionSet>
+         </lido:objectDescriptionWrap>
+         <lido:objectMeasurementsWrap>
+            <lido:objectMeasurementsSet>
+               <lido:displayObjectMeasurements>Gehäuse: Höhe 228 cm, Breite 80 cm, Tiefe 57,5 cm</lido:displayObjectMeasurements>
+            </lido:objectMeasurementsSet>
+         </lido:objectMeasurementsWrap>
+      </lido:objectIdentificationWrap>
+      <lido:eventWrap>
+         <lido:eventSet>
+            <lido:displayEvent>Hergestellt</lido:displayEvent>
+            <lido:event>
+               <lido:eventType>
+                  <lido:conceptID lido:type="uri">http://terminology.lido-schema.org/lido00007</lido:conceptID>
+                  <lido:term lido:addedSearchTerm="no">Hergestellt</lido:term>
+               </lido:eventType>
+               <lido:eventActor>
+                  <lido:displayActorInRole>Christian Möllinger (1754-1826)</lido:displayActorInRole>
+                  <lido:actorInRole>
+                     <lido:actor>
+                        <lido:actorID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Christian_M%C3%B6llinger</lido:actorID>
+                        <lido:actorID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/1104782596</lido:actorID>
+                        <lido:actorID lido:source="viaf" lido:type="uri">https://viaf.org/viaf/96054715</lido:actorID>
+                        <lido:actorID lido:source="ulan" lido:type="uri">http://vocab.getty.edu/ulan/500055803</lido:actorID>
+                        <lido:actorID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q1081189</lido:actorID>
+                        <lido:actorID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/persinst/8788</lido:actorID>
+                        <lido:nameActorSet>
+                           <lido:appellationValue>Möllinger, Christian</lido:appellationValue>
+                           <lido:appellationValue xml:lang="en">Christian Mollinger</lido:appellationValue>
+                           <lido:appellationValue xml:lang="nl">Christian Mollinger</lido:appellationValue>
+                        </lido:nameActorSet>
+                        <lido:vitalDatesActor>
+                           <lido:earliestDate>1754</lido:earliestDate>
+                           <lido:latestDate>1826</lido:latestDate>
+                        </lido:vitalDatesActor>
+                     </lido:actor>
+                  </lido:actorInRole>
+               </lido:eventActor>
+               <lido:eventActor>
+                  <lido:displayActorInRole>Johann David Hacker (1748-1801) (wahrscheinlich)</lido:displayActorInRole>
+                  <lido:actorInRole>
+                     <lido:actor>
+                        <lido:actorID lido:source="gnd" lido:type="uri">http://d-nb.info/gnd/139434739</lido:actorID>
+                        <lido:actorID lido:source="viaf" lido:type="uri">https://viaf.org/viaf/101175205</lido:actorID>
+                        <lido:actorID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/persinst/117696</lido:actorID>
+                        <lido:nameActorSet>
+                           <lido:appellationValue>Hacker, Johann David</lido:appellationValue>
+                        </lido:nameActorSet>
+                        <lido:vitalDatesActor>
+                           <lido:earliestDate>1748</lido:earliestDate>
+                           <lido:latestDate>1801</lido:latestDate>
+                        </lido:vitalDatesActor>
+                     </lido:actor>
+                  </lido:actorInRole>
+               </lido:eventActor>
+               <lido:eventDate>
+                  <lido:displayDate>Anfang 19. Jahrhundert (wahrscheinlich)</lido:displayDate>
+                  <lido:date>
+                     <lido:earliestDate>1801</lido:earliestDate>
+                     <lido:latestDate>1820</lido:latestDate>
+                  </lido:date>
+               </lido:eventDate>
+               <lido:eventPlace>
+                  <lido:displayPlace>Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ar">برلين</lido:displayPlace>
+                  <lido:displayPlace xml:lang="bn">বার্লিন</lido:displayPlace>
+                  <lido:displayPlace xml:lang="cs">Berlín</lido:displayPlace>
+                  <lido:displayPlace xml:lang="da">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="el">Βερολίνο</lido:displayPlace>
+                  <lido:displayPlace xml:lang="en">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="es">Berlín</lido:displayPlace>
+                  <lido:displayPlace xml:lang="fa">برلین</lido:displayPlace>
+                  <lido:displayPlace xml:lang="fi">Berliini</lido:displayPlace>
+                  <lido:displayPlace xml:lang="fr">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ha">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="he">ברלין</lido:displayPlace>
+                  <lido:displayPlace xml:lang="hi">बर्लिन</lido:displayPlace>
+                  <lido:displayPlace xml:lang="hu">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="id">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="it">Berlino</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ja">ベルリン</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ka">ბერლინი</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ko">베를린</lido:displayPlace>
+                  <lido:displayPlace xml:lang="nl">Berlijn</lido:displayPlace>
+                  <lido:displayPlace xml:lang="pl">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="pt">Berlim</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ro">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ru">Берлин</lido:displayPlace>
+                  <lido:displayPlace xml:lang="sv">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="sw">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ta">பெர்லின்</lido:displayPlace>
+                  <lido:displayPlace xml:lang="th">เบอร์ลิน</lido:displayPlace>
+                  <lido:displayPlace xml:lang="tl">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="tr">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ur">برلن</lido:displayPlace>
+                  <lido:displayPlace xml:lang="vi">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="zh">柏林</lido:displayPlace>
+                  <lido:place>
+                     <lido:placeID lido:source="geonames" lido:type="uri">https://sws.geonames.org/2950159</lido:placeID>
+                     <lido:placeID lido:source="TGN" lido:type="uri">http://vocab.getty.edu/tgn/7209904</lido:placeID>
+                     <lido:placeID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4005728-8</lido:placeID>
+                     <lido:placeID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q64</lido:placeID>
+                     <lido:placeID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/place/61</lido:placeID>
+                     <lido:namePlaceSet>
+                        <lido:appellationValue>Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ar">برلين</lido:appellationValue>
+                        <lido:appellationValue xml:lang="bn">বার্লিন</lido:appellationValue>
+                        <lido:appellationValue xml:lang="cs">Berlín</lido:appellationValue>
+                        <lido:appellationValue xml:lang="da">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="el">Βερολίνο</lido:appellationValue>
+                        <lido:appellationValue xml:lang="en">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="es">Berlín</lido:appellationValue>
+                        <lido:appellationValue xml:lang="fa">برلین</lido:appellationValue>
+                        <lido:appellationValue xml:lang="fi">Berliini</lido:appellationValue>
+                        <lido:appellationValue xml:lang="fr">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ha">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="he">ברלין</lido:appellationValue>
+                        <lido:appellationValue xml:lang="hi">बर्लिन</lido:appellationValue>
+                        <lido:appellationValue xml:lang="hu">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="id">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="it">Berlino</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ja">ベルリン</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ka">ბერლინი</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ko">베를린</lido:appellationValue>
+                        <lido:appellationValue xml:lang="nl">Berlijn</lido:appellationValue>
+                        <lido:appellationValue xml:lang="pl">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="pt">Berlim</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ro">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ru">Берлин</lido:appellationValue>
+                        <lido:appellationValue xml:lang="sv">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="sw">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ta">பெர்லின்</lido:appellationValue>
+                        <lido:appellationValue xml:lang="th">เบอร์ลิน</lido:appellationValue>
+                        <lido:appellationValue xml:lang="tl">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="tr">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ur">برلن</lido:appellationValue>
+                        <lido:appellationValue xml:lang="vi">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="zh">柏林</lido:appellationValue>
+                     </lido:namePlaceSet>
+                     <lido:gml>
+                        <gml:Point srsName="EPSG:4326">
+                           <gml:pos>52.516666412354 13.383333206177</gml:pos>
+                        </gml:Point>
+                     </lido:gml>
+                  </lido:place>
+               </lido:eventPlace>
+               <lido:eventMaterialsTech>
+                  <lido:displayMaterialsTech>Gehäuse: Nussbaumwurzelholzfurnier auf Nadelholz; Auflagen fürs Spielwerk innen: Eiche; Scheibenförmige Applikationen: Lindenholz; Applikationen: Messing, vergoldet; Textil; Glas, verspiegelt. Uhrwerk: Messing, Stahl, Email, Glas;  Flötenwerk: Pfeifenlade Lindenholz; Basisbrett: Eichenholz; Platine/Spielwerksrahmen: Messing; Walze: Lindenholz, Messing; Balganlage: Lindenholz, mit Ziegenleder belegt</lido:displayMaterialsTech>
+               </lido:eventMaterialsTech>
+            </lido:event>
+         </lido:eventSet>
+         <lido:eventSet>
+            <lido:displayEvent>Geistige Schöpfung</lido:displayEvent>
+            <lido:event>
+               <lido:eventType>
+                  <lido:conceptID lido:type="uri">http://terminology.lido-schema.org/lido00012</lido:conceptID>
+                  <lido:term lido:addedSearchTerm="no">Geistige Schöpfung</lido:term>
+               </lido:eventType>
+               <lido:eventActor>
+                  <lido:displayActorInRole>Friedrich Gilly (1772-1800) (wahrscheinlich)</lido:displayActorInRole>
+                  <lido:actorInRole>
+                     <lido:actor>
+                        <lido:actorID lido:source="Wikipedia" lido:type="uri">https://sv.wikipedia.org/wiki/Friedrich_Gilly</lido:actorID>
+                        <lido:actorID lido:source="NDB/ADB" lido:type="uri">https://www.deutsche-biographie.de/pnd118539345.html#ndbcontent</lido:actorID>
+                        <lido:actorID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/118539345</lido:actorID>
+                        <lido:actorID lido:source="ULAN" lido:type="uri">http://vocab.getty.edu/ulan/500023936</lido:actorID>
+                        <lido:actorID lido:source="viaf" lido:type="uri">https://viaf.org/viaf/10637254</lido:actorID>
+                        <lido:actorID lido:source="bnf" lido:type="uri">https://catalogue.bnf.fr/ark:/12148/cb119971580</lido:actorID>
+                        <lido:actorID lido:source="rkd" lido:type="uri">https://rkd.nl/explore/artists/282719</lido:actorID>
+                        <lido:actorID lido:source="loc" lido:type="uri">http://id.loc.gov/authorities/names/n82087080</lido:actorID>
+                        <lido:actorID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q62973</lido:actorID>
+                        <lido:actorID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/persinst/22663</lido:actorID>
+                        <lido:nameActorSet>
+                           <lido:appellationValue>Gilly, Friedrich</lido:appellationValue>
+                           <lido:appellationValue xml:lang="da">Friedrich Gilly</lido:appellationValue>
+                           <lido:appellationValue xml:lang="en">Friedrich Gilly</lido:appellationValue>
+                           <lido:appellationValue xml:lang="es">Friedrich Gilly</lido:appellationValue>
+                           <lido:appellationValue xml:lang="fa">فریدریش گیلی</lido:appellationValue>
+                           <lido:appellationValue xml:lang="fr">Friedrich Gilly</lido:appellationValue>
+                           <lido:appellationValue xml:lang="it">Friedrich Gilly</lido:appellationValue>
+                           <lido:appellationValue xml:lang="nl">Friedrich Gilly</lido:appellationValue>
+                           <lido:appellationValue xml:lang="pl">Friedrich Gilly</lido:appellationValue>
+                           <lido:appellationValue xml:lang="pt">Friedrich Gilly</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ru">Жилли, Фридрих Давид</lido:appellationValue>
+                           <lido:appellationValue xml:lang="sv">Friedrich Gilly</lido:appellationValue>
+                           <lido:appellationValue xml:lang="zh">弗里德里希·基利</lido:appellationValue>
+                        </lido:nameActorSet>
+                        <lido:vitalDatesActor>
+                           <lido:earliestDate>1772</lido:earliestDate>
+                           <lido:latestDate>1800</lido:latestDate>
+                        </lido:vitalDatesActor>
+                     </lido:actor>
+                  </lido:actorInRole>
+               </lido:eventActor>
+               <lido:eventDate>
+                  <lido:displayDate>1780-1800 (wahrscheinlich)</lido:displayDate>
+                  <lido:displayDate xml:lang="ar">1780-1800</lido:displayDate>
+                  <lido:displayDate xml:lang="en">1780-1800</lido:displayDate>
+                  <lido:displayDate xml:lang="es">1780-1800</lido:displayDate>
+                  <lido:displayDate xml:lang="fa">1780-1800</lido:displayDate>
+                  <lido:displayDate xml:lang="fr">1780-1800</lido:displayDate>
+                  <lido:displayDate xml:lang="hu">1780-1800</lido:displayDate>
+                  <lido:displayDate xml:lang="id">1780-1800</lido:displayDate>
+                  <lido:displayDate xml:lang="it">1780-1800</lido:displayDate>
+                  <lido:displayDate xml:lang="ja">1780年から1800年</lido:displayDate>
+                  <lido:displayDate xml:lang="ka">1780-1800</lido:displayDate>
+                  <lido:displayDate xml:lang="ko">1780년-1800년</lido:displayDate>
+                  <lido:displayDate xml:lang="pl">1780-1800</lido:displayDate>
+                  <lido:displayDate xml:lang="pt">1780-1800</lido:displayDate>
+                  <lido:displayDate xml:lang="ro">1780-1800</lido:displayDate>
+                  <lido:displayDate xml:lang="ru">1780-1800</lido:displayDate>
+                  <lido:displayDate xml:lang="ta">1780-1800</lido:displayDate>
+                  <lido:displayDate xml:lang="tl">1780-1800</lido:displayDate>
+                  <lido:displayDate xml:lang="tr">1780-1800</lido:displayDate>
+                  <lido:displayDate xml:lang="zh">1780年至1800年</lido:displayDate>
+                  <lido:date>
+                     <lido:earliestDate>1780</lido:earliestDate>
+                     <lido:latestDate>1800</lido:latestDate>
+                  </lido:date>
+               </lido:eventDate>
+               <lido:eventPlace>
+                  <lido:displayPlace>Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ar">برلين</lido:displayPlace>
+                  <lido:displayPlace xml:lang="bn">বার্লিন</lido:displayPlace>
+                  <lido:displayPlace xml:lang="cs">Berlín</lido:displayPlace>
+                  <lido:displayPlace xml:lang="da">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="el">Βερολίνο</lido:displayPlace>
+                  <lido:displayPlace xml:lang="en">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="es">Berlín</lido:displayPlace>
+                  <lido:displayPlace xml:lang="fa">برلین</lido:displayPlace>
+                  <lido:displayPlace xml:lang="fi">Berliini</lido:displayPlace>
+                  <lido:displayPlace xml:lang="fr">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ha">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="he">ברלין</lido:displayPlace>
+                  <lido:displayPlace xml:lang="hi">बर्लिन</lido:displayPlace>
+                  <lido:displayPlace xml:lang="hu">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="id">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="it">Berlino</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ja">ベルリン</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ka">ბერლინი</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ko">베를린</lido:displayPlace>
+                  <lido:displayPlace xml:lang="nl">Berlijn</lido:displayPlace>
+                  <lido:displayPlace xml:lang="pl">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="pt">Berlim</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ro">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ru">Берлин</lido:displayPlace>
+                  <lido:displayPlace xml:lang="sv">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="sw">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ta">பெர்லின்</lido:displayPlace>
+                  <lido:displayPlace xml:lang="th">เบอร์ลิน</lido:displayPlace>
+                  <lido:displayPlace xml:lang="tl">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="tr">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ur">برلن</lido:displayPlace>
+                  <lido:displayPlace xml:lang="vi">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="zh">柏林</lido:displayPlace>
+                  <lido:place>
+                     <lido:placeID lido:source="geonames" lido:type="uri">https://sws.geonames.org/2950159</lido:placeID>
+                     <lido:placeID lido:source="TGN" lido:type="uri">http://vocab.getty.edu/tgn/7209904</lido:placeID>
+                     <lido:placeID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4005728-8</lido:placeID>
+                     <lido:placeID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q64</lido:placeID>
+                     <lido:placeID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/place/61</lido:placeID>
+                     <lido:namePlaceSet>
+                        <lido:appellationValue>Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ar">برلين</lido:appellationValue>
+                        <lido:appellationValue xml:lang="bn">বার্লিন</lido:appellationValue>
+                        <lido:appellationValue xml:lang="cs">Berlín</lido:appellationValue>
+                        <lido:appellationValue xml:lang="da">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="el">Βερολίνο</lido:appellationValue>
+                        <lido:appellationValue xml:lang="en">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="es">Berlín</lido:appellationValue>
+                        <lido:appellationValue xml:lang="fa">برلین</lido:appellationValue>
+                        <lido:appellationValue xml:lang="fi">Berliini</lido:appellationValue>
+                        <lido:appellationValue xml:lang="fr">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ha">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="he">ברלין</lido:appellationValue>
+                        <lido:appellationValue xml:lang="hi">बर्लिन</lido:appellationValue>
+                        <lido:appellationValue xml:lang="hu">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="id">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="it">Berlino</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ja">ベルリン</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ka">ბერლინი</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ko">베를린</lido:appellationValue>
+                        <lido:appellationValue xml:lang="nl">Berlijn</lido:appellationValue>
+                        <lido:appellationValue xml:lang="pl">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="pt">Berlim</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ro">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ru">Берлин</lido:appellationValue>
+                        <lido:appellationValue xml:lang="sv">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="sw">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ta">பெர்லின்</lido:appellationValue>
+                        <lido:appellationValue xml:lang="th">เบอร์ลิน</lido:appellationValue>
+                        <lido:appellationValue xml:lang="tl">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="tr">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ur">برلن</lido:appellationValue>
+                        <lido:appellationValue xml:lang="vi">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="zh">柏林</lido:appellationValue>
+                     </lido:namePlaceSet>
+                     <lido:gml>
+                        <gml:Point srsName="EPSG:4326">
+                           <gml:pos>52.516666412354 13.383333206177</gml:pos>
+                        </gml:Point>
+                     </lido:gml>
+                  </lido:place>
+               </lido:eventPlace>
+            </lido:event>
+         </lido:eventSet>
+         <lido:eventSet>
+            <lido:displayEvent>Verkauft</lido:displayEvent>
+            <lido:event>
+               <lido:eventType>
+                  <lido:conceptID lido:type="uri">http://terminology.lido-schema.org/lido00005</lido:conceptID>
+                  <lido:term lido:addedSearchTerm="no">Verkauft</lido:term>
+               </lido:eventType>
+               <lido:eventActor>
+                  <lido:displayActorInRole>Paul Graupe (1881-1953)</lido:displayActorInRole>
+                  <lido:actorInRole>
+                     <lido:actor>
+                        <lido:actorID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/persinst/117701</lido:actorID>
+                        <lido:nameActorSet>
+                           <lido:appellationValue>Graupe, Paul</lido:appellationValue>
+                        </lido:nameActorSet>
+                        <lido:vitalDatesActor>
+                           <lido:earliestDate>1881</lido:earliestDate>
+                           <lido:latestDate>1953</lido:latestDate>
+                        </lido:vitalDatesActor>
+                     </lido:actor>
+                  </lido:actorInRole>
+               </lido:eventActor>
+               <lido:eventDate>
+                  <lido:displayDate>1936</lido:displayDate>
+                  <lido:displayDate xml:lang="ar">1936</lido:displayDate>
+                  <lido:displayDate xml:lang="en">1936</lido:displayDate>
+                  <lido:displayDate xml:lang="es">1936</lido:displayDate>
+                  <lido:displayDate xml:lang="fa">1936</lido:displayDate>
+                  <lido:displayDate xml:lang="fr">1936</lido:displayDate>
+                  <lido:displayDate xml:lang="hu">1936</lido:displayDate>
+                  <lido:displayDate xml:lang="id">1936</lido:displayDate>
+                  <lido:displayDate xml:lang="it">1936</lido:displayDate>
+                  <lido:displayDate xml:lang="ja">1936年</lido:displayDate>
+                  <lido:displayDate xml:lang="ka">1936</lido:displayDate>
+                  <lido:displayDate xml:lang="ko">1936년</lido:displayDate>
+                  <lido:displayDate xml:lang="pl">1936</lido:displayDate>
+                  <lido:displayDate xml:lang="pt">1936</lido:displayDate>
+                  <lido:displayDate xml:lang="ro">1936</lido:displayDate>
+                  <lido:displayDate xml:lang="ru">1936</lido:displayDate>
+                  <lido:displayDate xml:lang="ta">1936</lido:displayDate>
+                  <lido:displayDate xml:lang="tl">1936</lido:displayDate>
+                  <lido:displayDate xml:lang="tr">1936</lido:displayDate>
+                  <lido:displayDate xml:lang="zh">1936年</lido:displayDate>
+                  <lido:date>
+                     <lido:earliestDate>1936</lido:earliestDate>
+                     <lido:latestDate>1936</lido:latestDate>
+                  </lido:date>
+               </lido:eventDate>
+               <lido:eventPlace>
+                  <lido:displayPlace>Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ar">برلين</lido:displayPlace>
+                  <lido:displayPlace xml:lang="bn">বার্লিন</lido:displayPlace>
+                  <lido:displayPlace xml:lang="cs">Berlín</lido:displayPlace>
+                  <lido:displayPlace xml:lang="da">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="el">Βερολίνο</lido:displayPlace>
+                  <lido:displayPlace xml:lang="en">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="es">Berlín</lido:displayPlace>
+                  <lido:displayPlace xml:lang="fa">برلین</lido:displayPlace>
+                  <lido:displayPlace xml:lang="fi">Berliini</lido:displayPlace>
+                  <lido:displayPlace xml:lang="fr">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ha">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="he">ברלין</lido:displayPlace>
+                  <lido:displayPlace xml:lang="hi">बर्लिन</lido:displayPlace>
+                  <lido:displayPlace xml:lang="hu">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="id">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="it">Berlino</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ja">ベルリン</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ka">ბერლინი</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ko">베를린</lido:displayPlace>
+                  <lido:displayPlace xml:lang="nl">Berlijn</lido:displayPlace>
+                  <lido:displayPlace xml:lang="pl">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="pt">Berlim</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ro">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ru">Берлин</lido:displayPlace>
+                  <lido:displayPlace xml:lang="sv">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="sw">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ta">பெர்லின்</lido:displayPlace>
+                  <lido:displayPlace xml:lang="th">เบอร์ลิน</lido:displayPlace>
+                  <lido:displayPlace xml:lang="tl">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="tr">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ur">برلن</lido:displayPlace>
+                  <lido:displayPlace xml:lang="vi">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="zh">柏林</lido:displayPlace>
+                  <lido:place>
+                     <lido:placeID lido:source="geonames" lido:type="uri">https://sws.geonames.org/2950159</lido:placeID>
+                     <lido:placeID lido:source="TGN" lido:type="uri">http://vocab.getty.edu/tgn/7209904</lido:placeID>
+                     <lido:placeID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4005728-8</lido:placeID>
+                     <lido:placeID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q64</lido:placeID>
+                     <lido:placeID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/place/61</lido:placeID>
+                     <lido:namePlaceSet>
+                        <lido:appellationValue>Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ar">برلين</lido:appellationValue>
+                        <lido:appellationValue xml:lang="bn">বার্লিন</lido:appellationValue>
+                        <lido:appellationValue xml:lang="cs">Berlín</lido:appellationValue>
+                        <lido:appellationValue xml:lang="da">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="el">Βερολίνο</lido:appellationValue>
+                        <lido:appellationValue xml:lang="en">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="es">Berlín</lido:appellationValue>
+                        <lido:appellationValue xml:lang="fa">برلین</lido:appellationValue>
+                        <lido:appellationValue xml:lang="fi">Berliini</lido:appellationValue>
+                        <lido:appellationValue xml:lang="fr">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ha">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="he">ברלין</lido:appellationValue>
+                        <lido:appellationValue xml:lang="hi">बर्लिन</lido:appellationValue>
+                        <lido:appellationValue xml:lang="hu">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="id">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="it">Berlino</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ja">ベルリン</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ka">ბერლინი</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ko">베를린</lido:appellationValue>
+                        <lido:appellationValue xml:lang="nl">Berlijn</lido:appellationValue>
+                        <lido:appellationValue xml:lang="pl">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="pt">Berlim</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ro">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ru">Берлин</lido:appellationValue>
+                        <lido:appellationValue xml:lang="sv">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="sw">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ta">பெர்லின்</lido:appellationValue>
+                        <lido:appellationValue xml:lang="th">เบอร์ลิน</lido:appellationValue>
+                        <lido:appellationValue xml:lang="tl">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="tr">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ur">برلن</lido:appellationValue>
+                        <lido:appellationValue xml:lang="vi">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="zh">柏林</lido:appellationValue>
+                     </lido:namePlaceSet>
+                     <lido:gml>
+                        <gml:Point srsName="EPSG:4326">
+                           <gml:pos>52.516666412354 13.383333206177</gml:pos>
+                        </gml:Point>
+                     </lido:gml>
+                  </lido:place>
+               </lido:eventPlace>
+            </lido:event>
+         </lido:eventSet>
+         <lido:eventSet>
+            <lido:displayEvent>Geistige Schöpfung</lido:displayEvent>
+            <lido:event>
+               <lido:eventType>
+                  <lido:conceptID lido:type="uri">http://terminology.lido-schema.org/lido00012</lido:conceptID>
+                  <lido:term lido:addedSearchTerm="no">Geistige Schöpfung</lido:term>
+               </lido:eventType>
+               <lido:eventActor>
+                  <lido:displayActorInRole>David Roentgen (1743-1807) (wahrscheinlich)</lido:displayActorInRole>
+                  <lido:actorInRole>
+                     <lido:actor>
+                        <lido:actorID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/David_Roentgen</lido:actorID>
+                        <lido:actorID lido:source="NDB/ADB" lido:type="uri">https://www.deutsche-biographie.de/pnd118601954.html#ndbcontent</lido:actorID>
+                        <lido:actorID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/118601954</lido:actorID>
+                        <lido:actorID lido:source="ULAN" lido:type="uri">http://vocab.getty.edu/ulan/500032302</lido:actorID>
+                        <lido:actorID lido:source="viaf" lido:type="uri">https://viaf.org/viaf/54310487</lido:actorID>
+                        <lido:actorID lido:source="bnf" lido:type="uri">https://catalogue.bnf.fr/ark:/12148/cb135466549</lido:actorID>
+                        <lido:actorID lido:source="rkd" lido:type="uri">https://rkd.nl/explore/artists/322521</lido:actorID>
+                        <lido:actorID lido:source="ulan" lido:type="uri">http://vocab.getty.edu/ulan/500032302</lido:actorID>
+                        <lido:actorID lido:source="edition humboldt digital" lido:type="uri">https://edition-humboldt.de/register/personen/detail.xql?normid=http://d-nb.info/gnd/118601954</lido:actorID>
+                        <lido:actorID lido:source="loc" lido:type="uri">http://id.loc.gov/authorities/names/n80119437</lido:actorID>
+                        <lido:actorID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q77730</lido:actorID>
+                        <lido:actorID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/persinst/1561</lido:actorID>
+                        <lido:nameActorSet>
+                           <lido:appellationValue>Roentgen, David</lido:appellationValue>
+                           <lido:appellationValue xml:lang="en">David Roentgen</lido:appellationValue>
+                           <lido:appellationValue xml:lang="fr">David Roentgen</lido:appellationValue>
+                           <lido:appellationValue xml:lang="it">David Roentgen</lido:appellationValue>
+                           <lido:appellationValue xml:lang="nl">David Roentgen</lido:appellationValue>
+                           <lido:appellationValue xml:lang="pl">David Roentgen</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ru">Рёнтген, Давид</lido:appellationValue>
+                           <lido:appellationValue xml:lang="sv">David Roentgen</lido:appellationValue>
+                        </lido:nameActorSet>
+                        <lido:vitalDatesActor>
+                           <lido:earliestDate>1743</lido:earliestDate>
+                           <lido:latestDate>1807</lido:latestDate>
+                        </lido:vitalDatesActor>
+                     </lido:actor>
+                  </lido:actorInRole>
+               </lido:eventActor>
+               <lido:eventPlace>
+                  <lido:displayPlace>Neuwied</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ar">نويفيد</lido:displayPlace>
+                  <lido:displayPlace xml:lang="cs">Neuwied</lido:displayPlace>
+                  <lido:displayPlace xml:lang="da">Neuwied</lido:displayPlace>
+                  <lido:displayPlace xml:lang="el">Νοϊβίντ</lido:displayPlace>
+                  <lido:displayPlace xml:lang="en">Neuwied</lido:displayPlace>
+                  <lido:displayPlace xml:lang="es">Neuwied</lido:displayPlace>
+                  <lido:displayPlace xml:lang="fa">نوی‌وید</lido:displayPlace>
+                  <lido:displayPlace xml:lang="fi">Neuwied</lido:displayPlace>
+                  <lido:displayPlace xml:lang="fr">Neuwied</lido:displayPlace>
+                  <lido:displayPlace xml:lang="he">נויוויד</lido:displayPlace>
+                  <lido:displayPlace xml:lang="hu">Neuwied</lido:displayPlace>
+                  <lido:displayPlace xml:lang="it">Neuwied</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ja">ノイヴィート</lido:displayPlace>
+                  <lido:displayPlace xml:lang="nl">Neuwied (stad)</lido:displayPlace>
+                  <lido:displayPlace xml:lang="pl">Neuwied</lido:displayPlace>
+                  <lido:displayPlace xml:lang="pt">Neuwied</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ro">Neuwied</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ru">Нойвид</lido:displayPlace>
+                  <lido:displayPlace xml:lang="sv">Neuwied</lido:displayPlace>
+                  <lido:displayPlace xml:lang="sw">Neuwied</lido:displayPlace>
+                  <lido:displayPlace xml:lang="tr">Neuwied</lido:displayPlace>
+                  <lido:displayPlace xml:lang="vi">Neuwied</lido:displayPlace>
+                  <lido:displayPlace xml:lang="zh">新維德</lido:displayPlace>
+                  <lido:place>
+                     <lido:placeID lido:source="geonames" lido:type="uri">https://sws.geonames.org/2863840</lido:placeID>
+                     <lido:placeID lido:source="TGN" lido:type="uri">http://vocab.getty.edu/tgn/7005100</lido:placeID>
+                     <lido:placeID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4041991-5</lido:placeID>
+                     <lido:placeID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q3967</lido:placeID>
+                     <lido:placeID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/place/543</lido:placeID>
+                     <lido:namePlaceSet>
+                        <lido:appellationValue>Neuwied</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ar">نويفيد</lido:appellationValue>
+                        <lido:appellationValue xml:lang="cs">Neuwied</lido:appellationValue>
+                        <lido:appellationValue xml:lang="da">Neuwied</lido:appellationValue>
+                        <lido:appellationValue xml:lang="el">Νοϊβίντ</lido:appellationValue>
+                        <lido:appellationValue xml:lang="en">Neuwied</lido:appellationValue>
+                        <lido:appellationValue xml:lang="es">Neuwied</lido:appellationValue>
+                        <lido:appellationValue xml:lang="fa">نوی‌وید</lido:appellationValue>
+                        <lido:appellationValue xml:lang="fi">Neuwied</lido:appellationValue>
+                        <lido:appellationValue xml:lang="fr">Neuwied</lido:appellationValue>
+                        <lido:appellationValue xml:lang="he">נויוויד</lido:appellationValue>
+                        <lido:appellationValue xml:lang="hu">Neuwied</lido:appellationValue>
+                        <lido:appellationValue xml:lang="it">Neuwied</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ja">ノイヴィート</lido:appellationValue>
+                        <lido:appellationValue xml:lang="nl">Neuwied (stad)</lido:appellationValue>
+                        <lido:appellationValue xml:lang="pl">Neuwied</lido:appellationValue>
+                        <lido:appellationValue xml:lang="pt">Neuwied</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ro">Neuwied</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ru">Нойвид</lido:appellationValue>
+                        <lido:appellationValue xml:lang="sv">Neuwied</lido:appellationValue>
+                        <lido:appellationValue xml:lang="sw">Neuwied</lido:appellationValue>
+                        <lido:appellationValue xml:lang="tr">Neuwied</lido:appellationValue>
+                        <lido:appellationValue xml:lang="vi">Neuwied</lido:appellationValue>
+                        <lido:appellationValue xml:lang="zh">新維德</lido:appellationValue>
+                     </lido:namePlaceSet>
+                     <lido:gml>
+                        <gml:Point srsName="EPSG:4326">
+                           <gml:pos>50.428611755371 7.4613890647888</gml:pos>
+                        </gml:Point>
+                     </lido:gml>
+                  </lido:place>
+               </lido:eventPlace>
+            </lido:event>
+         </lido:eventSet>
+         <lido:eventSet>
+            <lido:displayEvent>Restauriert</lido:displayEvent>
+            <lido:event>
+               <lido:eventType>
+                  <lido:conceptID lido:type="uri">http://terminology.lido-schema.org/lido00034</lido:conceptID>
+                  <lido:term lido:addedSearchTerm="no">Restauriert</lido:term>
+               </lido:eventType>
+               <lido:eventActor>
+                  <lido:displayActorInRole>Horst Riesebeck (1943-)</lido:displayActorInRole>
+                  <lido:actorInRole>
+                     <lido:actor>
+                        <lido:actorID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/persinst/152245</lido:actorID>
+                        <lido:nameActorSet>
+                           <lido:appellationValue>Riesebeck, Horst</lido:appellationValue>
+                        </lido:nameActorSet>
+                        <lido:vitalDatesActor>
+                           <lido:earliestDate>1943</lido:earliestDate>
+                        </lido:vitalDatesActor>
+                     </lido:actor>
+                  </lido:actorInRole>
+               </lido:eventActor>
+               <lido:eventDate>
+                  <lido:displayDate>2019-2020</lido:displayDate>
+                  <lido:date>
+                     <lido:earliestDate>2019</lido:earliestDate>
+                     <lido:latestDate>2020</lido:latestDate>
+                  </lido:date>
+               </lido:eventDate>
+               <lido:eventPlace>
+                  <lido:displayPlace>Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ar">برلين</lido:displayPlace>
+                  <lido:displayPlace xml:lang="bn">বার্লিন</lido:displayPlace>
+                  <lido:displayPlace xml:lang="cs">Berlín</lido:displayPlace>
+                  <lido:displayPlace xml:lang="da">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="el">Βερολίνο</lido:displayPlace>
+                  <lido:displayPlace xml:lang="en">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="es">Berlín</lido:displayPlace>
+                  <lido:displayPlace xml:lang="fa">برلین</lido:displayPlace>
+                  <lido:displayPlace xml:lang="fi">Berliini</lido:displayPlace>
+                  <lido:displayPlace xml:lang="fr">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ha">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="he">ברלין</lido:displayPlace>
+                  <lido:displayPlace xml:lang="hi">बर्लिन</lido:displayPlace>
+                  <lido:displayPlace xml:lang="hu">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="id">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="it">Berlino</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ja">ベルリン</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ka">ბერლინი</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ko">베를린</lido:displayPlace>
+                  <lido:displayPlace xml:lang="nl">Berlijn</lido:displayPlace>
+                  <lido:displayPlace xml:lang="pl">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="pt">Berlim</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ro">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ru">Берлин</lido:displayPlace>
+                  <lido:displayPlace xml:lang="sv">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="sw">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ta">பெர்லின்</lido:displayPlace>
+                  <lido:displayPlace xml:lang="th">เบอร์ลิน</lido:displayPlace>
+                  <lido:displayPlace xml:lang="tl">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="tr">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ur">برلن</lido:displayPlace>
+                  <lido:displayPlace xml:lang="vi">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="zh">柏林</lido:displayPlace>
+                  <lido:place>
+                     <lido:placeID lido:source="geonames" lido:type="uri">https://sws.geonames.org/2950159</lido:placeID>
+                     <lido:placeID lido:source="TGN" lido:type="uri">http://vocab.getty.edu/tgn/7209904</lido:placeID>
+                     <lido:placeID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4005728-8</lido:placeID>
+                     <lido:placeID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q64</lido:placeID>
+                     <lido:placeID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/place/61</lido:placeID>
+                     <lido:namePlaceSet>
+                        <lido:appellationValue>Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ar">برلين</lido:appellationValue>
+                        <lido:appellationValue xml:lang="bn">বার্লিন</lido:appellationValue>
+                        <lido:appellationValue xml:lang="cs">Berlín</lido:appellationValue>
+                        <lido:appellationValue xml:lang="da">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="el">Βερολίνο</lido:appellationValue>
+                        <lido:appellationValue xml:lang="en">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="es">Berlín</lido:appellationValue>
+                        <lido:appellationValue xml:lang="fa">برلین</lido:appellationValue>
+                        <lido:appellationValue xml:lang="fi">Berliini</lido:appellationValue>
+                        <lido:appellationValue xml:lang="fr">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ha">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="he">ברלין</lido:appellationValue>
+                        <lido:appellationValue xml:lang="hi">बर्लिन</lido:appellationValue>
+                        <lido:appellationValue xml:lang="hu">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="id">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="it">Berlino</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ja">ベルリン</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ka">ბერლინი</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ko">베를린</lido:appellationValue>
+                        <lido:appellationValue xml:lang="nl">Berlijn</lido:appellationValue>
+                        <lido:appellationValue xml:lang="pl">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="pt">Berlim</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ro">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ru">Берлин</lido:appellationValue>
+                        <lido:appellationValue xml:lang="sv">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="sw">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ta">பெர்லின்</lido:appellationValue>
+                        <lido:appellationValue xml:lang="th">เบอร์ลิน</lido:appellationValue>
+                        <lido:appellationValue xml:lang="tl">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="tr">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ur">برلن</lido:appellationValue>
+                        <lido:appellationValue xml:lang="vi">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="zh">柏林</lido:appellationValue>
+                     </lido:namePlaceSet>
+                     <lido:gml>
+                        <gml:Point srsName="EPSG:4326">
+                           <gml:pos>52.516666412354 13.383333206177</gml:pos>
+                        </gml:Point>
+                     </lido:gml>
+                  </lido:place>
+               </lido:eventPlace>
+            </lido:event>
+         </lido:eventSet>
+      </lido:eventWrap>
+      <lido:objectRelationWrap>
+         <lido:subjectWrap>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Musik</lido:conceptID>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4040802-4</lido:conceptID>
+                     <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh99001795</lido:conceptID>
+                     <lido:conceptID lido:source="aat" lido:type="uri">http://vocab.getty.edu/aat/300054146</lido:conceptID>
+                     <lido:conceptID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q638</lido:conceptID>
+                     <lido:conceptID lido:source="iconclass" lido:type="uri">http://iconclass.org/rkd/48C7/</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/748</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Musik</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ar">موسيقا</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="cs">hudba</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="da">musik</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="el">μουσική</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="en">Music</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="es">música</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fi">musiikki</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fr">musique</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="he">מוזיקה</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hi">संगीत</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hu">zene</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="id">musik</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="it">musica</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ja">音楽</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ko">음악</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="nl">muziek</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pl">muzyka</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pt">música</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ru">музыка</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sv">musik</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tl">Tugtugin</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tr">müzik</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="zh">音乐</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Uhr</lido:conceptID>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4164176-0</lido:conceptID>
+                     <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh85027100</lido:conceptID>
+                     <lido:conceptID lido:source="aat" lido:type="uri">http://vocab.getty.edu/aat/300041575</lido:conceptID>
+                     <lido:conceptID lido:source="grobsystematik" lido:type="uri">https://term.museum-digital.de/grobsystematik/tag/13321</lido:conceptID>
+                     <lido:conceptID lido:source="oberbegriffsdatei" lido:type="uri">https://term.museum-digital.de/Oberbegriffsdatei/tag/2036</lido:conceptID>
+                     <lido:conceptID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q376</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/1331</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Uhr</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ar">ساعة</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="bn">ঘড়ি</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="cs">Hodiny</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="da">Ur</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="el">Ρολόι</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="en">Clock</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="es">Reloj</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fa">ساعت</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fi">Kello</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fr">Horloge</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ha">agogo</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="he">שעון</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hi">घडी</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hu">óra</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="id">Jam</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="it">Orologio</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ja">時計</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ka">საათი</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ko">시계</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="nl">Klok</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pl">Zegar</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pt">Relógio</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ro">ceas</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ru">часы</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sv">Klocka</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sw">saa</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ta">கடிகாரம்</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="th">นาฬิกา</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tl">Orasan</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tr">Saat</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ur">گھنٹا</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="vi">Đồng hồ</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="zh">時鐘</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">http://de.wikipedia.org/wiki/Bodenstanduhr</lido:conceptID>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">http://d-nb.info/gnd/4056929-9</lido:conceptID>
+                     <lido:conceptID lido:source="grobsystematik" lido:type="uri">https://term.museum-digital.de/grobsystematik/tag/1214</lido:conceptID>
+                     <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh85078282</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/5856</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Bodenstanduhr</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Fl%C3%B6tenuhr</lido:conceptID>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4265445-2</lido:conceptID>
+                     <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh86004919</lido:conceptID>
+                     <lido:conceptID lido:source="aat" lido:type="uri">http://vocab.getty.edu/aat/300198997</lido:conceptID>
+                     <lido:conceptID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q1434775</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/10224</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Flötenuhr</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="en">Musical clock</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fr">Horloge musicale</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="it">Organo meccanico</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="nl">Speelklok</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">http://de.wikipedia.org/wiki/Mechanischer Musikautomat</lido:conceptID>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">http://d-nb.info/gnd/4129391-5</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/19304</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Mechanisches Musikinstrument</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Walze_(Landtechnik)</lido:conceptID>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">http://d-nb.info/gnd/4679536-4</lido:conceptID>
+                     <lido:conceptID lido:source="grobsystematik" lido:type="uri">https://term.museum-digital.de/grobsystematik/tag/tag/97</lido:conceptID>
+                     <lido:conceptID lido:source="ackerbau" lido:type="uri">https://term.museum-digital.de/ackerbau/tag/tag/14</lido:conceptID>
+                     <lido:conceptID lido:source="oberbegriffsdatei" lido:type="uri">https://term.museum-digital.de/oberbegriffsdatei/tag/tag/1719</lido:conceptID>
+                     <lido:conceptID lido:source="aat" lido:type="uri">http://vocab.getty.edu/aat/300022277</lido:conceptID>
+                     <lido:conceptID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q1334343</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/29990</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Ackerwalze</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ar">مدحلة</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="el">Αγροστρωτήρας</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="en">Roller</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="es">Rodillo</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fa">غلتک کشاورزی</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fi">Jyrä</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fr">Rouleau agricole</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="he">מעגילה</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="it">Rullo compattatore</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pl">Wał</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pt">Rolo compressor</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ru">сельскохозяйственной каток</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sv">Vältning</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="zh">磙</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/70212</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Register</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/72174</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Vollplatinenwerk</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/72175</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Halbstundenschlagwerk</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/72184</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Balganlage</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+         </lido:subjectWrap>
+         <lido:relatedWorksWrap>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:displayObject>Stiftung Preußische Schlösser und Gärten, Inv. Nr. HM 9514, Fragment einer Bodenstanduhr mit Flötenwerk&lt;br&gt;
+Stiftung Preußische Schlösser und Gärten, Inv. Nr. V 48, Christian Möllinger, Astronomische Bodenstanduhr mit Flötenwerk, 1791&lt;br&gt;
+Stiftung Stadtmuseum Berlin, Inv. Nr. SM 2011-0798, Christian Möllinger, Bodenstanduhr mit Flötenwerk, 1797</lido:displayObject>
+               </lido:relatedWork>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:displayObject>Stiftung Preußische Schlösser und Gärten, Inv. Nr. V 48, Christian Möllinger, Astronomische Bodenstanduhr mit Flötenwerk, 1791</lido:displayObject>
+                  <lido:object>
+                     <lido:objectWebResource>https://brandenburg.museum-digital.de/index.php?t=objekt&amp;oges=46343</lido:objectWebResource>
+                  </lido:object>
+               </lido:relatedWork>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:displayObject>Stiftung Stadtmuseum Berlin, Inv. Nr. SM 2011-0798, Christian Möllinger, Bodenstanduhr mit Flötenwerk, 1797</lido:displayObject>
+                  <lido:object>
+                     <lido:objectWebResource>https://berlin.museum-digital.de/index.php?t=objekt&amp;oges=86342</lido:objectWebResource>
+                     <lido:objectID lido:type="local">DE-MUS-061525/86342</lido:objectID>
+                  </lido:object>
+               </lido:relatedWork>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:displayObject>Möllinger, Christian, 1786: Brief Möllingers an den König, 4.11.1786, In: Geheimes Staatsarchiv Preußischer Kulturbesitz, I. HA Rep. 96, Nr. 225: Acta des Kabinets Friedrich Wilhelms II. Handwerker=Sachen. Generalia u. Specialia, 1786 – 1797, fol. 1-2</lido:displayObject>
+               </lido:relatedWork>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:displayObject>Abeler, Jürgen, 2010: Meister der Uhrmacherkunst, Wuppertal, S. 388.</lido:displayObject>
+               </lido:relatedWork>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:displayObject>Heyde, Herbert, 1994: Musikinstrumentenbau in Preußen, Tutzing, S. 329.</lido:displayObject>
+               </lido:relatedWork>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:displayObject>Kiesant, Silke, 2013: Prunkuhren am brandenburgisch-preußischen Hof im 18. Jahrhundert. Mit einem Katalog ausgewählter Uhren Friedrichs II. und Friedrich Wilhelms II. von Preußen, Petersberg, S. 387–391</lido:displayObject>
+                  <lido:object>
+                     <lido:objectID lido:type="ISBN">978-3-86568-793-7</lido:objectID>
+                  </lido:object>
+               </lido:relatedWork>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:displayObject>König, Gerhard, 1988: Uhren und Uhrmacherei in Berlin 1450–1900 (= Miniaturen zur Geschichte, Kultur und Denkmalpflege Berlins; 24), Berlin, S. 73.</lido:displayObject>
+               </lido:relatedWork>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:displayObject>Anonymus, 1826: Nekrolog (Auszug aus der Spenerschen Zeitung vom 9.2.1826), In: Verhandlungen des Vereins zur Beförderung des Gewerbefleißes in Preußen, Bd. 5, Berlin 1826, S. 57f.</lido:displayObject>
+               </lido:relatedWork>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:displayObject>Anonymus, 1790: Patent für den „Hof- und akademischen Uhrmacher, Herrn Christian Möllinger“ vom August 1790, In: Geheimes Staatsarchiv Preußischer Kulturbesitz, Rep. 76 alt (Ältere [Kultus-] Oberbehörden), Abt. III. Nr. 205: Acta Generalia betreffend die Ernennung der Academischen Künstler und deren Vorrechte v: 1788-1810, unpag.</lido:displayObject>
+               </lido:relatedWork>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:displayObject>Maurice, Klaus, 1976: Die deutsche Räderuhr. Zur Kunst und Technik des mechanischen Zeitmessers im deutschen Sprachraum. 2 Bde, München, Bd. 2, S. 111, Kat. 982.</lido:displayObject>
+               </lido:relatedWork>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:displayObject>Ponert, Dietmar Jürgen, 1979: „Möllinger’s neuestes Kunstwerk“. Eine Berliner Flötenuhr aus dem Jahre 1797 als Erwerbung des Vereins, In: Berlinische Notizen. Zeitschrift des Vereins der Freunde und Förderer des Berlin Museums e.V. 12/1979, S. 21-27</lido:displayObject>
+               </lido:relatedWork>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:displayObject>Stiegel, Achim, 2003: Berliner Möbelkunst vom Ende des 18. bis zur Mitte des 19. Jahrhunderts, Berlin, München, S. 519f.</lido:displayObject>
+               </lido:relatedWork>
+            </lido:relatedWorkSet>
+         </lido:relatedWorksWrap>
+      </lido:objectRelationWrap>
+   </lido:descriptiveMetadata>
+   <lido:administrativeMetadata xml:lang="de">
+      <lido:rightsWorkWrap>
+         <lido:rightsWorkSet>
+            <lido:rightsHolder>
+               <lido:legalBodyName>
+                  <lido:appellationValue>Stiftung Stadtmuseum Berlin</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:rightsHolder>
+         </lido:rightsWorkSet>
+      </lido:rightsWorkWrap>
+      <lido:recordWrap>
+         <lido:recordID lido:type="museum-digital">66203</lido:recordID>
+         <lido:recordType>
+            <lido:term lido:addedSearchTerm="no">item</lido:term>
+         </lido:recordType>
+         <lido:recordSource lido:type="dataProvider">
+            <lido:legalBodyName>
+               <lido:appellationValue>museum-digital</lido:appellationValue>
+            </lido:legalBodyName>
+            <lido:legalBodyWeblink>https://berlin.museum-digital.de/</lido:legalBodyWeblink>
+         </lido:recordSource>
+         <lido:recordSource>
+            <lido:legalBodyID lido:type="isil">DE-MUS-061525</lido:legalBodyID>
+            <lido:legalBodyName>
+               <lido:appellationValue>Stiftung Stadtmuseum Berlin</lido:appellationValue>
+            </lido:legalBodyName>
+         </lido:recordSource>
+         <lido:recordRights>
+            <lido:rightsType>
+               <lido:conceptID lido:type="uri">https://creativecommons.org/publicdomain/zero/1.0/</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no">CC 0</lido:term>
+            </lido:rightsType>
+            <lido:rightsHolder>
+               <lido:legalBodyID lido:type="isil">DE-MUS-061525</lido:legalBodyID>
+               <lido:legalBodyName>
+                  <lido:appellationValue>Stiftung Stadtmuseum Berlin</lido:appellationValue>
+               </lido:legalBodyName>
+               <lido:legalBodyWeblink>https://www.stadtmuseum.de</lido:legalBodyWeblink>
+            </lido:rightsHolder>
+            <lido:creditLine>Förderprogramm zur Digitalisierung von Objekten des kulturellen Erbes des Landes Berlin</lido:creditLine>
+         </lido:recordRights>
+         <lido:recordInfoSet>
+            <lido:recordInfoLink>https://berlin.museum-digital.de/index.php?t=objekt&amp;oges=66203</lido:recordInfoLink>
+            <lido:recordMetadataDate>2021-02-23 13:41:09</lido:recordMetadataDate>
+         </lido:recordInfoSet>
+      </lido:recordWrap>
+      <lido:resourceWrap>
+         <lido:resourceSet lido:sortorder="1">
+            <lido:resourceID lido:source="image" lido:type="local">51381</lido:resourceID>
+            <lido:resourceRepresentation lido:type="image_thumb">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/66203-ii_61_151_j/ii_61-151_j/100h_ii-61-151-j-66203-2.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_preview">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/66203-ii_61_151_j/ii_61-151_j/200w_ii-61-151-j-66203-2.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/66203-ii_61_151_j/ii_61-151_j/ii-61-151-j-66203-2.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceType>
+               <lido:term>image</lido:term>
+            </lido:resourceType>
+            <lido:resourceSource lido:type="creator">
+               <lido:legalBodyName>
+                  <lido:appellationValue>Oliver Ziebe, Berlin (2020)</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:resourceSource>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+                  <lido:term>CC BY 4.0</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Stiftung Stadtmuseum Berlin</lido:appellationValue>
+                  </lido:legalBodyName>
+               </lido:rightsHolder>
+            </lido:rightsResource>
+         </lido:resourceSet>
+         <lido:resourceSet lido:sortorder="2">
+            <lido:resourceID lido:source="image" lido:type="local">51382</lido:resourceID>
+            <lido:resourceRepresentation lido:type="image_thumb">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/66203-ii_61_151_j/ii_61-151_j/100h_ii-61-151-j-66203-3.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_preview">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/66203-ii_61_151_j/ii_61-151_j/200w_ii-61-151-j-66203-3.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/66203-ii_61_151_j/ii_61-151_j/ii-61-151-j-66203-3.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceType>
+               <lido:term>image</lido:term>
+            </lido:resourceType>
+            <lido:resourceSource lido:type="creator">
+               <lido:legalBodyName>
+                  <lido:appellationValue>Oliver Ziebe, Berlin (2020)</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:resourceSource>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+                  <lido:term>CC BY 4.0</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Stiftung Stadtmuseum Berlin</lido:appellationValue>
+                  </lido:legalBodyName>
+               </lido:rightsHolder>
+            </lido:rightsResource>
+         </lido:resourceSet>
+         <lido:resourceSet lido:sortorder="3">
+            <lido:resourceID lido:source="image" lido:type="local">51380</lido:resourceID>
+            <lido:resourceRepresentation lido:type="image_thumb">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/66203-ii_61_151_j/ii_61-151_j/100h_ii-61-151-j-66203.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_preview">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/66203-ii_61_151_j/ii_61-151_j/200w_ii-61-151-j-66203.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/66203-ii_61_151_j/ii_61-151_j/ii-61-151-j-66203.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceType>
+               <lido:term>image</lido:term>
+            </lido:resourceType>
+            <lido:resourceRelType>
+               <lido:term>Hauptansicht</lido:term>
+            </lido:resourceRelType>
+            <lido:resourceSource lido:type="creator">
+               <lido:legalBodyName>
+                  <lido:appellationValue>Oliver Ziebe, Berlin (2020)</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:resourceSource>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+                  <lido:term>CC BY 4.0</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Stiftung Stadtmuseum Berlin</lido:appellationValue>
+                  </lido:legalBodyName>
+               </lido:rightsHolder>
+            </lido:rightsResource>
+         </lido:resourceSet>
+         <lido:resourceSet lido:sortorder="4">
+            <lido:resourceID lido:source="image" lido:type="local">51383</lido:resourceID>
+            <lido:resourceRepresentation lido:type="image_thumb">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/66203-ii_61_151_j/ii_61-151_j/100h_ii-61-151-j-66203-4.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_preview">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/66203-ii_61_151_j/ii_61-151_j/200w_ii-61-151-j-66203-4.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/66203-ii_61_151_j/ii_61-151_j/ii-61-151-j-66203-4.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceType>
+               <lido:term>image</lido:term>
+            </lido:resourceType>
+            <lido:resourceSource lido:type="creator">
+               <lido:legalBodyName>
+                  <lido:appellationValue>Oliver Ziebe, Berlin (2020)</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:resourceSource>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+                  <lido:term>CC BY 4.0</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Stiftung Stadtmuseum Berlin</lido:appellationValue>
+                  </lido:legalBodyName>
+               </lido:rightsHolder>
+            </lido:rightsResource>
+         </lido:resourceSet>
+         <lido:resourceSet lido:sortorder="5">
+            <lido:resourceID lido:source="image" lido:type="local">51385</lido:resourceID>
+            <lido:resourceRepresentation lido:type="image_thumb">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/66203-ii_61_151_j/ii_61-151_j/100h_ii-61-151-j-66203-6.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_preview">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/66203-ii_61_151_j/ii_61-151_j/200w_ii-61-151-j-66203-6.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/66203-ii_61_151_j/ii_61-151_j/ii-61-151-j-66203-6.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceType>
+               <lido:term>image</lido:term>
+            </lido:resourceType>
+            <lido:resourceSource lido:type="creator">
+               <lido:legalBodyName>
+                  <lido:appellationValue>Oliver Ziebe, Berlin (2020)</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:resourceSource>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+                  <lido:term>CC BY 4.0</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Stiftung Stadtmuseum Berlin</lido:appellationValue>
+                  </lido:legalBodyName>
+               </lido:rightsHolder>
+            </lido:rightsResource>
+         </lido:resourceSet>
+         <lido:resourceSet lido:sortorder="6">
+            <lido:resourceID lido:source="image" lido:type="local">51386</lido:resourceID>
+            <lido:resourceRepresentation lido:type="image_thumb">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/66203-ii_61_151_j/ii_61-151_j/100h_ii-61-151-j-66203-7.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_preview">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/66203-ii_61_151_j/ii_61-151_j/200w_ii-61-151-j-66203-7.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/66203-ii_61_151_j/ii_61-151_j/ii-61-151-j-66203-7.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceType>
+               <lido:term>image</lido:term>
+            </lido:resourceType>
+            <lido:resourceSource lido:type="creator">
+               <lido:legalBodyName>
+                  <lido:appellationValue>Oliver Ziebe, Berlin (2020)</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:resourceSource>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+                  <lido:term>CC BY 4.0</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Stiftung Stadtmuseum Berlin</lido:appellationValue>
+                  </lido:legalBodyName>
+               </lido:rightsHolder>
+            </lido:rightsResource>
+         </lido:resourceSet>
+         <lido:resourceSet lido:sortorder="7">
+            <lido:resourceID lido:source="image" lido:type="local">51390</lido:resourceID>
+            <lido:resourceRepresentation lido:type="image_thumb">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/66203-ii_61_151_j/ii_61-151_j/100h_ii-61-151-j-66203-11.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_preview">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/66203-ii_61_151_j/ii_61-151_j/200w_ii-61-151-j-66203-11.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/66203-ii_61_151_j/ii_61-151_j/ii-61-151-j-66203-11.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceType>
+               <lido:term>image</lido:term>
+            </lido:resourceType>
+            <lido:resourceSource lido:type="creator">
+               <lido:legalBodyName>
+                  <lido:appellationValue>Oliver Ziebe, Berlin (2020)</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:resourceSource>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+                  <lido:term>CC BY 4.0</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Stiftung Stadtmuseum Berlin</lido:appellationValue>
+                  </lido:legalBodyName>
+               </lido:rightsHolder>
+            </lido:rightsResource>
+         </lido:resourceSet>
+         <lido:resourceSet lido:sortorder="8">
+            <lido:resourceID lido:source="image" lido:type="local">51391</lido:resourceID>
+            <lido:resourceRepresentation lido:type="image_thumb">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/66203-ii_61_151_j/ii_61-151_j/100h_ii-61-151-j-66203-12.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_preview">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/66203-ii_61_151_j/ii_61-151_j/200w_ii-61-151-j-66203-12.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/66203-ii_61_151_j/ii_61-151_j/ii-61-151-j-66203-12.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceType>
+               <lido:term>image</lido:term>
+            </lido:resourceType>
+            <lido:resourceSource lido:type="creator">
+               <lido:legalBodyName>
+                  <lido:appellationValue>Oliver Ziebe, Berlin (2020)</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:resourceSource>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+                  <lido:term>CC BY 4.0</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Stiftung Stadtmuseum Berlin</lido:appellationValue>
+                  </lido:legalBodyName>
+               </lido:rightsHolder>
+            </lido:rightsResource>
+         </lido:resourceSet>
+         <lido:resourceSet lido:sortorder="9">
+            <lido:resourceID lido:source="image" lido:type="local">51388</lido:resourceID>
+            <lido:resourceRepresentation lido:type="image_thumb">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/66203-ii_61_151_j/ii_61-151_j/100h_ii-61-151-j-66203-9.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_preview">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/66203-ii_61_151_j/ii_61-151_j/200w_ii-61-151-j-66203-9.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/66203-ii_61_151_j/ii_61-151_j/ii-61-151-j-66203-9.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceType>
+               <lido:term>image</lido:term>
+            </lido:resourceType>
+            <lido:resourceSource lido:type="creator">
+               <lido:legalBodyName>
+                  <lido:appellationValue>Oliver Ziebe, Berlin (2020)</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:resourceSource>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+                  <lido:term>CC BY 4.0</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Stiftung Stadtmuseum Berlin</lido:appellationValue>
+                  </lido:legalBodyName>
+               </lido:rightsHolder>
+            </lido:rightsResource>
+         </lido:resourceSet>
+         <lido:resourceSet lido:sortorder="10">
+            <lido:resourceID lido:source="image" lido:type="local">51389</lido:resourceID>
+            <lido:resourceRepresentation lido:type="image_thumb">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/66203-ii_61_151_j/ii_61-151_j/100h_ii-61-151-j-66203-10.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_preview">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/66203-ii_61_151_j/ii_61-151_j/200w_ii-61-151-j-66203-10.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/66203-ii_61_151_j/ii_61-151_j/ii-61-151-j-66203-10.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceType>
+               <lido:term>image</lido:term>
+            </lido:resourceType>
+            <lido:resourceSource lido:type="creator">
+               <lido:legalBodyName>
+                  <lido:appellationValue>Oliver Ziebe, Berlin (2020)</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:resourceSource>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+                  <lido:term>CC BY 4.0</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Stiftung Stadtmuseum Berlin</lido:appellationValue>
+                  </lido:legalBodyName>
+               </lido:rightsHolder>
+            </lido:rightsResource>
+         </lido:resourceSet>
+         <lido:resourceSet lido:sortorder="11">
+            <lido:resourceID lido:source="image" lido:type="local">51407</lido:resourceID>
+            <lido:resourceRepresentation lido:type="image_thumb">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/66203-ii_61_151_j/ii_61-151_j/100h_ii-61-151-j-66203-14.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_preview">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/66203-ii_61_151_j/ii_61-151_j/200w_ii-61-151-j-66203-14.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/66203-ii_61_151_j/ii_61-151_j/ii-61-151-j-66203-14.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceType>
+               <lido:term>image</lido:term>
+            </lido:resourceType>
+            <lido:resourceSource lido:type="creator">
+               <lido:legalBodyName>
+                  <lido:appellationValue>Oliver Ziebe, Berlin (2020)</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:resourceSource>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+                  <lido:term>CC BY 4.0</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Stiftung Stadtmuseum Berlin</lido:appellationValue>
+                  </lido:legalBodyName>
+               </lido:rightsHolder>
+            </lido:rightsResource>
+         </lido:resourceSet>
+         <lido:resourceSet lido:sortorder="12">
+            <lido:resourceID lido:source="image" lido:type="local">51404</lido:resourceID>
+            <lido:resourceRepresentation lido:type="image_thumb">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/66203-ii_61_151_j/ii_61-151_j/100h_ii-61-151-j-66203-5.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_preview">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/66203-ii_61_151_j/ii_61-151_j/200w_ii-61-151-j-66203-5.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/66203-ii_61_151_j/ii_61-151_j/ii-61-151-j-66203-5.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceType>
+               <lido:term>image</lido:term>
+            </lido:resourceType>
+            <lido:resourceSource lido:type="creator">
+               <lido:legalBodyName>
+                  <lido:appellationValue>Oliver Ziebe, Berlin (2020)</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:resourceSource>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+                  <lido:term>CC BY 4.0</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Stiftung Stadtmuseum Berlin</lido:appellationValue>
+                  </lido:legalBodyName>
+               </lido:rightsHolder>
+            </lido:rightsResource>
+         </lido:resourceSet>
+         <lido:resourceSet lido:sortorder="13">
+            <lido:resourceID lido:source="image" lido:type="local">51405</lido:resourceID>
+            <lido:resourceRepresentation lido:type="image_thumb">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/66203-ii_61_151_j/ii_61-151_j/100h_ii-61-151-j-66203-8.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_preview">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/66203-ii_61_151_j/ii_61-151_j/200w_ii-61-151-j-66203-8.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/66203-ii_61_151_j/ii_61-151_j/ii-61-151-j-66203-8.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceType>
+               <lido:term>image</lido:term>
+            </lido:resourceType>
+            <lido:resourceSource lido:type="creator">
+               <lido:legalBodyName>
+                  <lido:appellationValue>Oliver Ziebe, Berlin (2020)</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:resourceSource>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+                  <lido:term>CC BY 4.0</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Stiftung Stadtmuseum Berlin</lido:appellationValue>
+                  </lido:legalBodyName>
+               </lido:rightsHolder>
+            </lido:rightsResource>
+         </lido:resourceSet>
+         <lido:resourceSet lido:sortorder="14">
+            <lido:resourceID lido:source="image" lido:type="local">51406</lido:resourceID>
+            <lido:resourceRepresentation lido:type="image_thumb">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/66203-ii_61_151_j/ii_61-151_j/100h_ii-61-151-j-66203-13.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_preview">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/66203-ii_61_151_j/ii_61-151_j/200w_ii-61-151-j-66203-13.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/66203-ii_61_151_j/ii_61-151_j/ii-61-151-j-66203-13.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceType>
+               <lido:term>image</lido:term>
+            </lido:resourceType>
+            <lido:resourceSource lido:type="creator">
+               <lido:legalBodyName>
+                  <lido:appellationValue>Oliver Ziebe, Berlin (2020)</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:resourceSource>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+                  <lido:term>CC BY 4.0</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Stiftung Stadtmuseum Berlin</lido:appellationValue>
+                  </lido:legalBodyName>
+               </lido:rightsHolder>
+            </lido:rightsResource>
+         </lido:resourceSet>
+         <lido:resourceSet lido:sortorder="15">
+            <lido:resourceID lido:source="image" lido:type="local">51408</lido:resourceID>
+            <lido:resourceRepresentation lido:type="image_thumb">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/66203-ii_61_151_j/ii_61-151_j/100h_ii-61-151-j-66203-15.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_preview">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/66203-ii_61_151_j/ii_61-151_j/200w_ii-61-151-j-66203-15.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/66203-ii_61_151_j/ii_61-151_j/ii-61-151-j-66203-15.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceType>
+               <lido:term>image</lido:term>
+            </lido:resourceType>
+            <lido:resourceSource lido:type="creator">
+               <lido:legalBodyName>
+                  <lido:appellationValue>Oliver Ziebe, Berlin (2020)</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:resourceSource>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+                  <lido:term>CC BY 4.0</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Stiftung Stadtmuseum Berlin</lido:appellationValue>
+                  </lido:legalBodyName>
+               </lido:rightsHolder>
+            </lido:rightsResource>
+         </lido:resourceSet>
+         <lido:resourceSet lido:sortorder="16">
+            <lido:resourceID lido:source="image" lido:type="local">51409</lido:resourceID>
+            <lido:resourceRepresentation lido:type="image_thumb">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/66203-ii_61_151_j/ii_61-151_j/100h_ii-61-151-j-66203-16.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_preview">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/66203-ii_61_151_j/ii_61-151_j/200w_ii-61-151-j-66203-16.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/66203-ii_61_151_j/ii_61-151_j/ii-61-151-j-66203-16.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceType>
+               <lido:term>image</lido:term>
+            </lido:resourceType>
+            <lido:resourceSource lido:type="creator">
+               <lido:legalBodyName>
+                  <lido:appellationValue>Oliver Ziebe, Berlin (2020)</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:resourceSource>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+                  <lido:term>CC BY 4.0</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Stiftung Stadtmuseum Berlin</lido:appellationValue>
+                  </lido:legalBodyName>
+               </lido:rightsHolder>
+            </lido:rightsResource>
+         </lido:resourceSet>
+         <lido:resourceSet lido:sortorder="17">
+            <lido:resourceID lido:source="image" lido:type="local">51410</lido:resourceID>
+            <lido:resourceRepresentation lido:type="image_thumb">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/66203-ii_61_151_j/ii_61-151_j/100h_ii-61-151-j-66203-17.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_preview">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/66203-ii_61_151_j/ii_61-151_j/200w_ii-61-151-j-66203-17.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/66203-ii_61_151_j/ii_61-151_j/ii-61-151-j-66203-17.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceType>
+               <lido:term>image</lido:term>
+            </lido:resourceType>
+            <lido:resourceSource lido:type="creator">
+               <lido:legalBodyName>
+                  <lido:appellationValue>Oliver Ziebe, Berlin (2020)</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:resourceSource>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+                  <lido:term>CC BY 4.0</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Stiftung Stadtmuseum Berlin</lido:appellationValue>
+                  </lido:legalBodyName>
+               </lido:rightsHolder>
+            </lido:rightsResource>
+         </lido:resourceSet>
+         <lido:resourceSet lido:sortorder="18">
+            <lido:resourceID lido:source="image" lido:type="local">51411</lido:resourceID>
+            <lido:resourceRepresentation lido:type="image_thumb">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/66203-ii_61_151_j/ii_61-151_j/100h_ii-61-151-j-66203-18.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_preview">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/66203-ii_61_151_j/ii_61-151_j/200w_ii-61-151-j-66203-18.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/66203-ii_61_151_j/ii_61-151_j/ii-61-151-j-66203-18.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceType>
+               <lido:term>image</lido:term>
+            </lido:resourceType>
+            <lido:resourceSource lido:type="creator">
+               <lido:legalBodyName>
+                  <lido:appellationValue>Oliver Ziebe, Berlin (2020)</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:resourceSource>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+                  <lido:term>CC BY 4.0</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Stiftung Stadtmuseum Berlin</lido:appellationValue>
+                  </lido:legalBodyName>
+               </lido:rightsHolder>
+            </lido:rightsResource>
+         </lido:resourceSet>
+         <lido:resourceSet lido:sortorder="19">
+            <lido:resourceID lido:source="image" lido:type="local">51412</lido:resourceID>
+            <lido:resourceRepresentation lido:type="image_thumb">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/66203-ii_61_151_j/ii_61-151_j/100h_ii-61-151-j-66203-19.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_preview">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/66203-ii_61_151_j/ii_61-151_j/200w_ii-61-151-j-66203-19.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/66203-ii_61_151_j/ii_61-151_j/ii-61-151-j-66203-19.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceType>
+               <lido:term>image</lido:term>
+            </lido:resourceType>
+            <lido:resourceSource lido:type="creator">
+               <lido:legalBodyName>
+                  <lido:appellationValue>Oliver Ziebe, Berlin (2020)</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:resourceSource>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+                  <lido:term>CC BY 4.0</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Stiftung Stadtmuseum Berlin</lido:appellationValue>
+                  </lido:legalBodyName>
+               </lido:rightsHolder>
+            </lido:rightsResource>
+         </lido:resourceSet>
+         <lido:resourceSet lido:sortorder="20">
+            <lido:resourceID lido:source="image" lido:type="local">51413</lido:resourceID>
+            <lido:resourceRepresentation lido:type="image_thumb">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/66203-ii_61_151_j/ii_61-151_j/100h_ii-61-151-j-66203-20.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_preview">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/66203-ii_61_151_j/ii_61-151_j/200w_ii-61-151-j-66203-20.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/66203-ii_61_151_j/ii_61-151_j/ii-61-151-j-66203-20.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceType>
+               <lido:term>image</lido:term>
+            </lido:resourceType>
+            <lido:resourceSource lido:type="creator">
+               <lido:legalBodyName>
+                  <lido:appellationValue>Oliver Ziebe, Berlin (2020)</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:resourceSource>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+                  <lido:term>CC BY 4.0</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Stiftung Stadtmuseum Berlin</lido:appellationValue>
+                  </lido:legalBodyName>
+               </lido:rightsHolder>
+            </lido:rightsResource>
+         </lido:resourceSet>
+         <lido:resourceSet lido:sortorder="21">
+            <lido:resourceID lido:source="image" lido:type="local">51414</lido:resourceID>
+            <lido:resourceRepresentation lido:type="image_thumb">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/66203-ii_61_151_j/ii_61-151_j/100h_ii-61-151-j-66203-21.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_preview">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/66203-ii_61_151_j/ii_61-151_j/200w_ii-61-151-j-66203-21.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/66203-ii_61_151_j/ii_61-151_j/ii-61-151-j-66203-21.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceType>
+               <lido:term>image</lido:term>
+            </lido:resourceType>
+            <lido:resourceSource lido:type="creator">
+               <lido:legalBodyName>
+                  <lido:appellationValue>Oliver Ziebe, Berlin (2020)</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:resourceSource>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+                  <lido:term>CC BY 4.0</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Stiftung Stadtmuseum Berlin</lido:appellationValue>
+                  </lido:legalBodyName>
+               </lido:rightsHolder>
+            </lido:rightsResource>
+         </lido:resourceSet>
+         <lido:resourceSet lido:sortorder="22">
+            <lido:resourceID lido:source="image" lido:type="local">51415</lido:resourceID>
+            <lido:resourceRepresentation lido:type="image_thumb">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/66203-ii_61_151_j/ii_61-151_j/100h_ii-61-151-j-66203-22.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_preview">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/66203-ii_61_151_j/ii_61-151_j/200w_ii-61-151-j-66203-22.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/66203-ii_61_151_j/ii_61-151_j/ii-61-151-j-66203-22.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceType>
+               <lido:term>image</lido:term>
+            </lido:resourceType>
+            <lido:resourceSource lido:type="creator">
+               <lido:legalBodyName>
+                  <lido:appellationValue>Oliver Ziebe, Berlin (2020)</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:resourceSource>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+                  <lido:term>CC BY 4.0</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Stiftung Stadtmuseum Berlin</lido:appellationValue>
+                  </lido:legalBodyName>
+               </lido:rightsHolder>
+            </lido:rightsResource>
+         </lido:resourceSet>
+         <lido:resourceSet lido:sortorder="23">
+            <lido:resourceID lido:source="image" lido:type="local">51416</lido:resourceID>
+            <lido:resourceRepresentation lido:type="image_thumb">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/66203-ii_61_151_j/ii_61-151_j/100h_ii-61-151-j-66203-23.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_preview">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/66203-ii_61_151_j/ii_61-151_j/200w_ii-61-151-j-66203-23.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/66203-ii_61_151_j/ii_61-151_j/ii-61-151-j-66203-23.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceType>
+               <lido:term>image</lido:term>
+            </lido:resourceType>
+            <lido:resourceSource lido:type="creator">
+               <lido:legalBodyName>
+                  <lido:appellationValue>Oliver Ziebe, Berlin (2020)</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:resourceSource>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+                  <lido:term>CC BY 4.0</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Stiftung Stadtmuseum Berlin</lido:appellationValue>
+                  </lido:legalBodyName>
+               </lido:rightsHolder>
+            </lido:rightsResource>
+         </lido:resourceSet>
+         <lido:resourceSet lido:sortorder="24">
+            <lido:resourceID lido:source="image" lido:type="local">51417</lido:resourceID>
+            <lido:resourceRepresentation lido:type="image_thumb">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/66203-ii_61_151_j/ii_61-151_j/100h_ii-61-151-j-66203-24.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_preview">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/66203-ii_61_151_j/ii_61-151_j/200w_ii-61-151-j-66203-24.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/66203-ii_61_151_j/ii_61-151_j/ii-61-151-j-66203-24.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceType>
+               <lido:term>image</lido:term>
+            </lido:resourceType>
+            <lido:resourceSource lido:type="creator">
+               <lido:legalBodyName>
+                  <lido:appellationValue>Oliver Ziebe, Berlin (2020)</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:resourceSource>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+                  <lido:term>CC BY 4.0</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Stiftung Stadtmuseum Berlin</lido:appellationValue>
+                  </lido:legalBodyName>
+               </lido:rightsHolder>
+            </lido:rightsResource>
+         </lido:resourceSet>
+         <lido:resourceSet lido:sortorder="25">
+            <lido:resourceID lido:source="image" lido:type="local">51418</lido:resourceID>
+            <lido:resourceRepresentation lido:type="image_thumb">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/66203-ii_61_151_j/ii_61-151_j/100h_ii-61-151-j-66203-25.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_preview">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/66203-ii_61_151_j/ii_61-151_j/200w_ii-61-151-j-66203-25.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/66203-ii_61_151_j/ii_61-151_j/ii-61-151-j-66203-25.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceType>
+               <lido:term>image</lido:term>
+            </lido:resourceType>
+            <lido:resourceSource lido:type="creator">
+               <lido:legalBodyName>
+                  <lido:appellationValue>Oliver Ziebe, Berlin (2020)</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:resourceSource>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+                  <lido:term>CC BY 4.0</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Stiftung Stadtmuseum Berlin</lido:appellationValue>
+                  </lido:legalBodyName>
+               </lido:rightsHolder>
+            </lido:rightsResource>
+         </lido:resourceSet>
+         <lido:resourceSet lido:sortorder="26">
+            <lido:resourceID lido:source="image" lido:type="local">51419</lido:resourceID>
+            <lido:resourceRepresentation lido:type="image_thumb">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/66203-ii_61_151_j/ii_61-151_j/100h_ii-61-151-j-66203-26.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_preview">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/66203-ii_61_151_j/ii_61-151_j/200w_ii-61-151-j-66203-26.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/66203-ii_61_151_j/ii_61-151_j/ii-61-151-j-66203-26.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceType>
+               <lido:term>image</lido:term>
+            </lido:resourceType>
+            <lido:resourceSource lido:type="creator">
+               <lido:legalBodyName>
+                  <lido:appellationValue>Oliver Ziebe, Berlin (2020)</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:resourceSource>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+                  <lido:term>CC BY 4.0</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Stiftung Stadtmuseum Berlin</lido:appellationValue>
+                  </lido:legalBodyName>
+               </lido:rightsHolder>
+            </lido:rightsResource>
+         </lido:resourceSet>
+         <lido:resourceSet lido:sortorder="27">
+            <lido:resourceID lido:source="image" lido:type="local">51420</lido:resourceID>
+            <lido:resourceRepresentation lido:type="image_thumb">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/66203-ii_61_151_j/ii_61-151_j/100h_ii-61-151-j-66203-27.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_preview">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/66203-ii_61_151_j/ii_61-151_j/200w_ii-61-151-j-66203-27.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/66203-ii_61_151_j/ii_61-151_j/ii-61-151-j-66203-27.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceType>
+               <lido:term>image</lido:term>
+            </lido:resourceType>
+            <lido:resourceSource lido:type="creator">
+               <lido:legalBodyName>
+                  <lido:appellationValue>Oliver Ziebe, Berlin (2020)</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:resourceSource>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+                  <lido:term>CC BY 4.0</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Stiftung Stadtmuseum Berlin</lido:appellationValue>
+                  </lido:legalBodyName>
+               </lido:rightsHolder>
+            </lido:rightsResource>
+         </lido:resourceSet>
+         <lido:resourceSet lido:sortorder="28">
+            <lido:resourceID lido:source="image" lido:type="local">51421</lido:resourceID>
+            <lido:resourceRepresentation lido:type="image_thumb">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/66203-ii_61_151_j/ii_61-151_j/100h_ii-61-151-j-66203-28.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_preview">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/66203-ii_61_151_j/ii_61-151_j/200w_ii-61-151-j-66203-28.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/66203-ii_61_151_j/ii_61-151_j/ii-61-151-j-66203-28.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceType>
+               <lido:term>image</lido:term>
+            </lido:resourceType>
+            <lido:resourceSource lido:type="creator">
+               <lido:legalBodyName>
+                  <lido:appellationValue>Oliver Ziebe, Berlin (2020)</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:resourceSource>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+                  <lido:term>CC BY 4.0</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Stiftung Stadtmuseum Berlin</lido:appellationValue>
+                  </lido:legalBodyName>
+               </lido:rightsHolder>
+            </lido:rightsResource>
+         </lido:resourceSet>
+         <lido:resourceSet lido:sortorder="29">
+            <lido:resourceID lido:source="image" lido:type="local">51422</lido:resourceID>
+            <lido:resourceRepresentation lido:type="image_thumb">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/66203-ii_61_151_j/ii_61-151_j/100h_ii-61-151-j-66203-29.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_preview">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/66203-ii_61_151_j/ii_61-151_j/200w_ii-61-151-j-66203-29.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/66203-ii_61_151_j/ii_61-151_j/ii-61-151-j-66203-29.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceType>
+               <lido:term>image</lido:term>
+            </lido:resourceType>
+            <lido:resourceSource lido:type="creator">
+               <lido:legalBodyName>
+                  <lido:appellationValue>Oliver Ziebe, Berlin (2020)</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:resourceSource>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+                  <lido:term>CC BY 4.0</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Stiftung Stadtmuseum Berlin</lido:appellationValue>
+                  </lido:legalBodyName>
+               </lido:rightsHolder>
+            </lido:rightsResource>
+         </lido:resourceSet>
+         <lido:resourceSet lido:sortorder="30">
+            <lido:resourceID lido:source="image" lido:type="local">51423</lido:resourceID>
+            <lido:resourceRepresentation lido:type="image_thumb">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/66203-ii_61_151_j/ii_61-151_j/100h_ii-61-151-j-66203-30.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_preview">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/66203-ii_61_151_j/ii_61-151_j/200w_ii-61-151-j-66203-30.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/66203-ii_61_151_j/ii_61-151_j/ii-61-151-j-66203-30.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceType>
+               <lido:term>image</lido:term>
+            </lido:resourceType>
+            <lido:resourceSource lido:type="creator">
+               <lido:legalBodyName>
+                  <lido:appellationValue>Oliver Ziebe, Berlin (2020)</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:resourceSource>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+                  <lido:term>CC BY 4.0</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Stiftung Stadtmuseum Berlin</lido:appellationValue>
+                  </lido:legalBodyName>
+               </lido:rightsHolder>
+            </lido:rightsResource>
+         </lido:resourceSet>
+         <lido:resourceSet lido:sortorder="31">
+            <lido:resourceID lido:source="image" lido:type="local">51424</lido:resourceID>
+            <lido:resourceRepresentation lido:type="image_thumb">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/66203-ii_61_151_j/ii_61-151_j/100h_ii-61-151-j-66203-31.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_preview">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/66203-ii_61_151_j/ii_61-151_j/200w_ii-61-151-j-66203-31.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/66203-ii_61_151_j/ii_61-151_j/ii-61-151-j-66203-31.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceType>
+               <lido:term>image</lido:term>
+            </lido:resourceType>
+            <lido:resourceSource lido:type="creator">
+               <lido:legalBodyName>
+                  <lido:appellationValue>Oliver Ziebe, Berlin (2020)</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:resourceSource>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+                  <lido:term>CC BY 4.0</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Stiftung Stadtmuseum Berlin</lido:appellationValue>
+                  </lido:legalBodyName>
+               </lido:rightsHolder>
+            </lido:rightsResource>
+         </lido:resourceSet>
+         <lido:resourceSet lido:sortorder="32">
+            <lido:resourceID lido:source="image" lido:type="local">51425</lido:resourceID>
+            <lido:resourceRepresentation lido:type="image_thumb">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/66203-ii_61_151_j/ii_61-151_j/100h_ii-61-151-j-66203-32.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_preview">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/66203-ii_61_151_j/ii_61-151_j/200w_ii-61-151-j-66203-32.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/66203-ii_61_151_j/ii_61-151_j/ii-61-151-j-66203-32.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceType>
+               <lido:term>image</lido:term>
+            </lido:resourceType>
+            <lido:resourceSource lido:type="creator">
+               <lido:legalBodyName>
+                  <lido:appellationValue>Oliver Ziebe, Berlin (2020)</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:resourceSource>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+                  <lido:term>CC BY 4.0</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Stiftung Stadtmuseum Berlin</lido:appellationValue>
+                  </lido:legalBodyName>
+               </lido:rightsHolder>
+            </lido:rightsResource>
+         </lido:resourceSet>
+         <lido:resourceSet lido:sortorder="33">
+            <lido:resourceID lido:source="image" lido:type="local">51426</lido:resourceID>
+            <lido:resourceRepresentation lido:type="image_thumb">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/66203-ii_61_151_j/ii_61-151_j/100h_ii-61-151-j-66203-33.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_preview">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/66203-ii_61_151_j/ii_61-151_j/200w_ii-61-151-j-66203-33.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/66203-ii_61_151_j/ii_61-151_j/ii-61-151-j-66203-33.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceType>
+               <lido:term>image</lido:term>
+            </lido:resourceType>
+            <lido:resourceSource lido:type="creator">
+               <lido:legalBodyName>
+                  <lido:appellationValue>Oliver Ziebe, Berlin (2020)</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:resourceSource>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+                  <lido:term>CC BY 4.0</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Stiftung Stadtmuseum Berlin</lido:appellationValue>
+                  </lido:legalBodyName>
+               </lido:rightsHolder>
+            </lido:rightsResource>
+         </lido:resourceSet>
+         <lido:resourceSet lido:sortorder="34">
+            <lido:resourceID lido:source="image" lido:type="local">51427</lido:resourceID>
+            <lido:resourceRepresentation lido:type="image_thumb">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/66203-ii_61_151_j/ii_61-151_j/100h_ii-61-151-j-66203-34.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_preview">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/66203-ii_61_151_j/ii_61-151_j/200w_ii-61-151-j-66203-34.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/66203-ii_61_151_j/ii_61-151_j/ii-61-151-j-66203-34.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceType>
+               <lido:term>image</lido:term>
+            </lido:resourceType>
+            <lido:resourceSource lido:type="creator">
+               <lido:legalBodyName>
+                  <lido:appellationValue>Oliver Ziebe, Berlin (2020)</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:resourceSource>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+                  <lido:term>CC BY 4.0</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Stiftung Stadtmuseum Berlin</lido:appellationValue>
+                  </lido:legalBodyName>
+               </lido:rightsHolder>
+            </lido:rightsResource>
+         </lido:resourceSet>
+         <lido:resourceSet lido:sortorder="35">
+            <lido:resourceID lido:source="image" lido:type="local">51428</lido:resourceID>
+            <lido:resourceRepresentation lido:type="image_thumb">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/66203-ii_61_151_j/ii_61-151_j/100h_ii-61-151-j-66203-35.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_preview">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/66203-ii_61_151_j/ii_61-151_j/200w_ii-61-151-j-66203-35.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/66203-ii_61_151_j/ii_61-151_j/ii-61-151-j-66203-35.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceType>
+               <lido:term>image</lido:term>
+            </lido:resourceType>
+            <lido:resourceSource lido:type="creator">
+               <lido:legalBodyName>
+                  <lido:appellationValue>Oliver Ziebe, Berlin (2020)</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:resourceSource>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+                  <lido:term>CC BY 4.0</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Stiftung Stadtmuseum Berlin</lido:appellationValue>
+                  </lido:legalBodyName>
+               </lido:rightsHolder>
+            </lido:rightsResource>
+         </lido:resourceSet>
+         <lido:resourceSet lido:sortorder="36">
+            <lido:resourceID lido:source="image" lido:type="local">51429</lido:resourceID>
+            <lido:resourceRepresentation lido:type="image_thumb">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/66203-ii_61_151_j/ii_61-151_j/100h_ii-61-151-j-66203-36.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_preview">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/66203-ii_61_151_j/ii_61-151_j/200w_ii-61-151-j-66203-36.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/66203-ii_61_151_j/ii_61-151_j/ii-61-151-j-66203-36.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceType>
+               <lido:term>image</lido:term>
+            </lido:resourceType>
+            <lido:resourceSource lido:type="creator">
+               <lido:legalBodyName>
+                  <lido:appellationValue>Oliver Ziebe, Berlin (2020)</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:resourceSource>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+                  <lido:term>CC BY 4.0</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Stiftung Stadtmuseum Berlin</lido:appellationValue>
+                  </lido:legalBodyName>
+               </lido:rightsHolder>
+            </lido:rightsResource>
+         </lido:resourceSet>
+         <lido:resourceSet lido:sortorder="37">
+            <lido:resourceID lido:source="resource" lido:type="local">102218</lido:resourceID>
+            <lido:resourceRepresentation lido:type="Preview image">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/resources/audio/200w_placeholder_audio.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="provided_audio">
+               <lido:linkResource lido:formatResource="audio/mpeg">https://www.museum-digital.de/data/berlin/resources/audio/202008/20081202883.mp3</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceType>
+               <lido:term>audio</lido:term>
+            </lido:resourceType>
+            <lido:resourceSource lido:type="creator">
+               <lido:legalBodyName>
+                  <lido:appellationValue>Sven Serfling-Krannich, Berlin (2020)</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:resourceSource>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+                  <lido:term>CC BY 4.0</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Stiftung Stadtmuseum Berlin</lido:appellationValue>
+                  </lido:legalBodyName>
+               </lido:rightsHolder>
+            </lido:rightsResource>
+         </lido:resourceSet>
+      </lido:resourceWrap>
+   </lido:administrativeMetadata>
+</lido:lido>
+

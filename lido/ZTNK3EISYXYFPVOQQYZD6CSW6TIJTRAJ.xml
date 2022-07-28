@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lido:lido xmlns:lido="http://www.lido-schema.org"
+           xmlns:xalan="http://xml.apache.org/xalan">
+   <lido:lidoRecID lido:source="https://berlin.museum-digital.de/index.php?t=institution&amp;instnr=32"
+                   lido:type="local">DE-B185/67264</lido:lidoRecID>
+   <lido:category/>
+   <lido:descriptiveMetadata xml:lang="de">
+      <lido:objectClassificationWrap>
+         <lido:objectWorkTypeWrap>
+            <lido:objectWorkType>
+               <lido:conceptID lido:source="gnd" lido:type="uri">http://d-nb.info/gnd/4067453-8</lido:conceptID>
+               <lido:conceptID lido:source="grobsystematik" lido:type="uri">https://term.museum-digital.de/grobsystematik/tag/14445</lido:conceptID>
+               <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh85039408</lido:conceptID>
+               <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/945</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Handzeichnung</lido:term>
+            </lido:objectWorkType>
+         </lido:objectWorkTypeWrap>
+         <lido:classificationWrap>
+            <lido:classification lido:type="Sammlung">
+               <lido:conceptID lido:source="local" lido:type="collection_id">705</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Handzeichnungen, Druckgraphik, Gemälde</lido:term>
+            </lido:classification>
+            <lido:classification lido:type="Sammlung">
+               <lido:conceptID lido:source="local" lido:type="collection_id">728</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Sammelwerke</lido:term>
+            </lido:classification>
+            <lido:classification lido:type="Sammlung">
+               <lido:conceptID lido:source="local" lido:type="collection_id">730</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Skizzenbuch Ernst Morgenstern</lido:term>
+            </lido:classification>
+         </lido:classificationWrap>
+      </lido:objectClassificationWrap>
+      <lido:objectIdentificationWrap>
+         <lido:titleWrap>
+            <lido:titleSet>
+               <lido:appellationValue lido:pref="preferred">Berlin-Dahlem: Jagdschloss Grunewald von Südwesten (Skizzenbuch Ernst Morgenstern, Bl. XVIII)</lido:appellationValue>
+            </lido:titleSet>
+         </lido:titleWrap>
+         <lido:repositoryWrap>
+            <lido:repositorySet lido:type="current">
+               <lido:repositoryName>
+                  <lido:legalBodyID lido:type="isil">DE-B185</lido:legalBodyID>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+                  </lido:legalBodyName>
+                  <lido:legalBodyWeblink>http://geschichte-brandenburg.de/</lido:legalBodyWeblink>
+               </lido:repositoryName>
+               <lido:workID lido:type="inventory number">LGV-Archiv, C 12 H-4-017-18</lido:workID>
+               <lido:repositoryLocation>
+                  <lido:namePlaceSet>
+                     <lido:appellationValue>Berlin</lido:appellationValue>
+                  </lido:namePlaceSet>
+                  <lido:gml>
+                     <gml:Point xmlns:gml="http://www.opengis.net/gml" srsName="EPSG:4326">
+                        <gml:pos>52.51533127 13.40440559</gml:pos>
+                     </gml:Point>
+                  </lido:gml>
+               </lido:repositoryLocation>
+            </lido:repositorySet>
+         </lido:repositoryWrap>
+         <lido:objectDescriptionWrap>
+            <lido:objectDescriptionSet>
+               <lido:descriptiveNoteValue>Ansicht der Eingangsseite des Jagdschlosses Grunewald von Südwesten.&#xD;
+&#xD;
+Sign. li. u. "EM", darunter "5. 6. 99", re. u. "Jagdschloss Grune(…)", re. o. "XVIII".</lido:descriptiveNoteValue>
+               <lido:sourceDescriptiveNote>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:sourceDescriptiveNote>
+            </lido:objectDescriptionSet>
+         </lido:objectDescriptionWrap>
+         <lido:objectMeasurementsWrap>
+            <lido:objectMeasurementsSet>
+               <lido:displayObjectMeasurements>Blattgröße: Höhe 12 cm, Breite 16,7 cm</lido:displayObjectMeasurements>
+               <lido:objectMeasurements/>
+            </lido:objectMeasurementsSet>
+         </lido:objectMeasurementsWrap>
+      </lido:objectIdentificationWrap>
+      <lido:eventWrap>
+         <lido:eventSet>
+            <lido:event>
+               <lido:eventType>
+                  <lido:conceptID lido:type="uri">https://event-types.museum-digital.org/19</lido:conceptID>
+                  <lido:term lido:addedSearchTerm="no">Gezeichnet</lido:term>
+               </lido:eventType>
+               <lido:eventActor>
+                  <lido:displayActorInRole>Ernst Morgenstern (1851-1919)</lido:displayActorInRole>
+                  <lido:actorInRole>
+                     <lido:actor>
+                        <lido:actorID lido:source="gnd" lido:type="uri">http://d-nb.info/gnd/116916141</lido:actorID>
+                        <lido:actorID lido:source="viaf" lido:type="uri">https://viaf.org/viaf/316023167</lido:actorID>
+                        <lido:actorID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q94878242</lido:actorID>
+                        <lido:actorID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/persinst/125031</lido:actorID>
+                        <lido:nameActorSet>
+                           <lido:appellationValue>Morgenstern, Ernst</lido:appellationValue>
+                           <lido:appellationValue xml:lang="de">Ernst Morgenstern</lido:appellationValue>
+                        </lido:nameActorSet>
+                        <lido:vitalDatesActor>
+                           <lido:earliestDate>1851</lido:earliestDate>
+                           <lido:latestDate>1919</lido:latestDate>
+                        </lido:vitalDatesActor>
+                     </lido:actor>
+                  </lido:actorInRole>
+               </lido:eventActor>
+               <lido:eventDate>
+                  <lido:displayDate>06.06.1899</lido:displayDate>
+                  <lido:displayDate xml:lang="ar">06/06/1899</lido:displayDate>
+                  <lido:displayDate xml:lang="de">06.06.1899</lido:displayDate>
+                  <lido:displayDate xml:lang="en">June 06, 1899</lido:displayDate>
+                  <lido:displayDate xml:lang="es">06/06/1899</lido:displayDate>
+                  <lido:displayDate xml:lang="fa">06/06/1899</lido:displayDate>
+                  <lido:displayDate xml:lang="fr">06/06/1899</lido:displayDate>
+                  <lido:displayDate xml:lang="hu">1899. június 06.</lido:displayDate>
+                  <lido:displayDate xml:lang="id">06 Juni 1899</lido:displayDate>
+                  <lido:displayDate xml:lang="it">06/06/1899</lido:displayDate>
+                  <lido:displayDate xml:lang="ja">1899年06月06日</lido:displayDate>
+                  <lido:displayDate xml:lang="ka">06.06.1899</lido:displayDate>
+                  <lido:displayDate xml:lang="ko">1899년 06월 06일</lido:displayDate>
+                  <lido:displayDate xml:lang="pl">06.06.1899</lido:displayDate>
+                  <lido:displayDate xml:lang="pt">06/06/1899</lido:displayDate>
+                  <lido:displayDate xml:lang="ro">06.06.1899</lido:displayDate>
+                  <lido:displayDate xml:lang="ru">06.06.1899</lido:displayDate>
+                  <lido:displayDate xml:lang="ta">06-06-1899</lido:displayDate>
+                  <lido:displayDate xml:lang="tl">Hunyo 06, 1899</lido:displayDate>
+                  <lido:displayDate xml:lang="tr">06.06.1899</lido:displayDate>
+                  <lido:displayDate xml:lang="zh">1899年06月06日</lido:displayDate>
+                  <lido:date>
+                     <lido:earliestDate>1899</lido:earliestDate>
+                     <lido:latestDate>1899</lido:latestDate>
+                  </lido:date>
+               </lido:eventDate>
+            </lido:event>
+         </lido:eventSet>
+         <lido:eventSet>
+            <lido:event>
+               <lido:eventType>
+                  <lido:conceptID lido:type="uri">http://terminology.lido-schema.org/lido00003</lido:conceptID>
+                  <lido:term>Event (non-specified)</lido:term>
+               </lido:eventType>
+               <lido:eventMaterialsTech>
+                  <lido:displayMaterialsTech>Bleistift auf Papier</lido:displayMaterialsTech>
+               </lido:eventMaterialsTech>
+            </lido:event>
+         </lido:eventSet>
+      </lido:eventWrap>
+      <lido:objectRelationWrap>
+         <lido:subjectWrap>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectPlace>
+                     <lido:displayPlace>Berlin-Dahlem</lido:displayPlace>
+                     <lido:displayPlace xml:lang="cs">Dahlem</lido:displayPlace>
+                     <lido:displayPlace xml:lang="de">Berlin-Dahlem</lido:displayPlace>
+                     <lido:displayPlace xml:lang="el">Ντάλεμ</lido:displayPlace>
+                     <lido:displayPlace xml:lang="en">Dahlem (Berlin)</lido:displayPlace>
+                     <lido:displayPlace xml:lang="es">Dahlem (Berlín)</lido:displayPlace>
+                     <lido:displayPlace xml:lang="fa">دالم (برلین)</lido:displayPlace>
+                     <lido:displayPlace xml:lang="fi">Dahlem</lido:displayPlace>
+                     <lido:displayPlace xml:lang="fr">Berlin-Dahlem</lido:displayPlace>
+                     <lido:displayPlace xml:lang="he">דאהלם (ברלין)</lido:displayPlace>
+                     <lido:displayPlace xml:lang="it">Dahlem (Berlino)</lido:displayPlace>
+                     <lido:displayPlace xml:lang="nl">Berlin-Dahlem</lido:displayPlace>
+                     <lido:displayPlace xml:lang="pl">Dahlem (dzielnica Berlina)</lido:displayPlace>
+                     <lido:displayPlace xml:lang="pt">Dahlem (Berlim)</lido:displayPlace>
+                     <lido:displayPlace xml:lang="ro">Berlin-Dahlem</lido:displayPlace>
+                     <lido:displayPlace xml:lang="ru">Далем</lido:displayPlace>
+                     <lido:displayPlace xml:lang="sv">Dahlem, Berlin</lido:displayPlace>
+                     <lido:displayPlace xml:lang="zh">達勒姆 (柏林)</lido:displayPlace>
+                     <lido:place>
+                        <lido:placeID lido:source="geonames" lido:type="uri">https://sws.geonames.org/2939440</lido:placeID>
+                        <lido:placeID lido:source="TGN" lido:type="uri">http://vocab.getty.edu/tgn/1004346</lido:placeID>
+                        <lido:placeID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4087308-0</lido:placeID>
+                        <lido:placeID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q700541</lido:placeID>
+                        <lido:placeID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/place/773</lido:placeID>
+                        <lido:namePlaceSet>
+                           <lido:appellationValue>Berlin-Dahlem</lido:appellationValue>
+                           <lido:appellationValue xml:lang="cs">Dahlem</lido:appellationValue>
+                           <lido:appellationValue xml:lang="de">Berlin-Dahlem</lido:appellationValue>
+                           <lido:appellationValue xml:lang="el">Ντάλεμ</lido:appellationValue>
+                           <lido:appellationValue xml:lang="en">Dahlem (Berlin)</lido:appellationValue>
+                           <lido:appellationValue xml:lang="es">Dahlem (Berlín)</lido:appellationValue>
+                           <lido:appellationValue xml:lang="fa">دالم (برلین)</lido:appellationValue>
+                           <lido:appellationValue xml:lang="fi">Dahlem</lido:appellationValue>
+                           <lido:appellationValue xml:lang="fr">Berlin-Dahlem</lido:appellationValue>
+                           <lido:appellationValue xml:lang="he">דאהלם (ברלין)</lido:appellationValue>
+                           <lido:appellationValue xml:lang="it">Dahlem (Berlino)</lido:appellationValue>
+                           <lido:appellationValue xml:lang="nl">Berlin-Dahlem</lido:appellationValue>
+                           <lido:appellationValue xml:lang="pl">Dahlem (dzielnica Berlina)</lido:appellationValue>
+                           <lido:appellationValue xml:lang="pt">Dahlem (Berlim)</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ro">Berlin-Dahlem</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ru">Далем</lido:appellationValue>
+                           <lido:appellationValue xml:lang="sv">Dahlem, Berlin</lido:appellationValue>
+                           <lido:appellationValue xml:lang="zh">達勒姆 (柏林)</lido:appellationValue>
+                        </lido:namePlaceSet>
+                        <lido:gml>
+                           <gml:Point xmlns:gml="http://www.opengis.net/gml" srsName="EPSG:4326">
+                              <gml:pos>52.458057403564 13.28750038147</gml:pos>
+                           </gml:Point>
+                        </lido:gml>
+                     </lido:place>
+                  </lido:subjectPlace>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">http://d-nb.info/gnd/4055251-2</lido:conceptID>
+                     <lido:conceptID lido:source="grobsystematik" lido:type="uri">https://term.museum-digital.de/grobsystematik/tag/11351</lido:conceptID>
+                     <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh99001967</lido:conceptID>
+                     <lido:conceptID lido:source="oberbegriffsdatei" lido:type="uri">https://term.museum-digital.de/oberbegriffsdatei/tag/4031</lido:conceptID>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Skizzenbuch</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/21588</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Skizzenbuch</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/72817</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Schloss</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+         </lido:subjectWrap>
+         <lido:relatedWorksWrap/>
+      </lido:objectRelationWrap>
+   </lido:descriptiveMetadata>
+   <lido:administrativeMetadata xml:lang="de">
+      <lido:rightsWorkWrap>
+         <lido:rightsWorkSet>
+            <lido:rightsHolder>
+               <lido:legalBodyName>
+                  <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:rightsHolder>
+         </lido:rightsWorkSet>
+      </lido:rightsWorkWrap>
+      <lido:recordWrap>
+         <lido:recordID lido:type="museum-digital">67264</lido:recordID>
+         <lido:recordType>
+            <lido:term lido:addedSearchTerm="no">item</lido:term>
+         </lido:recordType>
+         <lido:recordSource lido:type="dataProvider">
+            <lido:legalBodyName>
+               <lido:appellationValue>museum-digital</lido:appellationValue>
+            </lido:legalBodyName>
+            <lido:legalBodyWeblink>https://berlin.museum-digital.de/</lido:legalBodyWeblink>
+         </lido:recordSource>
+         <lido:recordSource>
+            <lido:legalBodyID lido:type="isil">DE-B185</lido:legalBodyID>
+            <lido:legalBodyName>
+               <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+            </lido:legalBodyName>
+         </lido:recordSource>
+         <lido:recordRights>
+            <lido:rightsType>
+               <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no">CC BY</lido:term>
+            </lido:rightsType>
+            <lido:rightsHolder>
+               <lido:legalBodyID lido:type="isil">DE-B185</lido:legalBodyID>
+               <lido:legalBodyName>
+                  <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+               </lido:legalBodyName>
+               <lido:legalBodyWeblink>http://geschichte-brandenburg.de/</lido:legalBodyWeblink>
+            </lido:rightsHolder>
+            <lido:creditLine>Förderprogramm zur Digitalisierung von Objekten des kulturellen Erbes des Landes Berlin</lido:creditLine>
+         </lido:recordRights>
+         <lido:recordInfoSet>
+            <lido:recordInfoLink>https://berlin.museum-digital.de/index.php?t=objekt&amp;oges=67264</lido:recordInfoLink>
+            <lido:recordMetadataDate>2021-04-27 07:59:53</lido:recordMetadataDate>
+         </lido:recordInfoSet>
+      </lido:recordWrap>
+      <lido:resourceWrap>
+         <lido:resourceSet lido:sortorder="1">
+            <lido:resourceID lido:source="image" lido:type="local">49057</lido:resourceID>
+            <lido:resourceRepresentation lido:type="masterfile">
+               <lido:linkResource lido:formatResource="image/tiff"/>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_thumb">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/32/67264-lgv-archiv_c_12_h-4-017-18/berlin-dahlem_jagdschloss/100h_berlin-dahlem-jagdschloss-grunewald-von-suedwesten-skizzenbuch-ernst-morgenstern-bl-xviii.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_preview">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/32/67264-lgv-archiv_c_12_h-4-017-18/berlin-dahlem_jagdschloss/200w_berlin-dahlem-jagdschloss-grunewald-von-suedwesten-skizzenbuch-ernst-morgenstern-bl-xviii.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/32/67264-lgv-archiv_c_12_h-4-017-18/berlin-dahlem_jagdschloss/berlin-dahlem-jagdschloss-grunewald-von-suedwesten-skizzenbuch-ernst-morgenstern-bl-xviii.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceType>
+               <lido:term lido:addedSearchTerm="no">image</lido:term>
+            </lido:resourceType>
+            <lido:resourceRelType>
+               <lido:term lido:addedSearchTerm="no">Hauptansicht</lido:term>
+            </lido:resourceRelType>
+            <lido:resourceDescription/>
+            <lido:resourceSource lido:type="creator">
+               <lido:legalBodyName>
+                  <lido:appellationValue>Thomas Voßbeck, 2020</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:resourceSource>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+                  <lido:term lido:addedSearchTerm="no">CC BY</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V.</lido:appellationValue>
+                  </lido:legalBodyName>
+               </lido:rightsHolder>
+               <lido:creditLine>Thomas Voßbeck, 2020</lido:creditLine>
+            </lido:rightsResource>
+         </lido:resourceSet>
+      </lido:resourceWrap>
+   </lido:administrativeMetadata>
+</lido:lido>
+

@@ -1,0 +1,378 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lido:lido xmlns:lido="http://www.lido-schema.org"
+           xmlns:xalan="http://xml.apache.org/xalan">
+   <lido:lidoRecID lido:source="https://berlin.museum-digital.de/index.php?t=institution&amp;instnr=32"
+                   lido:type="local">DE-B185/67418</lido:lidoRecID>
+   <lido:category/>
+   <lido:descriptiveMetadata xml:lang="de">
+      <lido:objectClassificationWrap>
+         <lido:objectWorkTypeWrap>
+            <lido:objectWorkType>
+               <lido:conceptID lido:source="gnd" lido:type="uri">http://d-nb.info/gnd/4139167-6</lido:conceptID>
+               <lido:conceptID lido:source="aat" lido:type="uri">http://vocab.getty.edu/aat/300034569</lido:conceptID>
+               <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh85129196</lido:conceptID>
+               <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/11970</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Bauzeichnung</lido:term>
+            </lido:objectWorkType>
+         </lido:objectWorkTypeWrap>
+         <lido:classificationWrap>
+            <lido:classification lido:type="Sammlung">
+               <lido:conceptID lido:source="local" lido:type="collection_id">705</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Handzeichnungen, Druckgraphik, Gemälde</lido:term>
+            </lido:classification>
+            <lido:classification lido:type="Sammlung">
+               <lido:conceptID lido:source="local" lido:type="collection_id">706</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Ansichten</lido:term>
+            </lido:classification>
+            <lido:classification lido:type="Sammlung">
+               <lido:conceptID lido:source="local" lido:type="collection_id">707</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Berlin</lido:term>
+            </lido:classification>
+            <lido:classification>
+               <lido:conceptID lido:source="local" lido:type="series_id">140</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no">Tempelhof Fassadenabwicklungen</lido:term>
+            </lido:classification>
+         </lido:classificationWrap>
+      </lido:objectClassificationWrap>
+      <lido:objectIdentificationWrap>
+         <lido:titleWrap>
+            <lido:titleSet>
+               <lido:appellationValue lido:pref="preferred">Berlin-Tempelhof: Germaniastraße, Südseite. Fassadenansichten der Häuser Nr. 12 bis 20</lido:appellationValue>
+            </lido:titleSet>
+         </lido:titleWrap>
+         <lido:repositoryWrap>
+            <lido:repositorySet lido:type="current">
+               <lido:repositoryName>
+                  <lido:legalBodyID lido:type="isil">DE-B185</lido:legalBodyID>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+                  </lido:legalBodyName>
+                  <lido:legalBodyWeblink>http://geschichte-brandenburg.de/</lido:legalBodyWeblink>
+               </lido:repositoryName>
+               <lido:workID lido:type="inventory number">LGV-Archiv, C 11 D-014</lido:workID>
+               <lido:repositoryLocation>
+                  <lido:namePlaceSet>
+                     <lido:appellationValue>Berlin</lido:appellationValue>
+                  </lido:namePlaceSet>
+                  <lido:gml>
+                     <gml:Point xmlns:gml="http://www.opengis.net/gml" srsName="EPSG:4326">
+                        <gml:pos>52.51533127 13.40440559</gml:pos>
+                     </gml:Point>
+                  </lido:gml>
+               </lido:repositoryLocation>
+            </lido:repositorySet>
+         </lido:repositoryWrap>
+         <lido:objectDescriptionWrap>
+            <lido:objectDescriptionSet>
+               <lido:descriptiveNoteValue>Mit Angabe des Baujahres und des Schätzwertes bei jedem Haus. Teil einer Bildserie mit abschnittsweiser Abwicklung der Fassaden.&#xD;
+&#xD;
+Bez. o. (Versalien): "Tempelhof, Germania Strasse, Südseite."&#xD;
+Erworben 2011 (Nachlass Hans-Werner Klünner).</lido:descriptiveNoteValue>
+               <lido:sourceDescriptiveNote>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:sourceDescriptiveNote>
+            </lido:objectDescriptionSet>
+         </lido:objectDescriptionWrap>
+         <lido:objectMeasurementsWrap>
+            <lido:objectMeasurementsSet>
+               <lido:displayObjectMeasurements>Blattgröße: Höhe 31 cm, Breite 1,06 m</lido:displayObjectMeasurements>
+               <lido:objectMeasurements/>
+            </lido:objectMeasurementsSet>
+         </lido:objectMeasurementsWrap>
+      </lido:objectIdentificationWrap>
+      <lido:eventWrap>
+         <lido:eventSet>
+            <lido:event>
+               <lido:eventType>
+                  <lido:conceptID lido:type="uri">https://event-types.museum-digital.org/1</lido:conceptID>
+                  <lido:term lido:addedSearchTerm="no">Hergestellt</lido:term>
+               </lido:eventType>
+               <lido:eventDate>
+                  <lido:displayDate>28.06.1939</lido:displayDate>
+                  <lido:displayDate xml:lang="ar">28/06/1939</lido:displayDate>
+                  <lido:displayDate xml:lang="de">28.06.1939</lido:displayDate>
+                  <lido:displayDate xml:lang="en">June 28, 1939</lido:displayDate>
+                  <lido:displayDate xml:lang="es">28/06/1939</lido:displayDate>
+                  <lido:displayDate xml:lang="fa">28/06/1939</lido:displayDate>
+                  <lido:displayDate xml:lang="fr">28/06/1939</lido:displayDate>
+                  <lido:displayDate xml:lang="hu">1939. június 28.</lido:displayDate>
+                  <lido:displayDate xml:lang="id">28 Juni 1939</lido:displayDate>
+                  <lido:displayDate xml:lang="it">28/06/1939</lido:displayDate>
+                  <lido:displayDate xml:lang="ja">1939年06月28日</lido:displayDate>
+                  <lido:displayDate xml:lang="ka">28.06.1939</lido:displayDate>
+                  <lido:displayDate xml:lang="ko">1939년 06월 28일</lido:displayDate>
+                  <lido:displayDate xml:lang="pl">28.06.1939</lido:displayDate>
+                  <lido:displayDate xml:lang="pt">28/06/1939</lido:displayDate>
+                  <lido:displayDate xml:lang="ro">28.06.1939</lido:displayDate>
+                  <lido:displayDate xml:lang="ru">28.06.1939</lido:displayDate>
+                  <lido:displayDate xml:lang="ta">28-06-1939</lido:displayDate>
+                  <lido:displayDate xml:lang="tl">Hunyo 28, 1939</lido:displayDate>
+                  <lido:displayDate xml:lang="tr">28.06.1939</lido:displayDate>
+                  <lido:displayDate xml:lang="zh">1939年06月28日</lido:displayDate>
+                  <lido:date>
+                     <lido:earliestDate>1939</lido:earliestDate>
+                     <lido:latestDate>1939</lido:latestDate>
+                  </lido:date>
+               </lido:eventDate>
+               <lido:eventPlace>
+                  <lido:displayPlace>Berlin-Tempelhof</lido:displayPlace>
+                  <lido:displayPlace xml:lang="da">Berlin-Tempelhof</lido:displayPlace>
+                  <lido:displayPlace xml:lang="de">Berlin-Tempelhof</lido:displayPlace>
+                  <lido:displayPlace xml:lang="el">Τέμπελχοφ</lido:displayPlace>
+                  <lido:displayPlace xml:lang="en">Berlin-Tempelhof</lido:displayPlace>
+                  <lido:displayPlace xml:lang="fa">تمپلهوف</lido:displayPlace>
+                  <lido:displayPlace xml:lang="fi">Tempelhof</lido:displayPlace>
+                  <lido:displayPlace xml:lang="fr">Berlin-Tempelhof</lido:displayPlace>
+                  <lido:displayPlace xml:lang="he">טמפלהוף</lido:displayPlace>
+                  <lido:displayPlace xml:lang="id">Berlin-Tempelhof</lido:displayPlace>
+                  <lido:displayPlace xml:lang="it">Tempelhof</lido:displayPlace>
+                  <lido:displayPlace xml:lang="nl">Berlin-Tempelhof</lido:displayPlace>
+                  <lido:displayPlace xml:lang="pl">Tempelhof</lido:displayPlace>
+                  <lido:displayPlace xml:lang="pt">Tempelhof</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ro">Tempelhof</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ru">Темпельхоф</lido:displayPlace>
+                  <lido:displayPlace xml:lang="sv">Tempelhof</lido:displayPlace>
+                  <lido:displayPlace xml:lang="zh">滕珀爾霍夫</lido:displayPlace>
+                  <lido:place>
+                     <lido:placeID lido:source="geonames" lido:type="uri">https://sws.geonames.org/2823538</lido:placeID>
+                     <lido:placeID lido:source="TGN" lido:type="uri">http://vocab.getty.edu/tgn/1005725</lido:placeID>
+                     <lido:placeID lido:source="gnd" lido:type="uri">http://d-nb.info/gnd/2004197-4</lido:placeID>
+                     <lido:placeID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q363830</lido:placeID>
+                     <lido:placeID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/place/777</lido:placeID>
+                     <lido:namePlaceSet>
+                        <lido:appellationValue>Berlin-Tempelhof</lido:appellationValue>
+                        <lido:appellationValue xml:lang="da">Berlin-Tempelhof</lido:appellationValue>
+                        <lido:appellationValue xml:lang="de">Berlin-Tempelhof</lido:appellationValue>
+                        <lido:appellationValue xml:lang="el">Τέμπελχοφ</lido:appellationValue>
+                        <lido:appellationValue xml:lang="en">Berlin-Tempelhof</lido:appellationValue>
+                        <lido:appellationValue xml:lang="fa">تمپلهوف</lido:appellationValue>
+                        <lido:appellationValue xml:lang="fi">Tempelhof</lido:appellationValue>
+                        <lido:appellationValue xml:lang="fr">Berlin-Tempelhof</lido:appellationValue>
+                        <lido:appellationValue xml:lang="he">טמפלהוף</lido:appellationValue>
+                        <lido:appellationValue xml:lang="id">Berlin-Tempelhof</lido:appellationValue>
+                        <lido:appellationValue xml:lang="it">Tempelhof</lido:appellationValue>
+                        <lido:appellationValue xml:lang="nl">Berlin-Tempelhof</lido:appellationValue>
+                        <lido:appellationValue xml:lang="pl">Tempelhof</lido:appellationValue>
+                        <lido:appellationValue xml:lang="pt">Tempelhof</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ro">Tempelhof</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ru">Темпельхоф</lido:appellationValue>
+                        <lido:appellationValue xml:lang="sv">Tempelhof</lido:appellationValue>
+                        <lido:appellationValue xml:lang="zh">滕珀爾霍夫</lido:appellationValue>
+                     </lido:namePlaceSet>
+                     <lido:gml>
+                        <gml:Point xmlns:gml="http://www.opengis.net/gml" srsName="EPSG:4326">
+                           <gml:pos>52.466701507568 13.383299827576</gml:pos>
+                        </gml:Point>
+                     </lido:gml>
+                  </lido:place>
+               </lido:eventPlace>
+            </lido:event>
+         </lido:eventSet>
+         <lido:eventSet>
+            <lido:event>
+               <lido:eventType>
+                  <lido:conceptID lido:type="uri">http://terminology.lido-schema.org/lido00003</lido:conceptID>
+                  <lido:term>Event (non-specified)</lido:term>
+               </lido:eventType>
+               <lido:eventMaterialsTech>
+                  <lido:displayMaterialsTech>Lichtpause auf weißem Papier (gefaltet)</lido:displayMaterialsTech>
+               </lido:eventMaterialsTech>
+            </lido:event>
+         </lido:eventSet>
+      </lido:eventWrap>
+      <lido:objectRelationWrap>
+         <lido:subjectWrap>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectPlace>
+                     <lido:displayPlace>Berlin-Tempelhof</lido:displayPlace>
+                     <lido:displayPlace xml:lang="da">Berlin-Tempelhof</lido:displayPlace>
+                     <lido:displayPlace xml:lang="de">Berlin-Tempelhof</lido:displayPlace>
+                     <lido:displayPlace xml:lang="el">Τέμπελχοφ</lido:displayPlace>
+                     <lido:displayPlace xml:lang="en">Berlin-Tempelhof</lido:displayPlace>
+                     <lido:displayPlace xml:lang="fa">تمپلهوف</lido:displayPlace>
+                     <lido:displayPlace xml:lang="fi">Tempelhof</lido:displayPlace>
+                     <lido:displayPlace xml:lang="fr">Berlin-Tempelhof</lido:displayPlace>
+                     <lido:displayPlace xml:lang="he">טמפלהוף</lido:displayPlace>
+                     <lido:displayPlace xml:lang="id">Berlin-Tempelhof</lido:displayPlace>
+                     <lido:displayPlace xml:lang="it">Tempelhof</lido:displayPlace>
+                     <lido:displayPlace xml:lang="nl">Berlin-Tempelhof</lido:displayPlace>
+                     <lido:displayPlace xml:lang="pl">Tempelhof</lido:displayPlace>
+                     <lido:displayPlace xml:lang="pt">Tempelhof</lido:displayPlace>
+                     <lido:displayPlace xml:lang="ro">Tempelhof</lido:displayPlace>
+                     <lido:displayPlace xml:lang="ru">Темпельхоф</lido:displayPlace>
+                     <lido:displayPlace xml:lang="sv">Tempelhof</lido:displayPlace>
+                     <lido:displayPlace xml:lang="zh">滕珀爾霍夫</lido:displayPlace>
+                     <lido:place>
+                        <lido:placeID lido:source="geonames" lido:type="uri">https://sws.geonames.org/2823538</lido:placeID>
+                        <lido:placeID lido:source="TGN" lido:type="uri">http://vocab.getty.edu/tgn/1005725</lido:placeID>
+                        <lido:placeID lido:source="gnd" lido:type="uri">http://d-nb.info/gnd/2004197-4</lido:placeID>
+                        <lido:placeID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q363830</lido:placeID>
+                        <lido:placeID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/place/777</lido:placeID>
+                        <lido:namePlaceSet>
+                           <lido:appellationValue>Berlin-Tempelhof</lido:appellationValue>
+                           <lido:appellationValue xml:lang="da">Berlin-Tempelhof</lido:appellationValue>
+                           <lido:appellationValue xml:lang="de">Berlin-Tempelhof</lido:appellationValue>
+                           <lido:appellationValue xml:lang="el">Τέμπελχοφ</lido:appellationValue>
+                           <lido:appellationValue xml:lang="en">Berlin-Tempelhof</lido:appellationValue>
+                           <lido:appellationValue xml:lang="fa">تمپلهوف</lido:appellationValue>
+                           <lido:appellationValue xml:lang="fi">Tempelhof</lido:appellationValue>
+                           <lido:appellationValue xml:lang="fr">Berlin-Tempelhof</lido:appellationValue>
+                           <lido:appellationValue xml:lang="he">טמפלהוף</lido:appellationValue>
+                           <lido:appellationValue xml:lang="id">Berlin-Tempelhof</lido:appellationValue>
+                           <lido:appellationValue xml:lang="it">Tempelhof</lido:appellationValue>
+                           <lido:appellationValue xml:lang="nl">Berlin-Tempelhof</lido:appellationValue>
+                           <lido:appellationValue xml:lang="pl">Tempelhof</lido:appellationValue>
+                           <lido:appellationValue xml:lang="pt">Tempelhof</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ro">Tempelhof</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ru">Темпельхоф</lido:appellationValue>
+                           <lido:appellationValue xml:lang="sv">Tempelhof</lido:appellationValue>
+                           <lido:appellationValue xml:lang="zh">滕珀爾霍夫</lido:appellationValue>
+                        </lido:namePlaceSet>
+                        <lido:gml>
+                           <gml:Point xmlns:gml="http://www.opengis.net/gml" srsName="EPSG:4326">
+                              <gml:pos>52.466701507568 13.383299827576</gml:pos>
+                           </gml:Point>
+                        </lido:gml>
+                     </lido:place>
+                  </lido:subjectPlace>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="aat" lido:type="uri">http://vocab.getty.edu/aat/300002526</lido:conceptID>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4016507-3</lido:conceptID>
+                     <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh85046782</lido:conceptID>
+                     <lido:conceptID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q183061</lido:conceptID>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Fassade</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/7848</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Fassade</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ar">واجهة المبنى</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="cs">Fasáda</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="da">Facade</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="de">Fassade</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="el">πρόσοψη</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="en">Facade</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="es">Fachada</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fa">نما</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fi">Julkisivu</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fr">Façade</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="he">חזית (אדריכלות)</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hu">oromzat</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="id">Fasad</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="it">Facciata</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ja">ファサード</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ko">파사드</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="nl">Gevel</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pl">Fasada</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pt">Fachada</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ru">фасад</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sv">Fasad</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="th">ด้านหน้าอาคาร</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tr">Cephe</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="vi">Facade</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="zh">立面</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/17993</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Straßenansicht</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+         </lido:subjectWrap>
+         <lido:relatedWorksWrap/>
+      </lido:objectRelationWrap>
+   </lido:descriptiveMetadata>
+   <lido:administrativeMetadata xml:lang="de">
+      <lido:rightsWorkWrap>
+         <lido:rightsWorkSet>
+            <lido:rightsHolder>
+               <lido:legalBodyName>
+                  <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:rightsHolder>
+         </lido:rightsWorkSet>
+      </lido:rightsWorkWrap>
+      <lido:recordWrap>
+         <lido:recordID lido:type="museum-digital">67418</lido:recordID>
+         <lido:recordType>
+            <lido:term lido:addedSearchTerm="no">item</lido:term>
+         </lido:recordType>
+         <lido:recordSource lido:type="dataProvider">
+            <lido:legalBodyName>
+               <lido:appellationValue>museum-digital</lido:appellationValue>
+            </lido:legalBodyName>
+            <lido:legalBodyWeblink>https://berlin.museum-digital.de/</lido:legalBodyWeblink>
+         </lido:recordSource>
+         <lido:recordSource>
+            <lido:legalBodyID lido:type="isil">DE-B185</lido:legalBodyID>
+            <lido:legalBodyName>
+               <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+            </lido:legalBodyName>
+         </lido:recordSource>
+         <lido:recordRights>
+            <lido:rightsType>
+               <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no">CC BY</lido:term>
+            </lido:rightsType>
+            <lido:rightsHolder>
+               <lido:legalBodyID lido:type="isil">DE-B185</lido:legalBodyID>
+               <lido:legalBodyName>
+                  <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+               </lido:legalBodyName>
+               <lido:legalBodyWeblink>http://geschichte-brandenburg.de/</lido:legalBodyWeblink>
+            </lido:rightsHolder>
+            <lido:creditLine>Förderprogramm zur Digitalisierung von Objekten des kulturellen Erbes des Landes Berlin</lido:creditLine>
+         </lido:recordRights>
+         <lido:recordInfoSet>
+            <lido:recordInfoLink>https://berlin.museum-digital.de/index.php?t=objekt&amp;oges=67418</lido:recordInfoLink>
+            <lido:recordMetadataDate>2021-04-27 07:59:51</lido:recordMetadataDate>
+         </lido:recordInfoSet>
+      </lido:recordWrap>
+      <lido:resourceWrap>
+         <lido:resourceSet lido:sortorder="1">
+            <lido:resourceID lido:source="image" lido:type="local">48963</lido:resourceID>
+            <lido:resourceRepresentation lido:type="masterfile">
+               <lido:linkResource lido:formatResource="image/tiff"/>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_thumb">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/202007/100h_berlin-tempelhof-germaniastraSse-suedseite-fassadenansichten-der-haeuser-nr-12-bis-20-6741.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_preview">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/202007/200w_berlin-tempelhof-germaniastraSse-suedseite-fassadenansichten-der-haeuser-nr-12-bis-20-6741.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/202007/berlin-tempelhof-germaniastraSse-suedseite-fassadenansichten-der-haeuser-nr-12-bis-20-6741.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceType>
+               <lido:term lido:addedSearchTerm="no">image</lido:term>
+            </lido:resourceType>
+            <lido:resourceRelType>
+               <lido:term lido:addedSearchTerm="no">Hauptansicht</lido:term>
+            </lido:resourceRelType>
+            <lido:resourceDescription>Berlin-Tempelhof: Germaniastraße, Südseite. Fassadenansichten der Häuser Nr. 12 bis 20</lido:resourceDescription>
+            <lido:resourceSource lido:type="creator">
+               <lido:legalBodyName>
+                  <lido:appellationValue>Thomas Voßbeck, 2020</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:resourceSource>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+                  <lido:term lido:addedSearchTerm="no">CC BY</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V.</lido:appellationValue>
+                  </lido:legalBodyName>
+               </lido:rightsHolder>
+               <lido:creditLine>Thomas Voßbeck, 2020</lido:creditLine>
+            </lido:rightsResource>
+         </lido:resourceSet>
+      </lido:resourceWrap>
+   </lido:administrativeMetadata>
+</lido:lido>
+

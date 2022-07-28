@@ -1,0 +1,484 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lido:lido xmlns:lido="http://www.lido-schema.org"
+           xmlns:xalan="http://xml.apache.org/xalan">
+   <lido:lidoRecID lido:source="https://berlin.museum-digital.de/index.php?t=institution&amp;instnr=32"
+                   lido:type="local">DE-B185/66831</lido:lidoRecID>
+   <lido:category/>
+   <lido:descriptiveMetadata xml:lang="de">
+      <lido:objectClassificationWrap>
+         <lido:objectWorkTypeWrap>
+            <lido:objectWorkType>
+               <lido:conceptID lido:source="gnd" lido:type="uri">http://d-nb.info/gnd/4139167-6</lido:conceptID>
+               <lido:conceptID lido:source="aat" lido:type="uri">http://vocab.getty.edu/aat/300034569</lido:conceptID>
+               <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh85129196</lido:conceptID>
+               <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/11970</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Bauzeichnung</lido:term>
+            </lido:objectWorkType>
+         </lido:objectWorkTypeWrap>
+         <lido:classificationWrap>
+            <lido:classification lido:type="Sammlung">
+               <lido:conceptID lido:source="local" lido:type="collection_id">705</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Handzeichnungen, Druckgraphik, Gemälde</lido:term>
+            </lido:classification>
+            <lido:classification lido:type="Sammlung">
+               <lido:conceptID lido:source="local" lido:type="collection_id">706</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Ansichten</lido:term>
+            </lido:classification>
+            <lido:classification lido:type="Sammlung">
+               <lido:conceptID lido:source="local" lido:type="collection_id">708</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Brandenburg</lido:term>
+            </lido:classification>
+         </lido:classificationWrap>
+      </lido:objectClassificationWrap>
+      <lido:objectIdentificationWrap>
+         <lido:titleWrap>
+            <lido:titleSet>
+               <lido:appellationValue lido:pref="preferred">Erkner (Kr. Niederbarnim): Kirche, Ansicht von Süden. Maßstab 1:200</lido:appellationValue>
+            </lido:titleSet>
+         </lido:titleWrap>
+         <lido:repositoryWrap>
+            <lido:repositorySet lido:type="current">
+               <lido:repositoryName>
+                  <lido:legalBodyID lido:type="isil">DE-B185</lido:legalBodyID>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+                  </lido:legalBodyName>
+                  <lido:legalBodyWeblink>http://geschichte-brandenburg.de/</lido:legalBodyWeblink>
+               </lido:repositoryName>
+               <lido:workID lido:type="inventory number">LGV-Archiv, C 11 D-018-1</lido:workID>
+               <lido:repositoryLocation>
+                  <lido:namePlaceSet>
+                     <lido:appellationValue>Berlin</lido:appellationValue>
+                  </lido:namePlaceSet>
+                  <lido:gml>
+                     <gml:Point xmlns:gml="http://www.opengis.net/gml" srsName="EPSG:4326">
+                        <gml:pos>52.51533127 13.40440559</gml:pos>
+                     </gml:Point>
+                  </lido:gml>
+               </lido:repositoryLocation>
+            </lido:repositorySet>
+         </lido:repositoryWrap>
+         <lido:objectDescriptionWrap>
+            <lido:objectDescriptionSet>
+               <lido:descriptiveNoteValue>Entwurfszeichnung einer Ansicht, die so ausgeführt wurde. Die Genezareth-Kirche wurde 1896-1897 nach einem Entwurf des Architekten Ludwig von Tiedemann (1841-1908) erbaut (Grundsteinlegung 4. Mai 1896). Die neogotische Kirche mit vielfältiger Giebelarchitektur setzt den berühmten Rüdersdorfer Kalkstein bewusst neben den roten märkischen Backstein. Eine von zwei Ansichtszeichnungen. &#xD;
+&#xD;
+Bez. re. u. "Entworfen u. gezeichnet Potsdam, 9. Januar 1896. [Gez.] v. Tiedemann." Re. o. alte blaue Bleistift-Blatt-Nr. "183".&#xD;
+Erworben 1997 vom Heimatverein für den Bezirk Zehlendorf (im Zuge einer Neuprofilierung der Sammlungen ausgesondert).</lido:descriptiveNoteValue>
+               <lido:sourceDescriptiveNote>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:sourceDescriptiveNote>
+            </lido:objectDescriptionSet>
+         </lido:objectDescriptionWrap>
+         <lido:objectMeasurementsWrap>
+            <lido:objectMeasurementsSet>
+               <lido:displayObjectMeasurements>Blattgröße: Höhe 35,2 cm, Breite 24,5 cm</lido:displayObjectMeasurements>
+               <lido:objectMeasurements/>
+            </lido:objectMeasurementsSet>
+         </lido:objectMeasurementsWrap>
+      </lido:objectIdentificationWrap>
+      <lido:eventWrap>
+         <lido:eventSet>
+            <lido:event>
+               <lido:eventType>
+                  <lido:conceptID lido:type="uri">https://event-types.museum-digital.org/1</lido:conceptID>
+                  <lido:term lido:addedSearchTerm="no">Hergestellt</lido:term>
+               </lido:eventType>
+               <lido:eventActor>
+                  <lido:displayActorInRole>Ludwig von Tiedemann (1841-1908)</lido:displayActorInRole>
+                  <lido:actorInRole>
+                     <lido:actor>
+                        <lido:actorID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Ludwig_von_Tiedemann</lido:actorID>
+                        <lido:actorID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/1055303790</lido:actorID>
+                        <lido:actorID lido:source="viaf" lido:type="uri">https://viaf.org/viaf/12684837</lido:actorID>
+                        <lido:actorID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q100377</lido:actorID>
+                        <lido:actorID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/persinst/124923</lido:actorID>
+                        <lido:nameActorSet>
+                           <lido:appellationValue>Tiedemann, Ludwig von</lido:appellationValue>
+                           <lido:appellationValue xml:lang="de">Ludwig von Tiedemann</lido:appellationValue>
+                           <lido:appellationValue xml:lang="en">Ludwig von Tiedemann</lido:appellationValue>
+                           <lido:appellationValue xml:lang="es">Ludwig von Tiedemann</lido:appellationValue>
+                           <lido:appellationValue xml:lang="fr">Ludwig von Tiedemann</lido:appellationValue>
+                           <lido:appellationValue xml:lang="nl">Ludwig von Tiedemann</lido:appellationValue>
+                           <lido:appellationValue xml:lang="pl">Ludwig von Tiedemann</lido:appellationValue>
+                        </lido:nameActorSet>
+                        <lido:vitalDatesActor>
+                           <lido:earliestDate>1841</lido:earliestDate>
+                           <lido:latestDate>1908</lido:latestDate>
+                        </lido:vitalDatesActor>
+                     </lido:actor>
+                  </lido:actorInRole>
+               </lido:eventActor>
+               <lido:eventDate>
+                  <lido:displayDate>09.01.1896</lido:displayDate>
+                  <lido:displayDate xml:lang="ar">09/01/1896</lido:displayDate>
+                  <lido:displayDate xml:lang="de">09.01.1896</lido:displayDate>
+                  <lido:displayDate xml:lang="en">January 09, 1896</lido:displayDate>
+                  <lido:displayDate xml:lang="es">09/01/1896</lido:displayDate>
+                  <lido:displayDate xml:lang="fa">09/01/1896</lido:displayDate>
+                  <lido:displayDate xml:lang="fr">09/01/1896</lido:displayDate>
+                  <lido:displayDate xml:lang="hu">1896. január 09.</lido:displayDate>
+                  <lido:displayDate xml:lang="id">09 Januari 1896</lido:displayDate>
+                  <lido:displayDate xml:lang="it">09/01/1896</lido:displayDate>
+                  <lido:displayDate xml:lang="ja">1896年01月09日</lido:displayDate>
+                  <lido:displayDate xml:lang="ka">09.01.1896</lido:displayDate>
+                  <lido:displayDate xml:lang="ko">1896년 01월 09일</lido:displayDate>
+                  <lido:displayDate xml:lang="pl">09.01.1896</lido:displayDate>
+                  <lido:displayDate xml:lang="pt">09/01/1896</lido:displayDate>
+                  <lido:displayDate xml:lang="ro">09.01.1896</lido:displayDate>
+                  <lido:displayDate xml:lang="ru">09.01.1896</lido:displayDate>
+                  <lido:displayDate xml:lang="ta">09-01-1896</lido:displayDate>
+                  <lido:displayDate xml:lang="tl">Enero 09, 1896</lido:displayDate>
+                  <lido:displayDate xml:lang="tr">09.01.1896</lido:displayDate>
+                  <lido:displayDate xml:lang="zh">1896年01月09日</lido:displayDate>
+                  <lido:date>
+                     <lido:earliestDate>1896</lido:earliestDate>
+                     <lido:latestDate>1896</lido:latestDate>
+                  </lido:date>
+               </lido:eventDate>
+               <lido:eventPlace>
+                  <lido:displayPlace>Potsdam</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ar">بوتسدام</lido:displayPlace>
+                  <lido:displayPlace xml:lang="cs">Postupim</lido:displayPlace>
+                  <lido:displayPlace xml:lang="da">Potsdam</lido:displayPlace>
+                  <lido:displayPlace xml:lang="de">Potsdam</lido:displayPlace>
+                  <lido:displayPlace xml:lang="el">Πότσδαμ</lido:displayPlace>
+                  <lido:displayPlace xml:lang="en">Potsdam</lido:displayPlace>
+                  <lido:displayPlace xml:lang="es">Potsdam</lido:displayPlace>
+                  <lido:displayPlace xml:lang="fa">پوتسدام</lido:displayPlace>
+                  <lido:displayPlace xml:lang="fi">Potsdam</lido:displayPlace>
+                  <lido:displayPlace xml:lang="fr">Potsdam</lido:displayPlace>
+                  <lido:displayPlace xml:lang="he">פוטסדאם</lido:displayPlace>
+                  <lido:displayPlace xml:lang="hi">पॉट्सडैम</lido:displayPlace>
+                  <lido:displayPlace xml:lang="hu">Potsdam</lido:displayPlace>
+                  <lido:displayPlace xml:lang="id">Potsdam</lido:displayPlace>
+                  <lido:displayPlace xml:lang="it">Potsdam</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ja">ポツダム</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ka">პოტსდამი</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ko">포츠담</lido:displayPlace>
+                  <lido:displayPlace xml:lang="nl">Potsdam</lido:displayPlace>
+                  <lido:displayPlace xml:lang="pl">Poczdam</lido:displayPlace>
+                  <lido:displayPlace xml:lang="pt">Potsdam</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ru">Потсдам</lido:displayPlace>
+                  <lido:displayPlace xml:lang="sv">Potsdam</lido:displayPlace>
+                  <lido:displayPlace xml:lang="sw">Potsdam</lido:displayPlace>
+                  <lido:displayPlace xml:lang="th">พ็อทซ์ดัม</lido:displayPlace>
+                  <lido:displayPlace xml:lang="tr">Potsdam</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ur">پاٹسڈیم</lido:displayPlace>
+                  <lido:displayPlace xml:lang="vi">Potsdam</lido:displayPlace>
+                  <lido:displayPlace xml:lang="zh">波茨坦</lido:displayPlace>
+                  <lido:place>
+                     <lido:placeID lido:source="geonames" lido:type="uri">https://sws.geonames.org/2852458</lido:placeID>
+                     <lido:placeID lido:source="TGN" lido:type="uri">http://vocab.getty.edu/tgn/7004463</lido:placeID>
+                     <lido:placeID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4046948-7</lido:placeID>
+                     <lido:placeID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q1711</lido:placeID>
+                     <lido:placeID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/place/113</lido:placeID>
+                     <lido:namePlaceSet>
+                        <lido:appellationValue>Potsdam</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ar">بوتسدام</lido:appellationValue>
+                        <lido:appellationValue xml:lang="cs">Postupim</lido:appellationValue>
+                        <lido:appellationValue xml:lang="da">Potsdam</lido:appellationValue>
+                        <lido:appellationValue xml:lang="de">Potsdam</lido:appellationValue>
+                        <lido:appellationValue xml:lang="el">Πότσδαμ</lido:appellationValue>
+                        <lido:appellationValue xml:lang="en">Potsdam</lido:appellationValue>
+                        <lido:appellationValue xml:lang="es">Potsdam</lido:appellationValue>
+                        <lido:appellationValue xml:lang="fa">پوتسدام</lido:appellationValue>
+                        <lido:appellationValue xml:lang="fi">Potsdam</lido:appellationValue>
+                        <lido:appellationValue xml:lang="fr">Potsdam</lido:appellationValue>
+                        <lido:appellationValue xml:lang="he">פוטסדאם</lido:appellationValue>
+                        <lido:appellationValue xml:lang="hi">पॉट्सडैम</lido:appellationValue>
+                        <lido:appellationValue xml:lang="hu">Potsdam</lido:appellationValue>
+                        <lido:appellationValue xml:lang="id">Potsdam</lido:appellationValue>
+                        <lido:appellationValue xml:lang="it">Potsdam</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ja">ポツダム</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ka">პოტსდამი</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ko">포츠담</lido:appellationValue>
+                        <lido:appellationValue xml:lang="nl">Potsdam</lido:appellationValue>
+                        <lido:appellationValue xml:lang="pl">Poczdam</lido:appellationValue>
+                        <lido:appellationValue xml:lang="pt">Potsdam</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ru">Потсдам</lido:appellationValue>
+                        <lido:appellationValue xml:lang="sv">Potsdam</lido:appellationValue>
+                        <lido:appellationValue xml:lang="sw">Potsdam</lido:appellationValue>
+                        <lido:appellationValue xml:lang="th">พ็อทซ์ดัม</lido:appellationValue>
+                        <lido:appellationValue xml:lang="tr">Potsdam</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ur">پاٹسڈیم</lido:appellationValue>
+                        <lido:appellationValue xml:lang="vi">Potsdam</lido:appellationValue>
+                        <lido:appellationValue xml:lang="zh">波茨坦</lido:appellationValue>
+                     </lido:namePlaceSet>
+                     <lido:gml>
+                        <gml:Point xmlns:gml="http://www.opengis.net/gml" srsName="EPSG:4326">
+                           <gml:pos>52.400001525879 13.066666603088</gml:pos>
+                        </gml:Point>
+                     </lido:gml>
+                  </lido:place>
+               </lido:eventPlace>
+            </lido:event>
+         </lido:eventSet>
+         <lido:eventSet>
+            <lido:event>
+               <lido:eventType>
+                  <lido:conceptID lido:type="uri">http://terminology.lido-schema.org/lido00003</lido:conceptID>
+                  <lido:term>Event (non-specified)</lido:term>
+               </lido:eventType>
+               <lido:eventMaterialsTech>
+                  <lido:displayMaterialsTech>Feder in Schwarz auf gebräuntem Karton</lido:displayMaterialsTech>
+               </lido:eventMaterialsTech>
+            </lido:event>
+         </lido:eventSet>
+      </lido:eventWrap>
+      <lido:objectRelationWrap>
+         <lido:subjectWrap>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectPlace>
+                     <lido:displayPlace>Erkner</lido:displayPlace>
+                     <lido:displayPlace xml:lang="ar">إركنر</lido:displayPlace>
+                     <lido:displayPlace xml:lang="cs">Erkner</lido:displayPlace>
+                     <lido:displayPlace xml:lang="da">Erkner</lido:displayPlace>
+                     <lido:displayPlace xml:lang="de">Erkner</lido:displayPlace>
+                     <lido:displayPlace xml:lang="en">Erkner</lido:displayPlace>
+                     <lido:displayPlace xml:lang="es">Erkner</lido:displayPlace>
+                     <lido:displayPlace xml:lang="fa">ارکنر</lido:displayPlace>
+                     <lido:displayPlace xml:lang="fr">Erkner</lido:displayPlace>
+                     <lido:displayPlace xml:lang="hu">Erkner</lido:displayPlace>
+                     <lido:displayPlace xml:lang="it">Erkner</lido:displayPlace>
+                     <lido:displayPlace xml:lang="ja">エルクナー</lido:displayPlace>
+                     <lido:displayPlace xml:lang="nl">Erkner</lido:displayPlace>
+                     <lido:displayPlace xml:lang="pl">Erkner</lido:displayPlace>
+                     <lido:displayPlace xml:lang="ro">Erkner</lido:displayPlace>
+                     <lido:displayPlace xml:lang="ru">Эркнер</lido:displayPlace>
+                     <lido:displayPlace xml:lang="sv">Erkner</lido:displayPlace>
+                     <lido:displayPlace xml:lang="tr">Erkner</lido:displayPlace>
+                     <lido:displayPlace xml:lang="zh">埃尔克纳</lido:displayPlace>
+                     <lido:place>
+                        <lido:placeID lido:source="geonames" lido:type="uri">https://sws.geonames.org/6550633</lido:placeID>
+                        <lido:placeID lido:source="TGN" lido:type="uri">http://vocab.getty.edu/tgn/1036665</lido:placeID>
+                        <lido:placeID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4015295-9</lido:placeID>
+                        <lido:placeID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q572392</lido:placeID>
+                        <lido:placeID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/place/17537</lido:placeID>
+                        <lido:namePlaceSet>
+                           <lido:appellationValue>Erkner</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ar">إركنر</lido:appellationValue>
+                           <lido:appellationValue xml:lang="cs">Erkner</lido:appellationValue>
+                           <lido:appellationValue xml:lang="da">Erkner</lido:appellationValue>
+                           <lido:appellationValue xml:lang="de">Erkner</lido:appellationValue>
+                           <lido:appellationValue xml:lang="en">Erkner</lido:appellationValue>
+                           <lido:appellationValue xml:lang="es">Erkner</lido:appellationValue>
+                           <lido:appellationValue xml:lang="fa">ارکنر</lido:appellationValue>
+                           <lido:appellationValue xml:lang="fr">Erkner</lido:appellationValue>
+                           <lido:appellationValue xml:lang="hu">Erkner</lido:appellationValue>
+                           <lido:appellationValue xml:lang="it">Erkner</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ja">エルクナー</lido:appellationValue>
+                           <lido:appellationValue xml:lang="nl">Erkner</lido:appellationValue>
+                           <lido:appellationValue xml:lang="pl">Erkner</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ro">Erkner</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ru">Эркнер</lido:appellationValue>
+                           <lido:appellationValue xml:lang="sv">Erkner</lido:appellationValue>
+                           <lido:appellationValue xml:lang="tr">Erkner</lido:appellationValue>
+                           <lido:appellationValue xml:lang="zh">埃尔克纳</lido:appellationValue>
+                        </lido:namePlaceSet>
+                        <lido:gml>
+                           <gml:Point xmlns:gml="http://www.opengis.net/gml" srsName="EPSG:4326">
+                              <gml:pos>52.416667938232 13.75</gml:pos>
+                           </gml:Point>
+                        </lido:gml>
+                     </lido:place>
+                  </lido:subjectPlace>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">http://d-nb.info/gnd/4163107-9</lido:conceptID>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">http://de.wikipedia.org/wiki/Kalkstein</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/6073</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Kalkstein</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="aat" lido:type="uri">http://vocab.getty.edu/aat/300010463</lido:conceptID>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4067726-6</lido:conceptID>
+                     <lido:conceptID lido:source="grobsystematik" lido:type="uri">https://term.museum-digital.de/grobsystematik/tag/647</lido:conceptID>
+                     <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh85016808</lido:conceptID>
+                     <lido:conceptID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q40089</lido:conceptID>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Mauerziegel</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/9785</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Backstein</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ar">طابوق</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="bn">ইট</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="cs">Cihla</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="da">Mursten</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="de">Backstein</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="el">τούβλο</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="en">Brick</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="es">Ladrillo</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fa">آجر</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fi">Tiili</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fr">Brique</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="he">לבנה</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hi">ईंट</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hu">tégla</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="id">Batu bata</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="it">Mattone</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ja">煉瓦</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ka">აგური</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ko">벽돌</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="nl">Baksteen</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pl">Cegła</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pt">Tijolo</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ro">cărămidă</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ru">кирпич</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sv">Murtegel</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sw">Tofali</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ta">செங்கல்</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="th">อิฐ</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tl">Laryo</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tr">Tuğla</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ur">اینٹ</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="vi">Gạch</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="zh">磚</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="aat" lido:type="uri">http://vocab.getty.edu/aat/300024987</lido:conceptID>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">http://d-nb.info/gnd/4002844-6</lido:conceptID>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">http://de.wikipedia.org/wiki/Architekt</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/10124</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Architekt</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="aat" lido:type="uri">http://vocab.getty.edu/aat/300034569</lido:conceptID>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">http://d-nb.info/gnd/4139167-6</lido:conceptID>
+                     <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh85129196</lido:conceptID>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">http://de.wikipedia.org/wiki/Bauzeichnung</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/11970</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Bauzeichnung</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/45858</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Kirche</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/71176</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Neogotik</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+         </lido:subjectWrap>
+         <lido:relatedWorksWrap>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:displayObject>Zweite Entwurfzeichnung</lido:displayObject>
+                  <lido:object>
+                     <lido:objectWebResource>https://berlin.museum-digital.de/index.php?t=objekt&amp;oges=66832</lido:objectWebResource>
+                  </lido:object>
+               </lido:relatedWork>
+            </lido:relatedWorkSet>
+         </lido:relatedWorksWrap>
+      </lido:objectRelationWrap>
+   </lido:descriptiveMetadata>
+   <lido:administrativeMetadata xml:lang="de">
+      <lido:rightsWorkWrap>
+         <lido:rightsWorkSet>
+            <lido:rightsHolder>
+               <lido:legalBodyName>
+                  <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:rightsHolder>
+         </lido:rightsWorkSet>
+      </lido:rightsWorkWrap>
+      <lido:recordWrap>
+         <lido:recordID lido:type="museum-digital">66831</lido:recordID>
+         <lido:recordType>
+            <lido:term lido:addedSearchTerm="no">item</lido:term>
+         </lido:recordType>
+         <lido:recordSource lido:type="dataProvider">
+            <lido:legalBodyName>
+               <lido:appellationValue>museum-digital</lido:appellationValue>
+            </lido:legalBodyName>
+            <lido:legalBodyWeblink>https://berlin.museum-digital.de/</lido:legalBodyWeblink>
+         </lido:recordSource>
+         <lido:recordSource>
+            <lido:legalBodyID lido:type="isil">DE-B185</lido:legalBodyID>
+            <lido:legalBodyName>
+               <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+            </lido:legalBodyName>
+         </lido:recordSource>
+         <lido:recordRights>
+            <lido:rightsType>
+               <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no">CC BY</lido:term>
+            </lido:rightsType>
+            <lido:rightsHolder>
+               <lido:legalBodyID lido:type="isil">DE-B185</lido:legalBodyID>
+               <lido:legalBodyName>
+                  <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+               </lido:legalBodyName>
+               <lido:legalBodyWeblink>http://geschichte-brandenburg.de/</lido:legalBodyWeblink>
+            </lido:rightsHolder>
+            <lido:creditLine>Förderprogramm zur Digitalisierung von Objekten des kulturellen Erbes des Landes Berlin</lido:creditLine>
+         </lido:recordRights>
+         <lido:recordInfoSet>
+            <lido:recordInfoLink>https://berlin.museum-digital.de/index.php?t=objekt&amp;oges=66831</lido:recordInfoLink>
+            <lido:recordMetadataDate>2021-04-27 07:59:56</lido:recordMetadataDate>
+         </lido:recordInfoSet>
+      </lido:recordWrap>
+      <lido:resourceWrap>
+         <lido:resourceSet lido:sortorder="1">
+            <lido:resourceID lido:source="image" lido:type="local">48418</lido:resourceID>
+            <lido:resourceRepresentation lido:type="masterfile">
+               <lido:linkResource lido:formatResource="image/tiff"/>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_thumb">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/202007/100h_erkner-kr-niederbarnim-kirche-ansicht-von-sueden-maSsstab-1200-66831.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_preview">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/202007/200w_erkner-kr-niederbarnim-kirche-ansicht-von-sueden-maSsstab-1200-66831.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/202007/erkner-kr-niederbarnim-kirche-ansicht-von-sueden-maSsstab-1200-66831.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceType>
+               <lido:term lido:addedSearchTerm="no">image</lido:term>
+            </lido:resourceType>
+            <lido:resourceRelType>
+               <lido:term lido:addedSearchTerm="no">Hauptansicht</lido:term>
+            </lido:resourceRelType>
+            <lido:resourceDescription>Erkner: Kirche, Ansicht von Süden. Maßstab 1.200</lido:resourceDescription>
+            <lido:resourceSource lido:type="creator">
+               <lido:legalBodyName>
+                  <lido:appellationValue>Thomas Voßbeck, 2020</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:resourceSource>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+                  <lido:term lido:addedSearchTerm="no">CC BY</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V.</lido:appellationValue>
+                  </lido:legalBodyName>
+               </lido:rightsHolder>
+               <lido:creditLine>Thomas Voßbeck, 2020</lido:creditLine>
+            </lido:rightsResource>
+         </lido:resourceSet>
+      </lido:resourceWrap>
+   </lido:administrativeMetadata>
+</lido:lido>
+

@@ -1,0 +1,447 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lido:lido xmlns:lido="http://www.lido-schema.org"
+           xmlns:xalan="http://xml.apache.org/xalan">
+   <lido:lidoRecID lido:source="https://berlin.museum-digital.de/index.php?t=institution&amp;instnr=32"
+                   lido:type="local">DE-B185/67035</lido:lidoRecID>
+   <lido:category/>
+   <lido:descriptiveMetadata xml:lang="de">
+      <lido:objectClassificationWrap>
+         <lido:objectWorkTypeWrap>
+            <lido:objectWorkType>
+               <lido:conceptID lido:source="gnd" lido:type="uri">http://d-nb.info/gnd/4123412-1</lido:conceptID>
+               <lido:conceptID lido:source="aat" lido:type="uri">http://vocab.getty.edu/aat/300015578</lido:conceptID>
+               <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/8011</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Illustration</lido:term>
+            </lido:objectWorkType>
+         </lido:objectWorkTypeWrap>
+         <lido:classificationWrap>
+            <lido:classification lido:type="Sammlung">
+               <lido:conceptID lido:source="local" lido:type="collection_id">705</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Handzeichnungen, Druckgraphik, Gemälde</lido:term>
+            </lido:classification>
+            <lido:classification lido:type="Sammlung">
+               <lido:conceptID lido:source="local" lido:type="collection_id">725</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Sachen und Ereignisse</lido:term>
+            </lido:classification>
+            <lido:classification lido:type="Sammlung">
+               <lido:conceptID lido:source="local" lido:type="collection_id">727</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Einzelblätter</lido:term>
+            </lido:classification>
+         </lido:classificationWrap>
+      </lido:objectClassificationWrap>
+      <lido:objectIdentificationWrap>
+         <lido:titleWrap>
+            <lido:titleSet>
+               <lido:appellationValue lido:pref="preferred">Crossen/Oder: Einsturz des Kirchturms durch einen Tornado am 14. Mai 1886</lido:appellationValue>
+            </lido:titleSet>
+         </lido:titleWrap>
+         <lido:repositoryWrap>
+            <lido:repositorySet lido:type="current">
+               <lido:repositoryName>
+                  <lido:legalBodyID lido:type="isil">DE-B185</lido:legalBodyID>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+                  </lido:legalBodyName>
+                  <lido:legalBodyWeblink>http://geschichte-brandenburg.de/</lido:legalBodyWeblink>
+               </lido:repositoryName>
+               <lido:workID lido:type="inventory number">LGV-Archiv, C 12 G-3-117</lido:workID>
+               <lido:repositoryLocation>
+                  <lido:namePlaceSet>
+                     <lido:appellationValue>Berlin</lido:appellationValue>
+                  </lido:namePlaceSet>
+                  <lido:gml>
+                     <gml:Point xmlns:gml="http://www.opengis.net/gml" srsName="EPSG:4326">
+                        <gml:pos>52.51533127 13.40440559</gml:pos>
+                     </gml:Point>
+                  </lido:gml>
+               </lido:repositoryLocation>
+            </lido:repositorySet>
+         </lido:repositoryWrap>
+         <lido:objectDescriptionWrap>
+            <lido:objectDescriptionSet>
+               <lido:descriptiveNoteValue>Bei der "Windsbraut" muss es sich um eine Windhose (im Mittelalter auch Trompe genannt wegen der trompetenartigen Form) gehandelt haben, ein Wetterphänomen, das heute mit dem Begriff des Tornado bezeichnet wird. Zum erstellten Abbild des Ereignisses (S. 567) erschien ein Begleittext (S. 567-568) unter dem Titel "Die Windsbraut über Crossen" in der Leipziger Illustrirten Zeitung, Nr. 2240 vom 5. Juni 1886. Darin heißt es: "Erfaßt von dem wilden Wetter, erhob sich die obere; über 200 Fuß hohe Hälfte des Turms vom Steinunterbau, schwebte gewissermaßen, ein gigantisches Bild, seitwärts ab, um alsdan, in drei Theile zerborsten, fast senkrecht in die Tiefe zu stürzen, Ein Gebäude, eine Restauration, verschwand unter dieser Wucht vom Erdboden. Aus den Trümmern wurden später todt herausgezogen eine Kellnerin, ein Bauer aus Rädnitz und der Kupferschmiedemeister Hübner. Gerettet sind 5 Personen." Interessant ist, dass der vielseitige Zeichner, Lithograph und Holzschneider Robert Geissler (1819-1893) hier auch als Journalist arbeitete. Er scheint nach dem Ereignis vor Ort gewesen zu sein und hat Augenzeugenberichte in seinen Text ebenso wie in seine Illustration eingearbeitet, ganz im Sinne eines modernen investigativen Journalismus. Die nur knapp drei Wochen zwischen dem Ereignis am 14. Mai und dem Erscheinen der Zeitschrift am 5. Juni sind bemerkenswert. Der Tornado von Crossen am 14. Mai hat viel Aufsehen erregt, das Königliche Preußische Metteorologische Institut sah in ihm einen Orkan, der durch den Zusammenschluss zweier Gewitterzellen im Bobertal entstanden sei und bei dem der Wind Orkanstärke in einem 800 bis 1200 m breitem und 30 Kilometer breiten Streifen erreichte.&#xD;
+Erworben 2019 (Nachlass Hans-Werner Klünner).&#xD;
+&#xD;
+Literatur: Eckhardt Jäger: Robert Geissler (1819–1893). Ein fast vergessener Zeichner von 1500 Veduten. In: Volker Schimpff, Wieland Führ (Hrsg.): Historia in Museo. Festschrift zum 65. Geburtstag von Frank-Dietrich Jacob. Langenweißbach 2004, S. 225–241. - https://www.researchgate.net/publication/315664978_Deadly_tornadoes_in_Poland_from_1820_to_2015. - [Eintrag von 2001 aus dem Preußischen meteorologischen Institut] (http://old.wetterzentrale.de/cgi-bin/wetterchronik/home.pl?read=838&amp;jump1=jahr&amp;jump2=1886)</lido:descriptiveNoteValue>
+               <lido:sourceDescriptiveNote>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:sourceDescriptiveNote>
+            </lido:objectDescriptionSet>
+         </lido:objectDescriptionWrap>
+         <lido:objectMeasurementsWrap>
+            <lido:objectMeasurementsSet>
+               <lido:displayObjectMeasurements>Blattgröße: Höhe 40,3 cm, Breite 28 cm</lido:displayObjectMeasurements>
+               <lido:objectMeasurements/>
+            </lido:objectMeasurementsSet>
+         </lido:objectMeasurementsWrap>
+      </lido:objectIdentificationWrap>
+      <lido:eventWrap>
+         <lido:eventSet>
+            <lido:event>
+               <lido:eventType>
+                  <lido:conceptID lido:type="uri">https://event-types.museum-digital.org/1</lido:conceptID>
+                  <lido:term lido:addedSearchTerm="no">Hergestellt</lido:term>
+               </lido:eventType>
+               <lido:eventActor>
+                  <lido:displayActorInRole>Robert Geissler (1819-1893)</lido:displayActorInRole>
+                  <lido:actorInRole>
+                     <lido:actor>
+                        <lido:actorID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Robert_Gei%C3%9Fler</lido:actorID>
+                        <lido:actorID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/11651860X</lido:actorID>
+                        <lido:actorID lido:source="rkd" lido:type="uri">https://rkd.nl/explore/artists/347751</lido:actorID>
+                        <lido:actorID lido:source="ulan" lido:type="uri">http://vocab.getty.edu/ulan/500141178</lido:actorID>
+                        <lido:actorID lido:source="viaf" lido:type="uri">https://viaf.org/viaf/13060484</lido:actorID>
+                        <lido:actorID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q15432224</lido:actorID>
+                        <lido:actorID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/persinst/10530</lido:actorID>
+                        <lido:nameActorSet>
+                           <lido:appellationValue>Geissler, Robert</lido:appellationValue>
+                           <lido:appellationValue xml:lang="de">Robert Geissler</lido:appellationValue>
+                           <lido:appellationValue xml:lang="en">Robert Geissler</lido:appellationValue>
+                           <lido:appellationValue xml:lang="nl">Robert Geissler</lido:appellationValue>
+                        </lido:nameActorSet>
+                        <lido:vitalDatesActor>
+                           <lido:earliestDate>1819</lido:earliestDate>
+                           <lido:latestDate>1893</lido:latestDate>
+                        </lido:vitalDatesActor>
+                     </lido:actor>
+                  </lido:actorInRole>
+               </lido:eventActor>
+               <lido:eventDate>
+                  <lido:displayDate>14.05.1886</lido:displayDate>
+                  <lido:displayDate xml:lang="ar">14/05/1886</lido:displayDate>
+                  <lido:displayDate xml:lang="de">14.05.1886</lido:displayDate>
+                  <lido:displayDate xml:lang="en">May 14, 1886</lido:displayDate>
+                  <lido:displayDate xml:lang="es">14/05/1886</lido:displayDate>
+                  <lido:displayDate xml:lang="fa">14/05/1886</lido:displayDate>
+                  <lido:displayDate xml:lang="fr">14/05/1886</lido:displayDate>
+                  <lido:displayDate xml:lang="hu">1886. május 14.</lido:displayDate>
+                  <lido:displayDate xml:lang="id">14 Mei 1886</lido:displayDate>
+                  <lido:displayDate xml:lang="it">14/05/1886</lido:displayDate>
+                  <lido:displayDate xml:lang="ja">1886年05月14日</lido:displayDate>
+                  <lido:displayDate xml:lang="ka">14.05.1886</lido:displayDate>
+                  <lido:displayDate xml:lang="ko">1886년 05월 14일</lido:displayDate>
+                  <lido:displayDate xml:lang="pl">14.05.1886</lido:displayDate>
+                  <lido:displayDate xml:lang="pt">14/05/1886</lido:displayDate>
+                  <lido:displayDate xml:lang="ro">14.05.1886</lido:displayDate>
+                  <lido:displayDate xml:lang="ru">14.05.1886</lido:displayDate>
+                  <lido:displayDate xml:lang="ta">14-05-1886</lido:displayDate>
+                  <lido:displayDate xml:lang="tl">Mayo 14, 1886</lido:displayDate>
+                  <lido:displayDate xml:lang="tr">14.05.1886</lido:displayDate>
+                  <lido:displayDate xml:lang="zh">1886年05月14日</lido:displayDate>
+                  <lido:date>
+                     <lido:earliestDate>1886</lido:earliestDate>
+                     <lido:latestDate>1886</lido:latestDate>
+                  </lido:date>
+               </lido:eventDate>
+            </lido:event>
+         </lido:eventSet>
+         <lido:eventSet>
+            <lido:event>
+               <lido:eventType>
+                  <lido:conceptID lido:type="uri">http://terminology.lido-schema.org/lido00003</lido:conceptID>
+                  <lido:term>Event (non-specified)</lido:term>
+               </lido:eventType>
+               <lido:eventMaterialsTech>
+                  <lido:displayMaterialsTech>Druck auf dünnem Papier, beidseitig bedruckt</lido:displayMaterialsTech>
+               </lido:eventMaterialsTech>
+            </lido:event>
+         </lido:eventSet>
+      </lido:eventWrap>
+      <lido:objectRelationWrap>
+         <lido:subjectWrap>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectPlace>
+                     <lido:displayPlace>Crossen an der Oder</lido:displayPlace>
+                     <lido:displayPlace xml:lang="cs">Krosno Odrzańskie</lido:displayPlace>
+                     <lido:displayPlace xml:lang="de">Crossen an der Oder</lido:displayPlace>
+                     <lido:displayPlace xml:lang="en">Krosno Odrzańskie</lido:displayPlace>
+                     <lido:displayPlace xml:lang="es">Krosno Odrzańskie</lido:displayPlace>
+                     <lido:displayPlace xml:lang="fr">Krosno Odrzańskie</lido:displayPlace>
+                     <lido:displayPlace xml:lang="he">קרוסנו אורדז'נסקי</lido:displayPlace>
+                     <lido:displayPlace xml:lang="hu">Krosno Odrzańskie</lido:displayPlace>
+                     <lido:displayPlace xml:lang="id">Krosno Odrzańskie</lido:displayPlace>
+                     <lido:displayPlace xml:lang="ko">크로스노오잔스키에</lido:displayPlace>
+                     <lido:displayPlace xml:lang="nl">Krosno Odrzańskie</lido:displayPlace>
+                     <lido:displayPlace xml:lang="pl">Krosno Odrzańskie</lido:displayPlace>
+                     <lido:displayPlace xml:lang="pt">Krosno Odrzańskie</lido:displayPlace>
+                     <lido:displayPlace xml:lang="ro">Krosno Odrzańskie</lido:displayPlace>
+                     <lido:displayPlace xml:lang="ru">Кросно-Оджаньске</lido:displayPlace>
+                     <lido:displayPlace xml:lang="sv">Krosno Odrzańskie</lido:displayPlace>
+                     <lido:displayPlace xml:lang="vi">Krosno Odrzańskie</lido:displayPlace>
+                     <lido:displayPlace xml:lang="zh">奧得河畔克羅斯諾</lido:displayPlace>
+                     <lido:place>
+                        <lido:placeID lido:source="geonames" lido:type="uri">https://sws.geonames.org/3094633</lido:placeID>
+                        <lido:placeID lido:source="TGN" lido:type="uri">http://vocab.getty.edu/tgn/1049185</lido:placeID>
+                        <lido:placeID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4471884-6</lido:placeID>
+                        <lido:placeID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q148947</lido:placeID>
+                        <lido:placeID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/place/34527</lido:placeID>
+                        <lido:namePlaceSet>
+                           <lido:appellationValue>Crossen an der Oder</lido:appellationValue>
+                           <lido:appellationValue xml:lang="cs">Krosno Odrzańskie</lido:appellationValue>
+                           <lido:appellationValue xml:lang="de">Crossen an der Oder</lido:appellationValue>
+                           <lido:appellationValue xml:lang="en">Krosno Odrzańskie</lido:appellationValue>
+                           <lido:appellationValue xml:lang="es">Krosno Odrzańskie</lido:appellationValue>
+                           <lido:appellationValue xml:lang="fr">Krosno Odrzańskie</lido:appellationValue>
+                           <lido:appellationValue xml:lang="he">קרוסנו אורדז'נסקי</lido:appellationValue>
+                           <lido:appellationValue xml:lang="hu">Krosno Odrzańskie</lido:appellationValue>
+                           <lido:appellationValue xml:lang="id">Krosno Odrzańskie</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ko">크로스노오잔스키에</lido:appellationValue>
+                           <lido:appellationValue xml:lang="nl">Krosno Odrzańskie</lido:appellationValue>
+                           <lido:appellationValue xml:lang="pl">Krosno Odrzańskie</lido:appellationValue>
+                           <lido:appellationValue xml:lang="pt">Krosno Odrzańskie</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ro">Krosno Odrzańskie</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ru">Кросно-Оджаньске</lido:appellationValue>
+                           <lido:appellationValue xml:lang="sv">Krosno Odrzańskie</lido:appellationValue>
+                           <lido:appellationValue xml:lang="vi">Krosno Odrzańskie</lido:appellationValue>
+                           <lido:appellationValue xml:lang="zh">奧得河畔克羅斯諾</lido:appellationValue>
+                        </lido:namePlaceSet>
+                        <lido:gml>
+                           <gml:Point xmlns:gml="http://www.opengis.net/gml" srsName="EPSG:4326">
+                              <gml:pos>52.033332824707 15.10000038147</gml:pos>
+                           </gml:Point>
+                        </lido:gml>
+                     </lido:place>
+                  </lido:subjectPlace>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="aat" lido:type="uri">http://vocab.getty.edu/aat/300026656</lido:conceptID>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4067510-5</lido:conceptID>
+                     <lido:conceptID lido:source="grobsystematik" lido:type="uri">https://term.museum-digital.de/grobsystematik/tag/14453</lido:conceptID>
+                     <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh99001641</lido:conceptID>
+                     <lido:conceptID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q11032</lido:conceptID>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Zeitung</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/1695</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Zeitung</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ar">صحيفة</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="bn">সংবাদপত্র</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="cs">Noviny</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="da">Avis</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="de">Zeitung</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="el">εφημερίδα</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="en">Newspaper</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="es">Periódico</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fa">روزنامه</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fi">Sanomalehti</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fr">Journal</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="he">עיתון</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hi">समाचार पत्र</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hu">újság</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="id">Surat kabar</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="it">Giornale</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ja">新聞</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ka">გაზეთი</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ko">신문</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="nl">Krant</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pl">Gazeta</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pt">Jornal</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ro">ziar</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ru">газета</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sv">Tidning</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sw">Gazeti</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ta">நாளிதழ்</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="th">หนังสือพิมพ์</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tl">Pahayagan</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tr">Gazete</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ur">اخبار</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="vi">báo viết</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="zh">報紙</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/7395</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Wettererscheinung</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="aat" lido:type="uri">http://vocab.getty.edu/aat/300015578</lido:conceptID>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4123412-1</lido:conceptID>
+                     <lido:conceptID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/w/index.php?search=&amp;search=Q178659</lido:conceptID>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Illustration</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/8011</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Illustration</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ar">رسم توضيحي</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="cs">ilustrace</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="da">illustration</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="de">Illustration</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="el">απεικόνιση</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="en">illustration</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="es">ilustración</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fa">تصویرسازی</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fi">kuvitus</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fr">illustration</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="he">איור</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hi">चित्रण</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hu">illusztráció</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="id">Ilustrasi</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="it">illustrazione</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ja">イラストレーション</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ka">ილუსტრაცია</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ko">삽화</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="nl">illustratie</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pl">ilustracja</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pt">ilustração</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ru">иллюстрация</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sv">illustration</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="th">ภาพประกอบ</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tr">İllüstrasyon</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="vi">Sự minh họa</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="zh">插畫</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">http://d-nb.info/gnd/4029929-6</lido:conceptID>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">http://de.wikipedia.org/wiki/Katastrophe</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/14387</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Katastrophe</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/74367</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Tornado</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+         </lido:subjectWrap>
+         <lido:relatedWorksWrap/>
+      </lido:objectRelationWrap>
+   </lido:descriptiveMetadata>
+   <lido:administrativeMetadata xml:lang="de">
+      <lido:rightsWorkWrap>
+         <lido:rightsWorkSet>
+            <lido:rightsHolder>
+               <lido:legalBodyName>
+                  <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:rightsHolder>
+         </lido:rightsWorkSet>
+      </lido:rightsWorkWrap>
+      <lido:recordWrap>
+         <lido:recordID lido:type="museum-digital">67035</lido:recordID>
+         <lido:recordType>
+            <lido:term lido:addedSearchTerm="no">item</lido:term>
+         </lido:recordType>
+         <lido:recordSource lido:type="dataProvider">
+            <lido:legalBodyName>
+               <lido:appellationValue>museum-digital</lido:appellationValue>
+            </lido:legalBodyName>
+            <lido:legalBodyWeblink>https://berlin.museum-digital.de/</lido:legalBodyWeblink>
+         </lido:recordSource>
+         <lido:recordSource>
+            <lido:legalBodyID lido:type="isil">DE-B185</lido:legalBodyID>
+            <lido:legalBodyName>
+               <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+            </lido:legalBodyName>
+         </lido:recordSource>
+         <lido:recordRights>
+            <lido:rightsType>
+               <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no">CC BY</lido:term>
+            </lido:rightsType>
+            <lido:rightsHolder>
+               <lido:legalBodyID lido:type="isil">DE-B185</lido:legalBodyID>
+               <lido:legalBodyName>
+                  <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+               </lido:legalBodyName>
+               <lido:legalBodyWeblink>http://geschichte-brandenburg.de/</lido:legalBodyWeblink>
+            </lido:rightsHolder>
+            <lido:creditLine>Förderprogramm zur Digitalisierung von Objekten des kulturellen Erbes des Landes Berlin</lido:creditLine>
+         </lido:recordRights>
+         <lido:recordInfoSet>
+            <lido:recordInfoLink>https://berlin.museum-digital.de/index.php?t=objekt&amp;oges=67035</lido:recordInfoLink>
+            <lido:recordMetadataDate>2021-04-27 07:59:54</lido:recordMetadataDate>
+         </lido:recordInfoSet>
+      </lido:recordWrap>
+      <lido:resourceWrap>
+         <lido:resourceSet lido:sortorder="1">
+            <lido:resourceID lido:source="image" lido:type="local">48620</lido:resourceID>
+            <lido:resourceRepresentation lido:type="masterfile">
+               <lido:linkResource lido:formatResource="image/tiff"/>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_thumb">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/202007/100h_crossenoder-einsturz-des-kirchturms-durch-einen-tornado-am-14-mai-1886-67035.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_preview">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/202007/200w_crossenoder-einsturz-des-kirchturms-durch-einen-tornado-am-14-mai-1886-67035.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/202007/crossenoder-einsturz-des-kirchturms-durch-einen-tornado-am-14-mai-1886-67035.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceType>
+               <lido:term lido:addedSearchTerm="no">image</lido:term>
+            </lido:resourceType>
+            <lido:resourceRelType>
+               <lido:term lido:addedSearchTerm="no">Hauptansicht</lido:term>
+            </lido:resourceRelType>
+            <lido:resourceDescription>Crossen/Oder: Einsturz des Kirchturms durch einen Tornado am 14. Mai 1886</lido:resourceDescription>
+            <lido:resourceSource lido:type="creator">
+               <lido:legalBodyName>
+                  <lido:appellationValue>Thomas Voßbeck, 2020</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:resourceSource>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+                  <lido:term lido:addedSearchTerm="no">CC BY</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V.</lido:appellationValue>
+                  </lido:legalBodyName>
+               </lido:rightsHolder>
+               <lido:creditLine>Thomas Voßbeck, 2020</lido:creditLine>
+            </lido:rightsResource>
+         </lido:resourceSet>
+         <lido:resourceSet lido:sortorder="2">
+            <lido:resourceID lido:source="image" lido:type="local">49089</lido:resourceID>
+            <lido:resourceRepresentation lido:type="masterfile">
+               <lido:linkResource lido:formatResource="image/tiff"/>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_thumb">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/32/67035-lgv-archiv_c_12_g-3-117/crossenoder_einsturz_des_/100h_crossenoder-einsturz-des-kirchturms-durch-einen-tornado-am-14-mai-1886-67035.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_preview">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/32/67035-lgv-archiv_c_12_g-3-117/crossenoder_einsturz_des_/200w_crossenoder-einsturz-des-kirchturms-durch-einen-tornado-am-14-mai-1886-67035.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/32/67035-lgv-archiv_c_12_g-3-117/crossenoder_einsturz_des_/crossenoder-einsturz-des-kirchturms-durch-einen-tornado-am-14-mai-1886-67035.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceType>
+               <lido:term lido:addedSearchTerm="no">image</lido:term>
+            </lido:resourceType>
+            <lido:resourceDescription/>
+            <lido:resourceSource lido:type="creator">
+               <lido:legalBodyName>
+                  <lido:appellationValue>Thomas Voßbeck, 2020</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:resourceSource>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+                  <lido:term lido:addedSearchTerm="no">CC BY</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V.</lido:appellationValue>
+                  </lido:legalBodyName>
+               </lido:rightsHolder>
+               <lido:creditLine>Thomas Voßbeck, 2020</lido:creditLine>
+            </lido:rightsResource>
+         </lido:resourceSet>
+      </lido:resourceWrap>
+   </lido:administrativeMetadata>
+</lido:lido>
+

@@ -1,0 +1,488 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lido:lido xmlns:lido="http://www.lido-schema.org"
+           xmlns:xalan="http://xml.apache.org/xalan">
+   <lido:lidoRecID lido:source="https://berlin.museum-digital.de/index.php?t=institution&amp;instnr=32"
+                   lido:type="local">DE-B185/66950</lido:lidoRecID>
+   <lido:category/>
+   <lido:descriptiveMetadata xml:lang="de">
+      <lido:objectClassificationWrap>
+         <lido:objectWorkTypeWrap>
+            <lido:objectWorkType>
+               <lido:conceptID lido:source="gnd" lido:type="uri">http://d-nb.info/gnd/4021845-4</lido:conceptID>
+               <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/13314</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Druckgraphik</lido:term>
+            </lido:objectWorkType>
+         </lido:objectWorkTypeWrap>
+         <lido:classificationWrap>
+            <lido:classification lido:type="Sammlung">
+               <lido:conceptID lido:source="local" lido:type="collection_id">705</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Handzeichnungen, Druckgraphik, Gemälde</lido:term>
+            </lido:classification>
+            <lido:classification lido:type="Sammlung">
+               <lido:conceptID lido:source="local" lido:type="collection_id">706</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Ansichten</lido:term>
+            </lido:classification>
+            <lido:classification lido:type="Sammlung">
+               <lido:conceptID lido:source="local" lido:type="collection_id">708</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Brandenburg</lido:term>
+            </lido:classification>
+         </lido:classificationWrap>
+      </lido:objectClassificationWrap>
+      <lido:objectIdentificationWrap>
+         <lido:titleWrap>
+            <lido:titleSet>
+               <lido:appellationValue lido:pref="preferred">Frankfurt (Oder): Stadtansicht</lido:appellationValue>
+            </lido:titleSet>
+         </lido:titleWrap>
+         <lido:repositoryWrap>
+            <lido:repositorySet lido:type="current">
+               <lido:repositoryName>
+                  <lido:legalBodyID lido:type="isil">DE-B185</lido:legalBodyID>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+                  </lido:legalBodyName>
+                  <lido:legalBodyWeblink>http://geschichte-brandenburg.de/</lido:legalBodyWeblink>
+               </lido:repositoryName>
+               <lido:workID lido:type="inventory number">LGV-Archiv, C 12 G-3-039</lido:workID>
+               <lido:repositoryLocation>
+                  <lido:namePlaceSet>
+                     <lido:appellationValue>Berlin</lido:appellationValue>
+                  </lido:namePlaceSet>
+                  <lido:gml>
+                     <gml:Point xmlns:gml="http://www.opengis.net/gml" srsName="EPSG:4326">
+                        <gml:pos>52.51533127 13.40440559</gml:pos>
+                     </gml:Point>
+                  </lido:gml>
+               </lido:repositoryLocation>
+            </lido:repositorySet>
+         </lido:repositoryWrap>
+         <lido:objectDescriptionWrap>
+            <lido:objectDescriptionSet>
+               <lido:descriptiveNoteValue>Es handelt sich um einen späteren Abdruck der berühmten ältesten druckgraphischen Ansicht von Frankfurt (Oder) bzw. eines märkischen Ortes überhaupt, gefertigt von Hans Rudolf Manuel (Deutsch) (1525-1571) nach einer Zeichnung von Franz Friedrich (um 1520 - nach 1563). Friedrich fertigte die Zeichnung auf Wunsch des Autors Sebastian Münster (1488-1552) in Frankfurt selbst, weshalb sie einen großen historischen Wert besitzt. Das Motiv blieb für die Wiederauflagen, Übersetzungen, Neuauflagen (insgesamt 46) trotz Wiederabdruck oder Nachstich unverändert, nur die textlichen Beigaben wurden jeweils dem Zweck angepasst.
+Das Werk stammt aus: Cosmographia. Beschreibung aller Lender durch Sebastianum Munsterum, in welcher begriffen Aller Völcker, Herrschafften, Stetten, und namhafftiger Flecken, Herkommen (...)", zuerst erschienen in Basel 1547. Die Ansicht von Frankfurt (Oder) findet sich in den Auflagen von ab 1550 (nach S. 756).
+
+Bez. o. "dcccxcij dcccxciy Das dritt buch Von dem Teutschen land. Die statt Franckfurt an der Oder in Brandenburger Marck gelegen." mi. u. Legende C-O, rückseitig Text.
+Altbestand des Archivs.
+
+Literatur: Iris Berndt: Märkische Ansichten. Die Provinz Brandenburg im Bild der Druckgraphik 1550-1850. Berlin 2007, Nr. 689.</lido:descriptiveNoteValue>
+               <lido:sourceDescriptiveNote>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:sourceDescriptiveNote>
+            </lido:objectDescriptionSet>
+         </lido:objectDescriptionWrap>
+         <lido:objectMeasurementsWrap>
+            <lido:objectMeasurementsSet>
+               <lido:displayObjectMeasurements>Blattgröße: Höhe 29,2 cm, Breite 38,6 cm (Falz in der Mitte)</lido:displayObjectMeasurements>
+               <lido:objectMeasurements/>
+            </lido:objectMeasurementsSet>
+         </lido:objectMeasurementsWrap>
+      </lido:objectIdentificationWrap>
+      <lido:eventWrap>
+         <lido:eventSet>
+            <lido:event>
+               <lido:eventType>
+                  <lido:conceptID lido:type="uri">https://event-types.museum-digital.org/1</lido:conceptID>
+                  <lido:term lido:addedSearchTerm="no">Hergestellt</lido:term>
+               </lido:eventType>
+               <lido:eventActor>
+                  <lido:displayActorInRole>Hans Rudolf Manuel Deutsch (1525-1571)</lido:displayActorInRole>
+                  <lido:actorInRole>
+                     <lido:actor>
+                        <lido:actorID lido:source="NDB/ADB" lido:type="uri">https://www.deutsche-biographie.de/pnd104242337.html#ndbcontent</lido:actorID>
+                        <lido:actorID lido:source="Wikipedia" lido:type="uri">https://en.wikipedia.org/wiki/Hans_Rudolf_Manuel_Deutsch</lido:actorID>
+                        <lido:actorID lido:source="bne" lido:type="uri">http://datos.bne.es/persona/XX5338428</lido:actorID>
+                        <lido:actorID lido:source="bnf" lido:type="uri">https://catalogue.bnf.fr/ark:/12148/cb12392362p</lido:actorID>
+                        <lido:actorID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/104242337</lido:actorID>
+                        <lido:actorID lido:source="loc" lido:type="uri">http://id.loc.gov/authorities/names/n98052257</lido:actorID>
+                        <lido:actorID lido:source="rkd" lido:type="uri">https://rkd.nl/explore/artists/253104</lido:actorID>
+                        <lido:actorID lido:source="ulan" lido:type="uri">http://vocab.getty.edu/ulan/500007712</lido:actorID>
+                        <lido:actorID lido:source="viaf" lido:type="uri">https://viaf.org/viaf/74156459</lido:actorID>
+                        <lido:actorID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q15290562</lido:actorID>
+                        <lido:actorID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/persinst/63116</lido:actorID>
+                        <lido:nameActorSet>
+                           <lido:appellationValue>Deutsch, Hans Rudolf Manuel</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ar">هانس رودلف مانويل ديوتش</lido:appellationValue>
+                           <lido:appellationValue xml:lang="en">Hans Rudolf Manuel</lido:appellationValue>
+                           <lido:appellationValue xml:lang="es">Hans Rudolf Manuel</lido:appellationValue>
+                           <lido:appellationValue xml:lang="fr">Hans Rudolf Manuel</lido:appellationValue>
+                           <lido:appellationValue xml:lang="it">Hans Rudolf Manuel Deutsch</lido:appellationValue>
+                           <lido:appellationValue xml:lang="nl">Hans Rudolf Manuel</lido:appellationValue>
+                           <lido:appellationValue xml:lang="pt">Hans Rudolf Manuel Deutsch</lido:appellationValue>
+                        </lido:nameActorSet>
+                        <lido:vitalDatesActor>
+                           <lido:earliestDate>1525</lido:earliestDate>
+                           <lido:latestDate>1571</lido:latestDate>
+                        </lido:vitalDatesActor>
+                     </lido:actor>
+                  </lido:actorInRole>
+               </lido:eventActor>
+               <lido:eventDate>
+                  <lido:displayDate>1550</lido:displayDate>
+                  <lido:displayDate xml:lang="ar">1550</lido:displayDate>
+                  <lido:displayDate xml:lang="de">1550</lido:displayDate>
+                  <lido:displayDate xml:lang="en">1550</lido:displayDate>
+                  <lido:displayDate xml:lang="es">1550</lido:displayDate>
+                  <lido:displayDate xml:lang="fa">1550</lido:displayDate>
+                  <lido:displayDate xml:lang="fr">1550</lido:displayDate>
+                  <lido:displayDate xml:lang="hu">1550</lido:displayDate>
+                  <lido:displayDate xml:lang="id">1550</lido:displayDate>
+                  <lido:displayDate xml:lang="it">1550</lido:displayDate>
+                  <lido:displayDate xml:lang="ja">1550年</lido:displayDate>
+                  <lido:displayDate xml:lang="ka">1550</lido:displayDate>
+                  <lido:displayDate xml:lang="ko">1550년</lido:displayDate>
+                  <lido:displayDate xml:lang="pl">1550</lido:displayDate>
+                  <lido:displayDate xml:lang="pt">1550</lido:displayDate>
+                  <lido:displayDate xml:lang="ro">1550</lido:displayDate>
+                  <lido:displayDate xml:lang="ru">1550</lido:displayDate>
+                  <lido:displayDate xml:lang="ta">1550</lido:displayDate>
+                  <lido:displayDate xml:lang="tl">1550</lido:displayDate>
+                  <lido:displayDate xml:lang="tr">1550</lido:displayDate>
+                  <lido:displayDate xml:lang="zh">1550年</lido:displayDate>
+                  <lido:date>
+                     <lido:earliestDate>1550</lido:earliestDate>
+                     <lido:latestDate>1550</lido:latestDate>
+                  </lido:date>
+               </lido:eventDate>
+               <lido:eventPlace>
+                  <lido:displayPlace>Basel</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ar">بازل</lido:displayPlace>
+                  <lido:displayPlace xml:lang="bn">বাজেল</lido:displayPlace>
+                  <lido:displayPlace xml:lang="cs">Basilej</lido:displayPlace>
+                  <lido:displayPlace xml:lang="da">Basel</lido:displayPlace>
+                  <lido:displayPlace xml:lang="de">Basel</lido:displayPlace>
+                  <lido:displayPlace xml:lang="el">Βασιλεία</lido:displayPlace>
+                  <lido:displayPlace xml:lang="en">Basel</lido:displayPlace>
+                  <lido:displayPlace xml:lang="es">Basilea</lido:displayPlace>
+                  <lido:displayPlace xml:lang="fa">بازل</lido:displayPlace>
+                  <lido:displayPlace xml:lang="fi">Basel</lido:displayPlace>
+                  <lido:displayPlace xml:lang="fr">Bâle</lido:displayPlace>
+                  <lido:displayPlace xml:lang="he">בזל</lido:displayPlace>
+                  <lido:displayPlace xml:lang="hu">Bázel</lido:displayPlace>
+                  <lido:displayPlace xml:lang="id">Basel</lido:displayPlace>
+                  <lido:displayPlace xml:lang="it">Basilea</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ja">バーゼル</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ka">ბაზელი</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ko">바젤</lido:displayPlace>
+                  <lido:displayPlace xml:lang="nl">Basel</lido:displayPlace>
+                  <lido:displayPlace xml:lang="pl">Bazylea</lido:displayPlace>
+                  <lido:displayPlace xml:lang="pt">Basileia</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ro">Basel</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ru">Базель</lido:displayPlace>
+                  <lido:displayPlace xml:lang="sv">Basel</lido:displayPlace>
+                  <lido:displayPlace xml:lang="sw">Basel</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ta">பேசெல்</lido:displayPlace>
+                  <lido:displayPlace xml:lang="th">บาเซิล</lido:displayPlace>
+                  <lido:displayPlace xml:lang="tl">Basel</lido:displayPlace>
+                  <lido:displayPlace xml:lang="tr">Basel</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ur">بازیل</lido:displayPlace>
+                  <lido:displayPlace xml:lang="vi">Basel</lido:displayPlace>
+                  <lido:displayPlace xml:lang="zh">巴塞爾</lido:displayPlace>
+                  <lido:place>
+                     <lido:placeID lido:source="geonames" lido:type="uri">https://sws.geonames.org/7285161</lido:placeID>
+                     <lido:placeID lido:source="TGN" lido:type="uri">http://vocab.getty.edu/tgn/7007269</lido:placeID>
+                     <lido:placeID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4004617-5</lido:placeID>
+                     <lido:placeID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q78</lido:placeID>
+                     <lido:placeID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/place/396</lido:placeID>
+                     <lido:namePlaceSet>
+                        <lido:appellationValue>Basel</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ar">بازل</lido:appellationValue>
+                        <lido:appellationValue xml:lang="bn">বাজেল</lido:appellationValue>
+                        <lido:appellationValue xml:lang="cs">Basilej</lido:appellationValue>
+                        <lido:appellationValue xml:lang="da">Basel</lido:appellationValue>
+                        <lido:appellationValue xml:lang="de">Basel</lido:appellationValue>
+                        <lido:appellationValue xml:lang="el">Βασιλεία</lido:appellationValue>
+                        <lido:appellationValue xml:lang="en">Basel</lido:appellationValue>
+                        <lido:appellationValue xml:lang="es">Basilea</lido:appellationValue>
+                        <lido:appellationValue xml:lang="fa">بازل</lido:appellationValue>
+                        <lido:appellationValue xml:lang="fi">Basel</lido:appellationValue>
+                        <lido:appellationValue xml:lang="fr">Bâle</lido:appellationValue>
+                        <lido:appellationValue xml:lang="he">בזל</lido:appellationValue>
+                        <lido:appellationValue xml:lang="hu">Bázel</lido:appellationValue>
+                        <lido:appellationValue xml:lang="id">Basel</lido:appellationValue>
+                        <lido:appellationValue xml:lang="it">Basilea</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ja">バーゼル</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ka">ბაზელი</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ko">바젤</lido:appellationValue>
+                        <lido:appellationValue xml:lang="nl">Basel</lido:appellationValue>
+                        <lido:appellationValue xml:lang="pl">Bazylea</lido:appellationValue>
+                        <lido:appellationValue xml:lang="pt">Basileia</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ro">Basel</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ru">Базель</lido:appellationValue>
+                        <lido:appellationValue xml:lang="sv">Basel</lido:appellationValue>
+                        <lido:appellationValue xml:lang="sw">Basel</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ta">பேசெல்</lido:appellationValue>
+                        <lido:appellationValue xml:lang="th">บาเซิล</lido:appellationValue>
+                        <lido:appellationValue xml:lang="tl">Basel</lido:appellationValue>
+                        <lido:appellationValue xml:lang="tr">Basel</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ur">بازیل</lido:appellationValue>
+                        <lido:appellationValue xml:lang="vi">Basel</lido:appellationValue>
+                        <lido:appellationValue xml:lang="zh">巴塞爾</lido:appellationValue>
+                     </lido:namePlaceSet>
+                     <lido:gml>
+                        <gml:Point xmlns:gml="http://www.opengis.net/gml" srsName="EPSG:4326">
+                           <gml:pos>47.560554504395 7.5905556678772</gml:pos>
+                        </gml:Point>
+                     </lido:gml>
+                  </lido:place>
+               </lido:eventPlace>
+            </lido:event>
+         </lido:eventSet>
+         <lido:eventSet>
+            <lido:displayEvent>Geistige Schöpfung</lido:displayEvent>
+            <lido:event>
+               <lido:eventType>
+                  <lido:conceptID lido:type="uri">https://event-types.museum-digital.org/4</lido:conceptID>
+                  <lido:term lido:addedSearchTerm="no">Geistige Schöpfung</lido:term>
+               </lido:eventType>
+               <lido:eventActor>
+                  <lido:displayActorInRole>Franz Friedrich (1520-1584)</lido:displayActorInRole>
+                  <lido:actorInRole>
+                     <lido:actor>
+                        <lido:actorID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/persinst/125420</lido:actorID>
+                        <lido:nameActorSet>
+                           <lido:appellationValue>Friedrich, Franz</lido:appellationValue>
+                           <lido:appellationValue xml:lang="de">Franz Friedrich</lido:appellationValue>
+                        </lido:nameActorSet>
+                        <lido:vitalDatesActor>
+                           <lido:earliestDate>1520</lido:earliestDate>
+                           <lido:latestDate>1584</lido:latestDate>
+                        </lido:vitalDatesActor>
+                     </lido:actor>
+                  </lido:actorInRole>
+               </lido:eventActor>
+            </lido:event>
+         </lido:eventSet>
+         <lido:eventSet>
+            <lido:event>
+               <lido:eventType>
+                  <lido:conceptID lido:type="uri">http://terminology.lido-schema.org/lido00003</lido:conceptID>
+                  <lido:term>Event (non-specified)</lido:term>
+               </lido:eventType>
+               <lido:eventMaterialsTech>
+                  <lido:displayMaterialsTech>Holzschnitt auf Büttenpapier</lido:displayMaterialsTech>
+               </lido:eventMaterialsTech>
+            </lido:event>
+         </lido:eventSet>
+      </lido:eventWrap>
+      <lido:objectRelationWrap>
+         <lido:subjectWrap>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectPlace>
+                     <lido:displayPlace>Frankfurt (Oder)</lido:displayPlace>
+                     <lido:displayPlace xml:lang="ar">فرانكفورت</lido:displayPlace>
+                     <lido:displayPlace xml:lang="cs">Frankfurt nad Odrou</lido:displayPlace>
+                     <lido:displayPlace xml:lang="da">Frankfurt</lido:displayPlace>
+                     <lido:displayPlace xml:lang="de">Frankfurt (Oder)</lido:displayPlace>
+                     <lido:displayPlace xml:lang="el">Φρανκφούρτη</lido:displayPlace>
+                     <lido:displayPlace xml:lang="en">Frankfurt (Oder)</lido:displayPlace>
+                     <lido:displayPlace xml:lang="es">Fráncfort del Óder</lido:displayPlace>
+                     <lido:displayPlace xml:lang="fa">فرانکفورت</lido:displayPlace>
+                     <lido:displayPlace xml:lang="fi">Frankfurt</lido:displayPlace>
+                     <lido:displayPlace xml:lang="fr">Francfort-sur-l'Oder</lido:displayPlace>
+                     <lido:displayPlace xml:lang="he">פרנקפורט על האודר</lido:displayPlace>
+                     <lido:displayPlace xml:lang="hu">Frankfurt (Oder)</lido:displayPlace>
+                     <lido:displayPlace xml:lang="id">Frankfurt an der Oder</lido:displayPlace>
+                     <lido:displayPlace xml:lang="it">Francoforte sull'Oder</lido:displayPlace>
+                     <lido:displayPlace xml:lang="ja">フランクフルト・アン・デア・オーダー</lido:displayPlace>
+                     <lido:displayPlace xml:lang="ka">ოდერის ფრანკფურტი</lido:displayPlace>
+                     <lido:displayPlace xml:lang="ko">프랑크푸르트</lido:displayPlace>
+                     <lido:displayPlace xml:lang="nl">Frankfurt (Oder)</lido:displayPlace>
+                     <lido:displayPlace xml:lang="pl">Frankfurt nad Odrą</lido:displayPlace>
+                     <lido:displayPlace xml:lang="pt">Frankfurt an der Oder</lido:displayPlace>
+                     <lido:displayPlace xml:lang="ru">Франкфурт-на-Одере</lido:displayPlace>
+                     <lido:displayPlace xml:lang="sv">Frankfurt an der Oder</lido:displayPlace>
+                     <lido:displayPlace xml:lang="tr">Frankfurt</lido:displayPlace>
+                     <lido:displayPlace xml:lang="vi">Frankfurt</lido:displayPlace>
+                     <lido:displayPlace xml:lang="zh">奥得河畔法兰克福</lido:displayPlace>
+                     <lido:place>
+                        <lido:placeID lido:source="geonames" lido:type="uri">https://sws.geonames.org/2925535</lido:placeID>
+                        <lido:placeID lido:source="TGN" lido:type="uri">http://vocab.getty.edu/tgn/7005972</lido:placeID>
+                        <lido:placeID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4018122-4</lido:placeID>
+                        <lido:placeID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q4024</lido:placeID>
+                        <lido:placeID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/place/2133</lido:placeID>
+                        <lido:namePlaceSet>
+                           <lido:appellationValue>Frankfurt (Oder)</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ar">فرانكفورت</lido:appellationValue>
+                           <lido:appellationValue xml:lang="cs">Frankfurt nad Odrou</lido:appellationValue>
+                           <lido:appellationValue xml:lang="da">Frankfurt</lido:appellationValue>
+                           <lido:appellationValue xml:lang="de">Frankfurt (Oder)</lido:appellationValue>
+                           <lido:appellationValue xml:lang="el">Φρανκφούρτη</lido:appellationValue>
+                           <lido:appellationValue xml:lang="en">Frankfurt (Oder)</lido:appellationValue>
+                           <lido:appellationValue xml:lang="es">Fráncfort del Óder</lido:appellationValue>
+                           <lido:appellationValue xml:lang="fa">فرانکفورت</lido:appellationValue>
+                           <lido:appellationValue xml:lang="fi">Frankfurt</lido:appellationValue>
+                           <lido:appellationValue xml:lang="fr">Francfort-sur-l'Oder</lido:appellationValue>
+                           <lido:appellationValue xml:lang="he">פרנקפורט על האודר</lido:appellationValue>
+                           <lido:appellationValue xml:lang="hu">Frankfurt (Oder)</lido:appellationValue>
+                           <lido:appellationValue xml:lang="id">Frankfurt an der Oder</lido:appellationValue>
+                           <lido:appellationValue xml:lang="it">Francoforte sull'Oder</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ja">フランクフルト・アン・デア・オーダー</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ka">ოდერის ფრანკფურტი</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ko">프랑크푸르트</lido:appellationValue>
+                           <lido:appellationValue xml:lang="nl">Frankfurt (Oder)</lido:appellationValue>
+                           <lido:appellationValue xml:lang="pl">Frankfurt nad Odrą</lido:appellationValue>
+                           <lido:appellationValue xml:lang="pt">Frankfurt an der Oder</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ru">Франкфурт-на-Одере</lido:appellationValue>
+                           <lido:appellationValue xml:lang="sv">Frankfurt an der Oder</lido:appellationValue>
+                           <lido:appellationValue xml:lang="tr">Frankfurt</lido:appellationValue>
+                           <lido:appellationValue xml:lang="vi">Frankfurt</lido:appellationValue>
+                           <lido:appellationValue xml:lang="zh">奥得河畔法兰克福</lido:appellationValue>
+                        </lido:namePlaceSet>
+                        <lido:gml>
+                           <gml:Point xmlns:gml="http://www.opengis.net/gml" srsName="EPSG:4326">
+                              <gml:pos>52.349998474121 14.550000190735</gml:pos>
+                           </gml:Point>
+                        </lido:gml>
+                     </lido:place>
+                  </lido:subjectPlace>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="aat" lido:type="uri">http://vocab.getty.edu/aat/300312031</lido:conceptID>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4025736-8</lido:conceptID>
+                     <lido:conceptID lido:source="grobsystematik" lido:type="uri">https://term.museum-digital.de/grobsystematik/tag/5274</lido:conceptID>
+                     <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh85147844</lido:conceptID>
+                     <lido:conceptID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q173242</lido:conceptID>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Holzschnitt</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/958</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Holzschnitt</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ar">خشيب</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="cs">Dřevořez</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="da">Træsnit</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="de">Holzschnitt</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="el">Ξυλογραφία</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="en">Woodcut technique</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="es">Xilografía</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fa">چوب‌تراشی</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fi">Puupiirros</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fr">Xylographie</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="he">חיתוך-עץ</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hu">fametszet</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="id">Cukil kayu</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="it">Xilografia</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ja">木版画術</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ko">목판화</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="nl">houtsnedetechniek</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pl">Drzeworytnictwo</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pt">Xilogravura</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ro">xilogravură</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ru">Ксилография</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sv">Träsnitt</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="th">ภาพพิมพ์แกะไม้</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tr">Ksilografi</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="vi">Khắc gỗ</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="zh">木刻版畫</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/75705</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Städtebücher</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/75706</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Hans Rudolf Manuel Deutsch</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+         </lido:subjectWrap>
+         <lido:relatedWorksWrap/>
+      </lido:objectRelationWrap>
+   </lido:descriptiveMetadata>
+   <lido:administrativeMetadata xml:lang="de">
+      <lido:rightsWorkWrap>
+         <lido:rightsWorkSet>
+            <lido:rightsHolder>
+               <lido:legalBodyName>
+                  <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:rightsHolder>
+         </lido:rightsWorkSet>
+      </lido:rightsWorkWrap>
+      <lido:recordWrap>
+         <lido:recordID lido:type="museum-digital">66950</lido:recordID>
+         <lido:recordType>
+            <lido:term lido:addedSearchTerm="no">item</lido:term>
+         </lido:recordType>
+         <lido:recordSource lido:type="dataProvider">
+            <lido:legalBodyName>
+               <lido:appellationValue>museum-digital</lido:appellationValue>
+            </lido:legalBodyName>
+            <lido:legalBodyWeblink>https://berlin.museum-digital.de/</lido:legalBodyWeblink>
+         </lido:recordSource>
+         <lido:recordSource>
+            <lido:legalBodyID lido:type="isil">DE-B185</lido:legalBodyID>
+            <lido:legalBodyName>
+               <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+            </lido:legalBodyName>
+         </lido:recordSource>
+         <lido:recordRights>
+            <lido:rightsType>
+               <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no">CC BY</lido:term>
+            </lido:rightsType>
+            <lido:rightsHolder>
+               <lido:legalBodyID lido:type="isil">DE-B185</lido:legalBodyID>
+               <lido:legalBodyName>
+                  <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+               </lido:legalBodyName>
+               <lido:legalBodyWeblink>http://geschichte-brandenburg.de/</lido:legalBodyWeblink>
+            </lido:rightsHolder>
+            <lido:creditLine>Förderprogramm zur Digitalisierung von Objekten des kulturellen Erbes des Landes Berlin</lido:creditLine>
+         </lido:recordRights>
+         <lido:recordInfoSet>
+            <lido:recordInfoLink>https://berlin.museum-digital.de/index.php?t=objekt&amp;oges=66950</lido:recordInfoLink>
+            <lido:recordMetadataDate>2021-04-27 07:59:55</lido:recordMetadataDate>
+         </lido:recordInfoSet>
+      </lido:recordWrap>
+      <lido:resourceWrap>
+         <lido:resourceSet lido:sortorder="1">
+            <lido:resourceID lido:source="image" lido:type="local">48536</lido:resourceID>
+            <lido:resourceRepresentation lido:type="masterfile">
+               <lido:linkResource lido:formatResource="image/tiff"/>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_thumb">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/202007/100h_frankfurt-oder-stadtansicht-66950.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_preview">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/202007/200w_frankfurt-oder-stadtansicht-66950.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/202007/frankfurt-oder-stadtansicht-66950.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceType>
+               <lido:term lido:addedSearchTerm="no">image</lido:term>
+            </lido:resourceType>
+            <lido:resourceRelType>
+               <lido:term lido:addedSearchTerm="no">Hauptansicht</lido:term>
+            </lido:resourceRelType>
+            <lido:resourceDescription>Frankfurt (Oder): Stadtansicht</lido:resourceDescription>
+            <lido:resourceSource lido:type="creator">
+               <lido:legalBodyName>
+                  <lido:appellationValue>Thomas Voßbeck, 2020</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:resourceSource>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+                  <lido:term lido:addedSearchTerm="no">CC BY</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V.</lido:appellationValue>
+                  </lido:legalBodyName>
+               </lido:rightsHolder>
+               <lido:creditLine>Thomas Voßbeck, 2020</lido:creditLine>
+            </lido:rightsResource>
+         </lido:resourceSet>
+      </lido:resourceWrap>
+   </lido:administrativeMetadata>
+</lido:lido>
+

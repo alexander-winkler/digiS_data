@@ -1,0 +1,392 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lido:lido xmlns:lido="http://www.lido-schema.org"
+           xmlns:xalan="http://xml.apache.org/xalan">
+   <lido:lidoRecID lido:source="https://berlin.museum-digital.de/index.php?t=institution&amp;instnr=32"
+                   lido:type="local">DE-B185/66834</lido:lidoRecID>
+   <lido:category/>
+   <lido:descriptiveMetadata xml:lang="de">
+      <lido:objectClassificationWrap>
+         <lido:objectWorkTypeWrap>
+            <lido:objectWorkType>
+               <lido:conceptID lido:source="gnd" lido:type="uri">http://d-nb.info/gnd/4139167-6</lido:conceptID>
+               <lido:conceptID lido:source="aat" lido:type="uri">http://vocab.getty.edu/aat/300034569</lido:conceptID>
+               <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh85129196</lido:conceptID>
+               <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/11970</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Bauzeichnung</lido:term>
+            </lido:objectWorkType>
+         </lido:objectWorkTypeWrap>
+         <lido:classificationWrap>
+            <lido:classification lido:type="Sammlung">
+               <lido:conceptID lido:source="local" lido:type="collection_id">705</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Handzeichnungen, Druckgraphik, Gemälde</lido:term>
+            </lido:classification>
+            <lido:classification lido:type="Sammlung">
+               <lido:conceptID lido:source="local" lido:type="collection_id">706</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Ansichten</lido:term>
+            </lido:classification>
+            <lido:classification lido:type="Sammlung">
+               <lido:conceptID lido:source="local" lido:type="collection_id">708</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Brandenburg</lido:term>
+            </lido:classification>
+         </lido:classificationWrap>
+      </lido:objectClassificationWrap>
+      <lido:objectIdentificationWrap>
+         <lido:titleWrap>
+            <lido:titleSet>
+               <lido:appellationValue lido:pref="preferred">Schaumburg (Kr. Königsberg/Neumark): Wiederaufbauplan</lido:appellationValue>
+            </lido:titleSet>
+         </lido:titleWrap>
+         <lido:repositoryWrap>
+            <lido:repositorySet lido:type="current">
+               <lido:repositoryName>
+                  <lido:legalBodyID lido:type="isil">DE-B185</lido:legalBodyID>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+                  </lido:legalBodyName>
+                  <lido:legalBodyWeblink>http://geschichte-brandenburg.de/</lido:legalBodyWeblink>
+               </lido:repositoryName>
+               <lido:workID lido:type="inventory number">LGV-Archiv, C 11 D-020</lido:workID>
+               <lido:repositoryLocation>
+                  <lido:namePlaceSet>
+                     <lido:appellationValue>Berlin</lido:appellationValue>
+                  </lido:namePlaceSet>
+                  <lido:gml>
+                     <gml:Point xmlns:gml="http://www.opengis.net/gml" srsName="EPSG:4326">
+                        <gml:pos>52.51533127 13.40440559</gml:pos>
+                     </gml:Point>
+                  </lido:gml>
+               </lido:repositoryLocation>
+            </lido:repositorySet>
+         </lido:repositoryWrap>
+         <lido:objectDescriptionWrap>
+            <lido:objectDescriptionSet>
+               <lido:descriptiveNoteValue>Plan für den Wiederaufbau des im Oderbruch bei Küstrin gelegenen, hochwassergeschädigten Kolonistendorfs Schaumburg (Kr. Königsberg/Neumark).&#xD;
+Titel: "Plan von dem Dorfe Schaumburg wie solches wegen der alliaerlichen Wassers-Gefahr auf diese Art zur Sicherheit verlegt und mit den saemtlichen Gebaeuden wieder aufgebauet werden könnte". Mit Erklärungen zu den Eigentümern, eingeteilt in "Bauernhöfe", "Freyhäusler" und "Kossaeten Höfe", in der Mitte die Kirche mit Wohnungen und Scheune. Die im Plan enthaltenen Familiennamen der Eigentümer sind: Wulkow, Schwierz, Hübener, Grundemann, Pahl, Buckow, Just, Rahn, Bartsch, Maus, Berndt, Rogge, Bummert, Grüneberg, Mus, "Martin Knuth, der Dorf-Schmidt", Keckeritz, Eberhart, Halberstatdt, Schilling, Mense, Köpper, Schade, Schultze, Voss, Rösler.&#xD;
+Beim Zeichner "Riedel" dürfte es sich um den späteren Königlich preußischen Geheimen Oberbaurat Heinrich Carl Riedel (1756-nach 1820) handeln, einen jüngeren Bruder des Geheimen Oberbaurats und zweiten Direktors im Oberbaudepartement Heinrich August Riedel (1748-1819). Heinrich Carl Riedel war 1778 Bauinspektor in Küstrin, wo der Schaumburg-Plan entstanden sein dürfte, 1779 in Landsberg/Warthe. 1785 wurde er Landbaumeister in der Neumark, 1791 Kriegs- und Domänenrat und Baudirektor in Gumbinnen (Ostpreußen), 1794 Geheimer Oberbaurat und Mitglied des Oberbaudepartemnents in Berlin.&#xD;
+&#xD;
+Bez.. "Küstrin den 5t. Octbr. 1781. Riedel".&#xD;
+Erworben 2012 im Antiquariatshandel mit Mitteln der Dr.-Werner-Emil-Maaß-Stiftung. Das Blatt stammt aus dem Nachlass des Architekten Eduard (von) Riedel (1813-1885), eines Neffen Heinrich Carl Riedels, und befand sich im Familienbesitz der Nachfahren. Eine Sammlung von weiteren architektonischen Originalplänen und Entwürfen (4 Bände in Imperialfolio, 1 Heft) aus Eduard von Riedels Nachlass befindet sich in der Handschriftensammlung der Bayerischen Staatsbibliothek in München (Sign. Cod.icon. 207 k, 1-5 ).&#xD;
+&#xD;
+Literatur zum Zeichner: Rolf Straubel: Biographisches Handbuch der preußischen Verwaltungs- und Justizbeamten 1740-1806/15. T. 2: Biographien M - Z. München 2009, S. 810.</lido:descriptiveNoteValue>
+               <lido:sourceDescriptiveNote>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:sourceDescriptiveNote>
+            </lido:objectDescriptionSet>
+         </lido:objectDescriptionWrap>
+         <lido:objectMeasurementsWrap>
+            <lido:objectMeasurementsSet>
+               <lido:displayObjectMeasurements>Blattgröße: Höhe 42 cm, Breite 57 cm</lido:displayObjectMeasurements>
+               <lido:objectMeasurements/>
+            </lido:objectMeasurementsSet>
+         </lido:objectMeasurementsWrap>
+      </lido:objectIdentificationWrap>
+      <lido:eventWrap>
+         <lido:eventSet>
+            <lido:event>
+               <lido:eventType>
+                  <lido:conceptID lido:type="uri">https://event-types.museum-digital.org/1</lido:conceptID>
+                  <lido:term lido:addedSearchTerm="no">Hergestellt</lido:term>
+               </lido:eventType>
+               <lido:eventActor>
+                  <lido:displayActorInRole>Heinrich Karl Riedel (1756-1821)</lido:displayActorInRole>
+                  <lido:actorInRole>
+                     <lido:actor>
+                        <lido:actorID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Heinrich_Karl_Riedel</lido:actorID>
+                        <lido:actorID lido:source="gnd" lido:type="uri">http://d-nb.info/gnd/100390811</lido:actorID>
+                        <lido:actorID lido:source="rkd" lido:type="uri">https://rkd.nl/explore/artists/66770</lido:actorID>
+                        <lido:actorID lido:source="ulan" lido:type="uri">http://vocab.getty.edu/ulan/500112902</lido:actorID>
+                        <lido:actorID lido:source="viaf" lido:type="uri">https://viaf.org/viaf/24945912</lido:actorID>
+                        <lido:actorID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q85219365</lido:actorID>
+                        <lido:actorID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/persinst/63679</lido:actorID>
+                        <lido:nameActorSet>
+                           <lido:appellationValue>Riedel, Heinrich Karl</lido:appellationValue>
+                           <lido:appellationValue xml:lang="de">Heinrich Karl Riedel</lido:appellationValue>
+                        </lido:nameActorSet>
+                        <lido:vitalDatesActor>
+                           <lido:earliestDate>1756</lido:earliestDate>
+                           <lido:latestDate>1821</lido:latestDate>
+                        </lido:vitalDatesActor>
+                     </lido:actor>
+                  </lido:actorInRole>
+               </lido:eventActor>
+               <lido:eventDate>
+                  <lido:displayDate>05.10.1781</lido:displayDate>
+                  <lido:displayDate xml:lang="ar">05/10/1781</lido:displayDate>
+                  <lido:displayDate xml:lang="de">05.10.1781</lido:displayDate>
+                  <lido:displayDate xml:lang="en">October 05, 1781</lido:displayDate>
+                  <lido:displayDate xml:lang="es">05/10/1781</lido:displayDate>
+                  <lido:displayDate xml:lang="fa">05/10/1781</lido:displayDate>
+                  <lido:displayDate xml:lang="fr">05/10/1781</lido:displayDate>
+                  <lido:displayDate xml:lang="hu">1781. október 05.</lido:displayDate>
+                  <lido:displayDate xml:lang="id">05 Oktober 1781</lido:displayDate>
+                  <lido:displayDate xml:lang="it">05/10/1781</lido:displayDate>
+                  <lido:displayDate xml:lang="ja">1781年10月05日</lido:displayDate>
+                  <lido:displayDate xml:lang="ka">05.10.1781</lido:displayDate>
+                  <lido:displayDate xml:lang="ko">1781년 10월 05일</lido:displayDate>
+                  <lido:displayDate xml:lang="pl">05.10.1781</lido:displayDate>
+                  <lido:displayDate xml:lang="pt">05/10/1781</lido:displayDate>
+                  <lido:displayDate xml:lang="ro">05.10.1781</lido:displayDate>
+                  <lido:displayDate xml:lang="ru">05.10.1781</lido:displayDate>
+                  <lido:displayDate xml:lang="ta">05-10-1781</lido:displayDate>
+                  <lido:displayDate xml:lang="tl">Oktubre 05, 1781</lido:displayDate>
+                  <lido:displayDate xml:lang="tr">05.10.1781</lido:displayDate>
+                  <lido:displayDate xml:lang="zh">1781年10月05日</lido:displayDate>
+                  <lido:date>
+                     <lido:earliestDate>1781</lido:earliestDate>
+                     <lido:latestDate>1781</lido:latestDate>
+                  </lido:date>
+               </lido:eventDate>
+               <lido:eventPlace>
+                  <lido:displayPlace>Kostrzyn nad Odrą</lido:displayPlace>
+                  <lido:displayPlace xml:lang="de">Kostrzyn nad Odrą</lido:displayPlace>
+                  <lido:displayPlace xml:lang="en">Kostrzyn nad Odrą</lido:displayPlace>
+                  <lido:displayPlace xml:lang="es">Kostrzyn nad Odrą</lido:displayPlace>
+                  <lido:displayPlace xml:lang="fa">کوستژن ناد اودران</lido:displayPlace>
+                  <lido:displayPlace xml:lang="fr">Kostrzyn nad Odrą</lido:displayPlace>
+                  <lido:displayPlace xml:lang="he">קיסטרין</lido:displayPlace>
+                  <lido:displayPlace xml:lang="hu">Kostrzyn nad Odrą</lido:displayPlace>
+                  <lido:displayPlace xml:lang="id">Kostrzyn nad Odrą</lido:displayPlace>
+                  <lido:displayPlace xml:lang="it">Kostrzyn nad Odrą</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ko">코스트신나트오드롱</lido:displayPlace>
+                  <lido:displayPlace xml:lang="nl">Kostrzyn nad Odrą</lido:displayPlace>
+                  <lido:displayPlace xml:lang="pl">Kostrzyn nad Odrą</lido:displayPlace>
+                  <lido:displayPlace xml:lang="pt">Kostrzyn nad Odrą</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ro">Kostrzyn nad Odrą</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ru">Костшин-над-Одрон</lido:displayPlace>
+                  <lido:displayPlace xml:lang="sv">Kostrzyn nad Odrą</lido:displayPlace>
+                  <lido:displayPlace xml:lang="vi">Kostrzyn nad Odrą</lido:displayPlace>
+                  <lido:displayPlace xml:lang="zh">奥得河畔科斯琴</lido:displayPlace>
+                  <lido:place>
+                     <lido:placeID lido:source="geonames" lido:type="uri">https://sws.geonames.org/7531390</lido:placeID>
+                     <lido:placeID lido:source="TGN" lido:type="uri">http://vocab.getty.edu/tgn/7007723</lido:placeID>
+                     <lido:placeID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4110411-0</lido:placeID>
+                     <lido:placeID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q156837</lido:placeID>
+                     <lido:placeID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/place/9479</lido:placeID>
+                     <lido:namePlaceSet>
+                        <lido:appellationValue>Kostrzyn nad Odrą</lido:appellationValue>
+                        <lido:appellationValue xml:lang="de">Kostrzyn nad Odrą</lido:appellationValue>
+                        <lido:appellationValue xml:lang="en">Kostrzyn nad Odrą</lido:appellationValue>
+                        <lido:appellationValue xml:lang="es">Kostrzyn nad Odrą</lido:appellationValue>
+                        <lido:appellationValue xml:lang="fa">کوستژن ناد اودران</lido:appellationValue>
+                        <lido:appellationValue xml:lang="fr">Kostrzyn nad Odrą</lido:appellationValue>
+                        <lido:appellationValue xml:lang="he">קיסטרין</lido:appellationValue>
+                        <lido:appellationValue xml:lang="hu">Kostrzyn nad Odrą</lido:appellationValue>
+                        <lido:appellationValue xml:lang="id">Kostrzyn nad Odrą</lido:appellationValue>
+                        <lido:appellationValue xml:lang="it">Kostrzyn nad Odrą</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ko">코스트신나트오드롱</lido:appellationValue>
+                        <lido:appellationValue xml:lang="nl">Kostrzyn nad Odrą</lido:appellationValue>
+                        <lido:appellationValue xml:lang="pl">Kostrzyn nad Odrą</lido:appellationValue>
+                        <lido:appellationValue xml:lang="pt">Kostrzyn nad Odrą</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ro">Kostrzyn nad Odrą</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ru">Костшин-над-Одрон</lido:appellationValue>
+                        <lido:appellationValue xml:lang="sv">Kostrzyn nad Odrą</lido:appellationValue>
+                        <lido:appellationValue xml:lang="vi">Kostrzyn nad Odrą</lido:appellationValue>
+                        <lido:appellationValue xml:lang="zh">奥得河畔科斯琴</lido:appellationValue>
+                     </lido:namePlaceSet>
+                     <lido:gml>
+                        <gml:Point xmlns:gml="http://www.opengis.net/gml" srsName="EPSG:4326">
+                           <gml:pos>52.588333129883 14.666666984558</gml:pos>
+                        </gml:Point>
+                     </lido:gml>
+                  </lido:place>
+               </lido:eventPlace>
+            </lido:event>
+         </lido:eventSet>
+         <lido:eventSet>
+            <lido:event>
+               <lido:eventType>
+                  <lido:conceptID lido:type="uri">http://terminology.lido-schema.org/lido00003</lido:conceptID>
+                  <lido:term>Event (non-specified)</lido:term>
+               </lido:eventType>
+               <lido:eventMaterialsTech>
+                  <lido:displayMaterialsTech>Aquarell über Feder. Geglätteter Mittelbug, dort und im Randbereich z.T. alt hinterlegte Fehlstellen ohne Bildverlust.</lido:displayMaterialsTech>
+               </lido:eventMaterialsTech>
+            </lido:event>
+         </lido:eventSet>
+      </lido:eventWrap>
+      <lido:objectRelationWrap>
+         <lido:subjectWrap>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectPlace>
+                     <lido:displayPlace>Szumiłowo (Kostrzyn nad Odrą)</lido:displayPlace>
+                     <lido:displayPlace xml:lang="de">Szumiłowo (Kostrzyn nad Odrą)</lido:displayPlace>
+                     <lido:place>
+                        <lido:placeID lido:source="geonames" lido:type="uri">https://sws.geonames.org/</lido:placeID>
+                        <lido:placeID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/place/57170</lido:placeID>
+                        <lido:namePlaceSet>
+                           <lido:appellationValue>Szumiłowo (Kostrzyn nad Odrą)</lido:appellationValue>
+                           <lido:appellationValue xml:lang="de">Szumiłowo (Kostrzyn nad Odrą)</lido:appellationValue>
+                        </lido:namePlaceSet>
+                        <lido:gml>
+                           <gml:Point xmlns:gml="http://www.opengis.net/gml" srsName="EPSG:4326">
+                              <gml:pos>52.622318267822 14.586527824402</gml:pos>
+                           </gml:Point>
+                        </lido:gml>
+                     </lido:place>
+                  </lido:subjectPlace>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="aat" lido:type="uri">http://vocab.getty.edu/aat/300008347</lido:conceptID>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4054858-2</lido:conceptID>
+                     <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh85062894</lido:conceptID>
+                     <lido:conceptID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q486972</lido:conceptID>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Siedlung</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/923</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Siedlung</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ar">مستوطنة</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="bn">মানব বসতি</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="cs">Sídelní útvar</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="da">Bebyggelse</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="de">Siedlung</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="el">οικισμός</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="en">Human settlement</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="es">Lugar poblado</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fa">سکونتگاه انسانی</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fi">Ihmisasutus</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fr">établissement humain</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="he">יישוב</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hi">मानव बस्ती</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hu">település</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="id">permukiman manusia</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="it">Insediamento umano</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ja">集落</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ka">დასახლებული პუნქტი</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ko">주거지</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="nl">Nederzetting</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pl">Miejscowość</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pt">Lugar povoado</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ro">așezare umană</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ru">населённый пункт</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sv">Samhälle</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ta">குடியிருப்பு</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="th">นิคม</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tl">Pamayanang panao</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tr">Insan yerleşimi</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ur">آباد مقام</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="zh">人類聚居地</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="aat" lido:type="uri">http://vocab.getty.edu/aat/300053744</lido:conceptID>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">http://d-nb.info/gnd/4065958-6</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/5285</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Wiederaufbau</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/27166</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Kolonistendorf</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+         </lido:subjectWrap>
+         <lido:relatedWorksWrap>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:displayObject>Mehr über den Zeichner:</lido:displayObject>
+                  <lido:object>
+                     <lido:objectWebResource>https://de.wikipedia.org/wiki/Heinrich_Karl_Riedel</lido:objectWebResource>
+                  </lido:object>
+               </lido:relatedWork>
+            </lido:relatedWorkSet>
+         </lido:relatedWorksWrap>
+      </lido:objectRelationWrap>
+   </lido:descriptiveMetadata>
+   <lido:administrativeMetadata xml:lang="de">
+      <lido:rightsWorkWrap>
+         <lido:rightsWorkSet>
+            <lido:rightsHolder>
+               <lido:legalBodyName>
+                  <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:rightsHolder>
+         </lido:rightsWorkSet>
+      </lido:rightsWorkWrap>
+      <lido:recordWrap>
+         <lido:recordID lido:type="museum-digital">66834</lido:recordID>
+         <lido:recordType>
+            <lido:term lido:addedSearchTerm="no">item</lido:term>
+         </lido:recordType>
+         <lido:recordSource lido:type="dataProvider">
+            <lido:legalBodyName>
+               <lido:appellationValue>museum-digital</lido:appellationValue>
+            </lido:legalBodyName>
+            <lido:legalBodyWeblink>https://berlin.museum-digital.de/</lido:legalBodyWeblink>
+         </lido:recordSource>
+         <lido:recordSource>
+            <lido:legalBodyID lido:type="isil">DE-B185</lido:legalBodyID>
+            <lido:legalBodyName>
+               <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+            </lido:legalBodyName>
+         </lido:recordSource>
+         <lido:recordRights>
+            <lido:rightsType>
+               <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no">CC BY</lido:term>
+            </lido:rightsType>
+            <lido:rightsHolder>
+               <lido:legalBodyID lido:type="isil">DE-B185</lido:legalBodyID>
+               <lido:legalBodyName>
+                  <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+               </lido:legalBodyName>
+               <lido:legalBodyWeblink>http://geschichte-brandenburg.de/</lido:legalBodyWeblink>
+            </lido:rightsHolder>
+            <lido:creditLine>Förderprogramm zur Digitalisierung von Objekten des kulturellen Erbes des Landes Berlin</lido:creditLine>
+         </lido:recordRights>
+         <lido:recordInfoSet>
+            <lido:recordInfoLink>https://berlin.museum-digital.de/index.php?t=objekt&amp;oges=66834</lido:recordInfoLink>
+            <lido:recordMetadataDate>2021-04-27 07:59:56</lido:recordMetadataDate>
+         </lido:recordInfoSet>
+      </lido:recordWrap>
+      <lido:resourceWrap>
+         <lido:resourceSet lido:sortorder="1">
+            <lido:resourceID lido:source="image" lido:type="local">48421</lido:resourceID>
+            <lido:resourceRepresentation lido:type="masterfile">
+               <lido:linkResource lido:formatResource="image/tiff"/>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_thumb">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/202007/100h_schaumburg-kr-koenigsbergneumark-wiederaufbauplan-66834.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_preview">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/202007/200w_schaumburg-kr-koenigsbergneumark-wiederaufbauplan-66834.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/202007/schaumburg-kr-koenigsbergneumark-wiederaufbauplan-66834.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceType>
+               <lido:term lido:addedSearchTerm="no">image</lido:term>
+            </lido:resourceType>
+            <lido:resourceRelType>
+               <lido:term lido:addedSearchTerm="no">Hauptansicht</lido:term>
+            </lido:resourceRelType>
+            <lido:resourceDescription>Schaumburg (Kr. Königsberg/Neumark): Wiederaufbauplan</lido:resourceDescription>
+            <lido:resourceSource lido:type="creator">
+               <lido:legalBodyName>
+                  <lido:appellationValue>Thomas Voßbeck, 2020</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:resourceSource>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+                  <lido:term lido:addedSearchTerm="no">CC BY</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V.</lido:appellationValue>
+                  </lido:legalBodyName>
+               </lido:rightsHolder>
+               <lido:creditLine>Thomas Voßbeck, 2020</lido:creditLine>
+            </lido:rightsResource>
+         </lido:resourceSet>
+      </lido:resourceWrap>
+   </lido:administrativeMetadata>
+</lido:lido>
+

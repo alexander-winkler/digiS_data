@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lido:lido xmlns:lido="http://www.lido-schema.org"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <lido:lidoRecID lido:type="http://terminology.lido-schema.org/identifier_type/local_identifier">DE-MUS-061525/1336598</lido:lidoRecID>
+   <lido:descriptiveMetadata xml:lang="de">
+      <lido:objectClassificationWrap>
+         <lido:objectWorkTypeWrap>
+            <lido:objectWorkType>
+               <lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://d-nb.info/gnd/4008240-4</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no">Brief</lido:term>
+            </lido:objectWorkType>
+         </lido:objectWorkTypeWrap>
+      </lido:objectClassificationWrap>
+      <lido:objectIdentificationWrap>
+         <lido:titleWrap>
+            <lido:titleSet>
+               <lido:appellationValue lido:pref="preferred">Christian Graf von Bernstorff an Baron Mortier</lido:appellationValue>
+            </lido:titleSet>
+         </lido:titleWrap>
+         <lido:repositoryWrap>
+            <lido:repositorySet>
+               <lido:repositoryName>
+                  <lido:legalBodyID lido:source="ISIL (ISO 15511)"
+                                    lido:type="http://terminology.lido-schema.org/identifier_type/uri">info:isil/DE-MUS-061525</lido:legalBodyID>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Stiftung Stadtmuseum Berlin</lido:appellationValue>
+                  </lido:legalBodyName>
+                  <lido:legalBodyWeblink>https://www.stadtmuseum.de</lido:legalBodyWeblink>
+               </lido:repositoryName>
+               <lido:workID lido:type="Inventarnummer">HU 99/83 QA</lido:workID>
+               <lido:repositoryLocation>
+                  <lido:placeID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://www.geonames.org/2950159</lido:placeID>
+                  <lido:namePlaceSet>
+                     <lido:appellationValue>Berlin</lido:appellationValue>
+                  </lido:namePlaceSet>
+               </lido:repositoryLocation>
+            </lido:repositorySet>
+         </lido:repositoryWrap>
+         <lido:objectDescriptionWrap>
+            <lido:objectDescriptionSet>
+               <lido:descriptiveNoteValue>Handschriftlicher Brief mit Unterschrift von Christian Günther Graf von Bernstorff (03.04.1769, Kopenhagen – 28.03.1835, Berlin), dänischer und preußischer Staatsmann, an Baron Mortier, Berlin 08.04.1830.
+Von Bernstorff, Sohn eines dänischen Staatsministers, entstammte einem alten Adelsgeschlecht. Seine politische Karriere begann er bereits im Alter von 18 Jahren im dänischen Außenministerium. 1789 kam er als Gesandtschaftssekretär nach Berlin, wo er 1791 zum dänischen Gesandten aufstieg. Später bekleidete er das Amt eines Staatssekretärs und wurde 1800 zum Außenminister befördert. Nach seinem Rücktritt wegen eines politischen Misserfolges wurde von Bernstorff weiterhin mit diplomatischen Aufgaben betraut. 1818 trat er in preußische Dienste und übernahm das Amt des Außenministers.</lido:descriptiveNoteValue>
+            </lido:objectDescriptionSet>
+         </lido:objectDescriptionWrap>
+         <lido:objectMeasurementsWrap>
+            <lido:objectMeasurementsSet>
+               <lido:displayObjectMeasurements>Blatt gefaltet (HxB): 33,6 x 21,7 cm</lido:displayObjectMeasurements>
+               <lido:objectMeasurements>
+                  <lido:measurementsSet>
+                     <lido:measurementType>Höhe</lido:measurementType>
+                     <lido:measurementUnit>mm</lido:measurementUnit>
+                     <lido:measurementValue>336</lido:measurementValue>
+                  </lido:measurementsSet>
+                  <lido:measurementsSet>
+                     <lido:measurementType>Breite</lido:measurementType>
+                     <lido:measurementUnit>mm</lido:measurementUnit>
+                     <lido:measurementValue>217</lido:measurementValue>
+                  </lido:measurementsSet>
+               </lido:objectMeasurements>
+            </lido:objectMeasurementsSet>
+            <lido:objectMeasurementsSet>
+               <lido:displayObjectMeasurements>Blatt auseinandergefaltet (HxB): 33,6 x 43,4 cm</lido:displayObjectMeasurements>
+               <lido:objectMeasurements>
+                  <lido:measurementsSet>
+                     <lido:measurementType>Höhe</lido:measurementType>
+                     <lido:measurementUnit>mm</lido:measurementUnit>
+                     <lido:measurementValue>336</lido:measurementValue>
+                  </lido:measurementsSet>
+                  <lido:measurementsSet>
+                     <lido:measurementType>Breite</lido:measurementType>
+                     <lido:measurementUnit>mm</lido:measurementUnit>
+                     <lido:measurementValue>434</lido:measurementValue>
+                  </lido:measurementsSet>
+               </lido:objectMeasurements>
+            </lido:objectMeasurementsSet>
+         </lido:objectMeasurementsWrap>
+      </lido:objectIdentificationWrap>
+      <lido:eventWrap>
+         <lido:eventSet>
+            <lido:event>
+               <lido:eventType>
+                  <lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://terminology.lido-schema.org/lido00007</lido:conceptID>
+                  <lido:term lido:addedSearchTerm="no">Herstellung</lido:term>
+               </lido:eventType>
+               <lido:eventActor lido:sortorder="1">
+                  <lido:displayActorInRole>Bernstorff, Christian Günther von (1769-1835) (Autor)</lido:displayActorInRole>
+                  <lido:actorInRole>
+                     <lido:actor lido:type="http://terminology.lido-schema.org/actor_type/person">
+                        <lido:actorID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://d-nb.info/gnd/116147695</lido:actorID>
+                        <lido:nameActorSet>
+                           <lido:appellationValue>Bernstorff, Christian Günther von</lido:appellationValue>
+                        </lido:nameActorSet>
+                     </lido:actor>
+                     <lido:roleActor>
+                        <lido:term lido:addedSearchTerm="no">Autor</lido:term>
+                     </lido:roleActor>
+                  </lido:actorInRole>
+               </lido:eventActor>
+               <lido:eventDate>
+                  <lido:displayDate>08.04.1830</lido:displayDate>
+                  <lido:date>
+                     <lido:earliestDate>1830</lido:earliestDate>
+                     <lido:latestDate>1830</lido:latestDate>
+                  </lido:date>
+               </lido:eventDate>
+               <lido:eventPlace>
+                  <lido:displayPlace>Berlin</lido:displayPlace>
+                  <lido:place>
+                     <lido:placeID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://www.geonames.org/6547539</lido:placeID>
+                     <lido:namePlaceSet>
+                        <lido:appellationValue>Berlin</lido:appellationValue>
+                     </lido:namePlaceSet>
+                  </lido:place>
+               </lido:eventPlace>
+               <lido:eventMaterialsTech>
+                  <lido:displayMaterialsTech>Brief mit Unterschrift.</lido:displayMaterialsTech>
+                  <lido:materialsTech>
+                     <lido:termMaterialsTech lido:sortorder="1"
+                                             lido:type="http://terminology.lido-schema.org/termMaterialsTech_type/technique">
+                        <lido:term lido:addedSearchTerm="no">Handschrift</lido:term>
+                     </lido:termMaterialsTech>
+                     <lido:termMaterialsTech lido:sortorder="1"
+                                             lido:type="http://terminology.lido-schema.org/termMaterialsTech_type/material">
+                        <lido:term lido:addedSearchTerm="no">Papier</lido:term>
+                     </lido:termMaterialsTech>
+                  </lido:materialsTech>
+               </lido:eventMaterialsTech>
+            </lido:event>
+         </lido:eventSet>
+      </lido:eventWrap>
+      <lido:objectRelationWrap>
+         <lido:subjectWrap>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://d-nb.info/gnd/4046517-2</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Staatsmann</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://d-nb.info/gnd/4046517-2</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Politiker</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://d-nb.info/gnd/4146609-3</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Korrespondenz &amp;lt;Briefsammlung&amp;gt;</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+         </lido:subjectWrap>
+      </lido:objectRelationWrap>
+   </lido:descriptiveMetadata>
+   <lido:administrativeMetadata xml:lang="de">
+      <lido:rightsWorkWrap>
+         <lido:rightsWorkSet>
+            <lido:rightsType>
+               <lido:term lido:addedSearchTerm="no">Eigentumsrechte</lido:term>
+            </lido:rightsType>
+            <lido:rightsHolder>
+               <lido:legalBodyName>
+                  <lido:appellationValue>Stiftung Stadtmuseum Berlin</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:rightsHolder>
+         </lido:rightsWorkSet>
+      </lido:rightsWorkWrap>
+      <lido:recordWrap>
+         <lido:recordID lido:type="http://terminology.lido-schema.org/identifier_type/local_identifier">1336598</lido:recordID>
+         <lido:recordType>
+            <lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://terminology.lido-schema.org/lido00141</lido:conceptID>
+            <lido:term lido:addedSearchTerm="no">Einzelobjekt</lido:term>
+         </lido:recordType>
+         <lido:recordSource>
+            <lido:legalBodyID lido:source="ISIL (ISO 15511)"
+                              lido:type="http://terminology.lido-schema.org/identifier_type/uri">info:isil/DE-MUS-061525</lido:legalBodyID>
+            <lido:legalBodyName>
+               <lido:appellationValue>Stiftung Stadtmuseum Berlin</lido:appellationValue>
+            </lido:legalBodyName>
+         </lido:recordSource>
+         <lido:recordRights>
+            <lido:rightsType>
+               <lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">https://creativecommons.org/publicdomain/zero/1.0/</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no">CC0 1.0 Universal (CC0 1.0) Public Domain Dedication</lido:term>
+            </lido:rightsType>
+            <lido:creditLine>Förderprogramm zur Digitalisierung von Objekten des kulturellen Erbes des Landes Berlin</lido:creditLine>
+         </lido:recordRights>
+         <lido:recordInfoSet>
+            <lido:recordInfoLink>https://sammlung-online.stadtmuseum.de/Details/Index/1336598</lido:recordInfoLink>
+            <lido:recordMetadataDate>2021-06-08T14:45:59</lido:recordMetadataDate>
+         </lido:recordInfoSet>
+      </lido:recordWrap>
+      <lido:resourceWrap>
+         <lido:resourceSet>
+            <lido:resourceID lido:type="http://terminology.lido-schema.org/identifier_type/local_identifier">HU 99''str''83 QA_1</lido:resourceID>
+            <lido:resourceRepresentation lido:type="Provided image">
+               <lido:linkResource lido:formatResource="jpg">https://sammlung-online.stadtmuseum.de/imagescreate/image?id=1336598&amp;type=gross</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceType>
+               <lido:term lido:addedSearchTerm="no">Digitalfoto</lido:term>
+            </lido:resourceType>
+            <lido:resourceRelType>
+               <lido:term lido:addedSearchTerm="no">Vorschaubild</lido:term>
+            </lido:resourceRelType>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">https://creativecommons.org/publicdomain/mark/1.0/</lido:conceptID>
+                  <lido:term lido:addedSearchTerm="no">Public Domain</lido:term>
+               </lido:rightsType>
+            </lido:rightsResource>
+         </lido:resourceSet>
+      </lido:resourceWrap>
+   </lido:administrativeMetadata>
+</lido:lido>
+

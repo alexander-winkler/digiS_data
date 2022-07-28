@@ -1,0 +1,521 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lido:lido xmlns:lido="http://www.lido-schema.org"
+           xmlns:xalan="http://xml.apache.org/xalan">
+   <lido:lidoRecID lido:source="https://berlin.museum-digital.de/index.php?t=institution&amp;instnr=32"
+                   lido:type="local">DE-B185/67109</lido:lidoRecID>
+   <lido:category/>
+   <lido:descriptiveMetadata xml:lang="de">
+      <lido:objectClassificationWrap>
+         <lido:objectWorkTypeWrap>
+            <lido:objectWorkType>
+               <lido:conceptID lido:source="gnd" lido:type="uri">http://d-nb.info/gnd/4021845-4</lido:conceptID>
+               <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/13314</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Druckgraphik</lido:term>
+            </lido:objectWorkType>
+         </lido:objectWorkTypeWrap>
+         <lido:classificationWrap>
+            <lido:classification lido:type="Sammlung">
+               <lido:conceptID lido:source="local" lido:type="collection_id">705</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Handzeichnungen, Druckgraphik, Gemälde</lido:term>
+            </lido:classification>
+            <lido:classification lido:type="Sammlung">
+               <lido:conceptID lido:source="local" lido:type="collection_id">706</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Ansichten</lido:term>
+            </lido:classification>
+            <lido:classification lido:type="Sammlung">
+               <lido:conceptID lido:source="local" lido:type="collection_id">708</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Brandenburg</lido:term>
+            </lido:classification>
+         </lido:classificationWrap>
+      </lido:objectClassificationWrap>
+      <lido:objectIdentificationWrap>
+         <lido:titleWrap>
+            <lido:titleSet>
+               <lido:appellationValue lido:pref="preferred">Angermünde: Taufbecken in der Stadtpfarrkirche St. Marien</lido:appellationValue>
+            </lido:titleSet>
+         </lido:titleWrap>
+         <lido:repositoryWrap>
+            <lido:repositorySet lido:type="current">
+               <lido:repositoryName>
+                  <lido:legalBodyID lido:type="isil">DE-B185</lido:legalBodyID>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+                  </lido:legalBodyName>
+                  <lido:legalBodyWeblink>http://geschichte-brandenburg.de/</lido:legalBodyWeblink>
+               </lido:repositoryName>
+               <lido:workID lido:type="inventory number">LGV-Archiv, C 12 G-4-037</lido:workID>
+               <lido:repositoryLocation>
+                  <lido:namePlaceSet>
+                     <lido:appellationValue>Berlin</lido:appellationValue>
+                  </lido:namePlaceSet>
+                  <lido:gml>
+                     <gml:Point xmlns:gml="http://www.opengis.net/gml" srsName="EPSG:4326">
+                        <gml:pos>52.51533127 13.40440559</gml:pos>
+                     </gml:Point>
+                  </lido:gml>
+               </lido:repositoryLocation>
+            </lido:repositorySet>
+         </lido:repositoryWrap>
+         <lido:objectDescriptionWrap>
+            <lido:objectDescriptionSet>
+               <lido:descriptiveNoteValue>Die Taufe ist erhalten. Sie ist ein Bronzeguss aus der ersten Hälfte des 14. Jahrhunderts und angesichts der Seltenheit mittelalterlicher Bronzegüsse in der Mark Brandenburg bemerkenswert. Die eingravierten Reliefdarstellungen unter einer Rundbogenarkatur zeigen neben einzelnen Heiligen mit Inschriftenbändern auch Szenen (Anbetung der Könige, Taufe Christi). Die Inschrift am oberen Beckenrand hat Lösener 1841 ebenso erstmals entschlüsselt wie den Namen des Gießers, Johannes Justus.&#xD;
+Die unbezeichnete Darstellung stammt aus Band 1 (1841) der vom Verein für Geschichte der Mark Brandenburg herausgegebenen Zeitschrift "Märkische Forschungen" (vor S. 353), in welchen Rektor Carl Friedrich Ferdinand Lösener (1785-1856) aus Angermünde auf den S. 353-354 eine Beschreibung desselben gibt. Lösener gehörte zu den häufigen Autoren der ersten Bände der "Märkischen Forschungen", sein historisches Interesse zeigt sich auch in seiner 1848 veröffentlichten Geschichte der Stadt Angermünde.&#xD;
+&#xD;
+Unbez.&#xD;
+&#xD;
+Literatur: Carl Friedr. Ferd. Lösener. Der Schatz des Markgrafen Johann I. und die St. Marien-Kirche zu Neu-Angermünde. Schwedt 1830, S. 57f.</lido:descriptiveNoteValue>
+               <lido:sourceDescriptiveNote>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:sourceDescriptiveNote>
+            </lido:objectDescriptionSet>
+         </lido:objectDescriptionWrap>
+         <lido:objectMeasurementsWrap>
+            <lido:objectMeasurementsSet>
+               <lido:displayObjectMeasurements>Blattgröße: Höhe 22 cm, Breite 14 cm</lido:displayObjectMeasurements>
+               <lido:objectMeasurements/>
+            </lido:objectMeasurementsSet>
+         </lido:objectMeasurementsWrap>
+      </lido:objectIdentificationWrap>
+      <lido:eventWrap>
+         <lido:eventSet>
+            <lido:event>
+               <lido:eventType>
+                  <lido:conceptID lido:type="uri">https://event-types.museum-digital.org/1</lido:conceptID>
+                  <lido:term lido:addedSearchTerm="no">Hergestellt</lido:term>
+               </lido:eventType>
+               <lido:eventDate>
+                  <lido:displayDate>1841</lido:displayDate>
+                  <lido:displayDate xml:lang="ar">1841</lido:displayDate>
+                  <lido:displayDate xml:lang="de">1841</lido:displayDate>
+                  <lido:displayDate xml:lang="en">1841</lido:displayDate>
+                  <lido:displayDate xml:lang="es">1841</lido:displayDate>
+                  <lido:displayDate xml:lang="fa">1841</lido:displayDate>
+                  <lido:displayDate xml:lang="fr">1841</lido:displayDate>
+                  <lido:displayDate xml:lang="hu">1841</lido:displayDate>
+                  <lido:displayDate xml:lang="id">1841</lido:displayDate>
+                  <lido:displayDate xml:lang="it">1841</lido:displayDate>
+                  <lido:displayDate xml:lang="ja">1841年</lido:displayDate>
+                  <lido:displayDate xml:lang="ka">1841</lido:displayDate>
+                  <lido:displayDate xml:lang="ko">1841년</lido:displayDate>
+                  <lido:displayDate xml:lang="pl">1841</lido:displayDate>
+                  <lido:displayDate xml:lang="pt">1841</lido:displayDate>
+                  <lido:displayDate xml:lang="ro">1841</lido:displayDate>
+                  <lido:displayDate xml:lang="ru">1841</lido:displayDate>
+                  <lido:displayDate xml:lang="ta">1841</lido:displayDate>
+                  <lido:displayDate xml:lang="tl">1841</lido:displayDate>
+                  <lido:displayDate xml:lang="tr">1841</lido:displayDate>
+                  <lido:displayDate xml:lang="zh">1841年</lido:displayDate>
+                  <lido:date>
+                     <lido:earliestDate>1841</lido:earliestDate>
+                     <lido:latestDate>1841</lido:latestDate>
+                  </lido:date>
+               </lido:eventDate>
+            </lido:event>
+         </lido:eventSet>
+         <lido:eventSet>
+            <lido:event>
+               <lido:eventType>
+                  <lido:conceptID lido:type="uri">http://terminology.lido-schema.org/lido00003</lido:conceptID>
+                  <lido:term>Event (non-specified)</lido:term>
+               </lido:eventType>
+               <lido:eventMaterialsTech>
+                  <lido:displayMaterialsTech>Lithographie</lido:displayMaterialsTech>
+               </lido:eventMaterialsTech>
+            </lido:event>
+         </lido:eventSet>
+      </lido:eventWrap>
+      <lido:objectRelationWrap>
+         <lido:subjectWrap>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectPlace>
+                     <lido:displayPlace>Brandenburg</lido:displayPlace>
+                     <lido:displayPlace xml:lang="ar">براندنبورغ</lido:displayPlace>
+                     <lido:displayPlace xml:lang="bn">ব্রান্ডেনবুর্গ</lido:displayPlace>
+                     <lido:displayPlace xml:lang="cs">Braniborsko</lido:displayPlace>
+                     <lido:displayPlace xml:lang="da">Brandenburg</lido:displayPlace>
+                     <lido:displayPlace xml:lang="de">Brandenburg</lido:displayPlace>
+                     <lido:displayPlace xml:lang="el">Βρανδεμβούργο</lido:displayPlace>
+                     <lido:displayPlace xml:lang="en">Brandenburg</lido:displayPlace>
+                     <lido:displayPlace xml:lang="es">Brandeburgo</lido:displayPlace>
+                     <lido:displayPlace xml:lang="fa">براندنبورگ</lido:displayPlace>
+                     <lido:displayPlace xml:lang="fi">Brandenburg</lido:displayPlace>
+                     <lido:displayPlace xml:lang="fr">Brandebourg</lido:displayPlace>
+                     <lido:displayPlace xml:lang="he">ברנדנבורג</lido:displayPlace>
+                     <lido:displayPlace xml:lang="hi">ब्रैंडेनबर्ग</lido:displayPlace>
+                     <lido:displayPlace xml:lang="hu">Brandenburg</lido:displayPlace>
+                     <lido:displayPlace xml:lang="id">Brandenburg</lido:displayPlace>
+                     <lido:displayPlace xml:lang="it">Brandeburgo</lido:displayPlace>
+                     <lido:displayPlace xml:lang="ja">ブランデンブルク州</lido:displayPlace>
+                     <lido:displayPlace xml:lang="ka">ბრანდენბურგის მხარე</lido:displayPlace>
+                     <lido:displayPlace xml:lang="ko">브란덴부르크주</lido:displayPlace>
+                     <lido:displayPlace xml:lang="nl">Brandenburg (deelstaat)</lido:displayPlace>
+                     <lido:displayPlace xml:lang="pl">Brandenburgia</lido:displayPlace>
+                     <lido:displayPlace xml:lang="pt">Brandemburgo</lido:displayPlace>
+                     <lido:displayPlace xml:lang="ro">Brandenburg</lido:displayPlace>
+                     <lido:displayPlace xml:lang="ru">Бранденбург</lido:displayPlace>
+                     <lido:displayPlace xml:lang="sv">Brandenburg</lido:displayPlace>
+                     <lido:displayPlace xml:lang="sw">Brandenburg</lido:displayPlace>
+                     <lido:displayPlace xml:lang="ta">பிரண்டென்பேர்க்</lido:displayPlace>
+                     <lido:displayPlace xml:lang="th">รัฐบรันเดินบวร์ค</lido:displayPlace>
+                     <lido:displayPlace xml:lang="tl">Brandeburgo</lido:displayPlace>
+                     <lido:displayPlace xml:lang="tr">Brandenburg</lido:displayPlace>
+                     <lido:displayPlace xml:lang="ur">برندن برک</lido:displayPlace>
+                     <lido:displayPlace xml:lang="vi">Brandenburg</lido:displayPlace>
+                     <lido:displayPlace xml:lang="zh">勃兰登堡</lido:displayPlace>
+                     <lido:place>
+                        <lido:placeID lido:source="geonames" lido:type="uri">https://sws.geonames.org/2945356</lido:placeID>
+                        <lido:placeID lido:source="TGN" lido:type="uri">http://vocab.getty.edu/tgn/7201651</lido:placeID>
+                        <lido:placeID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4007955-7</lido:placeID>
+                        <lido:placeID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q1208</lido:placeID>
+                        <lido:placeID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/place/2334</lido:placeID>
+                        <lido:namePlaceSet>
+                           <lido:appellationValue>Brandenburg</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ar">براندنبورغ</lido:appellationValue>
+                           <lido:appellationValue xml:lang="bn">ব্রান্ডেনবুর্গ</lido:appellationValue>
+                           <lido:appellationValue xml:lang="cs">Braniborsko</lido:appellationValue>
+                           <lido:appellationValue xml:lang="da">Brandenburg</lido:appellationValue>
+                           <lido:appellationValue xml:lang="de">Brandenburg</lido:appellationValue>
+                           <lido:appellationValue xml:lang="el">Βρανδεμβούργο</lido:appellationValue>
+                           <lido:appellationValue xml:lang="en">Brandenburg</lido:appellationValue>
+                           <lido:appellationValue xml:lang="es">Brandeburgo</lido:appellationValue>
+                           <lido:appellationValue xml:lang="fa">براندنبورگ</lido:appellationValue>
+                           <lido:appellationValue xml:lang="fi">Brandenburg</lido:appellationValue>
+                           <lido:appellationValue xml:lang="fr">Brandebourg</lido:appellationValue>
+                           <lido:appellationValue xml:lang="he">ברנדנבורג</lido:appellationValue>
+                           <lido:appellationValue xml:lang="hi">ब्रैंडेनबर्ग</lido:appellationValue>
+                           <lido:appellationValue xml:lang="hu">Brandenburg</lido:appellationValue>
+                           <lido:appellationValue xml:lang="id">Brandenburg</lido:appellationValue>
+                           <lido:appellationValue xml:lang="it">Brandeburgo</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ja">ブランデンブルク州</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ka">ბრანდენბურგის მხარე</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ko">브란덴부르크주</lido:appellationValue>
+                           <lido:appellationValue xml:lang="nl">Brandenburg (deelstaat)</lido:appellationValue>
+                           <lido:appellationValue xml:lang="pl">Brandenburgia</lido:appellationValue>
+                           <lido:appellationValue xml:lang="pt">Brandemburgo</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ro">Brandenburg</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ru">Бранденбург</lido:appellationValue>
+                           <lido:appellationValue xml:lang="sv">Brandenburg</lido:appellationValue>
+                           <lido:appellationValue xml:lang="sw">Brandenburg</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ta">பிரண்டென்பேர்க்</lido:appellationValue>
+                           <lido:appellationValue xml:lang="th">รัฐบรันเดินบวร์ค</lido:appellationValue>
+                           <lido:appellationValue xml:lang="tl">Brandeburgo</lido:appellationValue>
+                           <lido:appellationValue xml:lang="tr">Brandenburg</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ur">برندن برک</lido:appellationValue>
+                           <lido:appellationValue xml:lang="vi">Brandenburg</lido:appellationValue>
+                           <lido:appellationValue xml:lang="zh">勃兰登堡</lido:appellationValue>
+                        </lido:namePlaceSet>
+                        <lido:gml>
+                           <gml:Point xmlns:gml="http://www.opengis.net/gml" srsName="EPSG:4326">
+                              <gml:pos>52.361946105957 13.008055686951</gml:pos>
+                           </gml:Point>
+                        </lido:gml>
+                     </lido:place>
+                  </lido:subjectPlace>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectPlace>
+                     <lido:displayPlace>Angermünde</lido:displayPlace>
+                     <lido:displayPlace xml:lang="ar">آنغرمونده</lido:displayPlace>
+                     <lido:displayPlace xml:lang="cs">Angermünde</lido:displayPlace>
+                     <lido:displayPlace xml:lang="da">Angermünde</lido:displayPlace>
+                     <lido:displayPlace xml:lang="de">Angermünde</lido:displayPlace>
+                     <lido:displayPlace xml:lang="en">Angermünde</lido:displayPlace>
+                     <lido:displayPlace xml:lang="es">Angermünde</lido:displayPlace>
+                     <lido:displayPlace xml:lang="fa">آنگرمونده</lido:displayPlace>
+                     <lido:displayPlace xml:lang="fr">Angermünde</lido:displayPlace>
+                     <lido:displayPlace xml:lang="hu">Angermünde</lido:displayPlace>
+                     <lido:displayPlace xml:lang="it">Angermünde</lido:displayPlace>
+                     <lido:displayPlace xml:lang="ja">アンガーミュンデ</lido:displayPlace>
+                     <lido:displayPlace xml:lang="nl">Angermünde</lido:displayPlace>
+                     <lido:displayPlace xml:lang="pl">Angermünde</lido:displayPlace>
+                     <lido:displayPlace xml:lang="ro">Angermünde</lido:displayPlace>
+                     <lido:displayPlace xml:lang="ru">Ангермюнде</lido:displayPlace>
+                     <lido:displayPlace xml:lang="sv">Angermünde</lido:displayPlace>
+                     <lido:displayPlace xml:lang="tr">Angermünde</lido:displayPlace>
+                     <lido:displayPlace xml:lang="vi">Angermünde</lido:displayPlace>
+                     <lido:displayPlace xml:lang="zh">安格尔明德</lido:displayPlace>
+                     <lido:place>
+                        <lido:placeID lido:source="geonames" lido:type="uri">https://sws.geonames.org/2956093</lido:placeID>
+                        <lido:placeID lido:source="TGN" lido:type="uri">http://vocab.getty.edu/tgn/1036350</lido:placeID>
+                        <lido:placeID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4079777-6</lido:placeID>
+                        <lido:placeID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q490066</lido:placeID>
+                        <lido:placeID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/place/1290</lido:placeID>
+                        <lido:namePlaceSet>
+                           <lido:appellationValue>Angermünde</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ar">آنغرمونده</lido:appellationValue>
+                           <lido:appellationValue xml:lang="cs">Angermünde</lido:appellationValue>
+                           <lido:appellationValue xml:lang="da">Angermünde</lido:appellationValue>
+                           <lido:appellationValue xml:lang="de">Angermünde</lido:appellationValue>
+                           <lido:appellationValue xml:lang="en">Angermünde</lido:appellationValue>
+                           <lido:appellationValue xml:lang="es">Angermünde</lido:appellationValue>
+                           <lido:appellationValue xml:lang="fa">آنگرمونده</lido:appellationValue>
+                           <lido:appellationValue xml:lang="fr">Angermünde</lido:appellationValue>
+                           <lido:appellationValue xml:lang="hu">Angermünde</lido:appellationValue>
+                           <lido:appellationValue xml:lang="it">Angermünde</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ja">アンガーミュンデ</lido:appellationValue>
+                           <lido:appellationValue xml:lang="nl">Angermünde</lido:appellationValue>
+                           <lido:appellationValue xml:lang="pl">Angermünde</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ro">Angermünde</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ru">Ангермюнде</lido:appellationValue>
+                           <lido:appellationValue xml:lang="sv">Angermünde</lido:appellationValue>
+                           <lido:appellationValue xml:lang="tr">Angermünde</lido:appellationValue>
+                           <lido:appellationValue xml:lang="vi">Angermünde</lido:appellationValue>
+                           <lido:appellationValue xml:lang="zh">安格尔明德</lido:appellationValue>
+                        </lido:namePlaceSet>
+                        <lido:gml>
+                           <gml:Point xmlns:gml="http://www.opengis.net/gml" srsName="EPSG:4326">
+                              <gml:pos>53.033332824707 14</gml:pos>
+                           </gml:Point>
+                        </lido:gml>
+                     </lido:place>
+                  </lido:subjectPlace>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="aat" lido:type="uri">http://vocab.getty.edu/aat/300069030</lido:conceptID>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4059150-5</lido:conceptID>
+                     <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh85011718</lido:conceptID>
+                     <lido:conceptID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q35856</lido:conceptID>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Taufe</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/853</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Taufe</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ar">معمودية</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="bn">বাপ্তিস্ম</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="cs">Křest</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="da">Dåb</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="de">Taufe</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="el">βάπτιση</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="en">Baptism</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="es">Bautismo</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fa">غسل تعمید</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fi">Kaste</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fr">Baptême</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="he">טבילה לנצרות</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hi">बपतिस्मा</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hu">keresztség</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="id">Baptisan</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="it">Battesimo</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ja">洗礼</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ko">세례</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="nl">Doop</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pl">Chrzest</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pt">Batismo</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ro">Botez</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ru">крещение</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sv">Dop</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sw">Ubatizo</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ta">திருமுழுக்கு</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="th">พิธีบัพติศมา</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tl">Binyag</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tr">Vaftiz</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ur">بپتسمہ</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="vi">Thanh Tẩy</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="zh">洗禮</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4067488-5</lido:conceptID>
+                     <lido:conceptID lido:source="grobsystematik" lido:type="uri">https://term.museum-digital.de/grobsystematik/tag/14451</lido:conceptID>
+                     <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh85099890</lido:conceptID>
+                     <lido:conceptID lido:source="oberbegriffsdatei" lido:type="uri">https://term.museum-digital.de/oberbegriffsdatei/tag/4927</lido:conceptID>
+                     <lido:conceptID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q41298</lido:conceptID>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Zeitschrift</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/877</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Zeitschrift</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ar">مجلة</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="bn">পত্রিকা</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="cs">časopis</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="da">Tidsskrift</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="de">Zeitschrift</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="el">περιοδικό</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="en">Magazine</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="es">Revista</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fa">مجله</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fi">Aikakauslehti</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fr">Magazine</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="he">כתב עת</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hi">पत्रिका</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hu">magazin</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="id">Majalah</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="it">Rivista</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ja">雑誌</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ka">ჟურნალი</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ko">잡지</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="nl">Tijdschrift</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pl">Czasopismo</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pt">Revista</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ru">журнал</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sv">Tidskrift</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ta">இதழ்</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="th">นิตยสาร</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tl">Magasin</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tr">Dergi</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="vi">Tạp chí</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="zh">杂志</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4021845-4</lido:conceptID>
+                     <lido:conceptID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q1027879</lido:conceptID>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">https://en.wikipedia.org/wiki/Graphics</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/13314</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Druckgraphik</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ar">رسوميات</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="bn">গ্রাফিক্স</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="cs">Grafika</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="de">Druckgraphik</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="el">Γραφικά</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="en">Graphics</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="es">gráficos</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fa">ارتباط تصویری</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fr">Graphique</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="he">גרפיקה</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hi">चित्रालेख</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hu">Grafika</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="id">Grafika</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ja">グラフィック</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ka">გრაფიკა</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ko">그래픽</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="nl">Grafiek</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pl">Grafika</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pt">Gráfico</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ro">grafică</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ru">графика</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ta">வரைகலை</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tr">Grafik</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ur">تخطیط</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="zh">图形</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">http://d-nb.info/gnd/4146678-0</lido:conceptID>
+                     <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh85017129</lido:conceptID>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">http://de.wikipedia.org/wiki/Bronzeguss</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/19002</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Bronzeguss</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/75737</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Sakralgerät</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+         </lido:subjectWrap>
+         <lido:relatedWorksWrap>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:displayObject>Ein Digitalisat ist online.</lido:displayObject>
+                  <lido:object>
+                     <lido:objectWebResource>https://digital.ub.uni-potsdam.de/content/pageview/265393</lido:objectWebResource>
+                  </lido:object>
+               </lido:relatedWork>
+            </lido:relatedWorkSet>
+         </lido:relatedWorksWrap>
+      </lido:objectRelationWrap>
+   </lido:descriptiveMetadata>
+   <lido:administrativeMetadata xml:lang="de">
+      <lido:rightsWorkWrap>
+         <lido:rightsWorkSet>
+            <lido:rightsHolder>
+               <lido:legalBodyName>
+                  <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:rightsHolder>
+         </lido:rightsWorkSet>
+      </lido:rightsWorkWrap>
+      <lido:recordWrap>
+         <lido:recordID lido:type="museum-digital">67109</lido:recordID>
+         <lido:recordType>
+            <lido:term lido:addedSearchTerm="no">item</lido:term>
+         </lido:recordType>
+         <lido:recordSource lido:type="dataProvider">
+            <lido:legalBodyName>
+               <lido:appellationValue>museum-digital</lido:appellationValue>
+            </lido:legalBodyName>
+            <lido:legalBodyWeblink>https://berlin.museum-digital.de/</lido:legalBodyWeblink>
+         </lido:recordSource>
+         <lido:recordSource>
+            <lido:legalBodyID lido:type="isil">DE-B185</lido:legalBodyID>
+            <lido:legalBodyName>
+               <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+            </lido:legalBodyName>
+         </lido:recordSource>
+         <lido:recordRights>
+            <lido:rightsType>
+               <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no">CC BY</lido:term>
+            </lido:rightsType>
+            <lido:rightsHolder>
+               <lido:legalBodyID lido:type="isil">DE-B185</lido:legalBodyID>
+               <lido:legalBodyName>
+                  <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+               </lido:legalBodyName>
+               <lido:legalBodyWeblink>http://geschichte-brandenburg.de/</lido:legalBodyWeblink>
+            </lido:rightsHolder>
+            <lido:creditLine>Förderprogramm zur Digitalisierung von Objekten des kulturellen Erbes des Landes Berlin</lido:creditLine>
+         </lido:recordRights>
+         <lido:recordInfoSet>
+            <lido:recordInfoLink>https://berlin.museum-digital.de/index.php?t=objekt&amp;oges=67109</lido:recordInfoLink>
+            <lido:recordMetadataDate>2021-04-27 07:59:54</lido:recordMetadataDate>
+         </lido:recordInfoSet>
+      </lido:recordWrap>
+      <lido:resourceWrap>
+         <lido:resourceSet lido:sortorder="1">
+            <lido:resourceID lido:source="image" lido:type="local">48692</lido:resourceID>
+            <lido:resourceRepresentation lido:type="masterfile">
+               <lido:linkResource lido:formatResource="image/tiff"/>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_thumb">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/202007/100h_angermuende-taufbecken-in-der-stadtpfarrkirche-st-marien-67109.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_preview">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/202007/200w_angermuende-taufbecken-in-der-stadtpfarrkirche-st-marien-67109.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/202007/angermuende-taufbecken-in-der-stadtpfarrkirche-st-marien-67109.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceType>
+               <lido:term lido:addedSearchTerm="no">image</lido:term>
+            </lido:resourceType>
+            <lido:resourceRelType>
+               <lido:term lido:addedSearchTerm="no">Hauptansicht</lido:term>
+            </lido:resourceRelType>
+            <lido:resourceDescription>Angermünde: Taufbecken in der Stadtpfarrkirche St. Marien</lido:resourceDescription>
+            <lido:resourceSource lido:type="creator">
+               <lido:legalBodyName>
+                  <lido:appellationValue>Thomas Voßbeck, 2020</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:resourceSource>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+                  <lido:term lido:addedSearchTerm="no">CC BY</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V.</lido:appellationValue>
+                  </lido:legalBodyName>
+               </lido:rightsHolder>
+               <lido:creditLine>Thomas Voßbeck, 2020</lido:creditLine>
+            </lido:rightsResource>
+         </lido:resourceSet>
+      </lido:resourceWrap>
+   </lido:administrativeMetadata>
+</lido:lido>
+

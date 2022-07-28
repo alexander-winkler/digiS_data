@@ -1,0 +1,431 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lido:lido xmlns:lido="http://www.lido-schema.org"
+           xmlns:xalan="http://xml.apache.org/xalan">
+   <lido:lidoRecID lido:source="https://berlin.museum-digital.de/index.php?t=institution&amp;instnr=32"
+                   lido:type="local">DE-B185/67366</lido:lidoRecID>
+   <lido:category/>
+   <lido:descriptiveMetadata xml:lang="de">
+      <lido:objectClassificationWrap>
+         <lido:objectWorkTypeWrap>
+            <lido:objectWorkType>
+               <lido:conceptID lido:source="gnd" lido:type="uri">http://d-nb.info/gnd/4067453-8</lido:conceptID>
+               <lido:conceptID lido:source="grobsystematik" lido:type="uri">https://term.museum-digital.de/grobsystematik/tag/14445</lido:conceptID>
+               <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh85039408</lido:conceptID>
+               <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/945</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Handzeichnung</lido:term>
+            </lido:objectWorkType>
+         </lido:objectWorkTypeWrap>
+         <lido:classificationWrap>
+            <lido:classification lido:type="Sammlung">
+               <lido:conceptID lido:source="local" lido:type="collection_id">706</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Ansichten</lido:term>
+            </lido:classification>
+            <lido:classification lido:type="Sammlung">
+               <lido:conceptID lido:source="local" lido:type="collection_id">708</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Brandenburg</lido:term>
+            </lido:classification>
+            <lido:classification lido:type="Sammlung">
+               <lido:conceptID lido:source="local" lido:type="collection_id">705</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Handzeichnungen, Druckgraphik, Gemälde</lido:term>
+            </lido:classification>
+         </lido:classificationWrap>
+      </lido:objectClassificationWrap>
+      <lido:objectIdentificationWrap>
+         <lido:titleWrap>
+            <lido:titleSet>
+               <lido:appellationValue lido:pref="preferred">Prötzel (Kr. Oberbarnim): Schloss mit Park und Windmühle von Süden</lido:appellationValue>
+            </lido:titleSet>
+         </lido:titleWrap>
+         <lido:repositoryWrap>
+            <lido:repositorySet lido:type="current">
+               <lido:repositoryName>
+                  <lido:legalBodyID lido:type="isil">DE-B185</lido:legalBodyID>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+                  </lido:legalBodyName>
+                  <lido:legalBodyWeblink>http://geschichte-brandenburg.de/</lido:legalBodyWeblink>
+               </lido:repositoryName>
+               <lido:workID lido:type="inventory number">LGV-Archiv, C 12 H-4-090</lido:workID>
+               <lido:repositoryLocation>
+                  <lido:namePlaceSet>
+                     <lido:appellationValue>Berlin</lido:appellationValue>
+                  </lido:namePlaceSet>
+                  <lido:gml>
+                     <gml:Point xmlns:gml="http://www.opengis.net/gml" srsName="EPSG:4326">
+                        <gml:pos>52.51533127 13.40440559</gml:pos>
+                     </gml:Point>
+                  </lido:gml>
+               </lido:repositoryLocation>
+            </lido:repositorySet>
+         </lido:repositoryWrap>
+         <lido:objectDescriptionWrap>
+            <lido:objectDescriptionSet>
+               <lido:descriptiveNoteValue>Zeichnung von Johannes (Hans) Frhr. von Eckardstein (geb. 23. 12. 1859 Prötzel, gest. 5. 3. 1940 Berlin) vom 24. 7. 1876. Er war der mittlere von drei Söhnen des Rittergutsbesitzers Ernst Frhr. von E. auf Prötzel. Die 1799 nobilitierte Familie besaß das Gut von 1801 bis 1945. Die Zeichnung ist ein kleinteilig ausgeführtes Jugendwerk des später vielseitig tätigen Landschaftsmalers aus seiner Zeit als Schüler des Wilhelms-Gymnasiums in Berlin bzw. während eines Ferienaufenthaltes im Elternhaus, drei Jahre vor dem Beginn des Studiums an der Berliner Akademie. Der Blick geht von Süden über den Schloßsee auf die Gartenseite des Schlosses, d.h., des Geburtshauses des Malers. Der Garten erscheint bereits in der Form nach der - im Laufe des 19. Jh. vorgenommenen - Beseitigung der regelmäßigen Anlage (so aber auch schon in der kurz zuvor entstandenen, eine ähnliche Perspektive zeigenden Ansicht bei Duncker, 1871/73) (vgl. Wendland, S. 400, 402). Die links im Bild sichtbare Bockwindmühle wurde 1890 abgerissen (Schmidt, S. 20).
+
+Re. u. bez. "H. v. E. / 24/7 76".
+Erworben 2020 (Galerie Hennwack, Berlin-Steglitz).
+
+Literatur (Auswahl): Folkwart u. Folkwin Wendland: Gärten und Parke in Brandenburg (Schriften der Landesgeschichtlichen Vereingung für die Mark Brandenburg, N.F., Bd. 6). Bd. 2. Berlin 2015, S. 392-403. - Titia Hoffmeister: Prötzel. Berlin 1991 (Schlösser und Gärten der Mark). - Rudolf Schmidt (Bearb.): Die Herrschaft Eckardstein. I. Beiträge zur Entwicklungsgeschichte von Prötzel, Prädikow, Grunow, Reichenow, Strernebeck, Harnecop, Bliesdorf und Vevais. Bad Freienwalde (Oder) 1926, S. 15f. (Schloss), 20 (Windmühle). - Vinzenz Czech, Nicola Riedel: Prötzel. In: Herrenhäuser in Brandenburg und der Niederlausitz. Kommentierte Neuausgabe des Ansichtenwers von Alexander Duncker (1857-1883). Hrsg. Peter-Michael Hahn/Hellmut Lorenz. Berlin 2000, Bd. 2: Katalog, S. 470-474 (Dunckers Begleittext ebd., Bd. 1, S. 124). - Iris Berndt: Alexander Duncke. - Zum Maler: Rudolf Schmidt: Ein Oberbarnimer Landschaftsmaler. Zum 70. Geburtstag von Johannes Freiherr von Eckardtsein. in: Oberbarnimer Kreiskalender 19 (1930), S. 175-177. - Genealogisches Handbuch des Adels. Freiherrliche Häuser B I 1954, S. 63.</lido:descriptiveNoteValue>
+               <lido:sourceDescriptiveNote>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:sourceDescriptiveNote>
+            </lido:objectDescriptionSet>
+         </lido:objectDescriptionWrap>
+         <lido:objectMeasurementsWrap>
+            <lido:objectMeasurementsSet>
+               <lido:displayObjectMeasurements>Blattgröße: Höhe 17,5 cm, Breite 23 cm (auf braunem Karton aufgeklebt)</lido:displayObjectMeasurements>
+               <lido:objectMeasurements/>
+            </lido:objectMeasurementsSet>
+         </lido:objectMeasurementsWrap>
+      </lido:objectIdentificationWrap>
+      <lido:eventWrap>
+         <lido:eventSet>
+            <lido:event>
+               <lido:eventType>
+                  <lido:conceptID lido:type="uri">https://event-types.museum-digital.org/19</lido:conceptID>
+                  <lido:term lido:addedSearchTerm="no">Gezeichnet</lido:term>
+               </lido:eventType>
+               <lido:eventActor>
+                  <lido:displayActorInRole>Johannes von Eckardstein (1859-1940)</lido:displayActorInRole>
+                  <lido:actorInRole>
+                     <lido:actor>
+                        <lido:actorID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/persinst/125035</lido:actorID>
+                        <lido:nameActorSet>
+                           <lido:appellationValue>Eckardstein, Johannes von</lido:appellationValue>
+                           <lido:appellationValue xml:lang="de">Johannes von Eckardstein</lido:appellationValue>
+                        </lido:nameActorSet>
+                        <lido:vitalDatesActor>
+                           <lido:earliestDate>1859</lido:earliestDate>
+                           <lido:latestDate>1940</lido:latestDate>
+                        </lido:vitalDatesActor>
+                     </lido:actor>
+                  </lido:actorInRole>
+               </lido:eventActor>
+               <lido:eventDate>
+                  <lido:displayDate>24.07.1876</lido:displayDate>
+                  <lido:displayDate xml:lang="ar">24/07/1876</lido:displayDate>
+                  <lido:displayDate xml:lang="de">24.07.1876</lido:displayDate>
+                  <lido:displayDate xml:lang="en">July 24, 1876</lido:displayDate>
+                  <lido:displayDate xml:lang="es">24/07/1876</lido:displayDate>
+                  <lido:displayDate xml:lang="fa">24/07/1876</lido:displayDate>
+                  <lido:displayDate xml:lang="fr">24/07/1876</lido:displayDate>
+                  <lido:displayDate xml:lang="hu">1876. július 24.</lido:displayDate>
+                  <lido:displayDate xml:lang="id">24 Juli 1876</lido:displayDate>
+                  <lido:displayDate xml:lang="it">24/07/1876</lido:displayDate>
+                  <lido:displayDate xml:lang="ja">1876年07月24日</lido:displayDate>
+                  <lido:displayDate xml:lang="ka">24.07.1876</lido:displayDate>
+                  <lido:displayDate xml:lang="ko">1876년 07월 24일</lido:displayDate>
+                  <lido:displayDate xml:lang="pl">24.07.1876</lido:displayDate>
+                  <lido:displayDate xml:lang="pt">24/07/1876</lido:displayDate>
+                  <lido:displayDate xml:lang="ro">24.07.1876</lido:displayDate>
+                  <lido:displayDate xml:lang="ru">24.07.1876</lido:displayDate>
+                  <lido:displayDate xml:lang="ta">24-07-1876</lido:displayDate>
+                  <lido:displayDate xml:lang="tl">Hulyo 24, 1876</lido:displayDate>
+                  <lido:displayDate xml:lang="tr">24.07.1876</lido:displayDate>
+                  <lido:displayDate xml:lang="zh">1876年07月24日</lido:displayDate>
+                  <lido:date>
+                     <lido:earliestDate>1876</lido:earliestDate>
+                     <lido:latestDate>1876</lido:latestDate>
+                  </lido:date>
+               </lido:eventDate>
+               <lido:eventPlace>
+                  <lido:displayPlace>Prötzel</lido:displayPlace>
+                  <lido:displayPlace xml:lang="de">Prötzel</lido:displayPlace>
+                  <lido:displayPlace xml:lang="en">Prötzel</lido:displayPlace>
+                  <lido:displayPlace xml:lang="es">Prötzel</lido:displayPlace>
+                  <lido:displayPlace xml:lang="fa">پروتسل</lido:displayPlace>
+                  <lido:displayPlace xml:lang="fr">Prötzel</lido:displayPlace>
+                  <lido:displayPlace xml:lang="he">פרטסה</lido:displayPlace>
+                  <lido:displayPlace xml:lang="hu">Prötzel</lido:displayPlace>
+                  <lido:displayPlace xml:lang="it">Prötzel</lido:displayPlace>
+                  <lido:displayPlace xml:lang="nl">Prötzel</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ro">Prötzel</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ru">Прётцель</lido:displayPlace>
+                  <lido:displayPlace xml:lang="sv">Prötzel</lido:displayPlace>
+                  <lido:displayPlace xml:lang="vi">Prötzel</lido:displayPlace>
+                  <lido:displayPlace xml:lang="zh">普勒策尔</lido:displayPlace>
+                  <lido:place>
+                     <lido:placeID lido:source="geonames" lido:type="uri">https://sws.geonames.org/6551080</lido:placeID>
+                     <lido:placeID lido:source="TGN" lido:type="uri">http://vocab.getty.edu/tgn/1037507</lido:placeID>
+                     <lido:placeID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4550674-7</lido:placeID>
+                     <lido:placeID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q632427</lido:placeID>
+                     <lido:placeID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/place/57322</lido:placeID>
+                     <lido:namePlaceSet>
+                        <lido:appellationValue>Prötzel</lido:appellationValue>
+                        <lido:appellationValue xml:lang="de">Prötzel</lido:appellationValue>
+                        <lido:appellationValue xml:lang="en">Prötzel</lido:appellationValue>
+                        <lido:appellationValue xml:lang="es">Prötzel</lido:appellationValue>
+                        <lido:appellationValue xml:lang="fa">پروتسل</lido:appellationValue>
+                        <lido:appellationValue xml:lang="fr">Prötzel</lido:appellationValue>
+                        <lido:appellationValue xml:lang="he">פרטסה</lido:appellationValue>
+                        <lido:appellationValue xml:lang="hu">Prötzel</lido:appellationValue>
+                        <lido:appellationValue xml:lang="it">Prötzel</lido:appellationValue>
+                        <lido:appellationValue xml:lang="nl">Prötzel</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ro">Prötzel</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ru">Прётцель</lido:appellationValue>
+                        <lido:appellationValue xml:lang="sv">Prötzel</lido:appellationValue>
+                        <lido:appellationValue xml:lang="vi">Prötzel</lido:appellationValue>
+                        <lido:appellationValue xml:lang="zh">普勒策尔</lido:appellationValue>
+                     </lido:namePlaceSet>
+                     <lido:gml>
+                        <gml:Point xmlns:gml="http://www.opengis.net/gml" srsName="EPSG:4326">
+                           <gml:pos>52.637222290039 13.989722251892</gml:pos>
+                        </gml:Point>
+                     </lido:gml>
+                  </lido:place>
+               </lido:eventPlace>
+            </lido:event>
+         </lido:eventSet>
+         <lido:eventSet>
+            <lido:event>
+               <lido:eventType>
+                  <lido:conceptID lido:type="uri">http://terminology.lido-schema.org/lido00003</lido:conceptID>
+                  <lido:term>Event (non-specified)</lido:term>
+               </lido:eventType>
+               <lido:eventMaterialsTech>
+                  <lido:displayMaterialsTech>Bleistift auf Zeichenpapier, leicht gebräunt</lido:displayMaterialsTech>
+               </lido:eventMaterialsTech>
+            </lido:event>
+         </lido:eventSet>
+      </lido:eventWrap>
+      <lido:objectRelationWrap>
+         <lido:subjectWrap>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectPlace>
+                     <lido:displayPlace>Prötzel</lido:displayPlace>
+                     <lido:displayPlace xml:lang="de">Prötzel</lido:displayPlace>
+                     <lido:displayPlace xml:lang="en">Prötzel</lido:displayPlace>
+                     <lido:displayPlace xml:lang="es">Prötzel</lido:displayPlace>
+                     <lido:displayPlace xml:lang="fa">پروتسل</lido:displayPlace>
+                     <lido:displayPlace xml:lang="fr">Prötzel</lido:displayPlace>
+                     <lido:displayPlace xml:lang="he">פרטסה</lido:displayPlace>
+                     <lido:displayPlace xml:lang="hu">Prötzel</lido:displayPlace>
+                     <lido:displayPlace xml:lang="it">Prötzel</lido:displayPlace>
+                     <lido:displayPlace xml:lang="nl">Prötzel</lido:displayPlace>
+                     <lido:displayPlace xml:lang="ro">Prötzel</lido:displayPlace>
+                     <lido:displayPlace xml:lang="ru">Прётцель</lido:displayPlace>
+                     <lido:displayPlace xml:lang="sv">Prötzel</lido:displayPlace>
+                     <lido:displayPlace xml:lang="vi">Prötzel</lido:displayPlace>
+                     <lido:displayPlace xml:lang="zh">普勒策尔</lido:displayPlace>
+                     <lido:place>
+                        <lido:placeID lido:source="geonames" lido:type="uri">https://sws.geonames.org/6551080</lido:placeID>
+                        <lido:placeID lido:source="TGN" lido:type="uri">http://vocab.getty.edu/tgn/1037507</lido:placeID>
+                        <lido:placeID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4550674-7</lido:placeID>
+                        <lido:placeID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q632427</lido:placeID>
+                        <lido:placeID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/place/57322</lido:placeID>
+                        <lido:namePlaceSet>
+                           <lido:appellationValue>Prötzel</lido:appellationValue>
+                           <lido:appellationValue xml:lang="de">Prötzel</lido:appellationValue>
+                           <lido:appellationValue xml:lang="en">Prötzel</lido:appellationValue>
+                           <lido:appellationValue xml:lang="es">Prötzel</lido:appellationValue>
+                           <lido:appellationValue xml:lang="fa">پروتسل</lido:appellationValue>
+                           <lido:appellationValue xml:lang="fr">Prötzel</lido:appellationValue>
+                           <lido:appellationValue xml:lang="he">פרטסה</lido:appellationValue>
+                           <lido:appellationValue xml:lang="hu">Prötzel</lido:appellationValue>
+                           <lido:appellationValue xml:lang="it">Prötzel</lido:appellationValue>
+                           <lido:appellationValue xml:lang="nl">Prötzel</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ro">Prötzel</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ru">Прётцель</lido:appellationValue>
+                           <lido:appellationValue xml:lang="sv">Prötzel</lido:appellationValue>
+                           <lido:appellationValue xml:lang="vi">Prötzel</lido:appellationValue>
+                           <lido:appellationValue xml:lang="zh">普勒策尔</lido:appellationValue>
+                        </lido:namePlaceSet>
+                        <lido:gml>
+                           <gml:Point xmlns:gml="http://www.opengis.net/gml" srsName="EPSG:4326">
+                              <gml:pos>52.637222290039 13.989722251892</gml:pos>
+                           </gml:Point>
+                        </lido:gml>
+                     </lido:place>
+                  </lido:subjectPlace>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="aat" lido:type="uri">http://vocab.getty.edu/aat/300008680</lido:conceptID>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4054084-4</lido:conceptID>
+                     <lido:conceptID lido:source="iconclass" lido:type="uri">http://iconclass.org/rkd/25H214/</lido:conceptID>
+                     <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh85074030</lido:conceptID>
+                     <lido:conceptID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q23397</lido:conceptID>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/See</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/272</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">See</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ar">بحيرة</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="bn">হ্রদ</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="cs">Jezero</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="da">Sø</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="de">See</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="el">λίμνη</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="en">Lake</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="es">Lago</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fa">دریاچه</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fi">Järvi</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fr">Lac</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="he">אגם</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hi">झील</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hu">tó</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="id">Danau</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="it">Lago</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ja">湖</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ka">ტბა</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ko">호수</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="nl">Meer</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pl">Jezioro</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pt">Lago</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ro">lac</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ru">озеро</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sv">Insjö</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sw">ziwa</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ta">ஏரி</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="th">ทะเลสาบ</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tl">Lawa</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tr">Göl</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ur">جھیل</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="vi">hồ</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="zh">湖泊</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q22698</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/2568</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Park</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ar">متنزه</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="cs">Park</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="da">Park</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="de">Park</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="el">πάρκο</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="en">Park</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="es">Parque</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fa">بوستان</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fi">Puisto</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fr">Parc</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="he">פארק</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hi">पार्क</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hu">park</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="id">Taman</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="it">Parco</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ja">公園</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ko">공원</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="nl">Park</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pl">Park</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pt">Parque</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ro">parc</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ru">парк</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sv">Park</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ta">பூங்கா</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="th">สวนสาธารณะ</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tl">Liwasan</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tr">Park</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ur">پارک</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="vi">công viên</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="zh">公园</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="aat" lido:type="uri">http://vocab.getty.edu/aat/300005579</lido:conceptID>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">http://d-nb.info/gnd/4024581-0</lido:conceptID>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Herrenhaus (Gebäude)</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/8658</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Herrenhaus (Gebäude)</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+         </lido:subjectWrap>
+         <lido:relatedWorksWrap/>
+      </lido:objectRelationWrap>
+   </lido:descriptiveMetadata>
+   <lido:administrativeMetadata xml:lang="de">
+      <lido:rightsWorkWrap>
+         <lido:rightsWorkSet>
+            <lido:rightsHolder>
+               <lido:legalBodyName>
+                  <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:rightsHolder>
+         </lido:rightsWorkSet>
+      </lido:rightsWorkWrap>
+      <lido:recordWrap>
+         <lido:recordID lido:type="museum-digital">67366</lido:recordID>
+         <lido:recordType>
+            <lido:term lido:addedSearchTerm="no">item</lido:term>
+         </lido:recordType>
+         <lido:recordSource lido:type="dataProvider">
+            <lido:legalBodyName>
+               <lido:appellationValue>museum-digital</lido:appellationValue>
+            </lido:legalBodyName>
+            <lido:legalBodyWeblink>https://berlin.museum-digital.de/</lido:legalBodyWeblink>
+         </lido:recordSource>
+         <lido:recordSource>
+            <lido:legalBodyID lido:type="isil">DE-B185</lido:legalBodyID>
+            <lido:legalBodyName>
+               <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+            </lido:legalBodyName>
+         </lido:recordSource>
+         <lido:recordRights>
+            <lido:rightsType>
+               <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no">CC BY</lido:term>
+            </lido:rightsType>
+            <lido:rightsHolder>
+               <lido:legalBodyID lido:type="isil">DE-B185</lido:legalBodyID>
+               <lido:legalBodyName>
+                  <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+               </lido:legalBodyName>
+               <lido:legalBodyWeblink>http://geschichte-brandenburg.de/</lido:legalBodyWeblink>
+            </lido:rightsHolder>
+            <lido:creditLine>Förderprogramm zur Digitalisierung von Objekten des kulturellen Erbes des Landes Berlin</lido:creditLine>
+         </lido:recordRights>
+         <lido:recordInfoSet>
+            <lido:recordInfoLink>https://berlin.museum-digital.de/index.php?t=objekt&amp;oges=67366</lido:recordInfoLink>
+            <lido:recordMetadataDate>2021-04-27 07:59:52</lido:recordMetadataDate>
+         </lido:recordInfoSet>
+      </lido:recordWrap>
+      <lido:resourceWrap>
+         <lido:resourceSet lido:sortorder="1">
+            <lido:resourceID lido:source="image" lido:type="local">48909</lido:resourceID>
+            <lido:resourceRepresentation lido:type="masterfile">
+               <lido:linkResource lido:formatResource="image/tiff"/>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_thumb">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/202007/100h_proetzel-kr-oberbarnim-schloss-mit-park-und-windmuehle-von-sueden-67366.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_preview">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/202007/200w_proetzel-kr-oberbarnim-schloss-mit-park-und-windmuehle-von-sueden-67366.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/202007/proetzel-kr-oberbarnim-schloss-mit-park-und-windmuehle-von-sueden-67366.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceType>
+               <lido:term lido:addedSearchTerm="no">image</lido:term>
+            </lido:resourceType>
+            <lido:resourceRelType>
+               <lido:term lido:addedSearchTerm="no">Hauptansicht</lido:term>
+            </lido:resourceRelType>
+            <lido:resourceDescription>Prötzel (Kr. Oberbarnim): Schloss mit Park und Windmühle von Süden</lido:resourceDescription>
+            <lido:resourceSource lido:type="creator">
+               <lido:legalBodyName>
+                  <lido:appellationValue>Thomas Voßbeck, 2020</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:resourceSource>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+                  <lido:term lido:addedSearchTerm="no">CC BY</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V.</lido:appellationValue>
+                  </lido:legalBodyName>
+               </lido:rightsHolder>
+               <lido:creditLine>Thomas Voßbeck, 2020</lido:creditLine>
+            </lido:rightsResource>
+         </lido:resourceSet>
+      </lido:resourceWrap>
+   </lido:administrativeMetadata>
+</lido:lido>
+

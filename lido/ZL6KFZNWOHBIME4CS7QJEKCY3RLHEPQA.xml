@@ -1,0 +1,450 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lido:lido xmlns:lido="http://www.lido-schema.org"
+           xmlns:xalan="http://xml.apache.org/xalan">
+   <lido:lidoRecID lido:source="https://berlin.museum-digital.de/index.php?t=institution&amp;instnr=32"
+                   lido:type="local">DE-B185/66984</lido:lidoRecID>
+   <lido:category/>
+   <lido:descriptiveMetadata xml:lang="de">
+      <lido:objectClassificationWrap>
+         <lido:objectWorkTypeWrap>
+            <lido:objectWorkType>
+               <lido:conceptID lido:source="gnd" lido:type="uri">http://d-nb.info/gnd/4021845-4</lido:conceptID>
+               <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/13314</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Druckgraphik</lido:term>
+            </lido:objectWorkType>
+         </lido:objectWorkTypeWrap>
+         <lido:classificationWrap>
+            <lido:classification lido:type="Sammlung">
+               <lido:conceptID lido:source="local" lido:type="collection_id">705</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Handzeichnungen, Druckgraphik, Gemälde</lido:term>
+            </lido:classification>
+            <lido:classification lido:type="Sammlung">
+               <lido:conceptID lido:source="local" lido:type="collection_id">706</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Ansichten</lido:term>
+            </lido:classification>
+            <lido:classification lido:type="Sammlung">
+               <lido:conceptID lido:source="local" lido:type="collection_id">708</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Brandenburg</lido:term>
+            </lido:classification>
+         </lido:classificationWrap>
+      </lido:objectClassificationWrap>
+      <lido:objectIdentificationWrap>
+         <lido:titleWrap>
+            <lido:titleSet>
+               <lido:appellationValue lido:pref="preferred">Tangermünde (Kr. Stendal): Rathaus (Brandenburgisches Album, Blatt 44)</lido:appellationValue>
+            </lido:titleSet>
+         </lido:titleWrap>
+         <lido:repositoryWrap>
+            <lido:repositorySet lido:type="current">
+               <lido:repositoryName>
+                  <lido:legalBodyID lido:type="isil">DE-B185</lido:legalBodyID>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+                  </lido:legalBodyName>
+                  <lido:legalBodyWeblink>http://geschichte-brandenburg.de/</lido:legalBodyWeblink>
+               </lido:repositoryName>
+               <lido:workID lido:type="inventory number">LGV-Archiv, C 12 G-3-070</lido:workID>
+               <lido:repositoryLocation>
+                  <lido:namePlaceSet>
+                     <lido:appellationValue>Berlin</lido:appellationValue>
+                  </lido:namePlaceSet>
+                  <lido:gml>
+                     <gml:Point xmlns:gml="http://www.opengis.net/gml" srsName="EPSG:4326">
+                        <gml:pos>52.51533127 13.40440559</gml:pos>
+                     </gml:Point>
+                  </lido:gml>
+               </lido:repositoryLocation>
+            </lido:repositorySet>
+         </lido:repositoryWrap>
+         <lido:objectDescriptionWrap>
+            <lido:objectDescriptionSet>
+               <lido:descriptiveNoteValue>Das Tangermünder Rathaus ist eines der besterhaltenen und schönsten Rathäuser Norddeutschlands und demzufolge auch künstlerisch häufig dargestellt worden. Errichtet wurde der Bau um 1430 von Hinrich Brunsberg oder nach seinen Plänen. 
+
+Die Bezeichnungen unter der Darstellung (li. u. "J. Gottheil del.", re. u. "Poppel u. Kurz sc.", die Zahl mi. u. "44.", die Ortsbezeichnung und der Verlagshinweis "Verlag u. Eigenthum v. B. S. Berendsohn in Hamburg.") deuten auf die Herkunft des Blattes als Blatt 44 des Brandenburgischen Albums hin ("Brandenburgisches Album. Eine Sammlung in Stahlstich ausgeführter Ansichten der Städte und denkwürdigen Bauten, hervorragenden Architekturen, Naturschönheiten und Denkmäler der Mark Brandenburg"), das ab 1850 in 20 Lieferungen je 3 Blatt herausgegeben wurde. Der aufnehmende Künstler Julius Gottheil (1810-1868) hat die Vorlagen für die Stahlstichreproduktionen nach der Natur geschaffen, die Darstellung, wenn sie auch ein künstlerisch komponiertes Gesamtbild bietet, zeichnet sich durch Detailreichtum und Genauigkeit aus.
+Altbestand des Archivs.</lido:descriptiveNoteValue>
+               <lido:sourceDescriptiveNote>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:sourceDescriptiveNote>
+            </lido:objectDescriptionSet>
+         </lido:objectDescriptionWrap>
+         <lido:objectMeasurementsWrap>
+            <lido:objectMeasurementsSet>
+               <lido:displayObjectMeasurements>Blattgröße: Höhe 37 cm, Breite 27,8 cm, Bildgröße: Höhe 19,5 cm, Breite 14,2 cm</lido:displayObjectMeasurements>
+               <lido:objectMeasurements/>
+            </lido:objectMeasurementsSet>
+         </lido:objectMeasurementsWrap>
+      </lido:objectIdentificationWrap>
+      <lido:eventWrap>
+         <lido:eventSet>
+            <lido:event>
+               <lido:eventType>
+                  <lido:conceptID lido:type="uri">https://event-types.museum-digital.org/1</lido:conceptID>
+                  <lido:term lido:addedSearchTerm="no">Hergestellt</lido:term>
+               </lido:eventType>
+               <lido:eventActor>
+                  <lido:displayActorInRole>B. S. Berendsohn (Hamburg)</lido:displayActorInRole>
+                  <lido:actorInRole>
+                     <lido:actor>
+                        <lido:actorID lido:source="gnd" lido:type="uri">http://d-nb.info/gnd/107293793X</lido:actorID>
+                        <lido:actorID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/persinst/22656</lido:actorID>
+                        <lido:nameActorSet>
+                           <lido:appellationValue>B. S. Berendsohn (Hamburg)</lido:appellationValue>
+                           <lido:appellationValue xml:lang="de">B. S. Berendsohn (Hamburg)</lido:appellationValue>
+                        </lido:nameActorSet>
+                        <lido:vitalDatesActor>
+                           <lido:earliestDate/>
+                           <lido:latestDate/>
+                        </lido:vitalDatesActor>
+                     </lido:actor>
+                  </lido:actorInRole>
+               </lido:eventActor>
+               <lido:eventDate>
+                  <lido:displayDate>1850-1856</lido:displayDate>
+                  <lido:date>
+                     <lido:earliestDate>1850</lido:earliestDate>
+                     <lido:latestDate>1856</lido:latestDate>
+                  </lido:date>
+               </lido:eventDate>
+               <lido:eventPlace>
+                  <lido:displayPlace>Hamburg</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ar">هامبورغ</lido:displayPlace>
+                  <lido:displayPlace xml:lang="bn">হামবুর্গ</lido:displayPlace>
+                  <lido:displayPlace xml:lang="cs">Hamburk</lido:displayPlace>
+                  <lido:displayPlace xml:lang="da">Hamborg</lido:displayPlace>
+                  <lido:displayPlace xml:lang="de">Hamburg</lido:displayPlace>
+                  <lido:displayPlace xml:lang="el">Αμβούργο</lido:displayPlace>
+                  <lido:displayPlace xml:lang="en">Hamburg</lido:displayPlace>
+                  <lido:displayPlace xml:lang="es">Hamburgo</lido:displayPlace>
+                  <lido:displayPlace xml:lang="fa">هامبورگ</lido:displayPlace>
+                  <lido:displayPlace xml:lang="fi">Hampuri</lido:displayPlace>
+                  <lido:displayPlace xml:lang="fr">Hambourg</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ha">Hamburg</lido:displayPlace>
+                  <lido:displayPlace xml:lang="he">המבורג</lido:displayPlace>
+                  <lido:displayPlace xml:lang="hi">हैम्बर्ग</lido:displayPlace>
+                  <lido:displayPlace xml:lang="hu">Hamburg</lido:displayPlace>
+                  <lido:displayPlace xml:lang="id">Hamburg</lido:displayPlace>
+                  <lido:displayPlace xml:lang="it">Amburgo</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ja">ハンブルク</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ka">ჰამბურგი</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ko">함부르크</lido:displayPlace>
+                  <lido:displayPlace xml:lang="nl">Hamburg</lido:displayPlace>
+                  <lido:displayPlace xml:lang="pl">Hamburg</lido:displayPlace>
+                  <lido:displayPlace xml:lang="pt">Hamburgo</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ro">Hamburg</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ru">Гамбург</lido:displayPlace>
+                  <lido:displayPlace xml:lang="sv">Hamburg</lido:displayPlace>
+                  <lido:displayPlace xml:lang="sw">Hamburg</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ta">ஆம்பர்கு</lido:displayPlace>
+                  <lido:displayPlace xml:lang="th">ฮัมบวร์ค</lido:displayPlace>
+                  <lido:displayPlace xml:lang="tl">Hamburg</lido:displayPlace>
+                  <lido:displayPlace xml:lang="tr">Hamburg</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ur">ہم برک</lido:displayPlace>
+                  <lido:displayPlace xml:lang="vi">Hamburg</lido:displayPlace>
+                  <lido:displayPlace xml:lang="zh">汉堡</lido:displayPlace>
+                  <lido:place>
+                     <lido:placeID lido:source="geonames" lido:type="uri">https://sws.geonames.org/2911297</lido:placeID>
+                     <lido:placeID lido:source="TGN" lido:type="uri">http://vocab.getty.edu/tgn/7003673</lido:placeID>
+                     <lido:placeID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4023118-5</lido:placeID>
+                     <lido:placeID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q1055</lido:placeID>
+                     <lido:placeID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/place/202</lido:placeID>
+                     <lido:namePlaceSet>
+                        <lido:appellationValue>Hamburg</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ar">هامبورغ</lido:appellationValue>
+                        <lido:appellationValue xml:lang="bn">হামবুর্গ</lido:appellationValue>
+                        <lido:appellationValue xml:lang="cs">Hamburk</lido:appellationValue>
+                        <lido:appellationValue xml:lang="da">Hamborg</lido:appellationValue>
+                        <lido:appellationValue xml:lang="de">Hamburg</lido:appellationValue>
+                        <lido:appellationValue xml:lang="el">Αμβούργο</lido:appellationValue>
+                        <lido:appellationValue xml:lang="en">Hamburg</lido:appellationValue>
+                        <lido:appellationValue xml:lang="es">Hamburgo</lido:appellationValue>
+                        <lido:appellationValue xml:lang="fa">هامبورگ</lido:appellationValue>
+                        <lido:appellationValue xml:lang="fi">Hampuri</lido:appellationValue>
+                        <lido:appellationValue xml:lang="fr">Hambourg</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ha">Hamburg</lido:appellationValue>
+                        <lido:appellationValue xml:lang="he">המבורג</lido:appellationValue>
+                        <lido:appellationValue xml:lang="hi">हैम्बर्ग</lido:appellationValue>
+                        <lido:appellationValue xml:lang="hu">Hamburg</lido:appellationValue>
+                        <lido:appellationValue xml:lang="id">Hamburg</lido:appellationValue>
+                        <lido:appellationValue xml:lang="it">Amburgo</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ja">ハンブルク</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ka">ჰამბურგი</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ko">함부르크</lido:appellationValue>
+                        <lido:appellationValue xml:lang="nl">Hamburg</lido:appellationValue>
+                        <lido:appellationValue xml:lang="pl">Hamburg</lido:appellationValue>
+                        <lido:appellationValue xml:lang="pt">Hamburgo</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ro">Hamburg</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ru">Гамбург</lido:appellationValue>
+                        <lido:appellationValue xml:lang="sv">Hamburg</lido:appellationValue>
+                        <lido:appellationValue xml:lang="sw">Hamburg</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ta">ஆம்பர்கு</lido:appellationValue>
+                        <lido:appellationValue xml:lang="th">ฮัมบวร์ค</lido:appellationValue>
+                        <lido:appellationValue xml:lang="tl">Hamburg</lido:appellationValue>
+                        <lido:appellationValue xml:lang="tr">Hamburg</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ur">ہم برک</lido:appellationValue>
+                        <lido:appellationValue xml:lang="vi">Hamburg</lido:appellationValue>
+                        <lido:appellationValue xml:lang="zh">汉堡</lido:appellationValue>
+                     </lido:namePlaceSet>
+                     <lido:gml>
+                        <gml:Point xmlns:gml="http://www.opengis.net/gml" srsName="EPSG:4326">
+                           <gml:pos>53.549999237061 10</gml:pos>
+                        </gml:Point>
+                     </lido:gml>
+                  </lido:place>
+               </lido:eventPlace>
+            </lido:event>
+         </lido:eventSet>
+         <lido:eventSet>
+            <lido:displayEvent>Geistige Schöpfung</lido:displayEvent>
+            <lido:event>
+               <lido:eventType>
+                  <lido:conceptID lido:type="uri">https://event-types.museum-digital.org/4</lido:conceptID>
+                  <lido:term lido:addedSearchTerm="no">Geistige Schöpfung</lido:term>
+               </lido:eventType>
+               <lido:eventActor>
+                  <lido:displayActorInRole>Julius Gottheil (1810-1868)</lido:displayActorInRole>
+                  <lido:actorInRole>
+                     <lido:actor>
+                        <lido:actorID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Julius_Gottheil</lido:actorID>
+                        <lido:actorID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/118912925</lido:actorID>
+                        <lido:actorID lido:source="viaf" lido:type="uri">https://viaf.org/viaf/311323287</lido:actorID>
+                        <lido:actorID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q13489153</lido:actorID>
+                        <lido:actorID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/persinst/11080</lido:actorID>
+                        <lido:nameActorSet>
+                           <lido:appellationValue>Gottheil, Julius</lido:appellationValue>
+                           <lido:appellationValue xml:lang="de">Julius Gottheil</lido:appellationValue>
+                           <lido:appellationValue xml:lang="en">Julius Gottheil</lido:appellationValue>
+                           <lido:appellationValue xml:lang="es">Julius Gottheil</lido:appellationValue>
+                           <lido:appellationValue xml:lang="fr">Julius Gottheil</lido:appellationValue>
+                           <lido:appellationValue xml:lang="nl">Julius Gottheil</lido:appellationValue>
+                        </lido:nameActorSet>
+                        <lido:vitalDatesActor>
+                           <lido:earliestDate>1810</lido:earliestDate>
+                           <lido:latestDate>1868</lido:latestDate>
+                        </lido:vitalDatesActor>
+                     </lido:actor>
+                  </lido:actorInRole>
+               </lido:eventActor>
+            </lido:event>
+         </lido:eventSet>
+         <lido:eventSet>
+            <lido:event>
+               <lido:eventType>
+                  <lido:conceptID lido:type="uri">http://terminology.lido-schema.org/lido00003</lido:conceptID>
+                  <lido:term>Event (non-specified)</lido:term>
+               </lido:eventType>
+               <lido:eventMaterialsTech>
+                  <lido:displayMaterialsTech>Stahlstich auf Tiefdruckpapier</lido:displayMaterialsTech>
+               </lido:eventMaterialsTech>
+            </lido:event>
+         </lido:eventSet>
+      </lido:eventWrap>
+      <lido:objectRelationWrap>
+         <lido:subjectWrap>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectPlace>
+                     <lido:displayPlace>Tangermünde</lido:displayPlace>
+                     <lido:displayPlace xml:lang="ar">تانغرمونده</lido:displayPlace>
+                     <lido:displayPlace xml:lang="cs">Tangermünde</lido:displayPlace>
+                     <lido:displayPlace xml:lang="da">Tangermünde</lido:displayPlace>
+                     <lido:displayPlace xml:lang="de">Tangermünde</lido:displayPlace>
+                     <lido:displayPlace xml:lang="en">Tangermünde</lido:displayPlace>
+                     <lido:displayPlace xml:lang="es">Tangermünde</lido:displayPlace>
+                     <lido:displayPlace xml:lang="fa">تانگرمونده</lido:displayPlace>
+                     <lido:displayPlace xml:lang="fr">Tangermünde</lido:displayPlace>
+                     <lido:displayPlace xml:lang="hu">Tangermünde</lido:displayPlace>
+                     <lido:displayPlace xml:lang="it">Tangermünde</lido:displayPlace>
+                     <lido:displayPlace xml:lang="nl">Tangermünde</lido:displayPlace>
+                     <lido:displayPlace xml:lang="pl">Tangermünde</lido:displayPlace>
+                     <lido:displayPlace xml:lang="ro">Tangermünde</lido:displayPlace>
+                     <lido:displayPlace xml:lang="ru">Тангермюнде</lido:displayPlace>
+                     <lido:displayPlace xml:lang="sv">Tangermünde</lido:displayPlace>
+                     <lido:displayPlace xml:lang="vi">Tangermünde</lido:displayPlace>
+                     <lido:displayPlace xml:lang="zh">坦格尔明德</lido:displayPlace>
+                     <lido:place>
+                        <lido:placeID lido:source="geonames" lido:type="uri">https://sws.geonames.org/2824254</lido:placeID>
+                        <lido:placeID lido:source="TGN" lido:type="uri">http://vocab.getty.edu/tgn/7012878</lido:placeID>
+                        <lido:placeID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4058984-5</lido:placeID>
+                        <lido:placeID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q498565</lido:placeID>
+                        <lido:placeID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/place/85</lido:placeID>
+                        <lido:namePlaceSet>
+                           <lido:appellationValue>Tangermünde</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ar">تانغرمونده</lido:appellationValue>
+                           <lido:appellationValue xml:lang="cs">Tangermünde</lido:appellationValue>
+                           <lido:appellationValue xml:lang="da">Tangermünde</lido:appellationValue>
+                           <lido:appellationValue xml:lang="de">Tangermünde</lido:appellationValue>
+                           <lido:appellationValue xml:lang="en">Tangermünde</lido:appellationValue>
+                           <lido:appellationValue xml:lang="es">Tangermünde</lido:appellationValue>
+                           <lido:appellationValue xml:lang="fa">تانگرمونده</lido:appellationValue>
+                           <lido:appellationValue xml:lang="fr">Tangermünde</lido:appellationValue>
+                           <lido:appellationValue xml:lang="hu">Tangermünde</lido:appellationValue>
+                           <lido:appellationValue xml:lang="it">Tangermünde</lido:appellationValue>
+                           <lido:appellationValue xml:lang="nl">Tangermünde</lido:appellationValue>
+                           <lido:appellationValue xml:lang="pl">Tangermünde</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ro">Tangermünde</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ru">Тангермюнде</lido:appellationValue>
+                           <lido:appellationValue xml:lang="sv">Tangermünde</lido:appellationValue>
+                           <lido:appellationValue xml:lang="vi">Tangermünde</lido:appellationValue>
+                           <lido:appellationValue xml:lang="zh">坦格尔明德</lido:appellationValue>
+                        </lido:namePlaceSet>
+                        <lido:gml>
+                           <gml:Point xmlns:gml="http://www.opengis.net/gml" srsName="EPSG:4326">
+                              <gml:pos>52.540832519531 11.96888923645</gml:pos>
+                           </gml:Point>
+                        </lido:gml>
+                     </lido:place>
+                  </lido:subjectPlace>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="aat" lido:type="uri">http://vocab.getty.edu/aat/300015571</lido:conceptID>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">http://d-nb.info/gnd/4126697-3</lido:conceptID>
+                     <lido:conceptID lido:source="iconclass" lido:type="uri">http://iconclass.org/rkd/25II1/</lido:conceptID>
+                     <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/vocabulary/graphicMaterials/tgm002111</lido:conceptID>
+                     <lido:conceptID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q1935974</lido:conceptID>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Stadtlandschaft_(Malerei)</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/66</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Stadtansicht</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="da">Bylandskabsbillede</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="de">Stadtansicht</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="en">Cityscape</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="es">Paisaje urbano</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fr">Paysage urbain</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="id">Cityscape (seni)</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="nl">Stadsgezicht</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ru">городской пейзаж</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sv">Stadsbild</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">http://d-nb.info/gnd/4176999-5</lido:conceptID>
+                     <lido:conceptID lido:source="iconclass" lido:type="uri">http://iconclass.org/rkd/61F(RATHAUS)/</lido:conceptID>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">http://de.wikipedia.org/wiki/Rathaus</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/1780</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Rathaus</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">http://d-nb.info/gnd/4122869-8</lido:conceptID>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Backsteingotik</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/21422</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Backsteingotik</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/75708</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Sammelwerk</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/75713</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Hinrich Brunsberg</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+         </lido:subjectWrap>
+         <lido:relatedWorksWrap/>
+      </lido:objectRelationWrap>
+   </lido:descriptiveMetadata>
+   <lido:administrativeMetadata xml:lang="de">
+      <lido:rightsWorkWrap>
+         <lido:rightsWorkSet>
+            <lido:rightsHolder>
+               <lido:legalBodyName>
+                  <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:rightsHolder>
+         </lido:rightsWorkSet>
+      </lido:rightsWorkWrap>
+      <lido:recordWrap>
+         <lido:recordID lido:type="museum-digital">66984</lido:recordID>
+         <lido:recordType>
+            <lido:term lido:addedSearchTerm="no">item</lido:term>
+         </lido:recordType>
+         <lido:recordSource lido:type="dataProvider">
+            <lido:legalBodyName>
+               <lido:appellationValue>museum-digital</lido:appellationValue>
+            </lido:legalBodyName>
+            <lido:legalBodyWeblink>https://berlin.museum-digital.de/</lido:legalBodyWeblink>
+         </lido:recordSource>
+         <lido:recordSource>
+            <lido:legalBodyID lido:type="isil">DE-B185</lido:legalBodyID>
+            <lido:legalBodyName>
+               <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+            </lido:legalBodyName>
+         </lido:recordSource>
+         <lido:recordRights>
+            <lido:rightsType>
+               <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no">CC BY</lido:term>
+            </lido:rightsType>
+            <lido:rightsHolder>
+               <lido:legalBodyID lido:type="isil">DE-B185</lido:legalBodyID>
+               <lido:legalBodyName>
+                  <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+               </lido:legalBodyName>
+               <lido:legalBodyWeblink>http://geschichte-brandenburg.de/</lido:legalBodyWeblink>
+            </lido:rightsHolder>
+            <lido:creditLine>Förderprogramm zur Digitalisierung von Objekten des kulturellen Erbes des Landes Berlin</lido:creditLine>
+         </lido:recordRights>
+         <lido:recordInfoSet>
+            <lido:recordInfoLink>https://berlin.museum-digital.de/index.php?t=objekt&amp;oges=66984</lido:recordInfoLink>
+            <lido:recordMetadataDate>2021-04-27 07:59:55</lido:recordMetadataDate>
+         </lido:recordInfoSet>
+      </lido:recordWrap>
+      <lido:resourceWrap>
+         <lido:resourceSet lido:sortorder="1">
+            <lido:resourceID lido:source="image" lido:type="local">48570</lido:resourceID>
+            <lido:resourceRepresentation lido:type="masterfile">
+               <lido:linkResource lido:formatResource="image/tiff"/>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_thumb">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/202007/100h_tangermuende-kr-stendal-rathaus-brandenburgisches-album-blatt-44-66984.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_preview">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/202007/200w_tangermuende-kr-stendal-rathaus-brandenburgisches-album-blatt-44-66984.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/202007/tangermuende-kr-stendal-rathaus-brandenburgisches-album-blatt-44-66984.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceType>
+               <lido:term lido:addedSearchTerm="no">image</lido:term>
+            </lido:resourceType>
+            <lido:resourceRelType>
+               <lido:term lido:addedSearchTerm="no">Hauptansicht</lido:term>
+            </lido:resourceRelType>
+            <lido:resourceDescription>Tangermünde (Kr. Stendal): Rathaus (Brandenburgisches Album, Blatt 44)</lido:resourceDescription>
+            <lido:resourceSource lido:type="creator">
+               <lido:legalBodyName>
+                  <lido:appellationValue>Thomas Voßbeck, 2020</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:resourceSource>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+                  <lido:term lido:addedSearchTerm="no">CC BY</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V.</lido:appellationValue>
+                  </lido:legalBodyName>
+               </lido:rightsHolder>
+               <lido:creditLine>Thomas Voßbeck, 2020</lido:creditLine>
+            </lido:rightsResource>
+         </lido:resourceSet>
+      </lido:resourceWrap>
+   </lido:administrativeMetadata>
+</lido:lido>
+

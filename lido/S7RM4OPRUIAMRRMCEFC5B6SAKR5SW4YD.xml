@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lido:lido xmlns:lido="http://www.lido-schema.org"
+           xmlns:xalan="http://xml.apache.org/xalan">
+   <lido:lidoRecID lido:source="https://berlin.museum-digital.de/index.php?t=institution&amp;instnr=32"
+                   lido:type="local">DE-B185/67296</lido:lidoRecID>
+   <lido:category/>
+   <lido:descriptiveMetadata xml:lang="de">
+      <lido:objectClassificationWrap>
+         <lido:objectWorkTypeWrap>
+            <lido:objectWorkType>
+               <lido:conceptID lido:source="gnd" lido:type="uri">http://d-nb.info/gnd/4067453-8</lido:conceptID>
+               <lido:conceptID lido:source="grobsystematik" lido:type="uri">https://term.museum-digital.de/grobsystematik/tag/14445</lido:conceptID>
+               <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh85039408</lido:conceptID>
+               <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/945</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Handzeichnung</lido:term>
+            </lido:objectWorkType>
+         </lido:objectWorkTypeWrap>
+         <lido:classificationWrap>
+            <lido:classification lido:type="Sammlung">
+               <lido:conceptID lido:source="local" lido:type="collection_id">705</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Handzeichnungen, Druckgraphik, Gemälde</lido:term>
+            </lido:classification>
+            <lido:classification lido:type="Sammlung">
+               <lido:conceptID lido:source="local" lido:type="collection_id">731</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Nachlässe</lido:term>
+            </lido:classification>
+            <lido:classification lido:type="Sammlung">
+               <lido:conceptID lido:source="local" lido:type="collection_id">735</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Rudolf Lutter</lido:term>
+            </lido:classification>
+         </lido:classificationWrap>
+      </lido:objectClassificationWrap>
+      <lido:objectIdentificationWrap>
+         <lido:titleWrap>
+            <lido:titleSet>
+               <lido:appellationValue lido:pref="preferred">Liebenstein (Bad Liebenstein, Thüringen): Plan des Bades Liebenstein</lido:appellationValue>
+            </lido:titleSet>
+         </lido:titleWrap>
+         <lido:repositoryWrap>
+            <lido:repositorySet lido:type="current">
+               <lido:repositoryName>
+                  <lido:legalBodyID lido:type="isil">DE-B185</lido:legalBodyID>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+                  </lido:legalBodyName>
+                  <lido:legalBodyWeblink>http://geschichte-brandenburg.de/</lido:legalBodyWeblink>
+               </lido:repositoryName>
+               <lido:workID lido:type="inventory number">LGV-Archiv, C 12 H-4-025</lido:workID>
+               <lido:repositoryLocation>
+                  <lido:namePlaceSet>
+                     <lido:appellationValue>Berlin</lido:appellationValue>
+                  </lido:namePlaceSet>
+                  <lido:gml>
+                     <gml:Point xmlns:gml="http://www.opengis.net/gml" srsName="EPSG:4326">
+                        <gml:pos>52.51533127 13.40440559</gml:pos>
+                     </gml:Point>
+                  </lido:gml>
+               </lido:repositoryLocation>
+            </lido:repositorySet>
+         </lido:repositoryWrap>
+         <lido:objectDescriptionWrap>
+            <lido:objectDescriptionSet>
+               <lido:descriptiveNoteValue>Skizze eines Situationsplanes des Kurbades, der Kirche mit Kirchhof und der Ruine Liebenstein, mit Profilangaben, Straßenverläufen, Himmelsrichtung, Legende 1-24 (diese unvollständig, wohl um Platz zu sparen).
+
+Bez. re. o. "Plan des Bades / Liebenstein. / 11. Juli 1851.", mit Legende.</lido:descriptiveNoteValue>
+               <lido:sourceDescriptiveNote>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:sourceDescriptiveNote>
+            </lido:objectDescriptionSet>
+         </lido:objectDescriptionWrap>
+         <lido:objectMeasurementsWrap>
+            <lido:objectMeasurementsSet>
+               <lido:displayObjectMeasurements>Blattgröße: Höhe 10,8 cm, Breite 17,2 cm (an den Ecken abgeschrägt)</lido:displayObjectMeasurements>
+               <lido:objectMeasurements/>
+            </lido:objectMeasurementsSet>
+         </lido:objectMeasurementsWrap>
+      </lido:objectIdentificationWrap>
+      <lido:eventWrap>
+         <lido:eventSet>
+            <lido:event>
+               <lido:eventType>
+                  <lido:conceptID lido:type="uri">https://event-types.museum-digital.org/19</lido:conceptID>
+                  <lido:term lido:addedSearchTerm="no">Gezeichnet</lido:term>
+               </lido:eventType>
+               <lido:eventActor>
+                  <lido:displayActorInRole>Rudolf Lutter (1831-1913)</lido:displayActorInRole>
+                  <lido:actorInRole>
+                     <lido:actor>
+                        <lido:actorID lido:source="gnd" lido:type="uri">http://d-nb.info/gnd/1178185508</lido:actorID>
+                        <lido:actorID lido:source="viaf" lido:type="uri">https://viaf.org/viaf/7381155044839072520000</lido:actorID>
+                        <lido:actorID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/persinst/125364</lido:actorID>
+                        <lido:nameActorSet>
+                           <lido:appellationValue>Lutter, Rudolf</lido:appellationValue>
+                           <lido:appellationValue xml:lang="de">Rudolf Lutter</lido:appellationValue>
+                        </lido:nameActorSet>
+                        <lido:vitalDatesActor>
+                           <lido:earliestDate>1831</lido:earliestDate>
+                           <lido:latestDate>1913</lido:latestDate>
+                        </lido:vitalDatesActor>
+                     </lido:actor>
+                  </lido:actorInRole>
+               </lido:eventActor>
+               <lido:eventDate>
+                  <lido:displayDate>11.07.1851</lido:displayDate>
+                  <lido:displayDate xml:lang="ar">11/07/1851</lido:displayDate>
+                  <lido:displayDate xml:lang="de">11.07.1851</lido:displayDate>
+                  <lido:displayDate xml:lang="en">July 11, 1851</lido:displayDate>
+                  <lido:displayDate xml:lang="es">11/07/1851</lido:displayDate>
+                  <lido:displayDate xml:lang="fa">11/07/1851</lido:displayDate>
+                  <lido:displayDate xml:lang="fr">11/07/1851</lido:displayDate>
+                  <lido:displayDate xml:lang="hu">1851. július 11.</lido:displayDate>
+                  <lido:displayDate xml:lang="id">11 Juli 1851</lido:displayDate>
+                  <lido:displayDate xml:lang="it">11/07/1851</lido:displayDate>
+                  <lido:displayDate xml:lang="ja">1851年07月11日</lido:displayDate>
+                  <lido:displayDate xml:lang="ka">11.07.1851</lido:displayDate>
+                  <lido:displayDate xml:lang="ko">1851년 07월 11일</lido:displayDate>
+                  <lido:displayDate xml:lang="pl">11.07.1851</lido:displayDate>
+                  <lido:displayDate xml:lang="pt">11/07/1851</lido:displayDate>
+                  <lido:displayDate xml:lang="ro">11.07.1851</lido:displayDate>
+                  <lido:displayDate xml:lang="ru">11.07.1851</lido:displayDate>
+                  <lido:displayDate xml:lang="ta">11-07-1851</lido:displayDate>
+                  <lido:displayDate xml:lang="tl">Hulyo 11, 1851</lido:displayDate>
+                  <lido:displayDate xml:lang="tr">11.07.1851</lido:displayDate>
+                  <lido:displayDate xml:lang="zh">1851年07月11日</lido:displayDate>
+                  <lido:date>
+                     <lido:earliestDate>1851</lido:earliestDate>
+                     <lido:latestDate>1851</lido:latestDate>
+                  </lido:date>
+               </lido:eventDate>
+            </lido:event>
+         </lido:eventSet>
+         <lido:eventSet>
+            <lido:event>
+               <lido:eventType>
+                  <lido:conceptID lido:type="uri">http://terminology.lido-schema.org/lido00003</lido:conceptID>
+                  <lido:term>Event (non-specified)</lido:term>
+               </lido:eventType>
+               <lido:eventMaterialsTech>
+                  <lido:displayMaterialsTech>Feder in Braun auf Velin (alt aufgezogen auf beigen Karton)</lido:displayMaterialsTech>
+               </lido:eventMaterialsTech>
+            </lido:event>
+         </lido:eventSet>
+      </lido:eventWrap>
+      <lido:objectRelationWrap>
+         <lido:subjectWrap>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="aat" lido:type="uri">http://vocab.getty.edu/aat/300006891</lido:conceptID>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4009104-1</lido:conceptID>
+                     <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh85020702</lido:conceptID>
+                     <lido:conceptID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q23413</lido:conceptID>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Burg</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/791</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Burg</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ar">قلعة</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="cs">Hrad</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="da">Borg</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="de">Burg</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="el">κάστρο</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="en">Castle</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="es">Castillo</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fa">دژ</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fi">Linna</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fr">Château fort</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="he">טירה</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hi">गढ़</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hu">vár</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="id">Kastil</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="it">Castello</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ja">城</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ka">ციხესიმაგრე</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ko">성</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="nl">Burcht</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pl">Zamek</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pt">Castelo</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ro">Castel</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ru">замок</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sv">Borg</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sw">Ngome</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ta">கோட்டையகம்</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="th">ปราสาท</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tr">Kale</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ur">قلعہ</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="vi">Lâu đài</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="zh">城堡</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+         </lido:subjectWrap>
+         <lido:relatedWorksWrap/>
+      </lido:objectRelationWrap>
+   </lido:descriptiveMetadata>
+   <lido:administrativeMetadata xml:lang="de">
+      <lido:rightsWorkWrap>
+         <lido:rightsWorkSet>
+            <lido:rightsHolder>
+               <lido:legalBodyName>
+                  <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:rightsHolder>
+         </lido:rightsWorkSet>
+      </lido:rightsWorkWrap>
+      <lido:recordWrap>
+         <lido:recordID lido:type="museum-digital">67296</lido:recordID>
+         <lido:recordType>
+            <lido:term lido:addedSearchTerm="no">item</lido:term>
+         </lido:recordType>
+         <lido:recordSource lido:type="dataProvider">
+            <lido:legalBodyName>
+               <lido:appellationValue>museum-digital</lido:appellationValue>
+            </lido:legalBodyName>
+            <lido:legalBodyWeblink>https://berlin.museum-digital.de/</lido:legalBodyWeblink>
+         </lido:recordSource>
+         <lido:recordSource>
+            <lido:legalBodyID lido:type="isil">DE-B185</lido:legalBodyID>
+            <lido:legalBodyName>
+               <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+            </lido:legalBodyName>
+         </lido:recordSource>
+         <lido:recordRights>
+            <lido:rightsType>
+               <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no">CC BY</lido:term>
+            </lido:rightsType>
+            <lido:rightsHolder>
+               <lido:legalBodyID lido:type="isil">DE-B185</lido:legalBodyID>
+               <lido:legalBodyName>
+                  <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+               </lido:legalBodyName>
+               <lido:legalBodyWeblink>http://geschichte-brandenburg.de/</lido:legalBodyWeblink>
+            </lido:rightsHolder>
+            <lido:creditLine>Förderprogramm zur Digitalisierung von Objekten des kulturellen Erbes des Landes Berlin</lido:creditLine>
+         </lido:recordRights>
+         <lido:recordInfoSet>
+            <lido:recordInfoLink>https://berlin.museum-digital.de/index.php?t=objekt&amp;oges=67296</lido:recordInfoLink>
+            <lido:recordMetadataDate>2021-04-27 07:59:53</lido:recordMetadataDate>
+         </lido:recordInfoSet>
+      </lido:recordWrap>
+      <lido:resourceWrap>
+         <lido:resourceSet lido:sortorder="1">
+            <lido:resourceID lido:source="image" lido:type="local">48839</lido:resourceID>
+            <lido:resourceRepresentation lido:type="masterfile">
+               <lido:linkResource lido:formatResource="image/tiff"/>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_thumb">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/202007/100h_liebenstein-bad-liebenstein-thueringen-plan-des-bades-liebenstein-67296.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_preview">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/202007/200w_liebenstein-bad-liebenstein-thueringen-plan-des-bades-liebenstein-67296.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/202007/liebenstein-bad-liebenstein-thueringen-plan-des-bades-liebenstein-67296.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceType>
+               <lido:term lido:addedSearchTerm="no">image</lido:term>
+            </lido:resourceType>
+            <lido:resourceRelType>
+               <lido:term lido:addedSearchTerm="no">Hauptansicht</lido:term>
+            </lido:resourceRelType>
+            <lido:resourceDescription>Liebenstein (Bad Liebenstein, Thüringen): Plan des Bades Liebenstein</lido:resourceDescription>
+            <lido:resourceSource lido:type="creator">
+               <lido:legalBodyName>
+                  <lido:appellationValue>Thomas Voßbeck, 2020</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:resourceSource>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+                  <lido:term lido:addedSearchTerm="no">CC BY</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V.</lido:appellationValue>
+                  </lido:legalBodyName>
+               </lido:rightsHolder>
+               <lido:creditLine>Thomas Voßbeck, 2020</lido:creditLine>
+            </lido:rightsResource>
+         </lido:resourceSet>
+      </lido:resourceWrap>
+   </lido:administrativeMetadata>
+</lido:lido>
+

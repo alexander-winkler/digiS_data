@@ -1,0 +1,1008 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lido:lido xmlns:gml="http://www.opengis.net/gml"
+           xmlns:lido="http://www.lido-schema.org"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <lido:lidoRecID lido:source="https://berlin.museum-digital.de/index.php?t=institution&amp;instnr=21"
+                   lido:type="local">DE-MUS-061525/66200</lido:lidoRecID>
+   <lido:descriptiveMetadata xml:lang="de">
+      <lido:objectClassificationWrap>
+         <lido:objectWorkTypeWrap>
+            <lido:objectWorkType>
+               <lido:conceptID lido:source="gnd" lido:type="uri">http://d-nb.info/gnd/4164176-0</lido:conceptID>
+               <lido:conceptID lido:source="grobsystematik" lido:type="uri">https://term.museum-digital.de/grobsystematik/tag/13321</lido:conceptID>
+               <lido:conceptID lido:source="oberbegriffsdatei" lido:type="uri">https://term.museum-digital.de/oberbegriffsdatei/tag/2036</lido:conceptID>
+               <lido:conceptID lido:source="aat" lido:type="uri">http://vocab.getty.edu/aat/300041575</lido:conceptID>
+               <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh85027100</lido:conceptID>
+               <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/1331</lido:conceptID>
+               <lido:term>Uhr</lido:term>
+            </lido:objectWorkType>
+         </lido:objectWorkTypeWrap>
+         <lido:classificationWrap>
+            <lido:classification lido:type="Sammlung">
+               <lido:conceptID lido:source="local" lido:type="collection_id">623</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no">Uhrensammlung</lido:term>
+            </lido:classification>
+         </lido:classificationWrap>
+      </lido:objectClassificationWrap>
+      <lido:objectIdentificationWrap>
+         <lido:titleWrap>
+            <lido:titleSet>
+               <lido:appellationValue lido:pref="preferred">Carl Ludwig Buschberg, Stutzuhr mit Chronos und Aeternitas auf Sockel, um 1775, Inv. Nr. KGK 68/1 a + b</lido:appellationValue>
+            </lido:titleSet>
+         </lido:titleWrap>
+         <lido:inscriptionsWrap>
+            <lido:inscriptions>
+               <lido:inscriptionDescription>
+                  <lido:descriptiveNoteValue>auf dem Zifferblatt: „BUSCHBERG BERLIN“, auf dem Porzellan: Zeptermarke, unterglasurblau</lido:descriptiveNoteValue>
+               </lido:inscriptionDescription>
+            </lido:inscriptions>
+         </lido:inscriptionsWrap>
+         <lido:repositoryWrap>
+            <lido:repositorySet lido:type="current">
+               <lido:repositoryName>
+                  <lido:legalBodyID lido:type="isil">DE-MUS-061525</lido:legalBodyID>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Stiftung Stadtmuseum Berlin</lido:appellationValue>
+                  </lido:legalBodyName>
+                  <lido:legalBodyWeblink>https://www.stadtmuseum.de</lido:legalBodyWeblink>
+               </lido:repositoryName>
+               <lido:workID lido:type="inventory number">KGK 68/1 a + b</lido:workID>
+               <lido:repositoryLocation>
+                  <lido:namePlaceSet>
+                     <lido:appellationValue>Berlin</lido:appellationValue>
+                  </lido:namePlaceSet>
+                  <lido:gml>
+                     <gml:Point srsName="EPSG:4326">
+                        <gml:pos>52.51618576 13.40692997</gml:pos>
+                     </gml:Point>
+                  </lido:gml>
+               </lido:repositoryLocation>
+            </lido:repositorySet>
+         </lido:repositoryWrap>
+         <lido:objectDescriptionWrap>
+            <lido:objectDescriptionSet>
+               <lido:descriptiveNoteValue>Das weiße, hohl gearbeitete Porzellangehäuse mit vergoldeten Zierkanten ruht auf vier eingerollten Rocaille-Füßen mit aufgelegten, teilweise vergoldeten Blättern auf einem passgenauen, seitlich eingezogenen niedrigen Porzellansockel; unterhalb des Zifferblattes schwingt das Gehäuse ein. An dieser Stelle sowie über dem Zifferblatt befindet sich eine vergitterte Öffnung, deren Kreuzungspunkte mit kleinen blauen Blüten geschmückt sind. Im unteren Bereich ist der vergoldete und geflügelte Kopf des Chronos angebracht. Blaue Ranunkel-, Trichterwinde- und Rosenblüten zieren die Gehäuseseiten, ebenso wie Blatt- und Rocaillewerk. Jeweils an beiden Seiten deuten Löcher in der Porzellanwand darauf hin, dass dort ehemals weitere Dekorationsstücke (Kinderfiguren oder Blüten) montiert waren. Über dem Zifferblatt bildet ein auf beiden Seiten konvex eingezogener Aufsatz den Sitz für die bekrönende weibliche Figur der Aeternitas (Ewigkeit). Unter der nackten Brust ist sie mit einem grünen, vorn geknoteten Band gegürtet, ein innen gelbes, außen rosa Tuch umspielt ihre Hüften. Den Schleier, der ihr Gesicht verhüllt, ziert eine goldene Borte. Auf Stirnhöhe ist er durch ein gelb-rosa Band am Kopf befestigt. Den rechten Arm streckt die Figur wie zum Abstützen nach vorn, in der linken erhobenen Hand hielt sie ursprünglich als Symbol der Ewigkeit eine sich selbst in den Schwanz beißende und damit einen Ring bildende Schlange (verloren). Der linke, leicht nach oben gezogene Fuß kreuzt die Wade des rechten Beins, an dessen Fuß sich ein vergoldeter Ring befindet. Das Zifferblatt ist eingerahmt durch gebündelte, mit Lorbeergirlanden umwundene Stäbe. Das Uhrwerk ist über ein rundes Loch auf der Rückseite des Gehäuses zugänglich, geschützt durch einen durchbrochenen Sechseckstern aus Messing mit textiler Füllung.&lt;br&gt;
+Das Thema Chronos und Ewigkeit bietet sich als Schmuck für Uhrengehäuse an. Der Zeitgott Chronos wird oft gleichgesetzt mit Kronos/Saturn, Sohn des Uranos und der Erdmutter Gaia. Kronos entmannte seinen Vater und verschlang aus Angst davor, dasselbe Schicksal erleiden zu müssen, seine eigenen Kinder, bis auf seinen Sohn Zeus. Chronos, der Zeitgott, entspringt ganz anderen Mythen, nämlich der der Orphiker (6./5. Jh. v. Chr.). Eine erste Darstellung als bartloser und geflügelter Mann erscheint aber erst in hellenistischer Zeit (ab dem 4. Jh. v. Chr.). Mit seinem Attribut der Sense und der häufig mit ihm zusammen auftretenden verschleierten, trauernden jungen Frau symbolisieren sie die Vergänglichkeit des irdischen Lebens. Der Schlangenring der „Aeternitas“-Figur stand schon in der altägyptischen Kultur, aber auch bei den Freimaurern, für die Ewigkeit. So thematisieren Vergänglichkeit und Ewigkeit, wie auch die frischen und die verblühten Blumen am Uhrgehäuse, die beiden Antipoden der Zeit.&lt;br&gt;
+Auf beiden Einzelteilen des Uhrgehäuses findet sich das unterglasurblaue Zepter der Königlichen Porzellanmanufaktur Berlin. Der Entwurf für das Uhrgehäuse wird dem Bildhauer Stutz (Vorname unbekannt) zugeschrieben (1766/67), das Modell für die Figur der Ewigkeit stammt von Wilhelm Christian Meyer (1726-1786). Der außerordentlich beliebte Uhrentyp war mit einigen Abwandlungen des figürlichen Schmucks (seitliche Kinderfiguren, Chronos) sowie in der Art der farbigen Bemalung und des Blumenschmucks von der KPM bis in die 1880er Jahre produziert worden. Im Modellbuch wird es unter der Nr. 341 beschrieben: „Ein großes stehendes Uhrgehäuse mit Postument und 2 Kinder mit B und C gezeichnet, wie auch eine liegende Figur die Ewigkeit mit D gezeichnet“. Etliche Exemplare dieses Typs, auch als dreibeinige Ausführung, haben sich erhalten.&lt;br&gt;
+Die Uhr kam 1968 als Stiftung Adolf Bodenheim an das Berlin Museum, heute Stiftung Stadtmuseum Berlin. (Silke Kiesant)&lt;br&gt;</lido:descriptiveNoteValue>
+               <lido:sourceDescriptiveNote>Stiftung Stadtmuseum Berlin</lido:sourceDescriptiveNote>
+            </lido:objectDescriptionSet>
+            <lido:objectDescriptionSet lido:type="Detailbeschreibung">
+               <lido:descriptiveNoteValue>Das runde Messing-Vollplatinenwerk (H: 13,2 cm; B: 14 cm; zylindrische Werkpfeiler, H: 2,95 cm; Platinenstärke: 0,23 cm) mit unterem geraden Abschluss besitzt ein Rechenschlagwerk (Viertelstundenschlagwerk auf zwei ineinander gesteckte Glocken), Zugfederantrieb mit umlaufenden Federhäusern, Spindelhemmung und ein Pendel mit Fadenaufhängung. Die Kadraturteile sind werkrückseitig angebracht.&lt;br&gt;
+Das Emailzifferblatt zeigt schwarze große römische Stunden- und kleinere arabische Fünfminutenziffern sowie eine Minuterie mit Strichen, die Fünfminuten mit Punkten, die Fünfzehnminuten mit stilisierten Lilien. Bei IIII und VIII liegen zwei Vierkantaufzugslöcher. Im Mittelkreis befindet sich die Uhrmachersignatur. Zwei durchbrochen und sehr filigran gearbeitete Zeiger aus vergoldetem Messing vervollständigen die Uhr. Geschützt wird das Zifferblatt durch einen runden, profiliert gearbeiteten und vergoldeten Gelbgussrahmen mit gewölbtem Glas.&lt;br&gt;
+Der Groß- und Turmuhrmacher Carl Ludwig Buschberg (um 1743-1805) erwarb vor 1775 die Meisterwürde, war 1780 Stadtuhrmacher und 1794 Altmeister der Zunft. Möglicherweise ist er identisch mit dem Schlesier „Ouvrier L. Buschberg“, den Alfred Chapuis 1938 als Spezialist für Musikpendulen (1771) bezeichnet. In diesem Fall muss er Anfang der 1770er Jahre in Berlin eingetroffen sein. Um 1785 datiert eine kleine Standuhr mit vier Satyrn und Widderköpfen. Im Postament befand sich ursprünglich ein Musikwerk. Das Zifferblatt ist signiert „BUSCHBERG À BERLIN“ (SPSG, Inv. Nr. V 107). Durchaus üblich war es, dass die Uhrmacher bei Kunsthandwerkern, wie Tischlern oder, wie in diesem Fall, bei der Königlichen Porzellanmanufaktur Berlin, Uhrgehäuse in Auftrag gaben oder bereits fertig für ihre Mechanik erwarben. Auch Buschbergs Berliner Kollegen Christian Ernst Kleemeyer und Conrad Ehrbar benutzten diese Art von Porzellangehäuse für ihre Werke. (Franka Görike, Silke Kiesant)</lido:descriptiveNoteValue>
+               <lido:sourceDescriptiveNote>Stiftung Stadtmuseum Berlin</lido:sourceDescriptiveNote>
+            </lido:objectDescriptionSet>
+         </lido:objectDescriptionWrap>
+         <lido:objectMeasurementsWrap>
+            <lido:objectMeasurementsSet>
+               <lido:displayObjectMeasurements>Gehäuse: Höhe ohne Sockel 58,5 cm, Breite 29 cm, Tiefe 15 cm; Sockel: Höhe 6,8 cm, Breite 33 cm, Tiefe 19,4 cm</lido:displayObjectMeasurements>
+            </lido:objectMeasurementsSet>
+         </lido:objectMeasurementsWrap>
+      </lido:objectIdentificationWrap>
+      <lido:eventWrap>
+         <lido:eventSet>
+            <lido:displayEvent>Geistige Schöpfung</lido:displayEvent>
+            <lido:event>
+               <lido:eventType>
+                  <lido:conceptID lido:type="uri">http://terminology.lido-schema.org/lido00012</lido:conceptID>
+                  <lido:term lido:addedSearchTerm="no">Geistige Schöpfung</lido:term>
+               </lido:eventType>
+               <lido:eventActor>
+                  <lido:displayActorInRole>Wilhelm Christian Meyer (1723-1786)</lido:displayActorInRole>
+                  <lido:actorInRole>
+                     <lido:actor>
+                        <lido:actorID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/12399442X</lido:actorID>
+                        <lido:actorID lido:source="ulan" lido:type="uri">http://vocab.getty.edu/ulan/500336081</lido:actorID>
+                        <lido:actorID lido:source="viaf" lido:type="uri">https://viaf.org/viaf/6942279</lido:actorID>
+                        <lido:actorID lido:source="loc" lido:type="uri">http://id.loc.gov/authorities/names/no00080439</lido:actorID>
+                        <lido:actorID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q52149325</lido:actorID>
+                        <lido:actorID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/persinst/204</lido:actorID>
+                        <lido:nameActorSet>
+                           <lido:appellationValue>Meyer, Wilhelm Christian</lido:appellationValue>
+                           <lido:appellationValue xml:lang="nl">Wilhelm Christian Meyer</lido:appellationValue>
+                        </lido:nameActorSet>
+                        <lido:vitalDatesActor>
+                           <lido:earliestDate>1723</lido:earliestDate>
+                           <lido:latestDate>1786</lido:latestDate>
+                        </lido:vitalDatesActor>
+                     </lido:actor>
+                  </lido:actorInRole>
+               </lido:eventActor>
+            </lido:event>
+         </lido:eventSet>
+         <lido:eventSet>
+            <lido:displayEvent>Hergestellt</lido:displayEvent>
+            <lido:event>
+               <lido:eventType>
+                  <lido:conceptID lido:type="uri">http://terminology.lido-schema.org/lido00007</lido:conceptID>
+                  <lido:term lido:addedSearchTerm="no">Hergestellt</lido:term>
+               </lido:eventType>
+               <lido:eventActor>
+                  <lido:displayActorInRole>Carl Ludwig Buschberg (1743-1805)</lido:displayActorInRole>
+                  <lido:actorInRole>
+                     <lido:actor>
+                        <lido:actorID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/persinst/143509</lido:actorID>
+                        <lido:nameActorSet>
+                           <lido:appellationValue>Buschberg, Carl Ludwig</lido:appellationValue>
+                        </lido:nameActorSet>
+                        <lido:vitalDatesActor>
+                           <lido:earliestDate>1743</lido:earliestDate>
+                           <lido:latestDate>1805</lido:latestDate>
+                        </lido:vitalDatesActor>
+                     </lido:actor>
+                  </lido:actorInRole>
+               </lido:eventActor>
+               <lido:eventActor>
+                  <lido:displayActorInRole>Königliche Porzellan-Manufaktur Berlin (KPM)</lido:displayActorInRole>
+                  <lido:actorInRole>
+                     <lido:actor>
+                        <lido:actorID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/K%C3%B6nigliche_Porzellan-Manufaktur_Berlin</lido:actorID>
+                        <lido:actorID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/2071989-9</lido:actorID>
+                        <lido:actorID lido:source="viaf" lido:type="uri">https://viaf.org/viaf/168591304</lido:actorID>
+                        <lido:actorID lido:source="bnf" lido:type="uri">https://catalogue.bnf.fr/ark:/12148/cb12839815v</lido:actorID>
+                        <lido:actorID lido:source="loc" lido:type="uri">http://id.loc.gov/authorities/names/n85291449</lido:actorID>
+                        <lido:actorID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q516134</lido:actorID>
+                        <lido:actorID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/persinst/181</lido:actorID>
+                        <lido:nameActorSet>
+                           <lido:appellationValue>Königliche Porzellan-Manufaktur Berlin (KPM)</lido:appellationValue>
+                           <lido:appellationValue xml:lang="en">Royal Porcelain Factory</lido:appellationValue>
+                           <lido:appellationValue xml:lang="es">Real Fábrica de Porcelana de Berlín</lido:appellationValue>
+                           <lido:appellationValue xml:lang="fr">manufacture royale de porcelaine de Berlin</lido:appellationValue>
+                           <lido:appellationValue xml:lang="it">Regia manifattura di porcellane di Berlino</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ja">ベルリン王立磁器製陶所</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ro">Königliche Porzellan-Manufaktur Berlin</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ru">Берлинская королевская фарфоровая мануфактура</lido:appellationValue>
+                           <lido:appellationValue xml:lang="sv">Königliche Porzellan-Manufaktur Berlin</lido:appellationValue>
+                        </lido:nameActorSet>
+                     </lido:actor>
+                  </lido:actorInRole>
+               </lido:eventActor>
+               <lido:eventDate>
+                  <lido:displayDate>1775 (wahrscheinlich)</lido:displayDate>
+                  <lido:displayDate xml:lang="ar">1775</lido:displayDate>
+                  <lido:displayDate xml:lang="en">1775</lido:displayDate>
+                  <lido:displayDate xml:lang="es">1775</lido:displayDate>
+                  <lido:displayDate xml:lang="fa">1775</lido:displayDate>
+                  <lido:displayDate xml:lang="fr">1775</lido:displayDate>
+                  <lido:displayDate xml:lang="hu">1775</lido:displayDate>
+                  <lido:displayDate xml:lang="id">1775</lido:displayDate>
+                  <lido:displayDate xml:lang="it">1775</lido:displayDate>
+                  <lido:displayDate xml:lang="ja">1775年</lido:displayDate>
+                  <lido:displayDate xml:lang="ka">1775</lido:displayDate>
+                  <lido:displayDate xml:lang="ko">1775년</lido:displayDate>
+                  <lido:displayDate xml:lang="pl">1775</lido:displayDate>
+                  <lido:displayDate xml:lang="pt">1775</lido:displayDate>
+                  <lido:displayDate xml:lang="ro">1775</lido:displayDate>
+                  <lido:displayDate xml:lang="ru">1775</lido:displayDate>
+                  <lido:displayDate xml:lang="ta">1775</lido:displayDate>
+                  <lido:displayDate xml:lang="tl">1775</lido:displayDate>
+                  <lido:displayDate xml:lang="tr">1775</lido:displayDate>
+                  <lido:displayDate xml:lang="zh">1775年</lido:displayDate>
+                  <lido:date>
+                     <lido:earliestDate>1775</lido:earliestDate>
+                     <lido:latestDate>1775</lido:latestDate>
+                  </lido:date>
+               </lido:eventDate>
+               <lido:eventPlace>
+                  <lido:displayPlace>Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ar">برلين</lido:displayPlace>
+                  <lido:displayPlace xml:lang="bn">বার্লিন</lido:displayPlace>
+                  <lido:displayPlace xml:lang="cs">Berlín</lido:displayPlace>
+                  <lido:displayPlace xml:lang="da">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="el">Βερολίνο</lido:displayPlace>
+                  <lido:displayPlace xml:lang="en">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="es">Berlín</lido:displayPlace>
+                  <lido:displayPlace xml:lang="fa">برلین</lido:displayPlace>
+                  <lido:displayPlace xml:lang="fi">Berliini</lido:displayPlace>
+                  <lido:displayPlace xml:lang="fr">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ha">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="he">ברלין</lido:displayPlace>
+                  <lido:displayPlace xml:lang="hi">बर्लिन</lido:displayPlace>
+                  <lido:displayPlace xml:lang="hu">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="id">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="it">Berlino</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ja">ベルリン</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ka">ბერლინი</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ko">베를린</lido:displayPlace>
+                  <lido:displayPlace xml:lang="nl">Berlijn</lido:displayPlace>
+                  <lido:displayPlace xml:lang="pl">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="pt">Berlim</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ro">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ru">Берлин</lido:displayPlace>
+                  <lido:displayPlace xml:lang="sv">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="sw">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ta">பெர்லின்</lido:displayPlace>
+                  <lido:displayPlace xml:lang="th">เบอร์ลิน</lido:displayPlace>
+                  <lido:displayPlace xml:lang="tl">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="tr">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ur">برلن</lido:displayPlace>
+                  <lido:displayPlace xml:lang="vi">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="zh">柏林</lido:displayPlace>
+                  <lido:place>
+                     <lido:placeID lido:source="geonames" lido:type="uri">https://sws.geonames.org/2950159</lido:placeID>
+                     <lido:placeID lido:source="TGN" lido:type="uri">http://vocab.getty.edu/tgn/7209904</lido:placeID>
+                     <lido:placeID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4005728-8</lido:placeID>
+                     <lido:placeID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q64</lido:placeID>
+                     <lido:placeID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/place/61</lido:placeID>
+                     <lido:namePlaceSet>
+                        <lido:appellationValue>Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ar">برلين</lido:appellationValue>
+                        <lido:appellationValue xml:lang="bn">বার্লিন</lido:appellationValue>
+                        <lido:appellationValue xml:lang="cs">Berlín</lido:appellationValue>
+                        <lido:appellationValue xml:lang="da">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="el">Βερολίνο</lido:appellationValue>
+                        <lido:appellationValue xml:lang="en">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="es">Berlín</lido:appellationValue>
+                        <lido:appellationValue xml:lang="fa">برلین</lido:appellationValue>
+                        <lido:appellationValue xml:lang="fi">Berliini</lido:appellationValue>
+                        <lido:appellationValue xml:lang="fr">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ha">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="he">ברלין</lido:appellationValue>
+                        <lido:appellationValue xml:lang="hi">बर्लिन</lido:appellationValue>
+                        <lido:appellationValue xml:lang="hu">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="id">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="it">Berlino</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ja">ベルリン</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ka">ბერლინი</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ko">베를린</lido:appellationValue>
+                        <lido:appellationValue xml:lang="nl">Berlijn</lido:appellationValue>
+                        <lido:appellationValue xml:lang="pl">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="pt">Berlim</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ro">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ru">Берлин</lido:appellationValue>
+                        <lido:appellationValue xml:lang="sv">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="sw">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ta">பெர்லின்</lido:appellationValue>
+                        <lido:appellationValue xml:lang="th">เบอร์ลิน</lido:appellationValue>
+                        <lido:appellationValue xml:lang="tl">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="tr">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ur">برلن</lido:appellationValue>
+                        <lido:appellationValue xml:lang="vi">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="zh">柏林</lido:appellationValue>
+                     </lido:namePlaceSet>
+                     <lido:gml>
+                        <gml:Point srsName="EPSG:4326">
+                           <gml:pos>52.516666412354 13.383333206177</gml:pos>
+                        </gml:Point>
+                     </lido:gml>
+                  </lido:place>
+               </lido:eventPlace>
+               <lido:eventMaterialsTech>
+                  <lido:displayMaterialsTech>Gehäuse: Messing, Porzellan, weißer Scherben, teilweise vergoldet, polychrom bemalt, montiert; Uhrwerk: Messing, Stahl; Glocken: Silberbronze; Zeiger: Messing, vergoldet, durchbrochen, graviert; Email; Glas</lido:displayMaterialsTech>
+               </lido:eventMaterialsTech>
+            </lido:event>
+         </lido:eventSet>
+      </lido:eventWrap>
+      <lido:objectRelationWrap>
+         <lido:subjectWrap>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectActor>
+                     <lido:displayActor>Chronos (Mythologie)</lido:displayActor>
+                     <lido:actor>
+                        <lido:actorID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Kronos</lido:actorID>
+                        <lido:actorID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/118911953</lido:actorID>
+                        <lido:actorID lido:source="viaf" lido:type="uri">http://viaf.org/viaf/18020771</lido:actorID>
+                        <lido:actorID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Kronos</lido:actorID>
+                        <lido:actorID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/118911953</lido:actorID>
+                        <lido:actorID lido:source="viaf" lido:type="uri">https://viaf.org/viaf/1146997179318890597</lido:actorID>
+                        <lido:actorID lido:source="loc" lido:type="uri">http://id.loc.gov/authorities/names/no2016121693</lido:actorID>
+                        <lido:actorID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q44204</lido:actorID>
+                        <lido:actorID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Chronos</lido:actorID>
+                        <lido:actorID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/119242443</lido:actorID>
+                        <lido:actorID lido:source="viaf" lido:type="uri">https://viaf.org/viaf/52494729</lido:actorID>
+                        <lido:actorID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q272918</lido:actorID>
+                        <lido:actorID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/persinst/30029</lido:actorID>
+                        <lido:nameActorSet>
+                           <lido:appellationValue>Chronos (Mythologie)</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ar">خرونوس</lido:appellationValue>
+                           <lido:appellationValue xml:lang="da">Chronos</lido:appellationValue>
+                           <lido:appellationValue xml:lang="el">Χρόνος</lido:appellationValue>
+                           <lido:appellationValue xml:lang="en">Chronos</lido:appellationValue>
+                           <lido:appellationValue xml:lang="es">Crono</lido:appellationValue>
+                           <lido:appellationValue xml:lang="fa">خرونوس</lido:appellationValue>
+                           <lido:appellationValue xml:lang="fi">Khronos</lido:appellationValue>
+                           <lido:appellationValue xml:lang="fr">Chronos</lido:appellationValue>
+                           <lido:appellationValue xml:lang="hu">Khronosz</lido:appellationValue>
+                           <lido:appellationValue xml:lang="id">Khronos</lido:appellationValue>
+                           <lido:appellationValue xml:lang="it">Khronos</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ja">クロノス</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ko">크로노스</lido:appellationValue>
+                           <lido:appellationValue xml:lang="nl">Chronos</lido:appellationValue>
+                           <lido:appellationValue xml:lang="pl">Chronos</lido:appellationValue>
+                           <lido:appellationValue xml:lang="pt">Chronos</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ru">Хронос</lido:appellationValue>
+                           <lido:appellationValue xml:lang="th">โครนอส</lido:appellationValue>
+                           <lido:appellationValue xml:lang="tl">Chronos</lido:appellationValue>
+                           <lido:appellationValue xml:lang="zh">柯羅諾斯</lido:appellationValue>
+                        </lido:nameActorSet>
+                     </lido:actor>
+                  </lido:subjectActor>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectActor>
+                     <lido:displayActor>Aeternitas (Mythologie)</lido:displayActor>
+                     <lido:actor>
+                        <lido:actorID lido:source="Wikipedia" lido:type="uri">https://nl.wikipedia.org/wiki/Aeternitas_(mythologie)</lido:actorID>
+                        <lido:actorID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q381914</lido:actorID>
+                        <lido:actorID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/persinst/25707</lido:actorID>
+                        <lido:nameActorSet>
+                           <lido:appellationValue>Aeternitas (Mythologie)</lido:appellationValue>
+                        </lido:nameActorSet>
+                     </lido:actor>
+                  </lido:subjectActor>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Uhr</lido:conceptID>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4164176-0</lido:conceptID>
+                     <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh85027100</lido:conceptID>
+                     <lido:conceptID lido:source="aat" lido:type="uri">http://vocab.getty.edu/aat/300041575</lido:conceptID>
+                     <lido:conceptID lido:source="grobsystematik" lido:type="uri">https://term.museum-digital.de/grobsystematik/tag/13321</lido:conceptID>
+                     <lido:conceptID lido:source="oberbegriffsdatei" lido:type="uri">https://term.museum-digital.de/Oberbegriffsdatei/tag/2036</lido:conceptID>
+                     <lido:conceptID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q376</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/1331</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Uhr</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ar">ساعة</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="bn">ঘড়ি</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="cs">Hodiny</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="da">Ur</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="el">Ρολόι</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="en">Clock</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="es">Reloj</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fa">ساعت</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fi">Kello</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fr">Horloge</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ha">agogo</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="he">שעון</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hi">घडी</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hu">óra</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="id">Jam</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="it">Orologio</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ja">時計</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ka">საათი</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ko">시계</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="nl">Klok</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pl">Zegar</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pt">Relógio</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ro">ceas</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ru">часы</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sv">Klocka</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sw">saa</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ta">கடிகாரம்</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="th">นาฬิกา</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tl">Orasan</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tr">Saat</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ur">گھنٹا</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="vi">Đồng hồ</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="zh">時鐘</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh85123727</lido:conceptID>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Schlangen</lido:conceptID>
+                     <lido:conceptID lido:source="oberbegriffsdatei" lido:type="uri">https://term.museum-digital.de/oberbegriffsdatei/tag/4005</lido:conceptID>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4052617-3</lido:conceptID>
+                     <lido:conceptID lido:source="aat" lido:type="uri">http://vocab.getty.edu/aat/300250870</lido:conceptID>
+                     <lido:conceptID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q2102</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/4590</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Schlange</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ar">ثعبان</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="bn">সাপ</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="cs">Hadi</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="da">Slange</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="el">φίδι</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="en">Snake</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="es">Serpiente</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fa">مار</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fi">Käärmeet</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fr">Serpent</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ha">maciji</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="he">נחש</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hi">साँप</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hu">kígyó</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="id">Ular</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="it">Serpente</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ja">ヘビ</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ka">გველები</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ko">뱀</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="nl">Slangen</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pl">Węże</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pt">Serpente</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ru">змеи</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sv">Ormar</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sw">nyoka</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ta">பாம்பு</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="th">งู</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tl">Ahas</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tr">Yılan</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ur">سانپ</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="vi">rắn</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="zh">蛇</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">http://d-nb.info/gnd/4127004-6</lido:conceptID>
+                     <lido:conceptID lido:source="grobsystematik" lido:type="uri">https://term.museum-digital.de/grobsystematik/tag/12840</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/10272</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Tischuhr</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="en">Table clock</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Stockuhr</lido:conceptID>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4705186-3</lido:conceptID>
+                     <lido:conceptID lido:source="grobsystematik" lido:type="uri">https://term.museum-digital.de/grobsystematik/tag/12243</lido:conceptID>
+                     <lido:conceptID lido:source="oberbegriffsdatei" lido:type="uri">https://term.museum-digital.de/oberbegriffsdatei/tag/5211</lido:conceptID>
+                     <lido:conceptID lido:source="aat" lido:type="uri">http://vocab.getty.edu/aat/300041603</lido:conceptID>
+                     <lido:conceptID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q2350836</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/21322</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Stutzuhr</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="en">Bracket clock</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/86429</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Porzellanuhr</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+         </lido:subjectWrap>
+         <lido:relatedWorksWrap>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:displayObject>Stiftung Preußische Schlösser und Gärten, Inv. Nr. XII 40, Christian Ernst Kleemeyer, Pendule mit Figur der Ewigkeit, um/nach 1769&lt;br&gt;
+Stiftung Preußische Schlösser und Gärten, Inv. Nr. XII 8097 (unsigniert)&lt;br&gt;
+Stiftung Preußische Schlösser und Gärten, KPM-Porzellansammlung des Landes Berlin, Inv. Nr. B 72/11 a-e (Kleemeyer)&lt;br&gt;
+Stiftung Stadtmuseum Berlin,  Inv.Nr. II 61/154 i a-d (Buschberg)</lido:displayObject>
+               </lido:relatedWork>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:displayObject>Stiftung Preußische Schlösser und Gärten, Inv. Nr. XII 40, Christian Ernst Kleemeyer, Pendule mit Figur der Ewigkeit, um/nach 1769</lido:displayObject>
+                  <lido:object>
+                     <lido:objectWebResource>https://brandenburg.museum-digital.de/index.php?t=objekt&amp;oges=46689</lido:objectWebResource>
+                  </lido:object>
+               </lido:relatedWork>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:displayObject>Kiesant, Silke, 2013: Prunkuhren am brandenburgisch-preußischen Hof im 18. Jahrhundert. Mit einem Katalog ausgewählter Uhren Friedrichs II. und Friedrich Wilhelms II. von Preußen, Petersberg, S. 330-334, Kat. 27</lido:displayObject>
+                  <lido:object>
+                     <lido:objectID lido:type="ISBN">978-3-86568-793-7</lido:objectID>
+                  </lido:object>
+               </lido:relatedWork>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:displayObject>Köllman, Erich; Jarchow, Margarethe, 1987: Berliner Porzellan, München, Bd. 1, S. 186</lido:displayObject>
+               </lido:relatedWork>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:displayObject>Lenz, Georg, 1913: Berliner Porzellan. Die Manufaktur Friedrichs des Grossen 1763-1786. Hrsg. im Auftrag und mit Unterstützung des Ministeriums für Handel und Gewerbe zum 150jährigen Bestehen der Königlichen Porzellan-Manufaktur zu Berlin, Berlin, Bd. 1, Abb. 139, 140</lido:displayObject>
+               </lido:relatedWork>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:displayObject>Abeler, Jürgen, 2010: Meister der Uhrmacherkunst, Wuppertal, S. 91</lido:displayObject>
+               </lido:relatedWork>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:displayObject>Chapuis, Alfred, 1938: Le Grand Frederic et ses horlogers. Une émigration d’horloges suisses au XVIIIme siècles. Un demi-siècle d’horlogerie berlinoise (1760-1810), Lausanne, S. 55</lido:displayObject>
+               </lido:relatedWork>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:displayObject>König, Gerhard, 1988: Uhren und Uhrmacherei in Berlin 1450–1900 (= Miniaturen zur Geschichte, Kultur und Denkmalpflege Berlins; 24), Berlin, S. 68</lido:displayObject>
+               </lido:relatedWork>
+            </lido:relatedWorkSet>
+         </lido:relatedWorksWrap>
+      </lido:objectRelationWrap>
+   </lido:descriptiveMetadata>
+   <lido:administrativeMetadata xml:lang="de">
+      <lido:rightsWorkWrap>
+         <lido:rightsWorkSet>
+            <lido:rightsHolder>
+               <lido:legalBodyName>
+                  <lido:appellationValue>Stiftung Stadtmuseum Berlin</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:rightsHolder>
+         </lido:rightsWorkSet>
+      </lido:rightsWorkWrap>
+      <lido:recordWrap>
+         <lido:recordID lido:type="museum-digital">66200</lido:recordID>
+         <lido:recordType>
+            <lido:term lido:addedSearchTerm="no">item</lido:term>
+         </lido:recordType>
+         <lido:recordSource lido:type="dataProvider">
+            <lido:legalBodyName>
+               <lido:appellationValue>museum-digital</lido:appellationValue>
+            </lido:legalBodyName>
+            <lido:legalBodyWeblink>https://berlin.museum-digital.de/</lido:legalBodyWeblink>
+         </lido:recordSource>
+         <lido:recordSource>
+            <lido:legalBodyID lido:type="isil">DE-MUS-061525</lido:legalBodyID>
+            <lido:legalBodyName>
+               <lido:appellationValue>Stiftung Stadtmuseum Berlin</lido:appellationValue>
+            </lido:legalBodyName>
+         </lido:recordSource>
+         <lido:recordRights>
+            <lido:rightsType>
+               <lido:conceptID lido:type="uri">https://creativecommons.org/publicdomain/zero/1.0/</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no">CC 0</lido:term>
+            </lido:rightsType>
+            <lido:rightsHolder>
+               <lido:legalBodyID lido:type="isil">DE-MUS-061525</lido:legalBodyID>
+               <lido:legalBodyName>
+                  <lido:appellationValue>Stiftung Stadtmuseum Berlin</lido:appellationValue>
+               </lido:legalBodyName>
+               <lido:legalBodyWeblink>https://www.stadtmuseum.de</lido:legalBodyWeblink>
+            </lido:rightsHolder>
+            <lido:creditLine>Förderprogramm zur Digitalisierung von Objekten des kulturellen Erbes des Landes Berlin</lido:creditLine>
+         </lido:recordRights>
+         <lido:recordInfoSet>
+            <lido:recordInfoLink>https://berlin.museum-digital.de/index.php?t=objekt&amp;oges=66200</lido:recordInfoLink>
+            <lido:recordMetadataDate>2021-02-23 13:38:53</lido:recordMetadataDate>
+         </lido:recordInfoSet>
+      </lido:recordWrap>
+      <lido:resourceWrap>
+         <lido:resourceSet lido:sortorder="1">
+            <lido:resourceID lido:source="image" lido:type="local">51440</lido:resourceID>
+            <lido:resourceRepresentation lido:type="image_thumb">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/66200-kgk_681_a__b/kgk_68-1_a__b/100h_kgk-68-1-a-b-66200.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_preview">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/66200-kgk_681_a__b/kgk_68-1_a__b/200w_kgk-68-1-a-b-66200.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/66200-kgk_681_a__b/kgk_68-1_a__b/kgk-68-1-a-b-66200.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceType>
+               <lido:term>image</lido:term>
+            </lido:resourceType>
+            <lido:resourceSource lido:type="creator">
+               <lido:legalBodyName>
+                  <lido:appellationValue>Oliver Ziebe, Berlin (2020)</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:resourceSource>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+                  <lido:term>CC BY 4.0</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Stiftung Stadtmuseum Berlin</lido:appellationValue>
+                  </lido:legalBodyName>
+               </lido:rightsHolder>
+            </lido:rightsResource>
+         </lido:resourceSet>
+         <lido:resourceSet lido:sortorder="2">
+            <lido:resourceID lido:source="image" lido:type="local">51441</lido:resourceID>
+            <lido:resourceRepresentation lido:type="image_thumb">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/66200-kgk_681_a__b/kgk_68-1_a__b/100h_kgk-68-1-a-b-66200-2.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_preview">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/66200-kgk_681_a__b/kgk_68-1_a__b/200w_kgk-68-1-a-b-66200-2.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/66200-kgk_681_a__b/kgk_68-1_a__b/kgk-68-1-a-b-66200-2.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceType>
+               <lido:term>image</lido:term>
+            </lido:resourceType>
+            <lido:resourceSource lido:type="creator">
+               <lido:legalBodyName>
+                  <lido:appellationValue>Oliver Ziebe, Berlin (2020)</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:resourceSource>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+                  <lido:term>CC BY 4.0</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Stiftung Stadtmuseum Berlin</lido:appellationValue>
+                  </lido:legalBodyName>
+               </lido:rightsHolder>
+            </lido:rightsResource>
+         </lido:resourceSet>
+         <lido:resourceSet lido:sortorder="3">
+            <lido:resourceID lido:source="image" lido:type="local">51442</lido:resourceID>
+            <lido:resourceRepresentation lido:type="image_thumb">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/66200-kgk_681_a__b/kgk_68-1_a__b/100h_kgk-68-1-a-b-66200-3.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_preview">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/66200-kgk_681_a__b/kgk_68-1_a__b/200w_kgk-68-1-a-b-66200-3.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/66200-kgk_681_a__b/kgk_68-1_a__b/kgk-68-1-a-b-66200-3.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceType>
+               <lido:term>image</lido:term>
+            </lido:resourceType>
+            <lido:resourceSource lido:type="creator">
+               <lido:legalBodyName>
+                  <lido:appellationValue>Oliver Ziebe, Berlin (2020)</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:resourceSource>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+                  <lido:term>CC BY 4.0</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Stiftung Stadtmuseum Berlin</lido:appellationValue>
+                  </lido:legalBodyName>
+               </lido:rightsHolder>
+            </lido:rightsResource>
+         </lido:resourceSet>
+         <lido:resourceSet lido:sortorder="4">
+            <lido:resourceID lido:source="image" lido:type="local">51443</lido:resourceID>
+            <lido:resourceRepresentation lido:type="image_thumb">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/66200-kgk_681_a__b/kgk_68-1_a__b/100h_kgk-68-1-a-b-66200-4.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_preview">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/66200-kgk_681_a__b/kgk_68-1_a__b/200w_kgk-68-1-a-b-66200-4.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/66200-kgk_681_a__b/kgk_68-1_a__b/kgk-68-1-a-b-66200-4.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceType>
+               <lido:term>image</lido:term>
+            </lido:resourceType>
+            <lido:resourceSource lido:type="creator">
+               <lido:legalBodyName>
+                  <lido:appellationValue>Oliver Ziebe, Berlin (2020)</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:resourceSource>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+                  <lido:term>CC BY 4.0</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Stiftung Stadtmuseum Berlin</lido:appellationValue>
+                  </lido:legalBodyName>
+               </lido:rightsHolder>
+            </lido:rightsResource>
+         </lido:resourceSet>
+         <lido:resourceSet lido:sortorder="5">
+            <lido:resourceID lido:source="image" lido:type="local">51444</lido:resourceID>
+            <lido:resourceRepresentation lido:type="image_thumb">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/66200-kgk_681_a__b/kgk_68-1_a__b/100h_kgk-68-1-a-b-66200-5.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_preview">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/66200-kgk_681_a__b/kgk_68-1_a__b/200w_kgk-68-1-a-b-66200-5.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/66200-kgk_681_a__b/kgk_68-1_a__b/kgk-68-1-a-b-66200-5.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceType>
+               <lido:term>image</lido:term>
+            </lido:resourceType>
+            <lido:resourceRelType>
+               <lido:term>Hauptansicht</lido:term>
+            </lido:resourceRelType>
+            <lido:resourceSource lido:type="creator">
+               <lido:legalBodyName>
+                  <lido:appellationValue>Oliver Ziebe, Berlin (2020)</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:resourceSource>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+                  <lido:term>CC BY 4.0</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Stiftung Stadtmuseum Berlin</lido:appellationValue>
+                  </lido:legalBodyName>
+               </lido:rightsHolder>
+            </lido:rightsResource>
+         </lido:resourceSet>
+         <lido:resourceSet lido:sortorder="6">
+            <lido:resourceID lido:source="image" lido:type="local">51445</lido:resourceID>
+            <lido:resourceRepresentation lido:type="image_thumb">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/66200-kgk_681_a__b/kgk_68-1_a__b/100h_kgk-68-1-a-b-66200-6.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_preview">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/66200-kgk_681_a__b/kgk_68-1_a__b/200w_kgk-68-1-a-b-66200-6.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/66200-kgk_681_a__b/kgk_68-1_a__b/kgk-68-1-a-b-66200-6.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceType>
+               <lido:term>image</lido:term>
+            </lido:resourceType>
+            <lido:resourceSource lido:type="creator">
+               <lido:legalBodyName>
+                  <lido:appellationValue>Oliver Ziebe, Berlin (2020)</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:resourceSource>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+                  <lido:term>CC BY 4.0</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Stiftung Stadtmuseum Berlin</lido:appellationValue>
+                  </lido:legalBodyName>
+               </lido:rightsHolder>
+            </lido:rightsResource>
+         </lido:resourceSet>
+         <lido:resourceSet lido:sortorder="7">
+            <lido:resourceID lido:source="image" lido:type="local">51446</lido:resourceID>
+            <lido:resourceRepresentation lido:type="image_thumb">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/66200-kgk_681_a__b/kgk_68-1_a__b/100h_kgk-68-1-a-b-66200-7.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_preview">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/66200-kgk_681_a__b/kgk_68-1_a__b/200w_kgk-68-1-a-b-66200-7.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/66200-kgk_681_a__b/kgk_68-1_a__b/kgk-68-1-a-b-66200-7.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceType>
+               <lido:term>image</lido:term>
+            </lido:resourceType>
+            <lido:resourceSource lido:type="creator">
+               <lido:legalBodyName>
+                  <lido:appellationValue>Oliver Ziebe, Berlin (2020)</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:resourceSource>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+                  <lido:term>CC BY 4.0</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Stiftung Stadtmuseum Berlin</lido:appellationValue>
+                  </lido:legalBodyName>
+               </lido:rightsHolder>
+            </lido:rightsResource>
+         </lido:resourceSet>
+         <lido:resourceSet lido:sortorder="8">
+            <lido:resourceID lido:source="image" lido:type="local">51447</lido:resourceID>
+            <lido:resourceRepresentation lido:type="image_thumb">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/66200-kgk_681_a__b/kgk_68-1_a__b/100h_kgk-68-1-a-b-66200-8.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_preview">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/66200-kgk_681_a__b/kgk_68-1_a__b/200w_kgk-68-1-a-b-66200-8.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/66200-kgk_681_a__b/kgk_68-1_a__b/kgk-68-1-a-b-66200-8.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceType>
+               <lido:term>image</lido:term>
+            </lido:resourceType>
+            <lido:resourceSource lido:type="creator">
+               <lido:legalBodyName>
+                  <lido:appellationValue>Oliver Ziebe, Berlin (2020)</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:resourceSource>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+                  <lido:term>CC BY 4.0</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Stiftung Stadtmuseum Berlin</lido:appellationValue>
+                  </lido:legalBodyName>
+               </lido:rightsHolder>
+            </lido:rightsResource>
+         </lido:resourceSet>
+         <lido:resourceSet lido:sortorder="9">
+            <lido:resourceID lido:source="image" lido:type="local">51448</lido:resourceID>
+            <lido:resourceRepresentation lido:type="image_thumb">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/66200-kgk_681_a__b/kgk_68-1_a__b/100h_kgk-68-1-a-b-66200-9.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_preview">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/66200-kgk_681_a__b/kgk_68-1_a__b/200w_kgk-68-1-a-b-66200-9.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/66200-kgk_681_a__b/kgk_68-1_a__b/kgk-68-1-a-b-66200-9.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceType>
+               <lido:term>image</lido:term>
+            </lido:resourceType>
+            <lido:resourceSource lido:type="creator">
+               <lido:legalBodyName>
+                  <lido:appellationValue>Oliver Ziebe, Berlin (2020)</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:resourceSource>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+                  <lido:term>CC BY 4.0</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Stiftung Stadtmuseum Berlin</lido:appellationValue>
+                  </lido:legalBodyName>
+               </lido:rightsHolder>
+            </lido:rightsResource>
+         </lido:resourceSet>
+         <lido:resourceSet lido:sortorder="10">
+            <lido:resourceID lido:source="image" lido:type="local">51449</lido:resourceID>
+            <lido:resourceRepresentation lido:type="image_thumb">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/66200-kgk_681_a__b/kgk_68-1_a__b/100h_kgk-68-1-a-b-66200-10.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_preview">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/66200-kgk_681_a__b/kgk_68-1_a__b/200w_kgk-68-1-a-b-66200-10.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/66200-kgk_681_a__b/kgk_68-1_a__b/kgk-68-1-a-b-66200-10.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceType>
+               <lido:term>image</lido:term>
+            </lido:resourceType>
+            <lido:resourceSource lido:type="creator">
+               <lido:legalBodyName>
+                  <lido:appellationValue>Oliver Ziebe, Berlin (2020)</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:resourceSource>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+                  <lido:term>CC BY 4.0</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Stiftung Stadtmuseum Berlin</lido:appellationValue>
+                  </lido:legalBodyName>
+               </lido:rightsHolder>
+            </lido:rightsResource>
+         </lido:resourceSet>
+         <lido:resourceSet lido:sortorder="11">
+            <lido:resourceID lido:source="image" lido:type="local">51450</lido:resourceID>
+            <lido:resourceRepresentation lido:type="image_thumb">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/66200-kgk_681_a__b/kgk_68-1_a__b/100h_kgk-68-1-a-b-66200-11.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_preview">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/66200-kgk_681_a__b/kgk_68-1_a__b/200w_kgk-68-1-a-b-66200-11.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/66200-kgk_681_a__b/kgk_68-1_a__b/kgk-68-1-a-b-66200-11.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceType>
+               <lido:term>image</lido:term>
+            </lido:resourceType>
+            <lido:resourceSource lido:type="creator">
+               <lido:legalBodyName>
+                  <lido:appellationValue>Oliver Ziebe, Berlin (2020)</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:resourceSource>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+                  <lido:term>CC BY 4.0</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Stiftung Stadtmuseum Berlin</lido:appellationValue>
+                  </lido:legalBodyName>
+               </lido:rightsHolder>
+            </lido:rightsResource>
+         </lido:resourceSet>
+         <lido:resourceSet lido:sortorder="12">
+            <lido:resourceID lido:source="image" lido:type="local">59892</lido:resourceID>
+            <lido:resourceRepresentation lido:type="image_thumb">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/66200-kgk_681_a__b/carl_ludwig_buschberg_stu/100h_carl-ludwig-buschberg-stutzuhr-mit-chronos-und-aeternitas-auf-sockel-um-1775-inv-nr-kgk-68.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_preview">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/66200-kgk_681_a__b/carl_ludwig_buschberg_stu/200w_carl-ludwig-buschberg-stutzuhr-mit-chronos-und-aeternitas-auf-sockel-um-1775-inv-nr-kgk-68.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/66200-kgk_681_a__b/carl_ludwig_buschberg_stu/carl-ludwig-buschberg-stutzuhr-mit-chronos-und-aeternitas-auf-sockel-um-1775-inv-nr-kgk-68.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceType>
+               <lido:term>image</lido:term>
+            </lido:resourceType>
+            <lido:resourceSource lido:type="creator">
+               <lido:legalBodyName>
+                  <lido:appellationValue>Oliver Ziebe, Berlin (2020)</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:resourceSource>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+                  <lido:term>CC BY 4.0</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Stiftung Stadtmuseum Berlin</lido:appellationValue>
+                  </lido:legalBodyName>
+               </lido:rightsHolder>
+            </lido:rightsResource>
+         </lido:resourceSet>
+         <lido:resourceSet lido:sortorder="13">
+            <lido:resourceID lido:source="image" lido:type="local">51451</lido:resourceID>
+            <lido:resourceRepresentation lido:type="image_thumb">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/66200-kgk_681_a__b/kgk_68-1_a__b/100h_kgk-68-1-a-b-66200-12.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_preview">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/66200-kgk_681_a__b/kgk_68-1_a__b/200w_kgk-68-1-a-b-66200-12.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/66200-kgk_681_a__b/kgk_68-1_a__b/kgk-68-1-a-b-66200-12.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceType>
+               <lido:term>image</lido:term>
+            </lido:resourceType>
+            <lido:resourceSource lido:type="creator">
+               <lido:legalBodyName>
+                  <lido:appellationValue>Oliver Ziebe, Berlin (2020)</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:resourceSource>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+                  <lido:term>CC BY 4.0</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Stiftung Stadtmuseum Berlin</lido:appellationValue>
+                  </lido:legalBodyName>
+               </lido:rightsHolder>
+            </lido:rightsResource>
+         </lido:resourceSet>
+         <lido:resourceSet lido:sortorder="14">
+            <lido:resourceID lido:source="image" lido:type="local">51453</lido:resourceID>
+            <lido:resourceRepresentation lido:type="image_thumb">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/66200-kgk_681_a__b/kgk_68-1_a__b/100h_kgk-68-1-a-b-66200-14.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_preview">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/66200-kgk_681_a__b/kgk_68-1_a__b/200w_kgk-68-1-a-b-66200-14.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/66200-kgk_681_a__b/kgk_68-1_a__b/kgk-68-1-a-b-66200-14.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceType>
+               <lido:term>image</lido:term>
+            </lido:resourceType>
+            <lido:resourceSource lido:type="creator">
+               <lido:legalBodyName>
+                  <lido:appellationValue>Oliver Ziebe, Berlin (2020)</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:resourceSource>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+                  <lido:term>CC BY 4.0</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Stiftung Stadtmuseum Berlin</lido:appellationValue>
+                  </lido:legalBodyName>
+               </lido:rightsHolder>
+            </lido:rightsResource>
+         </lido:resourceSet>
+      </lido:resourceWrap>
+   </lido:administrativeMetadata>
+</lido:lido>
+

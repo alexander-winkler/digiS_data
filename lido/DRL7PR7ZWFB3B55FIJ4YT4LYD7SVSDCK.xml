@@ -1,0 +1,561 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lido:lido xmlns:lido="http://www.lido-schema.org"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <lido:lidoRecID lido:type="local">DE-MUS-275412/305237</lido:lidoRecID>
+    <lido:category>
+      <lido:conceptID lido:type="URI">http://www.cidoc-crm.org/crm-concepts/E22</lido:conceptID>
+      <lido:term xml:lang="en">Man-Made Object</lido:term>
+    </lido:category>
+    <lido:descriptiveMetadata xml:lang="de">
+      <lido:objectClassificationWrap>
+        <lido:objectWorkTypeWrap>
+            <lido:objectWorkType lido:sortorder="1">
+               <lido:conceptID lido:source="http://vocab.getty.edu/aat/" lido:type="URI">http://vocab.getty.edu/aat/300026367</lido:conceptID>
+               <lido:term>Lehrmaterial</lido:term>
+            </lido:objectWorkType>
+        </lido:objectWorkTypeWrap>
+        <lido:classificationWrap>
+            <lido:classification lido:type="Sammlung">
+               <lido:term>Dokumentesammlung</lido:term>
+            </lido:classification>
+        </lido:classificationWrap>
+      </lido:objectClassificationWrap>
+      <lido:objectIdentificationWrap>
+        <lido:titleWrap>
+            <lido:titleSet>
+               <lido:appellationValue lido:pref="preferred">Das Gießgefäß Gruppe G II (Leporello zur Werkbundkiste)</lido:appellationValue>
+            </lido:titleSet>
+        </lido:titleWrap>
+        <lido:repositoryWrap>
+            <lido:repositorySet lido:type="current">
+               <lido:repositoryName>
+                  <lido:legalBodyID lido:source="ISIL (ISO 15511)" lido:type="URI">info:isil/DE-MUS-275412</lido:legalBodyID>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Werkbundarchiv - Museum der Dinge, Berlin</lido:appellationValue>
+                  </lido:legalBodyName>
+                  <lido:legalBodyWeblink>http://www.museumderdinge.de</lido:legalBodyWeblink>
+               </lido:repositoryName>
+               <lido:workID lido:type="inventory number">D 2108-01</lido:workID>
+            </lido:repositorySet>
+        </lido:repositoryWrap>
+        <lido:objectDescriptionWrap>
+            <lido:objectDescriptionSet lido:type="Bemerkungen">
+               <lido:descriptiveNoteValue>S. Werkbundkiste O 225-00ff. und Leporello D 2108-00.
+</lido:descriptiveNoteValue>
+            </lido:objectDescriptionSet>
+            <lido:objectDescriptionSet lido:type="Beschreibung">
+               <lido:descriptiveNoteValue>34 schwarz-weiß Fotos mit diversen Motiven sind auf grauer Pappe aufgeklebt und diese ziehharmonikaartig zusammengefaltet, ein Teil ist auf dem linken ein Teil ist auf dem rechten Innendeckel angebracht.
+Das Leporello ist in der Mitte aufklappbar, der linke Teil enthält die Fotos bis Nr. 11, der rechte bis Nr. 34.</lido:descriptiveNoteValue>
+            </lido:objectDescriptionSet>
+        </lido:objectDescriptionWrap>
+        <lido:objectMeasurementsWrap>
+            <lido:objectMeasurementsSet>
+               <lido:displayObjectMeasurements>Blattmass: 26,7 x 14 cm</lido:displayObjectMeasurements>
+               <lido:objectMeasurements>
+                  <lido:measurementsSet>
+                     <lido:measurementType>Höhe</lido:measurementType>
+                     <lido:measurementUnit>mm</lido:measurementUnit>
+                     <lido:measurementValue>267</lido:measurementValue>
+                  </lido:measurementsSet>
+                  <lido:measurementsSet>
+                     <lido:measurementType>Breite</lido:measurementType>
+                     <lido:measurementUnit>mm</lido:measurementUnit>
+                     <lido:measurementValue>140</lido:measurementValue>
+                  </lido:measurementsSet>
+               </lido:objectMeasurements>
+            </lido:objectMeasurementsSet>
+        </lido:objectMeasurementsWrap>
+      </lido:objectIdentificationWrap>
+      <lido:eventWrap>
+        <lido:eventSet lido:sortorder="1">
+            <lido:event>
+               <lido:eventType>
+                  <lido:conceptID lido:source="http://terminology.lido-schema.org" lido:type="URI">http://terminology.lido-schema.org/lido00007</lido:conceptID>
+                  <lido:term>Herstellung</lido:term>
+               </lido:eventType>
+               <lido:eventActor lido:sortorder="1">
+                  <lido:displayActorInRole>Geschäftsstelle für die Ergänzung des Kunstunterrichts an den Schulen Karlsruhe (*1955), Herausgeber/in</lido:displayActorInRole>
+                  <lido:actorInRole>
+                     <lido:actor>
+                        <lido:nameActorSet>
+                           <lido:appellationValue>Geschäftsstelle für die Ergänzung des Kunstunterrichts an den Schulen Karlsruhe</lido:appellationValue>
+                        </lido:nameActorSet>
+                     </lido:actor>
+                     <lido:roleActor>
+                        <lido:term>Herausgeber/in</lido:term>
+                     </lido:roleActor>
+                  </lido:actorInRole>
+               </lido:eventActor>
+               <lido:eventActor lido:sortorder="6">
+                  <lido:displayActorInRole>Badisches Landesmuseum Karlsruhe (*1919), Herausgeber/in</lido:displayActorInRole>
+                  <lido:actorInRole>
+                     <lido:actor>
+                        <lido:actorID lido:source="http://d-nb.info/gnd/" lido:type="URI">http://d-nb.info/gnd/2005684-9</lido:actorID>
+                        <lido:nameActorSet>
+                           <lido:appellationValue>Badisches Landesmuseum Karlsruhe</lido:appellationValue>
+                        </lido:nameActorSet>
+                     </lido:actor>
+                     <lido:roleActor>
+                        <lido:term>Herausgeber/in</lido:term>
+                     </lido:roleActor>
+                  </lido:actorInRole>
+               </lido:eventActor>
+               <lido:eventDate>
+                  <lido:displayDate>September 1956</lido:displayDate>
+                  <lido:date>
+                     <lido:earliestDate>1956</lido:earliestDate>
+                     <lido:latestDate>1956</lido:latestDate>
+                  </lido:date>
+               </lido:eventDate>
+               <lido:eventMaterialsTech>
+                  <lido:displayMaterialsTech>Pappe, Papier, s/w Fotos</lido:displayMaterialsTech>
+               </lido:eventMaterialsTech>
+            </lido:event>
+        </lido:eventSet>
+      </lido:eventWrap>
+      <lido:objectRelationWrap>
+        <lido:relatedWorksWrap>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:object>
+                     <lido:objectID lido:type="local">DE-MUS-275412/278678</lido:objectID>
+                     <lido:objectNote>O 225-00, Geschäftsstelle für die Ergänzung des Kunstunterrichts an den Schulen Karlsruhe, Werkbundkiste Das Gießgefäß, September 1956</lido:objectNote>
+                  </lido:object>
+               </lido:relatedWork>
+               <lido:relatedWorkRelType>
+                  <lido:term>inhaltlicher Bezug zu</lido:term>
+               </lido:relatedWorkRelType>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:object>
+                     <lido:objectID lido:type="local">DE-MUS-275412/271212</lido:objectID>
+                     <lido:objectNote>D 2108-00, Geschäftsstelle für die Ergänzung des Kunstunterrichts an den Schulen Karlsruhe, Textbuch zur Werkbundkiste, September 1956</lido:objectNote>
+                  </lido:object>
+               </lido:relatedWork>
+               <lido:relatedWorkRelType>
+                  <lido:term>inhaltlicher Bezug zu</lido:term>
+               </lido:relatedWorkRelType>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:object>
+                     <lido:objectID lido:type="local">DE-MUS-275412/282177</lido:objectID>
+                     <lido:objectNote>O 225-01, Geschäftsstelle für die Ergänzung des Kunstunterrichts an den Schulen Karlsruhe, Werkbundkiste Das Gießgefäß, Bildtafel, 1956</lido:objectNote>
+                  </lido:object>
+               </lido:relatedWork>
+               <lido:relatedWorkRelType>
+                  <lido:term>inhaltlicher Bezug zu</lido:term>
+               </lido:relatedWorkRelType>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:object>
+                     <lido:objectID lido:type="local">DE-MUS-275412/282178</lido:objectID>
+                     <lido:objectNote>O 225-02, Geschäftsstelle für die Ergänzung des Kunstunterrichts an den Schulen Karlsruhe, Werkbundkiste Das Gießgefäß, Bildtafel, 1956</lido:objectNote>
+                  </lido:object>
+               </lido:relatedWork>
+               <lido:relatedWorkRelType>
+                  <lido:term>inhaltlicher Bezug zu</lido:term>
+               </lido:relatedWorkRelType>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:object>
+                     <lido:objectID lido:type="local">DE-MUS-275412/282179</lido:objectID>
+                     <lido:objectNote>O 225-03, Geschäftsstelle für die Ergänzung des Kunstunterrichts an den Schulen Karlsruhe, Werkbundkiste Das Gießgefäß, Bildtafel, 1956</lido:objectNote>
+                  </lido:object>
+               </lido:relatedWork>
+               <lido:relatedWorkRelType>
+                  <lido:term>inhaltlicher Bezug zu</lido:term>
+               </lido:relatedWorkRelType>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:object>
+                     <lido:objectID lido:type="local">DE-MUS-275412/282180</lido:objectID>
+                     <lido:objectNote>O 225-04, Geschäftsstelle für die Ergänzung des Kunstunterrichts an den Schulen Karlsruhe, Werkbundkiste Das Gießgefäß, Bildtafel, 1956</lido:objectNote>
+                  </lido:object>
+               </lido:relatedWork>
+               <lido:relatedWorkRelType>
+                  <lido:term>inhaltlicher Bezug zu</lido:term>
+               </lido:relatedWorkRelType>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:object>
+                     <lido:objectID lido:type="local">DE-MUS-275412/282181</lido:objectID>
+                     <lido:objectNote>O 225-05, Geschäftsstelle für die Ergänzung des Kunstunterrichts an den Schulen Karlsruhe, Werkbundkiste Das Gießgefäß, Bildtafel, 1956</lido:objectNote>
+                  </lido:object>
+               </lido:relatedWork>
+               <lido:relatedWorkRelType>
+                  <lido:term>inhaltlicher Bezug zu</lido:term>
+               </lido:relatedWorkRelType>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:object>
+                     <lido:objectID lido:type="local">DE-MUS-275412/282182</lido:objectID>
+                     <lido:objectNote>O 225-06, Geschäftsstelle für die Ergänzung des Kunstunterrichts an den Schulen Karlsruhe, Werkbundkiste Das Gießgefäß, Bildtafel, 1956</lido:objectNote>
+                  </lido:object>
+               </lido:relatedWork>
+               <lido:relatedWorkRelType>
+                  <lido:term>inhaltlicher Bezug zu</lido:term>
+               </lido:relatedWorkRelType>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:object>
+                     <lido:objectID lido:type="local">DE-MUS-275412/282183</lido:objectID>
+                     <lido:objectNote>O 225-07, Geschäftsstelle für die Ergänzung des Kunstunterrichts an den Schulen Karlsruhe, Werkbundkiste Das Gießgefäß, Bildtafel, 1956</lido:objectNote>
+                  </lido:object>
+               </lido:relatedWork>
+               <lido:relatedWorkRelType>
+                  <lido:term>inhaltlicher Bezug zu</lido:term>
+               </lido:relatedWorkRelType>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:object>
+                     <lido:objectID lido:type="local">DE-MUS-275412/282184</lido:objectID>
+                     <lido:objectNote>O 225-08, Geschäftsstelle für die Ergänzung des Kunstunterrichts an den Schulen Karlsruhe, Werkbundkiste Das Gießgefäß, Bildtafel, 1956</lido:objectNote>
+                  </lido:object>
+               </lido:relatedWork>
+               <lido:relatedWorkRelType>
+                  <lido:term>inhaltlicher Bezug zu</lido:term>
+               </lido:relatedWorkRelType>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:object>
+                     <lido:objectID lido:type="local">DE-MUS-275412/282185</lido:objectID>
+                     <lido:objectNote>O 225-09, Geschäftsstelle für die Ergänzung des Kunstunterrichts an den Schulen Karlsruhe, Werkbundkiste Das Gießgefäß, Bildtafel, 1956</lido:objectNote>
+                  </lido:object>
+               </lido:relatedWork>
+               <lido:relatedWorkRelType>
+                  <lido:term>inhaltlicher Bezug zu</lido:term>
+               </lido:relatedWorkRelType>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:object>
+                     <lido:objectID lido:type="local">DE-MUS-275412/282186</lido:objectID>
+                     <lido:objectNote>O 225-10, Geschäftsstelle für die Ergänzung des Kunstunterrichts an den Schulen Karlsruhe, Werkbundkiste Das Gießgefäß, Bildtafel, 1956</lido:objectNote>
+                  </lido:object>
+               </lido:relatedWork>
+               <lido:relatedWorkRelType>
+                  <lido:term>inhaltlicher Bezug zu</lido:term>
+               </lido:relatedWorkRelType>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:object>
+                     <lido:objectID lido:type="local">DE-MUS-275412/282187</lido:objectID>
+                     <lido:objectNote>O 225-11, Geschäftsstelle für die Ergänzung des Kunstunterrichts an den Schulen Karlsruhe, Werkbundkiste Das Gießgefäß, Bildtafel, 1956</lido:objectNote>
+                  </lido:object>
+               </lido:relatedWork>
+               <lido:relatedWorkRelType>
+                  <lido:term>inhaltlicher Bezug zu</lido:term>
+               </lido:relatedWorkRelType>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:object>
+                     <lido:objectID lido:type="local">DE-MUS-275412/282188</lido:objectID>
+                     <lido:objectNote>O 225-12, Geschäftsstelle für die Ergänzung des Kunstunterrichts an den Schulen Karlsruhe, Werkbundkiste Das Gießgefäß, Bildtafel, 1956</lido:objectNote>
+                  </lido:object>
+               </lido:relatedWork>
+               <lido:relatedWorkRelType>
+                  <lido:term>inhaltlicher Bezug zu</lido:term>
+               </lido:relatedWorkRelType>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:object>
+                     <lido:objectID lido:type="local">DE-MUS-275412/282189</lido:objectID>
+                     <lido:objectNote>O 225-13, Geschäftsstelle für die Ergänzung des Kunstunterrichts an den Schulen Karlsruhe, Werkbundkiste Das Gießgefäß, Bildtafel, 1956</lido:objectNote>
+                  </lido:object>
+               </lido:relatedWork>
+               <lido:relatedWorkRelType>
+                  <lido:term>inhaltlicher Bezug zu</lido:term>
+               </lido:relatedWorkRelType>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:object>
+                     <lido:objectID lido:type="local">DE-MUS-275412/305269</lido:objectID>
+                     <lido:objectNote>O 225-14, Geschäftsstelle für die Ergänzung des Kunstunterrichts an den Schulen Karlsruhe, Werkbundkiste Das Gießgefäß, Bildtafel, 1956</lido:objectNote>
+                  </lido:object>
+               </lido:relatedWork>
+               <lido:relatedWorkRelType>
+                  <lido:term>inhaltlicher Bezug zu</lido:term>
+               </lido:relatedWorkRelType>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:object>
+                     <lido:objectID lido:type="local">DE-MUS-275412/282190</lido:objectID>
+                     <lido:objectNote>O 225-15, Geschäftsstelle für die Ergänzung des Kunstunterrichts an den Schulen Karlsruhe, Werkbundkiste Das Gießgefäß, Bildtafel, 1956</lido:objectNote>
+                  </lido:object>
+               </lido:relatedWork>
+               <lido:relatedWorkRelType>
+                  <lido:term>inhaltlicher Bezug zu</lido:term>
+               </lido:relatedWorkRelType>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:object>
+                     <lido:objectID lido:type="local">DE-MUS-275412/282191</lido:objectID>
+                     <lido:objectNote>O 225-16, Geschäftsstelle für die Ergänzung des Kunstunterrichts an den Schulen Karlsruhe, Werkbundkiste Das Gießgefäß, Bildtafel, 1956</lido:objectNote>
+                  </lido:object>
+               </lido:relatedWork>
+               <lido:relatedWorkRelType>
+                  <lido:term>inhaltlicher Bezug zu</lido:term>
+               </lido:relatedWorkRelType>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:object>
+                     <lido:objectID lido:type="local">DE-MUS-275412/282192</lido:objectID>
+                     <lido:objectNote>O 225-17, Werksentwurf, Werkbundkiste Das Gießgefäß, Laborgefäß, 1955 - 1956</lido:objectNote>
+                  </lido:object>
+               </lido:relatedWork>
+               <lido:relatedWorkRelType>
+                  <lido:term>inhaltlicher Bezug zu</lido:term>
+               </lido:relatedWorkRelType>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:object>
+                     <lido:objectID lido:type="local">DE-MUS-275412/305250</lido:objectID>
+                     <lido:objectNote>O 225-18, Werksentwurf, Werkbundkiste Das Gießgefäß, Laborgefäß, 1955 - 1956</lido:objectNote>
+                  </lido:object>
+               </lido:relatedWork>
+               <lido:relatedWorkRelType>
+                  <lido:term>inhaltlicher Bezug zu</lido:term>
+               </lido:relatedWorkRelType>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:object>
+                     <lido:objectID lido:type="local">DE-MUS-275412/305251</lido:objectID>
+                     <lido:objectNote>O 225-19, Franck, Werkbundkiste Das Gießgefäß, Kanne, 1955 - 1956</lido:objectNote>
+                  </lido:object>
+               </lido:relatedWork>
+               <lido:relatedWorkRelType>
+                  <lido:term>inhaltlicher Bezug zu</lido:term>
+               </lido:relatedWorkRelType>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:object>
+                     <lido:objectID lido:type="local">DE-MUS-275412/305252</lido:objectID>
+                     <lido:objectNote>O 225-20, Werksentwurf, Werkbundkiste Das Gießgefäß, Laborgefäß, Schale mit Griff, Henkel, 1955 - 1956</lido:objectNote>
+                  </lido:object>
+               </lido:relatedWork>
+               <lido:relatedWorkRelType>
+                  <lido:term>inhaltlicher Bezug zu</lido:term>
+               </lido:relatedWorkRelType>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:object>
+                     <lido:objectID lido:type="local">DE-MUS-275412/305253</lido:objectID>
+                     <lido:objectNote>O 225-21, Löffelhardt, Werkbundkiste Das Gießgefäß, kleine Sauciere, 1955</lido:objectNote>
+                  </lido:object>
+               </lido:relatedWork>
+               <lido:relatedWorkRelType>
+                  <lido:term>inhaltlicher Bezug zu</lido:term>
+               </lido:relatedWorkRelType>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:object>
+                     <lido:objectID lido:type="local">DE-MUS-275412/305254</lido:objectID>
+                     <lido:objectNote>O 225-22, Wagenfeld, Werkbundkiste Das Gießgefäß, Gießer, Kännchen, 1954</lido:objectNote>
+                  </lido:object>
+               </lido:relatedWork>
+               <lido:relatedWorkRelType>
+                  <lido:term>inhaltlicher Bezug zu</lido:term>
+               </lido:relatedWorkRelType>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:object>
+                     <lido:objectID lido:type="local">DE-MUS-275412/305255</lido:objectID>
+                     <lido:objectNote>O 225-23, Wagenfeld, Werkbundkiste Das Gießgefäß, Gießer, Kännchen, 1950 - 1952</lido:objectNote>
+                  </lido:object>
+               </lido:relatedWork>
+               <lido:relatedWorkRelType>
+                  <lido:term>inhaltlicher Bezug zu</lido:term>
+               </lido:relatedWorkRelType>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:object>
+                     <lido:objectID lido:type="local">DE-MUS-275412/305256</lido:objectID>
+                     <lido:objectNote>O 225-24, Gretsch, Werkbundkiste Das Gießgefäß, Krug, 1948</lido:objectNote>
+                  </lido:object>
+               </lido:relatedWork>
+               <lido:relatedWorkRelType>
+                  <lido:term>inhaltlicher Bezug zu</lido:term>
+               </lido:relatedWorkRelType>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:object>
+                     <lido:objectID lido:type="local">DE-MUS-275412/305257</lido:objectID>
+                     <lido:objectNote>O 225-25, Löffelhardt, Werkbundkiste Das Gießgefäß, Krug</lido:objectNote>
+                  </lido:object>
+               </lido:relatedWork>
+               <lido:relatedWorkRelType>
+                  <lido:term>inhaltlicher Bezug zu</lido:term>
+               </lido:relatedWorkRelType>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:object>
+                     <lido:objectID lido:type="local">DE-MUS-275412/305258</lido:objectID>
+                     <lido:objectNote>O 225-26, Löffelhardt, Werkbundkiste Das Gießgefäß, Krug, Kanne, 1950 - 1956</lido:objectNote>
+                  </lido:object>
+               </lido:relatedWork>
+               <lido:relatedWorkRelType>
+                  <lido:term>inhaltlicher Bezug zu</lido:term>
+               </lido:relatedWorkRelType>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:object>
+                     <lido:objectID lido:type="local">DE-MUS-275412/305259</lido:objectID>
+                     <lido:objectNote>O 225-27, Löffelhardt, Werkbundkiste Das Gießgefäß, Kaffeekanne, 1954</lido:objectNote>
+                  </lido:object>
+               </lido:relatedWork>
+               <lido:relatedWorkRelType>
+                  <lido:term>inhaltlicher Bezug zu</lido:term>
+               </lido:relatedWorkRelType>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:object>
+                     <lido:objectID lido:type="local">DE-MUS-275412/305260</lido:objectID>
+                     <lido:objectNote>O 225-28, Löffelhardt, Werkbundkiste Das Gießgefäß, Teekanne, 1954</lido:objectNote>
+                  </lido:object>
+               </lido:relatedWork>
+               <lido:relatedWorkRelType>
+                  <lido:term>inhaltlicher Bezug zu</lido:term>
+               </lido:relatedWorkRelType>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:object>
+                     <lido:objectID lido:type="local">DE-MUS-275412/305261</lido:objectID>
+                     <lido:objectNote>O 225-29, Löffelhardt, Werkbundkiste Das Gießgefäß, Kaffeekanne, Teekanne, 1955</lido:objectNote>
+                  </lido:object>
+               </lido:relatedWork>
+               <lido:relatedWorkRelType>
+                  <lido:term>inhaltlicher Bezug zu</lido:term>
+               </lido:relatedWorkRelType>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:object>
+                     <lido:objectID lido:type="local">DE-MUS-275412/305262</lido:objectID>
+                     <lido:objectNote>O 225-30, Löffelhardt, Werkbundkiste Das Gießgefäß, Kaffeekanne, 1954</lido:objectNote>
+                  </lido:object>
+               </lido:relatedWork>
+               <lido:relatedWorkRelType>
+                  <lido:term>inhaltlicher Bezug zu</lido:term>
+               </lido:relatedWorkRelType>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:object>
+                     <lido:objectID lido:type="local">DE-MUS-275412/305263</lido:objectID>
+                     <lido:objectNote>O 225-31, Löffelhardt, Werkbundkiste Das Gießgefäß, Teekanne, 1954</lido:objectNote>
+                  </lido:object>
+               </lido:relatedWork>
+               <lido:relatedWorkRelType>
+                  <lido:term>inhaltlicher Bezug zu</lido:term>
+               </lido:relatedWorkRelType>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:object>
+                     <lido:objectID lido:type="local">DE-MUS-275412/305264</lido:objectID>
+                     <lido:objectNote>O 225-32, Lindberg, Werkbundkiste Das Gießgefäß, Teekanne, 1955</lido:objectNote>
+                  </lido:object>
+               </lido:relatedWork>
+               <lido:relatedWorkRelType>
+                  <lido:term>inhaltlicher Bezug zu</lido:term>
+               </lido:relatedWorkRelType>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:object>
+                     <lido:objectID lido:type="local">DE-MUS-275412/305265</lido:objectID>
+                     <lido:objectNote>O 225-33, Löffelhardt, Werkbundkiste Das Gießgefäß, kleine Kaffekanne, 1955</lido:objectNote>
+                  </lido:object>
+               </lido:relatedWork>
+               <lido:relatedWorkRelType>
+                  <lido:term>inhaltlicher Bezug zu</lido:term>
+               </lido:relatedWorkRelType>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:object>
+                     <lido:objectID lido:type="local">DE-MUS-275412/305266</lido:objectID>
+                     <lido:objectNote>O 225-34, Herløw, Werkbundkiste Das Gießgefäß, Kanne, 1952 - 1953</lido:objectNote>
+                  </lido:object>
+               </lido:relatedWork>
+               <lido:relatedWorkRelType>
+                  <lido:term>inhaltlicher Bezug zu</lido:term>
+               </lido:relatedWorkRelType>
+            </lido:relatedWorkSet>
+        </lido:relatedWorksWrap>
+      </lido:objectRelationWrap>
+    </lido:descriptiveMetadata>
+    <lido:administrativeMetadata xml:lang="de">
+      <lido:rightsWorkWrap>
+        <lido:rightsWorkSet>
+            <lido:rightsHolder>
+               <lido:legalBodyName>
+                  <lido:appellationValue>Werkbundarchiv - Museum der Dinge, Berlin</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:rightsHolder>
+            <lido:creditLine>Förderprogramm zur Digitalisierung von Objekten des kulturellen Erbes des Landes Berlin</lido:creditLine>
+        </lido:rightsWorkSet>
+      </lido:rightsWorkWrap>
+      <lido:recordWrap>
+        <lido:recordID lido:type="local">305237</lido:recordID>
+        <lido:recordType>
+            <lido:conceptID lido:source="http://terminology.lido-schema.org" lido:type="URI">http://terminology.lido-schema.org/lido00141</lido:conceptID>
+            <lido:term>Einzelobjekt</lido:term>
+        </lido:recordType>
+        <lido:recordSource>
+            <lido:legalBodyID lido:source="ISL (ISO 15511)" lido:type="URI">info:isil/DE-MUS-275412</lido:legalBodyID>
+            <lido:legalBodyName>
+               <lido:appellationValue>Werkbundarchiv - Museum der Dinge, Berlin</lido:appellationValue>
+            </lido:legalBodyName>
+            <lido:legalBodyWeblink>http://www.museumderdinge.de</lido:legalBodyWeblink>
+        </lido:recordSource>
+        <lido:recordRights>
+            <lido:rightsType>
+               <lido:conceptID lido:type="URI">http://creativecommons.org/publicdomain/zero/1.0/deed.de</lido:conceptID>
+               <lido:term>CC0 Public Domain Dedication</lido:term>
+            </lido:rightsType>
+            <lido:rightsHolder>
+               <lido:legalBodyID lido:source="ISL (ISO 15511)" lido:type="URI">info:isil/DE-MUS-275412</lido:legalBodyID>
+               <lido:legalBodyName>
+                  <lido:appellationValue>Werkbundarchiv - Museum der Dinge, Berlin</lido:appellationValue>
+               </lido:legalBodyName>
+               <lido:legalBodyWeblink>http://www.museumderdinge.de</lido:legalBodyWeblink>
+            </lido:rightsHolder>
+        </lido:recordRights>
+        <lido:recordInfoSet>
+            <lido:recordInfoLink>http://sammlung.museumderdinge.de/node/305237</lido:recordInfoLink>
+            <lido:recordMetadataDate lido:type="export date">2018-03-01T11:06:21.763</lido:recordMetadataDate>
+        </lido:recordInfoSet>
+      </lido:recordWrap>
+    </lido:administrativeMetadata>
+  </lido:lido>
+

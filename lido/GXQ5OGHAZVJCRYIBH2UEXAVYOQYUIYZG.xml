@@ -1,0 +1,373 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lido:lido xmlns:lido="http://www.lido-schema.org"
+           xmlns:xalan="http://xml.apache.org/xalan">
+   <lido:lidoRecID lido:source="https://berlin.museum-digital.de/index.php?t=institution&amp;instnr=32"
+                   lido:type="local">DE-B185/67063</lido:lidoRecID>
+   <lido:category/>
+   <lido:descriptiveMetadata xml:lang="de">
+      <lido:objectClassificationWrap>
+         <lido:objectWorkTypeWrap>
+            <lido:objectWorkType>
+               <lido:conceptID lido:source="gnd" lido:type="uri">http://d-nb.info/gnd/4021845-4</lido:conceptID>
+               <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/13314</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Druckgraphik</lido:term>
+            </lido:objectWorkType>
+         </lido:objectWorkTypeWrap>
+         <lido:classificationWrap>
+            <lido:classification lido:type="Sammlung">
+               <lido:conceptID lido:source="local" lido:type="collection_id">705</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Handzeichnungen, Druckgraphik, Gemälde</lido:term>
+            </lido:classification>
+            <lido:classification lido:type="Sammlung">
+               <lido:conceptID lido:source="local" lido:type="collection_id">725</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Sachen und Ereignisse</lido:term>
+            </lido:classification>
+            <lido:classification lido:type="Sammlung">
+               <lido:conceptID lido:source="local" lido:type="collection_id">727</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Einzelblätter</lido:term>
+            </lido:classification>
+         </lido:classificationWrap>
+      </lido:objectClassificationWrap>
+      <lido:objectIdentificationWrap>
+         <lido:titleWrap>
+            <lido:titleSet>
+               <lido:appellationValue lido:pref="preferred">Freienwalde/Oder: Erinnerungsblatt an Theodor Fontane</lido:appellationValue>
+            </lido:titleSet>
+         </lido:titleWrap>
+         <lido:repositoryWrap>
+            <lido:repositorySet lido:type="current">
+               <lido:repositoryName>
+                  <lido:legalBodyID lido:type="isil">DE-B185</lido:legalBodyID>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+                  </lido:legalBodyName>
+                  <lido:legalBodyWeblink>http://geschichte-brandenburg.de/</lido:legalBodyWeblink>
+               </lido:repositoryName>
+               <lido:workID lido:type="inventory number">LGV-Archiv, C 12 G-3-127</lido:workID>
+               <lido:repositoryLocation>
+                  <lido:namePlaceSet>
+                     <lido:appellationValue>Berlin</lido:appellationValue>
+                  </lido:namePlaceSet>
+                  <lido:gml>
+                     <gml:Point xmlns:gml="http://www.opengis.net/gml" srsName="EPSG:4326">
+                        <gml:pos>52.51533127 13.40440559</gml:pos>
+                     </gml:Point>
+                  </lido:gml>
+               </lido:repositoryLocation>
+            </lido:repositorySet>
+         </lido:repositoryWrap>
+         <lido:objectDescriptionWrap>
+            <lido:objectDescriptionSet>
+               <lido:descriptiveNoteValue>In Bad Freienwalde (Oder) wurde stets in besonderer Weise an Theodor Fontane (1819-1898) erinnert, Sein Vater Louis Henri Fontane (1796-1867) verbrachte unweit von Bad Freienwalde, in Schiffmühle, sein Alter und ist dort auch begraben. Ein Fontane-Wanderweg erschließt seit Jahrzehnten die landschaftlichen Schönheiten der durch schluchtenreiche Hänge ausgezeichneten Umgebung. So wundert auch nicht die Fertigung von Erinnerungsblättern, hier mit einem Zitat aus dem bekannten Fontane-Roman "Effi Briest": "Die alten Mächte sind nicht besiegt, aber nicht tot, und in der Dämmerstunde steigen sie herauf und denken: ihre Zeit ist wieder da." Die Darstellung einer Odernixe nach einer Ofenklappe von 1777 oben und eine baumbestandene Flusslandschaft rechts unten runden das symbolreiche Blatt ab. Die Vorlage für die obere Darstellung bildet eine Messing-Ofenröhrentür aus Wriezen (um 1777), die sich in der Sammlung des Oderlandmuseums befindet.&#xD;
+Der Linolschnitt stammt aus dem Nachlass des Berliner Lehrers Albert Burkhardt (1927-2002), der sich als Heimatforscher und Schriftsteller sehr für eine höhere Bekanntheit der märkischen Schönheiten, ihrer Geschichte und besonders auch für Theodor Fontane (u.a. "Auf Fontanes Spuren", 1978, 2. Aufl. 1984) einsetzte. Von 1990 bis kurz vor seinem Tode war er auch in der Landesgeschichtlichen Vereinigung für die Mark Brandenburg e.V. aktiv und erhielt im Jahre 2000 die Fontane-Plakette.&#xD;
+&#xD;
+Sign. im oberen Bild "SW", darunter handschr. mit Bleistift li. u. "Freienwalde", mi. u. "Wrietzener Ofenklappe von 1777 im Oderlandmuseum", re. u. "9/25" [= 9. Abzug von insgesamt 25], "Wirth 83". Der Künstler (die Künstlerin?) S. Wirth konnte bisher nicht identifiziert werden.&#xD;
+Erworben 2006 (Nachlass Albert Burkhardt).</lido:descriptiveNoteValue>
+               <lido:sourceDescriptiveNote>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:sourceDescriptiveNote>
+            </lido:objectDescriptionSet>
+         </lido:objectDescriptionWrap>
+         <lido:objectMeasurementsWrap>
+            <lido:objectMeasurementsSet>
+               <lido:displayObjectMeasurements>Blattgröße: Höhe 30 cm, Breite 42 cm, Bildgröße oben: Höhe 18,9 cm, Breite 27,4 cm, unteres Bild: Höhe 8,5 cm, Breite 27,3 cm</lido:displayObjectMeasurements>
+               <lido:objectMeasurements/>
+            </lido:objectMeasurementsSet>
+         </lido:objectMeasurementsWrap>
+      </lido:objectIdentificationWrap>
+      <lido:eventWrap>
+         <lido:eventSet>
+            <lido:event>
+               <lido:eventType>
+                  <lido:conceptID lido:type="uri">https://event-types.museum-digital.org/1</lido:conceptID>
+                  <lido:term lido:addedSearchTerm="no">Hergestellt</lido:term>
+               </lido:eventType>
+               <lido:eventDate>
+                  <lido:displayDate>1983</lido:displayDate>
+                  <lido:displayDate xml:lang="ar">1983</lido:displayDate>
+                  <lido:displayDate xml:lang="de">1983</lido:displayDate>
+                  <lido:displayDate xml:lang="en">1983</lido:displayDate>
+                  <lido:displayDate xml:lang="es">1983</lido:displayDate>
+                  <lido:displayDate xml:lang="fa">1983</lido:displayDate>
+                  <lido:displayDate xml:lang="fr">1983</lido:displayDate>
+                  <lido:displayDate xml:lang="hu">1983</lido:displayDate>
+                  <lido:displayDate xml:lang="id">1983</lido:displayDate>
+                  <lido:displayDate xml:lang="it">1983</lido:displayDate>
+                  <lido:displayDate xml:lang="ja">1983年</lido:displayDate>
+                  <lido:displayDate xml:lang="ka">1983</lido:displayDate>
+                  <lido:displayDate xml:lang="ko">1983년</lido:displayDate>
+                  <lido:displayDate xml:lang="pl">1983</lido:displayDate>
+                  <lido:displayDate xml:lang="pt">1983</lido:displayDate>
+                  <lido:displayDate xml:lang="ro">1983</lido:displayDate>
+                  <lido:displayDate xml:lang="ru">1983</lido:displayDate>
+                  <lido:displayDate xml:lang="ta">1983</lido:displayDate>
+                  <lido:displayDate xml:lang="tl">1983</lido:displayDate>
+                  <lido:displayDate xml:lang="tr">1983</lido:displayDate>
+                  <lido:displayDate xml:lang="zh">1983年</lido:displayDate>
+                  <lido:date>
+                     <lido:earliestDate>1983</lido:earliestDate>
+                     <lido:latestDate>1983</lido:latestDate>
+                  </lido:date>
+               </lido:eventDate>
+            </lido:event>
+         </lido:eventSet>
+         <lido:eventSet>
+            <lido:event>
+               <lido:eventType>
+                  <lido:conceptID lido:type="uri">http://terminology.lido-schema.org/lido00003</lido:conceptID>
+                  <lido:term>Event (non-specified)</lido:term>
+               </lido:eventType>
+               <lido:eventMaterialsTech>
+                  <lido:displayMaterialsTech>Linolschnitt von zwei Platten übereinander in zwei Farben</lido:displayMaterialsTech>
+               </lido:eventMaterialsTech>
+            </lido:event>
+         </lido:eventSet>
+      </lido:eventWrap>
+      <lido:objectRelationWrap>
+         <lido:subjectWrap>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectPlace>
+                     <lido:displayPlace>Bad Freienwalde (Oder)</lido:displayPlace>
+                     <lido:displayPlace xml:lang="ar">باد فراينفالده</lido:displayPlace>
+                     <lido:displayPlace xml:lang="cs">Bad Freienwalde</lido:displayPlace>
+                     <lido:displayPlace xml:lang="da">Bad Freienwalde (Oder)</lido:displayPlace>
+                     <lido:displayPlace xml:lang="de">Bad Freienwalde (Oder)</lido:displayPlace>
+                     <lido:displayPlace xml:lang="en">Bad Freienwalde</lido:displayPlace>
+                     <lido:displayPlace xml:lang="es">Bad Freienwalde</lido:displayPlace>
+                     <lido:displayPlace xml:lang="fa">باد فراین‌والده (اودر)</lido:displayPlace>
+                     <lido:displayPlace xml:lang="fr">Bad Freienwalde</lido:displayPlace>
+                     <lido:displayPlace xml:lang="he">באד פריינוואלדה</lido:displayPlace>
+                     <lido:displayPlace xml:lang="hu">Bad Freienwalde (Oder)</lido:displayPlace>
+                     <lido:displayPlace xml:lang="it">Bad Freienwalde</lido:displayPlace>
+                     <lido:displayPlace xml:lang="nl">Bad Freienwalde (Oder)</lido:displayPlace>
+                     <lido:displayPlace xml:lang="pl">Bad Freienwalde (Oder)</lido:displayPlace>
+                     <lido:displayPlace xml:lang="ro">Bad Freienwalde (Oder)</lido:displayPlace>
+                     <lido:displayPlace xml:lang="ru">Бад-Фрайенвальде</lido:displayPlace>
+                     <lido:displayPlace xml:lang="sv">Bad Freienwalde</lido:displayPlace>
+                     <lido:displayPlace xml:lang="tr">Bad Freienwalde (Oder)</lido:displayPlace>
+                     <lido:displayPlace xml:lang="vi">Bad Freienwalde</lido:displayPlace>
+                     <lido:displayPlace xml:lang="zh">巴特弗赖恩瓦尔德</lido:displayPlace>
+                     <lido:place>
+                        <lido:placeID lido:source="geonames" lido:type="uri">https://sws.geonames.org/2953458</lido:placeID>
+                        <lido:placeID lido:source="TGN" lido:type="uri">http://vocab.getty.edu/tgn/1036387</lido:placeID>
+                        <lido:placeID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4018298-8</lido:placeID>
+                        <lido:placeID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q427655</lido:placeID>
+                        <lido:placeID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/place/2775</lido:placeID>
+                        <lido:namePlaceSet>
+                           <lido:appellationValue>Bad Freienwalde (Oder)</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ar">باد فراينفالده</lido:appellationValue>
+                           <lido:appellationValue xml:lang="cs">Bad Freienwalde</lido:appellationValue>
+                           <lido:appellationValue xml:lang="da">Bad Freienwalde (Oder)</lido:appellationValue>
+                           <lido:appellationValue xml:lang="de">Bad Freienwalde (Oder)</lido:appellationValue>
+                           <lido:appellationValue xml:lang="en">Bad Freienwalde</lido:appellationValue>
+                           <lido:appellationValue xml:lang="es">Bad Freienwalde</lido:appellationValue>
+                           <lido:appellationValue xml:lang="fa">باد فراین‌والده (اودر)</lido:appellationValue>
+                           <lido:appellationValue xml:lang="fr">Bad Freienwalde</lido:appellationValue>
+                           <lido:appellationValue xml:lang="he">באד פריינוואלדה</lido:appellationValue>
+                           <lido:appellationValue xml:lang="hu">Bad Freienwalde (Oder)</lido:appellationValue>
+                           <lido:appellationValue xml:lang="it">Bad Freienwalde</lido:appellationValue>
+                           <lido:appellationValue xml:lang="nl">Bad Freienwalde (Oder)</lido:appellationValue>
+                           <lido:appellationValue xml:lang="pl">Bad Freienwalde (Oder)</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ro">Bad Freienwalde (Oder)</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ru">Бад-Фрайенвальде</lido:appellationValue>
+                           <lido:appellationValue xml:lang="sv">Bad Freienwalde</lido:appellationValue>
+                           <lido:appellationValue xml:lang="tr">Bad Freienwalde (Oder)</lido:appellationValue>
+                           <lido:appellationValue xml:lang="vi">Bad Freienwalde</lido:appellationValue>
+                           <lido:appellationValue xml:lang="zh">巴特弗赖恩瓦尔德</lido:appellationValue>
+                        </lido:namePlaceSet>
+                        <lido:gml>
+                           <gml:Point xmlns:gml="http://www.opengis.net/gml" srsName="EPSG:4326">
+                              <gml:pos>52.785556793213 14.032500267029</gml:pos>
+                           </gml:Point>
+                        </lido:gml>
+                     </lido:place>
+                  </lido:subjectPlace>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="aat" lido:type="uri">http://vocab.getty.edu/aat/300028886</lido:conceptID>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4181892-1</lido:conceptID>
+                     <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh85125691</lido:conceptID>
+                     <lido:conceptID lido:source="oberbegriffsdatei" lido:type="uri">https://term.museum-digital.de/oberbegriffsdatei/tag/4993</lido:conceptID>
+                     <lido:conceptID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q212469</lido:conceptID>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Souvenir</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/3510</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Souvenir</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ar">تذكار</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="cs">Suvenýr</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="da">Souvenir</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="de">Souvenir</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="en">Souvenir</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="es">Souvenir</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fa">ره‌آورد</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fi">Matkamuisto</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fr">Souvenir</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="he">מזכרת</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hu">emléktárgy</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="id">Cendera mata</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="it">Souvenir</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ko">기념품</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="nl">Souvenir</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pt">Suvenir</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ro">Suvenir</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ru">сувенир</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sv">Souvenir</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="vi">Quà lưu niệm</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="zh">紀念品</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/12673</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Ofenklappe</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="aat" lido:type="uri">http://vocab.getty.edu/aat/300006179</lido:conceptID>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">http://d-nb.info/gnd/4206343-7</lido:conceptID>
+                     <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh85051067</lido:conceptID>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Fontäne</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/26760</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Fontäne (Brunnen)</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="aat" lido:type="uri">http://vocab.getty.edu/aat/300056475</lido:conceptID>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4019558-2</lido:conceptID>
+                     <lido:conceptID lido:source="lcsh" lido:type="uri">https://id.loc.gov/authorities/subjects/sh85028912</lido:conceptID>
+                     <lido:conceptID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q1497126</lido:conceptID>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Gebrauchsgrafik</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/75729</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Gebrauchsgraphik</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ar">فن تجاري</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="cs">Užitá grafika</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="de">Gebrauchsgraphik</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="en">Commercial art</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="es">Arte comercial</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fa">هنر تجاری</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fr">Art publicitaire</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="it">Arte commerciale</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pt">Arte comercial</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tl">Commercial art</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/75731</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Oderlandmuseum</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/75732</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Oder (Fluss)</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+         </lido:subjectWrap>
+         <lido:relatedWorksWrap/>
+      </lido:objectRelationWrap>
+   </lido:descriptiveMetadata>
+   <lido:administrativeMetadata xml:lang="de">
+      <lido:rightsWorkWrap>
+         <lido:rightsWorkSet>
+            <lido:rightsHolder>
+               <lido:legalBodyName>
+                  <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:rightsHolder>
+         </lido:rightsWorkSet>
+      </lido:rightsWorkWrap>
+      <lido:recordWrap>
+         <lido:recordID lido:type="museum-digital">67063</lido:recordID>
+         <lido:recordType>
+            <lido:term lido:addedSearchTerm="no">item</lido:term>
+         </lido:recordType>
+         <lido:recordSource lido:type="dataProvider">
+            <lido:legalBodyName>
+               <lido:appellationValue>museum-digital</lido:appellationValue>
+            </lido:legalBodyName>
+            <lido:legalBodyWeblink>https://berlin.museum-digital.de/</lido:legalBodyWeblink>
+         </lido:recordSource>
+         <lido:recordSource>
+            <lido:legalBodyID lido:type="isil">DE-B185</lido:legalBodyID>
+            <lido:legalBodyName>
+               <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+            </lido:legalBodyName>
+         </lido:recordSource>
+         <lido:recordRights>
+            <lido:rightsType>
+               <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no">CC BY</lido:term>
+            </lido:rightsType>
+            <lido:rightsHolder>
+               <lido:legalBodyID lido:type="isil">DE-B185</lido:legalBodyID>
+               <lido:legalBodyName>
+                  <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+               </lido:legalBodyName>
+               <lido:legalBodyWeblink>http://geschichte-brandenburg.de/</lido:legalBodyWeblink>
+            </lido:rightsHolder>
+            <lido:creditLine>Förderprogramm zur Digitalisierung von Objekten des kulturellen Erbes des Landes Berlin</lido:creditLine>
+         </lido:recordRights>
+         <lido:recordInfoSet>
+            <lido:recordInfoLink>https://berlin.museum-digital.de/index.php?t=objekt&amp;oges=67063</lido:recordInfoLink>
+            <lido:recordMetadataDate>2021-04-27 07:59:54</lido:recordMetadataDate>
+         </lido:recordInfoSet>
+      </lido:recordWrap>
+      <lido:resourceWrap>
+         <lido:resourceSet lido:sortorder="1">
+            <lido:resourceID lido:source="image" lido:type="local">48647</lido:resourceID>
+            <lido:resourceRepresentation lido:type="masterfile">
+               <lido:linkResource lido:formatResource="image/tiff"/>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_thumb">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/202007/100h_freienwaldeoder-erinnerungsblatt-an-theodor-fontane-67063.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_preview">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/202007/200w_freienwaldeoder-erinnerungsblatt-an-theodor-fontane-67063.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/202007/freienwaldeoder-erinnerungsblatt-an-theodor-fontane-67063.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceType>
+               <lido:term lido:addedSearchTerm="no">image</lido:term>
+            </lido:resourceType>
+            <lido:resourceRelType>
+               <lido:term lido:addedSearchTerm="no">Hauptansicht</lido:term>
+            </lido:resourceRelType>
+            <lido:resourceDescription>Freienwalde/Oder: Erinnerungsblatt an Theodor Fontane</lido:resourceDescription>
+            <lido:resourceSource lido:type="creator">
+               <lido:legalBodyName>
+                  <lido:appellationValue>Thomas Voßbeck, 2020</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:resourceSource>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+                  <lido:term lido:addedSearchTerm="no">CC BY</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V.</lido:appellationValue>
+                  </lido:legalBodyName>
+               </lido:rightsHolder>
+               <lido:creditLine>Thomas Voßbeck, 2020</lido:creditLine>
+            </lido:rightsResource>
+         </lido:resourceSet>
+      </lido:resourceWrap>
+   </lido:administrativeMetadata>
+</lido:lido>
+

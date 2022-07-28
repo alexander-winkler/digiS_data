@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lido:lido xmlns:lido="http://www.lido-schema.org"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <lido:lidoRecID lido:type="http://terminology.lido-schema.org/identifier_type/local_identifier">DE-MUS-061525/1339191</lido:lidoRecID>
+   <lido:descriptiveMetadata xml:lang="de">
+      <lido:objectClassificationWrap>
+         <lido:objectWorkTypeWrap>
+            <lido:objectWorkType>
+               <lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://d-nb.info/gnd/4126273-6</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no">Manuskript</lido:term>
+            </lido:objectWorkType>
+         </lido:objectWorkTypeWrap>
+      </lido:objectClassificationWrap>
+      <lido:objectIdentificationWrap>
+         <lido:titleWrap>
+            <lido:titleSet>
+               <lido:appellationValue lido:pref="preferred">Manuskripte des Staatsrats und königlichen Leibarztes Dr. Hufeland</lido:appellationValue>
+            </lido:titleSet>
+         </lido:titleWrap>
+         <lido:repositoryWrap>
+            <lido:repositorySet>
+               <lido:repositoryName>
+                  <lido:legalBodyID lido:source="ISIL (ISO 15511)"
+                                    lido:type="http://terminology.lido-schema.org/identifier_type/uri">info:isil/DE-MUS-061525</lido:legalBodyID>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Stiftung Stadtmuseum Berlin</lido:appellationValue>
+                  </lido:legalBodyName>
+                  <lido:legalBodyWeblink>https://www.stadtmuseum.de</lido:legalBodyWeblink>
+               </lido:repositoryName>
+               <lido:workID lido:type="Inventarnummer">IV 59/832 Q a-c</lido:workID>
+               <lido:repositoryLocation>
+                  <lido:placeID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://www.geonames.org/2950159</lido:placeID>
+                  <lido:namePlaceSet>
+                     <lido:appellationValue>Berlin</lido:appellationValue>
+                  </lido:namePlaceSet>
+               </lido:repositoryLocation>
+            </lido:repositorySet>
+         </lido:repositoryWrap>
+         <lido:objectMeasurementsWrap>
+            <lido:objectMeasurementsSet>
+               <lido:displayObjectMeasurements>a (Original) (HxB): 18,6 x 11 cm</lido:displayObjectMeasurements>
+               <lido:objectMeasurements>
+                  <lido:measurementsSet>
+                     <lido:measurementType>Höhe</lido:measurementType>
+                     <lido:measurementUnit>mm</lido:measurementUnit>
+                     <lido:measurementValue>186</lido:measurementValue>
+                  </lido:measurementsSet>
+                  <lido:measurementsSet>
+                     <lido:measurementType>Breite</lido:measurementType>
+                     <lido:measurementUnit>cm</lido:measurementUnit>
+                     <lido:measurementValue>11</lido:measurementValue>
+                  </lido:measurementsSet>
+               </lido:objectMeasurements>
+            </lido:objectMeasurementsSet>
+            <lido:objectMeasurementsSet>
+               <lido:displayObjectMeasurements>b (Original) (HxB): 18,7 x 11,6 cm</lido:displayObjectMeasurements>
+               <lido:objectMeasurements>
+                  <lido:measurementsSet>
+                     <lido:measurementType>Höhe</lido:measurementType>
+                     <lido:measurementUnit>mm</lido:measurementUnit>
+                     <lido:measurementValue>187</lido:measurementValue>
+                  </lido:measurementsSet>
+                  <lido:measurementsSet>
+                     <lido:measurementType>Breite</lido:measurementType>
+                     <lido:measurementUnit>mm</lido:measurementUnit>
+                     <lido:measurementValue>116</lido:measurementValue>
+                  </lido:measurementsSet>
+               </lido:objectMeasurements>
+            </lido:objectMeasurementsSet>
+            <lido:objectMeasurementsSet>
+               <lido:displayObjectMeasurements>c (Original) (HxB): 6,3 x 16,5 cm</lido:displayObjectMeasurements>
+               <lido:objectMeasurements>
+                  <lido:measurementsSet>
+                     <lido:measurementType>Höhe</lido:measurementType>
+                     <lido:measurementUnit>mm</lido:measurementUnit>
+                     <lido:measurementValue>63</lido:measurementValue>
+                  </lido:measurementsSet>
+                  <lido:measurementsSet>
+                     <lido:measurementType>Breite</lido:measurementType>
+                     <lido:measurementUnit>mm</lido:measurementUnit>
+                     <lido:measurementValue>165</lido:measurementValue>
+                  </lido:measurementsSet>
+               </lido:objectMeasurements>
+            </lido:objectMeasurementsSet>
+         </lido:objectMeasurementsWrap>
+      </lido:objectIdentificationWrap>
+      <lido:eventWrap>
+         <lido:eventSet>
+            <lido:event>
+               <lido:eventType>
+                  <lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://terminology.lido-schema.org/lido00007</lido:conceptID>
+                  <lido:term lido:addedSearchTerm="no">Herstellung</lido:term>
+               </lido:eventType>
+               <lido:eventActor lido:sortorder="1">
+                  <lido:displayActorInRole>Hufeland, Christoph Wilhelm von (1762-1836) (Autor)</lido:displayActorInRole>
+                  <lido:actorInRole>
+                     <lido:actor lido:type="http://terminology.lido-schema.org/actor_type/person">
+                        <lido:actorID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://d-nb.info/gnd/118554514</lido:actorID>
+                        <lido:nameActorSet>
+                           <lido:appellationValue>Hufeland, Christoph Wilhelm von</lido:appellationValue>
+                        </lido:nameActorSet>
+                     </lido:actor>
+                     <lido:roleActor>
+                        <lido:term lido:addedSearchTerm="no">Autor</lido:term>
+                     </lido:roleActor>
+                  </lido:actorInRole>
+               </lido:eventActor>
+               <lido:eventDate>
+                  <lido:displayDate>1808-1813</lido:displayDate>
+                  <lido:date>
+                     <lido:earliestDate>1808</lido:earliestDate>
+                     <lido:latestDate>1813</lido:latestDate>
+                  </lido:date>
+               </lido:eventDate>
+               <lido:eventPlace>
+                  <lido:displayPlace>Königsberg</lido:displayPlace>
+                  <lido:place>
+                     <lido:placeID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://www.geonames.org/1628</lido:placeID>
+                     <lido:namePlaceSet>
+                        <lido:appellationValue>Königsberg</lido:appellationValue>
+                     </lido:namePlaceSet>
+                  </lido:place>
+               </lido:eventPlace>
+               <lido:eventMaterialsTech>
+                  <lido:displayMaterialsTech>Handschriftliches Manuskript auf Papier; a) Originalmanuskript ist auf ein weiteres Blatt mit dem unteren Rand festgeklebt; b) zwei Doppelblätter von denen einmal 2 Seiten und einmal 1 Seite beschrieben ist; c) Original ist komplett auf ein weiteres Blatt geklebt.</lido:displayMaterialsTech>
+                  <lido:materialsTech>
+                     <lido:termMaterialsTech lido:sortorder="1"
+                                             lido:type="http://terminology.lido-schema.org/termMaterialsTech_type/technique">
+                        <lido:term lido:addedSearchTerm="no">Handschrift</lido:term>
+                     </lido:termMaterialsTech>
+                     <lido:termMaterialsTech lido:sortorder="1"
+                                             lido:type="http://terminology.lido-schema.org/termMaterialsTech_type/material">
+                        <lido:term lido:addedSearchTerm="no">Papier</lido:term>
+                     </lido:termMaterialsTech>
+                  </lido:materialsTech>
+               </lido:eventMaterialsTech>
+            </lido:event>
+         </lido:eventSet>
+      </lido:eventWrap>
+   </lido:descriptiveMetadata>
+   <lido:administrativeMetadata xml:lang="de">
+      <lido:rightsWorkWrap>
+         <lido:rightsWorkSet>
+            <lido:rightsType>
+               <lido:term lido:addedSearchTerm="no">Eigentumsrechte</lido:term>
+            </lido:rightsType>
+            <lido:rightsHolder>
+               <lido:legalBodyName>
+                  <lido:appellationValue>Stiftung Stadtmuseum Berlin</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:rightsHolder>
+         </lido:rightsWorkSet>
+      </lido:rightsWorkWrap>
+      <lido:recordWrap>
+         <lido:recordID lido:type="http://terminology.lido-schema.org/identifier_type/local_identifier">1339191</lido:recordID>
+         <lido:recordType>
+            <lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">http://terminology.lido-schema.org/lido00141</lido:conceptID>
+            <lido:term lido:addedSearchTerm="no">Einzelobjekt</lido:term>
+         </lido:recordType>
+         <lido:recordSource>
+            <lido:legalBodyID lido:source="ISIL (ISO 15511)"
+                              lido:type="http://terminology.lido-schema.org/identifier_type/uri">info:isil/DE-MUS-061525</lido:legalBodyID>
+            <lido:legalBodyName>
+               <lido:appellationValue>Stiftung Stadtmuseum Berlin</lido:appellationValue>
+            </lido:legalBodyName>
+         </lido:recordSource>
+         <lido:recordRights>
+            <lido:rightsType>
+               <lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">https://creativecommons.org/publicdomain/zero/1.0/</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no">CC0 1.0 Universal (CC0 1.0) Public Domain Dedication</lido:term>
+            </lido:rightsType>
+            <lido:creditLine>Förderprogramm zur Digitalisierung von Objekten des kulturellen Erbes des Landes Berlin</lido:creditLine>
+         </lido:recordRights>
+         <lido:recordInfoSet>
+            <lido:recordInfoLink>https://sammlung-online.stadtmuseum.de/Details/Index/1339191</lido:recordInfoLink>
+            <lido:recordMetadataDate>2021-06-08T14:46:00</lido:recordMetadataDate>
+         </lido:recordInfoSet>
+      </lido:recordWrap>
+      <lido:resourceWrap>
+         <lido:resourceSet>
+            <lido:resourceID lido:type="http://terminology.lido-schema.org/identifier_type/local_identifier">IV 59''str''832 Q a-c_001_IV 59-832 Q a-c_00001_IV 59-832 Q a-c_01</lido:resourceID>
+            <lido:resourceRepresentation lido:type="Provided image">
+               <lido:linkResource lido:formatResource="jpg">https://sammlung-online.stadtmuseum.de/imagescreate/image?id=1339191&amp;type=gross</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceType>
+               <lido:term lido:addedSearchTerm="no">Digitalfoto</lido:term>
+            </lido:resourceType>
+            <lido:resourceRelType>
+               <lido:term lido:addedSearchTerm="no">Vorschaubild</lido:term>
+            </lido:resourceRelType>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="http://terminology.lido-schema.org/identifier_type/uri">https://creativecommons.org/publicdomain/mark/1.0/</lido:conceptID>
+                  <lido:term lido:addedSearchTerm="no">Public Domain</lido:term>
+               </lido:rightsType>
+            </lido:rightsResource>
+         </lido:resourceSet>
+      </lido:resourceWrap>
+   </lido:administrativeMetadata>
+</lido:lido>
+

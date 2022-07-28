@@ -1,0 +1,378 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lido:lido xmlns:lido="http://www.lido-schema.org"
+           xmlns:gml="http://www.opengis.net/gml"
+           xmlns:xalan="http://xml.apache.org/xalan">
+   <lido:lidoRecID lido:source="info:isil/DE-B770" lido:type="local">DE-B770/15760</lido:lidoRecID>
+   <lido:descriptiveMetadata xml:lang="de">
+      <lido:objectClassificationWrap>
+         <lido:objectWorkTypeWrap>
+            <lido:objectWorkType>
+               <lido:conceptID lido:type="URI">http://www.aat-deutsch.de/aat/detailseite/?id=300026488</lido:conceptID>
+               <lido:conceptID lido:type="URI">http://vocab.getty.edu/aat/300026488</lido:conceptID>
+               <lido:conceptID lido:type="URI">http://d-nb.info/gnd/4364687-6</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no">Regiebuch</lido:term>
+            </lido:objectWorkType>
+         </lido:objectWorkTypeWrap>
+      </lido:objectClassificationWrap>
+      <lido:objectIdentificationWrap>
+         <lido:titleWrap>
+            <lido:titleSet>
+               <lido:appellationValue>Regiebuch "Dantons Tod"</lido:appellationValue>
+            </lido:titleSet>
+         </lido:titleWrap>
+         <lido:repositoryWrap>
+            <lido:repositorySet>
+               <lido:repositoryName>
+                  <lido:legalBodyID lido:source="ISIL (ISO 15511)" lido:type="URI">info:isil/DE-B770</lido:legalBodyID>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Institut für Theaterwissenschaft der FU
+                                    Berlin, Theaterhistorische Sammlungen</lido:appellationValue>
+                  </lido:legalBodyName>
+                  <lido:legalBodyWeblink>http://www.geisteswissenschaften.fu-berlin.de/we07/institut/sammlungen/</lido:legalBodyWeblink>
+               </lido:repositoryName>
+               <lido:workID lido:type="Signatur">IfT_MR_1</lido:workID>
+               <lido:repositoryLocation>
+                  <lido:placeID lido:source="TGN" lido:type="URI">http://vocab.getty.edu/tgn/7003712</lido:placeID>
+                  <lido:namePlaceSet>
+                     <lido:appellationValue>Berlin</lido:appellationValue>
+                  </lido:namePlaceSet>
+                  <lido:partOfPlace lido:politicalEntity="state">
+                     <lido:placeID lido:source="TGN" lido:type="URI">http://vocab.getty.edu/tgn/7003670</lido:placeID>
+                     <lido:namePlaceSet>
+                        <lido:appellationValue>Berlin</lido:appellationValue>
+                     </lido:namePlaceSet>
+                     <lido:partOfPlace>
+                        <lido:placeID lido:source="TGN" lido:type="URI">http://vocab.getty.edu/tgn/7000084</lido:placeID>
+                        <lido:namePlaceSet>
+                           <lido:appellationValue>Deutschland</lido:appellationValue>
+                        </lido:namePlaceSet>
+                        <lido:partOfPlace>
+                           <lido:placeID lido:source="TGN" lido:type="URI">http://vocab.getty.edu/tgn/1000003</lido:placeID>
+                           <lido:namePlaceSet>
+                              <lido:appellationValue>Europa</lido:appellationValue>
+                           </lido:namePlaceSet>
+                        </lido:partOfPlace>
+                     </lido:partOfPlace>
+                  </lido:partOfPlace>
+               </lido:repositoryLocation>
+            </lido:repositorySet>
+         </lido:repositoryWrap>
+         <lido:objectDescriptionWrap>
+            <lido:objectDescriptionSet>
+               <lido:descriptiveNoteValue>Persönlich gekennzeichnetes
+                            Regiebuch von Max Reinhardt mit zahlreichen Strichen, Skizzen und
+                            szenischen Hinweisen zur Aufführung am Deutschen Theater in Berlin 1916;
+                            überarbeitet für das Gastspiel in New York, Century Theatre, Premiere
+                            20.12.1927.</lido:descriptiveNoteValue>
+            </lido:objectDescriptionSet>
+         </lido:objectDescriptionWrap>
+         <lido:objectMeasurementsWrap>
+            <lido:objectMeasurementsSet>
+               <lido:displayObjectMeasurements>18,5 x 16 x 2 cm
+                            (geschlossen)</lido:displayObjectMeasurements>
+               <lido:objectMeasurements>
+                  <lido:measurementsSet>
+                     <lido:measurementType>Höhe</lido:measurementType>
+                     <lido:measurementUnit>mm</lido:measurementUnit>
+                     <lido:measurementValue>185</lido:measurementValue>
+                  </lido:measurementsSet>
+                  <lido:measurementsSet>
+                     <lido:measurementType>Breite</lido:measurementType>
+                     <lido:measurementUnit>mm</lido:measurementUnit>
+                     <lido:measurementValue>160</lido:measurementValue>
+                  </lido:measurementsSet>
+                  <lido:measurementsSet>
+                     <lido:measurementType>Tiefe</lido:measurementType>
+                     <lido:measurementUnit>mm</lido:measurementUnit>
+                     <lido:measurementValue>20</lido:measurementValue>
+                  </lido:measurementsSet>
+               </lido:objectMeasurements>
+            </lido:objectMeasurementsSet>
+         </lido:objectMeasurementsWrap>
+      </lido:objectIdentificationWrap>
+      <lido:eventWrap>
+         <lido:eventSet>
+            <lido:event>
+               <lido:eventType>
+                  <lido:conceptID lido:type="URI">http://terminology.lido-schema.org/lido00007</lido:conceptID>
+                  <lido:term lido:addedSearchTerm="no">Herstellung</lido:term>
+               </lido:eventType>
+               <lido:eventActor>
+                  <lido:displayActorInRole>Max Reinhardt</lido:displayActorInRole>
+                  <lido:actorInRole>
+                     <lido:actor>
+                        <lido:actorID lido:source="GND" lido:type="URI">http://d-nb.info/gnd/118599380</lido:actorID>
+                        <lido:nameActorSet>
+                           <lido:appellationValue>Max Reinhardt</lido:appellationValue>
+                        </lido:nameActorSet>
+                        <lido:vitalDatesActor>
+                           <lido:earliestDate>1873-09-09</lido:earliestDate>
+                           <lido:latestDate>1943-10-31</lido:latestDate>
+                        </lido:vitalDatesActor>
+                     </lido:actor>
+                     <lido:roleActor>
+                        <lido:conceptID lido:source="AAT" lido:type="URI">http://www.aat-deutsch.de/aat/detailseite/?id=300312210</lido:conceptID>
+                        <lido:term lido:addedSearchTerm="no">Regisseur</lido:term>
+                     </lido:roleActor>
+                  </lido:actorInRole>
+               </lido:eventActor>
+               <lido:eventDate>
+                  <lido:displayDate>1916</lido:displayDate>
+                  <lido:date>
+                     <lido:latestDate>1916-12-13</lido:latestDate>
+                  </lido:date>
+               </lido:eventDate>
+               <lido:eventMaterialsTech>
+                  <lido:displayMaterialsTech>Mit Leerseiten durchschossener Buchblock,
+                                Bleistift, Buntstift auf Papier</lido:displayMaterialsTech>
+                  <lido:materialsTech>
+                     <lido:termMaterialsTech lido:type="http://terminology.lido-schema.org/lido00132">
+                        <lido:conceptID lido:type="URI">http://vocab.getty.edu/aat/300014109</lido:conceptID>
+                        <lido:term lido:addedSearchTerm="no">Papier</lido:term>
+                     </lido:termMaterialsTech>
+                     <lido:termMaterialsTech lido:type="http://terminology.lido-schema.org/lido00132">
+                        <lido:conceptID lido:type="URI">http://vocab.getty.edu/aat/300022443</lido:conceptID>
+                        <lido:term lido:addedSearchTerm="no">Bleistift</lido:term>
+                     </lido:termMaterialsTech>
+                     <lido:termMaterialsTech lido:type="http://terminology.lido-schema.org/lido00132">
+                        <lido:conceptID lido:type="URI">http://vocab.getty.edu/aat/300022441</lido:conceptID>
+                        <lido:term lido:addedSearchTerm="no">Buntstift</lido:term>
+                     </lido:termMaterialsTech>
+                     <lido:termMaterialsTech lido:type="http://terminology.lido-schema.org/lido00132">
+                        <lido:conceptID lido:type="URI">http://vocab.getty.edu/aat/300253967</lido:conceptID>
+                        <lido:term lido:addedSearchTerm="no">Mit Leerseiten durchschossener Buchblock</lido:term>
+                     </lido:termMaterialsTech>
+                  </lido:materialsTech>
+               </lido:eventMaterialsTech>
+               <lido:relatedEventSet>
+                  <lido:relatedEvent>
+                     <lido:displayEvent>Premiere</lido:displayEvent>
+                     <lido:event>
+                        <lido:eventType>
+                           <lido:conceptID lido:type="URI">http://iflastandards.info/ns/fr/frbr/frbroo/F31</lido:conceptID>
+                           <lido:term lido:addedSearchTerm="no">Aufführung</lido:term>
+                        </lido:eventType>
+                        <lido:eventDate>
+                           <lido:displayDate>15.12.1916</lido:displayDate>
+                           <lido:date>
+                              <lido:earliestDate>1916-12-15</lido:earliestDate>
+                              <lido:latestDate>1916-12-15</lido:latestDate>
+                           </lido:date>
+                        </lido:eventDate>
+                        <lido:eventPlace>
+                           <lido:displayPlace>Deutsches Theater, Berlin</lido:displayPlace>
+                           <lido:place>
+                              <lido:placeID lido:type="URI">http://d-nb.info/gnd/4058252-8</lido:placeID>
+                              <lido:namePlaceSet>
+                                 <lido:appellationValue>Deutsches Theater, Berlin</lido:appellationValue>
+                              </lido:namePlaceSet>
+                           </lido:place>
+                        </lido:eventPlace>
+                     </lido:event>
+                  </lido:relatedEvent>
+                  <lido:relatedEventRelType>
+                     <lido:conceptID lido:type="URI">http://iflastandards.info/ns/fr/frbr/frbroo/F25</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="en">Performance Plan</lido:term>
+                  </lido:relatedEventRelType>
+               </lido:relatedEventSet>
+            </lido:event>
+         </lido:eventSet>
+         <lido:eventSet>
+            <lido:event>
+               <lido:eventType>
+                  <lido:conceptID lido:type="URI">http://terminology.lido-schema.org/lido00006</lido:conceptID>
+                  <lido:term lido:addedSearchTerm="no">Bearbeitung</lido:term>
+               </lido:eventType>
+               <lido:eventActor>
+                  <lido:displayActorInRole>Max Reinhardt</lido:displayActorInRole>
+                  <lido:actorInRole>
+                     <lido:actor>
+                        <lido:actorID lido:source="GND" lido:type="URI">http://d-nb.info/gnd/118599380</lido:actorID>
+                        <lido:nameActorSet>
+                           <lido:appellationValue>Max Reinhardt</lido:appellationValue>
+                        </lido:nameActorSet>
+                     </lido:actor>
+                     <lido:roleActor>
+                        <lido:conceptID lido:source="AAT" lido:type="URI">http://www.aat-deutsch.de/aat/detailseite/?id=300312210</lido:conceptID>
+                        <lido:term lido:addedSearchTerm="no">Regisseur</lido:term>
+                     </lido:roleActor>
+                  </lido:actorInRole>
+               </lido:eventActor>
+               <lido:eventDate>
+                  <lido:displayDate>1927</lido:displayDate>
+                  <lido:date>
+                     <lido:latestDate>1927</lido:latestDate>
+                  </lido:date>
+               </lido:eventDate>
+               <lido:eventMaterialsTech>
+                  <lido:displayMaterialsTech>Mit Leerseiten durchschossener Buchblock,
+                                Bleistift, Buntstift auf Papier</lido:displayMaterialsTech>
+                  <lido:materialsTech>
+                     <lido:termMaterialsTech lido:type="http://terminology.lido-schema.org/lido00132">
+                        <lido:conceptID lido:type="URI">http://vocab.getty.edu/aat/300014109</lido:conceptID>
+                        <lido:term lido:addedSearchTerm="no">Papier</lido:term>
+                     </lido:termMaterialsTech>
+                     <lido:termMaterialsTech lido:type="http://terminology.lido-schema.org/lido00132">
+                        <lido:conceptID lido:type="URI">http://vocab.getty.edu/aat/300022443</lido:conceptID>
+                        <lido:term lido:addedSearchTerm="no">Bleistift</lido:term>
+                     </lido:termMaterialsTech>
+                     <lido:termMaterialsTech lido:type="http://terminology.lido-schema.org/lido00132">
+                        <lido:conceptID lido:type="URI">http://vocab.getty.edu/aat/300022441</lido:conceptID>
+                        <lido:term lido:addedSearchTerm="no">Buntstift</lido:term>
+                     </lido:termMaterialsTech>
+                     <lido:termMaterialsTech lido:type="http://terminology.lido-schema.org/lido00132">
+                        <lido:conceptID lido:type="URI">http://vocab.getty.edu/aat/300253967</lido:conceptID>
+                        <lido:term lido:addedSearchTerm="no">Mit Leerseiten durchschossener Buchblock</lido:term>
+                     </lido:termMaterialsTech>
+                  </lido:materialsTech>
+               </lido:eventMaterialsTech>
+               <lido:relatedEventSet>
+                  <lido:relatedEvent>
+                     <lido:displayEvent>Premiere</lido:displayEvent>
+                     <lido:event>
+                        <lido:eventType>
+                           <lido:conceptID lido:type="URI">http://iflastandards.info/ns/fr/frbr/frbroo/F31</lido:conceptID>
+                           <lido:term lido:addedSearchTerm="no">Aufführung</lido:term>
+                        </lido:eventType>
+                        <lido:eventDate>
+                           <lido:displayDate>20.12.1927</lido:displayDate>
+                           <lido:date>
+                              <lido:earliestDate>1927-12-20</lido:earliestDate>
+                              <lido:latestDate>1927-12-20</lido:latestDate>
+                           </lido:date>
+                        </lido:eventDate>
+                        <lido:eventPlace>
+                           <lido:displayPlace>Century Theatre, New York</lido:displayPlace>
+                           <lido:place>
+                              <lido:placeID lido:type="URI">https://www.ibdb.com/theatre/century-theatre-1292</lido:placeID>
+                              <lido:namePlaceSet>
+                                 <lido:appellationValue>Century Theatre, New York</lido:appellationValue>
+                              </lido:namePlaceSet>
+                           </lido:place>
+                        </lido:eventPlace>
+                     </lido:event>
+                  </lido:relatedEvent>
+                  <lido:relatedEventRelType>
+                     <lido:conceptID lido:type="URI">http://iflastandards.info/ns/fr/frbr/frbroo/F25</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="en">Performance Plan</lido:term>
+                  </lido:relatedEventRelType>
+               </lido:relatedEventSet>
+            </lido:event>
+         </lido:eventSet>
+         <lido:eventSet>
+            <lido:displayEvent>Schenkung</lido:displayEvent>
+            <lido:event>
+               <lido:eventType>
+                  <lido:conceptID lido:type="URI">http://vocab.getty.edu/aat/300417640</lido:conceptID>
+                  <lido:term lido:addedSearchTerm="no">Schenkung</lido:term>
+               </lido:eventType>
+               <lido:eventActor>
+                  <lido:displayActorInRole>Helene Thimig</lido:displayActorInRole>
+                  <lido:actorInRole>
+                     <lido:actor>
+                        <lido:actorID lido:type="URI">http://d-nb.info/gnd/118757113</lido:actorID>
+                        <lido:nameActorSet>
+                           <lido:appellationValue>Helene Thimig</lido:appellationValue>
+                        </lido:nameActorSet>
+                        <lido:vitalDatesActor>
+                           <lido:earliestDate>1889-06-05</lido:earliestDate>
+                           <lido:latestDate>1974-11-07</lido:latestDate>
+                        </lido:vitalDatesActor>
+                     </lido:actor>
+                     <lido:roleActor>
+                        <lido:conceptID lido:type="URI">http://vocab.getty.edu/aat/300025240</lido:conceptID>
+                        <lido:term lido:addedSearchTerm="no">Schenkerin</lido:term>
+                     </lido:roleActor>
+                  </lido:actorInRole>
+               </lido:eventActor>
+               <lido:eventDate>
+                  <lido:displayDate>Oktober 1953</lido:displayDate>
+                  <lido:date>
+                     <lido:latestDate>1953</lido:latestDate>
+                  </lido:date>
+               </lido:eventDate>
+            </lido:event>
+         </lido:eventSet>
+      </lido:eventWrap>
+      <lido:objectRelationWrap>
+         <lido:relatedWorksWrap>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:displayObject>"Dantons Tod" von Georg Büchner</lido:displayObject>
+                  <lido:object>
+                     <lido:objectNote>Drama von Georg Büchner, im Insel Verlag (Leipzig)
+                                    erschienen.</lido:objectNote>
+                  </lido:object>
+               </lido:relatedWork>
+               <lido:relatedWorkRelType>
+                  <lido:conceptID lido:source="CIDOC-CRM" lido:type="URI">http://www.cidoc-crm.org/cidoc-crm/P69_has_association_with</lido:conceptID>
+                  <lido:term lido:addedSearchTerm="no" xml:lang="en">has association
+                                with</lido:term>
+               </lido:relatedWorkRelType>
+            </lido:relatedWorkSet>
+         </lido:relatedWorksWrap>
+      </lido:objectRelationWrap>
+   </lido:descriptiveMetadata>
+   <lido:administrativeMetadata xml:lang="de">
+      <lido:rightsWorkWrap>
+         <lido:rightsWorkSet>
+            <lido:rightsType>
+               <lido:term lido:addedSearchTerm="no">Rechtsnachfolger</lido:term>
+            </lido:rightsType>
+            <lido:rightsHolder>
+               <lido:legalBodyName>
+                  <lido:appellationValue>Institut für Theaterwissenschaft der FU Berlin,
+                                Theaterhistorische Sammlungen</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:rightsHolder>
+            <lido:creditLine>Förderprogramm zur Digitalisierung von Objekten des kulturellen Erbes des Landes Berlin</lido:creditLine>
+         </lido:rightsWorkSet>
+      </lido:rightsWorkWrap>
+      <lido:recordWrap>
+         <lido:recordID lido:type="local">15760</lido:recordID>
+         <lido:recordType>
+            <lido:conceptID lido:type="URI">http://terminology.lido-schema.org/lido00141</lido:conceptID>
+            <lido:term lido:addedSearchTerm="no">Einzelobjekt</lido:term>
+         </lido:recordType>
+         <lido:recordSource>
+            <lido:legalBodyName>
+               <lido:appellationValue>Institut für Theaterwissenschaft der FU
+                            Berlin, Theaterhistorische Sammlungen</lido:appellationValue>
+            </lido:legalBodyName>
+            <lido:legalBodyWeblink>http://www.geisteswissenschaften.fu-berlin.de/we07/institut/sammlungen/</lido:legalBodyWeblink>
+         </lido:recordSource>
+         <lido:recordRights>
+            <lido:rightsType>
+               <lido:conceptID lido:type="URI">https://creativecommons.org/publicdomain/zero/1.0/deed.de</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="en">CC0 Public Domain Dedication
+                            1.0</lido:term>
+            </lido:rightsType>
+         </lido:recordRights>
+         <lido:recordInfoSet lido:type="lido record">
+            <lido:recordMetadataDate lido:type="http://terminology.lido-schema.org/lido00472">2018-02-05</lido:recordMetadataDate>
+            <lido:recordMetadataDate lido:type="http://terminology.lido-schema.org/lido00473">2018-09-19</lido:recordMetadataDate>
+         </lido:recordInfoSet>
+         <lido:recordInfoSet>
+            <lido:recordInfoLink lido:formatResource="text/html" lido:pref="preferred">http://www.fu-berlin.de/max-reinhardt</lido:recordInfoLink>
+         </lido:recordInfoSet>
+      </lido:recordWrap>
+      <lido:resourceWrap>
+         <lido:resourceSet>
+            <lido:resourceID lido:type="local">MRDT_007v-MRDT_008r</lido:resourceID>
+            <lido:resourceRepresentation lido:type="image_master">
+               <lido:linkResource>http://medien.cedis.fu-berlin.de/thea_edition/data/input_data/images/double/MRDT_007v-MRDT_008r.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceType>
+               <lido:term lido:addedSearchTerm="no">digital image</lido:term>
+            </lido:resourceType>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="URI">https://creativecommons.org/licenses/by-sa/3.0/de/</lido:conceptID>
+                  <lido:term lido:addedSearchTerm="no">CC BY-SA 3.0 DE</lido:term>
+               </lido:rightsType>
+            </lido:rightsResource>
+         </lido:resourceSet>
+      </lido:resourceWrap>
+   </lido:administrativeMetadata>
+</lido:lido>
+

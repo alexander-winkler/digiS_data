@@ -1,0 +1,1288 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lido:lido xmlns:gml="http://www.opengis.net/gml"
+           xmlns:lido="http://www.lido-schema.org"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <lido:lidoRecID lido:source="https://berlin.museum-digital.de/index.php?t=institution&amp;instnr=21"
+                   lido:type="local">DE-MUS-061525/86354</lido:lidoRecID>
+   <lido:descriptiveMetadata xml:lang="de">
+      <lido:objectClassificationWrap>
+         <lido:objectWorkTypeWrap>
+            <lido:objectWorkType>
+               <lido:conceptID lido:source="gnd" lido:type="uri">http://d-nb.info/gnd/4164176-0</lido:conceptID>
+               <lido:conceptID lido:source="grobsystematik" lido:type="uri">https://term.museum-digital.de/grobsystematik/tag/13321</lido:conceptID>
+               <lido:conceptID lido:source="oberbegriffsdatei" lido:type="uri">https://term.museum-digital.de/oberbegriffsdatei/tag/2036</lido:conceptID>
+               <lido:conceptID lido:source="aat" lido:type="uri">http://vocab.getty.edu/aat/300041575</lido:conceptID>
+               <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh85027100</lido:conceptID>
+               <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/1331</lido:conceptID>
+               <lido:term>Uhr</lido:term>
+            </lido:objectWorkType>
+         </lido:objectWorkTypeWrap>
+         <lido:classificationWrap>
+            <lido:classification lido:type="Sammlung">
+               <lido:conceptID lido:source="local" lido:type="collection_id">624</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no">Musikaliensammlung</lido:term>
+            </lido:classification>
+         </lido:classificationWrap>
+      </lido:objectClassificationWrap>
+      <lido:objectIdentificationWrap>
+         <lido:titleWrap>
+            <lido:titleSet>
+               <lido:appellationValue lido:pref="preferred">Conrad Ehrbar, Bodenstanduhr mit Harfenwerk, um 1785, Inv. Nr. SM 2012-2673</lido:appellationValue>
+            </lido:titleSet>
+         </lido:titleWrap>
+         <lido:inscriptionsWrap>
+            <lido:inscriptions>
+               <lido:inscriptionDescription>
+                  <lido:descriptiveNoteValue>auf Kartusche über dem Zifferblatt: „Ehrbar Berlin“</lido:descriptiveNoteValue>
+               </lido:inscriptionDescription>
+            </lido:inscriptions>
+         </lido:inscriptionsWrap>
+         <lido:repositoryWrap>
+            <lido:repositorySet lido:type="current">
+               <lido:repositoryName>
+                  <lido:legalBodyID lido:type="isil">DE-MUS-061525</lido:legalBodyID>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Stiftung Stadtmuseum Berlin</lido:appellationValue>
+                  </lido:legalBodyName>
+                  <lido:legalBodyWeblink>https://www.stadtmuseum.de</lido:legalBodyWeblink>
+               </lido:repositoryName>
+               <lido:workID lido:type="inventory number">SM 2012-2673</lido:workID>
+               <lido:repositoryLocation>
+                  <lido:namePlaceSet>
+                     <lido:appellationValue>Berlin</lido:appellationValue>
+                  </lido:namePlaceSet>
+                  <lido:gml>
+                     <gml:Point srsName="EPSG:4326">
+                        <gml:pos>52.51618576 13.40692997</gml:pos>
+                     </gml:Point>
+                  </lido:gml>
+               </lido:repositoryLocation>
+            </lido:repositorySet>
+         </lido:repositoryWrap>
+         <lido:objectDescriptionWrap>
+            <lido:objectDescriptionSet>
+               <lido:descriptiveNoteValue>Das Gehäuse ist dreiteilig aufgebaut, über dem querrechteckigen Sockel erhebt sich ein hoher Pendelkasten, das lose Kopfstück ist über Führungsnuten aufgesetzt. Stilistisch steht diese Form in der Tradition englischer Bodenstanduhren. Der gesamte Korpus ist farbig, mit einer schwarz-goldenen Lackmalerei gefasst, die Füllungen im Sockel und an der Schauseite des Pendelkastens zeigen Szenerien mit chinesischen Motiven. Diese Chinoiserien beeinflussten das Kunsthandwerk seit dem 17. Jahrhundert mit Abbildungen exotischer Landschaften, Pagoden und asiatischer Staffagefiguren auf Luxusgegenständen. Einen erneuten, romantisierenden Impuls erhielt diese Chinamode in der Zeit um 1790, in der die Sehnsucht nach der Natur und dem ursprünglichen Leben zum Ausdruck kam und sich in idealisierter Gestaltung im Kunsthandwerk wiederspiegelte, wofür diese Uhr ein typisches Beispiel ist.&lt;br&gt;
+Auf dem abgesetzten, trapezförmig aufgebauten Sockel mit leicht abgerundeten Ecken, sind die Füllungen goldfarben gerahmt und zeigen Malereien mit Personenstaffagen in exotischer Gartenarchitektur. An der Schauseite des Pendelkastens bilden die Leiste um die hochrechteckige Tür und die goldfarbene Profilleiste um die verglaste Kassette einen breiten Rahmen, der mit einem halbrunden Bogen an der Oberseite abschließt. Die dazwischen liegende Fläche zieren farbige Rosenfestons, goldfarbene Ornamente und Bänder. Auf der in die Tür eingelegten Kassette sind auf textilem Grund Szenen des einfachen asiatischen Landlebens abgebildet. Über der Pagode im unteren Segment stellen Staffagefiguren typische Arbeiten der Landleute dar, die Obsternte, die Arbeit auf dem Feld und den Fischfang sowie das Verweilen danach, gemeinsam ausruhend auf einer Bank inmitten einer idealen Landschaft. Die beiden seitlichen Füllungen sind mit Seide bespannt, die mit je einer Rosette und strahlenförmig verlaufenden Linien bemalt sind und nicht so recht in die Gesamtgestaltung des Gehäuses passen wollen. Auch die etwas oberflächlich ausgeführte Seidenmalerei deutet darauf hin, dass diese vermutlich später erneuert wurde. Über dem abschließenden Gesims des Mittelteils erhebt sich das voluminöse, mehrstufige Kopfteil. Die quadratische Glastür mit eingezogenem Bogenfeld ist von einer goldfarbenen Leiste gerahmt und flankiert von zwei kleinen Säulen. Die mit Seidenstoff bespannten, verschließbaren seitlichen Türen sind mit Blattranken und Vögeln bemalt und dienen als Schallloch für das Musikwerk. Die Innenfläche zeigt einen rosafarbenen Anstrich. Über dem darüber liegenden, bogenförmigen Gesims schließt sich ein Zwischengeschoss an, das an den Seiten aufgebrochen und mit geschnitztem Gitter- und Blattwerk auf textilem Grund belegt ist. Das abschließende, gerade Dachgesims ist mit vier schwarz-gold lackierten Vasen aus Holz bekrönt, zwei vordere, auf Plinthen, dahinter zwei auf geschweiften Sockeln stehend. Ein balusterartiger Aufsatz auf quadratischem Grund schließt den Aufbau mit einer Vase mit ausladenden, eckigen Henkeln ab.&lt;br&gt;
+Das Zusammenspiel der Dekorelemente sowie die sehr schlichte Ausführung der Lackmalereien deuten darauf hin, dass diese Uhr sicher nicht für ein höfisches Umfeld bestimmt war, obwohl der außergewöhnlich hohe Aufbau nach entsprechenden Räumlichkeiten verlangt, sich aber mit dem Platzanspruch für den Resonanzkasten im Gehäuse erklären dürfte. Es ist nicht bekannt, wer das Gehäuse entworfen und die Arbeiten ausgeführt haben könnte. Ebenso gibt es keinen Hinweis darauf, für wen die Uhr angefertigt wurde. Der Verein der Freunde und Förderer des Berlin Museums erwarb die Uhr 1980 aus bisher nicht benanntem schwedischen Besitz. In den Akten der Berliner Gewerbedeputation wird der Uhrmacher Conrad Ehrbar erstmals 1780 erwähnt. 1786 weist auch Friedrich Nicolai in seiner Beschreibung über die „Vollkommenheit der Berliner Spieluhren“ auf diesen Uhrmacher hin. Im gleichen Jahr inseriert Ehrbar in der Februar-Ausgabe des „Journals der Moden“ vier verschiedene Flötenuhren zu unterschiedlichen Preisen in Gehäusen mit Bildhauerarbeit, Bronze, Marmor oder mit Figur. (Anne Franzkowiak, Silke Kiesant)&lt;br&gt;</lido:descriptiveNoteValue>
+               <lido:sourceDescriptiveNote>Stiftung Stadtmuseum Berlin</lido:sourceDescriptiveNote>
+            </lido:objectDescriptionSet>
+            <lido:objectDescriptionSet lido:type="Detailbeschreibung">
+               <lido:descriptiveNoteValue>Das Uhrwerk mit Antriebswerk befindet sich hinter dem Zifferblatt. Das Gehwerk mit Clementhemmung besteht aus einem rechteckigen Vollplatinenwerk aus Messing (H: 16,7 cm; B: 11,5 cm; T: 16 cm; Werkpfeiler-H: 5,6 cm). Die Werkpfeiler sind balusterförmig mit mittlerem Nodus ausgeführt. Das Geh- und Schlagwerk sowie das Antriebswerk sind auf einen Werkstuhl (H: 16,7 cm; B: 42,3 cm; T: 25 cm) montiert. Das Uhrwerk verfügt über Sekundenindikation und ein Rechenschlagwerk mit Stundenschlag auf Glocke. Das Gehwerk befindet sich auf der rechten Seite, das Schlagwerk linksseitig. Die Pendelfeder ist nicht mehr vorhanden. Der Gewichtsaufzug erfolgt über Umlenkrollen aus Bein und Darmsaiten, die Gewichte dazu fehlen.&lt;br&gt;
+Das viereckige, nach englischem Vorbild ausgeführte Zifferblatt (H: 42 cm; B: 29,7 cm; D: Ziffernring: 29 cm) besteht aus einer Messingplatte mit montiertem Ziffernring aus weiß gefasstem Zinnblech, mit großen arabischen Stundenangaben und kleinen arabischen Fünfminutenziffern. Die Minuterie ist mit Punkten, Fünfminuten mit kreuzförmig angeordneten Punkten angegeben. Ein kleiner Sekundenring befindet sich unterhalb der 12 mit Ziffernreif und Zehn-Sekundeneinteilung. Das Zifferblatt ist mit gegossenen Ornamenten aus vergoldetem Messing verziert: drachenähnliche Fabelwesen mit Ranken im Arkus, in den Lünetten Rocaillen mit Ranken, Blättern und Früchten. Im mittleren Bereich ist es von einer Gravur überzogen: sphärisch gekrümmte Linien mit Punkten, die ein rhombenförmiges Muster durch zwei sich schneidende Kreise bilden. Die in barocker, durchbrochener Form ausgeführten Zeiger aus Stahl sind gebläut. Zwei Aufzugslöcher befinden sich bei 3 und 9. Auf einer Kartusche über der 12 werden die verschiedenen Funktionen der Uhr eingestellt: „Spieler“ (ursprünglich Spielen), „Schlagen Stille“, darunter die Signatur „Ehrbar Berlin“. Die schlichte Ausführung von Ziffernring und Kartusche lässt darauf schließen, dass diese später ersetzt worden sind. Die fast baugleiche Bodenstanduhr mit Harfenwerk aus dem Schlossmuseum in Darmstadt besitzt einen Ziffernring mit gestochenen Zahlen, ausgelegt mit Gravurkitt, was der Qualität dieser Uhr auch eher entspricht.&lt;br&gt;
+Der Antrieb für die Spielwerksmechanik ist rechts vom Geh- und Schlagwerk positioniert. Die Platine (H: 19,2 cm; B: 3,5 cm) aus Messing und Stahl in Flachrahmenbauweise ist auf den Werkstuhl montiert. Die Vorderplatine des Antriebswerkes ist materialsparend kreuzförmig nach rechts verlängert, wo sie die Walze aufnimmt. Für die gleichmäßige Temporegulierung sorgt der Windfang mit rechteckigen Windflügeln. Er ist durch einen Stahlkloben der Vorderplatine vorgelagert. Die Seiltrommel für den Gewichtsaufzug ist zwischen den Platinen integriert. Die Mechanik für die Auslösung des Spielwerkes über einen verlängerten Hebel, der über die Kadratur gesteuert wird, ist vorhanden. An der Rückseite des Spielwerkes ist der Resonanzkasten mit dem Harfenwerk mit je einem Eisenhaken an den Seiten des Spielwerkes befestigt. Der Resonanzkasten (H: 142,4 cm; B: 35,4 cm; T: 6,9 cm; Bodenbrett: T 2,2 cm; Schallloch: D: 5,6 cm) aus Holz ist an den Außenrändern ochsenblutfarben gefasst und enthält den Resonanzboden mit rundem Schallloch, der mehrfach gerissen und gewölbt ist, sowie die Besaitung.&lt;br&gt;
+Das Instrument mit einem Tonumfang von C/D bis d‘‘‘ (chromatisch ohne Cis) ist komplett dreichörig besaitet. Die 50 Claves waren ursprüngliche an den Enden beledert, was nur noch rudimentär erhalten ist. Das in einfacher Bauweise ausgeführte Spielwerk befindet sich hinter dem Uhrwerk, mit Platine/Spielwerksrahmen (B: 33,5cm; T: 20,5 cm), an der Vorderseite aus Messing, an der Rückseite aus Stahl. Die sechs Walzen (L: 29 cm; D: 14,1 cm) aus Holz mit vierkantiger Walzenachse sind geradlinig mit Stahlstiften bestiftet. Da auf jeder Walze drei Musikstücke notiert sind, verlaufen drei parallele Stiftreihen für das jeweilige Musikstück nebeneinander, so dass nach einmaliger Umdrehung der Walze die Musik endet. Über eine Wippe ließ sich die Walze auf das nächste Musikstück verschieben. Dieser Mechanismus ist noch vorhanden. Die Walzen sind mit Klebezetteln versehen, auf denen jedoch nur die Satzbezeichnungen wie Marsch, Fantasie, Polka, Galopp oder Anglaise vermerkt sind, ohne Angabe des Komponisten. Auch für die Harfenuhren wurden eigens Musikstücke komponiert. Während seiner Zeit als Kammer-Cembalist von Friedrich II. am preußischen Hof bis 1786 schrieb Carl Philipp Emanuel Bach einige Werke für die Harfenuhr, die Bezeichnungen wie Polonaise, Menuett, Presto oder Allegro trugen.&lt;br&gt;
+Als Hersteller der Walzen kann der Berliner Walzensetzer Adolph Kummer vermutet werden, da diese ein gestempeltes „K“ aufweisen. Die Walzen sind zwar teilweise leicht gerissen, einige Stifte müssten ergänzt werden, dennoch scheinen diese verwendbar zu sein. Das Harfenwerk ist nicht funktionstüchtig. (Anne Franzkowiak, Franka Görike)</lido:descriptiveNoteValue>
+               <lido:sourceDescriptiveNote>Stiftung Stadtmuseum Berlin</lido:sourceDescriptiveNote>
+            </lido:objectDescriptionSet>
+         </lido:objectDescriptionWrap>
+         <lido:objectMeasurementsWrap>
+            <lido:objectMeasurementsSet>
+               <lido:displayObjectMeasurements>Höhe 305 cm, Breite 62 cm, Tiefe 70 cm</lido:displayObjectMeasurements>
+            </lido:objectMeasurementsSet>
+         </lido:objectMeasurementsWrap>
+      </lido:objectIdentificationWrap>
+      <lido:eventWrap>
+         <lido:eventSet>
+            <lido:displayEvent>Hergestellt</lido:displayEvent>
+            <lido:event>
+               <lido:eventType>
+                  <lido:conceptID lido:type="uri">http://terminology.lido-schema.org/lido00007</lido:conceptID>
+                  <lido:term lido:addedSearchTerm="no">Hergestellt</lido:term>
+               </lido:eventType>
+               <lido:eventActor>
+                  <lido:displayActorInRole>Conrad Ehrbar</lido:displayActorInRole>
+                  <lido:actorInRole>
+                     <lido:actor>
+                        <lido:actorID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/persinst/152413</lido:actorID>
+                        <lido:nameActorSet>
+                           <lido:appellationValue>Ehrbar, Conrad</lido:appellationValue>
+                        </lido:nameActorSet>
+                     </lido:actor>
+                  </lido:actorInRole>
+               </lido:eventActor>
+               <lido:eventActor>
+                  <lido:displayActorInRole>Adolph Kummer</lido:displayActorInRole>
+                  <lido:actorInRole>
+                     <lido:actor>
+                        <lido:actorID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/persinst/152414</lido:actorID>
+                        <lido:nameActorSet>
+                           <lido:appellationValue>Kummer, Adolph</lido:appellationValue>
+                        </lido:nameActorSet>
+                     </lido:actor>
+                  </lido:actorInRole>
+               </lido:eventActor>
+               <lido:eventDate>
+                  <lido:displayDate>1785 (wahrscheinlich)</lido:displayDate>
+                  <lido:displayDate xml:lang="ar">1785</lido:displayDate>
+                  <lido:displayDate xml:lang="en">1785</lido:displayDate>
+                  <lido:displayDate xml:lang="es">1785</lido:displayDate>
+                  <lido:displayDate xml:lang="fa">1785</lido:displayDate>
+                  <lido:displayDate xml:lang="fr">1785</lido:displayDate>
+                  <lido:displayDate xml:lang="hu">1785</lido:displayDate>
+                  <lido:displayDate xml:lang="id">1785</lido:displayDate>
+                  <lido:displayDate xml:lang="it">1785</lido:displayDate>
+                  <lido:displayDate xml:lang="ja">1785年</lido:displayDate>
+                  <lido:displayDate xml:lang="ka">1785</lido:displayDate>
+                  <lido:displayDate xml:lang="ko">1785년</lido:displayDate>
+                  <lido:displayDate xml:lang="pl">1785</lido:displayDate>
+                  <lido:displayDate xml:lang="pt">1785</lido:displayDate>
+                  <lido:displayDate xml:lang="ro">1785</lido:displayDate>
+                  <lido:displayDate xml:lang="ru">1785</lido:displayDate>
+                  <lido:displayDate xml:lang="ta">1785</lido:displayDate>
+                  <lido:displayDate xml:lang="tl">1785</lido:displayDate>
+                  <lido:displayDate xml:lang="tr">1785</lido:displayDate>
+                  <lido:displayDate xml:lang="zh">1785年</lido:displayDate>
+                  <lido:date>
+                     <lido:earliestDate>1785</lido:earliestDate>
+                     <lido:latestDate>1785</lido:latestDate>
+                  </lido:date>
+               </lido:eventDate>
+               <lido:eventPlace>
+                  <lido:displayPlace>Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ar">برلين</lido:displayPlace>
+                  <lido:displayPlace xml:lang="bn">বার্লিন</lido:displayPlace>
+                  <lido:displayPlace xml:lang="cs">Berlín</lido:displayPlace>
+                  <lido:displayPlace xml:lang="da">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="el">Βερολίνο</lido:displayPlace>
+                  <lido:displayPlace xml:lang="en">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="es">Berlín</lido:displayPlace>
+                  <lido:displayPlace xml:lang="fa">برلین</lido:displayPlace>
+                  <lido:displayPlace xml:lang="fi">Berliini</lido:displayPlace>
+                  <lido:displayPlace xml:lang="fr">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ha">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="he">ברלין</lido:displayPlace>
+                  <lido:displayPlace xml:lang="hi">बर्लिन</lido:displayPlace>
+                  <lido:displayPlace xml:lang="hu">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="id">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="it">Berlino</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ja">ベルリン</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ka">ბერლინი</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ko">베를린</lido:displayPlace>
+                  <lido:displayPlace xml:lang="nl">Berlijn</lido:displayPlace>
+                  <lido:displayPlace xml:lang="pl">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="pt">Berlim</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ro">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ru">Берлин</lido:displayPlace>
+                  <lido:displayPlace xml:lang="sv">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="sw">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ta">பெர்லின்</lido:displayPlace>
+                  <lido:displayPlace xml:lang="th">เบอร์ลิน</lido:displayPlace>
+                  <lido:displayPlace xml:lang="tl">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="tr">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ur">برلن</lido:displayPlace>
+                  <lido:displayPlace xml:lang="vi">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="zh">柏林</lido:displayPlace>
+                  <lido:place>
+                     <lido:placeID lido:source="geonames" lido:type="uri">https://sws.geonames.org/2950159</lido:placeID>
+                     <lido:placeID lido:source="TGN" lido:type="uri">http://vocab.getty.edu/tgn/7209904</lido:placeID>
+                     <lido:placeID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4005728-8</lido:placeID>
+                     <lido:placeID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q64</lido:placeID>
+                     <lido:placeID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/place/61</lido:placeID>
+                     <lido:namePlaceSet>
+                        <lido:appellationValue>Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ar">برلين</lido:appellationValue>
+                        <lido:appellationValue xml:lang="bn">বার্লিন</lido:appellationValue>
+                        <lido:appellationValue xml:lang="cs">Berlín</lido:appellationValue>
+                        <lido:appellationValue xml:lang="da">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="el">Βερολίνο</lido:appellationValue>
+                        <lido:appellationValue xml:lang="en">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="es">Berlín</lido:appellationValue>
+                        <lido:appellationValue xml:lang="fa">برلین</lido:appellationValue>
+                        <lido:appellationValue xml:lang="fi">Berliini</lido:appellationValue>
+                        <lido:appellationValue xml:lang="fr">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ha">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="he">ברלין</lido:appellationValue>
+                        <lido:appellationValue xml:lang="hi">बर्लिन</lido:appellationValue>
+                        <lido:appellationValue xml:lang="hu">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="id">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="it">Berlino</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ja">ベルリン</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ka">ბერლინი</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ko">베를린</lido:appellationValue>
+                        <lido:appellationValue xml:lang="nl">Berlijn</lido:appellationValue>
+                        <lido:appellationValue xml:lang="pl">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="pt">Berlim</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ro">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ru">Берлин</lido:appellationValue>
+                        <lido:appellationValue xml:lang="sv">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="sw">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ta">பெர்லின்</lido:appellationValue>
+                        <lido:appellationValue xml:lang="th">เบอร์ลิน</lido:appellationValue>
+                        <lido:appellationValue xml:lang="tl">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="tr">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ur">برلن</lido:appellationValue>
+                        <lido:appellationValue xml:lang="vi">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="zh">柏林</lido:appellationValue>
+                     </lido:namePlaceSet>
+                     <lido:gml>
+                        <gml:Point srsName="EPSG:4326">
+                           <gml:pos>52.516666412354 13.383333206177</gml:pos>
+                        </gml:Point>
+                     </lido:gml>
+                  </lido:place>
+               </lido:eventPlace>
+               <lido:eventMaterialsTech>
+                  <lido:displayMaterialsTech>Gehäuse: Nadelholz, gefasst, bemalt, teilweise geschnitzt; Seitliche Schallöffnungen: Seide, bemalt; Vordere Türfüllung: Textil mit Farbfassung; Glas; Uhrwerk: Messing, Stahl, Zink, gefasst; Umlenkrollen: Bein; Glocke: Silberbronze; Spielwerk: Resonanzkasten: Eiche, Kiefer; Resonanzboden: Fichte, Stahl, Messingsaiten; Wirbel: Eisen; Dämpfer: Filz</lido:displayMaterialsTech>
+               </lido:eventMaterialsTech>
+            </lido:event>
+         </lido:eventSet>
+         <lido:eventSet>
+            <lido:displayEvent>Gekauft</lido:displayEvent>
+            <lido:event>
+               <lido:eventType>
+                  <lido:conceptID lido:type="uri">http://terminology.lido-schema.org/lido00001</lido:conceptID>
+                  <lido:term lido:addedSearchTerm="no">Gekauft</lido:term>
+               </lido:eventType>
+               <lido:eventActor>
+                  <lido:displayActorInRole>Verein der Freunde und Förderer des Stadtmuseums Berlin e.V.</lido:displayActorInRole>
+                  <lido:actorInRole>
+                     <lido:actor>
+                        <lido:actorID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/persinst/152415</lido:actorID>
+                        <lido:nameActorSet>
+                           <lido:appellationValue>Verein der Freunde und Förderer des Stadtmuseums Berlin e.V.</lido:appellationValue>
+                        </lido:nameActorSet>
+                     </lido:actor>
+                  </lido:actorInRole>
+               </lido:eventActor>
+               <lido:eventDate>
+                  <lido:displayDate>1980</lido:displayDate>
+                  <lido:displayDate xml:lang="ar">1980</lido:displayDate>
+                  <lido:displayDate xml:lang="en">1980</lido:displayDate>
+                  <lido:displayDate xml:lang="es">1980</lido:displayDate>
+                  <lido:displayDate xml:lang="fa">1980</lido:displayDate>
+                  <lido:displayDate xml:lang="fr">1980</lido:displayDate>
+                  <lido:displayDate xml:lang="hu">1980</lido:displayDate>
+                  <lido:displayDate xml:lang="id">1980</lido:displayDate>
+                  <lido:displayDate xml:lang="it">1980</lido:displayDate>
+                  <lido:displayDate xml:lang="ja">1980年</lido:displayDate>
+                  <lido:displayDate xml:lang="ka">1980</lido:displayDate>
+                  <lido:displayDate xml:lang="ko">1980년</lido:displayDate>
+                  <lido:displayDate xml:lang="pl">1980</lido:displayDate>
+                  <lido:displayDate xml:lang="pt">1980</lido:displayDate>
+                  <lido:displayDate xml:lang="ro">1980</lido:displayDate>
+                  <lido:displayDate xml:lang="ru">1980</lido:displayDate>
+                  <lido:displayDate xml:lang="ta">1980</lido:displayDate>
+                  <lido:displayDate xml:lang="tl">1980</lido:displayDate>
+                  <lido:displayDate xml:lang="tr">1980</lido:displayDate>
+                  <lido:displayDate xml:lang="zh">1980年</lido:displayDate>
+                  <lido:date>
+                     <lido:earliestDate>1980</lido:earliestDate>
+                     <lido:latestDate>1980</lido:latestDate>
+                  </lido:date>
+               </lido:eventDate>
+               <lido:eventPlace>
+                  <lido:displayPlace>Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ar">برلين</lido:displayPlace>
+                  <lido:displayPlace xml:lang="bn">বার্লিন</lido:displayPlace>
+                  <lido:displayPlace xml:lang="cs">Berlín</lido:displayPlace>
+                  <lido:displayPlace xml:lang="da">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="el">Βερολίνο</lido:displayPlace>
+                  <lido:displayPlace xml:lang="en">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="es">Berlín</lido:displayPlace>
+                  <lido:displayPlace xml:lang="fa">برلین</lido:displayPlace>
+                  <lido:displayPlace xml:lang="fi">Berliini</lido:displayPlace>
+                  <lido:displayPlace xml:lang="fr">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ha">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="he">ברלין</lido:displayPlace>
+                  <lido:displayPlace xml:lang="hi">बर्लिन</lido:displayPlace>
+                  <lido:displayPlace xml:lang="hu">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="id">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="it">Berlino</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ja">ベルリン</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ka">ბერლინი</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ko">베를린</lido:displayPlace>
+                  <lido:displayPlace xml:lang="nl">Berlijn</lido:displayPlace>
+                  <lido:displayPlace xml:lang="pl">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="pt">Berlim</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ro">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ru">Берлин</lido:displayPlace>
+                  <lido:displayPlace xml:lang="sv">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="sw">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ta">பெர்லின்</lido:displayPlace>
+                  <lido:displayPlace xml:lang="th">เบอร์ลิน</lido:displayPlace>
+                  <lido:displayPlace xml:lang="tl">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="tr">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ur">برلن</lido:displayPlace>
+                  <lido:displayPlace xml:lang="vi">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="zh">柏林</lido:displayPlace>
+                  <lido:place>
+                     <lido:placeID lido:source="geonames" lido:type="uri">https://sws.geonames.org/2950159</lido:placeID>
+                     <lido:placeID lido:source="TGN" lido:type="uri">http://vocab.getty.edu/tgn/7209904</lido:placeID>
+                     <lido:placeID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4005728-8</lido:placeID>
+                     <lido:placeID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q64</lido:placeID>
+                     <lido:placeID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/place/61</lido:placeID>
+                     <lido:namePlaceSet>
+                        <lido:appellationValue>Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ar">برلين</lido:appellationValue>
+                        <lido:appellationValue xml:lang="bn">বার্লিন</lido:appellationValue>
+                        <lido:appellationValue xml:lang="cs">Berlín</lido:appellationValue>
+                        <lido:appellationValue xml:lang="da">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="el">Βερολίνο</lido:appellationValue>
+                        <lido:appellationValue xml:lang="en">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="es">Berlín</lido:appellationValue>
+                        <lido:appellationValue xml:lang="fa">برلین</lido:appellationValue>
+                        <lido:appellationValue xml:lang="fi">Berliini</lido:appellationValue>
+                        <lido:appellationValue xml:lang="fr">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ha">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="he">ברלין</lido:appellationValue>
+                        <lido:appellationValue xml:lang="hi">बर्लिन</lido:appellationValue>
+                        <lido:appellationValue xml:lang="hu">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="id">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="it">Berlino</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ja">ベルリン</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ka">ბერლინი</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ko">베를린</lido:appellationValue>
+                        <lido:appellationValue xml:lang="nl">Berlijn</lido:appellationValue>
+                        <lido:appellationValue xml:lang="pl">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="pt">Berlim</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ro">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ru">Берлин</lido:appellationValue>
+                        <lido:appellationValue xml:lang="sv">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="sw">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ta">பெர்லின்</lido:appellationValue>
+                        <lido:appellationValue xml:lang="th">เบอร์ลิน</lido:appellationValue>
+                        <lido:appellationValue xml:lang="tl">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="tr">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ur">برلن</lido:appellationValue>
+                        <lido:appellationValue xml:lang="vi">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="zh">柏林</lido:appellationValue>
+                     </lido:namePlaceSet>
+                     <lido:gml>
+                        <gml:Point srsName="EPSG:4326">
+                           <gml:pos>52.516666412354 13.383333206177</gml:pos>
+                        </gml:Point>
+                     </lido:gml>
+                  </lido:place>
+               </lido:eventPlace>
+            </lido:event>
+         </lido:eventSet>
+      </lido:eventWrap>
+      <lido:objectRelationWrap>
+         <lido:subjectWrap>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Uhr</lido:conceptID>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4164176-0</lido:conceptID>
+                     <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh85027100</lido:conceptID>
+                     <lido:conceptID lido:source="aat" lido:type="uri">http://vocab.getty.edu/aat/300041575</lido:conceptID>
+                     <lido:conceptID lido:source="grobsystematik" lido:type="uri">https://term.museum-digital.de/grobsystematik/tag/13321</lido:conceptID>
+                     <lido:conceptID lido:source="oberbegriffsdatei" lido:type="uri">https://term.museum-digital.de/Oberbegriffsdatei/tag/2036</lido:conceptID>
+                     <lido:conceptID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q376</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/1331</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Uhr</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ar">ساعة</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="bn">ঘড়ি</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="cs">Hodiny</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="da">Ur</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="el">Ρολόι</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="en">Clock</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="es">Reloj</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fa">ساعت</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fi">Kello</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fr">Horloge</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ha">agogo</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="he">שעון</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hi">घडी</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hu">óra</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="id">Jam</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="it">Orologio</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ja">時計</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ka">საათი</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ko">시계</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="nl">Klok</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pl">Zegar</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pt">Relógio</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ro">ceas</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ru">часы</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sv">Klocka</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sw">saa</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ta">கடிகாரம்</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="th">นาฬิกา</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tl">Orasan</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tr">Saat</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ur">گھنٹا</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="vi">Đồng hồ</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="zh">時鐘</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Chinoiserie</lido:conceptID>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4202440-7</lido:conceptID>
+                     <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh2009005015</lido:conceptID>
+                     <lido:conceptID lido:source="aat" lido:type="uri">http://vocab.getty.edu/aat/300021167</lido:conceptID>
+                     <lido:conceptID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q863679</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/1597</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Chinoiserie</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ar">زخرفة صينية</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="en">Chinoiserie</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="es">Chinoiserie</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fa">چینی‌گرایی</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fi">Chinoiserie</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fr">Chinoiserie</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="it">Cineserie</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ja">シノワズリ</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ko">중국 양식</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="nl">Chinoiserie</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pl">Chinoiserie</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pt">Chinoiserie</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ru">Шинуазри</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sv">Kineseri</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="vi">Phong cách Trung Quốc</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="zh">中国风</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">http://de.wikipedia.org/wiki/Bodenstanduhr</lido:conceptID>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">http://d-nb.info/gnd/4056929-9</lido:conceptID>
+                     <lido:conceptID lido:source="grobsystematik" lido:type="uri">https://term.museum-digital.de/grobsystematik/tag/1214</lido:conceptID>
+                     <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh85078282</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/5856</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Bodenstanduhr</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">http://de.wikipedia.org/wiki/Mechanischer Musikautomat</lido:conceptID>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">http://d-nb.info/gnd/4129391-5</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/19304</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Mechanisches Musikinstrument</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/89769</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Harfenwerk</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+         </lido:subjectWrap>
+         <lido:relatedWorksWrap>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:displayObject>Musikinstrumenten-Museum Berlin (SIMPK), Inv. Nr. 4900, Johann Christian Krüger, Bodenstanduhr mit Harfenwerk, 1764&lt;br&gt;
+Schlossmuseum Darmstadt, Inv. Nr. 2715 KH (Leihgabe der Städtischen Kunstsammlungen), Conrad Ehrbar, Bodenstanduhr mit Harfenwerk, um 1780&lt;br&gt;
+Stiftung Preußische Schlösser und Gärten, Inv. Nr. V 126, Conrad Ehrbar, Bodenstanduhr mit Flötenwerk, um 1780</lido:displayObject>
+               </lido:relatedWork>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:displayObject>Journal der Moden 1 (1786)</lido:displayObject>
+                  <lido:object>
+                     <lido:objectWebResource>http://digital.ub.uni-duesseldorf.de/ihd/periodical/titleinfo/1961302</lido:objectWebResource>
+                  </lido:object>
+               </lido:relatedWork>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:displayObject>Musikinstrumenten-Museum Berlin (SIMPK), Inv. Nr. 4900, Johann Christian Krüger, Bodenstanduhr mit Harfenwerk, 1764</lido:displayObject>
+                  <lido:object>
+                     <lido:objectWebResource>https://smb.museum-digital.de/index.php?t=objekt&amp;oges=182594</lido:objectWebResource>
+                  </lido:object>
+               </lido:relatedWork>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:displayObject>Heyde, Herbert, 1994: Musikinstrumentenbau in Preußen, Tutzing, S. 321, 325</lido:displayObject>
+               </lido:relatedWork>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:displayObject>Anonymus, 1786: Berliner Flöten-Uhren, In: Bertuch, Friedrich Justin; Kraus, Georg Melchior (Hrsg.): Journal der Moden 1 (1786), Februar, S. XX–XXII</lido:displayObject>
+               </lido:relatedWork>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:displayObject>Maurice, Klaus, 1976: Die deutsche Räderuhr. Zur Kunst und Technik des mechanischen Zeitmessers im deutschen Sprachraum. 2 Bde, München, S. 225, 254</lido:displayObject>
+               </lido:relatedWork>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:displayObject>Ponert, Dietmar Jürgen, 1980: Eine Harfen-Uhr von Conrad Ehrbar, In: Berlinische Notizen. Zeitschrift des Vereins der Freunde und Förderer des Berlin Museum e. V. 12 (1980), S. 34–42</lido:displayObject>
+               </lido:relatedWork>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:displayObject>Nicolai, Friedrich, 1786: Beschreibung der Königlichen Residenzstädte Berlin und Potsdam. 3 Bde, Berlin, Bd. 2, S. 580</lido:displayObject>
+               </lido:relatedWork>
+            </lido:relatedWorkSet>
+         </lido:relatedWorksWrap>
+      </lido:objectRelationWrap>
+   </lido:descriptiveMetadata>
+   <lido:administrativeMetadata xml:lang="de">
+      <lido:rightsWorkWrap>
+         <lido:rightsWorkSet>
+            <lido:rightsHolder>
+               <lido:legalBodyName>
+                  <lido:appellationValue>Stiftung Stadtmuseum Berlin</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:rightsHolder>
+         </lido:rightsWorkSet>
+      </lido:rightsWorkWrap>
+      <lido:recordWrap>
+         <lido:recordID lido:type="museum-digital">86354</lido:recordID>
+         <lido:recordType>
+            <lido:term lido:addedSearchTerm="no">item</lido:term>
+         </lido:recordType>
+         <lido:recordSource lido:type="dataProvider">
+            <lido:legalBodyName>
+               <lido:appellationValue>museum-digital</lido:appellationValue>
+            </lido:legalBodyName>
+            <lido:legalBodyWeblink>https://berlin.museum-digital.de/</lido:legalBodyWeblink>
+         </lido:recordSource>
+         <lido:recordSource>
+            <lido:legalBodyID lido:type="isil">DE-MUS-061525</lido:legalBodyID>
+            <lido:legalBodyName>
+               <lido:appellationValue>Stiftung Stadtmuseum Berlin</lido:appellationValue>
+            </lido:legalBodyName>
+         </lido:recordSource>
+         <lido:recordRights>
+            <lido:rightsType>
+               <lido:conceptID lido:type="uri">https://creativecommons.org/publicdomain/zero/1.0/</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no">CC 0</lido:term>
+            </lido:rightsType>
+            <lido:rightsHolder>
+               <lido:legalBodyID lido:type="isil">DE-MUS-061525</lido:legalBodyID>
+               <lido:legalBodyName>
+                  <lido:appellationValue>Stiftung Stadtmuseum Berlin</lido:appellationValue>
+               </lido:legalBodyName>
+               <lido:legalBodyWeblink>https://www.stadtmuseum.de</lido:legalBodyWeblink>
+            </lido:rightsHolder>
+            <lido:creditLine>Förderprogramm zur Digitalisierung von Objekten des kulturellen Erbes des Landes Berlin</lido:creditLine>
+         </lido:recordRights>
+         <lido:recordInfoSet>
+            <lido:recordInfoLink>https://berlin.museum-digital.de/index.php?t=objekt&amp;oges=86354</lido:recordInfoLink>
+            <lido:recordMetadataDate>2021-02-23 13:49:10</lido:recordMetadataDate>
+         </lido:recordInfoSet>
+      </lido:recordWrap>
+      <lido:resourceWrap>
+         <lido:resourceSet lido:sortorder="1">
+            <lido:resourceID lido:source="image" lido:type="local">60013</lido:resourceID>
+            <lido:resourceRepresentation lido:type="image_thumb">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/86354-sm_2012-2673/conrad_ehrbar_bodenstandu/100h_conrad-ehrbar-bodenstanduhr-mit-harfenwerk-um-1785-inv-nr-sm-2012-2673-86354-4.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_preview">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/86354-sm_2012-2673/conrad_ehrbar_bodenstandu/200w_conrad-ehrbar-bodenstanduhr-mit-harfenwerk-um-1785-inv-nr-sm-2012-2673-86354-4.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/86354-sm_2012-2673/conrad_ehrbar_bodenstandu/conrad-ehrbar-bodenstanduhr-mit-harfenwerk-um-1785-inv-nr-sm-2012-2673-86354-4.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceType>
+               <lido:term>image</lido:term>
+            </lido:resourceType>
+            <lido:resourceRelType>
+               <lido:term>Hauptansicht</lido:term>
+            </lido:resourceRelType>
+            <lido:resourceSource lido:type="creator">
+               <lido:legalBodyName>
+                  <lido:appellationValue>Oliver Ziebe, Berlin (2020)</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:resourceSource>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+                  <lido:term>CC BY 4.0</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Stiftung Stadtmuseum Berlin</lido:appellationValue>
+                  </lido:legalBodyName>
+               </lido:rightsHolder>
+            </lido:rightsResource>
+         </lido:resourceSet>
+         <lido:resourceSet lido:sortorder="2">
+            <lido:resourceID lido:source="image" lido:type="local">60015</lido:resourceID>
+            <lido:resourceRepresentation lido:type="image_thumb">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/86354-sm_2012-2673/conrad_ehrbar_bodenstandu/100h_conrad-ehrbar-bodenstanduhr-mit-harfenwerk-um-1785-inv-nr-sm-2012-2673-86354-6.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_preview">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/86354-sm_2012-2673/conrad_ehrbar_bodenstandu/200w_conrad-ehrbar-bodenstanduhr-mit-harfenwerk-um-1785-inv-nr-sm-2012-2673-86354-6.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/86354-sm_2012-2673/conrad_ehrbar_bodenstandu/conrad-ehrbar-bodenstanduhr-mit-harfenwerk-um-1785-inv-nr-sm-2012-2673-86354-6.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceType>
+               <lido:term>image</lido:term>
+            </lido:resourceType>
+            <lido:resourceSource lido:type="creator">
+               <lido:legalBodyName>
+                  <lido:appellationValue>Oliver Ziebe, Berlin (2020)</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:resourceSource>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+                  <lido:term>CC BY 4.0</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Stiftung Stadtmuseum Berlin</lido:appellationValue>
+                  </lido:legalBodyName>
+               </lido:rightsHolder>
+            </lido:rightsResource>
+         </lido:resourceSet>
+         <lido:resourceSet lido:sortorder="3">
+            <lido:resourceID lido:source="image" lido:type="local">59925</lido:resourceID>
+            <lido:resourceRepresentation lido:type="image_thumb">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/86354-sm_2012-2673/conrad_ehrbar_bodenstandu/100h_conrad-ehrbar-bodenstanduhr-mit-harfenwerk-um-1785-inv-nr-sm-2012-2673-86354.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_preview">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/86354-sm_2012-2673/conrad_ehrbar_bodenstandu/200w_conrad-ehrbar-bodenstanduhr-mit-harfenwerk-um-1785-inv-nr-sm-2012-2673-86354.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/86354-sm_2012-2673/conrad_ehrbar_bodenstandu/conrad-ehrbar-bodenstanduhr-mit-harfenwerk-um-1785-inv-nr-sm-2012-2673-86354.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceType>
+               <lido:term>image</lido:term>
+            </lido:resourceType>
+            <lido:resourceSource lido:type="creator">
+               <lido:legalBodyName>
+                  <lido:appellationValue>Oliver Ziebe, Berlin (2020)</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:resourceSource>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+                  <lido:term>CC BY 4.0</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Stiftung Stadtmuseum Berlin</lido:appellationValue>
+                  </lido:legalBodyName>
+               </lido:rightsHolder>
+            </lido:rightsResource>
+         </lido:resourceSet>
+         <lido:resourceSet lido:sortorder="4">
+            <lido:resourceID lido:source="image" lido:type="local">59935</lido:resourceID>
+            <lido:resourceRepresentation lido:type="image_thumb">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/86354-sm_2012-2673/conrad_ehrbar_bodenstandu/100h_conrad-ehrbar-bodenstanduhr-mit-harfenwerk-um-1785-inv-nr-sm-2012-2673-86354-11.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_preview">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/86354-sm_2012-2673/conrad_ehrbar_bodenstandu/200w_conrad-ehrbar-bodenstanduhr-mit-harfenwerk-um-1785-inv-nr-sm-2012-2673-86354-11.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/86354-sm_2012-2673/conrad_ehrbar_bodenstandu/conrad-ehrbar-bodenstanduhr-mit-harfenwerk-um-1785-inv-nr-sm-2012-2673-86354-11.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceType>
+               <lido:term>image</lido:term>
+            </lido:resourceType>
+            <lido:resourceSource lido:type="creator">
+               <lido:legalBodyName>
+                  <lido:appellationValue>Oliver Ziebe, Berlin (2020)</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:resourceSource>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+                  <lido:term>CC BY 4.0</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Stiftung Stadtmuseum Berlin</lido:appellationValue>
+                  </lido:legalBodyName>
+               </lido:rightsHolder>
+            </lido:rightsResource>
+         </lido:resourceSet>
+         <lido:resourceSet lido:sortorder="5">
+            <lido:resourceID lido:source="image" lido:type="local">59934</lido:resourceID>
+            <lido:resourceRepresentation lido:type="image_thumb">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/86354-sm_2012-2673/conrad_ehrbar_bodenstandu/100h_conrad-ehrbar-bodenstanduhr-mit-harfenwerk-um-1785-inv-nr-sm-2012-2673-86354-10.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_preview">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/86354-sm_2012-2673/conrad_ehrbar_bodenstandu/200w_conrad-ehrbar-bodenstanduhr-mit-harfenwerk-um-1785-inv-nr-sm-2012-2673-86354-10.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/86354-sm_2012-2673/conrad_ehrbar_bodenstandu/conrad-ehrbar-bodenstanduhr-mit-harfenwerk-um-1785-inv-nr-sm-2012-2673-86354-10.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceType>
+               <lido:term>image</lido:term>
+            </lido:resourceType>
+            <lido:resourceSource lido:type="creator">
+               <lido:legalBodyName>
+                  <lido:appellationValue>Oliver Ziebe, Berlin (2020)</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:resourceSource>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+                  <lido:term>CC BY 4.0</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Stiftung Stadtmuseum Berlin</lido:appellationValue>
+                  </lido:legalBodyName>
+               </lido:rightsHolder>
+            </lido:rightsResource>
+         </lido:resourceSet>
+         <lido:resourceSet lido:sortorder="6">
+            <lido:resourceID lido:source="image" lido:type="local">60014</lido:resourceID>
+            <lido:resourceRepresentation lido:type="image_thumb">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/86354-sm_2012-2673/conrad_ehrbar_bodenstandu/100h_conrad-ehrbar-bodenstanduhr-mit-harfenwerk-um-1785-inv-nr-sm-2012-2673-86354-5.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_preview">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/86354-sm_2012-2673/conrad_ehrbar_bodenstandu/200w_conrad-ehrbar-bodenstanduhr-mit-harfenwerk-um-1785-inv-nr-sm-2012-2673-86354-5.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/86354-sm_2012-2673/conrad_ehrbar_bodenstandu/conrad-ehrbar-bodenstanduhr-mit-harfenwerk-um-1785-inv-nr-sm-2012-2673-86354-5.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceType>
+               <lido:term>image</lido:term>
+            </lido:resourceType>
+            <lido:resourceSource lido:type="creator">
+               <lido:legalBodyName>
+                  <lido:appellationValue>Oliver Ziebe, Berlin (2020)</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:resourceSource>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+                  <lido:term>CC BY 4.0</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Stiftung Stadtmuseum Berlin</lido:appellationValue>
+                  </lido:legalBodyName>
+               </lido:rightsHolder>
+            </lido:rightsResource>
+         </lido:resourceSet>
+         <lido:resourceSet lido:sortorder="7">
+            <lido:resourceID lido:source="image" lido:type="local">60016</lido:resourceID>
+            <lido:resourceRepresentation lido:type="image_thumb">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/86354-sm_2012-2673/conrad_ehrbar_bodenstandu/100h_conrad-ehrbar-bodenstanduhr-mit-harfenwerk-um-1785-inv-nr-sm-2012-2673-86354-9.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_preview">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/86354-sm_2012-2673/conrad_ehrbar_bodenstandu/200w_conrad-ehrbar-bodenstanduhr-mit-harfenwerk-um-1785-inv-nr-sm-2012-2673-86354-9.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/86354-sm_2012-2673/conrad_ehrbar_bodenstandu/conrad-ehrbar-bodenstanduhr-mit-harfenwerk-um-1785-inv-nr-sm-2012-2673-86354-9.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceType>
+               <lido:term>image</lido:term>
+            </lido:resourceType>
+            <lido:resourceSource lido:type="creator">
+               <lido:legalBodyName>
+                  <lido:appellationValue>Oliver Ziebe, Berlin (2020)</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:resourceSource>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+                  <lido:term>CC BY 4.0</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Stiftung Stadtmuseum Berlin</lido:appellationValue>
+                  </lido:legalBodyName>
+               </lido:rightsHolder>
+            </lido:rightsResource>
+         </lido:resourceSet>
+         <lido:resourceSet lido:sortorder="8">
+            <lido:resourceID lido:source="image" lido:type="local">59927</lido:resourceID>
+            <lido:resourceRepresentation lido:type="image_thumb">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/86354-sm_2012-2673/conrad_ehrbar_bodenstandu/100h_conrad-ehrbar-bodenstanduhr-mit-harfenwerk-um-1785-inv-nr-sm-2012-2673-86354-3.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_preview">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/86354-sm_2012-2673/conrad_ehrbar_bodenstandu/200w_conrad-ehrbar-bodenstanduhr-mit-harfenwerk-um-1785-inv-nr-sm-2012-2673-86354-3.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/86354-sm_2012-2673/conrad_ehrbar_bodenstandu/conrad-ehrbar-bodenstanduhr-mit-harfenwerk-um-1785-inv-nr-sm-2012-2673-86354-3.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceType>
+               <lido:term>image</lido:term>
+            </lido:resourceType>
+            <lido:resourceSource lido:type="creator">
+               <lido:legalBodyName>
+                  <lido:appellationValue>Oliver Ziebe, Berlin (2020)</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:resourceSource>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+                  <lido:term>CC BY 4.0</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Stiftung Stadtmuseum Berlin</lido:appellationValue>
+                  </lido:legalBodyName>
+               </lido:rightsHolder>
+            </lido:rightsResource>
+         </lido:resourceSet>
+         <lido:resourceSet lido:sortorder="9">
+            <lido:resourceID lido:source="image" lido:type="local">59932</lido:resourceID>
+            <lido:resourceRepresentation lido:type="image_thumb">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/86354-sm_2012-2673/conrad_ehrbar_bodenstandu/100h_conrad-ehrbar-bodenstanduhr-mit-harfenwerk-um-1785-inv-nr-sm-2012-2673-86354-8.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_preview">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/86354-sm_2012-2673/conrad_ehrbar_bodenstandu/200w_conrad-ehrbar-bodenstanduhr-mit-harfenwerk-um-1785-inv-nr-sm-2012-2673-86354-8.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/86354-sm_2012-2673/conrad_ehrbar_bodenstandu/conrad-ehrbar-bodenstanduhr-mit-harfenwerk-um-1785-inv-nr-sm-2012-2673-86354-8.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceType>
+               <lido:term>image</lido:term>
+            </lido:resourceType>
+            <lido:resourceSource lido:type="creator">
+               <lido:legalBodyName>
+                  <lido:appellationValue>Oliver Ziebe, Berlin (2020)</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:resourceSource>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+                  <lido:term>CC BY 4.0</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Stiftung Stadtmuseum Berlin</lido:appellationValue>
+                  </lido:legalBodyName>
+               </lido:rightsHolder>
+            </lido:rightsResource>
+         </lido:resourceSet>
+         <lido:resourceSet lido:sortorder="10">
+            <lido:resourceID lido:source="image" lido:type="local">59931</lido:resourceID>
+            <lido:resourceRepresentation lido:type="image_thumb">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/86354-sm_2012-2673/conrad_ehrbar_bodenstandu/100h_conrad-ehrbar-bodenstanduhr-mit-harfenwerk-um-1785-inv-nr-sm-2012-2673-86354-7.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_preview">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/86354-sm_2012-2673/conrad_ehrbar_bodenstandu/200w_conrad-ehrbar-bodenstanduhr-mit-harfenwerk-um-1785-inv-nr-sm-2012-2673-86354-7.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/86354-sm_2012-2673/conrad_ehrbar_bodenstandu/conrad-ehrbar-bodenstanduhr-mit-harfenwerk-um-1785-inv-nr-sm-2012-2673-86354-7.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceType>
+               <lido:term>image</lido:term>
+            </lido:resourceType>
+            <lido:resourceSource lido:type="creator">
+               <lido:legalBodyName>
+                  <lido:appellationValue>Oliver Ziebe, Berlin (2020)</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:resourceSource>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+                  <lido:term>CC BY 4.0</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Stiftung Stadtmuseum Berlin</lido:appellationValue>
+                  </lido:legalBodyName>
+               </lido:rightsHolder>
+            </lido:rightsResource>
+         </lido:resourceSet>
+         <lido:resourceSet lido:sortorder="11">
+            <lido:resourceID lido:source="image" lido:type="local">59926</lido:resourceID>
+            <lido:resourceRepresentation lido:type="image_thumb">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/86354-sm_2012-2673/conrad_ehrbar_bodenstandu/100h_conrad-ehrbar-bodenstanduhr-mit-harfenwerk-um-1785-inv-nr-sm-2012-2673-86354-2.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_preview">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/86354-sm_2012-2673/conrad_ehrbar_bodenstandu/200w_conrad-ehrbar-bodenstanduhr-mit-harfenwerk-um-1785-inv-nr-sm-2012-2673-86354-2.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/86354-sm_2012-2673/conrad_ehrbar_bodenstandu/conrad-ehrbar-bodenstanduhr-mit-harfenwerk-um-1785-inv-nr-sm-2012-2673-86354-2.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceType>
+               <lido:term>image</lido:term>
+            </lido:resourceType>
+            <lido:resourceSource lido:type="creator">
+               <lido:legalBodyName>
+                  <lido:appellationValue>Oliver Ziebe, Berlin (2020)</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:resourceSource>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+                  <lido:term>CC BY 4.0</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Stiftung Stadtmuseum Berlin</lido:appellationValue>
+                  </lido:legalBodyName>
+               </lido:rightsHolder>
+            </lido:rightsResource>
+         </lido:resourceSet>
+         <lido:resourceSet lido:sortorder="12">
+            <lido:resourceID lido:source="image" lido:type="local">59936</lido:resourceID>
+            <lido:resourceRepresentation lido:type="image_thumb">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/86354-sm_2012-2673/conrad_ehrbar_bodenstandu/100h_conrad-ehrbar-bodenstanduhr-mit-harfenwerk-um-1785-inv-nr-sm-2012-2673-86354-12.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_preview">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/86354-sm_2012-2673/conrad_ehrbar_bodenstandu/200w_conrad-ehrbar-bodenstanduhr-mit-harfenwerk-um-1785-inv-nr-sm-2012-2673-86354-12.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/86354-sm_2012-2673/conrad_ehrbar_bodenstandu/conrad-ehrbar-bodenstanduhr-mit-harfenwerk-um-1785-inv-nr-sm-2012-2673-86354-12.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceType>
+               <lido:term>image</lido:term>
+            </lido:resourceType>
+            <lido:resourceSource lido:type="creator">
+               <lido:legalBodyName>
+                  <lido:appellationValue>Oliver Ziebe, Berlin (2020)</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:resourceSource>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+                  <lido:term>CC BY 4.0</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Stiftung Stadtmuseum Berlin</lido:appellationValue>
+                  </lido:legalBodyName>
+               </lido:rightsHolder>
+            </lido:rightsResource>
+         </lido:resourceSet>
+         <lido:resourceSet lido:sortorder="13">
+            <lido:resourceID lido:source="image" lido:type="local">59940</lido:resourceID>
+            <lido:resourceRepresentation lido:type="image_thumb">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/86354-sm_2012-2673/conrad_ehrbar_bodenstandu/100h_conrad-ehrbar-bodenstanduhr-mit-harfenwerk-um-1785-inv-nr-sm-2012-2673-86354-16.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_preview">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/86354-sm_2012-2673/conrad_ehrbar_bodenstandu/200w_conrad-ehrbar-bodenstanduhr-mit-harfenwerk-um-1785-inv-nr-sm-2012-2673-86354-16.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/86354-sm_2012-2673/conrad_ehrbar_bodenstandu/conrad-ehrbar-bodenstanduhr-mit-harfenwerk-um-1785-inv-nr-sm-2012-2673-86354-16.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceType>
+               <lido:term>image</lido:term>
+            </lido:resourceType>
+            <lido:resourceSource lido:type="creator">
+               <lido:legalBodyName>
+                  <lido:appellationValue>Oliver Ziebe, Berlin (2020)</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:resourceSource>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+                  <lido:term>CC BY 4.0</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Stiftung Stadtmuseum Berlin</lido:appellationValue>
+                  </lido:legalBodyName>
+               </lido:rightsHolder>
+            </lido:rightsResource>
+         </lido:resourceSet>
+         <lido:resourceSet lido:sortorder="14">
+            <lido:resourceID lido:source="image" lido:type="local">59937</lido:resourceID>
+            <lido:resourceRepresentation lido:type="image_thumb">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/86354-sm_2012-2673/conrad_ehrbar_bodenstandu/100h_conrad-ehrbar-bodenstanduhr-mit-harfenwerk-um-1785-inv-nr-sm-2012-2673-86354-13.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_preview">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/86354-sm_2012-2673/conrad_ehrbar_bodenstandu/200w_conrad-ehrbar-bodenstanduhr-mit-harfenwerk-um-1785-inv-nr-sm-2012-2673-86354-13.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/86354-sm_2012-2673/conrad_ehrbar_bodenstandu/conrad-ehrbar-bodenstanduhr-mit-harfenwerk-um-1785-inv-nr-sm-2012-2673-86354-13.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceType>
+               <lido:term>image</lido:term>
+            </lido:resourceType>
+            <lido:resourceSource lido:type="creator">
+               <lido:legalBodyName>
+                  <lido:appellationValue>Oliver Ziebe, Berlin (2020)</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:resourceSource>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+                  <lido:term>CC BY 4.0</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Stiftung Stadtmuseum Berlin</lido:appellationValue>
+                  </lido:legalBodyName>
+               </lido:rightsHolder>
+            </lido:rightsResource>
+         </lido:resourceSet>
+         <lido:resourceSet lido:sortorder="15">
+            <lido:resourceID lido:source="image" lido:type="local">59938</lido:resourceID>
+            <lido:resourceRepresentation lido:type="image_thumb">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/86354-sm_2012-2673/conrad_ehrbar_bodenstandu/100h_conrad-ehrbar-bodenstanduhr-mit-harfenwerk-um-1785-inv-nr-sm-2012-2673-86354-14.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_preview">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/86354-sm_2012-2673/conrad_ehrbar_bodenstandu/200w_conrad-ehrbar-bodenstanduhr-mit-harfenwerk-um-1785-inv-nr-sm-2012-2673-86354-14.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/86354-sm_2012-2673/conrad_ehrbar_bodenstandu/conrad-ehrbar-bodenstanduhr-mit-harfenwerk-um-1785-inv-nr-sm-2012-2673-86354-14.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceType>
+               <lido:term>image</lido:term>
+            </lido:resourceType>
+            <lido:resourceSource lido:type="creator">
+               <lido:legalBodyName>
+                  <lido:appellationValue>Oliver Ziebe, Berlin (2020)</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:resourceSource>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+                  <lido:term>CC BY 4.0</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Stiftung Stadtmuseum Berlin</lido:appellationValue>
+                  </lido:legalBodyName>
+               </lido:rightsHolder>
+            </lido:rightsResource>
+         </lido:resourceSet>
+         <lido:resourceSet lido:sortorder="16">
+            <lido:resourceID lido:source="image" lido:type="local">59939</lido:resourceID>
+            <lido:resourceRepresentation lido:type="image_thumb">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/86354-sm_2012-2673/conrad_ehrbar_bodenstandu/100h_conrad-ehrbar-bodenstanduhr-mit-harfenwerk-um-1785-inv-nr-sm-2012-2673-86354-15.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_preview">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/86354-sm_2012-2673/conrad_ehrbar_bodenstandu/200w_conrad-ehrbar-bodenstanduhr-mit-harfenwerk-um-1785-inv-nr-sm-2012-2673-86354-15.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/86354-sm_2012-2673/conrad_ehrbar_bodenstandu/conrad-ehrbar-bodenstanduhr-mit-harfenwerk-um-1785-inv-nr-sm-2012-2673-86354-15.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceType>
+               <lido:term>image</lido:term>
+            </lido:resourceType>
+            <lido:resourceSource lido:type="creator">
+               <lido:legalBodyName>
+                  <lido:appellationValue>Oliver Ziebe, Berlin (2020)</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:resourceSource>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+                  <lido:term>CC BY 4.0</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Stiftung Stadtmuseum Berlin</lido:appellationValue>
+                  </lido:legalBodyName>
+               </lido:rightsHolder>
+            </lido:rightsResource>
+         </lido:resourceSet>
+         <lido:resourceSet lido:sortorder="17">
+            <lido:resourceID lido:source="image" lido:type="local">59942</lido:resourceID>
+            <lido:resourceRepresentation lido:type="image_thumb">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/86354-sm_2012-2673/conrad_ehrbar_bodenstandu/100h_conrad-ehrbar-bodenstanduhr-mit-harfenwerk-um-1785-inv-nr-sm-2012-2673-86354-18.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_preview">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/86354-sm_2012-2673/conrad_ehrbar_bodenstandu/200w_conrad-ehrbar-bodenstanduhr-mit-harfenwerk-um-1785-inv-nr-sm-2012-2673-86354-18.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/86354-sm_2012-2673/conrad_ehrbar_bodenstandu/conrad-ehrbar-bodenstanduhr-mit-harfenwerk-um-1785-inv-nr-sm-2012-2673-86354-18.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceType>
+               <lido:term>image</lido:term>
+            </lido:resourceType>
+            <lido:resourceSource lido:type="creator">
+               <lido:legalBodyName>
+                  <lido:appellationValue>Oliver Ziebe, Berlin (2020)</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:resourceSource>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+                  <lido:term>CC BY 4.0</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Stiftung Stadtmuseum Berlin</lido:appellationValue>
+                  </lido:legalBodyName>
+               </lido:rightsHolder>
+            </lido:rightsResource>
+         </lido:resourceSet>
+         <lido:resourceSet lido:sortorder="18">
+            <lido:resourceID lido:source="image" lido:type="local">59941</lido:resourceID>
+            <lido:resourceRepresentation lido:type="image_thumb">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/86354-sm_2012-2673/conrad_ehrbar_bodenstandu/100h_conrad-ehrbar-bodenstanduhr-mit-harfenwerk-um-1785-inv-nr-sm-2012-2673-86354-17.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_preview">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/86354-sm_2012-2673/conrad_ehrbar_bodenstandu/200w_conrad-ehrbar-bodenstanduhr-mit-harfenwerk-um-1785-inv-nr-sm-2012-2673-86354-17.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/86354-sm_2012-2673/conrad_ehrbar_bodenstandu/conrad-ehrbar-bodenstanduhr-mit-harfenwerk-um-1785-inv-nr-sm-2012-2673-86354-17.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceType>
+               <lido:term>image</lido:term>
+            </lido:resourceType>
+            <lido:resourceSource lido:type="creator">
+               <lido:legalBodyName>
+                  <lido:appellationValue>Oliver Ziebe, Berlin (2020)</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:resourceSource>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+                  <lido:term>CC BY 4.0</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Stiftung Stadtmuseum Berlin</lido:appellationValue>
+                  </lido:legalBodyName>
+               </lido:rightsHolder>
+            </lido:rightsResource>
+         </lido:resourceSet>
+         <lido:resourceSet lido:sortorder="19">
+            <lido:resourceID lido:source="image" lido:type="local">59943</lido:resourceID>
+            <lido:resourceRepresentation lido:type="image_thumb">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/86354-sm_2012-2673/conrad_ehrbar_bodenstandu/100h_conrad-ehrbar-bodenstanduhr-mit-harfenwerk-um-1785-inv-nr-sm-2012-2673-86354-19.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_preview">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/86354-sm_2012-2673/conrad_ehrbar_bodenstandu/200w_conrad-ehrbar-bodenstanduhr-mit-harfenwerk-um-1785-inv-nr-sm-2012-2673-86354-19.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/86354-sm_2012-2673/conrad_ehrbar_bodenstandu/conrad-ehrbar-bodenstanduhr-mit-harfenwerk-um-1785-inv-nr-sm-2012-2673-86354-19.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceType>
+               <lido:term>image</lido:term>
+            </lido:resourceType>
+            <lido:resourceSource lido:type="creator">
+               <lido:legalBodyName>
+                  <lido:appellationValue>Oliver Ziebe, Berlin (2020)</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:resourceSource>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+                  <lido:term>CC BY 4.0</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Stiftung Stadtmuseum Berlin</lido:appellationValue>
+                  </lido:legalBodyName>
+               </lido:rightsHolder>
+            </lido:rightsResource>
+         </lido:resourceSet>
+         <lido:resourceSet lido:sortorder="20">
+            <lido:resourceID lido:source="image" lido:type="local">60790</lido:resourceID>
+            <lido:resourceRepresentation lido:type="image_thumb">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/86354-sm_2012-2673/conrad_ehrbar_bodenstandu/100h_conrad-ehrbar-bodenstanduhr-mit-harfenwerk-um-1785-inv-nr-sm-2012-2673-86354-22.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_preview">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/86354-sm_2012-2673/conrad_ehrbar_bodenstandu/200w_conrad-ehrbar-bodenstanduhr-mit-harfenwerk-um-1785-inv-nr-sm-2012-2673-86354-22.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/86354-sm_2012-2673/conrad_ehrbar_bodenstandu/conrad-ehrbar-bodenstanduhr-mit-harfenwerk-um-1785-inv-nr-sm-2012-2673-86354-22.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceType>
+               <lido:term>image</lido:term>
+            </lido:resourceType>
+            <lido:resourceSource lido:type="creator">
+               <lido:legalBodyName>
+                  <lido:appellationValue>Oliver Ziebe, Berlin (2020)</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:resourceSource>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+                  <lido:term>CC BY 4.0</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Stiftung Stadtmuseum Berlin</lido:appellationValue>
+                  </lido:legalBodyName>
+               </lido:rightsHolder>
+            </lido:rightsResource>
+         </lido:resourceSet>
+         <lido:resourceSet lido:sortorder="21">
+            <lido:resourceID lido:source="image" lido:type="local">60018</lido:resourceID>
+            <lido:resourceRepresentation lido:type="image_thumb">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/86354-sm_2012-2673/conrad_ehrbar_bodenstandu/100h_conrad-ehrbar-bodenstanduhr-mit-harfenwerk-um-1785-inv-nr-sm-2012-2673-86354-23.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_preview">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/86354-sm_2012-2673/conrad_ehrbar_bodenstandu/200w_conrad-ehrbar-bodenstanduhr-mit-harfenwerk-um-1785-inv-nr-sm-2012-2673-86354-23.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/86354-sm_2012-2673/conrad_ehrbar_bodenstandu/conrad-ehrbar-bodenstanduhr-mit-harfenwerk-um-1785-inv-nr-sm-2012-2673-86354-23.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceType>
+               <lido:term>image</lido:term>
+            </lido:resourceType>
+            <lido:resourceSource lido:type="creator">
+               <lido:legalBodyName>
+                  <lido:appellationValue>Oliver Ziebe, Berlin (2020)</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:resourceSource>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+                  <lido:term>CC BY 4.0</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Stiftung Stadtmuseum Berlin</lido:appellationValue>
+                  </lido:legalBodyName>
+               </lido:rightsHolder>
+            </lido:rightsResource>
+         </lido:resourceSet>
+         <lido:resourceSet lido:sortorder="22">
+            <lido:resourceID lido:source="image" lido:type="local">59947</lido:resourceID>
+            <lido:resourceRepresentation lido:type="image_thumb">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/86354-sm_2012-2673/conrad_ehrbar_bodenstandu/100h_conrad-ehrbar-bodenstanduhr-mit-harfenwerk-um-1785-inv-nr-sm-2012-2673-86354-20.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_preview">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/86354-sm_2012-2673/conrad_ehrbar_bodenstandu/200w_conrad-ehrbar-bodenstanduhr-mit-harfenwerk-um-1785-inv-nr-sm-2012-2673-86354-20.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/86354-sm_2012-2673/conrad_ehrbar_bodenstandu/conrad-ehrbar-bodenstanduhr-mit-harfenwerk-um-1785-inv-nr-sm-2012-2673-86354-20.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceType>
+               <lido:term>image</lido:term>
+            </lido:resourceType>
+            <lido:resourceSource lido:type="creator">
+               <lido:legalBodyName>
+                  <lido:appellationValue>Oliver Ziebe, Berlin (2020)</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:resourceSource>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+                  <lido:term>CC BY 4.0</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Stiftung Stadtmuseum Berlin</lido:appellationValue>
+                  </lido:legalBodyName>
+               </lido:rightsHolder>
+            </lido:rightsResource>
+         </lido:resourceSet>
+         <lido:resourceSet lido:sortorder="23">
+            <lido:resourceID lido:source="image" lido:type="local">59945</lido:resourceID>
+            <lido:resourceRepresentation lido:type="image_thumb">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/86354-sm_2012-2673/conrad_ehrbar_bodenstandu/100h_conrad-ehrbar-bodenstanduhr-mit-harfenwerk-um-1785-inv-nr-sm-2012-2673-86354-21.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_preview">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/86354-sm_2012-2673/conrad_ehrbar_bodenstandu/200w_conrad-ehrbar-bodenstanduhr-mit-harfenwerk-um-1785-inv-nr-sm-2012-2673-86354-21.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/86354-sm_2012-2673/conrad_ehrbar_bodenstandu/conrad-ehrbar-bodenstanduhr-mit-harfenwerk-um-1785-inv-nr-sm-2012-2673-86354-21.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceType>
+               <lido:term>image</lido:term>
+            </lido:resourceType>
+            <lido:resourceSource lido:type="creator">
+               <lido:legalBodyName>
+                  <lido:appellationValue>Oliver Ziebe, Berlin (2020)</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:resourceSource>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+                  <lido:term>CC BY 4.0</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Stiftung Stadtmuseum Berlin</lido:appellationValue>
+                  </lido:legalBodyName>
+               </lido:rightsHolder>
+            </lido:rightsResource>
+         </lido:resourceSet>
+      </lido:resourceWrap>
+   </lido:administrativeMetadata>
+</lido:lido>
+

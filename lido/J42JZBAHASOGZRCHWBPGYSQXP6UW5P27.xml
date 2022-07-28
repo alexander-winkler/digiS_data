@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lido:lido xmlns:lido="http://www.lido-schema.org"
+           xmlns:xalan="http://xml.apache.org/xalan">
+   <lido:lidoRecID lido:source="https://berlin.museum-digital.de/index.php?t=institution&amp;instnr=26"
+                   lido:type="local">ddb_oid1612959125221_57577</lido:lidoRecID>
+   <lido:descriptiveMetadata xml:lang="de">
+      <lido:objectClassificationWrap>
+         <lido:objectWorkTypeWrap>
+            <lido:objectWorkType>
+               <lido:term lido:addedSearchTerm="no">Positiv-Abzug</lido:term>
+            </lido:objectWorkType>
+         </lido:objectWorkTypeWrap>
+         <lido:classificationWrap>
+            <lido:classification lido:type="Sammlung">
+               <lido:conceptID lido:source="local" lido:type="collection_id">603</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no">Die Fotografin Gerda Schimpf</lido:term>
+            </lido:classification>
+         </lido:classificationWrap>
+      </lido:objectClassificationWrap>
+      <lido:objectIdentificationWrap>
+         <lido:titleWrap>
+            <lido:titleSet>
+               <lido:appellationValue lido:pref="preferred">Fotoportrait Gerda Schimpf (1913-2014) (1)</lido:appellationValue>
+            </lido:titleSet>
+         </lido:titleWrap>
+         <lido:repositoryWrap>
+            <lido:repositorySet lido:type="current">
+               <lido:repositoryName>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Gerda Schimpf Fotoarchiv</lido:appellationValue>
+                  </lido:legalBodyName>
+                  <lido:legalBodyWeblink>https://gerda-schimpf-fotoarchiv.com</lido:legalBodyWeblink>
+               </lido:repositoryName>
+               <lido:workID lido:type="inventory number">0001</lido:workID>
+               <lido:repositoryLocation>
+                  <lido:namePlaceSet>
+                     <lido:appellationValue>Berlin</lido:appellationValue>
+                  </lido:namePlaceSet>
+                  <lido:gml/>
+               </lido:repositoryLocation>
+            </lido:repositorySet>
+         </lido:repositoryWrap>
+         <lido:objectDescriptionWrap>
+            <lido:objectDescriptionSet>
+               <lido:descriptiveNoteValue>Schwarzweißfotografie, Außenaufnahme, vermutlich 1920er Jahre&lt;br&gt;
+&lt;br&gt;
+Ganzfigur, stehend, Frontalansicht, mit Kamera - die sehr junge Gerda Schimpf mit ihrer vermutlich ersten Kamera auf einem Waldweg. Sie hält in ihrer linken Hand etwas schräg nach rechts eine Plattenkamera, Möglicherweise handelt es sich dabei um eine Laufbodenkamera. Mit der rechten Hand bedient sie den Auslöser. Gerda schaut von unten hoch zum Betrachter, den sie wahrscheinlich zeitgleich dabei ist, aufzunehmen. Sie lächelt dabei übers ganze Gesicht. &lt;br&gt;
+&lt;br&gt;
+Gerda trägt ein farbiges Kleid aus einem glänzenden Stoff, das bis kurz vor dem Knie endet. Über dem Saum gibt es eine bestickte Borte, oberhalb der Brust einen breiten, hellen Doppelstreifen, der Kragen ist umsäumt. Über dem Kleid trägt sie offen eine dreiviertellange, helle Strickjacke mit dunklen, gemusterten Längsstreifen, geriffelter Bündchen an den Ärmelenden und am Hals sowie zwei großen Taschen unten an jeder Seite. Dazu eine helle, warme Strumpfhose und dunkle halboffenen Schuhe.&lt;br&gt;
+&lt;br&gt;
+Gerda hat halblange, rötlichblonde Haare, links gescheitelt und nach rechts zu einer breiten Strähne gekämmt, vermutlich mit einer Klammer befestigt. Sie hat ein freundliches, sanftes Gesicht mit noch runden, kindlichen Zügen.&lt;br&gt;
+&lt;br&gt;
+Bes. Merkmal: Jahr, Gegend und Fotograf oder Fotografin sind unbekannt.&lt;br&gt;
+&lt;br&gt;
+Ch. K.</lido:descriptiveNoteValue>
+               <lido:sourceDescriptiveNote>Gerda Schimpf Fotoarchiv</lido:sourceDescriptiveNote>
+            </lido:objectDescriptionSet>
+         </lido:objectDescriptionWrap>
+         <lido:objectMeasurementsWrap>
+            <lido:objectMeasurementsSet>
+               <lido:displayObjectMeasurements>Höhe: 13 cm, Breite: 18 cm</lido:displayObjectMeasurements>
+               <lido:objectMeasurements>
+                  <lido:measurementsSet>
+                     <lido:measurementType>width</lido:measurementType>
+                     <lido:measurementUnit>cm</lido:measurementUnit>
+                     <lido:measurementValue>18</lido:measurementValue>
+                  </lido:measurementsSet>
+                  <lido:measurementsSet>
+                     <lido:measurementType>height</lido:measurementType>
+                     <lido:measurementUnit>cm</lido:measurementUnit>
+                     <lido:measurementValue>13</lido:measurementValue>
+                  </lido:measurementsSet>
+               </lido:objectMeasurements>
+            </lido:objectMeasurementsSet>
+         </lido:objectMeasurementsWrap>
+      </lido:objectIdentificationWrap>
+      <lido:eventWrap>
+         <lido:eventSet>
+            <lido:displayEvent>Aufgenommen</lido:displayEvent>
+            <lido:event>
+               <lido:eventID lido:type="local">139817</lido:eventID>
+               <lido:eventType>
+                  <lido:conceptID lido:type="uri">https://event-types.museum-digital.org/10</lido:conceptID>
+                  <lido:term lido:addedSearchTerm="no">Aufgenommen</lido:term>
+               </lido:eventType>
+               <lido:eventName>
+                  <lido:appellationValue>Aufgenommen - Obj. 57577</lido:appellationValue>
+               </lido:eventName>
+               <lido:eventDate>
+                  <lido:displayDate>1920-1929</lido:displayDate>
+                  <lido:displayDate xml:lang="ar">1920-1929</lido:displayDate>
+                  <lido:displayDate xml:lang="en">1920s</lido:displayDate>
+                  <lido:displayDate xml:lang="es">1920-1929</lido:displayDate>
+                  <lido:displayDate xml:lang="fa">دهه 1920</lido:displayDate>
+                  <lido:displayDate xml:lang="fr">Années 1920</lido:displayDate>
+                  <lido:displayDate xml:lang="hu">1920-as évek</lido:displayDate>
+                  <lido:displayDate xml:lang="id">Tahun 1920-an</lido:displayDate>
+                  <lido:displayDate xml:lang="it">1920s</lido:displayDate>
+                  <lido:displayDate xml:lang="ja">1920年代</lido:displayDate>
+                  <lido:displayDate xml:lang="ka">1920-იანი წლები</lido:displayDate>
+                  <lido:displayDate xml:lang="ko">1920 년대</lido:displayDate>
+                  <lido:displayDate xml:lang="pl">1920 roku</lido:displayDate>
+                  <lido:displayDate xml:lang="pt">Década de 1920</lido:displayDate>
+                  <lido:displayDate xml:lang="ro">Anii 1920</lido:displayDate>
+                  <lido:displayDate xml:lang="ru">1920-е годы</lido:displayDate>
+                  <lido:displayDate xml:lang="ta">1920 கள்</lido:displayDate>
+                  <lido:displayDate xml:lang="tl">1920s</lido:displayDate>
+                  <lido:displayDate xml:lang="tr">1920'ler</lido:displayDate>
+                  <lido:displayDate xml:lang="zh">1920年代</lido:displayDate>
+                  <lido:date>
+                     <lido:earliestDate>1920</lido:earliestDate>
+                     <lido:latestDate>1929</lido:latestDate>
+                  </lido:date>
+               </lido:eventDate>
+            </lido:event>
+         </lido:eventSet>
+         <lido:eventSet>
+            <lido:event>
+               <lido:eventType>
+                  <lido:conceptID lido:type="uri">http://terminology.lido-schema.org/lido00003</lido:conceptID>
+                  <lido:term>Event (non-specified)</lido:term>
+               </lido:eventType>
+               <lido:eventMaterialsTech>
+                  <lido:displayMaterialsTech>Silbergelatine</lido:displayMaterialsTech>
+               </lido:eventMaterialsTech>
+            </lido:event>
+         </lido:eventSet>
+      </lido:eventWrap>
+      <lido:objectRelationWrap>
+         <lido:subjectWrap>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="aat" lido:type="uri">http://vocab.getty.edu/aat/300022636</lido:conceptID>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4366655-3</lido:conceptID>
+                     <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh85019133</lido:conceptID>
+                     <lido:conceptID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q15328</lido:conceptID>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Kamera</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/1404</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Kamera</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ar">كاميرا</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="bn">ক্যামেরা</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="da">Kamera</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="en">Camera</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="es">Cámara</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fa">دوربین</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fi">Kamera</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fr">Caméra</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="he">מצלמה</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hi">कैमरा</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hu">kamera</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="id">Kamera</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ja">カメラ</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ko">사진기</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="nl">Camera</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pl">Aparat fotograficzny</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pt">Câmera</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ru">камера</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sv">Kamera</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sw">Kamera</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ta">ஒளிப்படக்கருவி</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="th">กล้องถ่ายภาพ</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tl">Kamera</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ur">کیمرا</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="vi">Máy ảnh</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="zh">照相機</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="aat" lido:type="uri">http://vocab.getty.edu/aat/300247581</lido:conceptID>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4036871-3</lido:conceptID>
+                     <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh85055012</lido:conceptID>
+                     <lido:conceptID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q3031</lido:conceptID>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/M%C3%A4dchen</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/1669</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Mädchen</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ar">بنت</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="bn">মেয়ে</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="cs">Dívka</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="da">Pige</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="el">Κορίτσι</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="en">Girl</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="es">niña</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fa">دختر</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fi">Tyttö</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fr">Fille</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="he">ילדה</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hi">लड़की</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hu">lány</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="id">Gadis</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="it">Ragazza</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ja">少女</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ko">소녀</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="nl">Meisje</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pl">Dziewczyna</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pt">Menina</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ru">девочка</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sv">Flicka</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sw">Msichana</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ta">இளம் பெண்</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="th">เด็กหญิง</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tr">Kız</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ur">لڑکی</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="vi">cô gái</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="zh">女孩</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="aat" lido:type="uri">http://vocab.getty.edu/aat/300015637</lido:conceptID>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4006627-7</lido:conceptID>
+                     <lido:conceptID lido:source="grobsystematik" lido:type="uri">https://term.museum-digital.de/grobsystematik/tag/8985</lido:conceptID>
+                     <lido:conceptID lido:source="iconclass" lido:type="uri">http://iconclass.org/rkd/61B11/</lido:conceptID>
+                     <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh99001681</lido:conceptID>
+                     <lido:conceptID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q134307</lido:conceptID>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Portr%C3%A4t</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/11509</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Portrait</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ar">بورتريه</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="bn">প্রতিকৃতি</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="cs">Portrét</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="da">Portræt</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="el">προσωπογραφία</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="en">Portrait</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="es">Retrato</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fa">چهره‌نگاری</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fi">Muotokuva</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fr">Portrait</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="he">דיוקן</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hi">चित्र</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hu">arckép</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="id">Potret</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="it">Ritratto</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ja">肖像</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ka">პორტრეტი</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ko">초상</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="nl">Portret</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pl">Portret</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pt">Retrato</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ro">portret</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ru">портрет</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sv">Porträtt</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="th">ภาพเหมือน</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tr">Portre</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ur">تصویر</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="zh">肖像</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="aat" lido:type="uri">https://vocab.getty.edu/page/aat/300025687</lido:conceptID>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">http://d-nb.info/gnd/4262252-9</lido:conceptID>
+                     <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh85101179</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/29738</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Fotografin</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+         </lido:subjectWrap>
+      </lido:objectRelationWrap>
+   </lido:descriptiveMetadata>
+   <lido:administrativeMetadata xml:lang="de">
+      <lido:rightsWorkWrap>
+         <lido:rightsWorkSet>
+            <lido:rightsHolder>
+               <lido:legalBodyName>
+                  <lido:appellationValue>Gerda Schimpf Fotoarchiv</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:rightsHolder>
+         </lido:rightsWorkSet>
+      </lido:rightsWorkWrap>
+      <lido:recordWrap>
+         <lido:recordID lido:type="museum-digital">57577</lido:recordID>
+         <lido:recordType>
+            <lido:term lido:addedSearchTerm="no">item</lido:term>
+         </lido:recordType>
+         <lido:recordSource lido:type="dataProvider">
+            <lido:legalBodyName>
+               <lido:appellationValue>museum-digital</lido:appellationValue>
+            </lido:legalBodyName>
+            <lido:legalBodyWeblink>https://berlin.museum-digital.de/</lido:legalBodyWeblink>
+         </lido:recordSource>
+         <lido:recordSource>
+            <lido:legalBodyName>
+               <lido:appellationValue>Gerda Schimpf Fotoarchiv</lido:appellationValue>
+            </lido:legalBodyName>
+         </lido:recordSource>
+         <lido:recordRights>
+            <lido:rightsType>
+               <lido:conceptID lido:type="uri">https://creativecommons.org/publicdomain/zero/1.0/</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no">CC 0</lido:term>
+            </lido:rightsType>
+            <lido:rightsHolder>
+               <lido:legalBodyName>
+                  <lido:appellationValue>Gerda Schimpf Fotoarchiv</lido:appellationValue>
+               </lido:legalBodyName>
+               <lido:legalBodyWeblink>https://gerda-schimpf-fotoarchiv.com</lido:legalBodyWeblink>
+            </lido:rightsHolder>
+            <lido:creditLine>Förderprogramm zur Digitalisierung von Objekten des kulturellen Erbes des Landes Berlin</lido:creditLine>
+         </lido:recordRights>
+         <lido:recordInfoSet>
+            <lido:recordInfoLink>https://berlin.museum-digital.de/index.php?t=objekt&amp;oges=57577</lido:recordInfoLink>
+            <lido:recordMetadataDate>2021-05-10 13:20:47</lido:recordMetadataDate>
+         </lido:recordInfoSet>
+      </lido:recordWrap>
+      <lido:resourceWrap>
+         <lido:resourceSet lido:sortorder="1">
+            <lido:resourceID lido:source="image" lido:type="local">30585</lido:resourceID>
+            <lido:resourceRepresentation lido:type="image_thumb">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/201908/100h_gerda-schimpf-als-junges-maedchen-57577.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_preview">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/201908/200w_gerda-schimpf-als-junges-maedchen-57577.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="Provided image">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/201908/gerda-schimpf-als-junges-maedchen-57577.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceType>
+               <lido:term lido:addedSearchTerm="no">image</lido:term>
+            </lido:resourceType>
+            <lido:resourceRelType>
+               <lido:term lido:addedSearchTerm="no">Hauptansicht</lido:term>
+            </lido:resourceRelType>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by-nc-sa/4.0/</lido:conceptID>
+                  <lido:term lido:addedSearchTerm="no">CC BY-NC-SA</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Gerda Schimpf Fotoarchiv</lido:appellationValue>
+                  </lido:legalBodyName>
+               </lido:rightsHolder>
+            </lido:rightsResource>
+         </lido:resourceSet>
+      </lido:resourceWrap>
+   </lido:administrativeMetadata>
+</lido:lido>
+

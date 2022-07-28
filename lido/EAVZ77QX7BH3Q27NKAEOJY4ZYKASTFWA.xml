@@ -1,0 +1,404 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lido:lido xmlns:lido="http://www.lido-schema.org"
+           xmlns:xalan="http://xml.apache.org/xalan">
+   <lido:lidoRecID lido:source="https://berlin.museum-digital.de/index.php?t=institution&amp;instnr=32"
+                   lido:type="local">DE-B185/67111</lido:lidoRecID>
+   <lido:category/>
+   <lido:descriptiveMetadata xml:lang="de">
+      <lido:objectClassificationWrap>
+         <lido:objectWorkTypeWrap>
+            <lido:objectWorkType>
+               <lido:conceptID lido:source="gnd" lido:type="uri">http://d-nb.info/gnd/4021845-4</lido:conceptID>
+               <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/13314</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Druckgraphik</lido:term>
+            </lido:objectWorkType>
+         </lido:objectWorkTypeWrap>
+         <lido:classificationWrap>
+            <lido:classification lido:type="Sammlung">
+               <lido:conceptID lido:source="local" lido:type="collection_id">705</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Handzeichnungen, Druckgraphik, Gemälde</lido:term>
+            </lido:classification>
+            <lido:classification lido:type="Sammlung">
+               <lido:conceptID lido:source="local" lido:type="collection_id">706</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Ansichten</lido:term>
+            </lido:classification>
+            <lido:classification lido:type="Sammlung">
+               <lido:conceptID lido:source="local" lido:type="collection_id">708</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Brandenburg</lido:term>
+            </lido:classification>
+         </lido:classificationWrap>
+      </lido:objectClassificationWrap>
+      <lido:objectIdentificationWrap>
+         <lido:titleWrap>
+            <lido:titleSet>
+               <lido:appellationValue lido:pref="preferred">Heiligengrabe (Kr. Ostprignitz): Kloster Stift zum Heiligengrabe</lido:appellationValue>
+            </lido:titleSet>
+         </lido:titleWrap>
+         <lido:repositoryWrap>
+            <lido:repositorySet lido:type="current">
+               <lido:repositoryName>
+                  <lido:legalBodyID lido:type="isil">DE-B185</lido:legalBodyID>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+                  </lido:legalBodyName>
+                  <lido:legalBodyWeblink>http://geschichte-brandenburg.de/</lido:legalBodyWeblink>
+               </lido:repositoryName>
+               <lido:workID lido:type="inventory number">LGV-Archiv, C 12 G-4-039</lido:workID>
+               <lido:repositoryLocation>
+                  <lido:namePlaceSet>
+                     <lido:appellationValue>Berlin</lido:appellationValue>
+                  </lido:namePlaceSet>
+                  <lido:gml>
+                     <gml:Point xmlns:gml="http://www.opengis.net/gml" srsName="EPSG:4326">
+                        <gml:pos>52.51533127 13.40440559</gml:pos>
+                     </gml:Point>
+                  </lido:gml>
+               </lido:repositoryLocation>
+            </lido:repositorySet>
+         </lido:repositoryWrap>
+         <lido:objectDescriptionWrap>
+            <lido:objectDescriptionSet>
+               <lido:descriptiveNoteValue>Dargestellt ist aus östlicher Richtung die Heilig-Grab-Kapelle, früher auch Blutkapelle, die dem mittelalterlichen Zisterzienserinnenkloster seit dem 16. Jahrhundert ihren Namen gab, dahinter die eigentliche Klosteranlage. Aus "Berliner Kalender" für das Jahr 1843.
+
+Bez. re. u. "gest. v. Fincke.", mi. u. "Heiligengrabe".
+Altbestand des Archivs.
+
+Literatur: Iris Berndt: Märkische Ansichten. Die Provinz Brandenburg im Bild der Druckgraphik 1550-1850. Berlin 2007, Nr. 982.</lido:descriptiveNoteValue>
+               <lido:sourceDescriptiveNote>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:sourceDescriptiveNote>
+            </lido:objectDescriptionSet>
+         </lido:objectDescriptionWrap>
+         <lido:objectMeasurementsWrap>
+            <lido:objectMeasurementsSet>
+               <lido:displayObjectMeasurements>Blattgröße: Höhe 9 cm, Breite 10,8 cm (auf Plattengröße beschnitten) ; Bildgröße: Höhe 7,6 cm, Breite 10,5 cm</lido:displayObjectMeasurements>
+               <lido:objectMeasurements/>
+            </lido:objectMeasurementsSet>
+         </lido:objectMeasurementsWrap>
+      </lido:objectIdentificationWrap>
+      <lido:eventWrap>
+         <lido:eventSet>
+            <lido:displayEvent>Herstellung</lido:displayEvent>
+            <lido:event>
+               <lido:eventType>
+                  <lido:conceptID lido:type="uri">https://event-types.museum-digital.org/12</lido:conceptID>
+                  <lido:term lido:addedSearchTerm="no">Druckplatte hergestellt</lido:term>
+               </lido:eventType>
+               <lido:eventActor>
+                  <lido:displayActorInRole>Hans Fincke (1800-1849)</lido:displayActorInRole>
+                  <lido:actorInRole>
+                     <lido:actor>
+                        <lido:actorID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/117507873</lido:actorID>
+                        <lido:actorID lido:source="viaf" lido:type="uri">http://viaf.org/viaf/71667381</lido:actorID>
+                        <lido:actorID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/persinst/10073</lido:actorID>
+                        <lido:nameActorSet>
+                           <lido:appellationValue>Fincke, Hans</lido:appellationValue>
+                           <lido:appellationValue xml:lang="de">Hans Fincke</lido:appellationValue>
+                        </lido:nameActorSet>
+                        <lido:vitalDatesActor>
+                           <lido:earliestDate>1800</lido:earliestDate>
+                           <lido:latestDate>1849</lido:latestDate>
+                        </lido:vitalDatesActor>
+                     </lido:actor>
+                  </lido:actorInRole>
+               </lido:eventActor>
+               <lido:eventDate>
+                  <lido:displayDate>1842</lido:displayDate>
+                  <lido:displayDate xml:lang="ar">1842</lido:displayDate>
+                  <lido:displayDate xml:lang="de">1842</lido:displayDate>
+                  <lido:displayDate xml:lang="en">1842</lido:displayDate>
+                  <lido:displayDate xml:lang="es">1842</lido:displayDate>
+                  <lido:displayDate xml:lang="fa">1842</lido:displayDate>
+                  <lido:displayDate xml:lang="fr">1842</lido:displayDate>
+                  <lido:displayDate xml:lang="hu">1842</lido:displayDate>
+                  <lido:displayDate xml:lang="id">1842</lido:displayDate>
+                  <lido:displayDate xml:lang="it">1842</lido:displayDate>
+                  <lido:displayDate xml:lang="ja">1842年</lido:displayDate>
+                  <lido:displayDate xml:lang="ka">1842</lido:displayDate>
+                  <lido:displayDate xml:lang="ko">1842년</lido:displayDate>
+                  <lido:displayDate xml:lang="pl">1842</lido:displayDate>
+                  <lido:displayDate xml:lang="pt">1842</lido:displayDate>
+                  <lido:displayDate xml:lang="ro">1842</lido:displayDate>
+                  <lido:displayDate xml:lang="ru">1842</lido:displayDate>
+                  <lido:displayDate xml:lang="ta">1842</lido:displayDate>
+                  <lido:displayDate xml:lang="tl">1842</lido:displayDate>
+                  <lido:displayDate xml:lang="tr">1842</lido:displayDate>
+                  <lido:displayDate xml:lang="zh">1842年</lido:displayDate>
+                  <lido:date>
+                     <lido:earliestDate>1842</lido:earliestDate>
+                     <lido:latestDate>1842</lido:latestDate>
+                  </lido:date>
+               </lido:eventDate>
+            </lido:event>
+         </lido:eventSet>
+         <lido:eventSet>
+            <lido:event>
+               <lido:eventType>
+                  <lido:conceptID lido:type="uri">http://terminology.lido-schema.org/lido00003</lido:conceptID>
+                  <lido:term>Event (non-specified)</lido:term>
+               </lido:eventType>
+               <lido:eventMaterialsTech>
+                  <lido:displayMaterialsTech>Stahlstich auf leicht gebräuntem Papier</lido:displayMaterialsTech>
+               </lido:eventMaterialsTech>
+            </lido:event>
+         </lido:eventSet>
+      </lido:eventWrap>
+      <lido:objectRelationWrap>
+         <lido:subjectWrap>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectPlace>
+                     <lido:displayPlace>Heiligengrabe</lido:displayPlace>
+                     <lido:displayPlace xml:lang="de">Heiligengrabe</lido:displayPlace>
+                     <lido:displayPlace xml:lang="en">Heiligengrabe</lido:displayPlace>
+                     <lido:displayPlace xml:lang="es">Heiligengrabe</lido:displayPlace>
+                     <lido:displayPlace xml:lang="fa">هایلیگنگرابه</lido:displayPlace>
+                     <lido:displayPlace xml:lang="fr">Heiligengrabe</lido:displayPlace>
+                     <lido:displayPlace xml:lang="hu">Heiligengrabe</lido:displayPlace>
+                     <lido:displayPlace xml:lang="it">Heiligengrabe</lido:displayPlace>
+                     <lido:displayPlace xml:lang="nl">Heiligengrabe</lido:displayPlace>
+                     <lido:displayPlace xml:lang="pl">Heiligengrabe</lido:displayPlace>
+                     <lido:displayPlace xml:lang="ro">Heiligengrabe</lido:displayPlace>
+                     <lido:displayPlace xml:lang="ru">Хайлигенграбе</lido:displayPlace>
+                     <lido:displayPlace xml:lang="sv">Heiligengrabe</lido:displayPlace>
+                     <lido:displayPlace xml:lang="vi">Heiligengrabe</lido:displayPlace>
+                     <lido:displayPlace xml:lang="zh">海利根拉贝</lido:displayPlace>
+                     <lido:place>
+                        <lido:placeID lido:source="geonames" lido:type="uri">https://sws.geonames.org/2907594</lido:placeID>
+                        <lido:placeID lido:source="TGN" lido:type="uri">http://vocab.getty.edu/tgn/7168422</lido:placeID>
+                        <lido:placeID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4024048-4</lido:placeID>
+                        <lido:placeID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q520280</lido:placeID>
+                        <lido:placeID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/place/18</lido:placeID>
+                        <lido:namePlaceSet>
+                           <lido:appellationValue>Heiligengrabe</lido:appellationValue>
+                           <lido:appellationValue xml:lang="de">Heiligengrabe</lido:appellationValue>
+                           <lido:appellationValue xml:lang="en">Heiligengrabe</lido:appellationValue>
+                           <lido:appellationValue xml:lang="es">Heiligengrabe</lido:appellationValue>
+                           <lido:appellationValue xml:lang="fa">هایلیگنگرابه</lido:appellationValue>
+                           <lido:appellationValue xml:lang="fr">Heiligengrabe</lido:appellationValue>
+                           <lido:appellationValue xml:lang="hu">Heiligengrabe</lido:appellationValue>
+                           <lido:appellationValue xml:lang="it">Heiligengrabe</lido:appellationValue>
+                           <lido:appellationValue xml:lang="nl">Heiligengrabe</lido:appellationValue>
+                           <lido:appellationValue xml:lang="pl">Heiligengrabe</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ro">Heiligengrabe</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ru">Хайлигенграбе</lido:appellationValue>
+                           <lido:appellationValue xml:lang="sv">Heiligengrabe</lido:appellationValue>
+                           <lido:appellationValue xml:lang="vi">Heiligengrabe</lido:appellationValue>
+                           <lido:appellationValue xml:lang="zh">海利根拉贝</lido:appellationValue>
+                        </lido:namePlaceSet>
+                        <lido:gml>
+                           <gml:Point xmlns:gml="http://www.opengis.net/gml" srsName="EPSG:4326">
+                              <gml:pos>53.150001525879 12.35000038147</gml:pos>
+                           </gml:Point>
+                        </lido:gml>
+                     </lido:place>
+                  </lido:subjectPlace>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="aat" lido:type="uri">http://vocab.getty.edu/aat/300000650</lido:conceptID>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4031225-2</lido:conceptID>
+                     <lido:conceptID lido:source="iconclass" lido:type="uri">http://iconclass.org/rkd/11P31512/</lido:conceptID>
+                     <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh85086690</lido:conceptID>
+                     <lido:conceptID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q44613</lido:conceptID>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Kloster</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/196</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Kloster</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ar">دير</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="cs">Klášter</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="da">Kloster</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="de">Kloster</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="el">μοναστήρι</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="en">Monastery</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="es">Monasterio</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fa">صومعه</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fi">Luostari</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fr">Monastère</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="he">מנזר</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hu">kolostor</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="id">Biara</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="it">Monastero</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ja">僧院</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ka">მონასტერი</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ko">수도원</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="nl">Kloostercomplex</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pl">Klasztor</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pt">Mosteiro</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ro">mănăstire</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ru">монастырь</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sv">Kloster</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sw">monasteri</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="th">อาราม</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tr">Manastır</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ur">خانقاہ</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="vi">tu viện</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="zh">僧院</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="aat" lido:type="uri">http://vocab.getty.edu/aat/300054156</lido:conceptID>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4002851-3</lido:conceptID>
+                     <lido:conceptID lido:source="iconclass" lido:type="uri">http://iconclass.org/rkd/48C1/</lido:conceptID>
+                     <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh85006611</lido:conceptID>
+                     <lido:conceptID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q12271</lido:conceptID>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Architektur</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/800</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Architektur</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ar">عمارة</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="bn">স্থাপত্য</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="cs">Architektura</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="da">Arkitektur</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="de">Architektur</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="el">αρχιτεκτονική</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="en">Architecture</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="es">Arquitectura</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fa">معماری</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fi">Arkkitehtuuri</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fr">Architecture</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="he">אדריכלות</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hi">वास्तुशास्त्र</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hu">építészet</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="id">Arsitektur</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="it">Architettura</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ja">建築</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ka">არქიტექტურა</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ko">건축</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="nl">Architectuur</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pl">Architektura</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pt">Arquitetura</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ro">arhitectură</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ru">архитектура</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sv">Arkitektur</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sw">Ujenzi</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ta">கட்டிடக்கலை</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="th">สถาปัตยกรรม</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tl">Arkitektura</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tr">Mimarlık</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ur">معماری</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="vi">kiến trúc</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="zh">建筑</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4163208-4</lido:conceptID>
+                     <lido:conceptID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q1451876</lido:conceptID>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Frauenstift</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/68601</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Damenstift</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="cs">ústav šlechtičen</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="da">Jomfrukloster</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="de">Damenstift</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="en">Frauenstift</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fr">Frauenstift</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sv">Jungfrustift</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/75738</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Zisterzienserinnen</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+         </lido:subjectWrap>
+         <lido:relatedWorksWrap/>
+      </lido:objectRelationWrap>
+   </lido:descriptiveMetadata>
+   <lido:administrativeMetadata xml:lang="de">
+      <lido:rightsWorkWrap>
+         <lido:rightsWorkSet>
+            <lido:rightsHolder>
+               <lido:legalBodyName>
+                  <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:rightsHolder>
+         </lido:rightsWorkSet>
+      </lido:rightsWorkWrap>
+      <lido:recordWrap>
+         <lido:recordID lido:type="museum-digital">67111</lido:recordID>
+         <lido:recordType>
+            <lido:term lido:addedSearchTerm="no">item</lido:term>
+         </lido:recordType>
+         <lido:recordSource lido:type="dataProvider">
+            <lido:legalBodyName>
+               <lido:appellationValue>museum-digital</lido:appellationValue>
+            </lido:legalBodyName>
+            <lido:legalBodyWeblink>https://berlin.museum-digital.de/</lido:legalBodyWeblink>
+         </lido:recordSource>
+         <lido:recordSource>
+            <lido:legalBodyID lido:type="isil">DE-B185</lido:legalBodyID>
+            <lido:legalBodyName>
+               <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+            </lido:legalBodyName>
+         </lido:recordSource>
+         <lido:recordRights>
+            <lido:rightsType>
+               <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no">CC BY</lido:term>
+            </lido:rightsType>
+            <lido:rightsHolder>
+               <lido:legalBodyID lido:type="isil">DE-B185</lido:legalBodyID>
+               <lido:legalBodyName>
+                  <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+               </lido:legalBodyName>
+               <lido:legalBodyWeblink>http://geschichte-brandenburg.de/</lido:legalBodyWeblink>
+            </lido:rightsHolder>
+            <lido:creditLine>Förderprogramm zur Digitalisierung von Objekten des kulturellen Erbes des Landes Berlin</lido:creditLine>
+         </lido:recordRights>
+         <lido:recordInfoSet>
+            <lido:recordInfoLink>https://berlin.museum-digital.de/index.php?t=objekt&amp;oges=67111</lido:recordInfoLink>
+            <lido:recordMetadataDate>2021-04-27 07:59:54</lido:recordMetadataDate>
+         </lido:recordInfoSet>
+      </lido:recordWrap>
+      <lido:resourceWrap>
+         <lido:resourceSet lido:sortorder="1">
+            <lido:resourceID lido:source="image" lido:type="local">48694</lido:resourceID>
+            <lido:resourceRepresentation lido:type="masterfile">
+               <lido:linkResource lido:formatResource="image/tiff"/>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_thumb">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/202007/100h_heiligengrabe-kr-ostprignitz-kloster-stift-zum-heiligengrabe-67111.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_preview">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/202007/200w_heiligengrabe-kr-ostprignitz-kloster-stift-zum-heiligengrabe-67111.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/202007/heiligengrabe-kr-ostprignitz-kloster-stift-zum-heiligengrabe-67111.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceType>
+               <lido:term lido:addedSearchTerm="no">image</lido:term>
+            </lido:resourceType>
+            <lido:resourceRelType>
+               <lido:term lido:addedSearchTerm="no">Hauptansicht</lido:term>
+            </lido:resourceRelType>
+            <lido:resourceDescription>Heiligengrabe (Kr. Ostprignitz): Kloster Stift zum Heiligengrabe</lido:resourceDescription>
+            <lido:resourceSource lido:type="creator">
+               <lido:legalBodyName>
+                  <lido:appellationValue>Thomas Voßbeck, 2020</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:resourceSource>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+                  <lido:term lido:addedSearchTerm="no">CC BY</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V.</lido:appellationValue>
+                  </lido:legalBodyName>
+               </lido:rightsHolder>
+               <lido:creditLine>Thomas Voßbeck, 2020</lido:creditLine>
+            </lido:rightsResource>
+         </lido:resourceSet>
+      </lido:resourceWrap>
+   </lido:administrativeMetadata>
+</lido:lido>
+

@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lido:lido xmlns:lido="http://www.lido-schema.org"
+           xmlns:xalan="http://xml.apache.org/xalan">
+   <lido:lidoRecID lido:source="https://berlin.museum-digital.de/index.php?t=institution&amp;instnr=32"
+                   lido:type="local">DE-B185/67240</lido:lidoRecID>
+   <lido:category/>
+   <lido:descriptiveMetadata xml:lang="de">
+      <lido:objectClassificationWrap>
+         <lido:objectWorkTypeWrap>
+            <lido:objectWorkType>
+               <lido:conceptID lido:source="gnd" lido:type="uri">http://d-nb.info/gnd/4067453-8</lido:conceptID>
+               <lido:conceptID lido:source="grobsystematik" lido:type="uri">https://term.museum-digital.de/grobsystematik/tag/14445</lido:conceptID>
+               <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh85039408</lido:conceptID>
+               <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/945</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Handzeichnung</lido:term>
+            </lido:objectWorkType>
+         </lido:objectWorkTypeWrap>
+         <lido:classificationWrap>
+            <lido:classification lido:type="Sammlung">
+               <lido:conceptID lido:source="local" lido:type="collection_id">705</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Handzeichnungen, Druckgraphik, Gemälde</lido:term>
+            </lido:classification>
+            <lido:classification lido:type="Sammlung">
+               <lido:conceptID lido:source="local" lido:type="collection_id">706</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Ansichten</lido:term>
+            </lido:classification>
+            <lido:classification lido:type="Sammlung">
+               <lido:conceptID lido:source="local" lido:type="collection_id">707</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Berlin</lido:term>
+            </lido:classification>
+         </lido:classificationWrap>
+      </lido:objectClassificationWrap>
+      <lido:objectIdentificationWrap>
+         <lido:titleWrap>
+            <lido:titleSet>
+               <lido:appellationValue lido:pref="preferred">Berlin-Kreuzberg Köpenicker Straße 12-14: Inspektor-Wohnung der von Pfuel'schen Schwimmanstalt</lido:appellationValue>
+            </lido:titleSet>
+         </lido:titleWrap>
+         <lido:repositoryWrap>
+            <lido:repositorySet lido:type="current">
+               <lido:repositoryName>
+                  <lido:legalBodyID lido:type="isil">DE-B185</lido:legalBodyID>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+                  </lido:legalBodyName>
+                  <lido:legalBodyWeblink>http://geschichte-brandenburg.de/</lido:legalBodyWeblink>
+               </lido:repositoryName>
+               <lido:workID lido:type="inventory number">LGV-Archiv, C 12 H-4-012</lido:workID>
+               <lido:repositoryLocation>
+                  <lido:namePlaceSet>
+                     <lido:appellationValue>Berlin</lido:appellationValue>
+                  </lido:namePlaceSet>
+                  <lido:gml>
+                     <gml:Point xmlns:gml="http://www.opengis.net/gml" srsName="EPSG:4326">
+                        <gml:pos>52.51533127 13.40440559</gml:pos>
+                     </gml:Point>
+                  </lido:gml>
+               </lido:repositoryLocation>
+            </lido:repositorySet>
+         </lido:repositoryWrap>
+         <lido:objectDescriptionWrap>
+            <lido:objectDescriptionSet>
+               <lido:descriptiveNoteValue>Gezeigt werden die kleinen Eingangsgebäude an der Straße, während die sonst vielfach abgebildete eigentliche, auf Pfählen (im Wasser der Spree) ruhende Schwimmanstalt (Flussbadeanstalt) nur im Hintergrund teilweise zu erkennen ist. Die Pfuel'sche Schwimmanstalt wurde 1817 von dem damaligen Oberst und preußischen Generalstabsschef, späteren General der Infanterie und Gouverneur von Berlin Ernst von Pfuel (1779-1866) als erste Militärunterrichts- und Schwimmbadeanstalt Berlins gegründet. Sie war in der Stadt bis in das 20. Jahrhundert hinein ein Begriff, existierte bis 1925/33 und wurde von der Bevölkerung viel besucht, da sie (von Anfang an) auch Zivilisten - insbesondere der Schuljugend - offen stand. Sie wirkte zudem typenbildend für Berliner Flussbadeanstalten.&#xD;
+Zeichnung des bislang nicht identifizerbaren O. Nebel, 1892.&#xD;
+&#xD;
+Bez. li. u. "Berlin SO. / O. Nebel. / 1892." Re. u. Inspector-Wohnung der von Pfuel'schen / Schwimmanstalt."&#xD;
+Erworben 2009 (Nachlass Hans-Werner Klünner).</lido:descriptiveNoteValue>
+               <lido:sourceDescriptiveNote>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:sourceDescriptiveNote>
+            </lido:objectDescriptionSet>
+         </lido:objectDescriptionWrap>
+         <lido:objectMeasurementsWrap>
+            <lido:objectMeasurementsSet>
+               <lido:displayObjectMeasurements>Bildgröße: Durchmesser 11,6 cm ; in Passepartout der Zeit (Außenmaße: Höhe 21,4 cm, Breite 18,6 cm)</lido:displayObjectMeasurements>
+               <lido:objectMeasurements/>
+            </lido:objectMeasurementsSet>
+         </lido:objectMeasurementsWrap>
+      </lido:objectIdentificationWrap>
+      <lido:eventWrap>
+         <lido:eventSet>
+            <lido:event>
+               <lido:eventType>
+                  <lido:conceptID lido:type="uri">https://event-types.museum-digital.org/19</lido:conceptID>
+                  <lido:term lido:addedSearchTerm="no">Gezeichnet</lido:term>
+               </lido:eventType>
+               <lido:eventDate>
+                  <lido:displayDate>1892</lido:displayDate>
+                  <lido:displayDate xml:lang="ar">1892</lido:displayDate>
+                  <lido:displayDate xml:lang="de">1892</lido:displayDate>
+                  <lido:displayDate xml:lang="en">1892</lido:displayDate>
+                  <lido:displayDate xml:lang="es">1892</lido:displayDate>
+                  <lido:displayDate xml:lang="fa">1892</lido:displayDate>
+                  <lido:displayDate xml:lang="fr">1892</lido:displayDate>
+                  <lido:displayDate xml:lang="hu">1892</lido:displayDate>
+                  <lido:displayDate xml:lang="id">1892</lido:displayDate>
+                  <lido:displayDate xml:lang="it">1892</lido:displayDate>
+                  <lido:displayDate xml:lang="ja">1892年</lido:displayDate>
+                  <lido:displayDate xml:lang="ka">1892</lido:displayDate>
+                  <lido:displayDate xml:lang="ko">1892년</lido:displayDate>
+                  <lido:displayDate xml:lang="pl">1892</lido:displayDate>
+                  <lido:displayDate xml:lang="pt">1892</lido:displayDate>
+                  <lido:displayDate xml:lang="ro">1892</lido:displayDate>
+                  <lido:displayDate xml:lang="ru">1892</lido:displayDate>
+                  <lido:displayDate xml:lang="ta">1892</lido:displayDate>
+                  <lido:displayDate xml:lang="tl">1892</lido:displayDate>
+                  <lido:displayDate xml:lang="tr">1892</lido:displayDate>
+                  <lido:displayDate xml:lang="zh">1892年</lido:displayDate>
+                  <lido:date>
+                     <lido:earliestDate>1892</lido:earliestDate>
+                     <lido:latestDate>1892</lido:latestDate>
+                  </lido:date>
+               </lido:eventDate>
+            </lido:event>
+         </lido:eventSet>
+         <lido:eventSet>
+            <lido:event>
+               <lido:eventType>
+                  <lido:conceptID lido:type="uri">http://terminology.lido-schema.org/lido00003</lido:conceptID>
+                  <lido:term>Event (non-specified)</lido:term>
+               </lido:eventType>
+               <lido:eventMaterialsTech>
+                  <lido:displayMaterialsTech>Feder auf Japan (fleckig), in blauem Passepartout der Zeit geschlossen</lido:displayMaterialsTech>
+               </lido:eventMaterialsTech>
+            </lido:event>
+         </lido:eventSet>
+      </lido:eventWrap>
+      <lido:objectRelationWrap>
+         <lido:subjectWrap>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4039305-7</lido:conceptID>
+                     <lido:conceptID lido:source="iconclass" lido:type="uri">http://iconclass.org/rkd/45D21/</lido:conceptID>
+                     <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh99002455</lido:conceptID>
+                     <lido:conceptID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q8473</lido:conceptID>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Milit%C3%A4r</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/72</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Militär</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ar">عسكرية</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="bn">সামরিক</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="cs">Vojsko</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="da">Militær</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="de">Militär</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="el">στράτευμα</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="en">Military</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="es">Ejército</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fa">نیروی نظامی</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fi">Armeija</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fr">Armée</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="he">צבא</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hi">सेना</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hu">hadsereg</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="id">Militer</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="it">Forze armate</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ja">軍隊</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ko">군대</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="nl">Militairen</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pl">Wojskowość</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pt">Militar</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ro">armată</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ru">армия</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sv">Militär</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sw">Jeshi</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ta">படைத்துறை</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="th">การทหาร</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tl">Hukbo</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tr">Askeriye</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ur">فوج</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="vi">quân đội</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="zh">軍隊</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="aat" lido:type="uri">http://vocab.getty.edu/aat/300007376</lido:conceptID>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">http://d-nb.info/gnd/4140692-8</lido:conceptID>
+                     <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh85131230</lido:conceptID>
+                     <lido:conceptID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q17521458</lido:conceptID>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Badeanstalt</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/2518</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Badeanstalt</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="da">Badeanstalt</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="de">Badeanstalt</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">http://d-nb.info/gnd/4018263-0</lido:conceptID>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">http://de.wikipedia.org/wiki/Freibad</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/13342</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Freibad</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/75742</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Spree (Fluss)</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+         </lido:subjectWrap>
+         <lido:relatedWorksWrap/>
+      </lido:objectRelationWrap>
+   </lido:descriptiveMetadata>
+   <lido:administrativeMetadata xml:lang="de">
+      <lido:rightsWorkWrap>
+         <lido:rightsWorkSet>
+            <lido:rightsHolder>
+               <lido:legalBodyName>
+                  <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:rightsHolder>
+         </lido:rightsWorkSet>
+      </lido:rightsWorkWrap>
+      <lido:recordWrap>
+         <lido:recordID lido:type="museum-digital">67240</lido:recordID>
+         <lido:recordType>
+            <lido:term lido:addedSearchTerm="no">item</lido:term>
+         </lido:recordType>
+         <lido:recordSource lido:type="dataProvider">
+            <lido:legalBodyName>
+               <lido:appellationValue>museum-digital</lido:appellationValue>
+            </lido:legalBodyName>
+            <lido:legalBodyWeblink>https://berlin.museum-digital.de/</lido:legalBodyWeblink>
+         </lido:recordSource>
+         <lido:recordSource>
+            <lido:legalBodyID lido:type="isil">DE-B185</lido:legalBodyID>
+            <lido:legalBodyName>
+               <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+            </lido:legalBodyName>
+         </lido:recordSource>
+         <lido:recordRights>
+            <lido:rightsType>
+               <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no">CC BY</lido:term>
+            </lido:rightsType>
+            <lido:rightsHolder>
+               <lido:legalBodyID lido:type="isil">DE-B185</lido:legalBodyID>
+               <lido:legalBodyName>
+                  <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+               </lido:legalBodyName>
+               <lido:legalBodyWeblink>http://geschichte-brandenburg.de/</lido:legalBodyWeblink>
+            </lido:rightsHolder>
+            <lido:creditLine>Förderprogramm zur Digitalisierung von Objekten des kulturellen Erbes des Landes Berlin</lido:creditLine>
+         </lido:recordRights>
+         <lido:recordInfoSet>
+            <lido:recordInfoLink>https://berlin.museum-digital.de/index.php?t=objekt&amp;oges=67240</lido:recordInfoLink>
+            <lido:recordMetadataDate>2021-04-27 07:59:53</lido:recordMetadataDate>
+         </lido:recordInfoSet>
+      </lido:recordWrap>
+      <lido:resourceWrap>
+         <lido:resourceSet lido:sortorder="1">
+            <lido:resourceID lido:source="image" lido:type="local">48821</lido:resourceID>
+            <lido:resourceRepresentation lido:type="masterfile">
+               <lido:linkResource lido:formatResource="image/tiff"/>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_thumb">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/202007/100h_berlin-kreuzberg-koepenicker-straSse-12-14-inspektor-wohnung-der-von-pfuelschen-schwimmans.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_preview">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/202007/200w_berlin-kreuzberg-koepenicker-straSse-12-14-inspektor-wohnung-der-von-pfuelschen-schwimmans.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/202007/berlin-kreuzberg-koepenicker-straSse-12-14-inspektor-wohnung-der-von-pfuelschen-schwimmans.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceType>
+               <lido:term lido:addedSearchTerm="no">image</lido:term>
+            </lido:resourceType>
+            <lido:resourceRelType>
+               <lido:term lido:addedSearchTerm="no">Hauptansicht</lido:term>
+            </lido:resourceRelType>
+            <lido:resourceDescription>Berlin-Kreuzberg Köpenicker Straße 12-14: Inspektor-Wohnung der von Pfuel'schen Schwimmanstalt</lido:resourceDescription>
+            <lido:resourceSource lido:type="creator">
+               <lido:legalBodyName>
+                  <lido:appellationValue>Thomas Voßbeck, 2020</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:resourceSource>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+                  <lido:term lido:addedSearchTerm="no">CC BY</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V.</lido:appellationValue>
+                  </lido:legalBodyName>
+               </lido:rightsHolder>
+               <lido:creditLine>Thomas Voßbeck, 2020</lido:creditLine>
+            </lido:rightsResource>
+         </lido:resourceSet>
+      </lido:resourceWrap>
+   </lido:administrativeMetadata>
+</lido:lido>
+

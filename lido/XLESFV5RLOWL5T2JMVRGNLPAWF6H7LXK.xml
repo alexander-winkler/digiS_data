@@ -1,0 +1,362 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lido:lido xmlns:lido="http://www.lido-schema.org"
+           xmlns:xalan="http://xml.apache.org/xalan">
+   <lido:lidoRecID lido:source="https://berlin.museum-digital.de/index.php?t=institution&amp;instnr=32"
+                   lido:type="local">DE-B185/67242</lido:lidoRecID>
+   <lido:category/>
+   <lido:descriptiveMetadata xml:lang="de">
+      <lido:objectClassificationWrap>
+         <lido:objectWorkTypeWrap>
+            <lido:objectWorkType>
+               <lido:conceptID lido:source="gnd" lido:type="uri">http://d-nb.info/gnd/4067453-8</lido:conceptID>
+               <lido:conceptID lido:source="grobsystematik" lido:type="uri">https://term.museum-digital.de/grobsystematik/tag/14445</lido:conceptID>
+               <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh85039408</lido:conceptID>
+               <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/945</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Handzeichnung</lido:term>
+            </lido:objectWorkType>
+         </lido:objectWorkTypeWrap>
+         <lido:classificationWrap>
+            <lido:classification lido:type="Sammlung">
+               <lido:conceptID lido:source="local" lido:type="collection_id">705</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Handzeichnungen, Druckgraphik, Gemälde</lido:term>
+            </lido:classification>
+            <lido:classification lido:type="Sammlung">
+               <lido:conceptID lido:source="local" lido:type="collection_id">706</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Ansichten</lido:term>
+            </lido:classification>
+            <lido:classification lido:type="Sammlung">
+               <lido:conceptID lido:source="local" lido:type="collection_id">708</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Brandenburg</lido:term>
+            </lido:classification>
+         </lido:classificationWrap>
+      </lido:objectClassificationWrap>
+      <lido:objectIdentificationWrap>
+         <lido:titleWrap>
+            <lido:titleSet>
+               <lido:appellationValue lido:pref="preferred">Lehnitzsee (Gewässer) (Kr. Niederbarnim)</lido:appellationValue>
+            </lido:titleSet>
+         </lido:titleWrap>
+         <lido:repositoryWrap>
+            <lido:repositorySet lido:type="current">
+               <lido:repositoryName>
+                  <lido:legalBodyID lido:type="isil">DE-B185</lido:legalBodyID>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+                  </lido:legalBodyName>
+                  <lido:legalBodyWeblink>http://geschichte-brandenburg.de/</lido:legalBodyWeblink>
+               </lido:repositoryName>
+               <lido:workID lido:type="inventory number">LGV-Archiv, C 12 H-4-014</lido:workID>
+               <lido:repositoryLocation>
+                  <lido:namePlaceSet>
+                     <lido:appellationValue>Berlin</lido:appellationValue>
+                  </lido:namePlaceSet>
+                  <lido:gml>
+                     <gml:Point xmlns:gml="http://www.opengis.net/gml" srsName="EPSG:4326">
+                        <gml:pos>52.51533127 13.40440559</gml:pos>
+                     </gml:Point>
+                  </lido:gml>
+               </lido:repositoryLocation>
+            </lido:repositorySet>
+         </lido:repositoryWrap>
+         <lido:objectDescriptionWrap>
+            <lido:objectDescriptionSet>
+               <lido:descriptiveNoteValue>Das Motiv findet sich in nahezu identischer Form - bis in Position und Segelform des Bootes - auch auf einer Ansichtspostkarte der Zeit um 1910, von der zwei Exemplare (eines koloriert) in der Bildersammlung des Archivs vorliegen (betitelt "Morgenstimmung am Lehnitz-See"). Vermutlich diente eine solche Karte dem unbekannten Künstler als Vorlage. Abweichungen bestehen allerdings beim fernen Hintergrund. So ist der als Höhenzug erscheinende Horizont auf den gedruckten Postkarten, denen Fotografien zugrunde liegen, deutlich flacher und die turmartige Spitze in der rechten Bildhälfe (Mühle, Kirchturm?) ist auf den Postkarten noch einmal wesentlich kleiner und fällt dort, anders als in der Zeichnung, auf den ersten Blick gar nicht ins Auge. Der Standort ist in allen Fällen wohl im mittleren Bereich des Nordwestufers, vermutlich an einer inzwischen verlandeten Bucht, zu suchen. Der Blick wäre dann nach Südosten geerichtet.
+
+Bez. re. u. "Lehnitz-See".
+Erworben 1989 im Berliner Antiquariatshandel.</lido:descriptiveNoteValue>
+               <lido:sourceDescriptiveNote>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:sourceDescriptiveNote>
+            </lido:objectDescriptionSet>
+         </lido:objectDescriptionWrap>
+         <lido:objectMeasurementsWrap>
+            <lido:objectMeasurementsSet>
+               <lido:displayObjectMeasurements>Blattgröße: Höhe 8,9 cm, Breite 14,1 cm</lido:displayObjectMeasurements>
+               <lido:objectMeasurements/>
+            </lido:objectMeasurementsSet>
+         </lido:objectMeasurementsWrap>
+      </lido:objectIdentificationWrap>
+      <lido:eventWrap>
+         <lido:eventSet>
+            <lido:event>
+               <lido:eventType>
+                  <lido:conceptID lido:type="uri">https://event-types.museum-digital.org/1</lido:conceptID>
+                  <lido:term lido:addedSearchTerm="no">Hergestellt</lido:term>
+               </lido:eventType>
+               <lido:eventDate>
+                  <lido:displayDate>1910-1945 (wahrscheinlich)</lido:displayDate>
+                  <lido:displayDate xml:lang="de">1910-1945</lido:displayDate>
+                  <lido:date>
+                     <lido:earliestDate>1910</lido:earliestDate>
+                     <lido:latestDate>1945</lido:latestDate>
+                  </lido:date>
+               </lido:eventDate>
+            </lido:event>
+         </lido:eventSet>
+         <lido:eventSet>
+            <lido:event>
+               <lido:eventType>
+                  <lido:conceptID lido:type="uri">http://terminology.lido-schema.org/lido00003</lido:conceptID>
+                  <lido:term>Event (non-specified)</lido:term>
+               </lido:eventType>
+               <lido:eventMaterialsTech>
+                  <lido:displayMaterialsTech>Wasserfarben auf Velin</lido:displayMaterialsTech>
+               </lido:eventMaterialsTech>
+            </lido:event>
+         </lido:eventSet>
+      </lido:eventWrap>
+      <lido:objectRelationWrap>
+         <lido:subjectWrap>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectPlace>
+                     <lido:displayPlace>Lehnitzsee (Oranienburg)</lido:displayPlace>
+                     <lido:displayPlace xml:lang="de">Lehnitzsee (Oranienburg)</lido:displayPlace>
+                     <lido:displayPlace xml:lang="en">Lehnitzsee</lido:displayPlace>
+                     <lido:displayPlace xml:lang="zh">萊尼茨湖</lido:displayPlace>
+                     <lido:place>
+                        <lido:placeID lido:source="geonames" lido:type="uri">https://sws.geonames.org/2879400</lido:placeID>
+                        <lido:placeID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q1813282</lido:placeID>
+                        <lido:placeID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/place/57267</lido:placeID>
+                        <lido:namePlaceSet>
+                           <lido:appellationValue>Lehnitzsee (Oranienburg)</lido:appellationValue>
+                           <lido:appellationValue xml:lang="de">Lehnitzsee (Oranienburg)</lido:appellationValue>
+                           <lido:appellationValue xml:lang="en">Lehnitzsee</lido:appellationValue>
+                           <lido:appellationValue xml:lang="zh">萊尼茨湖</lido:appellationValue>
+                        </lido:namePlaceSet>
+                        <lido:gml>
+                           <gml:Point xmlns:gml="http://www.opengis.net/gml" srsName="EPSG:4326">
+                              <gml:pos>52.755001068115 13.269000053406</gml:pos>
+                           </gml:Point>
+                        </lido:gml>
+                     </lido:place>
+                  </lido:subjectPlace>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="aat" lido:type="uri">http://vocab.getty.edu/aat/300008680</lido:conceptID>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4054084-4</lido:conceptID>
+                     <lido:conceptID lido:source="iconclass" lido:type="uri">http://iconclass.org/rkd/25H214/</lido:conceptID>
+                     <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh85074030</lido:conceptID>
+                     <lido:conceptID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q23397</lido:conceptID>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/See</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/272</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">See</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ar">بحيرة</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="bn">হ্রদ</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="cs">Jezero</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="da">Sø</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="de">See</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="el">λίμνη</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="en">Lake</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="es">Lago</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fa">دریاچه</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fi">Järvi</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fr">Lac</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="he">אגם</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hi">झील</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hu">tó</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="id">Danau</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="it">Lago</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ja">湖</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ka">ტბა</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ko">호수</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="nl">Meer</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pl">Jezioro</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pt">Lago</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ro">lac</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ru">озеро</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sv">Insjö</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sw">ziwa</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ta">ஏரி</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="th">ทะเลสาบ</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tl">Lawa</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tr">Göl</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ur">جھیل</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="vi">hồ</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="zh">湖泊</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="aat" lido:type="uri">http://vocab.getty.edu/aat/300015636</lido:conceptID>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4034343-1</lido:conceptID>
+                     <lido:conceptID lido:source="iconclass" lido:type="uri">http://iconclass.org/rkd/25HH/</lido:conceptID>
+                     <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh85074392</lido:conceptID>
+                     <lido:conceptID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q107425</lido:conceptID>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Landschaft</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/858</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Landschaft</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ar">منظر طبيعي</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="bn">ভূদৃশ্য</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="cs">krajina</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="da">landskab</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="de">Landschaft</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="el">τοπίο</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="en">Landscape</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="es">paisaje</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fa">چشم‌ انداز</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fi">maisema</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fr">paysage</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="he">נוף</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hi">भूदृश्य</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="id">Lanskap</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="it">paesaggio</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ja">ランドスケープ</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ka">ლანდშაფტი</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ko">경관</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="nl">landschap</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pl">krajobraz</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pt">paisagem</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ru">ландшафт</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sv">landskap</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ta">நிலத்தோற்றம்</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="th">ภูมิทัศน์</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tr">Peyzaj</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="vi">phong cảnh</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="zh">景观</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="aat" lido:type="uri">http://vocab.getty.edu/aat/300028886</lido:conceptID>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4181892-1</lido:conceptID>
+                     <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh85125691</lido:conceptID>
+                     <lido:conceptID lido:source="oberbegriffsdatei" lido:type="uri">https://term.museum-digital.de/oberbegriffsdatei/tag/4993</lido:conceptID>
+                     <lido:conceptID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q212469</lido:conceptID>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Souvenir</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/3510</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Souvenir</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ar">تذكار</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="cs">Suvenýr</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="da">Souvenir</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="de">Souvenir</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="en">Souvenir</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="es">Souvenir</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fa">ره‌آورد</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fi">Matkamuisto</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fr">Souvenir</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="he">מזכרת</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hu">emléktárgy</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="id">Cendera mata</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="it">Souvenir</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ko">기념품</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="nl">Souvenir</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pt">Suvenir</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ro">Suvenir</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ru">сувенир</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sv">Souvenir</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="vi">Quà lưu niệm</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="zh">紀念品</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="aat" lido:type="uri">https://vocab.getty.edu/page/aat/300343633</lido:conceptID>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">http://d-nb.info/gnd/4521782-8</lido:conceptID>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Abend</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/33590</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Abend</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+         </lido:subjectWrap>
+         <lido:relatedWorksWrap/>
+      </lido:objectRelationWrap>
+   </lido:descriptiveMetadata>
+   <lido:administrativeMetadata xml:lang="de">
+      <lido:rightsWorkWrap>
+         <lido:rightsWorkSet>
+            <lido:rightsHolder>
+               <lido:legalBodyName>
+                  <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:rightsHolder>
+         </lido:rightsWorkSet>
+      </lido:rightsWorkWrap>
+      <lido:recordWrap>
+         <lido:recordID lido:type="museum-digital">67242</lido:recordID>
+         <lido:recordType>
+            <lido:term lido:addedSearchTerm="no">item</lido:term>
+         </lido:recordType>
+         <lido:recordSource lido:type="dataProvider">
+            <lido:legalBodyName>
+               <lido:appellationValue>museum-digital</lido:appellationValue>
+            </lido:legalBodyName>
+            <lido:legalBodyWeblink>https://berlin.museum-digital.de/</lido:legalBodyWeblink>
+         </lido:recordSource>
+         <lido:recordSource>
+            <lido:legalBodyID lido:type="isil">DE-B185</lido:legalBodyID>
+            <lido:legalBodyName>
+               <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+            </lido:legalBodyName>
+         </lido:recordSource>
+         <lido:recordRights>
+            <lido:rightsType>
+               <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no">CC BY</lido:term>
+            </lido:rightsType>
+            <lido:rightsHolder>
+               <lido:legalBodyID lido:type="isil">DE-B185</lido:legalBodyID>
+               <lido:legalBodyName>
+                  <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+               </lido:legalBodyName>
+               <lido:legalBodyWeblink>http://geschichte-brandenburg.de/</lido:legalBodyWeblink>
+            </lido:rightsHolder>
+            <lido:creditLine>Förderprogramm zur Digitalisierung von Objekten des kulturellen Erbes des Landes Berlin</lido:creditLine>
+         </lido:recordRights>
+         <lido:recordInfoSet>
+            <lido:recordInfoLink>https://berlin.museum-digital.de/index.php?t=objekt&amp;oges=67242</lido:recordInfoLink>
+            <lido:recordMetadataDate>2021-04-27 07:59:53</lido:recordMetadataDate>
+         </lido:recordInfoSet>
+      </lido:recordWrap>
+      <lido:resourceWrap>
+         <lido:resourceSet lido:sortorder="1">
+            <lido:resourceID lido:source="image" lido:type="local">48823</lido:resourceID>
+            <lido:resourceRepresentation lido:type="masterfile">
+               <lido:linkResource lido:formatResource="image/tiff"/>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_thumb">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/202007/100h_lehnitzsee-gewaesser-kr-niederbarnim-67242.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_preview">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/202007/200w_lehnitzsee-gewaesser-kr-niederbarnim-67242.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/202007/lehnitzsee-gewaesser-kr-niederbarnim-67242.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceType>
+               <lido:term lido:addedSearchTerm="no">image</lido:term>
+            </lido:resourceType>
+            <lido:resourceRelType>
+               <lido:term lido:addedSearchTerm="no">Hauptansicht</lido:term>
+            </lido:resourceRelType>
+            <lido:resourceDescription>Lehnitzsee (Gewässer) (Kr. Niederbarnim)</lido:resourceDescription>
+            <lido:resourceSource lido:type="creator">
+               <lido:legalBodyName>
+                  <lido:appellationValue>Thomas Voßbeck, 2020</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:resourceSource>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+                  <lido:term lido:addedSearchTerm="no">CC BY</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V.</lido:appellationValue>
+                  </lido:legalBodyName>
+               </lido:rightsHolder>
+               <lido:creditLine>Thomas Voßbeck, 2020</lido:creditLine>
+            </lido:rightsResource>
+         </lido:resourceSet>
+      </lido:resourceWrap>
+   </lido:administrativeMetadata>
+</lido:lido>
+

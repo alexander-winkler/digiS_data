@@ -1,0 +1,359 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lido:lido xmlns:lido="http://www.lido-schema.org"
+           xmlns:xalan="http://xml.apache.org/xalan">
+   <lido:lidoRecID lido:source="https://berlin.museum-digital.de/index.php?t=institution&amp;instnr=26"
+                   lido:type="local">ddb_oid1612959125221_89678</lido:lidoRecID>
+   <lido:descriptiveMetadata xml:lang="de">
+      <lido:objectClassificationWrap>
+         <lido:objectWorkTypeWrap>
+            <lido:objectWorkType>
+               <lido:term lido:addedSearchTerm="no">Positiv-Abzug</lido:term>
+            </lido:objectWorkType>
+         </lido:objectWorkTypeWrap>
+         <lido:classificationWrap>
+            <lido:classification lido:type="Sammlung">
+               <lido:conceptID lido:source="local" lido:type="collection_id">547</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no">Künstlerinnen und Künstler</lido:term>
+            </lido:classification>
+         </lido:classificationWrap>
+      </lido:objectClassificationWrap>
+      <lido:objectIdentificationWrap>
+         <lido:titleWrap>
+            <lido:titleSet>
+               <lido:appellationValue lido:pref="preferred">Künstlerinnenporträt Ilske Naumann (1915-1969) (1)</lido:appellationValue>
+            </lido:titleSet>
+         </lido:titleWrap>
+         <lido:repositoryWrap>
+            <lido:repositorySet lido:type="current">
+               <lido:repositoryName>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Gerda Schimpf Fotoarchiv</lido:appellationValue>
+                  </lido:legalBodyName>
+                  <lido:legalBodyWeblink>https://gerda-schimpf-fotoarchiv.com</lido:legalBodyWeblink>
+               </lido:repositoryName>
+               <lido:workID lido:type="inventory number">0002</lido:workID>
+               <lido:repositoryLocation>
+                  <lido:namePlaceSet>
+                     <lido:appellationValue>Berlin</lido:appellationValue>
+                  </lido:namePlaceSet>
+                  <lido:gml/>
+               </lido:repositoryLocation>
+            </lido:repositorySet>
+         </lido:repositoryWrap>
+         <lido:objectDescriptionWrap>
+            <lido:objectDescriptionSet>
+               <lido:descriptiveNoteValue>Schwarzweißfotografie, Innenaufnahme, Zimmer, Mitte 1930er Jahre&lt;br&gt;
+&lt;br&gt;
+Ganzfigur, liegend, Profil links - eine junge, schlanke Frau seitlich von links nach rechts, halb sitzend auf einer mit einem hellen Stoff bedeckten Liege. Sie stützt sich links mit dem ausgestreckten Arm auf und dreht den Kopf nach rechts, Richtung der hinter ihr befindlichen Wand. Sie schaut auf ein kurz über ihr hängendes Bild. Ihr Blick ist aufmerksam, konzentriert. Die Knie sind angewinkelt, der linke Unterschenkel und Fuß sind verdeckt, der rechte Unterschenkel ist nach hinten weggestreckt, der Fuß liegt gegen die Wand gestreckt. &lt;br&gt;
+&lt;br&gt;
+Ilske trägt ein helles sommerliches Kleid mit kurzen Ärmeln mit gezackten, dunklen Längsstreifen. Der Rockteil ist weit ausgestellt und reicht bis zu den Knien, die beide herausschauen. In der Taille gibt es einen schmalen Gürtel aus demselben Stoff. Die Ärmel sind mit kleinen Bündchen und Bändern versehen, zu Schleifen gebunden. Der kragenlose, bis zur Büste reichende Ausschnitt ist mit einem Bändchen versehen und zugebunden. Sie trägt ein kleines Medaillon im Ausschnitt, keine Strümpfe und offene Schuhe mit Riemchen. &lt;br&gt;
+&lt;br&gt;
+Ilske trägt die halblangen rötlichblonden Haare offen, mit einer kleinen Außenwelle. Der Pony bedeckt die Stirn zur Hälfte. &lt;br&gt;
+&lt;br&gt;
+Das Bild an der Wand ist mit einem verzierten Holzrahmen versehen. Es zeigt junge nackte Frauen am Meeresstrand mit einem Boot in der Ferne und zwei großen Möwen am Himmel, bei bewegter See. Es ist ohne Signatur, doch stammt es vermutlich von Max Schwimmer.&lt;br&gt;
+&lt;br&gt;
+Links, hinter Ilske liegt ein dunkles Kissen mit hellem Muster.&lt;br&gt;
+&lt;br&gt;
+Bes. Merkmal: Ilske Schwimmer, geb. Ilse Naumann, war die zweite Frau von Max Schwimmer, verheiratet mit ihm seit 1943. &lt;br&gt;
+&lt;br&gt;
+Ch. K.</lido:descriptiveNoteValue>
+               <lido:sourceDescriptiveNote>Gerda Schimpf Fotoarchiv</lido:sourceDescriptiveNote>
+            </lido:objectDescriptionSet>
+         </lido:objectDescriptionWrap>
+         <lido:objectMeasurementsWrap>
+            <lido:objectMeasurementsSet>
+               <lido:displayObjectMeasurements>Höhe: 30 cm, Breite: 30 cm</lido:displayObjectMeasurements>
+               <lido:objectMeasurements>
+                  <lido:measurementsSet>
+                     <lido:measurementType>width</lido:measurementType>
+                     <lido:measurementUnit>cm</lido:measurementUnit>
+                     <lido:measurementValue>30</lido:measurementValue>
+                  </lido:measurementsSet>
+                  <lido:measurementsSet>
+                     <lido:measurementType>height</lido:measurementType>
+                     <lido:measurementUnit>cm</lido:measurementUnit>
+                     <lido:measurementValue>30</lido:measurementValue>
+                  </lido:measurementsSet>
+               </lido:objectMeasurements>
+            </lido:objectMeasurementsSet>
+         </lido:objectMeasurementsWrap>
+      </lido:objectIdentificationWrap>
+      <lido:eventWrap>
+         <lido:eventSet>
+            <lido:event>
+               <lido:eventType>
+                  <lido:conceptID lido:type="uri">http://terminology.lido-schema.org/lido00003</lido:conceptID>
+                  <lido:term>Event (non-specified)</lido:term>
+               </lido:eventType>
+               <lido:eventMaterialsTech>
+                  <lido:displayMaterialsTech>Silbergelatine</lido:displayMaterialsTech>
+               </lido:eventMaterialsTech>
+            </lido:event>
+         </lido:eventSet>
+      </lido:eventWrap>
+      <lido:objectRelationWrap>
+         <lido:subjectWrap>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectActor>
+                     <lido:displayActor>Ilse Naumann (1915-1969)</lido:displayActor>
+                     <lido:actor>
+                        <lido:actorID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/persinst/126513</lido:actorID>
+                        <lido:nameActorSet>
+                           <lido:appellationValue>Naumann, Ilse</lido:appellationValue>
+                        </lido:nameActorSet>
+                        <lido:vitalDatesActor>
+                           <lido:earliestDate>1915</lido:earliestDate>
+                           <lido:latestDate>1969</lido:latestDate>
+                        </lido:vitalDatesActor>
+                     </lido:actor>
+                  </lido:subjectActor>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="aat" lido:type="uri">http://vocab.getty.edu/aat/300015637</lido:conceptID>
+                     <lido:conceptID lido:source="iconclass" lido:type="uri">http://iconclass.org/rkd/61B11/</lido:conceptID>
+                     <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh99001681</lido:conceptID>
+                     <lido:conceptID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q134307</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/22</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Porträt</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ar">بورتريه</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="cs">Portrét</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="da">Portræt</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="el">προσωπογραφία</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="en">Portrait</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="es">Retrato</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fa">چهره‌نگاری</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fi">Muotokuva</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fr">Portrait</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="he">דיוקן</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hi">चित्र</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hu">arckép</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="id">Potret</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="it">Ritratto</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ja">肖像</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ka">პორტრეტი</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ko">초상</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="nl">Portret</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pl">Portret</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pt">Retrato</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ro">portret</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ru">портрет</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sv">Porträtt</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="th">ภาพเหมือน</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tr">Portre</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="zh">肖像</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="aat" lido:type="uri">http://vocab.getty.edu/aat/300025943</lido:conceptID>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4018202-2</lido:conceptID>
+                     <lido:conceptID lido:source="iconclass" lido:type="uri">http://iconclass.org/rkd/31A72/</lido:conceptID>
+                     <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh85147274</lido:conceptID>
+                     <lido:conceptID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q467</lido:conceptID>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Frau</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/68</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Frau</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ar">امرأة</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="bn">নারী</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="cs">žena</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="da">Kvinde</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="el">γυναίκα</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="en">Woman</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="es">Mujer</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fa">زن</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fi">Nainen</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fr">Femme</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ha">Mace</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="he">אישה</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hi">महिला</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hu">nő</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="id">Wanita</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="it">Donna</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ja">女性</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ka">ქალი</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ko">여자 사람</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="nl">Vrouw</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pl">Kobieta</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pt">Mulher</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ro">femeie</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ru">женщина</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sv">Kvinna</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sw">Mwanamke</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ta">பெண்</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="th">ผู้หญิง</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tl">Babae</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tr">Kadın</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ur">عورت</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="vi">phụ nữ</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="zh">女人</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="aat" lido:type="uri">http://vocab.getty.edu/aat/300033618</lido:conceptID>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4122164-3</lido:conceptID>
+                     <lido:conceptID lido:source="grobsystematik" lido:type="uri">https://term.museum-digital.de/grobsystematik/tag/3816</lido:conceptID>
+                     <lido:conceptID lido:source="iconclass" lido:type="uri">http://iconclass.org/rkd/48C514/</lido:conceptID>
+                     <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh85096661</lido:conceptID>
+                     <lido:conceptID lido:source="oberbegriffsdatei" lido:type="uri">https://term.museum-digital.de/oberbegriffsdatei/tag/1414</lido:conceptID>
+                     <lido:conceptID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/w/index.php?search=&amp;search=Q3305213</lido:conceptID>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Gem%C3%A4lde</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/266</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Gemälde</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ar">لوحة فنية</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="cs">Malba</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="da">maleri</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="el">έργο ζωγραφικής</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="en">Painting</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="es">pintura</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fi">maalaus</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fr">peinture</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="he">ציור</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hu">festmény</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="id">lukisan</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="it">Dipinto</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ja">絵画作品</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ko">회화</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="nl">Schilderij</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pl">Obraz</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pt">pintura</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ru">картина</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sv">Målning</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tr">Tablo</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="vi">bức tranh</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="zh">畫作</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="aat" lido:type="uri">http://vocab.getty.edu/aat/300046159</lido:conceptID>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4114219-6</lido:conceptID>
+                     <lido:conceptID lido:source="grobsystematik" lido:type="uri">https://term.museum-digital.de/grobsystematik/tag/6211</lido:conceptID>
+                     <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh97005993</lido:conceptID>
+                     <lido:conceptID lido:source="oberbegriffsdatei" lido:type="uri">https://term.museum-digital.de/oberbegriffsdatei/tag/628</lido:conceptID>
+                     <lido:conceptID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q200539</lido:conceptID>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Kleid</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/710</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Kleid</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ar">فستان</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="cs">šaty</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="en">Dress</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="es">Vestido</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fa">پیراهن زنانه</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fi">Mekko</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fr">Robe</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="he">שמלה</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="it">Abito da donna</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ja">ドレス</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ka">კაბა</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ko">드레스</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="nl">Jurk</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pl">Suknia</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pt">Vestido</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ru">платье</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sv">Klänning</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sw">Gauni</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tr">Elbise</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="zh">连衣裙</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/15915</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Positivabzug</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+         </lido:subjectWrap>
+      </lido:objectRelationWrap>
+   </lido:descriptiveMetadata>
+   <lido:administrativeMetadata xml:lang="de">
+      <lido:rightsWorkWrap>
+         <lido:rightsWorkSet>
+            <lido:rightsHolder>
+               <lido:legalBodyName>
+                  <lido:appellationValue>Gerda Schimpf Fotoarchiv</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:rightsHolder>
+         </lido:rightsWorkSet>
+      </lido:rightsWorkWrap>
+      <lido:recordWrap>
+         <lido:recordID lido:type="museum-digital">89678</lido:recordID>
+         <lido:recordType>
+            <lido:term lido:addedSearchTerm="no">item</lido:term>
+         </lido:recordType>
+         <lido:recordSource lido:type="dataProvider">
+            <lido:legalBodyName>
+               <lido:appellationValue>museum-digital</lido:appellationValue>
+            </lido:legalBodyName>
+            <lido:legalBodyWeblink>https://berlin.museum-digital.de/</lido:legalBodyWeblink>
+         </lido:recordSource>
+         <lido:recordSource>
+            <lido:legalBodyName>
+               <lido:appellationValue>Gerda Schimpf Fotoarchiv</lido:appellationValue>
+            </lido:legalBodyName>
+         </lido:recordSource>
+         <lido:recordRights>
+            <lido:rightsType>
+               <lido:conceptID lido:type="uri">https://creativecommons.org/publicdomain/zero/1.0/</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no">CC 0</lido:term>
+            </lido:rightsType>
+            <lido:rightsHolder>
+               <lido:legalBodyName>
+                  <lido:appellationValue>Gerda Schimpf Fotoarchiv</lido:appellationValue>
+               </lido:legalBodyName>
+               <lido:legalBodyWeblink>https://gerda-schimpf-fotoarchiv.com</lido:legalBodyWeblink>
+            </lido:rightsHolder>
+            <lido:creditLine>Förderprogramm zur Digitalisierung von Objekten des kulturellen Erbes des Landes Berlin</lido:creditLine>
+         </lido:recordRights>
+         <lido:recordInfoSet>
+            <lido:recordInfoLink>https://berlin.museum-digital.de/index.php?t=objekt&amp;oges=89678</lido:recordInfoLink>
+            <lido:recordMetadataDate>2021-05-10 13:20:53</lido:recordMetadataDate>
+         </lido:recordInfoSet>
+      </lido:recordWrap>
+      <lido:resourceWrap>
+         <lido:resourceSet lido:sortorder="1">
+            <lido:resourceID lido:source="image" lido:type="local">65017</lido:resourceID>
+            <lido:resourceRepresentation lido:type="image_thumb">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/26/89678-0002/kuenstlerinnenportrait_il/100h_kuenstlerinnenportrait-ilske-1915-1969-1-89678.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_preview">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/26/89678-0002/kuenstlerinnenportrait_il/200w_kuenstlerinnenportrait-ilske-1915-1969-1-89678.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="Provided image">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/26/89678-0002/kuenstlerinnenportrait_il/kuenstlerinnenportrait-ilske-1915-1969-1-89678.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceType>
+               <lido:term lido:addedSearchTerm="no">image</lido:term>
+            </lido:resourceType>
+            <lido:resourceRelType>
+               <lido:term lido:addedSearchTerm="no">Hauptansicht</lido:term>
+            </lido:resourceRelType>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+                  <lido:term lido:addedSearchTerm="no">CC BY</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Gerda Schimpf Fotoarchiv</lido:appellationValue>
+                  </lido:legalBodyName>
+               </lido:rightsHolder>
+            </lido:rightsResource>
+         </lido:resourceSet>
+      </lido:resourceWrap>
+   </lido:administrativeMetadata>
+</lido:lido>
+

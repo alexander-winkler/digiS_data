@@ -1,0 +1,521 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lido:lido xmlns:lido="http://www.lido-schema.org"
+           xmlns:xalan="http://xml.apache.org/xalan">
+   <lido:lidoRecID lido:source="https://berlin.museum-digital.de/index.php?t=institution&amp;instnr=26"
+                   lido:type="local">ddb_oid1612959125221_66230</lido:lidoRecID>
+   <lido:descriptiveMetadata xml:lang="de">
+      <lido:objectClassificationWrap>
+         <lido:objectWorkTypeWrap>
+            <lido:objectWorkType>
+               <lido:term lido:addedSearchTerm="no">Planfilm-Negativ</lido:term>
+            </lido:objectWorkType>
+         </lido:objectWorkTypeWrap>
+         <lido:classificationWrap>
+            <lido:classification lido:type="Sammlung">
+               <lido:conceptID lido:source="local" lido:type="collection_id">599</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no">Musikerinnen und Musiker</lido:term>
+            </lido:classification>
+         </lido:classificationWrap>
+      </lido:objectClassificationWrap>
+      <lido:objectIdentificationWrap>
+         <lido:titleWrap>
+            <lido:titleSet>
+               <lido:appellationValue lido:pref="preferred">Musikerporträt Kapelle Guhl (2)</lido:appellationValue>
+            </lido:titleSet>
+         </lido:titleWrap>
+         <lido:inscriptionsWrap>
+            <lido:inscriptions>
+               <lido:inscriptionDescription>
+                  <lido:descriptiveNoteValue>Guhl 3072</lido:descriptiveNoteValue>
+               </lido:inscriptionDescription>
+            </lido:inscriptions>
+         </lido:inscriptionsWrap>
+         <lido:repositoryWrap>
+            <lido:repositorySet lido:type="current">
+               <lido:repositoryName>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Gerda Schimpf Fotoarchiv</lido:appellationValue>
+                  </lido:legalBodyName>
+                  <lido:legalBodyWeblink>https://gerda-schimpf-fotoarchiv.com</lido:legalBodyWeblink>
+               </lido:repositoryName>
+               <lido:workID lido:type="inventory number">3072</lido:workID>
+               <lido:repositoryLocation>
+                  <lido:namePlaceSet>
+                     <lido:appellationValue>Berlin</lido:appellationValue>
+                  </lido:namePlaceSet>
+                  <lido:gml/>
+               </lido:repositoryLocation>
+            </lido:repositorySet>
+         </lido:repositoryWrap>
+         <lido:objectDescriptionWrap>
+            <lido:objectDescriptionSet>
+               <lido:descriptiveNoteValue>Schwarzweißfotografie, Innenaufnahme, Musikgaststätte, 1947&lt;br&gt;
+&lt;br&gt;
+Gruppenporträt, Ganzfigur, Frontalansicht, Dreiviertelportrait&lt;br&gt;
+Vier junge Männer posieren auf einer kleinen, niedrigen Bühne, mit ihren Instrumenten. Von rechts nach links: Ein Mann sitzt am Klavier, seine Hände sind durch das Klavier verdeckt. Daneben, erhöht auf einer Art Wandtisch sitzt ein Mann mit Gitarre, die er rechts im Arm hält und mit der rechten Hand bespielt, die linke Hand greift von unten her die Seiten des Stegs. Der Musiker hat die Füße auf einen schwarzen Drehhocker gestellt. Links vor ihm steht ein Mann mit einer Geige, die er links unters Kinn geklemmt hält und rechts mit dem Geigenbogen streicht. Seine Beine sind verdeckt durch einen Aufsteller, auf dem steht: Werner Guhl. Links hinter ihm steht ein Mann mit einem Kontrabass, welches er seitlich in seiner linken Hand hält, und mit der rechten Hand zupft er die Seite des Instruments. Alle vier schauen zur Kamera.&lt;br&gt;
+&lt;br&gt;
+Die Musiker tragen alle weiße Sakkos. Dazu schwarze Hosen, außer der Geiger, der eine graue Hose trägt, schwarze Hemden und eine kleine weiße Fliege. Alle haben die Haare kurz geschnitten und nach hinten gekämmt.&lt;br&gt;
+&lt;br&gt;
+Rechts vor dem Klavier steht ein zweiter Aufsteller: Werner Guhl. Im Hintergrund sieht man eine Wand, die ein Wandgrafik schmückt, die romantisierende Siluette von drei weißen Fenstern, rechts zwei aufsteigende Luftballons. Hinter dem Klavierspieler sieht man seitlich einen geblümten Vorhang.&lt;br&gt;
+&lt;br&gt;
+Bes. Merkmal: im Auftragsbuch ist Musikgaststätte eingetragen.&lt;br&gt;
+Bisher gibt es keine weiteren Informationen, weder zur Kapelle Werner Guhl noch zur Musikgaststätte.&lt;br&gt;
+&lt;br&gt;
+Ch. K.</lido:descriptiveNoteValue>
+               <lido:sourceDescriptiveNote>Gerda Schimpf Fotoarchiv</lido:sourceDescriptiveNote>
+            </lido:objectDescriptionSet>
+         </lido:objectDescriptionWrap>
+         <lido:objectMeasurementsWrap>
+            <lido:objectMeasurementsSet>
+               <lido:displayObjectMeasurements>Höhe: 6 cm, Breite: 9 cm</lido:displayObjectMeasurements>
+               <lido:objectMeasurements>
+                  <lido:measurementsSet>
+                     <lido:measurementType>width</lido:measurementType>
+                     <lido:measurementUnit>cm</lido:measurementUnit>
+                     <lido:measurementValue>9</lido:measurementValue>
+                  </lido:measurementsSet>
+                  <lido:measurementsSet>
+                     <lido:measurementType>height</lido:measurementType>
+                     <lido:measurementUnit>cm</lido:measurementUnit>
+                     <lido:measurementValue>6</lido:measurementValue>
+                  </lido:measurementsSet>
+               </lido:objectMeasurements>
+            </lido:objectMeasurementsSet>
+         </lido:objectMeasurementsWrap>
+      </lido:objectIdentificationWrap>
+      <lido:eventWrap>
+         <lido:eventSet>
+            <lido:displayEvent>Aufgenommen</lido:displayEvent>
+            <lido:event>
+               <lido:eventID lido:type="local">164896</lido:eventID>
+               <lido:eventType>
+                  <lido:conceptID lido:type="uri">https://event-types.museum-digital.org/10</lido:conceptID>
+                  <lido:term lido:addedSearchTerm="no">Aufgenommen</lido:term>
+               </lido:eventType>
+               <lido:eventActor>
+                  <lido:displayActorInRole>Gerda Schimpf (1913-2014)</lido:displayActorInRole>
+                  <lido:actorInRole>
+                     <lido:actor>
+                        <lido:actorID lido:source="gnd" lido:type="uri">http://d-nb.info/gnd/1131575903</lido:actorID>
+                        <lido:actorID lido:source="viaf" lido:type="uri">https://viaf.org/viaf/2653149489090493810007</lido:actorID>
+                        <lido:actorID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/persinst/42576</lido:actorID>
+                        <lido:nameActorSet>
+                           <lido:appellationValue>Schimpf, Gerda</lido:appellationValue>
+                        </lido:nameActorSet>
+                        <lido:vitalDatesActor>
+                           <lido:earliestDate>1913</lido:earliestDate>
+                           <lido:latestDate>2014</lido:latestDate>
+                        </lido:vitalDatesActor>
+                     </lido:actor>
+                  </lido:actorInRole>
+               </lido:eventActor>
+               <lido:eventDate>
+                  <lido:displayDate>1947</lido:displayDate>
+                  <lido:displayDate xml:lang="ar">1947</lido:displayDate>
+                  <lido:displayDate xml:lang="en">1947</lido:displayDate>
+                  <lido:displayDate xml:lang="es">1947</lido:displayDate>
+                  <lido:displayDate xml:lang="fa">1947</lido:displayDate>
+                  <lido:displayDate xml:lang="fr">1947</lido:displayDate>
+                  <lido:displayDate xml:lang="hu">1947</lido:displayDate>
+                  <lido:displayDate xml:lang="id">1947</lido:displayDate>
+                  <lido:displayDate xml:lang="it">1947</lido:displayDate>
+                  <lido:displayDate xml:lang="ja">1947年</lido:displayDate>
+                  <lido:displayDate xml:lang="ka">1947</lido:displayDate>
+                  <lido:displayDate xml:lang="ko">1947년</lido:displayDate>
+                  <lido:displayDate xml:lang="pl">1947</lido:displayDate>
+                  <lido:displayDate xml:lang="pt">1947</lido:displayDate>
+                  <lido:displayDate xml:lang="ro">1947</lido:displayDate>
+                  <lido:displayDate xml:lang="ru">1947</lido:displayDate>
+                  <lido:displayDate xml:lang="ta">1947</lido:displayDate>
+                  <lido:displayDate xml:lang="tl">1947</lido:displayDate>
+                  <lido:displayDate xml:lang="tr">1947</lido:displayDate>
+                  <lido:displayDate xml:lang="zh">1947年</lido:displayDate>
+                  <lido:date>
+                     <lido:earliestDate>1947</lido:earliestDate>
+                     <lido:latestDate>1947</lido:latestDate>
+                  </lido:date>
+               </lido:eventDate>
+               <lido:eventPlace>
+                  <lido:displayPlace>Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ar">برلين</lido:displayPlace>
+                  <lido:displayPlace xml:lang="bn">বার্লিন</lido:displayPlace>
+                  <lido:displayPlace xml:lang="cs">Berlín</lido:displayPlace>
+                  <lido:displayPlace xml:lang="da">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="el">Βερολίνο</lido:displayPlace>
+                  <lido:displayPlace xml:lang="en">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="es">Berlín</lido:displayPlace>
+                  <lido:displayPlace xml:lang="fa">برلین</lido:displayPlace>
+                  <lido:displayPlace xml:lang="fi">Berliini</lido:displayPlace>
+                  <lido:displayPlace xml:lang="fr">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ha">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="he">ברלין</lido:displayPlace>
+                  <lido:displayPlace xml:lang="hi">बर्लिन</lido:displayPlace>
+                  <lido:displayPlace xml:lang="hu">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="id">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="it">Berlino</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ja">ベルリン</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ka">ბერლინი</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ko">베를린</lido:displayPlace>
+                  <lido:displayPlace xml:lang="nl">Berlijn</lido:displayPlace>
+                  <lido:displayPlace xml:lang="pl">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="pt">Berlim</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ro">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ru">Берлин</lido:displayPlace>
+                  <lido:displayPlace xml:lang="sv">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="sw">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ta">பெர்லின்</lido:displayPlace>
+                  <lido:displayPlace xml:lang="th">เบอร์ลิน</lido:displayPlace>
+                  <lido:displayPlace xml:lang="tl">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="tr">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ur">برلن</lido:displayPlace>
+                  <lido:displayPlace xml:lang="vi">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="zh">柏林</lido:displayPlace>
+                  <lido:place>
+                     <lido:placeID lido:source="geonames" lido:type="uri">https://sws.geonames.org/2950159</lido:placeID>
+                     <lido:placeID lido:source="TGN" lido:type="uri">http://vocab.getty.edu/tgn/7209904</lido:placeID>
+                     <lido:placeID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4005728-8</lido:placeID>
+                     <lido:placeID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q64</lido:placeID>
+                     <lido:placeID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/place/61</lido:placeID>
+                     <lido:namePlaceSet>
+                        <lido:appellationValue>Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ar">برلين</lido:appellationValue>
+                        <lido:appellationValue xml:lang="bn">বার্লিন</lido:appellationValue>
+                        <lido:appellationValue xml:lang="cs">Berlín</lido:appellationValue>
+                        <lido:appellationValue xml:lang="da">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="el">Βερολίνο</lido:appellationValue>
+                        <lido:appellationValue xml:lang="en">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="es">Berlín</lido:appellationValue>
+                        <lido:appellationValue xml:lang="fa">برلین</lido:appellationValue>
+                        <lido:appellationValue xml:lang="fi">Berliini</lido:appellationValue>
+                        <lido:appellationValue xml:lang="fr">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ha">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="he">ברלין</lido:appellationValue>
+                        <lido:appellationValue xml:lang="hi">बर्लिन</lido:appellationValue>
+                        <lido:appellationValue xml:lang="hu">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="id">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="it">Berlino</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ja">ベルリン</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ka">ბერლინი</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ko">베를린</lido:appellationValue>
+                        <lido:appellationValue xml:lang="nl">Berlijn</lido:appellationValue>
+                        <lido:appellationValue xml:lang="pl">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="pt">Berlim</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ro">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ru">Берлин</lido:appellationValue>
+                        <lido:appellationValue xml:lang="sv">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="sw">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ta">பெர்லின்</lido:appellationValue>
+                        <lido:appellationValue xml:lang="th">เบอร์ลิน</lido:appellationValue>
+                        <lido:appellationValue xml:lang="tl">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="tr">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ur">برلن</lido:appellationValue>
+                        <lido:appellationValue xml:lang="vi">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="zh">柏林</lido:appellationValue>
+                     </lido:namePlaceSet>
+                     <lido:gml/>
+                  </lido:place>
+               </lido:eventPlace>
+            </lido:event>
+         </lido:eventSet>
+         <lido:eventSet>
+            <lido:event>
+               <lido:eventType>
+                  <lido:conceptID lido:type="uri">http://terminology.lido-schema.org/lido00003</lido:conceptID>
+                  <lido:term>Event (non-specified)</lido:term>
+               </lido:eventType>
+               <lido:eventMaterialsTech>
+                  <lido:displayMaterialsTech>Negativfilm Zelluloseacetat</lido:displayMaterialsTech>
+               </lido:eventMaterialsTech>
+            </lido:event>
+         </lido:eventSet>
+      </lido:eventWrap>
+      <lido:objectRelationWrap>
+         <lido:subjectWrap>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="aat" lido:type="uri">http://vocab.getty.edu/aat/300041713</lido:conceptID>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4030982-4</lido:conceptID>
+                     <lido:conceptID lido:source="grobsystematik" lido:type="uri">https://term.museum-digital.de/grobsystematik/tag/6202</lido:conceptID>
+                     <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh85101722</lido:conceptID>
+                     <lido:conceptID lido:source="oberbegriffsdatei" lido:type="uri">https://term.museum-digital.de/oberbegriffsdatei/tag/6414</lido:conceptID>
+                     <lido:conceptID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q5994</lido:conceptID>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Klavier</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/2103</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Klavier</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ar">بيانو</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="bn">পিয়ানো</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="cs">Klavír</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="da">Klaver</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="el">πιάνο</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="en">Piano</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="es">Piano</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fa">پیانو</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fi">Piano</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fr">Piano</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="he">פסנתר</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hi">पियानो</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hu">zongora</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="id">Piano</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="it">Pianoforte</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ja">ピアノ</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ka">ფორტეპიანო</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ko">피아노</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="nl">Piano</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pl">Fortepian</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pt">Piano</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ro">pian</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ru">фортепиано</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sv">Piano</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sw">Piano</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ta">கின்னரப்பெட்டி</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="th">เปียโน</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tl">Piyano</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tr">Piyano</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ur">پیانو</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="vi">Dương cầm</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="zh">钢琴</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="aat" lido:type="uri">http://vocab.getty.edu/aat/300025666</lido:conceptID>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4040841-3</lido:conceptID>
+                     <lido:conceptID lido:source="iconclass" lido:type="uri">http://iconclass.org/rkd/48C72/</lido:conceptID>
+                     <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh85089027</lido:conceptID>
+                     <lido:conceptID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q639669</lido:conceptID>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Musiker</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/3091</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Musiker</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ar">موسيقي</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="cs">Hudebník</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="da">Musiker</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="el">μουσικός</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="en">Musician</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="es">Músico</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fa">موسیقی‌دان</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fi">Muusikko</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fr">Musicien</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ha">mawaƙi</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="he">מוזיקאי</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hi">संगीतकार</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hu">zenész</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="id">Musikus</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="it">Musicista</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ja">音楽家</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ka">მუსიკოსი</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ko">음악가</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="nl">Muzikant</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pl">Muzyk</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pt">Músico</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ro">muzician</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ru">музыкант</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sv">Musiker</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sw">Mwanamuziki</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="th">นักดนตรี</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tr">Müzisyen</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ur">موسیقار</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="vi">nhạc sĩ</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="zh">音樂家</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="aat" lido:type="uri">http://vocab.getty.edu/aat/300042025</lido:conceptID>
+                     <lido:conceptID lido:source="allgemein" lido:type="uri">https://term.museum-digital.de/hornbostel/tag/224</lido:conceptID>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4124933-1</lido:conceptID>
+                     <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh85057803</lido:conceptID>
+                     <lido:conceptID lido:source="oberbegriffsdatei" lido:type="uri">https://term.museum-digital.de/oberbegriffsdatei/tag/5870</lido:conceptID>
+                     <lido:conceptID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q6607</lido:conceptID>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Gitarre</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/3597</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Gitarre</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ar">قيثارة</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="bn">গিটার</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="cs">Kytara</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="da">Guitar</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="el">κιθάρα</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="en">Guitar</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="es">Guitarra</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fa">گیتار</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fi">Kitara</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fr">Guitare</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="he">גיטרה</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hi">गिटार</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hu">gitár</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="id">Gitar</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="it">Chitarra</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ja">ギター</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ka">გიტარა</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ko">기타</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="nl">Gitaar</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pl">Gitara</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pt">Viola</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ru">гитара</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sv">Gitarr</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sw">gitaa</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ta">கித்தார்</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="th">กีตาร์</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tl">Gitara</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tr">Gitar</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ur">گٹار</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="vi">ghi-ta</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="zh">吉他</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="aat" lido:type="uri">http://vocab.getty.edu/aat/300042215</lido:conceptID>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">http://d-nb.info/gnd/4019791-8</lido:conceptID>
+                     <lido:conceptID lido:source="grobsystematik" lido:type="uri">https://term.museum-digital.de/grobsystematik/tag/3783</lido:conceptID>
+                     <lido:conceptID lido:source="iconclass" lido:type="uri">http://iconclass.org/rkd/48CC7311/</lido:conceptID>
+                     <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh85143544</lido:conceptID>
+                     <lido:conceptID lido:source="oberbegriffsdatei" lido:type="uri">https://term.museum-digital.de/oberbegriffsdatei/tag/2777</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/19709</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Geige</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="aat" lido:type="uri">http://vocab.getty.edu/aat/300042216</lido:conceptID>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4032300-6</lido:conceptID>
+                     <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh85039150</lido:conceptID>
+                     <lido:conceptID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q80019</lido:conceptID>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Kontrabass</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/39561</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Kontrabass</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ar">كمان أجهر</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="cs">Kontrabas</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="da">Kontrabas</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="el">Κοντραμπάσο</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="en">Double bass</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="es">Contrabajo</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fa">کنترباس</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fi">Kontrabasso</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fr">Contrebasse</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="he">קונטרבס</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hu">nagybőgő</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="id">Kontrabas</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="it">Contrabbasso</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ja">コントラバス</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ka">კონტრაბასი</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ko">콘트라베이스</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="nl">Contrabas</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pl">Kontrabas</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pt">Contrabaixo</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ro">contrabas</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ru">контрабас</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sv">Kontrabas</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="th">ดับเบิลเบส</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tl">Doble baho</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tr">Kontrbas</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="vi">Contrabass</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="zh">低音提琴</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/74064</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Instrument</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/75451</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Kapelle Guhl</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+         </lido:subjectWrap>
+      </lido:objectRelationWrap>
+   </lido:descriptiveMetadata>
+   <lido:administrativeMetadata xml:lang="de">
+      <lido:rightsWorkWrap>
+         <lido:rightsWorkSet>
+            <lido:rightsHolder>
+               <lido:legalBodyName>
+                  <lido:appellationValue>Gerda Schimpf Fotoarchiv</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:rightsHolder>
+         </lido:rightsWorkSet>
+      </lido:rightsWorkWrap>
+      <lido:recordWrap>
+         <lido:recordID lido:type="museum-digital">66230</lido:recordID>
+         <lido:recordType>
+            <lido:term lido:addedSearchTerm="no">item</lido:term>
+         </lido:recordType>
+         <lido:recordSource lido:type="dataProvider">
+            <lido:legalBodyName>
+               <lido:appellationValue>museum-digital</lido:appellationValue>
+            </lido:legalBodyName>
+            <lido:legalBodyWeblink>https://berlin.museum-digital.de/</lido:legalBodyWeblink>
+         </lido:recordSource>
+         <lido:recordSource>
+            <lido:legalBodyName>
+               <lido:appellationValue>Gerda Schimpf Fotoarchiv</lido:appellationValue>
+            </lido:legalBodyName>
+         </lido:recordSource>
+         <lido:recordRights>
+            <lido:rightsType>
+               <lido:conceptID lido:type="uri">https://creativecommons.org/publicdomain/zero/1.0/</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no">CC 0</lido:term>
+            </lido:rightsType>
+            <lido:rightsHolder>
+               <lido:legalBodyName>
+                  <lido:appellationValue>Gerda Schimpf Fotoarchiv</lido:appellationValue>
+               </lido:legalBodyName>
+               <lido:legalBodyWeblink>https://gerda-schimpf-fotoarchiv.com</lido:legalBodyWeblink>
+            </lido:rightsHolder>
+            <lido:creditLine>Förderprogramm zur Digitalisierung von Objekten des kulturellen Erbes des Landes Berlin</lido:creditLine>
+         </lido:recordRights>
+         <lido:recordInfoSet>
+            <lido:recordInfoLink>https://berlin.museum-digital.de/index.php?t=objekt&amp;oges=66230</lido:recordInfoLink>
+            <lido:recordMetadataDate>2021-05-10 13:20:48</lido:recordMetadataDate>
+         </lido:recordInfoSet>
+      </lido:recordWrap>
+      <lido:resourceWrap>
+         <lido:resourceSet lido:sortorder="1">
+            <lido:resourceID lido:source="image" lido:type="local">51332</lido:resourceID>
+            <lido:resourceRepresentation lido:type="image_thumb">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/26/66230-3072/fotografie_kapelle_guhl/100h_fotografie-kapelle-guhl-66230.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_preview">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/26/66230-3072/fotografie_kapelle_guhl/200w_fotografie-kapelle-guhl-66230.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="Provided image">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/26/66230-3072/fotografie_kapelle_guhl/fotografie-kapelle-guhl-66230.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceType>
+               <lido:term lido:addedSearchTerm="no">image</lido:term>
+            </lido:resourceType>
+            <lido:resourceRelType>
+               <lido:term lido:addedSearchTerm="no">Hauptansicht</lido:term>
+            </lido:resourceRelType>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+                  <lido:term lido:addedSearchTerm="no">CC BY</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Gerda Schimpf Fotoarchiv</lido:appellationValue>
+                  </lido:legalBodyName>
+               </lido:rightsHolder>
+            </lido:rightsResource>
+         </lido:resourceSet>
+      </lido:resourceWrap>
+   </lido:administrativeMetadata>
+</lido:lido>
+

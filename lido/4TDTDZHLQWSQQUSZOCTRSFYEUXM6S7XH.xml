@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lido:lido xmlns:lido="http://www.lido-schema.org"
+           xmlns:xalan="http://xml.apache.org/xalan">
+   <lido:lidoRecID lido:source="https://berlin.museum-digital.de/index.php?t=institution&amp;instnr=32"
+                   lido:type="local">DE-B185/67141</lido:lidoRecID>
+   <lido:category/>
+   <lido:descriptiveMetadata xml:lang="de">
+      <lido:objectClassificationWrap>
+         <lido:objectWorkTypeWrap>
+            <lido:objectWorkType>
+               <lido:conceptID lido:source="gnd" lido:type="uri">http://d-nb.info/gnd/4021845-4</lido:conceptID>
+               <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/13314</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Druckgraphik</lido:term>
+            </lido:objectWorkType>
+         </lido:objectWorkTypeWrap>
+         <lido:classificationWrap>
+            <lido:classification lido:type="Sammlung">
+               <lido:conceptID lido:source="local" lido:type="collection_id">705</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Handzeichnungen, Druckgraphik, Gemälde</lido:term>
+            </lido:classification>
+            <lido:classification lido:type="Sammlung">
+               <lido:conceptID lido:source="local" lido:type="collection_id">706</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Ansichten</lido:term>
+            </lido:classification>
+            <lido:classification lido:type="Sammlung">
+               <lido:conceptID lido:source="local" lido:type="collection_id">708</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Brandenburg</lido:term>
+            </lido:classification>
+         </lido:classificationWrap>
+      </lido:objectClassificationWrap>
+      <lido:objectIdentificationWrap>
+         <lido:titleWrap>
+            <lido:titleSet>
+               <lido:appellationValue lido:pref="preferred">Prenzlau: Mittelgraben</lido:appellationValue>
+            </lido:titleSet>
+         </lido:titleWrap>
+         <lido:repositoryWrap>
+            <lido:repositorySet lido:type="current">
+               <lido:repositoryName>
+                  <lido:legalBodyID lido:type="isil">DE-B185</lido:legalBodyID>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+                  </lido:legalBodyName>
+                  <lido:legalBodyWeblink>http://geschichte-brandenburg.de/</lido:legalBodyWeblink>
+               </lido:repositoryName>
+               <lido:workID lido:type="inventory number">LGV-Archiv, C 12 G-4-066</lido:workID>
+               <lido:repositoryLocation>
+                  <lido:namePlaceSet>
+                     <lido:appellationValue>Berlin</lido:appellationValue>
+                  </lido:namePlaceSet>
+                  <lido:gml>
+                     <gml:Point xmlns:gml="http://www.opengis.net/gml" srsName="EPSG:4326">
+                        <gml:pos>52.51533127 13.40440559</gml:pos>
+                     </gml:Point>
+                  </lido:gml>
+               </lido:repositoryLocation>
+            </lido:repositorySet>
+         </lido:repositoryWrap>
+         <lido:objectDescriptionWrap>
+            <lido:objectDescriptionSet>
+               <lido:descriptiveNoteValue>Mit dem Aufkommen der Ansichtspostkarte Ende des 19. Jahrhunderts wurde auch die bis dahin als Souvenirgraphik übliche Ansicht in dieses neue Medium überführt. Dargestellt ist hier der Mittelgraben von Prenzlau, eine malerische Partie an der Stadtmauer, die seit den Zerstörungen im Zweiten Weltkrieg so nicht mehr existiert. Unbekannter Radierer.
+Die Ansichtskarte hat Adolf Nagel (1867-1940), später 2. Vorsitzender der Landesgeschichtlichen Vereinigung für die Mark Brandenburg, mit Datum und Poststempel vom 21. Mai 1928 aus Prenzlau an eine Verwandte in Zechliner Hütte verschickt.
+
+Gedruckter Titel in Versalien, li. u. "Prenzlau.", re. u. "Mittelgraben."
+Erworben 1940 (Nachlass Adolf Nagel).</lido:descriptiveNoteValue>
+               <lido:sourceDescriptiveNote>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:sourceDescriptiveNote>
+            </lido:objectDescriptionSet>
+         </lido:objectDescriptionWrap>
+         <lido:objectMeasurementsWrap>
+            <lido:objectMeasurementsSet>
+               <lido:displayObjectMeasurements>Blattgröße: Höhe 9,4 cm, Breite 13,8 cm</lido:displayObjectMeasurements>
+               <lido:objectMeasurements/>
+            </lido:objectMeasurementsSet>
+         </lido:objectMeasurementsWrap>
+      </lido:objectIdentificationWrap>
+      <lido:eventWrap>
+         <lido:eventSet>
+            <lido:event>
+               <lido:eventType>
+                  <lido:conceptID lido:type="uri">https://event-types.museum-digital.org/1</lido:conceptID>
+                  <lido:term lido:addedSearchTerm="no">Hergestellt</lido:term>
+               </lido:eventType>
+               <lido:eventDate>
+                  <lido:displayDate>1928</lido:displayDate>
+                  <lido:displayDate xml:lang="ar">1928</lido:displayDate>
+                  <lido:displayDate xml:lang="de">1928</lido:displayDate>
+                  <lido:displayDate xml:lang="en">1928</lido:displayDate>
+                  <lido:displayDate xml:lang="es">1928</lido:displayDate>
+                  <lido:displayDate xml:lang="fa">1928</lido:displayDate>
+                  <lido:displayDate xml:lang="fr">1928</lido:displayDate>
+                  <lido:displayDate xml:lang="hu">1928</lido:displayDate>
+                  <lido:displayDate xml:lang="id">1928</lido:displayDate>
+                  <lido:displayDate xml:lang="it">1928</lido:displayDate>
+                  <lido:displayDate xml:lang="ja">1928年</lido:displayDate>
+                  <lido:displayDate xml:lang="ka">1928</lido:displayDate>
+                  <lido:displayDate xml:lang="ko">1928년</lido:displayDate>
+                  <lido:displayDate xml:lang="pl">1928</lido:displayDate>
+                  <lido:displayDate xml:lang="pt">1928</lido:displayDate>
+                  <lido:displayDate xml:lang="ro">1928</lido:displayDate>
+                  <lido:displayDate xml:lang="ru">1928</lido:displayDate>
+                  <lido:displayDate xml:lang="ta">1928</lido:displayDate>
+                  <lido:displayDate xml:lang="tl">1928</lido:displayDate>
+                  <lido:displayDate xml:lang="tr">1928</lido:displayDate>
+                  <lido:displayDate xml:lang="zh">1928年</lido:displayDate>
+                  <lido:date>
+                     <lido:earliestDate>1928</lido:earliestDate>
+                     <lido:latestDate>1928</lido:latestDate>
+                  </lido:date>
+               </lido:eventDate>
+            </lido:event>
+         </lido:eventSet>
+         <lido:eventSet>
+            <lido:event>
+               <lido:eventType>
+                  <lido:conceptID lido:type="uri">http://terminology.lido-schema.org/lido00003</lido:conceptID>
+                  <lido:term>Event (non-specified)</lido:term>
+               </lido:eventType>
+               <lido:eventMaterialsTech>
+                  <lido:displayMaterialsTech>Radierung in Braun auf Kupferdruckpapier</lido:displayMaterialsTech>
+               </lido:eventMaterialsTech>
+            </lido:event>
+         </lido:eventSet>
+      </lido:eventWrap>
+      <lido:objectRelationWrap>
+         <lido:subjectWrap>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectPlace>
+                     <lido:displayPlace>Prenzlau</lido:displayPlace>
+                     <lido:displayPlace xml:lang="ar">برنتسلاو</lido:displayPlace>
+                     <lido:displayPlace xml:lang="cs">Prenzlau</lido:displayPlace>
+                     <lido:displayPlace xml:lang="da">Prenzlau</lido:displayPlace>
+                     <lido:displayPlace xml:lang="de">Prenzlau</lido:displayPlace>
+                     <lido:displayPlace xml:lang="en">Prenzlau</lido:displayPlace>
+                     <lido:displayPlace xml:lang="es">Prenzlau</lido:displayPlace>
+                     <lido:displayPlace xml:lang="fa">پرنتسلاو</lido:displayPlace>
+                     <lido:displayPlace xml:lang="fi">Prenzlau</lido:displayPlace>
+                     <lido:displayPlace xml:lang="fr">Prenzlau</lido:displayPlace>
+                     <lido:displayPlace xml:lang="he">פרנצלאו</lido:displayPlace>
+                     <lido:displayPlace xml:lang="hu">Prenzlau</lido:displayPlace>
+                     <lido:displayPlace xml:lang="it">Prenzlau</lido:displayPlace>
+                     <lido:displayPlace xml:lang="nl">Prenzlau</lido:displayPlace>
+                     <lido:displayPlace xml:lang="pl">Prenzlau</lido:displayPlace>
+                     <lido:displayPlace xml:lang="pt">Prenzlau</lido:displayPlace>
+                     <lido:displayPlace xml:lang="ro">Prenzlau</lido:displayPlace>
+                     <lido:displayPlace xml:lang="ru">Пренцлау</lido:displayPlace>
+                     <lido:displayPlace xml:lang="sv">Prenzlau</lido:displayPlace>
+                     <lido:displayPlace xml:lang="tr">Prenzlau</lido:displayPlace>
+                     <lido:displayPlace xml:lang="vi">Prenzlau</lido:displayPlace>
+                     <lido:displayPlace xml:lang="zh">普伦茨劳</lido:displayPlace>
+                     <lido:place>
+                        <lido:placeID lido:source="geonames" lido:type="uri">https://sws.geonames.org/2852218</lido:placeID>
+                        <lido:placeID lido:source="TGN" lido:type="uri">http://vocab.getty.edu/tgn/1037511</lido:placeID>
+                        <lido:placeID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4103284-6</lido:placeID>
+                        <lido:placeID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q537214</lido:placeID>
+                        <lido:placeID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/place/2412</lido:placeID>
+                        <lido:namePlaceSet>
+                           <lido:appellationValue>Prenzlau</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ar">برنتسلاو</lido:appellationValue>
+                           <lido:appellationValue xml:lang="cs">Prenzlau</lido:appellationValue>
+                           <lido:appellationValue xml:lang="da">Prenzlau</lido:appellationValue>
+                           <lido:appellationValue xml:lang="de">Prenzlau</lido:appellationValue>
+                           <lido:appellationValue xml:lang="en">Prenzlau</lido:appellationValue>
+                           <lido:appellationValue xml:lang="es">Prenzlau</lido:appellationValue>
+                           <lido:appellationValue xml:lang="fa">پرنتسلاو</lido:appellationValue>
+                           <lido:appellationValue xml:lang="fi">Prenzlau</lido:appellationValue>
+                           <lido:appellationValue xml:lang="fr">Prenzlau</lido:appellationValue>
+                           <lido:appellationValue xml:lang="he">פרנצלאו</lido:appellationValue>
+                           <lido:appellationValue xml:lang="hu">Prenzlau</lido:appellationValue>
+                           <lido:appellationValue xml:lang="it">Prenzlau</lido:appellationValue>
+                           <lido:appellationValue xml:lang="nl">Prenzlau</lido:appellationValue>
+                           <lido:appellationValue xml:lang="pl">Prenzlau</lido:appellationValue>
+                           <lido:appellationValue xml:lang="pt">Prenzlau</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ro">Prenzlau</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ru">Пренцлау</lido:appellationValue>
+                           <lido:appellationValue xml:lang="sv">Prenzlau</lido:appellationValue>
+                           <lido:appellationValue xml:lang="tr">Prenzlau</lido:appellationValue>
+                           <lido:appellationValue xml:lang="vi">Prenzlau</lido:appellationValue>
+                           <lido:appellationValue xml:lang="zh">普伦茨劳</lido:appellationValue>
+                        </lido:namePlaceSet>
+                        <lido:gml>
+                           <gml:Point xmlns:gml="http://www.opengis.net/gml" srsName="EPSG:4326">
+                              <gml:pos>53.316665649414 13.866666793823</gml:pos>
+                           </gml:Point>
+                        </lido:gml>
+                     </lido:place>
+                  </lido:subjectPlace>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="aat" lido:type="uri">http://vocab.getty.edu/aat/300054156</lido:conceptID>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4002851-3</lido:conceptID>
+                     <lido:conceptID lido:source="iconclass" lido:type="uri">http://iconclass.org/rkd/48C1/</lido:conceptID>
+                     <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh85006611</lido:conceptID>
+                     <lido:conceptID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q12271</lido:conceptID>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Architektur</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/800</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Architektur</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ar">عمارة</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="bn">স্থাপত্য</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="cs">Architektura</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="da">Arkitektur</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="de">Architektur</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="el">αρχιτεκτονική</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="en">Architecture</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="es">Arquitectura</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fa">معماری</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fi">Arkkitehtuuri</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fr">Architecture</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="he">אדריכלות</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hi">वास्तुशास्त्र</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hu">építészet</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="id">Arsitektur</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="it">Architettura</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ja">建築</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ka">არქიტექტურა</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ko">건축</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="nl">Architectuur</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pl">Architektura</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pt">Arquitetura</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ro">arhitectură</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ru">архитектура</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sv">Arkitektur</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sw">Ujenzi</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ta">கட்டிடக்கலை</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="th">สถาปัตยกรรม</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tl">Arkitektura</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tr">Mimarlık</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ur">معماری</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="vi">kiến trúc</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="zh">建筑</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="aat" lido:type="uri">https://vocab.getty.edu/page/aat/300005072</lido:conceptID>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">http://d-nb.info/gnd/4139373-9</lido:conceptID>
+                     <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh85026297</lido:conceptID>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">http://de.wikipedia.org/wiki/Stadtmauer</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/7384</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Stadtmauer</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="aat" lido:type="uri">https://vocab.getty.edu/page/aat/300005425</lido:conceptID>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">http://d-nb.info/gnd/4023693-6</lido:conceptID>
+                     <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh85062603</lido:conceptID>
+                     <lido:conceptID lido:source="oberbegriffsdatei" lido:type="uri">https://term.museum-digital.de/oberbegriffsdatei/tag/tag/90</lido:conceptID>
+                     <lido:conceptID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q11755880</lido:conceptID>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Wohngeb%C3%A4ude</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/11153</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Wohnhaus</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="de">Wohnhaus</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="en">Residential building</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="es">Vivienda</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fr">Bâtiment d'habitation</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="it">Edificio abitativo</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ja">居住建築物</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="nl">Woongebouw</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ru">жилое здание</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sv">Bostadshus</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tr">Konut binası</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+         </lido:subjectWrap>
+         <lido:relatedWorksWrap/>
+      </lido:objectRelationWrap>
+   </lido:descriptiveMetadata>
+   <lido:administrativeMetadata xml:lang="de">
+      <lido:rightsWorkWrap>
+         <lido:rightsWorkSet>
+            <lido:rightsHolder>
+               <lido:legalBodyName>
+                  <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:rightsHolder>
+         </lido:rightsWorkSet>
+      </lido:rightsWorkWrap>
+      <lido:recordWrap>
+         <lido:recordID lido:type="museum-digital">67141</lido:recordID>
+         <lido:recordType>
+            <lido:term lido:addedSearchTerm="no">item</lido:term>
+         </lido:recordType>
+         <lido:recordSource lido:type="dataProvider">
+            <lido:legalBodyName>
+               <lido:appellationValue>museum-digital</lido:appellationValue>
+            </lido:legalBodyName>
+            <lido:legalBodyWeblink>https://berlin.museum-digital.de/</lido:legalBodyWeblink>
+         </lido:recordSource>
+         <lido:recordSource>
+            <lido:legalBodyID lido:type="isil">DE-B185</lido:legalBodyID>
+            <lido:legalBodyName>
+               <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+            </lido:legalBodyName>
+         </lido:recordSource>
+         <lido:recordRights>
+            <lido:rightsType>
+               <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no">CC BY</lido:term>
+            </lido:rightsType>
+            <lido:rightsHolder>
+               <lido:legalBodyID lido:type="isil">DE-B185</lido:legalBodyID>
+               <lido:legalBodyName>
+                  <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+               </lido:legalBodyName>
+               <lido:legalBodyWeblink>http://geschichte-brandenburg.de/</lido:legalBodyWeblink>
+            </lido:rightsHolder>
+            <lido:creditLine>Förderprogramm zur Digitalisierung von Objekten des kulturellen Erbes des Landes Berlin</lido:creditLine>
+         </lido:recordRights>
+         <lido:recordInfoSet>
+            <lido:recordInfoLink>https://berlin.museum-digital.de/index.php?t=objekt&amp;oges=67141</lido:recordInfoLink>
+            <lido:recordMetadataDate>2021-04-27 07:59:54</lido:recordMetadataDate>
+         </lido:recordInfoSet>
+      </lido:recordWrap>
+      <lido:resourceWrap>
+         <lido:resourceSet lido:sortorder="1">
+            <lido:resourceID lido:source="image" lido:type="local">48724</lido:resourceID>
+            <lido:resourceRepresentation lido:type="masterfile">
+               <lido:linkResource lido:formatResource="image/tiff"/>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_thumb">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/202007/100h_prenzlau-mittelgraben-67141.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_preview">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/202007/200w_prenzlau-mittelgraben-67141.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/202007/prenzlau-mittelgraben-67141.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceType>
+               <lido:term lido:addedSearchTerm="no">image</lido:term>
+            </lido:resourceType>
+            <lido:resourceRelType>
+               <lido:term lido:addedSearchTerm="no">Hauptansicht</lido:term>
+            </lido:resourceRelType>
+            <lido:resourceDescription>Prenzlau: Mittelgraben</lido:resourceDescription>
+            <lido:resourceSource lido:type="creator">
+               <lido:legalBodyName>
+                  <lido:appellationValue>Thomas Voßbeck, 2020</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:resourceSource>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+                  <lido:term lido:addedSearchTerm="no">CC BY</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V.</lido:appellationValue>
+                  </lido:legalBodyName>
+               </lido:rightsHolder>
+               <lido:creditLine>Thomas Voßbeck, 2020</lido:creditLine>
+            </lido:rightsResource>
+         </lido:resourceSet>
+      </lido:resourceWrap>
+   </lido:administrativeMetadata>
+</lido:lido>
+

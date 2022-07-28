@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lido:lido xmlns:lido="http://www.lido-schema.org"
+           xmlns:xalan="http://xml.apache.org/xalan">
+   <lido:lidoRecID lido:source="https://berlin.museum-digital.de/index.php?t=institution&amp;instnr=32"
+                   lido:type="local">DE-B185/67311</lido:lidoRecID>
+   <lido:category/>
+   <lido:descriptiveMetadata xml:lang="de">
+      <lido:objectClassificationWrap>
+         <lido:objectWorkTypeWrap>
+            <lido:objectWorkType>
+               <lido:conceptID lido:source="gnd" lido:type="uri">http://d-nb.info/gnd/4067453-8</lido:conceptID>
+               <lido:conceptID lido:source="grobsystematik" lido:type="uri">https://term.museum-digital.de/grobsystematik/tag/14445</lido:conceptID>
+               <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh85039408</lido:conceptID>
+               <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/945</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Handzeichnung</lido:term>
+            </lido:objectWorkType>
+         </lido:objectWorkTypeWrap>
+         <lido:classificationWrap>
+            <lido:classification lido:type="Sammlung">
+               <lido:conceptID lido:source="local" lido:type="collection_id">705</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Handzeichnungen, Druckgraphik, Gemälde</lido:term>
+            </lido:classification>
+            <lido:classification lido:type="Sammlung">
+               <lido:conceptID lido:source="local" lido:type="collection_id">731</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Nachlässe</lido:term>
+            </lido:classification>
+            <lido:classification lido:type="Sammlung">
+               <lido:conceptID lido:source="local" lido:type="collection_id">735</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Rudolf Lutter</lido:term>
+            </lido:classification>
+         </lido:classificationWrap>
+      </lido:objectClassificationWrap>
+      <lido:objectIdentificationWrap>
+         <lido:titleWrap>
+            <lido:titleSet>
+               <lido:appellationValue lido:pref="preferred">Rabenstein (Fränkische Schweiz): Burgruine</lido:appellationValue>
+            </lido:titleSet>
+         </lido:titleWrap>
+         <lido:repositoryWrap>
+            <lido:repositorySet lido:type="current">
+               <lido:repositoryName>
+                  <lido:legalBodyID lido:type="isil">DE-B185</lido:legalBodyID>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+                  </lido:legalBodyName>
+                  <lido:legalBodyWeblink>http://geschichte-brandenburg.de/</lido:legalBodyWeblink>
+               </lido:repositoryName>
+               <lido:workID lido:type="inventory number">LGV-Archiv, C 12 H-4-039</lido:workID>
+               <lido:repositoryLocation>
+                  <lido:namePlaceSet>
+                     <lido:appellationValue>Berlin</lido:appellationValue>
+                  </lido:namePlaceSet>
+                  <lido:gml>
+                     <gml:Point xmlns:gml="http://www.opengis.net/gml" srsName="EPSG:4326">
+                        <gml:pos>52.51533127 13.40440559</gml:pos>
+                     </gml:Point>
+                  </lido:gml>
+               </lido:repositoryLocation>
+            </lido:repositorySet>
+         </lido:repositoryWrap>
+         <lido:objectDescriptionWrap>
+            <lido:objectDescriptionSet>
+               <lido:descriptiveNoteValue>Dargestellt ist Burg Rabenstein aus dem Tal zur Burg hinauf in einem häufig auch druckgraphisch reproduzierten Blick (Die Fränkische Schweiz in alten Ansichten, Nr. 264). Bis in die Details der Staffage gleicht die Zeichnung einer Lithographie um 1840 (von Theodor Rothbart). Seit der künstlerischen Entdeckung der damals noch Muggendorfer Gebürg genannten Fränkischen Schweiz durch Ludwig Tieck (1773-1853) und Wilhelm Heinrich Wackenroder (1773-1798) im ausgehenden 18. Jahrhundert hat das burgenreiche kleine Gebirge mit den pittoresken Felsen romantische Begeisterung und darauf folgend vielfältige Beschreibung und künstlerische Darstellung gefunden. Allein 24 druckgraphische Darstellungen von Burg Rabenstein zwischen zwischen 1739 und 1857 konnte der Sammler Hans Max Frhr. von Aufseß (1906-1993) zusammentragen.
+
+Handschriftlich bez. li. u. „28 Juli / 1855.“, mi. u. "Rabenstein", re. o. "268."
+
+Literatur: Die Fränkische Schweiz in alten Ansichten - seltene Stiche aus der Sammlung Aufseß. Mit einem Verzeichnis der bekannten Ortsgraphiken der Fränkischen Schweiz. Sonderausstellung im Fränkische-Schweiz-Museum vom 20.07.1996 - 01.09.1996. Katalog. Pottenstein 1996, Nr. 249-272.</lido:descriptiveNoteValue>
+               <lido:sourceDescriptiveNote>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:sourceDescriptiveNote>
+            </lido:objectDescriptionSet>
+         </lido:objectDescriptionWrap>
+         <lido:objectMeasurementsWrap>
+            <lido:objectMeasurementsSet>
+               <lido:displayObjectMeasurements>Blattgröße: Höhe 18,2 cm, Breite 16,7 cm</lido:displayObjectMeasurements>
+               <lido:objectMeasurements/>
+            </lido:objectMeasurementsSet>
+         </lido:objectMeasurementsWrap>
+      </lido:objectIdentificationWrap>
+      <lido:eventWrap>
+         <lido:eventSet>
+            <lido:event>
+               <lido:eventType>
+                  <lido:conceptID lido:type="uri">https://event-types.museum-digital.org/19</lido:conceptID>
+                  <lido:term lido:addedSearchTerm="no">Gezeichnet</lido:term>
+               </lido:eventType>
+               <lido:eventActor>
+                  <lido:displayActorInRole>Rudolf Lutter (1831-1913)</lido:displayActorInRole>
+                  <lido:actorInRole>
+                     <lido:actor>
+                        <lido:actorID lido:source="gnd" lido:type="uri">http://d-nb.info/gnd/1178185508</lido:actorID>
+                        <lido:actorID lido:source="viaf" lido:type="uri">https://viaf.org/viaf/7381155044839072520000</lido:actorID>
+                        <lido:actorID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/persinst/125364</lido:actorID>
+                        <lido:nameActorSet>
+                           <lido:appellationValue>Lutter, Rudolf</lido:appellationValue>
+                           <lido:appellationValue xml:lang="de">Rudolf Lutter</lido:appellationValue>
+                        </lido:nameActorSet>
+                        <lido:vitalDatesActor>
+                           <lido:earliestDate>1831</lido:earliestDate>
+                           <lido:latestDate>1913</lido:latestDate>
+                        </lido:vitalDatesActor>
+                     </lido:actor>
+                  </lido:actorInRole>
+               </lido:eventActor>
+               <lido:eventDate>
+                  <lido:displayDate>28.07.1855</lido:displayDate>
+                  <lido:displayDate xml:lang="ar">28/07/1855</lido:displayDate>
+                  <lido:displayDate xml:lang="de">28.07.1855</lido:displayDate>
+                  <lido:displayDate xml:lang="en">July 28, 1855</lido:displayDate>
+                  <lido:displayDate xml:lang="es">28/07/1855</lido:displayDate>
+                  <lido:displayDate xml:lang="fa">28/07/1855</lido:displayDate>
+                  <lido:displayDate xml:lang="fr">28/07/1855</lido:displayDate>
+                  <lido:displayDate xml:lang="hu">1855. július 28.</lido:displayDate>
+                  <lido:displayDate xml:lang="id">28 Juli 1855</lido:displayDate>
+                  <lido:displayDate xml:lang="it">28/07/1855</lido:displayDate>
+                  <lido:displayDate xml:lang="ja">1855年07月28日</lido:displayDate>
+                  <lido:displayDate xml:lang="ka">28.07.1855</lido:displayDate>
+                  <lido:displayDate xml:lang="ko">1855년 07월 28일</lido:displayDate>
+                  <lido:displayDate xml:lang="pl">28.07.1855</lido:displayDate>
+                  <lido:displayDate xml:lang="pt">28/07/1855</lido:displayDate>
+                  <lido:displayDate xml:lang="ro">28.07.1855</lido:displayDate>
+                  <lido:displayDate xml:lang="ru">28.07.1855</lido:displayDate>
+                  <lido:displayDate xml:lang="ta">28-07-1855</lido:displayDate>
+                  <lido:displayDate xml:lang="tl">Hulyo 28, 1855</lido:displayDate>
+                  <lido:displayDate xml:lang="tr">28.07.1855</lido:displayDate>
+                  <lido:displayDate xml:lang="zh">1855年07月28日</lido:displayDate>
+                  <lido:date>
+                     <lido:earliestDate>1855</lido:earliestDate>
+                     <lido:latestDate>1855</lido:latestDate>
+                  </lido:date>
+               </lido:eventDate>
+            </lido:event>
+         </lido:eventSet>
+         <lido:eventSet>
+            <lido:event>
+               <lido:eventType>
+                  <lido:conceptID lido:type="uri">http://terminology.lido-schema.org/lido00003</lido:conceptID>
+                  <lido:term>Event (non-specified)</lido:term>
+               </lido:eventType>
+               <lido:eventMaterialsTech>
+                  <lido:displayMaterialsTech>Bleistift auf Papier (aufgezogen auf festem Papier)</lido:displayMaterialsTech>
+               </lido:eventMaterialsTech>
+            </lido:event>
+         </lido:eventSet>
+      </lido:eventWrap>
+      <lido:objectRelationWrap>
+         <lido:subjectWrap>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectPlace>
+                     <lido:displayPlace>Burg Rabenstein (Oberfranken)</lido:displayPlace>
+                     <lido:displayPlace xml:lang="de">Burg Rabenstein (Oberfranken)</lido:displayPlace>
+                     <lido:displayPlace xml:lang="en">Rabenstein Castle (Upper Franconia)</lido:displayPlace>
+                     <lido:displayPlace xml:lang="fa">رابن اشتاین کاستل</lido:displayPlace>
+                     <lido:displayPlace xml:lang="fr">Château de Rabenstein</lido:displayPlace>
+                     <lido:displayPlace xml:lang="nl">Burg Rabenstein (Oberfranken)</lido:displayPlace>
+                     <lido:place>
+                        <lido:placeID lido:source="geonames" lido:type="uri">https://sws.geonames.org/</lido:placeID>
+                        <lido:placeID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4566202-2</lido:placeID>
+                        <lido:placeID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q1013554</lido:placeID>
+                        <lido:placeID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/place/57285</lido:placeID>
+                        <lido:namePlaceSet>
+                           <lido:appellationValue>Burg Rabenstein (Oberfranken)</lido:appellationValue>
+                           <lido:appellationValue xml:lang="de">Burg Rabenstein (Oberfranken)</lido:appellationValue>
+                           <lido:appellationValue xml:lang="en">Rabenstein Castle (Upper Franconia)</lido:appellationValue>
+                           <lido:appellationValue xml:lang="fa">رابن اشتاین کاستل</lido:appellationValue>
+                           <lido:appellationValue xml:lang="fr">Château de Rabenstein</lido:appellationValue>
+                           <lido:appellationValue xml:lang="nl">Burg Rabenstein (Oberfranken)</lido:appellationValue>
+                        </lido:namePlaceSet>
+                        <lido:gml>
+                           <gml:Point xmlns:gml="http://www.opengis.net/gml" srsName="EPSG:4326">
+                              <gml:pos>49.822200775146 11.370699882507</gml:pos>
+                           </gml:Point>
+                        </lido:gml>
+                     </lido:place>
+                  </lido:subjectPlace>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="aat" lido:type="uri">http://vocab.getty.edu/aat/300172863</lido:conceptID>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4050491-8</lido:conceptID>
+                     <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh85115078</lido:conceptID>
+                     <lido:conceptID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q37068</lido:conceptID>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Romantik</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/96</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Romantik (Epoche)</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ar">رومانسية</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="bn">রোমান্টিকতা</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="cs">Romantismus</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="da">Romantikken</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="de">Romantik (Epoche)</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="el">ρομαντισμός</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="en">Romanticism</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="es">Romanticismo</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fa">رمانتیسم</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fi">Romantiikka</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fr">Romantisme</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="he">הרומנטיקה</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hi">स्वछंदतावाद</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hu">romantika</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="id">Romantisisme</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="it">Romanticismo</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ja">ロマン主義</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ka">რომანტიზმი</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ko">낭만주의</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="nl">Romantiek</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pl">Romantyzm</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pt">Romantismo</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ro">romantism</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ru">романтизм</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sv">Romantiken</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ta">புனைவியம்</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="th">ศิลปะจินตนิยม</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tl">Romantisismo</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tr">Romantizm</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ur">رومانیت</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="vi">chủ nghĩa lãng mạn</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="zh">浪漫主义</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">http://d-nb.info/gnd/4456152-0</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/12961</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Burgruine</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/36171</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Fels</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+         </lido:subjectWrap>
+         <lido:relatedWorksWrap/>
+      </lido:objectRelationWrap>
+   </lido:descriptiveMetadata>
+   <lido:administrativeMetadata xml:lang="de">
+      <lido:rightsWorkWrap>
+         <lido:rightsWorkSet>
+            <lido:rightsHolder>
+               <lido:legalBodyName>
+                  <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:rightsHolder>
+         </lido:rightsWorkSet>
+      </lido:rightsWorkWrap>
+      <lido:recordWrap>
+         <lido:recordID lido:type="museum-digital">67311</lido:recordID>
+         <lido:recordType>
+            <lido:term lido:addedSearchTerm="no">item</lido:term>
+         </lido:recordType>
+         <lido:recordSource lido:type="dataProvider">
+            <lido:legalBodyName>
+               <lido:appellationValue>museum-digital</lido:appellationValue>
+            </lido:legalBodyName>
+            <lido:legalBodyWeblink>https://berlin.museum-digital.de/</lido:legalBodyWeblink>
+         </lido:recordSource>
+         <lido:recordSource>
+            <lido:legalBodyID lido:type="isil">DE-B185</lido:legalBodyID>
+            <lido:legalBodyName>
+               <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+            </lido:legalBodyName>
+         </lido:recordSource>
+         <lido:recordRights>
+            <lido:rightsType>
+               <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no">CC BY</lido:term>
+            </lido:rightsType>
+            <lido:rightsHolder>
+               <lido:legalBodyID lido:type="isil">DE-B185</lido:legalBodyID>
+               <lido:legalBodyName>
+                  <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+               </lido:legalBodyName>
+               <lido:legalBodyWeblink>http://geschichte-brandenburg.de/</lido:legalBodyWeblink>
+            </lido:rightsHolder>
+            <lido:creditLine>Förderprogramm zur Digitalisierung von Objekten des kulturellen Erbes des Landes Berlin</lido:creditLine>
+         </lido:recordRights>
+         <lido:recordInfoSet>
+            <lido:recordInfoLink>https://berlin.museum-digital.de/index.php?t=objekt&amp;oges=67311</lido:recordInfoLink>
+            <lido:recordMetadataDate>2021-04-27 07:59:53</lido:recordMetadataDate>
+         </lido:recordInfoSet>
+      </lido:recordWrap>
+      <lido:resourceWrap>
+         <lido:resourceSet lido:sortorder="1">
+            <lido:resourceID lido:source="image" lido:type="local">48854</lido:resourceID>
+            <lido:resourceRepresentation lido:type="masterfile">
+               <lido:linkResource lido:formatResource="image/tiff"/>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_thumb">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/202007/100h_rabenstein-fraenkische-schweiz-burgruine-67311.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_preview">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/202007/200w_rabenstein-fraenkische-schweiz-burgruine-67311.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/202007/rabenstein-fraenkische-schweiz-burgruine-67311.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceType>
+               <lido:term lido:addedSearchTerm="no">image</lido:term>
+            </lido:resourceType>
+            <lido:resourceRelType>
+               <lido:term lido:addedSearchTerm="no">Hauptansicht</lido:term>
+            </lido:resourceRelType>
+            <lido:resourceDescription>Rabenstein (Fränkische Schweiz): Burgruine</lido:resourceDescription>
+            <lido:resourceSource lido:type="creator">
+               <lido:legalBodyName>
+                  <lido:appellationValue>Thomas Voßbeck, 2020</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:resourceSource>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+                  <lido:term lido:addedSearchTerm="no">CC BY</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V.</lido:appellationValue>
+                  </lido:legalBodyName>
+               </lido:rightsHolder>
+               <lido:creditLine>Thomas Voßbeck, 2020</lido:creditLine>
+            </lido:rightsResource>
+         </lido:resourceSet>
+      </lido:resourceWrap>
+   </lido:administrativeMetadata>
+</lido:lido>
+

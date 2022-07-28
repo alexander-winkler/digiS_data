@@ -1,0 +1,409 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lido:lido xmlns:lido="http://www.lido-schema.org"
+           xmlns:xalan="http://xml.apache.org/xalan">
+   <lido:lidoRecID lido:source="https://berlin.museum-digital.de/index.php?t=institution&amp;instnr=32"
+                   lido:type="local">DE-B185/67232</lido:lidoRecID>
+   <lido:category/>
+   <lido:descriptiveMetadata xml:lang="de">
+      <lido:objectClassificationWrap>
+         <lido:objectWorkTypeWrap>
+            <lido:objectWorkType>
+               <lido:conceptID lido:source="gnd" lido:type="uri">http://d-nb.info/gnd/4067453-8</lido:conceptID>
+               <lido:conceptID lido:source="grobsystematik" lido:type="uri">https://term.museum-digital.de/grobsystematik/tag/14445</lido:conceptID>
+               <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh85039408</lido:conceptID>
+               <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/945</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Handzeichnung</lido:term>
+            </lido:objectWorkType>
+         </lido:objectWorkTypeWrap>
+         <lido:classificationWrap>
+            <lido:classification lido:type="Sammlung">
+               <lido:conceptID lido:source="local" lido:type="collection_id">705</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Handzeichnungen, Druckgraphik, Gemälde</lido:term>
+            </lido:classification>
+            <lido:classification lido:type="Sammlung">
+               <lido:conceptID lido:source="local" lido:type="collection_id">706</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Ansichten</lido:term>
+            </lido:classification>
+            <lido:classification lido:type="Sammlung">
+               <lido:conceptID lido:source="local" lido:type="collection_id">708</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Brandenburg</lido:term>
+            </lido:classification>
+         </lido:classificationWrap>
+      </lido:objectClassificationWrap>
+      <lido:objectIdentificationWrap>
+         <lido:titleWrap>
+            <lido:titleSet>
+               <lido:appellationValue lido:pref="preferred">Lychen (Kr. Templin): Hohenlychen</lido:appellationValue>
+            </lido:titleSet>
+         </lido:titleWrap>
+         <lido:repositoryWrap>
+            <lido:repositorySet lido:type="current">
+               <lido:repositoryName>
+                  <lido:legalBodyID lido:type="isil">DE-B185</lido:legalBodyID>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+                  </lido:legalBodyName>
+                  <lido:legalBodyWeblink>http://geschichte-brandenburg.de/</lido:legalBodyWeblink>
+               </lido:repositoryName>
+               <lido:workID lido:type="inventory number">LGV-Archiv, C 12 H-4-006</lido:workID>
+               <lido:repositoryLocation>
+                  <lido:namePlaceSet>
+                     <lido:appellationValue>Berlin</lido:appellationValue>
+                  </lido:namePlaceSet>
+                  <lido:gml>
+                     <gml:Point xmlns:gml="http://www.opengis.net/gml" srsName="EPSG:4326">
+                        <gml:pos>52.51533127 13.40440559</gml:pos>
+                     </gml:Point>
+                  </lido:gml>
+               </lido:repositoryLocation>
+            </lido:repositorySet>
+         </lido:repositoryWrap>
+         <lido:objectDescriptionWrap>
+            <lido:objectDescriptionSet>
+               <lido:descriptiveNoteValue>Hauptmotiv der Ansicht ist die Stadtpfarrkirche St. Johannes, die den höchsten Punkt der kleinen Stadtanlage bildet. Der Standort dürfte am gegenüberliegenden Ufer des Lychener Stadtsees zu suchen sein. Die Stadt war durch ihre Lage auf einer Halbinsel zwischen mehreren Seen seit dem ausgehenden 19. Jahrhundert ein beliebtes Ausflugsziel. So ist etwa auch ein Lychen-Gemälde des Berliner Architekturmalers Eduard Gaertner (1801-1877) von ähnlichem Standort nachgewiesen.&#xD;
+&#xD;
+Auf dem Unterlagepapier bez. (von Dr. Hans E. Pappenheim) "(Hohen)lychen / Bild: Georg Greife." - Rückseite vom Zeichner bez. li. (in Feder) "Lychen. Mai 1924 / Greife. / Hohenlychen.", re. (in Bleistift), vermutlich deutlich später (1945?) hinzugesetzt "gewidmet Janse / Pappenheim von / G. Greife", darunter dasselbe auf Russisch in (fehlerhafter) Übertragung in kyrillische Schrift "для Япса Паппенхейм / от Г. Грейфе." [dlja Japsa Pappencheim / ot G. Greife.]&#xD;
+Schenkung aus Privatbesitz (Nachlass Dr. Hans E. Pappenheim, Berlin).</lido:descriptiveNoteValue>
+               <lido:sourceDescriptiveNote>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:sourceDescriptiveNote>
+            </lido:objectDescriptionSet>
+         </lido:objectDescriptionWrap>
+         <lido:objectMeasurementsWrap>
+            <lido:objectMeasurementsSet>
+               <lido:displayObjectMeasurements>Blattgröße = Bildgröße: Höhe 12 cm, Breite 16,7 cm, rechts hinterlegter Einriss</lido:displayObjectMeasurements>
+               <lido:objectMeasurements/>
+            </lido:objectMeasurementsSet>
+         </lido:objectMeasurementsWrap>
+      </lido:objectIdentificationWrap>
+      <lido:eventWrap>
+         <lido:eventSet>
+            <lido:event>
+               <lido:eventType>
+                  <lido:conceptID lido:type="uri">https://event-types.museum-digital.org/9</lido:conceptID>
+                  <lido:term lido:addedSearchTerm="no">Gemalt</lido:term>
+               </lido:eventType>
+               <lido:eventDate>
+                  <lido:displayDate>Mai 1924</lido:displayDate>
+                  <lido:displayDate xml:lang="ar">05/1924</lido:displayDate>
+                  <lido:displayDate xml:lang="de">Mai 1924</lido:displayDate>
+                  <lido:displayDate xml:lang="en">May 1924</lido:displayDate>
+                  <lido:displayDate xml:lang="es">mayo 1924</lido:displayDate>
+                  <lido:displayDate xml:lang="fa">مه 1924</lido:displayDate>
+                  <lido:displayDate xml:lang="fr">mai 1924</lido:displayDate>
+                  <lido:displayDate xml:lang="hu">1924. május</lido:displayDate>
+                  <lido:displayDate xml:lang="id">Mei 1924</lido:displayDate>
+                  <lido:displayDate xml:lang="it">maggio 1924</lido:displayDate>
+                  <lido:displayDate xml:lang="ja">1924年05月</lido:displayDate>
+                  <lido:displayDate xml:lang="ka">მაისი 1924</lido:displayDate>
+                  <lido:displayDate xml:lang="ko">1924년 05월</lido:displayDate>
+                  <lido:displayDate xml:lang="pl">maj 1924</lido:displayDate>
+                  <lido:displayDate xml:lang="pt">maio 1924</lido:displayDate>
+                  <lido:displayDate xml:lang="ro">mai 1924</lido:displayDate>
+                  <lido:displayDate xml:lang="ru">Май 1924</lido:displayDate>
+                  <lido:displayDate xml:lang="ta">மே 1924</lido:displayDate>
+                  <lido:displayDate xml:lang="tl">Mayo 1924</lido:displayDate>
+                  <lido:displayDate xml:lang="tr">Mayıs 1924</lido:displayDate>
+                  <lido:displayDate xml:lang="zh">1924年05月</lido:displayDate>
+                  <lido:date>
+                     <lido:earliestDate>1924</lido:earliestDate>
+                     <lido:latestDate>1924</lido:latestDate>
+                  </lido:date>
+               </lido:eventDate>
+            </lido:event>
+         </lido:eventSet>
+         <lido:eventSet>
+            <lido:event>
+               <lido:eventType>
+                  <lido:conceptID lido:type="uri">http://terminology.lido-schema.org/lido00003</lido:conceptID>
+                  <lido:term>Event (non-specified)</lido:term>
+               </lido:eventType>
+               <lido:eventMaterialsTech>
+                  <lido:displayMaterialsTech>Gouache auf Karton auf Papier A4 aufgeklebt</lido:displayMaterialsTech>
+               </lido:eventMaterialsTech>
+            </lido:event>
+         </lido:eventSet>
+      </lido:eventWrap>
+      <lido:objectRelationWrap>
+         <lido:subjectWrap>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectPlace>
+                     <lido:displayPlace>Lychen</lido:displayPlace>
+                     <lido:displayPlace xml:lang="ar">لوشن (مدينة)</lido:displayPlace>
+                     <lido:displayPlace xml:lang="cs">Lychen</lido:displayPlace>
+                     <lido:displayPlace xml:lang="de">Lychen</lido:displayPlace>
+                     <lido:displayPlace xml:lang="en">Lychen</lido:displayPlace>
+                     <lido:displayPlace xml:lang="es">Lychen</lido:displayPlace>
+                     <lido:displayPlace xml:lang="fa">لوشن</lido:displayPlace>
+                     <lido:displayPlace xml:lang="fr">Lychen</lido:displayPlace>
+                     <lido:displayPlace xml:lang="hu">Lychen</lido:displayPlace>
+                     <lido:displayPlace xml:lang="it">Lychen</lido:displayPlace>
+                     <lido:displayPlace xml:lang="nl">Lychen</lido:displayPlace>
+                     <lido:displayPlace xml:lang="pl">Lychen</lido:displayPlace>
+                     <lido:displayPlace xml:lang="ro">Lychen</lido:displayPlace>
+                     <lido:displayPlace xml:lang="ru">Лихен</lido:displayPlace>
+                     <lido:displayPlace xml:lang="sv">Lychen</lido:displayPlace>
+                     <lido:displayPlace xml:lang="vi">Lychen</lido:displayPlace>
+                     <lido:displayPlace xml:lang="zh">利兴</lido:displayPlace>
+                     <lido:place>
+                        <lido:placeID lido:source="geonames" lido:type="uri">https://sws.geonames.org/2874695</lido:placeID>
+                        <lido:placeID lido:source="TGN" lido:type="uri">http://vocab.getty.edu/tgn/1037237</lido:placeID>
+                        <lido:placeID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4667513-9</lido:placeID>
+                        <lido:placeID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q635901</lido:placeID>
+                        <lido:placeID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/place/8286</lido:placeID>
+                        <lido:namePlaceSet>
+                           <lido:appellationValue>Lychen</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ar">لوشن (مدينة)</lido:appellationValue>
+                           <lido:appellationValue xml:lang="cs">Lychen</lido:appellationValue>
+                           <lido:appellationValue xml:lang="de">Lychen</lido:appellationValue>
+                           <lido:appellationValue xml:lang="en">Lychen</lido:appellationValue>
+                           <lido:appellationValue xml:lang="es">Lychen</lido:appellationValue>
+                           <lido:appellationValue xml:lang="fa">لوشن</lido:appellationValue>
+                           <lido:appellationValue xml:lang="fr">Lychen</lido:appellationValue>
+                           <lido:appellationValue xml:lang="hu">Lychen</lido:appellationValue>
+                           <lido:appellationValue xml:lang="it">Lychen</lido:appellationValue>
+                           <lido:appellationValue xml:lang="nl">Lychen</lido:appellationValue>
+                           <lido:appellationValue xml:lang="pl">Lychen</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ro">Lychen</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ru">Лихен</lido:appellationValue>
+                           <lido:appellationValue xml:lang="sv">Lychen</lido:appellationValue>
+                           <lido:appellationValue xml:lang="vi">Lychen</lido:appellationValue>
+                           <lido:appellationValue xml:lang="zh">利兴</lido:appellationValue>
+                        </lido:namePlaceSet>
+                        <lido:gml>
+                           <gml:Point xmlns:gml="http://www.opengis.net/gml" srsName="EPSG:4326">
+                              <gml:pos>53.203056335449 13.319444656372</gml:pos>
+                           </gml:Point>
+                        </lido:gml>
+                     </lido:place>
+                  </lido:subjectPlace>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="aat" lido:type="uri">http://vocab.getty.edu/aat/300008680</lido:conceptID>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4054084-4</lido:conceptID>
+                     <lido:conceptID lido:source="iconclass" lido:type="uri">http://iconclass.org/rkd/25H214/</lido:conceptID>
+                     <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh85074030</lido:conceptID>
+                     <lido:conceptID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q23397</lido:conceptID>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/See</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/272</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">See</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ar">بحيرة</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="bn">হ্রদ</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="cs">Jezero</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="da">Sø</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="de">See</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="el">λίμνη</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="en">Lake</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="es">Lago</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fa">دریاچه</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fi">Järvi</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fr">Lac</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="he">אגם</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hi">झील</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hu">tó</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="id">Danau</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="it">Lago</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ja">湖</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ka">ტბა</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ko">호수</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="nl">Meer</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pl">Jezioro</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pt">Lago</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ro">lac</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ru">озеро</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sv">Insjö</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sw">ziwa</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ta">ஏரி</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="th">ทะเลสาบ</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tl">Lawa</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tr">Göl</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ur">جھیل</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="vi">hồ</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="zh">湖泊</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="aat" lido:type="uri">http://vocab.getty.edu/aat/300015636</lido:conceptID>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4034343-1</lido:conceptID>
+                     <lido:conceptID lido:source="iconclass" lido:type="uri">http://iconclass.org/rkd/25HH/</lido:conceptID>
+                     <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh85074392</lido:conceptID>
+                     <lido:conceptID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q107425</lido:conceptID>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Landschaft</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/858</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Landschaft</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ar">منظر طبيعي</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="bn">ভূদৃশ্য</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="cs">krajina</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="da">landskab</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="de">Landschaft</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="el">τοπίο</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="en">Landscape</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="es">paisaje</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fa">چشم‌ انداز</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fi">maisema</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fr">paysage</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="he">נוף</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hi">भूदृश्य</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="id">Lanskap</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="it">paesaggio</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ja">ランドスケープ</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ka">ლანდშაფტი</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ko">경관</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="nl">landschap</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pl">krajobraz</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pt">paisagem</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ru">ландшафт</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sv">landskap</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ta">நிலத்தோற்றம்</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="th">ภูมิทัศน์</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tr">Peyzaj</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="vi">phong cảnh</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="zh">景观</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="aat" lido:type="uri">http://vocab.getty.edu/aat/300008389</lido:conceptID>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4056723-0</lido:conceptID>
+                     <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh85026130</lido:conceptID>
+                     <lido:conceptID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q515</lido:conceptID>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Stadt</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/7411</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Stadt</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ar">مدينة</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="bn">শহর</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="cs">Město</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="da">By</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="de">Stadt</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="el">πόλη</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="en">City</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="es">Ciudad</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fa">شهر</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fi">Kaupunki</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fr">Ville</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="he">עיר</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hi">शहर</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hu">város</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="id">Kota</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="it">Città</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ja">都市</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ka">ქალაქი</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ko">도시</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="nl">Stad</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pl">Miasto</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pt">Cidade</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ro">oraș</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ru">город</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sv">Stad</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sw">jiji</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ta">மாநகரம்</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="th">นคร</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tl">Lungsod</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tr">şehir</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ur">شہر</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="vi">thành phố</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="zh">城市</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+         </lido:subjectWrap>
+         <lido:relatedWorksWrap/>
+      </lido:objectRelationWrap>
+   </lido:descriptiveMetadata>
+   <lido:administrativeMetadata xml:lang="de">
+      <lido:rightsWorkWrap>
+         <lido:rightsWorkSet>
+            <lido:rightsHolder>
+               <lido:legalBodyName>
+                  <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:rightsHolder>
+         </lido:rightsWorkSet>
+      </lido:rightsWorkWrap>
+      <lido:recordWrap>
+         <lido:recordID lido:type="museum-digital">67232</lido:recordID>
+         <lido:recordType>
+            <lido:term lido:addedSearchTerm="no">item</lido:term>
+         </lido:recordType>
+         <lido:recordSource lido:type="dataProvider">
+            <lido:legalBodyName>
+               <lido:appellationValue>museum-digital</lido:appellationValue>
+            </lido:legalBodyName>
+            <lido:legalBodyWeblink>https://berlin.museum-digital.de/</lido:legalBodyWeblink>
+         </lido:recordSource>
+         <lido:recordSource>
+            <lido:legalBodyID lido:type="isil">DE-B185</lido:legalBodyID>
+            <lido:legalBodyName>
+               <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+            </lido:legalBodyName>
+         </lido:recordSource>
+         <lido:recordRights>
+            <lido:rightsType>
+               <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no">CC BY</lido:term>
+            </lido:rightsType>
+            <lido:rightsHolder>
+               <lido:legalBodyID lido:type="isil">DE-B185</lido:legalBodyID>
+               <lido:legalBodyName>
+                  <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+               </lido:legalBodyName>
+               <lido:legalBodyWeblink>http://geschichte-brandenburg.de/</lido:legalBodyWeblink>
+            </lido:rightsHolder>
+            <lido:creditLine>Förderprogramm zur Digitalisierung von Objekten des kulturellen Erbes des Landes Berlin</lido:creditLine>
+         </lido:recordRights>
+         <lido:recordInfoSet>
+            <lido:recordInfoLink>https://berlin.museum-digital.de/index.php?t=objekt&amp;oges=67232</lido:recordInfoLink>
+            <lido:recordMetadataDate>2021-04-27 07:59:53</lido:recordMetadataDate>
+         </lido:recordInfoSet>
+      </lido:recordWrap>
+      <lido:resourceWrap>
+         <lido:resourceSet lido:sortorder="1">
+            <lido:resourceID lido:source="image" lido:type="local">48814</lido:resourceID>
+            <lido:resourceRepresentation lido:type="masterfile">
+               <lido:linkResource lido:formatResource="image/tiff"/>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_thumb">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/202007/100h_lychen-kr-templin-hohenlychen-67232.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_preview">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/202007/200w_lychen-kr-templin-hohenlychen-67232.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/202007/lychen-kr-templin-hohenlychen-67232.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceType>
+               <lido:term lido:addedSearchTerm="no">image</lido:term>
+            </lido:resourceType>
+            <lido:resourceRelType>
+               <lido:term lido:addedSearchTerm="no">Hauptansicht</lido:term>
+            </lido:resourceRelType>
+            <lido:resourceDescription>Lychen (Kr. Templin): Hohenlychen</lido:resourceDescription>
+            <lido:resourceSource lido:type="creator">
+               <lido:legalBodyName>
+                  <lido:appellationValue>Thomas Voßbeck, 2020</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:resourceSource>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+                  <lido:term lido:addedSearchTerm="no">CC BY</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V.</lido:appellationValue>
+                  </lido:legalBodyName>
+               </lido:rightsHolder>
+               <lido:creditLine>Thomas Voßbeck, 2020</lido:creditLine>
+            </lido:rightsResource>
+         </lido:resourceSet>
+      </lido:resourceWrap>
+   </lido:administrativeMetadata>
+</lido:lido>
+

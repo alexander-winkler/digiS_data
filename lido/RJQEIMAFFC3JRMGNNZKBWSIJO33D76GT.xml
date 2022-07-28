@@ -1,0 +1,460 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lido:lido xmlns:lido="http://www.lido-schema.org"
+           xmlns:xalan="http://xml.apache.org/xalan">
+   <lido:lidoRecID lido:source="https://berlin.museum-digital.de/index.php?t=institution&amp;instnr=32"
+                   lido:type="local">DE-B185/66836</lido:lidoRecID>
+   <lido:category/>
+   <lido:descriptiveMetadata xml:lang="de">
+      <lido:objectClassificationWrap>
+         <lido:objectWorkTypeWrap>
+            <lido:objectWorkType>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Situationsplan</lido:term>
+            </lido:objectWorkType>
+         </lido:objectWorkTypeWrap>
+         <lido:classificationWrap>
+            <lido:classification lido:type="Sammlung">
+               <lido:conceptID lido:source="local" lido:type="collection_id">705</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Handzeichnungen, Druckgraphik, Gemälde</lido:term>
+            </lido:classification>
+            <lido:classification lido:type="Sammlung">
+               <lido:conceptID lido:source="local" lido:type="collection_id">728</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Sammelwerke</lido:term>
+            </lido:classification>
+            <lido:classification lido:type="Sammlung">
+               <lido:conceptID lido:source="local" lido:type="collection_id">729</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Erinnerungsalbum Franz Jordan</lido:term>
+            </lido:classification>
+         </lido:classificationWrap>
+      </lido:objectClassificationWrap>
+      <lido:objectIdentificationWrap>
+         <lido:titleWrap>
+            <lido:titleSet>
+               <lido:appellationValue lido:pref="preferred">Berlin-Schöneberg: Erfurter Straße, Lageplan der Grundstücke</lido:appellationValue>
+            </lido:titleSet>
+         </lido:titleWrap>
+         <lido:repositoryWrap>
+            <lido:repositorySet lido:type="current">
+               <lido:repositoryName>
+                  <lido:legalBodyID lido:type="isil">DE-B185</lido:legalBodyID>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+                  </lido:legalBodyName>
+                  <lido:legalBodyWeblink>http://geschichte-brandenburg.de/</lido:legalBodyWeblink>
+               </lido:repositoryName>
+               <lido:workID lido:type="inventory number">LGV-Archiv, C 12 E-60-GF, Bl. 11</lido:workID>
+               <lido:repositoryLocation>
+                  <lido:namePlaceSet>
+                     <lido:appellationValue>Berlin</lido:appellationValue>
+                  </lido:namePlaceSet>
+                  <lido:gml>
+                     <gml:Point xmlns:gml="http://www.opengis.net/gml" srsName="EPSG:4326">
+                        <gml:pos>52.51533127 13.40440559</gml:pos>
+                     </gml:Point>
+                  </lido:gml>
+               </lido:repositoryLocation>
+            </lido:repositorySet>
+         </lido:repositoryWrap>
+         <lido:objectDescriptionWrap>
+            <lido:objectDescriptionSet>
+               <lido:descriptiveNoteValue>Zeichnung von Franz Jordan, Ende 1945.&#xD;
+&#xD;
+Bez. mi. o. "Ungefährer Lageplan M. 1:1000 von den Grundstücken Erfurter - Str. Früher Mühlen-Str. in Schöneberg Kreis Teltow Jetzt Berlin-Schöneberg. (…..) Durch Feindeinwirkungen - Fliegerbomben zerstört." Re. u. signiert "Franz Jordan".</lido:descriptiveNoteValue>
+               <lido:sourceDescriptiveNote>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:sourceDescriptiveNote>
+            </lido:objectDescriptionSet>
+         </lido:objectDescriptionWrap>
+         <lido:objectMeasurementsWrap>
+            <lido:objectMeasurementsSet>
+               <lido:displayObjectMeasurements>Blattgröße: Höhe 32,2 cm Breite ca. 43 cm</lido:displayObjectMeasurements>
+               <lido:objectMeasurements/>
+            </lido:objectMeasurementsSet>
+         </lido:objectMeasurementsWrap>
+      </lido:objectIdentificationWrap>
+      <lido:eventWrap>
+         <lido:eventSet>
+            <lido:event>
+               <lido:eventType>
+                  <lido:conceptID lido:type="uri">https://event-types.museum-digital.org/1</lido:conceptID>
+                  <lido:term lido:addedSearchTerm="no">Hergestellt</lido:term>
+               </lido:eventType>
+               <lido:eventActor>
+                  <lido:displayActorInRole>Franz Jordan (Potsdam)</lido:displayActorInRole>
+                  <lido:actorInRole>
+                     <lido:actor>
+                        <lido:actorID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/persinst/124925</lido:actorID>
+                        <lido:nameActorSet>
+                           <lido:appellationValue>Jordan, Franz (Potsdam)</lido:appellationValue>
+                           <lido:appellationValue xml:lang="de">Franz Jordan (Potsdam)</lido:appellationValue>
+                        </lido:nameActorSet>
+                        <lido:vitalDatesActor>
+                           <lido:earliestDate/>
+                           <lido:latestDate/>
+                        </lido:vitalDatesActor>
+                     </lido:actor>
+                  </lido:actorInRole>
+               </lido:eventActor>
+               <lido:eventDate>
+                  <lido:displayDate>Nach 1945</lido:displayDate>
+                  <lido:displayDate xml:lang="ar">1945-</lido:displayDate>
+                  <lido:displayDate xml:lang="de">Nach 1945</lido:displayDate>
+                  <lido:displayDate xml:lang="en">After 1945</lido:displayDate>
+                  <lido:displayDate xml:lang="es">Despues de 1945</lido:displayDate>
+                  <lido:displayDate xml:lang="fa">1945-</lido:displayDate>
+                  <lido:displayDate xml:lang="fr">Après 1945</lido:displayDate>
+                  <lido:displayDate xml:lang="hu">1945-után</lido:displayDate>
+                  <lido:displayDate xml:lang="id">Setelah 1945</lido:displayDate>
+                  <lido:displayDate xml:lang="it">Dopo il 1945</lido:displayDate>
+                  <lido:displayDate xml:lang="ja">1945年以降</lido:displayDate>
+                  <lido:displayDate xml:lang="ka">1945 წლის შემდეგ</lido:displayDate>
+                  <lido:displayDate xml:lang="ko">1945년 년 이후</lido:displayDate>
+                  <lido:displayDate xml:lang="pl">Po 1945 r.</lido:displayDate>
+                  <lido:displayDate xml:lang="pt">Depois de 1945</lido:displayDate>
+                  <lido:displayDate xml:lang="ro">După 1945</lido:displayDate>
+                  <lido:displayDate xml:lang="ru">после 1945 г.</lido:displayDate>
+                  <lido:displayDate xml:lang="ta">1945  க்குப் பிறகு</lido:displayDate>
+                  <lido:displayDate xml:lang="tl">Pagkaraan ng 1945</lido:displayDate>
+                  <lido:displayDate xml:lang="tr">1945-</lido:displayDate>
+                  <lido:displayDate xml:lang="zh">1945年以后</lido:displayDate>
+                  <lido:date>
+                     <lido:earliestDate>1946</lido:earliestDate>
+                     <lido:latestDate>?</lido:latestDate>
+                  </lido:date>
+               </lido:eventDate>
+               <lido:eventPlace>
+                  <lido:displayPlace>Potsdam-Babelsberg</lido:displayPlace>
+                  <lido:displayPlace xml:lang="da">Babelsberg</lido:displayPlace>
+                  <lido:displayPlace xml:lang="de">Potsdam-Babelsberg</lido:displayPlace>
+                  <lido:displayPlace xml:lang="en">Babelsberg</lido:displayPlace>
+                  <lido:displayPlace xml:lang="es">Babelsberg</lido:displayPlace>
+                  <lido:displayPlace xml:lang="fa">بابلسبرگ</lido:displayPlace>
+                  <lido:displayPlace xml:lang="fr">Babelsberg</lido:displayPlace>
+                  <lido:displayPlace xml:lang="it">Babelsberg</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ja">バーベルスベルク</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ko">바벨스베르크</lido:displayPlace>
+                  <lido:displayPlace xml:lang="nl">Babelsberg</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ro">Babelsberg</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ru">Бабельсберг</lido:displayPlace>
+                  <lido:displayPlace xml:lang="sv">Potsdam-Babelsberg</lido:displayPlace>
+                  <lido:place>
+                     <lido:placeID lido:source="geonames" lido:type="uri">https://sws.geonames.org/2953775</lido:placeID>
+                     <lido:placeID lido:source="TGN" lido:type="uri">http://vocab.getty.edu/tgn/7012794</lido:placeID>
+                     <lido:placeID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4256237-5</lido:placeID>
+                     <lido:placeID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q797635</lido:placeID>
+                     <lido:placeID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/place/1702</lido:placeID>
+                     <lido:namePlaceSet>
+                        <lido:appellationValue>Potsdam-Babelsberg</lido:appellationValue>
+                        <lido:appellationValue xml:lang="da">Babelsberg</lido:appellationValue>
+                        <lido:appellationValue xml:lang="de">Potsdam-Babelsberg</lido:appellationValue>
+                        <lido:appellationValue xml:lang="en">Babelsberg</lido:appellationValue>
+                        <lido:appellationValue xml:lang="es">Babelsberg</lido:appellationValue>
+                        <lido:appellationValue xml:lang="fa">بابلسبرگ</lido:appellationValue>
+                        <lido:appellationValue xml:lang="fr">Babelsberg</lido:appellationValue>
+                        <lido:appellationValue xml:lang="it">Babelsberg</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ja">バーベルスベルク</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ko">바벨스베르크</lido:appellationValue>
+                        <lido:appellationValue xml:lang="nl">Babelsberg</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ro">Babelsberg</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ru">Бабельсберг</lido:appellationValue>
+                        <lido:appellationValue xml:lang="sv">Potsdam-Babelsberg</lido:appellationValue>
+                     </lido:namePlaceSet>
+                     <lido:gml>
+                        <gml:Point xmlns:gml="http://www.opengis.net/gml" srsName="EPSG:4326">
+                           <gml:pos>52.400001525879 13.10000038147</gml:pos>
+                        </gml:Point>
+                     </lido:gml>
+                  </lido:place>
+               </lido:eventPlace>
+            </lido:event>
+         </lido:eventSet>
+         <lido:eventSet>
+            <lido:event>
+               <lido:eventType>
+                  <lido:conceptID lido:type="uri">http://terminology.lido-schema.org/lido00003</lido:conceptID>
+                  <lido:term>Event (non-specified)</lido:term>
+               </lido:eventType>
+               <lido:eventMaterialsTech>
+                  <lido:displayMaterialsTech>Skribent in Schwarz und Rot, Buntstift auf Zeichenkarton (eingebunden)</lido:displayMaterialsTech>
+               </lido:eventMaterialsTech>
+            </lido:event>
+         </lido:eventSet>
+      </lido:eventWrap>
+      <lido:objectRelationWrap>
+         <lido:subjectWrap>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectPlace>
+                     <lido:displayPlace>Berlin-Schöneberg</lido:displayPlace>
+                     <lido:displayPlace xml:lang="da">Schöneberg</lido:displayPlace>
+                     <lido:displayPlace xml:lang="de">Berlin-Schöneberg</lido:displayPlace>
+                     <lido:displayPlace xml:lang="el">Σόνεμπεργκ</lido:displayPlace>
+                     <lido:displayPlace xml:lang="en">Berlin-Schöneberg</lido:displayPlace>
+                     <lido:displayPlace xml:lang="fa">شونبرگ</lido:displayPlace>
+                     <lido:displayPlace xml:lang="fi">Schöneberg</lido:displayPlace>
+                     <lido:displayPlace xml:lang="fr">Berlin-Schöneberg</lido:displayPlace>
+                     <lido:displayPlace xml:lang="he">שנברג</lido:displayPlace>
+                     <lido:displayPlace xml:lang="it">Berlino-Schöneberg</lido:displayPlace>
+                     <lido:displayPlace xml:lang="nl">Berlin-Schöneberg</lido:displayPlace>
+                     <lido:displayPlace xml:lang="pl">Schöneberg</lido:displayPlace>
+                     <lido:displayPlace xml:lang="ru">Шёнеберг</lido:displayPlace>
+                     <lido:displayPlace xml:lang="sv">Schöneberg</lido:displayPlace>
+                     <lido:displayPlace xml:lang="ur">شونبرگ</lido:displayPlace>
+                     <lido:displayPlace xml:lang="zh">舍嫩贝格</lido:displayPlace>
+                     <lido:place>
+                        <lido:placeID lido:source="geonames" lido:type="uri">https://sws.geonames.org/7290254</lido:placeID>
+                        <lido:placeID lido:source="TGN" lido:type="uri">http://vocab.getty.edu/tgn/1005565</lido:placeID>
+                        <lido:placeID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4106612-1</lido:placeID>
+                        <lido:placeID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q313189</lido:placeID>
+                        <lido:placeID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/place/727</lido:placeID>
+                        <lido:namePlaceSet>
+                           <lido:appellationValue>Berlin-Schöneberg</lido:appellationValue>
+                           <lido:appellationValue xml:lang="da">Schöneberg</lido:appellationValue>
+                           <lido:appellationValue xml:lang="de">Berlin-Schöneberg</lido:appellationValue>
+                           <lido:appellationValue xml:lang="el">Σόνεμπεργκ</lido:appellationValue>
+                           <lido:appellationValue xml:lang="en">Berlin-Schöneberg</lido:appellationValue>
+                           <lido:appellationValue xml:lang="fa">شونبرگ</lido:appellationValue>
+                           <lido:appellationValue xml:lang="fi">Schöneberg</lido:appellationValue>
+                           <lido:appellationValue xml:lang="fr">Berlin-Schöneberg</lido:appellationValue>
+                           <lido:appellationValue xml:lang="he">שנברג</lido:appellationValue>
+                           <lido:appellationValue xml:lang="it">Berlino-Schöneberg</lido:appellationValue>
+                           <lido:appellationValue xml:lang="nl">Berlin-Schöneberg</lido:appellationValue>
+                           <lido:appellationValue xml:lang="pl">Schöneberg</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ru">Шёнеберг</lido:appellationValue>
+                           <lido:appellationValue xml:lang="sv">Schöneberg</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ur">شونبرگ</lido:appellationValue>
+                           <lido:appellationValue xml:lang="zh">舍嫩贝格</lido:appellationValue>
+                        </lido:namePlaceSet>
+                        <lido:gml>
+                           <gml:Point xmlns:gml="http://www.opengis.net/gml" srsName="EPSG:4326">
+                              <gml:pos>52.483055114746 13.349721908569</gml:pos>
+                           </gml:Point>
+                        </lido:gml>
+                     </lido:place>
+                  </lido:subjectPlace>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">http://d-nb.info/gnd/4072147-4</lido:conceptID>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">http://de.wikipedia.org/wiki/Grundstück</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/12470</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Grundstück</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="aat" lido:type="uri">http://vocab.getty.edu/aat/300204022</lido:conceptID>
+                     <lido:conceptID lido:source="grobsystematik" lido:type="uri">https://term.museum-digital.de/grobsystematik/tag/3322</lido:conceptID>
+                     <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh85015477</lido:conceptID>
+                     <lido:conceptID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q1137468</lido:conceptID>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Fliegerbombe</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/14991</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Fliegerbombe</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="cs">Letecká puma</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="da">Flybombe</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="de">Fliegerbombe</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="en">Aerial bomb</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fi">Lentopommi</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fr">Bombe aérienne</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="id">Aerial Bom</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="it">Bomba aeronautica</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ja">航空機搭載爆弾</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ka">საავიაციო ბომბი</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ko">항공기 탑재 폭탄</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="nl">Vliegtuigbom</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pl">Bomba lotnicza</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ro">Bombă de aviație</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ru">авиационная бомба</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sv">Flygbomb</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tr">Uçaktan atılan bomba</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="vi">Bom trên không</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="zh">航空炸弹</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="aat" lido:type="uri">http://vocab.getty.edu/aat/300033973</lido:conceptID>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4127900-1</lido:conceptID>
+                     <lido:conceptID lido:source="iconclass" lido:type="uri">http://iconclass.org/rkd/48C524/</lido:conceptID>
+                     <lido:conceptID lido:source="lcsh" lido:type="uri">https://id.loc.gov/authorities/subjects/sh85039408</lido:conceptID>
+                     <lido:conceptID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/w/index.php?search=&amp;search=Q93184</lido:conceptID>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Zeichnung_(Kunst)</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/20970</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Zeichnung</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ar">رسم</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="bn">অঙ্কন</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="cs">Kresba</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="da">Tegning</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="de">Zeichnung</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="el">σχέδιο</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="en">Drawing</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="es">Dibujo</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fa">رسم</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fi">Piirustus</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fr">Dessin</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="he">רישום</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hi">रेखाचित्र</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hu">rajz</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="id">Gambar</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="it">Disegno</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ja">デッサン</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ka">ნახატი</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ko">소묘</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="nl">Tekening</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pl">Rysunek</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pt">Desenho</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ro">desen</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ru">рисунок</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sv">Teckning</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ta">வரைதல்</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="th">การวาดเส้น</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tl">Pagguhit</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tr">Çizim</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="vi">vẽ</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="zh">素描</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4079167-1</lido:conceptID>
+                     <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh85148273</lido:conceptID>
+                     <lido:conceptID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q362</lido:conceptID>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Zweiter_Weltkrieg</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/41629</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Zweiter Weltkrieg</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ar">الحرب العالمية الثانية</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="bn">দ্বিতীয় বিশ্বযুদ্ধ</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="cs">Druhá světová válka</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="da">2. verdenskrig</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="de">Zweiter Weltkrieg</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="el">Β΄ Παγκόσμιος Πόλεμος</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="en">World War II</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="es">Segunda Guerra Mundial</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fa">جنگ جهانی دوم</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fi">Toinen maailmansota</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fr">Seconde Guerre mondiale</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ha">Yakin Duniya na II</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="he">מלחמת העולם השנייה</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hi">द्वितीय विश्वयुद्ध</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hu">második világháború</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="id">Perang Dunia II</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="it">Seconda guerra mondiale</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ja">第二次世界大戦</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ka">მეორე მსოფლიო ომი</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ko">제2차 세계 대전</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="nl">Tweede Wereldoorlog</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pl">II wojna światowa</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pt">Segunda Guerra Mundial</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ro">Al Doilea Război Mondial</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ru">Вторая мировая война</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sv">Andra världskriget</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sw">Vita Kuu ya Pili ya Dunia</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ta">இரண்டாம் உலகப் போர்</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="th">สงครามโลกครั้งที่สอง</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tl">Ikalawang Digmaang Pandaigdig</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tr">II. Dünya Savaşı</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ur">دوسری جنگ عظیم</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="vi">Chiến tranh thế giới thứ hai</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="zh">第二次世界大战</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+         </lido:subjectWrap>
+         <lido:relatedWorksWrap/>
+      </lido:objectRelationWrap>
+   </lido:descriptiveMetadata>
+   <lido:administrativeMetadata xml:lang="de">
+      <lido:rightsWorkWrap>
+         <lido:rightsWorkSet>
+            <lido:rightsHolder>
+               <lido:legalBodyName>
+                  <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:rightsHolder>
+         </lido:rightsWorkSet>
+      </lido:rightsWorkWrap>
+      <lido:recordWrap>
+         <lido:recordID lido:type="museum-digital">66836</lido:recordID>
+         <lido:recordType>
+            <lido:term lido:addedSearchTerm="no">item</lido:term>
+         </lido:recordType>
+         <lido:recordSource lido:type="dataProvider">
+            <lido:legalBodyName>
+               <lido:appellationValue>museum-digital</lido:appellationValue>
+            </lido:legalBodyName>
+            <lido:legalBodyWeblink>https://berlin.museum-digital.de/</lido:legalBodyWeblink>
+         </lido:recordSource>
+         <lido:recordSource>
+            <lido:legalBodyID lido:type="isil">DE-B185</lido:legalBodyID>
+            <lido:legalBodyName>
+               <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+            </lido:legalBodyName>
+         </lido:recordSource>
+         <lido:recordRights>
+            <lido:rightsType>
+               <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no">CC BY</lido:term>
+            </lido:rightsType>
+            <lido:rightsHolder>
+               <lido:legalBodyID lido:type="isil">DE-B185</lido:legalBodyID>
+               <lido:legalBodyName>
+                  <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+               </lido:legalBodyName>
+               <lido:legalBodyWeblink>http://geschichte-brandenburg.de/</lido:legalBodyWeblink>
+            </lido:rightsHolder>
+            <lido:creditLine>Förderprogramm zur Digitalisierung von Objekten des kulturellen Erbes des Landes Berlin</lido:creditLine>
+         </lido:recordRights>
+         <lido:recordInfoSet>
+            <lido:recordInfoLink>https://berlin.museum-digital.de/index.php?t=objekt&amp;oges=66836</lido:recordInfoLink>
+            <lido:recordMetadataDate>2021-04-27 07:59:56</lido:recordMetadataDate>
+         </lido:recordInfoSet>
+      </lido:recordWrap>
+      <lido:resourceWrap>
+         <lido:resourceSet lido:sortorder="1">
+            <lido:resourceID lido:source="image" lido:type="local">48423</lido:resourceID>
+            <lido:resourceRepresentation lido:type="masterfile">
+               <lido:linkResource lido:formatResource="image/tiff"/>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_thumb">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/202007/100h_berlin-schoeneberg-erfurter-straSse-lageplan-der-grundstuecke-66836.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_preview">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/202007/200w_berlin-schoeneberg-erfurter-straSse-lageplan-der-grundstuecke-66836.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/202007/berlin-schoeneberg-erfurter-straSse-lageplan-der-grundstuecke-66836.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceType>
+               <lido:term lido:addedSearchTerm="no">image</lido:term>
+            </lido:resourceType>
+            <lido:resourceRelType>
+               <lido:term lido:addedSearchTerm="no">Hauptansicht</lido:term>
+            </lido:resourceRelType>
+            <lido:resourceDescription>Berlin-Schöneberg: Erfurter Straße, Lageplan der Grundstücke</lido:resourceDescription>
+            <lido:resourceSource lido:type="creator">
+               <lido:legalBodyName>
+                  <lido:appellationValue>Thomas Voßbeck, 2020</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:resourceSource>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+                  <lido:term lido:addedSearchTerm="no">CC BY</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V.</lido:appellationValue>
+                  </lido:legalBodyName>
+               </lido:rightsHolder>
+               <lido:creditLine>Thomas Voßbeck, 2020</lido:creditLine>
+            </lido:rightsResource>
+         </lido:resourceSet>
+      </lido:resourceWrap>
+   </lido:administrativeMetadata>
+</lido:lido>
+

@@ -1,0 +1,489 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lido:lido xmlns:lido="http://www.lido-schema.org"
+           xmlns:xalan="http://xml.apache.org/xalan">
+   <lido:lidoRecID lido:source="https://berlin.museum-digital.de/index.php?t=institution&amp;instnr=32"
+                   lido:type="local">DE-B185/67108</lido:lidoRecID>
+   <lido:category/>
+   <lido:descriptiveMetadata xml:lang="de">
+      <lido:objectClassificationWrap>
+         <lido:objectWorkTypeWrap>
+            <lido:objectWorkType>
+               <lido:conceptID lido:source="gnd" lido:type="uri">http://d-nb.info/gnd/4021845-4</lido:conceptID>
+               <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/13314</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Druckgraphik</lido:term>
+            </lido:objectWorkType>
+         </lido:objectWorkTypeWrap>
+         <lido:classificationWrap>
+            <lido:classification lido:type="Sammlung">
+               <lido:conceptID lido:source="local" lido:type="collection_id">705</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Handzeichnungen, Druckgraphik, Gemälde</lido:term>
+            </lido:classification>
+            <lido:classification lido:type="Sammlung">
+               <lido:conceptID lido:source="local" lido:type="collection_id">706</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Ansichten</lido:term>
+            </lido:classification>
+         </lido:classificationWrap>
+      </lido:objectClassificationWrap>
+      <lido:objectIdentificationWrap>
+         <lido:titleWrap>
+            <lido:titleSet>
+               <lido:appellationValue lido:pref="preferred">Dahme (Kr. Jüterbog-Luckenwalde): Schloss</lido:appellationValue>
+            </lido:titleSet>
+         </lido:titleWrap>
+         <lido:repositoryWrap>
+            <lido:repositorySet lido:type="current">
+               <lido:repositoryName>
+                  <lido:legalBodyID lido:type="isil">DE-B185</lido:legalBodyID>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+                  </lido:legalBodyName>
+                  <lido:legalBodyWeblink>http://geschichte-brandenburg.de/</lido:legalBodyWeblink>
+               </lido:repositoryName>
+               <lido:workID lido:type="inventory number">LGV-Archiv, C 12 G-4-036</lido:workID>
+               <lido:repositoryLocation>
+                  <lido:namePlaceSet>
+                     <lido:appellationValue>Berlin</lido:appellationValue>
+                  </lido:namePlaceSet>
+                  <lido:gml>
+                     <gml:Point xmlns:gml="http://www.opengis.net/gml" srsName="EPSG:4326">
+                        <gml:pos>52.51533127 13.40440559</gml:pos>
+                     </gml:Point>
+                  </lido:gml>
+               </lido:repositoryLocation>
+            </lido:repositorySet>
+         </lido:repositoryWrap>
+         <lido:objectDescriptionWrap>
+            <lido:objectDescriptionSet>
+               <lido:descriptiveNoteValue>Das hier dargestellte Dahmer Schloss hatte damals wechselnde private Besitzer, da es jedoch für private Bedürfnisse überdimensioniert war, erfolgten rasche Wechsel. Es handelt sich um die 1713/14 unter Einbeziehung älterer Teile errichtete repräsentative Nebenresidenz der Herzöge von Sachsen-Weißenfels, ein Frühwerk des zu Unrecht wenig bekannten Baumeister Johann Christoph Schütze. Es ist als Ruine erhalten. Bei der Darstellung des Teiches rechts vorn handelt es sich um später zugeschüttete Reste des ehemaligen Burggrabens um die alte Burg. Die Ummauerung des Schlosses ist bezeugt, allerdings mit einer Toreinfahrt. Ein Denkmal mit einem Adler ist an dieser Stelle nicht bekannt und vermutlich eher ein Bildzeichen für die seit 1815 unter preußischer Herrschaft stehende ehemalige sächsische Residenz. Zwei Adler-Reliefs an den Torflügeln des Hauptportals mögen hierfür inspirierend gewirkt haben.&#xD;
+Die Gesamtansicht des Dahmer Schlosses stammt ebenso wie die in der Sammlung vorhandene Stadtansicht von einem künstlerisch nicht sehr begabten anonymen Lithographen, der wohl eine bereits vorhandene Ansicht nutzte und auch in der Ausführung und in den Details mitunter Proportionen verzerrte. Angesichts der nicht mehr überlieferten Vorlage und der Seltenheit von Dahmer Ansichten aus der Zeit vor der Fotografie ist das Blatt dennoch von historischem Interesse. Es erschien im Jahrgang 1833 der Monatsschrift "Sächsischer Trompeter" (nach S. 153), die in Meißen herausgegeben wurde.&#xD;
+&#xD;
+Bez. unter der Darstellung mi. "Das Schloss zu Dahme."&#xD;
+Altbestand des Archivs.&#xD;
+&#xD;
+Literatur: Iris Berndt: Märkische Ansichten. Die Provinz Brandenburg im Bild der Druckgraphik 1550-1850. Berlin 2007, Nr. 667.</lido:descriptiveNoteValue>
+               <lido:sourceDescriptiveNote>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:sourceDescriptiveNote>
+            </lido:objectDescriptionSet>
+         </lido:objectDescriptionWrap>
+         <lido:objectMeasurementsWrap>
+            <lido:objectMeasurementsSet>
+               <lido:displayObjectMeasurements>Blattgröße: Höhe 16,2 cm, Breite 19,8 cm, Bildgröße: 12,2 cm, Breite 16 cm</lido:displayObjectMeasurements>
+               <lido:objectMeasurements/>
+            </lido:objectMeasurementsSet>
+         </lido:objectMeasurementsWrap>
+      </lido:objectIdentificationWrap>
+      <lido:eventWrap>
+         <lido:eventSet>
+            <lido:event>
+               <lido:eventType>
+                  <lido:conceptID lido:type="uri">https://event-types.museum-digital.org/1</lido:conceptID>
+                  <lido:term lido:addedSearchTerm="no">Hergestellt</lido:term>
+               </lido:eventType>
+               <lido:eventDate>
+                  <lido:displayDate>1833</lido:displayDate>
+                  <lido:displayDate xml:lang="ar">1833</lido:displayDate>
+                  <lido:displayDate xml:lang="de">1833</lido:displayDate>
+                  <lido:displayDate xml:lang="en">1833</lido:displayDate>
+                  <lido:displayDate xml:lang="es">1833</lido:displayDate>
+                  <lido:displayDate xml:lang="fa">1833</lido:displayDate>
+                  <lido:displayDate xml:lang="fr">1833</lido:displayDate>
+                  <lido:displayDate xml:lang="hu">1833</lido:displayDate>
+                  <lido:displayDate xml:lang="id">1833</lido:displayDate>
+                  <lido:displayDate xml:lang="it">1833</lido:displayDate>
+                  <lido:displayDate xml:lang="ja">1833年</lido:displayDate>
+                  <lido:displayDate xml:lang="ka">1833</lido:displayDate>
+                  <lido:displayDate xml:lang="ko">1833년</lido:displayDate>
+                  <lido:displayDate xml:lang="pl">1833</lido:displayDate>
+                  <lido:displayDate xml:lang="pt">1833</lido:displayDate>
+                  <lido:displayDate xml:lang="ro">1833</lido:displayDate>
+                  <lido:displayDate xml:lang="ru">1833</lido:displayDate>
+                  <lido:displayDate xml:lang="ta">1833</lido:displayDate>
+                  <lido:displayDate xml:lang="tl">1833</lido:displayDate>
+                  <lido:displayDate xml:lang="tr">1833</lido:displayDate>
+                  <lido:displayDate xml:lang="zh">1833年</lido:displayDate>
+                  <lido:date>
+                     <lido:earliestDate>1833</lido:earliestDate>
+                     <lido:latestDate>1833</lido:latestDate>
+                  </lido:date>
+               </lido:eventDate>
+            </lido:event>
+         </lido:eventSet>
+         <lido:eventSet>
+            <lido:event>
+               <lido:eventType>
+                  <lido:conceptID lido:type="uri">http://terminology.lido-schema.org/lido00003</lido:conceptID>
+                  <lido:term>Event (non-specified)</lido:term>
+               </lido:eventType>
+               <lido:eventMaterialsTech>
+                  <lido:displayMaterialsTech>Lithographie auf dünnem Bütten</lido:displayMaterialsTech>
+               </lido:eventMaterialsTech>
+            </lido:event>
+         </lido:eventSet>
+      </lido:eventWrap>
+      <lido:objectRelationWrap>
+         <lido:subjectWrap>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectPlace>
+                     <lido:displayPlace>Dahme/Mark</lido:displayPlace>
+                     <lido:displayPlace xml:lang="ar">دامه برندنبورغ</lido:displayPlace>
+                     <lido:displayPlace xml:lang="da">Dahme i Brandenburg</lido:displayPlace>
+                     <lido:displayPlace xml:lang="de">Dahme/Mark</lido:displayPlace>
+                     <lido:displayPlace xml:lang="en">Dahme/Mark</lido:displayPlace>
+                     <lido:displayPlace xml:lang="es">Dahme/Mark</lido:displayPlace>
+                     <lido:displayPlace xml:lang="fa">دامه، برندنبورگ</lido:displayPlace>
+                     <lido:displayPlace xml:lang="fr">Dahme/Mark</lido:displayPlace>
+                     <lido:displayPlace xml:lang="hu">Dahme/Mark</lido:displayPlace>
+                     <lido:displayPlace xml:lang="it">Dahme/Mark</lido:displayPlace>
+                     <lido:displayPlace xml:lang="nl">Dahme/Mark</lido:displayPlace>
+                     <lido:displayPlace xml:lang="pl">Dahme/Mark</lido:displayPlace>
+                     <lido:displayPlace xml:lang="ro">Dahme/Mark</lido:displayPlace>
+                     <lido:displayPlace xml:lang="ru">Даме</lido:displayPlace>
+                     <lido:displayPlace xml:lang="sv">Dahme/Mark</lido:displayPlace>
+                     <lido:displayPlace xml:lang="tr">Dahme/Mark</lido:displayPlace>
+                     <lido:displayPlace xml:lang="vi">Dahme</lido:displayPlace>
+                     <lido:displayPlace xml:lang="zh">達默</lido:displayPlace>
+                     <lido:place>
+                        <lido:placeID lido:source="geonames" lido:type="uri">https://sws.geonames.org/2939388</lido:placeID>
+                        <lido:placeID lido:source="TGN" lido:type="uri">http://vocab.getty.edu/tgn/1036579</lido:placeID>
+                        <lido:placeID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4010903-3</lido:placeID>
+                        <lido:placeID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q622572</lido:placeID>
+                        <lido:placeID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/place/5216</lido:placeID>
+                        <lido:namePlaceSet>
+                           <lido:appellationValue>Dahme/Mark</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ar">دامه برندنبورغ</lido:appellationValue>
+                           <lido:appellationValue xml:lang="da">Dahme i Brandenburg</lido:appellationValue>
+                           <lido:appellationValue xml:lang="de">Dahme/Mark</lido:appellationValue>
+                           <lido:appellationValue xml:lang="en">Dahme/Mark</lido:appellationValue>
+                           <lido:appellationValue xml:lang="es">Dahme/Mark</lido:appellationValue>
+                           <lido:appellationValue xml:lang="fa">دامه، برندنبورگ</lido:appellationValue>
+                           <lido:appellationValue xml:lang="fr">Dahme/Mark</lido:appellationValue>
+                           <lido:appellationValue xml:lang="hu">Dahme/Mark</lido:appellationValue>
+                           <lido:appellationValue xml:lang="it">Dahme/Mark</lido:appellationValue>
+                           <lido:appellationValue xml:lang="nl">Dahme/Mark</lido:appellationValue>
+                           <lido:appellationValue xml:lang="pl">Dahme/Mark</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ro">Dahme/Mark</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ru">Даме</lido:appellationValue>
+                           <lido:appellationValue xml:lang="sv">Dahme/Mark</lido:appellationValue>
+                           <lido:appellationValue xml:lang="tr">Dahme/Mark</lido:appellationValue>
+                           <lido:appellationValue xml:lang="vi">Dahme</lido:appellationValue>
+                           <lido:appellationValue xml:lang="zh">達默</lido:appellationValue>
+                        </lido:namePlaceSet>
+                        <lido:gml>
+                           <gml:Point xmlns:gml="http://www.opengis.net/gml" srsName="EPSG:4326">
+                              <gml:pos>51.866664886475 13.433055877686</gml:pos>
+                           </gml:Point>
+                        </lido:gml>
+                     </lido:place>
+                  </lido:subjectPlace>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="aat" lido:type="uri">http://vocab.getty.edu/aat/300015571</lido:conceptID>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">http://d-nb.info/gnd/4126697-3</lido:conceptID>
+                     <lido:conceptID lido:source="iconclass" lido:type="uri">http://iconclass.org/rkd/25II1/</lido:conceptID>
+                     <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/vocabulary/graphicMaterials/tgm002111</lido:conceptID>
+                     <lido:conceptID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q1935974</lido:conceptID>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Stadtlandschaft_(Malerei)</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/66</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Stadtansicht</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="da">Bylandskabsbillede</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="de">Stadtansicht</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="en">Cityscape</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="es">Paisaje urbano</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fr">Paysage urbain</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="id">Cityscape (seni)</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="nl">Stadsgezicht</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ru">городской пейзаж</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sv">Stadsbild</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="aat" lido:type="uri">http://vocab.getty.edu/aat/300006958</lido:conceptID>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4011453-3</lido:conceptID>
+                     <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh85087089</lido:conceptID>
+                     <lido:conceptID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q4989906</lido:conceptID>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Denkmal_(Gedenken)</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/890</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Denkmal</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ar">معلم تذكاري</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="bn">সৌধ</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="cs">Pomník</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="da">Monument</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="de">Denkmal</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="el">μνημείο</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="en">Monument</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="es">Monumento</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fa">یادمانی</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fi">Monumentti</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fr">Monument</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="he">מונומנט</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hi">स्मारक</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hu">emlékmű</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="id">Monumen</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="it">Monumento</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ja">モニュメント</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ko">기념물</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="nl">Gedenkmonument</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pl">Pomnik</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pt">Monumento</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ro">monument</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ru">памятник</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sv">Minnesmärke</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ta">நினைவுச் சின்னம்</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="th">อนุสรณ์สถาน</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tr">Anıt</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="vi">di tích</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="zh">紀念建築物</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4050934-5</lido:conceptID>
+                     <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh85115792</lido:conceptID>
+                     <lido:conceptID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q109607</lido:conceptID>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Ruine</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/1737</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Ruine</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ar">أنقاض</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="cs">Zřícenina</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="da">Ruin</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="de">Ruine</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="el">ερείπια</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="en">Ruins</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="es">Ruina</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fa">ویرانه</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fi">Raunio</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fr">Ruine</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hi">खंडहर</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hu">rom</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="it">Rovine</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ja">廃墟</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ko">폐허</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="nl">Ruïne</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pl">Ruiny</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pt">Ruína</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ro">Ruină</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ru">руины</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sv">Ruin</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sw">Gofu</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ur">کھنڈر</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="zh">廢墟</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="aat" lido:type="uri">http://vocab.getty.edu/aat/300250049</lido:conceptID>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4141431-7</lido:conceptID>
+                     <lido:conceptID lido:source="iconclass" lido:type="uri">http://iconclass.org/rkd/25F33(EAGLE)/</lido:conceptID>
+                     <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh85040377</lido:conceptID>
+                     <lido:conceptID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q2092297</lido:conceptID>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Adler_(Biologie)</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/2393</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Adler</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ar">عقاب</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="bn">ঈগল</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="cs">Orel</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="da">ørn</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="de">Adler</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="el">Αετός</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="en">Eagle</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="es">águila</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fa">عقاب</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fi">Kotkat</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fr">Aigle</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ha">Shaho</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="he">עיט</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hi">महाश्येन</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hu">sas</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="id">Elang</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="it">Aquila</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ja">鷲</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ka">არწივი</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ko">수리</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="nl">Arend</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pl">Orzeł</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pt">águia</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ro">Vultur</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ru">орлы</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sv">örnar</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sw">Tai</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ta">கழுகு</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="th">อินทรี</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tl">Agila</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tr">Kartal</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ur">عقاب</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="vi">đại bàng</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="zh">鹰</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">http://d-nb.info/gnd/4134177-6</lido:conceptID>
+                     <lido:conceptID lido:source="iconclass" lido:type="uri">http://iconclass.org/rkd/25H2143/</lido:conceptID>
+                     <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh85104792</lido:conceptID>
+                     <lido:conceptID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q85842470</lido:conceptID>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Teich</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/7528</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Teich</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="de">Teich</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4021845-4</lido:conceptID>
+                     <lido:conceptID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q1027879</lido:conceptID>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">https://en.wikipedia.org/wiki/Graphics</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/13314</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Druckgraphik</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ar">رسوميات</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="bn">গ্রাফিক্স</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="cs">Grafika</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="de">Druckgraphik</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="el">Γραφικά</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="en">Graphics</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="es">gráficos</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fa">ارتباط تصویری</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fr">Graphique</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="he">גרפיקה</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hi">चित्रालेख</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hu">Grafika</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="id">Grafika</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ja">グラフィック</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ka">გრაფიკა</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ko">그래픽</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="nl">Grafiek</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pl">Grafika</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pt">Gráfico</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ro">grafică</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ru">графика</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ta">வரைகலை</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tr">Grafik</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ur">تخطیط</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="zh">图形</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/72817</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Schloss</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+         </lido:subjectWrap>
+         <lido:relatedWorksWrap>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:displayObject>Vom selben Künstler ist noch eine Gesamtansicht von Dahme/Mark in der Sammlung.</lido:displayObject>
+                  <lido:object>
+                     <lido:objectWebResource>https://berlin.museum-digital.de/index.php?t=objekt&amp;oges=67107</lido:objectWebResource>
+                  </lido:object>
+               </lido:relatedWork>
+            </lido:relatedWorkSet>
+         </lido:relatedWorksWrap>
+      </lido:objectRelationWrap>
+   </lido:descriptiveMetadata>
+   <lido:administrativeMetadata xml:lang="de">
+      <lido:rightsWorkWrap>
+         <lido:rightsWorkSet>
+            <lido:rightsHolder>
+               <lido:legalBodyName>
+                  <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:rightsHolder>
+         </lido:rightsWorkSet>
+      </lido:rightsWorkWrap>
+      <lido:recordWrap>
+         <lido:recordID lido:type="museum-digital">67108</lido:recordID>
+         <lido:recordType>
+            <lido:term lido:addedSearchTerm="no">item</lido:term>
+         </lido:recordType>
+         <lido:recordSource lido:type="dataProvider">
+            <lido:legalBodyName>
+               <lido:appellationValue>museum-digital</lido:appellationValue>
+            </lido:legalBodyName>
+            <lido:legalBodyWeblink>https://berlin.museum-digital.de/</lido:legalBodyWeblink>
+         </lido:recordSource>
+         <lido:recordSource>
+            <lido:legalBodyID lido:type="isil">DE-B185</lido:legalBodyID>
+            <lido:legalBodyName>
+               <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+            </lido:legalBodyName>
+         </lido:recordSource>
+         <lido:recordRights>
+            <lido:rightsType>
+               <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no">CC BY</lido:term>
+            </lido:rightsType>
+            <lido:rightsHolder>
+               <lido:legalBodyID lido:type="isil">DE-B185</lido:legalBodyID>
+               <lido:legalBodyName>
+                  <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+               </lido:legalBodyName>
+               <lido:legalBodyWeblink>http://geschichte-brandenburg.de/</lido:legalBodyWeblink>
+            </lido:rightsHolder>
+            <lido:creditLine>Förderprogramm zur Digitalisierung von Objekten des kulturellen Erbes des Landes Berlin</lido:creditLine>
+         </lido:recordRights>
+         <lido:recordInfoSet>
+            <lido:recordInfoLink>https://berlin.museum-digital.de/index.php?t=objekt&amp;oges=67108</lido:recordInfoLink>
+            <lido:recordMetadataDate>2021-04-27 07:59:54</lido:recordMetadataDate>
+         </lido:recordInfoSet>
+      </lido:recordWrap>
+      <lido:resourceWrap>
+         <lido:resourceSet lido:sortorder="1">
+            <lido:resourceID lido:source="image" lido:type="local">48691</lido:resourceID>
+            <lido:resourceRepresentation lido:type="masterfile">
+               <lido:linkResource lido:formatResource="image/tiff"/>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_thumb">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/202007/100h_dahme-kr-jueterbog-luckenwalde-schloss-67108.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_preview">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/202007/200w_dahme-kr-jueterbog-luckenwalde-schloss-67108.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/202007/dahme-kr-jueterbog-luckenwalde-schloss-67108.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceType>
+               <lido:term lido:addedSearchTerm="no">image</lido:term>
+            </lido:resourceType>
+            <lido:resourceRelType>
+               <lido:term lido:addedSearchTerm="no">Hauptansicht</lido:term>
+            </lido:resourceRelType>
+            <lido:resourceDescription>Dahme (Kr. Jüterbog-Luckenwalde): Schloss</lido:resourceDescription>
+            <lido:resourceSource lido:type="creator">
+               <lido:legalBodyName>
+                  <lido:appellationValue>Thomas Voßbeck, 2020</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:resourceSource>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+                  <lido:term lido:addedSearchTerm="no">CC BY</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V.</lido:appellationValue>
+                  </lido:legalBodyName>
+               </lido:rightsHolder>
+               <lido:creditLine>Thomas Voßbeck, 2020</lido:creditLine>
+            </lido:rightsResource>
+         </lido:resourceSet>
+      </lido:resourceWrap>
+   </lido:administrativeMetadata>
+</lido:lido>
+

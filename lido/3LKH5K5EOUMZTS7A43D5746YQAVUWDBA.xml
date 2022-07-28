@@ -1,0 +1,405 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lido:lido xmlns:lido="http://www.lido-schema.org"
+           xmlns:xalan="http://xml.apache.org/xalan">
+   <lido:lidoRecID lido:source="https://berlin.museum-digital.de/index.php?t=institution&amp;instnr=32"
+                   lido:type="local">DE-B185/67175</lido:lidoRecID>
+   <lido:category/>
+   <lido:descriptiveMetadata xml:lang="de">
+      <lido:objectClassificationWrap>
+         <lido:objectWorkTypeWrap>
+            <lido:objectWorkType>
+               <lido:conceptID lido:source="gnd" lido:type="uri">http://d-nb.info/gnd/4021845-4</lido:conceptID>
+               <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/13314</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Druckgraphik</lido:term>
+            </lido:objectWorkType>
+         </lido:objectWorkTypeWrap>
+         <lido:classificationWrap>
+            <lido:classification lido:type="Sammlung">
+               <lido:conceptID lido:source="local" lido:type="collection_id">705</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Handzeichnungen, Druckgraphik, Gemälde</lido:term>
+            </lido:classification>
+            <lido:classification lido:type="Sammlung">
+               <lido:conceptID lido:source="local" lido:type="collection_id">706</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Ansichten</lido:term>
+            </lido:classification>
+            <lido:classification lido:type="Sammlung">
+               <lido:conceptID lido:source="local" lido:type="collection_id">709</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Sonstige Länder</lido:term>
+            </lido:classification>
+         </lido:classificationWrap>
+      </lido:objectClassificationWrap>
+      <lido:objectIdentificationWrap>
+         <lido:titleWrap>
+            <lido:titleSet>
+               <lido:appellationValue lido:pref="preferred">Königstein (Sachsen): Festung, Brunnen</lido:appellationValue>
+            </lido:titleSet>
+         </lido:titleWrap>
+         <lido:repositoryWrap>
+            <lido:repositorySet lido:type="current">
+               <lido:repositoryName>
+                  <lido:legalBodyID lido:type="isil">DE-B185</lido:legalBodyID>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+                  </lido:legalBodyName>
+                  <lido:legalBodyWeblink>http://geschichte-brandenburg.de/</lido:legalBodyWeblink>
+               </lido:repositoryName>
+               <lido:workID lido:type="inventory number">LGV-Archiv, C 12 G-4-096</lido:workID>
+               <lido:repositoryLocation>
+                  <lido:namePlaceSet>
+                     <lido:appellationValue>Berlin</lido:appellationValue>
+                  </lido:namePlaceSet>
+                  <lido:gml>
+                     <gml:Point xmlns:gml="http://www.opengis.net/gml" srsName="EPSG:4326">
+                        <gml:pos>52.51533127 13.40440559</gml:pos>
+                     </gml:Point>
+                  </lido:gml>
+               </lido:repositoryLocation>
+            </lido:repositorySet>
+         </lido:repositoryWrap>
+         <lido:objectDescriptionWrap>
+            <lido:objectDescriptionSet>
+               <lido:descriptiveNoteValue>Das Blatt enthält zwei Darstellungen aus dem Inneren des Brunnenhauses der Burg Königstein nebeneinander, links den Brunnen, daneben das Antriebsrad. Der Brunnen auf der Festung Königstein ist der mit 152 Metern tiefste Brunnen in Sachsen, sein Bau 1566-1569 war eine vielbeachtete technische Meisterleistung, er kann noch heute besichtigt werden.
+
+Bez. mi. o. "Beschreibung des auf der Bergfestung Königreiche Sachsen befindlichen tiefen Brunnens.", unter den Darstellungen bez. "Herausgegeben von Johann Michael Posselt, Königl. Brunnenmeister auf der Festung Königstein." Darunter 10 Zeilen Text: "Es wurde dieser Brunnen unter Churfürst Augusts Regierung 1553 angelegt u. 1593 vollen- / det, also 40 Jahr, ehe er zum Wasserziehen gebracht wurde, darüber gearbeitet. Unter der Commandanten- / schaft des Freiherrn v. Kyau wurde das Gewölbe, welches 14 Fuss stark ist, und nun den Brunnen vor Regen u. / Frost beschützt, darüber geführt. Bei Friedenszeiten wurden täglich 36 Tonnen Wasser zu deren jeder 10 Minuten er- / forderlich, herausgezogen. Das Herausziehen dieser 36 Tonnen in einer Maschiene wozu 28800 Schritt nöthig sind, / ist das Tagewerk von 4 Mann; hiervon giesst eine Tonne zur linken die andere zur rechten aus, das Wasser wird durch / 2. Gossen in ein Reservoir, das 9 Ell. lang u. 6. Ell. breit ist, geleitet. Von dem Reservoir ist eine Röhre mit messingnen / Hahn abgefasst, wo säm(m)tliche Festungs Bewohner ihr Wasser holen. Die Tiefe des Brunnens beträgt 600 Fuss / u. der Durchmesser 8. Ell. Den Fall von herunter gegossenen Wasser hört man in 1/2 Minute. Die Wasser- / tiefe steigt von 26 - 30 Ellen."
+Erworben 1986 (Sammlung Martha Ortrud Krebs).</lido:descriptiveNoteValue>
+               <lido:sourceDescriptiveNote>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:sourceDescriptiveNote>
+            </lido:objectDescriptionSet>
+         </lido:objectDescriptionWrap>
+         <lido:objectMeasurementsWrap>
+            <lido:objectMeasurementsSet>
+               <lido:displayObjectMeasurements>Blattgröße: Höhe 21 cm, Breite 26 cm</lido:displayObjectMeasurements>
+               <lido:objectMeasurements/>
+            </lido:objectMeasurementsSet>
+         </lido:objectMeasurementsWrap>
+      </lido:objectIdentificationWrap>
+      <lido:eventWrap>
+         <lido:eventSet>
+            <lido:event>
+               <lido:eventType>
+                  <lido:conceptID lido:type="uri">https://event-types.museum-digital.org/1</lido:conceptID>
+                  <lido:term lido:addedSearchTerm="no">Hergestellt</lido:term>
+               </lido:eventType>
+               <lido:eventActor>
+                  <lido:displayActorInRole>Johann Michael Posselt</lido:displayActorInRole>
+                  <lido:actorInRole>
+                     <lido:actor>
+                        <lido:actorID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/persinst/125004</lido:actorID>
+                        <lido:nameActorSet>
+                           <lido:appellationValue>Posselt, Johann Michael</lido:appellationValue>
+                           <lido:appellationValue xml:lang="de">Johann Michael Posselt</lido:appellationValue>
+                        </lido:nameActorSet>
+                        <lido:vitalDatesActor>
+                           <lido:earliestDate/>
+                           <lido:latestDate/>
+                        </lido:vitalDatesActor>
+                     </lido:actor>
+                  </lido:actorInRole>
+               </lido:eventActor>
+               <lido:eventDate>
+                  <lido:displayDate>1850 (wahrscheinlich)</lido:displayDate>
+                  <lido:displayDate xml:lang="ar">1850</lido:displayDate>
+                  <lido:displayDate xml:lang="de">1850</lido:displayDate>
+                  <lido:displayDate xml:lang="en">1850</lido:displayDate>
+                  <lido:displayDate xml:lang="es">1850</lido:displayDate>
+                  <lido:displayDate xml:lang="fa">1850</lido:displayDate>
+                  <lido:displayDate xml:lang="fr">1850</lido:displayDate>
+                  <lido:displayDate xml:lang="hu">1850</lido:displayDate>
+                  <lido:displayDate xml:lang="id">1850</lido:displayDate>
+                  <lido:displayDate xml:lang="it">1850</lido:displayDate>
+                  <lido:displayDate xml:lang="ja">1850年</lido:displayDate>
+                  <lido:displayDate xml:lang="ka">1850</lido:displayDate>
+                  <lido:displayDate xml:lang="ko">1850년</lido:displayDate>
+                  <lido:displayDate xml:lang="pl">1850</lido:displayDate>
+                  <lido:displayDate xml:lang="pt">1850</lido:displayDate>
+                  <lido:displayDate xml:lang="ro">1850</lido:displayDate>
+                  <lido:displayDate xml:lang="ru">1850</lido:displayDate>
+                  <lido:displayDate xml:lang="ta">1850</lido:displayDate>
+                  <lido:displayDate xml:lang="tl">1850</lido:displayDate>
+                  <lido:displayDate xml:lang="tr">1850</lido:displayDate>
+                  <lido:displayDate xml:lang="zh">1850年</lido:displayDate>
+                  <lido:date>
+                     <lido:earliestDate>1850</lido:earliestDate>
+                     <lido:latestDate>1850</lido:latestDate>
+                  </lido:date>
+               </lido:eventDate>
+               <lido:eventPlace>
+                  <lido:displayPlace>Königstein (Sächsische Schweiz)</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ar">كونيغشتاين</lido:displayPlace>
+                  <lido:displayPlace xml:lang="cs">Königstein</lido:displayPlace>
+                  <lido:displayPlace xml:lang="de">Königstein (Sächsische Schweiz)</lido:displayPlace>
+                  <lido:displayPlace xml:lang="en">Königstein</lido:displayPlace>
+                  <lido:displayPlace xml:lang="es">Königstein</lido:displayPlace>
+                  <lido:displayPlace xml:lang="fa">کونیگشتاین</lido:displayPlace>
+                  <lido:displayPlace xml:lang="fr">Königstein (Sächsische Schweiz)</lido:displayPlace>
+                  <lido:displayPlace xml:lang="hu">Königstein/Sächs. Schw.</lido:displayPlace>
+                  <lido:displayPlace xml:lang="it">Königstein</lido:displayPlace>
+                  <lido:displayPlace xml:lang="nl">Königstein</lido:displayPlace>
+                  <lido:displayPlace xml:lang="pl">Königstein/Sächsische Schweiz</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ro">Königstein</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ru">Кёнигштайн</lido:displayPlace>
+                  <lido:displayPlace xml:lang="sv">Königstein, Sachsen</lido:displayPlace>
+                  <lido:displayPlace xml:lang="vi">Königstein, Sächsische Schweiz-Osterzgebirge</lido:displayPlace>
+                  <lido:place>
+                     <lido:placeID lido:source="geonames" lido:type="uri">https://sws.geonames.org/2885764</lido:placeID>
+                     <lido:placeID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4031558-7</lido:placeID>
+                     <lido:placeID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q6783</lido:placeID>
+                     <lido:placeID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/place/6479</lido:placeID>
+                     <lido:namePlaceSet>
+                        <lido:appellationValue>Königstein (Sächsische Schweiz)</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ar">كونيغشتاين</lido:appellationValue>
+                        <lido:appellationValue xml:lang="cs">Königstein</lido:appellationValue>
+                        <lido:appellationValue xml:lang="de">Königstein (Sächsische Schweiz)</lido:appellationValue>
+                        <lido:appellationValue xml:lang="en">Königstein</lido:appellationValue>
+                        <lido:appellationValue xml:lang="es">Königstein</lido:appellationValue>
+                        <lido:appellationValue xml:lang="fa">کونیگشتاین</lido:appellationValue>
+                        <lido:appellationValue xml:lang="fr">Königstein (Sächsische Schweiz)</lido:appellationValue>
+                        <lido:appellationValue xml:lang="hu">Königstein/Sächs. Schw.</lido:appellationValue>
+                        <lido:appellationValue xml:lang="it">Königstein</lido:appellationValue>
+                        <lido:appellationValue xml:lang="nl">Königstein</lido:appellationValue>
+                        <lido:appellationValue xml:lang="pl">Königstein/Sächsische Schweiz</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ro">Königstein</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ru">Кёнигштайн</lido:appellationValue>
+                        <lido:appellationValue xml:lang="sv">Königstein, Sachsen</lido:appellationValue>
+                        <lido:appellationValue xml:lang="vi">Königstein, Sächsische Schweiz-Osterzgebirge</lido:appellationValue>
+                     </lido:namePlaceSet>
+                     <lido:gml>
+                        <gml:Point xmlns:gml="http://www.opengis.net/gml" srsName="EPSG:4326">
+                           <gml:pos>50.918888092041 14.071389198303</gml:pos>
+                        </gml:Point>
+                     </lido:gml>
+                  </lido:place>
+               </lido:eventPlace>
+            </lido:event>
+         </lido:eventSet>
+         <lido:eventSet>
+            <lido:event>
+               <lido:eventType>
+                  <lido:conceptID lido:type="uri">http://terminology.lido-schema.org/lido00003</lido:conceptID>
+                  <lido:term>Event (non-specified)</lido:term>
+               </lido:eventType>
+               <lido:eventMaterialsTech>
+                  <lido:displayMaterialsTech>Kupferstich, anonym, auf dünnem Papier, mehrfach gefaltet, leicht gbräunt mit Wasserrändern</lido:displayMaterialsTech>
+               </lido:eventMaterialsTech>
+            </lido:event>
+         </lido:eventSet>
+      </lido:eventWrap>
+      <lido:objectRelationWrap>
+         <lido:subjectWrap>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectPlace>
+                     <lido:displayPlace>Königstein (Sächsische Schweiz)</lido:displayPlace>
+                     <lido:displayPlace xml:lang="ar">كونيغشتاين</lido:displayPlace>
+                     <lido:displayPlace xml:lang="cs">Königstein</lido:displayPlace>
+                     <lido:displayPlace xml:lang="de">Königstein (Sächsische Schweiz)</lido:displayPlace>
+                     <lido:displayPlace xml:lang="en">Königstein</lido:displayPlace>
+                     <lido:displayPlace xml:lang="es">Königstein</lido:displayPlace>
+                     <lido:displayPlace xml:lang="fa">کونیگشتاین</lido:displayPlace>
+                     <lido:displayPlace xml:lang="fr">Königstein (Sächsische Schweiz)</lido:displayPlace>
+                     <lido:displayPlace xml:lang="hu">Königstein/Sächs. Schw.</lido:displayPlace>
+                     <lido:displayPlace xml:lang="it">Königstein</lido:displayPlace>
+                     <lido:displayPlace xml:lang="nl">Königstein</lido:displayPlace>
+                     <lido:displayPlace xml:lang="pl">Königstein/Sächsische Schweiz</lido:displayPlace>
+                     <lido:displayPlace xml:lang="ro">Königstein</lido:displayPlace>
+                     <lido:displayPlace xml:lang="ru">Кёнигштайн</lido:displayPlace>
+                     <lido:displayPlace xml:lang="sv">Königstein, Sachsen</lido:displayPlace>
+                     <lido:displayPlace xml:lang="vi">Königstein, Sächsische Schweiz-Osterzgebirge</lido:displayPlace>
+                     <lido:place>
+                        <lido:placeID lido:source="geonames" lido:type="uri">https://sws.geonames.org/2885764</lido:placeID>
+                        <lido:placeID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4031558-7</lido:placeID>
+                        <lido:placeID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q6783</lido:placeID>
+                        <lido:placeID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/place/6479</lido:placeID>
+                        <lido:namePlaceSet>
+                           <lido:appellationValue>Königstein (Sächsische Schweiz)</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ar">كونيغشتاين</lido:appellationValue>
+                           <lido:appellationValue xml:lang="cs">Königstein</lido:appellationValue>
+                           <lido:appellationValue xml:lang="de">Königstein (Sächsische Schweiz)</lido:appellationValue>
+                           <lido:appellationValue xml:lang="en">Königstein</lido:appellationValue>
+                           <lido:appellationValue xml:lang="es">Königstein</lido:appellationValue>
+                           <lido:appellationValue xml:lang="fa">کونیگشتاین</lido:appellationValue>
+                           <lido:appellationValue xml:lang="fr">Königstein (Sächsische Schweiz)</lido:appellationValue>
+                           <lido:appellationValue xml:lang="hu">Königstein/Sächs. Schw.</lido:appellationValue>
+                           <lido:appellationValue xml:lang="it">Königstein</lido:appellationValue>
+                           <lido:appellationValue xml:lang="nl">Königstein</lido:appellationValue>
+                           <lido:appellationValue xml:lang="pl">Königstein/Sächsische Schweiz</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ro">Königstein</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ru">Кёнигштайн</lido:appellationValue>
+                           <lido:appellationValue xml:lang="sv">Königstein, Sachsen</lido:appellationValue>
+                           <lido:appellationValue xml:lang="vi">Königstein, Sächsische Schweiz-Osterzgebirge</lido:appellationValue>
+                        </lido:namePlaceSet>
+                        <lido:gml>
+                           <gml:Point xmlns:gml="http://www.opengis.net/gml" srsName="EPSG:4326">
+                              <gml:pos>50.918888092041 14.071389198303</gml:pos>
+                           </gml:Point>
+                        </lido:gml>
+                     </lido:place>
+                  </lido:subjectPlace>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="aat" lido:type="uri">http://vocab.getty.edu/aat/300152327</lido:conceptID>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4008491-7</lido:conceptID>
+                     <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh85146057</lido:conceptID>
+                     <lido:conceptID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q43483</lido:conceptID>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Brunnen</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/1822</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Brunnen</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ar">بئر</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="cs">Studna</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="da">Brønd</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="de">Brunnen</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="el">πηγάδι</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="en">Well</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="es">Pozo</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fa">چاه آب</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fi">Kaivo</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fr">Puits à eau</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="he">באר מים</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hi">कूप</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hu">kút</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="id">Sumur</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="it">Pozzo</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ja">井戸</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ko">우물</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="nl">Waterput</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pl">Studnia</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pt">Poço</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ru">колодец</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sv">Brunn</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ta">கிணறு</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tl">Balon</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ur">کنواں</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="vi">giếng khoan</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="zh">井</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="aat" lido:type="uri">http://vocab.getty.edu/aat/300138082</lido:conceptID>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4059205-4</lido:conceptID>
+                     <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh85133147</lido:conceptID>
+                     <lido:conceptID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q2695280</lido:conceptID>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Technik</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/2866</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Technik</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="cs">Technika</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="da">Teknik</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="de">Technik</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="el">τεχνική</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="en">Technique</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="es">Técnica</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fi">Tekniikka</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fr">Technique</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hu">technika</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="id">teknik</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="it">Tecnica</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ja">技術</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ko">기술</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="nl">Techniek</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pl">Technika</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pt">Técnica</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ro">tehnică</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ru">техника</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sv">Teknik</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="zh">技术</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+         </lido:subjectWrap>
+         <lido:relatedWorksWrap/>
+      </lido:objectRelationWrap>
+   </lido:descriptiveMetadata>
+   <lido:administrativeMetadata xml:lang="de">
+      <lido:rightsWorkWrap>
+         <lido:rightsWorkSet>
+            <lido:rightsHolder>
+               <lido:legalBodyName>
+                  <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:rightsHolder>
+         </lido:rightsWorkSet>
+      </lido:rightsWorkWrap>
+      <lido:recordWrap>
+         <lido:recordID lido:type="museum-digital">67175</lido:recordID>
+         <lido:recordType>
+            <lido:term lido:addedSearchTerm="no">item</lido:term>
+         </lido:recordType>
+         <lido:recordSource lido:type="dataProvider">
+            <lido:legalBodyName>
+               <lido:appellationValue>museum-digital</lido:appellationValue>
+            </lido:legalBodyName>
+            <lido:legalBodyWeblink>https://berlin.museum-digital.de/</lido:legalBodyWeblink>
+         </lido:recordSource>
+         <lido:recordSource>
+            <lido:legalBodyID lido:type="isil">DE-B185</lido:legalBodyID>
+            <lido:legalBodyName>
+               <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+            </lido:legalBodyName>
+         </lido:recordSource>
+         <lido:recordRights>
+            <lido:rightsType>
+               <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no">CC BY</lido:term>
+            </lido:rightsType>
+            <lido:rightsHolder>
+               <lido:legalBodyID lido:type="isil">DE-B185</lido:legalBodyID>
+               <lido:legalBodyName>
+                  <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+               </lido:legalBodyName>
+               <lido:legalBodyWeblink>http://geschichte-brandenburg.de/</lido:legalBodyWeblink>
+            </lido:rightsHolder>
+            <lido:creditLine>Förderprogramm zur Digitalisierung von Objekten des kulturellen Erbes des Landes Berlin</lido:creditLine>
+         </lido:recordRights>
+         <lido:recordInfoSet>
+            <lido:recordInfoLink>https://berlin.museum-digital.de/index.php?t=objekt&amp;oges=67175</lido:recordInfoLink>
+            <lido:recordMetadataDate>2021-04-27 07:59:53</lido:recordMetadataDate>
+         </lido:recordInfoSet>
+      </lido:recordWrap>
+      <lido:resourceWrap>
+         <lido:resourceSet lido:sortorder="1">
+            <lido:resourceID lido:source="image" lido:type="local">48758</lido:resourceID>
+            <lido:resourceRepresentation lido:type="masterfile">
+               <lido:linkResource lido:formatResource="image/tiff"/>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_thumb">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/202007/100h_koenigstein-sachsen-festung-brunnen-67175.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_preview">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/202007/200w_koenigstein-sachsen-festung-brunnen-67175.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/202007/koenigstein-sachsen-festung-brunnen-67175.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceType>
+               <lido:term lido:addedSearchTerm="no">image</lido:term>
+            </lido:resourceType>
+            <lido:resourceRelType>
+               <lido:term lido:addedSearchTerm="no">Hauptansicht</lido:term>
+            </lido:resourceRelType>
+            <lido:resourceDescription>Königstein (Sachsen): Festung, Brunnen</lido:resourceDescription>
+            <lido:resourceSource lido:type="creator">
+               <lido:legalBodyName>
+                  <lido:appellationValue>Thomas Voßbeck, 2020</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:resourceSource>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+                  <lido:term lido:addedSearchTerm="no">CC BY</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V.</lido:appellationValue>
+                  </lido:legalBodyName>
+               </lido:rightsHolder>
+               <lido:creditLine>Thomas Voßbeck, 2020</lido:creditLine>
+            </lido:rightsResource>
+         </lido:resourceSet>
+      </lido:resourceWrap>
+   </lido:administrativeMetadata>
+</lido:lido>
+

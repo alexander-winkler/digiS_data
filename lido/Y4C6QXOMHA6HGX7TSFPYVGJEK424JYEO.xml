@@ -1,0 +1,511 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lido:lido xmlns:lido="http://www.lido-schema.org"
+           xmlns:xalan="http://xml.apache.org/xalan">
+   <lido:lidoRecID lido:source="https://berlin.museum-digital.de/index.php?t=institution&amp;instnr=32"
+                   lido:type="local">DE-B185/66994</lido:lidoRecID>
+   <lido:category/>
+   <lido:descriptiveMetadata xml:lang="de">
+      <lido:objectClassificationWrap>
+         <lido:objectWorkTypeWrap>
+            <lido:objectWorkType>
+               <lido:conceptID lido:source="gnd" lido:type="uri">http://d-nb.info/gnd/4021845-4</lido:conceptID>
+               <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/13314</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Druckgraphik</lido:term>
+            </lido:objectWorkType>
+         </lido:objectWorkTypeWrap>
+         <lido:classificationWrap>
+            <lido:classification lido:type="Sammlung">
+               <lido:conceptID lido:source="local" lido:type="collection_id">705</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Handzeichnungen, Druckgraphik, Gemälde</lido:term>
+            </lido:classification>
+            <lido:classification lido:type="Sammlung">
+               <lido:conceptID lido:source="local" lido:type="collection_id">706</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Ansichten</lido:term>
+            </lido:classification>
+            <lido:classification lido:type="Sammlung">
+               <lido:conceptID lido:source="local" lido:type="collection_id">708</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Brandenburg</lido:term>
+            </lido:classification>
+         </lido:classificationWrap>
+      </lido:objectClassificationWrap>
+      <lido:objectIdentificationWrap>
+         <lido:titleWrap>
+            <lido:titleSet>
+               <lido:appellationValue lido:pref="preferred">Wittenberge (Kr. Westprignitz): Eisenbahnbrücke über die Elbe (Brandenburgisches Album, Blatt 60)</lido:appellationValue>
+            </lido:titleSet>
+         </lido:titleWrap>
+         <lido:repositoryWrap>
+            <lido:repositorySet lido:type="current">
+               <lido:repositoryName>
+                  <lido:legalBodyID lido:type="isil">DE-B185</lido:legalBodyID>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+                  </lido:legalBodyName>
+                  <lido:legalBodyWeblink>http://geschichte-brandenburg.de/</lido:legalBodyWeblink>
+               </lido:repositoryName>
+               <lido:workID lido:type="inventory number">LGV-Archiv, C 12 G-3-079</lido:workID>
+               <lido:repositoryLocation>
+                  <lido:namePlaceSet>
+                     <lido:appellationValue>Berlin</lido:appellationValue>
+                  </lido:namePlaceSet>
+                  <lido:gml>
+                     <gml:Point xmlns:gml="http://www.opengis.net/gml" srsName="EPSG:4326">
+                        <gml:pos>52.51533127 13.40440559</gml:pos>
+                     </gml:Point>
+                  </lido:gml>
+               </lido:repositoryLocation>
+            </lido:repositorySet>
+         </lido:repositoryWrap>
+         <lido:objectDescriptionWrap>
+            <lido:objectDescriptionSet>
+               <lido:descriptiveNoteValue>Die fast 1,5 Kilometer lange Eisenbahnbrücke bei Wittenberge wurde am 28. Oktober 1851 nach vierjähriger Bauzeit in Betrieb genommen und galt als eine technische Meisterleistung. Sie bestand bis 1987 und wurde dann durch einen Neubau ersetzt.
+
+Die Bezeichnungen unter der Darstellung (li. u. "J. Gottheil del.", re. u. "Poppel u. Kurz sc.", die Zahl mi. u. "60.", die Ortsbezeichnung und der Verlagshinweis "Verlag u. Eigenthum v. B. S. Berendsohn in Hamburg.") deuten auf die Herkunft des Blattes als Blatt 60 es Brandenburgischen Albums hin ("Brandenburgisches Album. Eine Sammlung in Stahlstich ausgeführter Ansichten der Städte und denkwürdigen Bauten, hervorragenden Architekturen, Naturschönheiten und Denkmäler der Mark Brandenburg"), das ab 1850 in 20 Lieferungen je 3 Blatt herausgegeben wurde. Der aufnehmende Künstler Julius Gottheil (1810-1868) hat die Vorlagen für die Stahlstichreproduktionen nach der Natur geschaffen, die Darstellung, wenn sie auch ein künstlerisch komponiertes Gesamtbild bietet, zeichnet sich durch Detailreichtum und Genauigkeit aus..
+Altbestand des Archivs.
+
+Literatur: Iris Berndt: Märkische Ansichten. Die Provinz Brandenburg im Bild der Druckgraphik 1550-1850. Berlin 2007, Nr. 1892.</lido:descriptiveNoteValue>
+               <lido:sourceDescriptiveNote>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:sourceDescriptiveNote>
+            </lido:objectDescriptionSet>
+         </lido:objectDescriptionWrap>
+         <lido:objectMeasurementsWrap>
+            <lido:objectMeasurementsSet>
+               <lido:displayObjectMeasurements>Blattgröße: Höhe 27 cm, Breite 37 cm (leicht gebräunter Rand), Bildgröße: Höhe 13,8 cm, Breite 21 cm</lido:displayObjectMeasurements>
+               <lido:objectMeasurements/>
+            </lido:objectMeasurementsSet>
+         </lido:objectMeasurementsWrap>
+      </lido:objectIdentificationWrap>
+      <lido:eventWrap>
+         <lido:eventSet>
+            <lido:event>
+               <lido:eventType>
+                  <lido:conceptID lido:type="uri">https://event-types.museum-digital.org/1</lido:conceptID>
+                  <lido:term lido:addedSearchTerm="no">Hergestellt</lido:term>
+               </lido:eventType>
+               <lido:eventActor>
+                  <lido:displayActorInRole>B. S. Berendsohn (Hamburg)</lido:displayActorInRole>
+                  <lido:actorInRole>
+                     <lido:actor>
+                        <lido:actorID lido:source="gnd" lido:type="uri">http://d-nb.info/gnd/107293793X</lido:actorID>
+                        <lido:actorID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/persinst/22656</lido:actorID>
+                        <lido:nameActorSet>
+                           <lido:appellationValue>B. S. Berendsohn (Hamburg)</lido:appellationValue>
+                           <lido:appellationValue xml:lang="de">B. S. Berendsohn (Hamburg)</lido:appellationValue>
+                        </lido:nameActorSet>
+                        <lido:vitalDatesActor>
+                           <lido:earliestDate/>
+                           <lido:latestDate/>
+                        </lido:vitalDatesActor>
+                     </lido:actor>
+                  </lido:actorInRole>
+               </lido:eventActor>
+               <lido:eventDate>
+                  <lido:displayDate>1850-1856</lido:displayDate>
+                  <lido:date>
+                     <lido:earliestDate>1850</lido:earliestDate>
+                     <lido:latestDate>1856</lido:latestDate>
+                  </lido:date>
+               </lido:eventDate>
+               <lido:eventPlace>
+                  <lido:displayPlace>Hamburg</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ar">هامبورغ</lido:displayPlace>
+                  <lido:displayPlace xml:lang="bn">হামবুর্গ</lido:displayPlace>
+                  <lido:displayPlace xml:lang="cs">Hamburk</lido:displayPlace>
+                  <lido:displayPlace xml:lang="da">Hamborg</lido:displayPlace>
+                  <lido:displayPlace xml:lang="de">Hamburg</lido:displayPlace>
+                  <lido:displayPlace xml:lang="el">Αμβούργο</lido:displayPlace>
+                  <lido:displayPlace xml:lang="en">Hamburg</lido:displayPlace>
+                  <lido:displayPlace xml:lang="es">Hamburgo</lido:displayPlace>
+                  <lido:displayPlace xml:lang="fa">هامبورگ</lido:displayPlace>
+                  <lido:displayPlace xml:lang="fi">Hampuri</lido:displayPlace>
+                  <lido:displayPlace xml:lang="fr">Hambourg</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ha">Hamburg</lido:displayPlace>
+                  <lido:displayPlace xml:lang="he">המבורג</lido:displayPlace>
+                  <lido:displayPlace xml:lang="hi">हैम्बर्ग</lido:displayPlace>
+                  <lido:displayPlace xml:lang="hu">Hamburg</lido:displayPlace>
+                  <lido:displayPlace xml:lang="id">Hamburg</lido:displayPlace>
+                  <lido:displayPlace xml:lang="it">Amburgo</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ja">ハンブルク</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ka">ჰამბურგი</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ko">함부르크</lido:displayPlace>
+                  <lido:displayPlace xml:lang="nl">Hamburg</lido:displayPlace>
+                  <lido:displayPlace xml:lang="pl">Hamburg</lido:displayPlace>
+                  <lido:displayPlace xml:lang="pt">Hamburgo</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ro">Hamburg</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ru">Гамбург</lido:displayPlace>
+                  <lido:displayPlace xml:lang="sv">Hamburg</lido:displayPlace>
+                  <lido:displayPlace xml:lang="sw">Hamburg</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ta">ஆம்பர்கு</lido:displayPlace>
+                  <lido:displayPlace xml:lang="th">ฮัมบวร์ค</lido:displayPlace>
+                  <lido:displayPlace xml:lang="tl">Hamburg</lido:displayPlace>
+                  <lido:displayPlace xml:lang="tr">Hamburg</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ur">ہم برک</lido:displayPlace>
+                  <lido:displayPlace xml:lang="vi">Hamburg</lido:displayPlace>
+                  <lido:displayPlace xml:lang="zh">汉堡</lido:displayPlace>
+                  <lido:place>
+                     <lido:placeID lido:source="geonames" lido:type="uri">https://sws.geonames.org/2911297</lido:placeID>
+                     <lido:placeID lido:source="TGN" lido:type="uri">http://vocab.getty.edu/tgn/7003673</lido:placeID>
+                     <lido:placeID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4023118-5</lido:placeID>
+                     <lido:placeID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q1055</lido:placeID>
+                     <lido:placeID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/place/202</lido:placeID>
+                     <lido:namePlaceSet>
+                        <lido:appellationValue>Hamburg</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ar">هامبورغ</lido:appellationValue>
+                        <lido:appellationValue xml:lang="bn">হামবুর্গ</lido:appellationValue>
+                        <lido:appellationValue xml:lang="cs">Hamburk</lido:appellationValue>
+                        <lido:appellationValue xml:lang="da">Hamborg</lido:appellationValue>
+                        <lido:appellationValue xml:lang="de">Hamburg</lido:appellationValue>
+                        <lido:appellationValue xml:lang="el">Αμβούργο</lido:appellationValue>
+                        <lido:appellationValue xml:lang="en">Hamburg</lido:appellationValue>
+                        <lido:appellationValue xml:lang="es">Hamburgo</lido:appellationValue>
+                        <lido:appellationValue xml:lang="fa">هامبورگ</lido:appellationValue>
+                        <lido:appellationValue xml:lang="fi">Hampuri</lido:appellationValue>
+                        <lido:appellationValue xml:lang="fr">Hambourg</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ha">Hamburg</lido:appellationValue>
+                        <lido:appellationValue xml:lang="he">המבורג</lido:appellationValue>
+                        <lido:appellationValue xml:lang="hi">हैम्बर्ग</lido:appellationValue>
+                        <lido:appellationValue xml:lang="hu">Hamburg</lido:appellationValue>
+                        <lido:appellationValue xml:lang="id">Hamburg</lido:appellationValue>
+                        <lido:appellationValue xml:lang="it">Amburgo</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ja">ハンブルク</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ka">ჰამბურგი</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ko">함부르크</lido:appellationValue>
+                        <lido:appellationValue xml:lang="nl">Hamburg</lido:appellationValue>
+                        <lido:appellationValue xml:lang="pl">Hamburg</lido:appellationValue>
+                        <lido:appellationValue xml:lang="pt">Hamburgo</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ro">Hamburg</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ru">Гамбург</lido:appellationValue>
+                        <lido:appellationValue xml:lang="sv">Hamburg</lido:appellationValue>
+                        <lido:appellationValue xml:lang="sw">Hamburg</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ta">ஆம்பர்கு</lido:appellationValue>
+                        <lido:appellationValue xml:lang="th">ฮัมบวร์ค</lido:appellationValue>
+                        <lido:appellationValue xml:lang="tl">Hamburg</lido:appellationValue>
+                        <lido:appellationValue xml:lang="tr">Hamburg</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ur">ہم برک</lido:appellationValue>
+                        <lido:appellationValue xml:lang="vi">Hamburg</lido:appellationValue>
+                        <lido:appellationValue xml:lang="zh">汉堡</lido:appellationValue>
+                     </lido:namePlaceSet>
+                     <lido:gml>
+                        <gml:Point xmlns:gml="http://www.opengis.net/gml" srsName="EPSG:4326">
+                           <gml:pos>53.549999237061 10</gml:pos>
+                        </gml:Point>
+                     </lido:gml>
+                  </lido:place>
+               </lido:eventPlace>
+            </lido:event>
+         </lido:eventSet>
+         <lido:eventSet>
+            <lido:displayEvent>Geistige Schöpfung</lido:displayEvent>
+            <lido:event>
+               <lido:eventType>
+                  <lido:conceptID lido:type="uri">https://event-types.museum-digital.org/4</lido:conceptID>
+                  <lido:term lido:addedSearchTerm="no">Geistige Schöpfung</lido:term>
+               </lido:eventType>
+               <lido:eventActor>
+                  <lido:displayActorInRole>Julius Gottheil (1810-1868)</lido:displayActorInRole>
+                  <lido:actorInRole>
+                     <lido:actor>
+                        <lido:actorID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Julius_Gottheil</lido:actorID>
+                        <lido:actorID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/118912925</lido:actorID>
+                        <lido:actorID lido:source="viaf" lido:type="uri">https://viaf.org/viaf/311323287</lido:actorID>
+                        <lido:actorID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q13489153</lido:actorID>
+                        <lido:actorID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/persinst/11080</lido:actorID>
+                        <lido:nameActorSet>
+                           <lido:appellationValue>Gottheil, Julius</lido:appellationValue>
+                           <lido:appellationValue xml:lang="de">Julius Gottheil</lido:appellationValue>
+                           <lido:appellationValue xml:lang="en">Julius Gottheil</lido:appellationValue>
+                           <lido:appellationValue xml:lang="es">Julius Gottheil</lido:appellationValue>
+                           <lido:appellationValue xml:lang="fr">Julius Gottheil</lido:appellationValue>
+                           <lido:appellationValue xml:lang="nl">Julius Gottheil</lido:appellationValue>
+                        </lido:nameActorSet>
+                        <lido:vitalDatesActor>
+                           <lido:earliestDate>1810</lido:earliestDate>
+                           <lido:latestDate>1868</lido:latestDate>
+                        </lido:vitalDatesActor>
+                     </lido:actor>
+                  </lido:actorInRole>
+               </lido:eventActor>
+            </lido:event>
+         </lido:eventSet>
+         <lido:eventSet>
+            <lido:event>
+               <lido:eventType>
+                  <lido:conceptID lido:type="uri">http://terminology.lido-schema.org/lido00003</lido:conceptID>
+                  <lido:term>Event (non-specified)</lido:term>
+               </lido:eventType>
+               <lido:eventMaterialsTech>
+                  <lido:displayMaterialsTech>Stahlstich auf Tiefdruckpapier</lido:displayMaterialsTech>
+               </lido:eventMaterialsTech>
+            </lido:event>
+         </lido:eventSet>
+      </lido:eventWrap>
+      <lido:objectRelationWrap>
+         <lido:subjectWrap>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectPlace>
+                     <lido:displayPlace>Wittenberge</lido:displayPlace>
+                     <lido:displayPlace xml:lang="cs">Wittenberge</lido:displayPlace>
+                     <lido:displayPlace xml:lang="da">Wittenberge</lido:displayPlace>
+                     <lido:displayPlace xml:lang="de">Wittenberge</lido:displayPlace>
+                     <lido:displayPlace xml:lang="en">Wittenberge</lido:displayPlace>
+                     <lido:displayPlace xml:lang="es">Wittenberge</lido:displayPlace>
+                     <lido:displayPlace xml:lang="fa">ویتنبرگ</lido:displayPlace>
+                     <lido:displayPlace xml:lang="fi">Wittenberge</lido:displayPlace>
+                     <lido:displayPlace xml:lang="fr">Wittenberge</lido:displayPlace>
+                     <lido:displayPlace xml:lang="hu">Wittenberge</lido:displayPlace>
+                     <lido:displayPlace xml:lang="it">Wittenberge</lido:displayPlace>
+                     <lido:displayPlace xml:lang="ko">비텐베르게</lido:displayPlace>
+                     <lido:displayPlace xml:lang="nl">Wittenberge</lido:displayPlace>
+                     <lido:displayPlace xml:lang="pl">Wittenberge</lido:displayPlace>
+                     <lido:displayPlace xml:lang="ro">Wittenberge</lido:displayPlace>
+                     <lido:displayPlace xml:lang="ru">Виттенберге</lido:displayPlace>
+                     <lido:displayPlace xml:lang="sv">Wittenberge</lido:displayPlace>
+                     <lido:displayPlace xml:lang="tr">Wittenberge</lido:displayPlace>
+                     <lido:displayPlace xml:lang="vi">Wittenberge</lido:displayPlace>
+                     <lido:displayPlace xml:lang="zh">维滕贝格</lido:displayPlace>
+                     <lido:place>
+                        <lido:placeID lido:source="geonames" lido:type="uri">https://sws.geonames.org/2807344</lido:placeID>
+                        <lido:placeID lido:source="TGN" lido:type="uri">http://vocab.getty.edu/tgn/1038009</lido:placeID>
+                        <lido:placeID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4370506-6</lido:placeID>
+                        <lido:placeID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q541956</lido:placeID>
+                        <lido:placeID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/place/424</lido:placeID>
+                        <lido:namePlaceSet>
+                           <lido:appellationValue>Wittenberge</lido:appellationValue>
+                           <lido:appellationValue xml:lang="cs">Wittenberge</lido:appellationValue>
+                           <lido:appellationValue xml:lang="da">Wittenberge</lido:appellationValue>
+                           <lido:appellationValue xml:lang="de">Wittenberge</lido:appellationValue>
+                           <lido:appellationValue xml:lang="en">Wittenberge</lido:appellationValue>
+                           <lido:appellationValue xml:lang="es">Wittenberge</lido:appellationValue>
+                           <lido:appellationValue xml:lang="fa">ویتنبرگ</lido:appellationValue>
+                           <lido:appellationValue xml:lang="fi">Wittenberge</lido:appellationValue>
+                           <lido:appellationValue xml:lang="fr">Wittenberge</lido:appellationValue>
+                           <lido:appellationValue xml:lang="hu">Wittenberge</lido:appellationValue>
+                           <lido:appellationValue xml:lang="it">Wittenberge</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ko">비텐베르게</lido:appellationValue>
+                           <lido:appellationValue xml:lang="nl">Wittenberge</lido:appellationValue>
+                           <lido:appellationValue xml:lang="pl">Wittenberge</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ro">Wittenberge</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ru">Виттенберге</lido:appellationValue>
+                           <lido:appellationValue xml:lang="sv">Wittenberge</lido:appellationValue>
+                           <lido:appellationValue xml:lang="tr">Wittenberge</lido:appellationValue>
+                           <lido:appellationValue xml:lang="vi">Wittenberge</lido:appellationValue>
+                           <lido:appellationValue xml:lang="zh">维滕贝格</lido:appellationValue>
+                        </lido:namePlaceSet>
+                        <lido:gml>
+                           <gml:Point xmlns:gml="http://www.opengis.net/gml" srsName="EPSG:4326">
+                              <gml:pos>52.99361038208 11.751388549805</gml:pos>
+                           </gml:Point>
+                        </lido:gml>
+                     </lido:place>
+                  </lido:subjectPlace>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="aat" lido:type="uri">http://vocab.getty.edu/aat/300007836</lido:conceptID>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4008408-5</lido:conceptID>
+                     <lido:conceptID lido:source="iconclass" lido:type="uri">http://iconclass.org/rkd/46C112/</lido:conceptID>
+                     <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh85016829</lido:conceptID>
+                     <lido:conceptID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q12280</lido:conceptID>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Br%C3%BCcke</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/1043</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Brücke</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ar">جسر</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="bn">সেতু</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="cs">Most</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="da">Bro</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="de">Brücke</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="el">γέφυρα</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="en">Bridge</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="es">Puente</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fa">پل</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fi">Silta</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fr">Pont</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="he">גשר</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hi">सेतु</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hu">híd</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="id">Jembatan</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="it">Ponte</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ja">橋</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ka">ხიდი</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ko">다리</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="nl">Brug</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pl">Most</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pt">Ponte</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ro">pod</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ru">мост</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sv">Bro</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sw">Daraja</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ta">பாலம்</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="th">สะพาน</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tl">Tulay</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tr">Köprü</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ur">پُل</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="vi">cầu</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="zh">桥</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="aat" lido:type="uri">http://vocab.getty.edu/aat/300007893</lido:conceptID>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">http://d-nb.info/gnd/4123118-1</lido:conceptID>
+                     <lido:conceptID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q1210334</lido:conceptID>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Eisenbahnbr%C3%BCcke</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/2539</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Eisenbahnbrücke</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ar">جسر سكة حديد</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="cs">železniční most</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="da">Jernbanebro</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="de">Eisenbahnbrücke</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="en">Railway bridge</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="es">Puente ferroviario</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fi">Rautatiesilta</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fr">Pont ferroviaire</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="he">גשר רכבת</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hu">vasúti híd</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ja">鉄道橋</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ko">철도교</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="nl">Spoorbrug</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ru">железнодорожный мост</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="zh">铁路桥</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="aat" lido:type="uri">http://vocab.getty.edu/aat/300138082</lido:conceptID>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4059205-4</lido:conceptID>
+                     <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh85133147</lido:conceptID>
+                     <lido:conceptID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q2695280</lido:conceptID>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Technik</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/2866</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Technik</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="cs">Technika</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="da">Teknik</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="de">Technik</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="el">τεχνική</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="en">Technique</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="es">Técnica</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fi">Tekniikka</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fr">Technique</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hu">technika</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="id">teknik</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="it">Tecnica</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ja">技術</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ko">기술</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="nl">Techniek</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pl">Technika</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pt">Técnica</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ro">tehnică</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ru">техника</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sv">Teknik</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="zh">技术</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/75715</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Elbe (Fluss)</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+         </lido:subjectWrap>
+         <lido:relatedWorksWrap/>
+      </lido:objectRelationWrap>
+   </lido:descriptiveMetadata>
+   <lido:administrativeMetadata xml:lang="de">
+      <lido:rightsWorkWrap>
+         <lido:rightsWorkSet>
+            <lido:rightsHolder>
+               <lido:legalBodyName>
+                  <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:rightsHolder>
+         </lido:rightsWorkSet>
+      </lido:rightsWorkWrap>
+      <lido:recordWrap>
+         <lido:recordID lido:type="museum-digital">66994</lido:recordID>
+         <lido:recordType>
+            <lido:term lido:addedSearchTerm="no">item</lido:term>
+         </lido:recordType>
+         <lido:recordSource lido:type="dataProvider">
+            <lido:legalBodyName>
+               <lido:appellationValue>museum-digital</lido:appellationValue>
+            </lido:legalBodyName>
+            <lido:legalBodyWeblink>https://berlin.museum-digital.de/</lido:legalBodyWeblink>
+         </lido:recordSource>
+         <lido:recordSource>
+            <lido:legalBodyID lido:type="isil">DE-B185</lido:legalBodyID>
+            <lido:legalBodyName>
+               <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+            </lido:legalBodyName>
+         </lido:recordSource>
+         <lido:recordRights>
+            <lido:rightsType>
+               <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no">CC BY</lido:term>
+            </lido:rightsType>
+            <lido:rightsHolder>
+               <lido:legalBodyID lido:type="isil">DE-B185</lido:legalBodyID>
+               <lido:legalBodyName>
+                  <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+               </lido:legalBodyName>
+               <lido:legalBodyWeblink>http://geschichte-brandenburg.de/</lido:legalBodyWeblink>
+            </lido:rightsHolder>
+            <lido:creditLine>Förderprogramm zur Digitalisierung von Objekten des kulturellen Erbes des Landes Berlin</lido:creditLine>
+         </lido:recordRights>
+         <lido:recordInfoSet>
+            <lido:recordInfoLink>https://berlin.museum-digital.de/index.php?t=objekt&amp;oges=66994</lido:recordInfoLink>
+            <lido:recordMetadataDate>2021-04-27 07:59:55</lido:recordMetadataDate>
+         </lido:recordInfoSet>
+      </lido:recordWrap>
+      <lido:resourceWrap>
+         <lido:resourceSet lido:sortorder="1">
+            <lido:resourceID lido:source="image" lido:type="local">48580</lido:resourceID>
+            <lido:resourceRepresentation lido:type="masterfile">
+               <lido:linkResource lido:formatResource="image/tiff"/>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_thumb">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/202007/100h_wittenberge-kr-westprignitz-eisenbahnbruecke-ueber-die-elbe-brandenburgisches-album-blatt.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_preview">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/202007/200w_wittenberge-kr-westprignitz-eisenbahnbruecke-ueber-die-elbe-brandenburgisches-album-blatt.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/202007/wittenberge-kr-westprignitz-eisenbahnbruecke-ueber-die-elbe-brandenburgisches-album-blatt.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceType>
+               <lido:term lido:addedSearchTerm="no">image</lido:term>
+            </lido:resourceType>
+            <lido:resourceRelType>
+               <lido:term lido:addedSearchTerm="no">Hauptansicht</lido:term>
+            </lido:resourceRelType>
+            <lido:resourceDescription>Wittenberge (Kr. Westprignitz): Eisenbahnbrücke über die Elbe (Brandenburgisches Album, Blatt 60)</lido:resourceDescription>
+            <lido:resourceSource lido:type="creator">
+               <lido:legalBodyName>
+                  <lido:appellationValue>Thomas Voßbeck, 2020</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:resourceSource>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+                  <lido:term lido:addedSearchTerm="no">CC BY</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V.</lido:appellationValue>
+                  </lido:legalBodyName>
+               </lido:rightsHolder>
+               <lido:creditLine>Thomas Voßbeck, 2020</lido:creditLine>
+            </lido:rightsResource>
+         </lido:resourceSet>
+      </lido:resourceWrap>
+   </lido:administrativeMetadata>
+</lido:lido>
+

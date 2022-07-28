@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lido:lido xmlns:lido="http://www.lido-schema.org"
+           xmlns:xalan="http://xml.apache.org/xalan">
+   <lido:lidoRecID lido:source="https://berlin.museum-digital.de/index.php?t=institution&amp;instnr=32"
+                   lido:type="local">DE-B185/67222</lido:lidoRecID>
+   <lido:category/>
+   <lido:descriptiveMetadata xml:lang="de">
+      <lido:objectClassificationWrap>
+         <lido:objectWorkTypeWrap>
+            <lido:objectWorkType>
+               <lido:conceptID lido:source="gnd" lido:type="uri">http://d-nb.info/gnd/4067453-8</lido:conceptID>
+               <lido:conceptID lido:source="grobsystematik" lido:type="uri">https://term.museum-digital.de/grobsystematik/tag/14445</lido:conceptID>
+               <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh85039408</lido:conceptID>
+               <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/945</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Handzeichnung</lido:term>
+            </lido:objectWorkType>
+         </lido:objectWorkTypeWrap>
+         <lido:classificationWrap>
+            <lido:classification lido:type="Sammlung">
+               <lido:conceptID lido:source="local" lido:type="collection_id">706</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Ansichten</lido:term>
+            </lido:classification>
+            <lido:classification lido:type="Sammlung">
+               <lido:conceptID lido:source="local" lido:type="collection_id">708</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Brandenburg</lido:term>
+            </lido:classification>
+            <lido:classification lido:type="Sammlung">
+               <lido:conceptID lido:source="local" lido:type="collection_id">705</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Handzeichnungen, Druckgraphik, Gemälde</lido:term>
+            </lido:classification>
+         </lido:classificationWrap>
+      </lido:objectClassificationWrap>
+      <lido:objectIdentificationWrap>
+         <lido:titleWrap>
+            <lido:titleSet>
+               <lido:appellationValue lido:pref="preferred">Friesack: Berliner Straße</lido:appellationValue>
+            </lido:titleSet>
+         </lido:titleWrap>
+         <lido:repositoryWrap>
+            <lido:repositorySet lido:type="current">
+               <lido:repositoryName>
+                  <lido:legalBodyID lido:type="isil">DE-B185</lido:legalBodyID>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+                  </lido:legalBodyName>
+                  <lido:legalBodyWeblink>http://geschichte-brandenburg.de/</lido:legalBodyWeblink>
+               </lido:repositoryName>
+               <lido:workID lido:type="inventory number">LGV-Archiv, C 12 H-3-020</lido:workID>
+               <lido:repositoryLocation>
+                  <lido:namePlaceSet>
+                     <lido:appellationValue>Berlin</lido:appellationValue>
+                  </lido:namePlaceSet>
+                  <lido:gml>
+                     <gml:Point xmlns:gml="http://www.opengis.net/gml" srsName="EPSG:4326">
+                        <gml:pos>52.51533127 13.40440559</gml:pos>
+                     </gml:Point>
+                  </lido:gml>
+               </lido:repositoryLocation>
+            </lido:repositorySet>
+         </lido:repositoryWrap>
+         <lido:objectDescriptionWrap>
+            <lido:objectDescriptionSet>
+               <lido:descriptiveNoteValue>Blick von erhöhtem Standpunkt aus südlicher Richtung in den nördlichen Teil der Berliner Straße. Die Zeichnung ist in der Architektur sorgfältig, in den landschaftlichen Partien etwa links flüchtig ausgeführt. Im Hintergrund links der Turm der Stadtkirche, im Vordergrund ein Stromleitungsmast.
+Zeichnung des bislang nicht näher bekannten Arthur (auch: Artur) Neumann (geb. 1873).
+
+Bez. li. u. "10. 98 / Friesack / Berlinerstr. / (Mühlendamm) / Arthur Neumann / Spandau".
+Erworben 2020 im Berliner Antiquariatshandel.</lido:descriptiveNoteValue>
+               <lido:sourceDescriptiveNote>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:sourceDescriptiveNote>
+            </lido:objectDescriptionSet>
+         </lido:objectDescriptionWrap>
+         <lido:objectMeasurementsWrap>
+            <lido:objectMeasurementsSet>
+               <lido:displayObjectMeasurements>Blattgröße: Höhe 13,9 cm, Breite 22,6 cm</lido:displayObjectMeasurements>
+               <lido:objectMeasurements/>
+            </lido:objectMeasurementsSet>
+         </lido:objectMeasurementsWrap>
+      </lido:objectIdentificationWrap>
+      <lido:eventWrap>
+         <lido:eventSet>
+            <lido:event>
+               <lido:eventType>
+                  <lido:conceptID lido:type="uri">https://event-types.museum-digital.org/1</lido:conceptID>
+                  <lido:term lido:addedSearchTerm="no">Hergestellt</lido:term>
+               </lido:eventType>
+               <lido:eventActor>
+                  <lido:displayActorInRole>Arthur Neumann (1873-)</lido:displayActorInRole>
+                  <lido:actorInRole>
+                     <lido:actor>
+                        <lido:actorID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/persinst/125021</lido:actorID>
+                        <lido:nameActorSet>
+                           <lido:appellationValue>Neumann, Arthur</lido:appellationValue>
+                           <lido:appellationValue xml:lang="de">Arthur Neumann</lido:appellationValue>
+                        </lido:nameActorSet>
+                        <lido:vitalDatesActor>
+                           <lido:earliestDate>1873</lido:earliestDate>
+                           <lido:latestDate/>
+                        </lido:vitalDatesActor>
+                     </lido:actor>
+                  </lido:actorInRole>
+               </lido:eventActor>
+               <lido:eventDate>
+                  <lido:displayDate>Oktober 1898</lido:displayDate>
+                  <lido:displayDate xml:lang="ar">10/1898</lido:displayDate>
+                  <lido:displayDate xml:lang="de">Oktober 1898</lido:displayDate>
+                  <lido:displayDate xml:lang="en">October 1898</lido:displayDate>
+                  <lido:displayDate xml:lang="es">octubre 1898</lido:displayDate>
+                  <lido:displayDate xml:lang="fa">اكتبر 1898</lido:displayDate>
+                  <lido:displayDate xml:lang="fr">octobre 1898</lido:displayDate>
+                  <lido:displayDate xml:lang="hu">1898. október</lido:displayDate>
+                  <lido:displayDate xml:lang="id">Oktober 1898</lido:displayDate>
+                  <lido:displayDate xml:lang="it">ottobre 1898</lido:displayDate>
+                  <lido:displayDate xml:lang="ja">1898年10月</lido:displayDate>
+                  <lido:displayDate xml:lang="ka">ოქტომბერი 1898</lido:displayDate>
+                  <lido:displayDate xml:lang="ko">1898년 10월</lido:displayDate>
+                  <lido:displayDate xml:lang="pl">październik 1898</lido:displayDate>
+                  <lido:displayDate xml:lang="pt">outubro 1898</lido:displayDate>
+                  <lido:displayDate xml:lang="ro">octombrie 1898</lido:displayDate>
+                  <lido:displayDate xml:lang="ru">Октябрь 1898</lido:displayDate>
+                  <lido:displayDate xml:lang="ta">அக்டோபர் 1898</lido:displayDate>
+                  <lido:displayDate xml:lang="tl">Oktubre 1898</lido:displayDate>
+                  <lido:displayDate xml:lang="tr">Ekim 1898</lido:displayDate>
+                  <lido:displayDate xml:lang="zh">1898年10月</lido:displayDate>
+                  <lido:date>
+                     <lido:earliestDate>1898</lido:earliestDate>
+                     <lido:latestDate>1898</lido:latestDate>
+                  </lido:date>
+               </lido:eventDate>
+               <lido:eventPlace>
+                  <lido:displayPlace>Berlin-Spandau</lido:displayPlace>
+                  <lido:displayPlace xml:lang="cs">Špandava</lido:displayPlace>
+                  <lido:displayPlace xml:lang="de">Spandau</lido:displayPlace>
+                  <lido:displayPlace xml:lang="el">Σπάνταου</lido:displayPlace>
+                  <lido:displayPlace xml:lang="en">Spandau (locality)</lido:displayPlace>
+                  <lido:displayPlace xml:lang="fa">شپانداو (لوکالیتی)</lido:displayPlace>
+                  <lido:displayPlace xml:lang="fr">Berlin-Spandau</lido:displayPlace>
+                  <lido:displayPlace xml:lang="he">שפנדאו</lido:displayPlace>
+                  <lido:displayPlace xml:lang="hu">Spandau</lido:displayPlace>
+                  <lido:displayPlace xml:lang="it">Spandau</lido:displayPlace>
+                  <lido:displayPlace xml:lang="nl">Berlin-Spandau</lido:displayPlace>
+                  <lido:displayPlace xml:lang="pl">Spandau (dzielnica Berlina)</lido:displayPlace>
+                  <lido:displayPlace xml:lang="pt">Spandau (localidade)</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ru">Шпандау</lido:displayPlace>
+                  <lido:displayPlace xml:lang="sv">Spandau (stadsdel)</lido:displayPlace>
+                  <lido:displayPlace xml:lang="zh">施潘道 (施潘道区)</lido:displayPlace>
+                  <lido:place>
+                     <lido:placeID lido:source="geonames" lido:type="uri">https://sws.geonames.org/7290252</lido:placeID>
+                     <lido:placeID lido:source="gnd" lido:type="uri">http://d-nb.info/gnd/2004325-9</lido:placeID>
+                     <lido:placeID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q569827</lido:placeID>
+                     <lido:placeID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/place/34493</lido:placeID>
+                     <lido:namePlaceSet>
+                        <lido:appellationValue>Berlin-Spandau</lido:appellationValue>
+                        <lido:appellationValue xml:lang="cs">Špandava</lido:appellationValue>
+                        <lido:appellationValue xml:lang="de">Spandau</lido:appellationValue>
+                        <lido:appellationValue xml:lang="el">Σπάνταου</lido:appellationValue>
+                        <lido:appellationValue xml:lang="en">Spandau (locality)</lido:appellationValue>
+                        <lido:appellationValue xml:lang="fa">شپانداو (لوکالیتی)</lido:appellationValue>
+                        <lido:appellationValue xml:lang="fr">Berlin-Spandau</lido:appellationValue>
+                        <lido:appellationValue xml:lang="he">שפנדאו</lido:appellationValue>
+                        <lido:appellationValue xml:lang="hu">Spandau</lido:appellationValue>
+                        <lido:appellationValue xml:lang="it">Spandau</lido:appellationValue>
+                        <lido:appellationValue xml:lang="nl">Berlin-Spandau</lido:appellationValue>
+                        <lido:appellationValue xml:lang="pl">Spandau (dzielnica Berlina)</lido:appellationValue>
+                        <lido:appellationValue xml:lang="pt">Spandau (localidade)</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ru">Шпандау</lido:appellationValue>
+                        <lido:appellationValue xml:lang="sv">Spandau (stadsdel)</lido:appellationValue>
+                        <lido:appellationValue xml:lang="zh">施潘道 (施潘道区)</lido:appellationValue>
+                     </lido:namePlaceSet>
+                     <lido:gml>
+                        <gml:Point xmlns:gml="http://www.opengis.net/gml" srsName="EPSG:4326">
+                           <gml:pos>52.536701202393 13.204400062561</gml:pos>
+                        </gml:Point>
+                     </lido:gml>
+                  </lido:place>
+               </lido:eventPlace>
+            </lido:event>
+         </lido:eventSet>
+         <lido:eventSet>
+            <lido:event>
+               <lido:eventType>
+                  <lido:conceptID lido:type="uri">http://terminology.lido-schema.org/lido00003</lido:conceptID>
+                  <lido:term>Event (non-specified)</lido:term>
+               </lido:eventType>
+               <lido:eventMaterialsTech>
+                  <lido:displayMaterialsTech>Weicher Bleistift auf gebräuntem Tonpapier</lido:displayMaterialsTech>
+               </lido:eventMaterialsTech>
+            </lido:event>
+         </lido:eventSet>
+      </lido:eventWrap>
+      <lido:objectRelationWrap>
+         <lido:subjectWrap>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="aat" lido:type="uri">http://vocab.getty.edu/aat/300008247</lido:conceptID>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4057883-5</lido:conceptID>
+                     <lido:conceptID lido:source="iconclass" lido:type="uri">http://iconclass.org/rkd/25I141/</lido:conceptID>
+                     <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh85128633</lido:conceptID>
+                     <lido:conceptID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q34442</lido:conceptID>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Stra%C3%9Fe</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/17</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Straße</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ar">طريق</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="bn">সড়ক</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="cs">Silnice</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="da">Vej</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="de">Straße</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="el">δρόμος</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="en">Road</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="es">Carretera</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fa">راه</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fi">Tie</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fr">Route</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="he">כביש</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hi">सड़क</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hu">út</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="id">Jalan</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="it">Strada</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ja">道路</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ka">გზა</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ko">도로</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="nl">Weg</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pl">Droga</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pt">Estrada</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ro">drum</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ru">дорога</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sv">Väg</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sw">barabara</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ta">சாலை</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="th">ถนน</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tr">Yol</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ur">سڑک</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="vi">đường giao thông</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="zh">道路</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/45858</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Kirche</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/75750</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Kleinstadt</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/75751</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Hochspannungsmast</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+         </lido:subjectWrap>
+         <lido:relatedWorksWrap/>
+      </lido:objectRelationWrap>
+   </lido:descriptiveMetadata>
+   <lido:administrativeMetadata xml:lang="de">
+      <lido:rightsWorkWrap>
+         <lido:rightsWorkSet>
+            <lido:rightsHolder>
+               <lido:legalBodyName>
+                  <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:rightsHolder>
+         </lido:rightsWorkSet>
+      </lido:rightsWorkWrap>
+      <lido:recordWrap>
+         <lido:recordID lido:type="museum-digital">67222</lido:recordID>
+         <lido:recordType>
+            <lido:term lido:addedSearchTerm="no">item</lido:term>
+         </lido:recordType>
+         <lido:recordSource lido:type="dataProvider">
+            <lido:legalBodyName>
+               <lido:appellationValue>museum-digital</lido:appellationValue>
+            </lido:legalBodyName>
+            <lido:legalBodyWeblink>https://berlin.museum-digital.de/</lido:legalBodyWeblink>
+         </lido:recordSource>
+         <lido:recordSource>
+            <lido:legalBodyID lido:type="isil">DE-B185</lido:legalBodyID>
+            <lido:legalBodyName>
+               <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+            </lido:legalBodyName>
+         </lido:recordSource>
+         <lido:recordRights>
+            <lido:rightsType>
+               <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no">CC BY</lido:term>
+            </lido:rightsType>
+            <lido:rightsHolder>
+               <lido:legalBodyID lido:type="isil">DE-B185</lido:legalBodyID>
+               <lido:legalBodyName>
+                  <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+               </lido:legalBodyName>
+               <lido:legalBodyWeblink>http://geschichte-brandenburg.de/</lido:legalBodyWeblink>
+            </lido:rightsHolder>
+            <lido:creditLine>Förderprogramm zur Digitalisierung von Objekten des kulturellen Erbes des Landes Berlin</lido:creditLine>
+         </lido:recordRights>
+         <lido:recordInfoSet>
+            <lido:recordInfoLink>https://berlin.museum-digital.de/index.php?t=objekt&amp;oges=67222</lido:recordInfoLink>
+            <lido:recordMetadataDate>2021-04-27 07:59:53</lido:recordMetadataDate>
+         </lido:recordInfoSet>
+      </lido:recordWrap>
+      <lido:resourceWrap>
+         <lido:resourceSet lido:sortorder="1">
+            <lido:resourceID lido:source="image" lido:type="local">48805</lido:resourceID>
+            <lido:resourceRepresentation lido:type="masterfile">
+               <lido:linkResource lido:formatResource="image/tiff"/>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_thumb">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/202007/100h_friesack-berliner-straSse-67222.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_preview">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/202007/200w_friesack-berliner-straSse-67222.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/202007/friesack-berliner-straSse-67222.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceType>
+               <lido:term lido:addedSearchTerm="no">image</lido:term>
+            </lido:resourceType>
+            <lido:resourceRelType>
+               <lido:term lido:addedSearchTerm="no">Hauptansicht</lido:term>
+            </lido:resourceRelType>
+            <lido:resourceDescription>Friesack: Berliner Straße</lido:resourceDescription>
+            <lido:resourceSource lido:type="creator">
+               <lido:legalBodyName>
+                  <lido:appellationValue>Thomas Voßbeck, 2020</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:resourceSource>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+                  <lido:term lido:addedSearchTerm="no">CC BY</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V.</lido:appellationValue>
+                  </lido:legalBodyName>
+               </lido:rightsHolder>
+               <lido:creditLine>Thomas Voßbeck, 2020</lido:creditLine>
+            </lido:rightsResource>
+         </lido:resourceSet>
+      </lido:resourceWrap>
+   </lido:administrativeMetadata>
+</lido:lido>
+

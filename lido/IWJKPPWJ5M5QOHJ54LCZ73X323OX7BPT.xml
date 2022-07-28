@@ -1,0 +1,387 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lido:lido xmlns:lido="http://www.lido-schema.org"
+           xmlns:xalan="http://xml.apache.org/xalan">
+   <lido:lidoRecID lido:source="https://berlin.museum-digital.de/index.php?t=institution&amp;instnr=32"
+                   lido:type="local">DE-B185/67143</lido:lidoRecID>
+   <lido:category/>
+   <lido:descriptiveMetadata xml:lang="de">
+      <lido:objectClassificationWrap>
+         <lido:objectWorkTypeWrap>
+            <lido:objectWorkType>
+               <lido:conceptID lido:source="gnd" lido:type="uri">http://d-nb.info/gnd/4021845-4</lido:conceptID>
+               <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/13314</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Druckgraphik</lido:term>
+            </lido:objectWorkType>
+         </lido:objectWorkTypeWrap>
+         <lido:classificationWrap>
+            <lido:classification lido:type="Sammlung">
+               <lido:conceptID lido:source="local" lido:type="collection_id">705</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Handzeichnungen, Druckgraphik, Gemälde</lido:term>
+            </lido:classification>
+            <lido:classification lido:type="Sammlung">
+               <lido:conceptID lido:source="local" lido:type="collection_id">706</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Ansichten</lido:term>
+            </lido:classification>
+            <lido:classification lido:type="Sammlung">
+               <lido:conceptID lido:source="local" lido:type="collection_id">707</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Berlin</lido:term>
+            </lido:classification>
+         </lido:classificationWrap>
+      </lido:objectClassificationWrap>
+      <lido:objectIdentificationWrap>
+         <lido:titleWrap>
+            <lido:titleSet>
+               <lido:appellationValue lido:pref="preferred">Berlin-Neukölln: Alt-Rixdorf, Betsaal der Böhmischen Brüder</lido:appellationValue>
+            </lido:titleSet>
+         </lido:titleWrap>
+         <lido:repositoryWrap>
+            <lido:repositorySet lido:type="current">
+               <lido:repositoryName>
+                  <lido:legalBodyID lido:type="isil">DE-B185</lido:legalBodyID>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+                  </lido:legalBodyName>
+                  <lido:legalBodyWeblink>http://geschichte-brandenburg.de/</lido:legalBodyWeblink>
+               </lido:repositoryName>
+               <lido:workID lido:type="inventory number">LGV-Archiv, C 12 G-4-068</lido:workID>
+               <lido:repositoryLocation>
+                  <lido:namePlaceSet>
+                     <lido:appellationValue>Berlin</lido:appellationValue>
+                  </lido:namePlaceSet>
+                  <lido:gml>
+                     <gml:Point xmlns:gml="http://www.opengis.net/gml" srsName="EPSG:4326">
+                        <gml:pos>52.51533127 13.40440559</gml:pos>
+                     </gml:Point>
+                  </lido:gml>
+               </lido:repositoryLocation>
+            </lido:repositorySet>
+         </lido:repositoryWrap>
+         <lido:objectDescriptionWrap>
+            <lido:objectDescriptionSet>
+               <lido:descriptiveNoteValue>Bildseite einer Ansichtspostkarte (blanko). Unbekannter Radierer.
+
+Bez. (Bleistift) li. u. Alt-Rixdorf,", re. u. "Beetsaal" [sic!].
+Auf der Rückseite an der für die Briefmarke vorgesehenen Stelle: "Original-Radierung Handpressen-Kupferdruck".
+Erworben 1988 im Berliner Antiquariatshandel.</lido:descriptiveNoteValue>
+               <lido:sourceDescriptiveNote>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:sourceDescriptiveNote>
+            </lido:objectDescriptionSet>
+         </lido:objectDescriptionWrap>
+         <lido:objectMeasurementsWrap>
+            <lido:objectMeasurementsSet>
+               <lido:displayObjectMeasurements>Blattgröße: Höhe 10 cm, Breite 14,5 cm</lido:displayObjectMeasurements>
+               <lido:objectMeasurements/>
+            </lido:objectMeasurementsSet>
+         </lido:objectMeasurementsWrap>
+      </lido:objectIdentificationWrap>
+      <lido:eventWrap>
+         <lido:eventSet>
+            <lido:event>
+               <lido:eventType>
+                  <lido:conceptID lido:type="uri">https://event-types.museum-digital.org/1</lido:conceptID>
+                  <lido:term lido:addedSearchTerm="no">Hergestellt</lido:term>
+               </lido:eventType>
+               <lido:eventDate>
+                  <lido:displayDate>1926</lido:displayDate>
+                  <lido:displayDate xml:lang="ar">1926</lido:displayDate>
+                  <lido:displayDate xml:lang="de">1926</lido:displayDate>
+                  <lido:displayDate xml:lang="en">1926</lido:displayDate>
+                  <lido:displayDate xml:lang="es">1926</lido:displayDate>
+                  <lido:displayDate xml:lang="fa">1926</lido:displayDate>
+                  <lido:displayDate xml:lang="fr">1926</lido:displayDate>
+                  <lido:displayDate xml:lang="hu">1926</lido:displayDate>
+                  <lido:displayDate xml:lang="id">1926</lido:displayDate>
+                  <lido:displayDate xml:lang="it">1926</lido:displayDate>
+                  <lido:displayDate xml:lang="ja">1926年</lido:displayDate>
+                  <lido:displayDate xml:lang="ka">1926</lido:displayDate>
+                  <lido:displayDate xml:lang="ko">1926년</lido:displayDate>
+                  <lido:displayDate xml:lang="pl">1926</lido:displayDate>
+                  <lido:displayDate xml:lang="pt">1926</lido:displayDate>
+                  <lido:displayDate xml:lang="ro">1926</lido:displayDate>
+                  <lido:displayDate xml:lang="ru">1926</lido:displayDate>
+                  <lido:displayDate xml:lang="ta">1926</lido:displayDate>
+                  <lido:displayDate xml:lang="tl">1926</lido:displayDate>
+                  <lido:displayDate xml:lang="tr">1926</lido:displayDate>
+                  <lido:displayDate xml:lang="zh">1926年</lido:displayDate>
+                  <lido:date>
+                     <lido:earliestDate>1926</lido:earliestDate>
+                     <lido:latestDate>1926</lido:latestDate>
+                  </lido:date>
+               </lido:eventDate>
+            </lido:event>
+         </lido:eventSet>
+         <lido:eventSet>
+            <lido:event>
+               <lido:eventType>
+                  <lido:conceptID lido:type="uri">http://terminology.lido-schema.org/lido00003</lido:conceptID>
+                  <lido:term>Event (non-specified)</lido:term>
+               </lido:eventType>
+               <lido:eventMaterialsTech>
+                  <lido:displayMaterialsTech>Radierung auf Kupferdruckpapier</lido:displayMaterialsTech>
+               </lido:eventMaterialsTech>
+            </lido:event>
+         </lido:eventSet>
+      </lido:eventWrap>
+      <lido:objectRelationWrap>
+         <lido:subjectWrap>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectPlace>
+                     <lido:displayPlace>Berlin-Neukölln (OT)</lido:displayPlace>
+                     <lido:displayPlace xml:lang="de">Berlin-Neukölln (OT)</lido:displayPlace>
+                     <lido:displayPlace xml:lang="el">Νοϊκέλν (τοποθεσία)</lido:displayPlace>
+                     <lido:displayPlace xml:lang="en">Neukölln (locality)</lido:displayPlace>
+                     <lido:displayPlace xml:lang="fa">نویکولن (لوکالیتی)</lido:displayPlace>
+                     <lido:displayPlace xml:lang="fi">Neukölln (kaupunginosa)</lido:displayPlace>
+                     <lido:displayPlace xml:lang="fr">Berlin-Neukölln</lido:displayPlace>
+                     <lido:displayPlace xml:lang="he">נויקלן</lido:displayPlace>
+                     <lido:displayPlace xml:lang="hu">Neukölln</lido:displayPlace>
+                     <lido:displayPlace xml:lang="it">Neukölln</lido:displayPlace>
+                     <lido:displayPlace xml:lang="nl">Berlin-Neukölln</lido:displayPlace>
+                     <lido:displayPlace xml:lang="pl">Neukölln (dzielnica Berlina)</lido:displayPlace>
+                     <lido:displayPlace xml:lang="ru">Нойкёльн (район Берлина)</lido:displayPlace>
+                     <lido:displayPlace xml:lang="sv">Neukölln (stadsdel)</lido:displayPlace>
+                     <lido:displayPlace xml:lang="zh">新克尔恩 (新克尔恩区)</lido:displayPlace>
+                     <lido:place>
+                        <lido:placeID lido:source="geonames" lido:type="uri">https://sws.geonames.org/2864695</lido:placeID>
+                        <lido:placeID lido:source="TGN" lido:type="uri">http://vocab.getty.edu/tgn/1005180</lido:placeID>
+                        <lido:placeID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4087334-1</lido:placeID>
+                        <lido:placeID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q169492</lido:placeID>
+                        <lido:placeID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/place/781</lido:placeID>
+                        <lido:namePlaceSet>
+                           <lido:appellationValue>Berlin-Neukölln (OT)</lido:appellationValue>
+                           <lido:appellationValue xml:lang="de">Berlin-Neukölln (OT)</lido:appellationValue>
+                           <lido:appellationValue xml:lang="el">Νοϊκέλν (τοποθεσία)</lido:appellationValue>
+                           <lido:appellationValue xml:lang="en">Neukölln (locality)</lido:appellationValue>
+                           <lido:appellationValue xml:lang="fa">نویکولن (لوکالیتی)</lido:appellationValue>
+                           <lido:appellationValue xml:lang="fi">Neukölln (kaupunginosa)</lido:appellationValue>
+                           <lido:appellationValue xml:lang="fr">Berlin-Neukölln</lido:appellationValue>
+                           <lido:appellationValue xml:lang="he">נויקלן</lido:appellationValue>
+                           <lido:appellationValue xml:lang="hu">Neukölln</lido:appellationValue>
+                           <lido:appellationValue xml:lang="it">Neukölln</lido:appellationValue>
+                           <lido:appellationValue xml:lang="nl">Berlin-Neukölln</lido:appellationValue>
+                           <lido:appellationValue xml:lang="pl">Neukölln (dzielnica Berlina)</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ru">Нойкёльн (район Берлина)</lido:appellationValue>
+                           <lido:appellationValue xml:lang="sv">Neukölln (stadsdel)</lido:appellationValue>
+                           <lido:appellationValue xml:lang="zh">新克尔恩 (新克尔恩区)</lido:appellationValue>
+                        </lido:namePlaceSet>
+                        <lido:gml>
+                           <gml:Point xmlns:gml="http://www.opengis.net/gml" srsName="EPSG:4326">
+                              <gml:pos>52.481388092041 13.435277938843</gml:pos>
+                           </gml:Point>
+                        </lido:gml>
+                     </lido:place>
+                  </lido:subjectPlace>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="aat" lido:type="uri">http://vocab.getty.edu/aat/300054300</lido:conceptID>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4049396-9</lido:conceptID>
+                     <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh85112549</lido:conceptID>
+                     <lido:conceptID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q9174</lido:conceptID>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Religion</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/560</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Religion</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ar">دين</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="bn">ধর্ম</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="cs">Náboženství</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="da">Religion</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="de">Religion</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="el">θρησκεία</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="en">Religion</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="es">Religión</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fa">دین</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fi">Uskonto</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fr">Religion</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ha">Addini</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="he">דת</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hi">धर्म</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hu">vallás</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="id">Agama</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="it">Religione</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ja">宗教</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ka">რელიგია</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ko">종교</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="nl">Religie</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pl">Religia</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pt">Religião</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ro">religie</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ru">религия</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sv">Religion</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sw">Dini</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ta">சமயம்</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="th">ศาสนา</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tl">Relihiyon</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tr">Din</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ur">مذہب</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="vi">tôn giáo</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="zh">宗教</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="aat" lido:type="uri">http://vocab.getty.edu/aat/300028886</lido:conceptID>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4181892-1</lido:conceptID>
+                     <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh85125691</lido:conceptID>
+                     <lido:conceptID lido:source="oberbegriffsdatei" lido:type="uri">https://term.museum-digital.de/oberbegriffsdatei/tag/4993</lido:conceptID>
+                     <lido:conceptID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q212469</lido:conceptID>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Souvenir</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/3510</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Souvenir</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ar">تذكار</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="cs">Suvenýr</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="da">Souvenir</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="de">Souvenir</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="en">Souvenir</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="es">Souvenir</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fa">ره‌آورد</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fi">Matkamuisto</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fr">Souvenir</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="he">מזכרת</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hu">emléktárgy</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="id">Cendera mata</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="it">Souvenir</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ko">기념품</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="nl">Souvenir</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pt">Suvenir</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ro">Suvenir</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ru">сувенир</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sv">Souvenir</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="vi">Quà lưu niệm</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="zh">紀念品</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4021845-4</lido:conceptID>
+                     <lido:conceptID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q1027879</lido:conceptID>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">https://en.wikipedia.org/wiki/Graphics</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/13314</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Druckgraphik</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ar">رسوميات</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="bn">গ্রাফিক্স</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="cs">Grafika</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="de">Druckgraphik</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="el">Γραφικά</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="en">Graphics</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="es">gráficos</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fa">ارتباط تصویری</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fr">Graphique</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="he">גרפיקה</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hi">चित्रालेख</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hu">Grafika</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="id">Grafika</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ja">グラフィック</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ka">გრაფიკა</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ko">그래픽</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="nl">Grafiek</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pl">Grafika</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pt">Gráfico</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ro">grafică</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ru">графика</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ta">வரைகலை</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tr">Grafik</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ur">تخطیط</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="zh">图形</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+         </lido:subjectWrap>
+         <lido:relatedWorksWrap/>
+      </lido:objectRelationWrap>
+   </lido:descriptiveMetadata>
+   <lido:administrativeMetadata xml:lang="de">
+      <lido:rightsWorkWrap>
+         <lido:rightsWorkSet>
+            <lido:rightsHolder>
+               <lido:legalBodyName>
+                  <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:rightsHolder>
+         </lido:rightsWorkSet>
+      </lido:rightsWorkWrap>
+      <lido:recordWrap>
+         <lido:recordID lido:type="museum-digital">67143</lido:recordID>
+         <lido:recordType>
+            <lido:term lido:addedSearchTerm="no">item</lido:term>
+         </lido:recordType>
+         <lido:recordSource lido:type="dataProvider">
+            <lido:legalBodyName>
+               <lido:appellationValue>museum-digital</lido:appellationValue>
+            </lido:legalBodyName>
+            <lido:legalBodyWeblink>https://berlin.museum-digital.de/</lido:legalBodyWeblink>
+         </lido:recordSource>
+         <lido:recordSource>
+            <lido:legalBodyID lido:type="isil">DE-B185</lido:legalBodyID>
+            <lido:legalBodyName>
+               <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+            </lido:legalBodyName>
+         </lido:recordSource>
+         <lido:recordRights>
+            <lido:rightsType>
+               <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no">CC BY</lido:term>
+            </lido:rightsType>
+            <lido:rightsHolder>
+               <lido:legalBodyID lido:type="isil">DE-B185</lido:legalBodyID>
+               <lido:legalBodyName>
+                  <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+               </lido:legalBodyName>
+               <lido:legalBodyWeblink>http://geschichte-brandenburg.de/</lido:legalBodyWeblink>
+            </lido:rightsHolder>
+            <lido:creditLine>Förderprogramm zur Digitalisierung von Objekten des kulturellen Erbes des Landes Berlin</lido:creditLine>
+         </lido:recordRights>
+         <lido:recordInfoSet>
+            <lido:recordInfoLink>https://berlin.museum-digital.de/index.php?t=objekt&amp;oges=67143</lido:recordInfoLink>
+            <lido:recordMetadataDate>2021-04-27 07:59:54</lido:recordMetadataDate>
+         </lido:recordInfoSet>
+      </lido:recordWrap>
+      <lido:resourceWrap>
+         <lido:resourceSet lido:sortorder="1">
+            <lido:resourceID lido:source="image" lido:type="local">48726</lido:resourceID>
+            <lido:resourceRepresentation lido:type="masterfile">
+               <lido:linkResource lido:formatResource="image/tiff"/>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_thumb">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/202007/100h_berlin-neukoelln-alt-rixdorf-betsaal-der-boehmischen-brueder-67143.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_preview">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/202007/200w_berlin-neukoelln-alt-rixdorf-betsaal-der-boehmischen-brueder-67143.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/202007/berlin-neukoelln-alt-rixdorf-betsaal-der-boehmischen-brueder-67143.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceType>
+               <lido:term lido:addedSearchTerm="no">image</lido:term>
+            </lido:resourceType>
+            <lido:resourceRelType>
+               <lido:term lido:addedSearchTerm="no">Hauptansicht</lido:term>
+            </lido:resourceRelType>
+            <lido:resourceDescription>Berlin-Neukölln: Alt-Rixdorf, Betsaal der Böhmischen Brüder</lido:resourceDescription>
+            <lido:resourceSource lido:type="creator">
+               <lido:legalBodyName>
+                  <lido:appellationValue>Thomas Voßbeck, 2020</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:resourceSource>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+                  <lido:term lido:addedSearchTerm="no">CC BY</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V.</lido:appellationValue>
+                  </lido:legalBodyName>
+               </lido:rightsHolder>
+               <lido:creditLine>Thomas Voßbeck, 2020</lido:creditLine>
+            </lido:rightsResource>
+         </lido:resourceSet>
+      </lido:resourceWrap>
+   </lido:administrativeMetadata>
+</lido:lido>
+

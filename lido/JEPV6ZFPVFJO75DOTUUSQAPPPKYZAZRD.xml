@@ -1,0 +1,379 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lido:lido xmlns:lido="http://www.lido-schema.org"
+           xmlns:xalan="http://xml.apache.org/xalan">
+   <lido:lidoRecID lido:source="https://berlin.museum-digital.de/index.php?t=institution&amp;instnr=32"
+                   lido:type="local">DE-B185/66874</lido:lidoRecID>
+   <lido:category/>
+   <lido:descriptiveMetadata xml:lang="de">
+      <lido:objectClassificationWrap>
+         <lido:objectWorkTypeWrap>
+            <lido:objectWorkType>
+               <lido:conceptID lido:source="gnd" lido:type="uri">http://d-nb.info/gnd/4067453-8</lido:conceptID>
+               <lido:conceptID lido:source="grobsystematik" lido:type="uri">https://term.museum-digital.de/grobsystematik/tag/14445</lido:conceptID>
+               <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh85039408</lido:conceptID>
+               <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/945</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Handzeichnung</lido:term>
+            </lido:objectWorkType>
+         </lido:objectWorkTypeWrap>
+         <lido:classificationWrap>
+            <lido:classification lido:type="Sammlung">
+               <lido:conceptID lido:source="local" lido:type="collection_id">705</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Handzeichnungen, Druckgraphik, Gemälde</lido:term>
+            </lido:classification>
+            <lido:classification lido:type="Sammlung">
+               <lido:conceptID lido:source="local" lido:type="collection_id">728</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Sammelwerke</lido:term>
+            </lido:classification>
+            <lido:classification lido:type="Sammlung">
+               <lido:conceptID lido:source="local" lido:type="collection_id">729</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Erinnerungsalbum Franz Jordan</lido:term>
+            </lido:classification>
+         </lido:classificationWrap>
+      </lido:objectClassificationWrap>
+      <lido:objectIdentificationWrap>
+         <lido:titleWrap>
+            <lido:titleSet>
+               <lido:appellationValue lido:pref="preferred">Blüten: Päonie, Alpenveilchen</lido:appellationValue>
+            </lido:titleSet>
+         </lido:titleWrap>
+         <lido:repositoryWrap>
+            <lido:repositorySet lido:type="current">
+               <lido:repositoryName>
+                  <lido:legalBodyID lido:type="isil">DE-B185</lido:legalBodyID>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+                  </lido:legalBodyName>
+                  <lido:legalBodyWeblink>http://geschichte-brandenburg.de/</lido:legalBodyWeblink>
+               </lido:repositoryName>
+               <lido:workID lido:type="inventory number">LGV-Archiv, C 12 E-60-GF, Bl. 45</lido:workID>
+               <lido:repositoryLocation>
+                  <lido:namePlaceSet>
+                     <lido:appellationValue>Berlin</lido:appellationValue>
+                  </lido:namePlaceSet>
+                  <lido:gml>
+                     <gml:Point xmlns:gml="http://www.opengis.net/gml" srsName="EPSG:4326">
+                        <gml:pos>52.51533127 13.40440559</gml:pos>
+                     </gml:Point>
+                  </lido:gml>
+               </lido:repositoryLocation>
+            </lido:repositorySet>
+         </lido:repositoryWrap>
+         <lido:objectDescriptionWrap>
+            <lido:objectDescriptionSet>
+               <lido:descriptiveNoteValue>Studienblatt Päonienblütenzweig, umgeben von sechs Blütenstudien von Alpenveilchen (Cyclamen).&#xD;
+&#xD;
+Bez. re. u. "P. Jordan. / 27. 2. 96."</lido:descriptiveNoteValue>
+               <lido:sourceDescriptiveNote>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:sourceDescriptiveNote>
+            </lido:objectDescriptionSet>
+         </lido:objectDescriptionWrap>
+         <lido:objectMeasurementsWrap>
+            <lido:objectMeasurementsSet>
+               <lido:displayObjectMeasurements>Blattgröße: Höhe ca. 43 cm, Breite 32,2 cm (eingeklebt)</lido:displayObjectMeasurements>
+               <lido:objectMeasurements/>
+            </lido:objectMeasurementsSet>
+         </lido:objectMeasurementsWrap>
+      </lido:objectIdentificationWrap>
+      <lido:eventWrap>
+         <lido:eventSet>
+            <lido:event>
+               <lido:eventType>
+                  <lido:conceptID lido:type="uri">https://event-types.museum-digital.org/1</lido:conceptID>
+                  <lido:term lido:addedSearchTerm="no">Hergestellt</lido:term>
+               </lido:eventType>
+               <lido:eventActor>
+                  <lido:displayActorInRole>Paul Jordan (1877-)</lido:displayActorInRole>
+                  <lido:actorInRole>
+                     <lido:actor>
+                        <lido:actorID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/persinst/124927</lido:actorID>
+                        <lido:nameActorSet>
+                           <lido:appellationValue>Jordan, Paul</lido:appellationValue>
+                           <lido:appellationValue xml:lang="de">Paul Jordan</lido:appellationValue>
+                        </lido:nameActorSet>
+                        <lido:vitalDatesActor>
+                           <lido:earliestDate>1877</lido:earliestDate>
+                           <lido:latestDate/>
+                        </lido:vitalDatesActor>
+                     </lido:actor>
+                  </lido:actorInRole>
+               </lido:eventActor>
+               <lido:eventDate>
+                  <lido:displayDate>27.02.1896</lido:displayDate>
+                  <lido:displayDate xml:lang="ar">27/02/1896</lido:displayDate>
+                  <lido:displayDate xml:lang="de">27.02.1896</lido:displayDate>
+                  <lido:displayDate xml:lang="en">February 27, 1896</lido:displayDate>
+                  <lido:displayDate xml:lang="es">27/02/1896</lido:displayDate>
+                  <lido:displayDate xml:lang="fa">27/02/1896</lido:displayDate>
+                  <lido:displayDate xml:lang="fr">27/02/1896</lido:displayDate>
+                  <lido:displayDate xml:lang="hu">1896. február 27.</lido:displayDate>
+                  <lido:displayDate xml:lang="id">27 Pebruari 1896</lido:displayDate>
+                  <lido:displayDate xml:lang="it">27/02/1896</lido:displayDate>
+                  <lido:displayDate xml:lang="ja">1896年02月27日</lido:displayDate>
+                  <lido:displayDate xml:lang="ka">27.02.1896</lido:displayDate>
+                  <lido:displayDate xml:lang="ko">1896년 02월 27일</lido:displayDate>
+                  <lido:displayDate xml:lang="pl">27.02.1896</lido:displayDate>
+                  <lido:displayDate xml:lang="pt">27/02/1896</lido:displayDate>
+                  <lido:displayDate xml:lang="ro">27.02.1896</lido:displayDate>
+                  <lido:displayDate xml:lang="ru">27.02.1896</lido:displayDate>
+                  <lido:displayDate xml:lang="ta">27-02-1896</lido:displayDate>
+                  <lido:displayDate xml:lang="tl">Pebrero 27, 1896</lido:displayDate>
+                  <lido:displayDate xml:lang="tr">27.02.1896</lido:displayDate>
+                  <lido:displayDate xml:lang="zh">1896年02月27日</lido:displayDate>
+                  <lido:date>
+                     <lido:earliestDate>1896</lido:earliestDate>
+                     <lido:latestDate>1896</lido:latestDate>
+                  </lido:date>
+               </lido:eventDate>
+               <lido:eventPlace>
+                  <lido:displayPlace>Potsdam-Babelsberg</lido:displayPlace>
+                  <lido:displayPlace xml:lang="da">Babelsberg</lido:displayPlace>
+                  <lido:displayPlace xml:lang="de">Potsdam-Babelsberg</lido:displayPlace>
+                  <lido:displayPlace xml:lang="en">Babelsberg</lido:displayPlace>
+                  <lido:displayPlace xml:lang="es">Babelsberg</lido:displayPlace>
+                  <lido:displayPlace xml:lang="fa">بابلسبرگ</lido:displayPlace>
+                  <lido:displayPlace xml:lang="fr">Babelsberg</lido:displayPlace>
+                  <lido:displayPlace xml:lang="it">Babelsberg</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ja">バーベルスベルク</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ko">바벨스베르크</lido:displayPlace>
+                  <lido:displayPlace xml:lang="nl">Babelsberg</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ro">Babelsberg</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ru">Бабельсберг</lido:displayPlace>
+                  <lido:displayPlace xml:lang="sv">Potsdam-Babelsberg</lido:displayPlace>
+                  <lido:place>
+                     <lido:placeID lido:source="geonames" lido:type="uri">https://sws.geonames.org/2953775</lido:placeID>
+                     <lido:placeID lido:source="TGN" lido:type="uri">http://vocab.getty.edu/tgn/7012794</lido:placeID>
+                     <lido:placeID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4256237-5</lido:placeID>
+                     <lido:placeID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q797635</lido:placeID>
+                     <lido:placeID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/place/1702</lido:placeID>
+                     <lido:namePlaceSet>
+                        <lido:appellationValue>Potsdam-Babelsberg</lido:appellationValue>
+                        <lido:appellationValue xml:lang="da">Babelsberg</lido:appellationValue>
+                        <lido:appellationValue xml:lang="de">Potsdam-Babelsberg</lido:appellationValue>
+                        <lido:appellationValue xml:lang="en">Babelsberg</lido:appellationValue>
+                        <lido:appellationValue xml:lang="es">Babelsberg</lido:appellationValue>
+                        <lido:appellationValue xml:lang="fa">بابلسبرگ</lido:appellationValue>
+                        <lido:appellationValue xml:lang="fr">Babelsberg</lido:appellationValue>
+                        <lido:appellationValue xml:lang="it">Babelsberg</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ja">バーベルスベルク</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ko">바벨스베르크</lido:appellationValue>
+                        <lido:appellationValue xml:lang="nl">Babelsberg</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ro">Babelsberg</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ru">Бабельсберг</lido:appellationValue>
+                        <lido:appellationValue xml:lang="sv">Potsdam-Babelsberg</lido:appellationValue>
+                     </lido:namePlaceSet>
+                     <lido:gml>
+                        <gml:Point xmlns:gml="http://www.opengis.net/gml" srsName="EPSG:4326">
+                           <gml:pos>52.400001525879 13.10000038147</gml:pos>
+                        </gml:Point>
+                     </lido:gml>
+                  </lido:place>
+               </lido:eventPlace>
+            </lido:event>
+         </lido:eventSet>
+         <lido:eventSet>
+            <lido:event>
+               <lido:eventType>
+                  <lido:conceptID lido:type="uri">http://terminology.lido-schema.org/lido00003</lido:conceptID>
+                  <lido:term>Event (non-specified)</lido:term>
+               </lido:eventType>
+               <lido:eventMaterialsTech>
+                  <lido:displayMaterialsTech>Bleistift auf gelblichem Zeichenkarton</lido:displayMaterialsTech>
+               </lido:eventMaterialsTech>
+            </lido:event>
+         </lido:eventSet>
+      </lido:eventWrap>
+      <lido:objectRelationWrap>
+         <lido:subjectWrap>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="aat" lido:type="uri">http://vocab.getty.edu/aat/300387202</lido:conceptID>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4175408-6</lido:conceptID>
+                     <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh85024208</lido:conceptID>
+                     <lido:conceptID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q1495791</lido:conceptID>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Porzellanmalerei</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/4515</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Porzellanmalerei</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="da">Porcelænsmaler</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="de">Porzellanmalerei</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="en">China painting</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fi">Posliininmaalaus</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fr">Peinture sur porcelaine</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">http://d-nb.info/gnd/4129341-1</lido:conceptID>
+                     <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh85035058</lido:conceptID>
+                     <lido:conceptID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q147295</lido:conceptID>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Alpenveilchen</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/20549</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Alpenveilchen</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ar">بخور مريم</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="cs">Brambořík</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="da">Alpeviol</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="de">Alpenveilchen</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="el">Κυκλάμινο</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="en">Cyclamen</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="es">Cyclamen</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fa">نگون‌سار</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fi">Syklaamit</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fr">Cyclamen</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="he">רקפת</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hu">ciklámen</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="it">Cyclamen</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ja">シクラメン属</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ko">시클라멘속</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="nl">Cyclamen</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pl">Cyklamen perski</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pt">Cyclamen</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ru">Цикламен</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sv">Cyklamen</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tr">Siklamen</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ur">پنجہ مریم</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="vi">Chi Tiên khách lai</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="zh">仙客來屬</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">http://d-nb.info/gnd/4174041-5</lido:conceptID>
+                     <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh85099653</lido:conceptID>
+                     <lido:conceptID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q147105</lido:conceptID>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Pfingstrosen</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/36330</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Päonie</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ar">عود الصليب</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="cs">Pivoňka</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="da">Pæon-familien</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="de">Päonie</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="el">Παιώνια</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="en">Paeonia</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="es">Paeoniaceae</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fa">گل صدتومانی</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fi">Pionit</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fr">Pivoine</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="he">אדמוניתיים</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hu">bazsarózsa</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="id">Paeoniaceae</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="it">Paeonia</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ja">ボタン科</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ka">იორდასალამი</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ko">작약속</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="nl">Paeonia</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pl">Piwoniowate</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pt">Paeonia</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ru">пион</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sv">Pionsläktet</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="th">โบตั๋น</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tr">Şakayık</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="vi">Chi Mẫu đơn Trung Quốc</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="zh">芍药属</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/75675</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">KPM</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+         </lido:subjectWrap>
+         <lido:relatedWorksWrap/>
+      </lido:objectRelationWrap>
+   </lido:descriptiveMetadata>
+   <lido:administrativeMetadata xml:lang="de">
+      <lido:rightsWorkWrap>
+         <lido:rightsWorkSet>
+            <lido:rightsHolder>
+               <lido:legalBodyName>
+                  <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:rightsHolder>
+         </lido:rightsWorkSet>
+      </lido:rightsWorkWrap>
+      <lido:recordWrap>
+         <lido:recordID lido:type="museum-digital">66874</lido:recordID>
+         <lido:recordType>
+            <lido:term lido:addedSearchTerm="no">item</lido:term>
+         </lido:recordType>
+         <lido:recordSource lido:type="dataProvider">
+            <lido:legalBodyName>
+               <lido:appellationValue>museum-digital</lido:appellationValue>
+            </lido:legalBodyName>
+            <lido:legalBodyWeblink>https://berlin.museum-digital.de/</lido:legalBodyWeblink>
+         </lido:recordSource>
+         <lido:recordSource>
+            <lido:legalBodyID lido:type="isil">DE-B185</lido:legalBodyID>
+            <lido:legalBodyName>
+               <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+            </lido:legalBodyName>
+         </lido:recordSource>
+         <lido:recordRights>
+            <lido:rightsType>
+               <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no">CC BY</lido:term>
+            </lido:rightsType>
+            <lido:rightsHolder>
+               <lido:legalBodyID lido:type="isil">DE-B185</lido:legalBodyID>
+               <lido:legalBodyName>
+                  <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+               </lido:legalBodyName>
+               <lido:legalBodyWeblink>http://geschichte-brandenburg.de/</lido:legalBodyWeblink>
+            </lido:rightsHolder>
+            <lido:creditLine>Förderprogramm zur Digitalisierung von Objekten des kulturellen Erbes des Landes Berlin</lido:creditLine>
+         </lido:recordRights>
+         <lido:recordInfoSet>
+            <lido:recordInfoLink>https://berlin.museum-digital.de/index.php?t=objekt&amp;oges=66874</lido:recordInfoLink>
+            <lido:recordMetadataDate>2021-04-27 07:59:56</lido:recordMetadataDate>
+         </lido:recordInfoSet>
+      </lido:recordWrap>
+      <lido:resourceWrap>
+         <lido:resourceSet lido:sortorder="1">
+            <lido:resourceID lido:source="image" lido:type="local">48460</lido:resourceID>
+            <lido:resourceRepresentation lido:type="masterfile">
+               <lido:linkResource lido:formatResource="image/tiff"/>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_thumb">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/202007/100h_blueten-paeonie-alpenveilchen-66874.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_preview">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/202007/200w_blueten-paeonie-alpenveilchen-66874.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/202007/blueten-paeonie-alpenveilchen-66874.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceType>
+               <lido:term lido:addedSearchTerm="no">image</lido:term>
+            </lido:resourceType>
+            <lido:resourceRelType>
+               <lido:term lido:addedSearchTerm="no">Hauptansicht</lido:term>
+            </lido:resourceRelType>
+            <lido:resourceDescription>Blüten: Päonie, Alpenveilchen</lido:resourceDescription>
+            <lido:resourceSource lido:type="creator">
+               <lido:legalBodyName>
+                  <lido:appellationValue>Thomas Voßbeck, 2020</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:resourceSource>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+                  <lido:term lido:addedSearchTerm="no">CC BY</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V.</lido:appellationValue>
+                  </lido:legalBodyName>
+               </lido:rightsHolder>
+               <lido:creditLine>Thomas Voßbeck, 2020</lido:creditLine>
+            </lido:rightsResource>
+         </lido:resourceSet>
+      </lido:resourceWrap>
+   </lido:administrativeMetadata>
+</lido:lido>
+

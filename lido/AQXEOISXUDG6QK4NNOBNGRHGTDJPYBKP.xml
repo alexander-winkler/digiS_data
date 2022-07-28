@@ -1,0 +1,412 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lido:lido xmlns:lido="http://www.lido-schema.org"
+           xmlns:xalan="http://xml.apache.org/xalan">
+   <lido:lidoRecID lido:source="https://berlin.museum-digital.de/index.php?t=institution&amp;instnr=32"
+                   lido:type="local">DE-B185/67287</lido:lidoRecID>
+   <lido:category/>
+   <lido:descriptiveMetadata xml:lang="de">
+      <lido:objectClassificationWrap>
+         <lido:objectWorkTypeWrap>
+            <lido:objectWorkType>
+               <lido:conceptID lido:source="gnd" lido:type="uri">http://d-nb.info/gnd/4067453-8</lido:conceptID>
+               <lido:conceptID lido:source="grobsystematik" lido:type="uri">https://term.museum-digital.de/grobsystematik/tag/14445</lido:conceptID>
+               <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh85039408</lido:conceptID>
+               <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/945</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Handzeichnung</lido:term>
+            </lido:objectWorkType>
+         </lido:objectWorkTypeWrap>
+         <lido:classificationWrap>
+            <lido:classification lido:type="Sammlung">
+               <lido:conceptID lido:source="local" lido:type="collection_id">705</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Handzeichnungen, Druckgraphik, Gemälde</lido:term>
+            </lido:classification>
+            <lido:classification lido:type="Sammlung">
+               <lido:conceptID lido:source="local" lido:type="collection_id">706</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Ansichten</lido:term>
+            </lido:classification>
+            <lido:classification lido:type="Sammlung">
+               <lido:conceptID lido:source="local" lido:type="collection_id">708</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Brandenburg</lido:term>
+            </lido:classification>
+            <lido:classification>
+               <lido:conceptID lido:source="local" lido:type="series_id">143</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no">Küstrin: Portale</lido:term>
+            </lido:classification>
+         </lido:classificationWrap>
+      </lido:objectClassificationWrap>
+      <lido:objectIdentificationWrap>
+         <lido:titleWrap>
+            <lido:titleSet>
+               <lido:appellationValue lido:pref="preferred">Küstrin [Kostrzyn]: Schloss: Paulus-Portal (Aufriss)</lido:appellationValue>
+            </lido:titleSet>
+         </lido:titleWrap>
+         <lido:repositoryWrap>
+            <lido:repositorySet lido:type="current">
+               <lido:repositoryName>
+                  <lido:legalBodyID lido:type="isil">DE-B185</lido:legalBodyID>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+                  </lido:legalBodyName>
+                  <lido:legalBodyWeblink>http://geschichte-brandenburg.de/</lido:legalBodyWeblink>
+               </lido:repositoryName>
+               <lido:workID lido:type="inventory number">LGV-Archiv, C 12 H-4-018-3</lido:workID>
+               <lido:repositoryLocation>
+                  <lido:namePlaceSet>
+                     <lido:appellationValue>Berlin</lido:appellationValue>
+                  </lido:namePlaceSet>
+                  <lido:gml>
+                     <gml:Point xmlns:gml="http://www.opengis.net/gml" srsName="EPSG:4326">
+                        <gml:pos>52.51533127 13.40440559</gml:pos>
+                     </gml:Point>
+                  </lido:gml>
+               </lido:repositoryLocation>
+            </lido:repositorySet>
+         </lido:repositoryWrap>
+         <lido:objectDescriptionWrap>
+            <lido:objectDescriptionSet>
+               <lido:descriptiveNoteValue>Aufriss des künstlerisch bedeutendsten Terrakotta-Portals, des Paulus-Portals, am kleinen Treppenturm am Eingangsflügel (Nordostseite), mit rundem Durchgang. Renaissance-Architektur, mit zwei Medaillons (Herr und Dame) in den Zwickeln, bekrönt von der Darstellung der Bekehrung des Paulus, darüber das Relief des brandenburgischen Adlers, an den Seiten vier Soldaten in römischer Tracht, unten zwei mit Szepter und Schwert, darüber mit Lanzen. Nach den Zerstörungen am Ende des Zweiten Weltkrieges infolge der Erklärung zur Festung wurden die Reste von Stadt und Festung Küstrin weitgehend abgetragen. Die Zeichnung gibt Zeugnis von der herausragenden künstlerischen Qualität der Schlossarchitektur.&#xD;
+&#xD;
+Bez. mi. u. "Portal zum kleinen Treppenthurm.", mit Stempel des Vorbesitzers rechts.&#xD;
+&#xD;
+Literatur zu den Küstriner Schlossportalen: Die Kunstdenkmäler der Provinz Brandenburg. Bd. 7, 1: Kreis Königsberg (Neumark). Bearb. von Georg Voss u. Willy Hoppe. Berlin 1927, S. 316-340 (Abb. des Portals: Taf. 17-19)</lido:descriptiveNoteValue>
+               <lido:sourceDescriptiveNote>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:sourceDescriptiveNote>
+            </lido:objectDescriptionSet>
+         </lido:objectDescriptionWrap>
+         <lido:objectMeasurementsWrap>
+            <lido:objectMeasurementsSet>
+               <lido:displayObjectMeasurements>Blattgröße: Höhe 28 cm, Breite 22 cm</lido:displayObjectMeasurements>
+               <lido:objectMeasurements/>
+            </lido:objectMeasurementsSet>
+         </lido:objectMeasurementsWrap>
+      </lido:objectIdentificationWrap>
+      <lido:eventWrap>
+         <lido:eventSet>
+            <lido:event>
+               <lido:eventType>
+                  <lido:conceptID lido:type="uri">https://event-types.museum-digital.org/19</lido:conceptID>
+                  <lido:term lido:addedSearchTerm="no">Gezeichnet</lido:term>
+               </lido:eventType>
+               <lido:eventActor>
+                  <lido:displayActorInRole>Karl Friedrich Pruss von Zglinicki (1818-1886)</lido:displayActorInRole>
+                  <lido:actorInRole>
+                     <lido:actor>
+                        <lido:actorID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Karl_Friedrich_Pruss_von_Zglinicki</lido:actorID>
+                        <lido:actorID lido:source="gnd" lido:type="uri">http://d-nb.info/gnd/1087746620</lido:actorID>
+                        <lido:actorID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q73641757</lido:actorID>
+                        <lido:actorID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/persinst/125032</lido:actorID>
+                        <lido:nameActorSet>
+                           <lido:appellationValue>Zglinicki, Karl Friedrich Pruss von</lido:appellationValue>
+                           <lido:appellationValue xml:lang="de">Karl Friedrich Pruss von Zglinicki</lido:appellationValue>
+                        </lido:nameActorSet>
+                        <lido:vitalDatesActor>
+                           <lido:earliestDate>1818</lido:earliestDate>
+                           <lido:latestDate>1886</lido:latestDate>
+                        </lido:vitalDatesActor>
+                     </lido:actor>
+                  </lido:actorInRole>
+               </lido:eventActor>
+               <lido:eventDate>
+                  <lido:displayDate>1853</lido:displayDate>
+                  <lido:displayDate xml:lang="ar">1853</lido:displayDate>
+                  <lido:displayDate xml:lang="de">1853</lido:displayDate>
+                  <lido:displayDate xml:lang="en">1853</lido:displayDate>
+                  <lido:displayDate xml:lang="es">1853</lido:displayDate>
+                  <lido:displayDate xml:lang="fa">1853</lido:displayDate>
+                  <lido:displayDate xml:lang="fr">1853</lido:displayDate>
+                  <lido:displayDate xml:lang="hu">1853</lido:displayDate>
+                  <lido:displayDate xml:lang="id">1853</lido:displayDate>
+                  <lido:displayDate xml:lang="it">1853</lido:displayDate>
+                  <lido:displayDate xml:lang="ja">1853年</lido:displayDate>
+                  <lido:displayDate xml:lang="ka">1853</lido:displayDate>
+                  <lido:displayDate xml:lang="ko">1853년</lido:displayDate>
+                  <lido:displayDate xml:lang="pl">1853</lido:displayDate>
+                  <lido:displayDate xml:lang="pt">1853</lido:displayDate>
+                  <lido:displayDate xml:lang="ro">1853</lido:displayDate>
+                  <lido:displayDate xml:lang="ru">1853</lido:displayDate>
+                  <lido:displayDate xml:lang="ta">1853</lido:displayDate>
+                  <lido:displayDate xml:lang="tl">1853</lido:displayDate>
+                  <lido:displayDate xml:lang="tr">1853</lido:displayDate>
+                  <lido:displayDate xml:lang="zh">1853年</lido:displayDate>
+                  <lido:date>
+                     <lido:earliestDate>1853</lido:earliestDate>
+                     <lido:latestDate>1853</lido:latestDate>
+                  </lido:date>
+               </lido:eventDate>
+            </lido:event>
+         </lido:eventSet>
+         <lido:eventSet>
+            <lido:event>
+               <lido:eventType>
+                  <lido:conceptID lido:type="uri">http://terminology.lido-schema.org/lido00003</lido:conceptID>
+                  <lido:term>Event (non-specified)</lido:term>
+               </lido:eventType>
+               <lido:eventMaterialsTech>
+                  <lido:displayMaterialsTech>Feder in Schwarz über Bleistift, Lineal auf Zeichenpapier</lido:displayMaterialsTech>
+               </lido:eventMaterialsTech>
+            </lido:event>
+         </lido:eventSet>
+      </lido:eventWrap>
+      <lido:objectRelationWrap>
+         <lido:subjectWrap>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectPlace>
+                     <lido:displayPlace>Kostrzyn nad Odrą</lido:displayPlace>
+                     <lido:displayPlace xml:lang="de">Kostrzyn nad Odrą</lido:displayPlace>
+                     <lido:displayPlace xml:lang="en">Kostrzyn nad Odrą</lido:displayPlace>
+                     <lido:displayPlace xml:lang="es">Kostrzyn nad Odrą</lido:displayPlace>
+                     <lido:displayPlace xml:lang="fa">کوستژن ناد اودران</lido:displayPlace>
+                     <lido:displayPlace xml:lang="fr">Kostrzyn nad Odrą</lido:displayPlace>
+                     <lido:displayPlace xml:lang="he">קיסטרין</lido:displayPlace>
+                     <lido:displayPlace xml:lang="hu">Kostrzyn nad Odrą</lido:displayPlace>
+                     <lido:displayPlace xml:lang="id">Kostrzyn nad Odrą</lido:displayPlace>
+                     <lido:displayPlace xml:lang="it">Kostrzyn nad Odrą</lido:displayPlace>
+                     <lido:displayPlace xml:lang="ko">코스트신나트오드롱</lido:displayPlace>
+                     <lido:displayPlace xml:lang="nl">Kostrzyn nad Odrą</lido:displayPlace>
+                     <lido:displayPlace xml:lang="pl">Kostrzyn nad Odrą</lido:displayPlace>
+                     <lido:displayPlace xml:lang="pt">Kostrzyn nad Odrą</lido:displayPlace>
+                     <lido:displayPlace xml:lang="ro">Kostrzyn nad Odrą</lido:displayPlace>
+                     <lido:displayPlace xml:lang="ru">Костшин-над-Одрон</lido:displayPlace>
+                     <lido:displayPlace xml:lang="sv">Kostrzyn nad Odrą</lido:displayPlace>
+                     <lido:displayPlace xml:lang="vi">Kostrzyn nad Odrą</lido:displayPlace>
+                     <lido:displayPlace xml:lang="zh">奥得河畔科斯琴</lido:displayPlace>
+                     <lido:place>
+                        <lido:placeID lido:source="geonames" lido:type="uri">https://sws.geonames.org/7531390</lido:placeID>
+                        <lido:placeID lido:source="TGN" lido:type="uri">http://vocab.getty.edu/tgn/7007723</lido:placeID>
+                        <lido:placeID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4110411-0</lido:placeID>
+                        <lido:placeID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q156837</lido:placeID>
+                        <lido:placeID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/place/9479</lido:placeID>
+                        <lido:namePlaceSet>
+                           <lido:appellationValue>Kostrzyn nad Odrą</lido:appellationValue>
+                           <lido:appellationValue xml:lang="de">Kostrzyn nad Odrą</lido:appellationValue>
+                           <lido:appellationValue xml:lang="en">Kostrzyn nad Odrą</lido:appellationValue>
+                           <lido:appellationValue xml:lang="es">Kostrzyn nad Odrą</lido:appellationValue>
+                           <lido:appellationValue xml:lang="fa">کوستژن ناد اودران</lido:appellationValue>
+                           <lido:appellationValue xml:lang="fr">Kostrzyn nad Odrą</lido:appellationValue>
+                           <lido:appellationValue xml:lang="he">קיסטרין</lido:appellationValue>
+                           <lido:appellationValue xml:lang="hu">Kostrzyn nad Odrą</lido:appellationValue>
+                           <lido:appellationValue xml:lang="id">Kostrzyn nad Odrą</lido:appellationValue>
+                           <lido:appellationValue xml:lang="it">Kostrzyn nad Odrą</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ko">코스트신나트오드롱</lido:appellationValue>
+                           <lido:appellationValue xml:lang="nl">Kostrzyn nad Odrą</lido:appellationValue>
+                           <lido:appellationValue xml:lang="pl">Kostrzyn nad Odrą</lido:appellationValue>
+                           <lido:appellationValue xml:lang="pt">Kostrzyn nad Odrą</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ro">Kostrzyn nad Odrą</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ru">Костшин-над-Одрон</lido:appellationValue>
+                           <lido:appellationValue xml:lang="sv">Kostrzyn nad Odrą</lido:appellationValue>
+                           <lido:appellationValue xml:lang="vi">Kostrzyn nad Odrą</lido:appellationValue>
+                           <lido:appellationValue xml:lang="zh">奥得河畔科斯琴</lido:appellationValue>
+                        </lido:namePlaceSet>
+                        <lido:gml>
+                           <gml:Point xmlns:gml="http://www.opengis.net/gml" srsName="EPSG:4326">
+                              <gml:pos>52.588333129883 14.666666984558</gml:pos>
+                           </gml:Point>
+                        </lido:gml>
+                     </lido:place>
+                  </lido:subjectPlace>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="aat" lido:type="uri">http://vocab.getty.edu/aat/300010669</lido:conceptID>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">http://d-nb.info/gnd/4184790-8</lido:conceptID>
+                     <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh85134051</lido:conceptID>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">http://de.wikipedia.org/wiki/Terrakotta</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/115</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Terrakotta</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="aat" lido:type="uri">http://vocab.getty.edu/aat/300054156</lido:conceptID>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4002851-3</lido:conceptID>
+                     <lido:conceptID lido:source="iconclass" lido:type="uri">http://iconclass.org/rkd/48C1/</lido:conceptID>
+                     <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh85006611</lido:conceptID>
+                     <lido:conceptID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q12271</lido:conceptID>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Architektur</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/800</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Architektur</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ar">عمارة</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="bn">স্থাপত্য</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="cs">Architektura</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="da">Arkitektur</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="de">Architektur</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="el">αρχιτεκτονική</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="en">Architecture</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="es">Arquitectura</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fa">معماری</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fi">Arkkitehtuuri</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fr">Architecture</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="he">אדריכלות</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hi">वास्तुशास्त्र</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hu">építészet</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="id">Arsitektur</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="it">Architettura</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ja">建築</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ka">არქიტექტურა</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ko">건축</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="nl">Architectuur</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pl">Architektura</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pt">Arquitetura</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ro">arhitectură</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ru">архитектура</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sv">Arkitektur</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sw">Ujenzi</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ta">கட்டிடக்கலை</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="th">สถาปัตยกรรม</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tl">Arkitektura</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tr">Mimarlık</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ur">معماری</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="vi">kiến trúc</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="zh">建筑</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="aat" lido:type="uri">http://vocab.getty.edu/aat/300021140</lido:conceptID>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4049450-0</lido:conceptID>
+                     <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh85112806</lido:conceptID>
+                     <lido:conceptID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q4692</lido:conceptID>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Renaissance</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/9366</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Renaissance</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ar">عصر النهضة</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="bn">রেনেসাঁস</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="cs">Renesance</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="da">Renæssancen</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="de">Renaissance</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="el">Αναγέννηση</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="en">Renaissance</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fa">رنسانس</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fi">Renessanssi</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fr">Renaissance</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="he">רנסאנס</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hi">पुनर्जागरण</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hu">reneszánsz</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="id">Abad Renaisans</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="it">Rinascimento</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ja">ルネサンス</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ka">რენესანსი</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ko">르네상스</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="nl">Renaissance</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pl">Renesans</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pt">Renascimento</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ru">Возрождение</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sv">Renässansen</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sw">renaissance</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ta">மறுமலர்ச்சி</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="th">สมัยฟื้นฟูศิลปวิทยา</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tl">Renasimiyento</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tr">Rönesans</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ur">نشاۃ ثانیہ</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="vi">Phục Hưng</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/72817</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Schloss</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+         </lido:subjectWrap>
+         <lido:relatedWorksWrap/>
+      </lido:objectRelationWrap>
+   </lido:descriptiveMetadata>
+   <lido:administrativeMetadata xml:lang="de">
+      <lido:rightsWorkWrap>
+         <lido:rightsWorkSet>
+            <lido:rightsHolder>
+               <lido:legalBodyName>
+                  <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:rightsHolder>
+         </lido:rightsWorkSet>
+      </lido:rightsWorkWrap>
+      <lido:recordWrap>
+         <lido:recordID lido:type="museum-digital">67287</lido:recordID>
+         <lido:recordType>
+            <lido:term lido:addedSearchTerm="no">item</lido:term>
+         </lido:recordType>
+         <lido:recordSource lido:type="dataProvider">
+            <lido:legalBodyName>
+               <lido:appellationValue>museum-digital</lido:appellationValue>
+            </lido:legalBodyName>
+            <lido:legalBodyWeblink>https://berlin.museum-digital.de/</lido:legalBodyWeblink>
+         </lido:recordSource>
+         <lido:recordSource>
+            <lido:legalBodyID lido:type="isil">DE-B185</lido:legalBodyID>
+            <lido:legalBodyName>
+               <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+            </lido:legalBodyName>
+         </lido:recordSource>
+         <lido:recordRights>
+            <lido:rightsType>
+               <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no">CC BY</lido:term>
+            </lido:rightsType>
+            <lido:rightsHolder>
+               <lido:legalBodyID lido:type="isil">DE-B185</lido:legalBodyID>
+               <lido:legalBodyName>
+                  <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+               </lido:legalBodyName>
+               <lido:legalBodyWeblink>http://geschichte-brandenburg.de/</lido:legalBodyWeblink>
+            </lido:rightsHolder>
+            <lido:creditLine>Förderprogramm zur Digitalisierung von Objekten des kulturellen Erbes des Landes Berlin</lido:creditLine>
+         </lido:recordRights>
+         <lido:recordInfoSet>
+            <lido:recordInfoLink>https://berlin.museum-digital.de/index.php?t=objekt&amp;oges=67287</lido:recordInfoLink>
+            <lido:recordMetadataDate>2021-04-27 07:59:53</lido:recordMetadataDate>
+         </lido:recordInfoSet>
+      </lido:recordWrap>
+      <lido:resourceWrap>
+         <lido:resourceSet lido:sortorder="1">
+            <lido:resourceID lido:source="image" lido:type="local">48981</lido:resourceID>
+            <lido:resourceRepresentation lido:type="masterfile">
+               <lido:linkResource lido:formatResource="image/tiff"/>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_thumb">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/32/67287-lgv-archiv_c_12_h-4-018-3/kuestrin_kostrzyn_schloss/100h_kuestrin-kostrzyn-schloss-paulus-portal-aufriss-67287.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_preview">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/32/67287-lgv-archiv_c_12_h-4-018-3/kuestrin_kostrzyn_schloss/200w_kuestrin-kostrzyn-schloss-paulus-portal-aufriss-67287.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/32/67287-lgv-archiv_c_12_h-4-018-3/kuestrin_kostrzyn_schloss/kuestrin-kostrzyn-schloss-paulus-portal-aufriss-67287.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceType>
+               <lido:term lido:addedSearchTerm="no">image</lido:term>
+            </lido:resourceType>
+            <lido:resourceRelType>
+               <lido:term lido:addedSearchTerm="no">Hauptansicht</lido:term>
+            </lido:resourceRelType>
+            <lido:resourceDescription/>
+            <lido:resourceSource lido:type="creator">
+               <lido:legalBodyName>
+                  <lido:appellationValue>Thomas Voßbeck, 2020</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:resourceSource>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+                  <lido:term lido:addedSearchTerm="no">CC BY</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V.</lido:appellationValue>
+                  </lido:legalBodyName>
+               </lido:rightsHolder>
+               <lido:creditLine>Thomas Voßbeck, 2020</lido:creditLine>
+            </lido:rightsResource>
+         </lido:resourceSet>
+      </lido:resourceWrap>
+   </lido:administrativeMetadata>
+</lido:lido>
+

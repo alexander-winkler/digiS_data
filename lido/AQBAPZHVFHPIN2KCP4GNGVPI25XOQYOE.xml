@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lido:lido xmlns:lido="http://www.lido-schema.org"
+           xmlns:xalan="http://xml.apache.org/xalan">
+   <lido:lidoRecID lido:source="https://berlin.museum-digital.de/index.php?t=institution&amp;instnr=26"
+                   lido:type="local">ddb_oid1612959125221_57586</lido:lidoRecID>
+   <lido:descriptiveMetadata xml:lang="de">
+      <lido:objectClassificationWrap>
+         <lido:objectWorkTypeWrap>
+            <lido:objectWorkType>
+               <lido:term lido:addedSearchTerm="no">Planfilm-Negativ</lido:term>
+            </lido:objectWorkType>
+         </lido:objectWorkTypeWrap>
+         <lido:classificationWrap>
+            <lido:classification lido:type="Sammlung">
+               <lido:conceptID lido:source="local" lido:type="collection_id">595</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no">Krankenhaus - Ärzte Berlin (West)</lido:term>
+            </lido:classification>
+         </lido:classificationWrap>
+      </lido:objectClassificationWrap>
+      <lido:objectIdentificationWrap>
+         <lido:titleWrap>
+            <lido:titleSet>
+               <lido:appellationValue lido:pref="preferred">Porträtfotografie Frau Dr. Köhler (1)</lido:appellationValue>
+            </lido:titleSet>
+         </lido:titleWrap>
+         <lido:repositoryWrap>
+            <lido:repositorySet lido:type="current">
+               <lido:repositoryName>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Gerda Schimpf Fotoarchiv</lido:appellationValue>
+                  </lido:legalBodyName>
+                  <lido:legalBodyWeblink>https://gerda-schimpf-fotoarchiv.com</lido:legalBodyWeblink>
+               </lido:repositoryName>
+               <lido:workID lido:type="inventory number">5248</lido:workID>
+               <lido:repositoryLocation>
+                  <lido:namePlaceSet>
+                     <lido:appellationValue>Berlin</lido:appellationValue>
+                  </lido:namePlaceSet>
+                  <lido:gml/>
+               </lido:repositoryLocation>
+            </lido:repositorySet>
+         </lido:repositoryWrap>
+         <lido:objectDescriptionWrap>
+            <lido:objectDescriptionSet>
+               <lido:descriptiveNoteValue>Schwarzweißporträt Frau Dr. Köhler, Virchow-Krankenhaus, Berlin 1948.&lt;br&gt;
+&lt;br&gt;
+Frontalansicht Halbfigur sitzend. &lt;br&gt;
+Ernst blickende Ärztin mittleren Alters mit schwarzgerahmter runder Brille und im Schoß verschränkten Armen. Sie hat ein rundes Gesicht mit spitzem Kinn. Die dunklen, leicht gewellten Haare trägt sie hinten hochgesteckt. Sie trägt eine weiße Bluse ,it spitzem Kragen und einen dunklen Faltenrock aus leicht glänzendem Stoff. &lt;br&gt;
+&lt;br&gt;
+Im Hintergrund unten ist ein Holzboden mit einem Perseteppich zu sehen. Darüber eine Zimmerecke mit weißen Wänden.&lt;br&gt;
+&lt;br&gt;
+I.K.</lido:descriptiveNoteValue>
+               <lido:sourceDescriptiveNote>Gerda Schimpf Fotoarchiv</lido:sourceDescriptiveNote>
+            </lido:objectDescriptionSet>
+         </lido:objectDescriptionWrap>
+         <lido:objectMeasurementsWrap>
+            <lido:objectMeasurementsSet>
+               <lido:displayObjectMeasurements>Höhe: 6 cm, Breite: 9 cm</lido:displayObjectMeasurements>
+               <lido:objectMeasurements>
+                  <lido:measurementsSet>
+                     <lido:measurementType>width</lido:measurementType>
+                     <lido:measurementUnit>cm</lido:measurementUnit>
+                     <lido:measurementValue>9</lido:measurementValue>
+                  </lido:measurementsSet>
+                  <lido:measurementsSet>
+                     <lido:measurementType>height</lido:measurementType>
+                     <lido:measurementUnit>cm</lido:measurementUnit>
+                     <lido:measurementValue>6</lido:measurementValue>
+                  </lido:measurementsSet>
+               </lido:objectMeasurements>
+            </lido:objectMeasurementsSet>
+         </lido:objectMeasurementsWrap>
+      </lido:objectIdentificationWrap>
+      <lido:eventWrap>
+         <lido:eventSet>
+            <lido:displayEvent>Aufgenommen</lido:displayEvent>
+            <lido:event>
+               <lido:eventID lido:type="local">139822</lido:eventID>
+               <lido:eventType>
+                  <lido:conceptID lido:type="uri">https://event-types.museum-digital.org/10</lido:conceptID>
+                  <lido:term lido:addedSearchTerm="no">Aufgenommen</lido:term>
+               </lido:eventType>
+               <lido:eventName>
+                  <lido:appellationValue>Aufgenommen --- Objekt 57586</lido:appellationValue>
+               </lido:eventName>
+               <lido:eventActor>
+                  <lido:displayActorInRole>Gerda Schimpf (1913-2014)</lido:displayActorInRole>
+                  <lido:actorInRole>
+                     <lido:actor>
+                        <lido:actorID lido:source="gnd" lido:type="uri">http://d-nb.info/gnd/1131575903</lido:actorID>
+                        <lido:actorID lido:source="viaf" lido:type="uri">https://viaf.org/viaf/2653149489090493810007</lido:actorID>
+                        <lido:actorID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/persinst/42576</lido:actorID>
+                        <lido:nameActorSet>
+                           <lido:appellationValue>Schimpf, Gerda</lido:appellationValue>
+                        </lido:nameActorSet>
+                        <lido:vitalDatesActor>
+                           <lido:earliestDate>1913</lido:earliestDate>
+                           <lido:latestDate>2014</lido:latestDate>
+                        </lido:vitalDatesActor>
+                     </lido:actor>
+                  </lido:actorInRole>
+               </lido:eventActor>
+               <lido:eventDate>
+                  <lido:displayDate>1948</lido:displayDate>
+                  <lido:displayDate xml:lang="ar">1948</lido:displayDate>
+                  <lido:displayDate xml:lang="en">1948</lido:displayDate>
+                  <lido:displayDate xml:lang="es">1948</lido:displayDate>
+                  <lido:displayDate xml:lang="fa">1948</lido:displayDate>
+                  <lido:displayDate xml:lang="fr">1948</lido:displayDate>
+                  <lido:displayDate xml:lang="hu">1948</lido:displayDate>
+                  <lido:displayDate xml:lang="id">1948</lido:displayDate>
+                  <lido:displayDate xml:lang="it">1948</lido:displayDate>
+                  <lido:displayDate xml:lang="ja">1948年</lido:displayDate>
+                  <lido:displayDate xml:lang="ka">1948</lido:displayDate>
+                  <lido:displayDate xml:lang="ko">1948년</lido:displayDate>
+                  <lido:displayDate xml:lang="pl">1948</lido:displayDate>
+                  <lido:displayDate xml:lang="pt">1948</lido:displayDate>
+                  <lido:displayDate xml:lang="ro">1948</lido:displayDate>
+                  <lido:displayDate xml:lang="ru">1948</lido:displayDate>
+                  <lido:displayDate xml:lang="ta">1948</lido:displayDate>
+                  <lido:displayDate xml:lang="tl">1948</lido:displayDate>
+                  <lido:displayDate xml:lang="tr">1948</lido:displayDate>
+                  <lido:displayDate xml:lang="zh">1948年</lido:displayDate>
+                  <lido:date>
+                     <lido:earliestDate>1948</lido:earliestDate>
+                     <lido:latestDate>1948</lido:latestDate>
+                  </lido:date>
+               </lido:eventDate>
+               <lido:eventPlace>
+                  <lido:displayPlace>West-Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ar">برلين الغربية</lido:displayPlace>
+                  <lido:displayPlace xml:lang="cs">Západní Berlín</lido:displayPlace>
+                  <lido:displayPlace xml:lang="da">Vestberlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="el">Δυτικό Βερολίνο</lido:displayPlace>
+                  <lido:displayPlace xml:lang="en">West Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="es">Berlín Oeste</lido:displayPlace>
+                  <lido:displayPlace xml:lang="fa">برلین غربی</lido:displayPlace>
+                  <lido:displayPlace xml:lang="fi">Länsi-Berliini</lido:displayPlace>
+                  <lido:displayPlace xml:lang="fr">Berlin-Ouest</lido:displayPlace>
+                  <lido:displayPlace xml:lang="he">ברלין המערבית</lido:displayPlace>
+                  <lido:displayPlace xml:lang="hu">Nyugat-Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="id">Berlin Barat</lido:displayPlace>
+                  <lido:displayPlace xml:lang="it">Berlino Ovest</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ja">西ベルリン</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ka">დასავლეთი ბერლინი</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ko">서베를린</lido:displayPlace>
+                  <lido:displayPlace xml:lang="nl">West-Berlijn</lido:displayPlace>
+                  <lido:displayPlace xml:lang="pl">Berlin Zachodni</lido:displayPlace>
+                  <lido:displayPlace xml:lang="pt">Berlim Ocidental</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ro">Berlinul de Vest</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ru">Западный Берлин</lido:displayPlace>
+                  <lido:displayPlace xml:lang="sv">Västberlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="th">เบอร์ลินตะวันตก</lido:displayPlace>
+                  <lido:displayPlace xml:lang="tr">Batı Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ur">مغربی برلن</lido:displayPlace>
+                  <lido:displayPlace xml:lang="vi">Tây Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="zh">西柏林</lido:displayPlace>
+                  <lido:place>
+                     <lido:placeID lido:source="geonames" lido:type="uri">https://sws.geonames.org/11612751</lido:placeID>
+                     <lido:placeID lido:source="TGN" lido:type="uri">http://vocab.getty.edu/tgn/7003714</lido:placeID>
+                     <lido:placeID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4069304-1</lido:placeID>
+                     <lido:placeID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q56036</lido:placeID>
+                     <lido:placeID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/place/27811</lido:placeID>
+                     <lido:namePlaceSet>
+                        <lido:appellationValue>West-Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ar">برلين الغربية</lido:appellationValue>
+                        <lido:appellationValue xml:lang="cs">Západní Berlín</lido:appellationValue>
+                        <lido:appellationValue xml:lang="da">Vestberlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="el">Δυτικό Βερολίνο</lido:appellationValue>
+                        <lido:appellationValue xml:lang="en">West Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="es">Berlín Oeste</lido:appellationValue>
+                        <lido:appellationValue xml:lang="fa">برلین غربی</lido:appellationValue>
+                        <lido:appellationValue xml:lang="fi">Länsi-Berliini</lido:appellationValue>
+                        <lido:appellationValue xml:lang="fr">Berlin-Ouest</lido:appellationValue>
+                        <lido:appellationValue xml:lang="he">ברלין המערבית</lido:appellationValue>
+                        <lido:appellationValue xml:lang="hu">Nyugat-Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="id">Berlin Barat</lido:appellationValue>
+                        <lido:appellationValue xml:lang="it">Berlino Ovest</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ja">西ベルリン</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ka">დასავლეთი ბერლინი</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ko">서베를린</lido:appellationValue>
+                        <lido:appellationValue xml:lang="nl">West-Berlijn</lido:appellationValue>
+                        <lido:appellationValue xml:lang="pl">Berlin Zachodni</lido:appellationValue>
+                        <lido:appellationValue xml:lang="pt">Berlim Ocidental</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ro">Berlinul de Vest</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ru">Западный Берлин</lido:appellationValue>
+                        <lido:appellationValue xml:lang="sv">Västberlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="th">เบอร์ลินตะวันตก</lido:appellationValue>
+                        <lido:appellationValue xml:lang="tr">Batı Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ur">مغربی برلن</lido:appellationValue>
+                        <lido:appellationValue xml:lang="vi">Tây Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="zh">西柏林</lido:appellationValue>
+                     </lido:namePlaceSet>
+                     <lido:gml/>
+                  </lido:place>
+               </lido:eventPlace>
+            </lido:event>
+         </lido:eventSet>
+         <lido:eventSet>
+            <lido:event>
+               <lido:eventType>
+                  <lido:conceptID lido:type="uri">http://terminology.lido-schema.org/lido00003</lido:conceptID>
+                  <lido:term>Event (non-specified)</lido:term>
+               </lido:eventType>
+               <lido:eventMaterialsTech>
+                  <lido:displayMaterialsTech>Negativfilm Zelluloseacetat</lido:displayMaterialsTech>
+               </lido:eventMaterialsTech>
+            </lido:event>
+         </lido:eventSet>
+      </lido:eventWrap>
+      <lido:objectRelationWrap>
+         <lido:subjectWrap>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectActor>
+                     <lido:displayActor>Rudolf-Virchow-Krankenhaus</lido:displayActor>
+                     <lido:actor>
+                        <lido:actorID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/1031695281</lido:actorID>
+                        <lido:actorID lido:source="viaf" lido:type="uri">https://viaf.org/viaf/296091036</lido:actorID>
+                        <lido:actorID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q2172279</lido:actorID>
+                        <lido:actorID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Rudolf-Virchow-Krankenhaus</lido:actorID>
+                        <lido:actorID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/persinst/40800</lido:actorID>
+                        <lido:nameActorSet>
+                           <lido:appellationValue>Rudolf-Virchow-Krankenhaus</lido:appellationValue>
+                           <lido:appellationValue xml:lang="en">Virchow Klinikum</lido:appellationValue>
+                           <lido:appellationValue xml:lang="fr">hôpital Rudolf Virchow</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ru">Больница Рудольфа Вирхова</lido:appellationValue>
+                        </lido:nameActorSet>
+                     </lido:actor>
+                  </lido:subjectActor>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/3764</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Krankenhaus</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/10580</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Krankenhausgeschichte</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="aat" lido:type="uri">http://vocab.getty.edu/aat/300025809</lido:conceptID>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4003157-3</lido:conceptID>
+                     <lido:conceptID lido:source="iconclass" lido:type="uri">http://iconclass.org/rkd/49G1/</lido:conceptID>
+                     <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh85101610</lido:conceptID>
+                     <lido:conceptID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q39631</lido:conceptID>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Arzt</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/69530</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Ärztin</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ar">طبيب</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="bn">চিকিৎসক</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="cs">Lékař</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="da">Læge</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="el">ιατρός</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="en">Physician</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="es">Médico</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fa">پزشک</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fi">Lääkäri</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fr">Médecin</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="he">רופא</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hi">चिकित्सक</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hu">orvos</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="id">Dokter</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="it">Medico</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ja">医師</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ka">ექიმი</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ko">의사</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="nl">Arts</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pl">Lekarz</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pt">Médico</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ro">medic</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ru">врач</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sv">Läkare</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sw">daktari</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ta">மருத்துவர்</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="th">แพทย์</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tr">Doktor</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ur">طبیب</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="vi">thầy thuốc</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="zh">医生</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+         </lido:subjectWrap>
+      </lido:objectRelationWrap>
+   </lido:descriptiveMetadata>
+   <lido:administrativeMetadata xml:lang="de">
+      <lido:rightsWorkWrap>
+         <lido:rightsWorkSet>
+            <lido:rightsHolder>
+               <lido:legalBodyName>
+                  <lido:appellationValue>Gerda Schimpf Fotoarchiv</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:rightsHolder>
+         </lido:rightsWorkSet>
+      </lido:rightsWorkWrap>
+      <lido:recordWrap>
+         <lido:recordID lido:type="museum-digital">57586</lido:recordID>
+         <lido:recordType>
+            <lido:term lido:addedSearchTerm="no">item</lido:term>
+         </lido:recordType>
+         <lido:recordSource lido:type="dataProvider">
+            <lido:legalBodyName>
+               <lido:appellationValue>museum-digital</lido:appellationValue>
+            </lido:legalBodyName>
+            <lido:legalBodyWeblink>https://berlin.museum-digital.de/</lido:legalBodyWeblink>
+         </lido:recordSource>
+         <lido:recordSource>
+            <lido:legalBodyName>
+               <lido:appellationValue>Gerda Schimpf Fotoarchiv</lido:appellationValue>
+            </lido:legalBodyName>
+         </lido:recordSource>
+         <lido:recordRights>
+            <lido:rightsType>
+               <lido:conceptID lido:type="uri">https://creativecommons.org/publicdomain/zero/1.0/</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no">CC 0</lido:term>
+            </lido:rightsType>
+            <lido:rightsHolder>
+               <lido:legalBodyName>
+                  <lido:appellationValue>Gerda Schimpf Fotoarchiv</lido:appellationValue>
+               </lido:legalBodyName>
+               <lido:legalBodyWeblink>https://gerda-schimpf-fotoarchiv.com</lido:legalBodyWeblink>
+            </lido:rightsHolder>
+            <lido:creditLine>Förderprogramm zur Digitalisierung von Objekten des kulturellen Erbes des Landes Berlin</lido:creditLine>
+         </lido:recordRights>
+         <lido:recordInfoSet>
+            <lido:recordInfoLink>https://berlin.museum-digital.de/index.php?t=objekt&amp;oges=57586</lido:recordInfoLink>
+            <lido:recordMetadataDate>2021-05-10 13:20:47</lido:recordMetadataDate>
+         </lido:recordInfoSet>
+      </lido:recordWrap>
+      <lido:resourceWrap>
+         <lido:resourceSet lido:sortorder="1">
+            <lido:resourceID lido:source="image" lido:type="local">59643</lido:resourceID>
+            <lido:resourceRepresentation lido:type="image_thumb">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/26/57586-5248/portraetfotografie_frau_d/100h_portraetfotografie-frau-dr-koehler-57586.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_preview">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/26/57586-5248/portraetfotografie_frau_d/200w_portraetfotografie-frau-dr-koehler-57586.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="Provided image">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/26/57586-5248/portraetfotografie_frau_d/portraetfotografie-frau-dr-koehler-57586.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceType>
+               <lido:term lido:addedSearchTerm="no">image</lido:term>
+            </lido:resourceType>
+            <lido:resourceRelType>
+               <lido:term lido:addedSearchTerm="no">Hauptansicht</lido:term>
+            </lido:resourceRelType>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+                  <lido:term lido:addedSearchTerm="no">CC BY</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Gerda Schimpf Fotoarchiv</lido:appellationValue>
+                  </lido:legalBodyName>
+               </lido:rightsHolder>
+            </lido:rightsResource>
+         </lido:resourceSet>
+      </lido:resourceWrap>
+   </lido:administrativeMetadata>
+</lido:lido>
+

@@ -1,0 +1,493 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lido:lido xmlns:lido="http://www.lido-schema.org"
+           xmlns:xalan="http://xml.apache.org/xalan">
+   <lido:lidoRecID lido:source="https://berlin.museum-digital.de/index.php?t=institution&amp;instnr=32"
+                   lido:type="local">DE-B185/66921</lido:lidoRecID>
+   <lido:category/>
+   <lido:descriptiveMetadata xml:lang="de">
+      <lido:objectClassificationWrap>
+         <lido:objectWorkTypeWrap>
+            <lido:objectWorkType>
+               <lido:conceptID lido:source="gnd" lido:type="uri">http://d-nb.info/gnd/4021845-4</lido:conceptID>
+               <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/13314</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Druckgraphik</lido:term>
+            </lido:objectWorkType>
+         </lido:objectWorkTypeWrap>
+         <lido:classificationWrap>
+            <lido:classification lido:type="Sammlung">
+               <lido:conceptID lido:source="local" lido:type="collection_id">705</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Handzeichnungen, Druckgraphik, Gemälde</lido:term>
+            </lido:classification>
+            <lido:classification lido:type="Sammlung">
+               <lido:conceptID lido:source="local" lido:type="collection_id">706</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Ansichten</lido:term>
+            </lido:classification>
+            <lido:classification lido:type="Sammlung">
+               <lido:conceptID lido:source="local" lido:type="collection_id">708</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Brandenburg</lido:term>
+            </lido:classification>
+            <lido:classification>
+               <lido:conceptID lido:source="local" lido:type="series_id">148</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no">Holzschnittfolge Potsdam von R. Grosse</lido:term>
+            </lido:classification>
+         </lido:classificationWrap>
+      </lido:objectClassificationWrap>
+      <lido:objectIdentificationWrap>
+         <lido:titleWrap>
+            <lido:titleSet>
+               <lido:appellationValue lido:pref="preferred">Potsdam-Sanssouci: Chinesisches Teehaus</lido:appellationValue>
+            </lido:titleSet>
+         </lido:titleWrap>
+         <lido:repositoryWrap>
+            <lido:repositorySet lido:type="current">
+               <lido:repositoryName>
+                  <lido:legalBodyID lido:type="isil">DE-B185</lido:legalBodyID>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+                  </lido:legalBodyName>
+                  <lido:legalBodyWeblink>http://geschichte-brandenburg.de/</lido:legalBodyWeblink>
+               </lido:repositoryName>
+               <lido:workID lido:type="inventory number">LGV-Archiv, C 12 G-3-014</lido:workID>
+               <lido:repositoryLocation>
+                  <lido:namePlaceSet>
+                     <lido:appellationValue>Berlin</lido:appellationValue>
+                  </lido:namePlaceSet>
+                  <lido:gml>
+                     <gml:Point xmlns:gml="http://www.opengis.net/gml" srsName="EPSG:4326">
+                        <gml:pos>52.51533127 13.40440559</gml:pos>
+                     </gml:Point>
+                  </lido:gml>
+               </lido:repositoryLocation>
+            </lido:repositorySet>
+         </lido:repositoryWrap>
+         <lido:objectDescriptionWrap>
+            <lido:objectDescriptionSet>
+               <lido:descriptiveNoteValue>Das bekannte Teehaus im Park Sanssouci ist ein häufig dargestelltes Motiv, der junge Künstler folgt hier einerseits touristischen Erwartungen und versucht zugleich durch eine dynamsiche Handschrift Eigenständigkeit der Sichtweise zu demonstrieren. Der Linolschnitt ist Teil einer Serie von Potsdamer Ansichten, die der aus Potsdam gebürtige und damals dort ansässige, aber in Berlin als Architekt in Berlin tätige Rudolf Grosse (1906-1986) in der zweiten Hälfte der zwanziger und ersten Hälfte der dreißger Jahre schuf. In der Sammlung des Archivs liegen aus der Serie neben dem hier gezeigten Blatt noch zwei weitere vor: Heilandskirche Sacrow (1934) und Garnisonkirche Potsdam (1933). Außerhalb der Serie steht der Linolschnitt "Am Großen Fenster".&#xD;
+&#xD;
+Bez. re. u. handschriftlich "RGrosse", in der Darstellung li. u. das Monogramm "G".&#xD;
+Schenkung aus Berliner Privatbesitz 1988.&#xD;
+&#xD;
+Literatur zum Künstler: Peter Bahl: Grosse (Große), Rudolf, dt. Architekt, Maler, Zeichner. In: Saur Künstlerlexikon. Bd. 63. München 2009, Sp. 156.</lido:descriptiveNoteValue>
+               <lido:sourceDescriptiveNote>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:sourceDescriptiveNote>
+            </lido:objectDescriptionSet>
+         </lido:objectDescriptionWrap>
+         <lido:objectMeasurementsWrap>
+            <lido:objectMeasurementsSet>
+               <lido:displayObjectMeasurements>Blattgröße: Höhe 31 cm, Breite 43 cm, Bildgröße: Höhe 21,2 cm, Breite 25,8 cm</lido:displayObjectMeasurements>
+               <lido:objectMeasurements/>
+            </lido:objectMeasurementsSet>
+         </lido:objectMeasurementsWrap>
+      </lido:objectIdentificationWrap>
+      <lido:eventWrap>
+         <lido:eventSet>
+            <lido:event>
+               <lido:eventType>
+                  <lido:conceptID lido:type="uri">https://event-types.museum-digital.org/1</lido:conceptID>
+                  <lido:term lido:addedSearchTerm="no">Hergestellt</lido:term>
+               </lido:eventType>
+               <lido:eventActor>
+                  <lido:displayActorInRole>Rudolf Grosse (1906-1986)</lido:displayActorInRole>
+                  <lido:actorInRole>
+                     <lido:actor>
+                        <lido:actorID lido:source="allgemein" lido:type="uri">http://www.stadtteilzeitung-schoeneberg.de/2010/juli/11.htm</lido:actorID>
+                        <lido:actorID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/persinst/125417</lido:actorID>
+                        <lido:nameActorSet>
+                           <lido:appellationValue>Grosse, Rudolf</lido:appellationValue>
+                           <lido:appellationValue xml:lang="de">Rudolf Grosse</lido:appellationValue>
+                        </lido:nameActorSet>
+                        <lido:vitalDatesActor>
+                           <lido:earliestDate>1906</lido:earliestDate>
+                           <lido:latestDate>1986</lido:latestDate>
+                        </lido:vitalDatesActor>
+                     </lido:actor>
+                  </lido:actorInRole>
+               </lido:eventActor>
+               <lido:eventDate>
+                  <lido:displayDate>1934</lido:displayDate>
+                  <lido:displayDate xml:lang="ar">1934</lido:displayDate>
+                  <lido:displayDate xml:lang="de">1934</lido:displayDate>
+                  <lido:displayDate xml:lang="en">1934</lido:displayDate>
+                  <lido:displayDate xml:lang="es">1934</lido:displayDate>
+                  <lido:displayDate xml:lang="fa">1934</lido:displayDate>
+                  <lido:displayDate xml:lang="fr">1934</lido:displayDate>
+                  <lido:displayDate xml:lang="hu">1934</lido:displayDate>
+                  <lido:displayDate xml:lang="id">1934</lido:displayDate>
+                  <lido:displayDate xml:lang="it">1934</lido:displayDate>
+                  <lido:displayDate xml:lang="ja">1934年</lido:displayDate>
+                  <lido:displayDate xml:lang="ka">1934</lido:displayDate>
+                  <lido:displayDate xml:lang="ko">1934년</lido:displayDate>
+                  <lido:displayDate xml:lang="pl">1934</lido:displayDate>
+                  <lido:displayDate xml:lang="pt">1934</lido:displayDate>
+                  <lido:displayDate xml:lang="ro">1934</lido:displayDate>
+                  <lido:displayDate xml:lang="ru">1934</lido:displayDate>
+                  <lido:displayDate xml:lang="ta">1934</lido:displayDate>
+                  <lido:displayDate xml:lang="tl">1934</lido:displayDate>
+                  <lido:displayDate xml:lang="tr">1934</lido:displayDate>
+                  <lido:displayDate xml:lang="zh">1934年</lido:displayDate>
+                  <lido:date>
+                     <lido:earliestDate>1934</lido:earliestDate>
+                     <lido:latestDate>1934</lido:latestDate>
+                  </lido:date>
+               </lido:eventDate>
+               <lido:eventPlace>
+                  <lido:displayPlace>Potsdam</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ar">بوتسدام</lido:displayPlace>
+                  <lido:displayPlace xml:lang="cs">Postupim</lido:displayPlace>
+                  <lido:displayPlace xml:lang="da">Potsdam</lido:displayPlace>
+                  <lido:displayPlace xml:lang="de">Potsdam</lido:displayPlace>
+                  <lido:displayPlace xml:lang="el">Πότσδαμ</lido:displayPlace>
+                  <lido:displayPlace xml:lang="en">Potsdam</lido:displayPlace>
+                  <lido:displayPlace xml:lang="es">Potsdam</lido:displayPlace>
+                  <lido:displayPlace xml:lang="fa">پوتسدام</lido:displayPlace>
+                  <lido:displayPlace xml:lang="fi">Potsdam</lido:displayPlace>
+                  <lido:displayPlace xml:lang="fr">Potsdam</lido:displayPlace>
+                  <lido:displayPlace xml:lang="he">פוטסדאם</lido:displayPlace>
+                  <lido:displayPlace xml:lang="hi">पॉट्सडैम</lido:displayPlace>
+                  <lido:displayPlace xml:lang="hu">Potsdam</lido:displayPlace>
+                  <lido:displayPlace xml:lang="id">Potsdam</lido:displayPlace>
+                  <lido:displayPlace xml:lang="it">Potsdam</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ja">ポツダム</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ka">პოტსდამი</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ko">포츠담</lido:displayPlace>
+                  <lido:displayPlace xml:lang="nl">Potsdam</lido:displayPlace>
+                  <lido:displayPlace xml:lang="pl">Poczdam</lido:displayPlace>
+                  <lido:displayPlace xml:lang="pt">Potsdam</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ru">Потсдам</lido:displayPlace>
+                  <lido:displayPlace xml:lang="sv">Potsdam</lido:displayPlace>
+                  <lido:displayPlace xml:lang="sw">Potsdam</lido:displayPlace>
+                  <lido:displayPlace xml:lang="th">พ็อทซ์ดัม</lido:displayPlace>
+                  <lido:displayPlace xml:lang="tr">Potsdam</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ur">پاٹسڈیم</lido:displayPlace>
+                  <lido:displayPlace xml:lang="vi">Potsdam</lido:displayPlace>
+                  <lido:displayPlace xml:lang="zh">波茨坦</lido:displayPlace>
+                  <lido:place>
+                     <lido:placeID lido:source="geonames" lido:type="uri">https://sws.geonames.org/2852458</lido:placeID>
+                     <lido:placeID lido:source="TGN" lido:type="uri">http://vocab.getty.edu/tgn/7004463</lido:placeID>
+                     <lido:placeID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4046948-7</lido:placeID>
+                     <lido:placeID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q1711</lido:placeID>
+                     <lido:placeID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/place/113</lido:placeID>
+                     <lido:namePlaceSet>
+                        <lido:appellationValue>Potsdam</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ar">بوتسدام</lido:appellationValue>
+                        <lido:appellationValue xml:lang="cs">Postupim</lido:appellationValue>
+                        <lido:appellationValue xml:lang="da">Potsdam</lido:appellationValue>
+                        <lido:appellationValue xml:lang="de">Potsdam</lido:appellationValue>
+                        <lido:appellationValue xml:lang="el">Πότσδαμ</lido:appellationValue>
+                        <lido:appellationValue xml:lang="en">Potsdam</lido:appellationValue>
+                        <lido:appellationValue xml:lang="es">Potsdam</lido:appellationValue>
+                        <lido:appellationValue xml:lang="fa">پوتسدام</lido:appellationValue>
+                        <lido:appellationValue xml:lang="fi">Potsdam</lido:appellationValue>
+                        <lido:appellationValue xml:lang="fr">Potsdam</lido:appellationValue>
+                        <lido:appellationValue xml:lang="he">פוטסדאם</lido:appellationValue>
+                        <lido:appellationValue xml:lang="hi">पॉट्सडैम</lido:appellationValue>
+                        <lido:appellationValue xml:lang="hu">Potsdam</lido:appellationValue>
+                        <lido:appellationValue xml:lang="id">Potsdam</lido:appellationValue>
+                        <lido:appellationValue xml:lang="it">Potsdam</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ja">ポツダム</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ka">პოტსდამი</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ko">포츠담</lido:appellationValue>
+                        <lido:appellationValue xml:lang="nl">Potsdam</lido:appellationValue>
+                        <lido:appellationValue xml:lang="pl">Poczdam</lido:appellationValue>
+                        <lido:appellationValue xml:lang="pt">Potsdam</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ru">Потсдам</lido:appellationValue>
+                        <lido:appellationValue xml:lang="sv">Potsdam</lido:appellationValue>
+                        <lido:appellationValue xml:lang="sw">Potsdam</lido:appellationValue>
+                        <lido:appellationValue xml:lang="th">พ็อทซ์ดัม</lido:appellationValue>
+                        <lido:appellationValue xml:lang="tr">Potsdam</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ur">پاٹسڈیم</lido:appellationValue>
+                        <lido:appellationValue xml:lang="vi">Potsdam</lido:appellationValue>
+                        <lido:appellationValue xml:lang="zh">波茨坦</lido:appellationValue>
+                     </lido:namePlaceSet>
+                     <lido:gml>
+                        <gml:Point xmlns:gml="http://www.opengis.net/gml" srsName="EPSG:4326">
+                           <gml:pos>52.400001525879 13.066666603088</gml:pos>
+                        </gml:Point>
+                     </lido:gml>
+                  </lido:place>
+               </lido:eventPlace>
+            </lido:event>
+         </lido:eventSet>
+         <lido:eventSet>
+            <lido:event>
+               <lido:eventType>
+                  <lido:conceptID lido:type="uri">http://terminology.lido-schema.org/lido00003</lido:conceptID>
+                  <lido:term>Event (non-specified)</lido:term>
+               </lido:eventType>
+               <lido:eventMaterialsTech>
+                  <lido:displayMaterialsTech>Linolschnitt auf dünnem Maschinenpapier</lido:displayMaterialsTech>
+               </lido:eventMaterialsTech>
+            </lido:event>
+         </lido:eventSet>
+      </lido:eventWrap>
+      <lido:objectRelationWrap>
+         <lido:subjectWrap>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectPlace>
+                     <lido:displayPlace>Potsdam</lido:displayPlace>
+                     <lido:displayPlace xml:lang="ar">بوتسدام</lido:displayPlace>
+                     <lido:displayPlace xml:lang="cs">Postupim</lido:displayPlace>
+                     <lido:displayPlace xml:lang="da">Potsdam</lido:displayPlace>
+                     <lido:displayPlace xml:lang="de">Potsdam</lido:displayPlace>
+                     <lido:displayPlace xml:lang="el">Πότσδαμ</lido:displayPlace>
+                     <lido:displayPlace xml:lang="en">Potsdam</lido:displayPlace>
+                     <lido:displayPlace xml:lang="es">Potsdam</lido:displayPlace>
+                     <lido:displayPlace xml:lang="fa">پوتسدام</lido:displayPlace>
+                     <lido:displayPlace xml:lang="fi">Potsdam</lido:displayPlace>
+                     <lido:displayPlace xml:lang="fr">Potsdam</lido:displayPlace>
+                     <lido:displayPlace xml:lang="he">פוטסדאם</lido:displayPlace>
+                     <lido:displayPlace xml:lang="hi">पॉट्सडैम</lido:displayPlace>
+                     <lido:displayPlace xml:lang="hu">Potsdam</lido:displayPlace>
+                     <lido:displayPlace xml:lang="id">Potsdam</lido:displayPlace>
+                     <lido:displayPlace xml:lang="it">Potsdam</lido:displayPlace>
+                     <lido:displayPlace xml:lang="ja">ポツダム</lido:displayPlace>
+                     <lido:displayPlace xml:lang="ka">პოტსდამი</lido:displayPlace>
+                     <lido:displayPlace xml:lang="ko">포츠담</lido:displayPlace>
+                     <lido:displayPlace xml:lang="nl">Potsdam</lido:displayPlace>
+                     <lido:displayPlace xml:lang="pl">Poczdam</lido:displayPlace>
+                     <lido:displayPlace xml:lang="pt">Potsdam</lido:displayPlace>
+                     <lido:displayPlace xml:lang="ru">Потсдам</lido:displayPlace>
+                     <lido:displayPlace xml:lang="sv">Potsdam</lido:displayPlace>
+                     <lido:displayPlace xml:lang="sw">Potsdam</lido:displayPlace>
+                     <lido:displayPlace xml:lang="th">พ็อทซ์ดัม</lido:displayPlace>
+                     <lido:displayPlace xml:lang="tr">Potsdam</lido:displayPlace>
+                     <lido:displayPlace xml:lang="ur">پاٹسڈیم</lido:displayPlace>
+                     <lido:displayPlace xml:lang="vi">Potsdam</lido:displayPlace>
+                     <lido:displayPlace xml:lang="zh">波茨坦</lido:displayPlace>
+                     <lido:place>
+                        <lido:placeID lido:source="geonames" lido:type="uri">https://sws.geonames.org/2852458</lido:placeID>
+                        <lido:placeID lido:source="TGN" lido:type="uri">http://vocab.getty.edu/tgn/7004463</lido:placeID>
+                        <lido:placeID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4046948-7</lido:placeID>
+                        <lido:placeID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q1711</lido:placeID>
+                        <lido:placeID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/place/113</lido:placeID>
+                        <lido:namePlaceSet>
+                           <lido:appellationValue>Potsdam</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ar">بوتسدام</lido:appellationValue>
+                           <lido:appellationValue xml:lang="cs">Postupim</lido:appellationValue>
+                           <lido:appellationValue xml:lang="da">Potsdam</lido:appellationValue>
+                           <lido:appellationValue xml:lang="de">Potsdam</lido:appellationValue>
+                           <lido:appellationValue xml:lang="el">Πότσδαμ</lido:appellationValue>
+                           <lido:appellationValue xml:lang="en">Potsdam</lido:appellationValue>
+                           <lido:appellationValue xml:lang="es">Potsdam</lido:appellationValue>
+                           <lido:appellationValue xml:lang="fa">پوتسدام</lido:appellationValue>
+                           <lido:appellationValue xml:lang="fi">Potsdam</lido:appellationValue>
+                           <lido:appellationValue xml:lang="fr">Potsdam</lido:appellationValue>
+                           <lido:appellationValue xml:lang="he">פוטסדאם</lido:appellationValue>
+                           <lido:appellationValue xml:lang="hi">पॉट्सडैम</lido:appellationValue>
+                           <lido:appellationValue xml:lang="hu">Potsdam</lido:appellationValue>
+                           <lido:appellationValue xml:lang="id">Potsdam</lido:appellationValue>
+                           <lido:appellationValue xml:lang="it">Potsdam</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ja">ポツダム</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ka">პოტსდამი</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ko">포츠담</lido:appellationValue>
+                           <lido:appellationValue xml:lang="nl">Potsdam</lido:appellationValue>
+                           <lido:appellationValue xml:lang="pl">Poczdam</lido:appellationValue>
+                           <lido:appellationValue xml:lang="pt">Potsdam</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ru">Потсдам</lido:appellationValue>
+                           <lido:appellationValue xml:lang="sv">Potsdam</lido:appellationValue>
+                           <lido:appellationValue xml:lang="sw">Potsdam</lido:appellationValue>
+                           <lido:appellationValue xml:lang="th">พ็อทซ์ดัม</lido:appellationValue>
+                           <lido:appellationValue xml:lang="tr">Potsdam</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ur">پاٹسڈیم</lido:appellationValue>
+                           <lido:appellationValue xml:lang="vi">Potsdam</lido:appellationValue>
+                           <lido:appellationValue xml:lang="zh">波茨坦</lido:appellationValue>
+                        </lido:namePlaceSet>
+                        <lido:gml>
+                           <gml:Point xmlns:gml="http://www.opengis.net/gml" srsName="EPSG:4326">
+                              <gml:pos>52.400001525879 13.066666603088</gml:pos>
+                           </gml:Point>
+                        </lido:gml>
+                     </lido:place>
+                  </lido:subjectPlace>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q22698</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/2568</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Park</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ar">متنزه</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="cs">Park</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="da">Park</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="de">Park</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="el">πάρκο</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="en">Park</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="es">Parque</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fa">بوستان</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fi">Puisto</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fr">Parc</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="he">פארק</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hi">पार्क</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hu">park</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="id">Taman</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="it">Parco</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ja">公園</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ko">공원</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="nl">Park</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pl">Park</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pt">Parque</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ro">parc</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ru">парк</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sv">Park</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ta">பூங்கா</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="th">สวนสาธารณะ</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tl">Liwasan</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tr">Park</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ur">پارک</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="vi">công viên</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="zh">公园</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">http://d-nb.info/gnd/4140684-9</lido:conceptID>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">http://de.wikipedia.org/wiki/Schlosspark</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/8261</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Schlosspark</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4021845-4</lido:conceptID>
+                     <lido:conceptID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q1027879</lido:conceptID>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">https://en.wikipedia.org/wiki/Graphics</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/13314</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Druckgraphik</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ar">رسوميات</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="bn">গ্রাফিক্স</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="cs">Grafika</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="de">Druckgraphik</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="el">Γραφικά</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="en">Graphics</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="es">gráficos</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fa">ارتباط تصویری</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fr">Graphique</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="he">גרפיקה</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hi">चित्रालेख</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hu">Grafika</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="id">Grafika</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ja">グラフィック</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ka">გრაფიკა</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ko">그래픽</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="nl">Grafiek</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pl">Grafika</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pt">Gráfico</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ro">grafică</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ru">графика</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ta">வரைகலை</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tr">Grafik</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ur">تخطیط</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="zh">图形</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="aat" lido:type="uri">https://vocab.getty.edu/page/aat/300007956</lido:conceptID>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">http://d-nb.info/gnd/4470999-7</lido:conceptID>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Teehaus</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/38054</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Teehaus</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+         </lido:subjectWrap>
+         <lido:relatedWorksWrap/>
+      </lido:objectRelationWrap>
+   </lido:descriptiveMetadata>
+   <lido:administrativeMetadata xml:lang="de">
+      <lido:rightsWorkWrap>
+         <lido:rightsWorkSet>
+            <lido:rightsHolder>
+               <lido:legalBodyName>
+                  <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:rightsHolder>
+         </lido:rightsWorkSet>
+      </lido:rightsWorkWrap>
+      <lido:recordWrap>
+         <lido:recordID lido:type="museum-digital">66921</lido:recordID>
+         <lido:recordType>
+            <lido:term lido:addedSearchTerm="no">item</lido:term>
+         </lido:recordType>
+         <lido:recordSource lido:type="dataProvider">
+            <lido:legalBodyName>
+               <lido:appellationValue>museum-digital</lido:appellationValue>
+            </lido:legalBodyName>
+            <lido:legalBodyWeblink>https://berlin.museum-digital.de/</lido:legalBodyWeblink>
+         </lido:recordSource>
+         <lido:recordSource>
+            <lido:legalBodyID lido:type="isil">DE-B185</lido:legalBodyID>
+            <lido:legalBodyName>
+               <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+            </lido:legalBodyName>
+         </lido:recordSource>
+         <lido:recordRights>
+            <lido:rightsType>
+               <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no">CC BY</lido:term>
+            </lido:rightsType>
+            <lido:rightsHolder>
+               <lido:legalBodyID lido:type="isil">DE-B185</lido:legalBodyID>
+               <lido:legalBodyName>
+                  <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+               </lido:legalBodyName>
+               <lido:legalBodyWeblink>http://geschichte-brandenburg.de/</lido:legalBodyWeblink>
+            </lido:rightsHolder>
+            <lido:creditLine>Förderprogramm zur Digitalisierung von Objekten des kulturellen Erbes des Landes Berlin</lido:creditLine>
+         </lido:recordRights>
+         <lido:recordInfoSet>
+            <lido:recordInfoLink>https://berlin.museum-digital.de/index.php?t=objekt&amp;oges=66921</lido:recordInfoLink>
+            <lido:recordMetadataDate>2021-04-27 07:59:55</lido:recordMetadataDate>
+         </lido:recordInfoSet>
+      </lido:recordWrap>
+      <lido:resourceWrap>
+         <lido:resourceSet lido:sortorder="1">
+            <lido:resourceID lido:source="image" lido:type="local">48507</lido:resourceID>
+            <lido:resourceRepresentation lido:type="masterfile">
+               <lido:linkResource lido:formatResource="image/tiff"/>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_thumb">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/202007/100h_potsdam-sanssouci-chinesisches-teehaus-66921.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_preview">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/202007/200w_potsdam-sanssouci-chinesisches-teehaus-66921.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/202007/potsdam-sanssouci-chinesisches-teehaus-66921.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceType>
+               <lido:term lido:addedSearchTerm="no">image</lido:term>
+            </lido:resourceType>
+            <lido:resourceRelType>
+               <lido:term lido:addedSearchTerm="no">Hauptansicht</lido:term>
+            </lido:resourceRelType>
+            <lido:resourceDescription>Potsdam-Sanssouci: Chinesisches Teehaus</lido:resourceDescription>
+            <lido:resourceSource lido:type="creator">
+               <lido:legalBodyName>
+                  <lido:appellationValue>Thomas Voßbeck, 2020</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:resourceSource>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+                  <lido:term lido:addedSearchTerm="no">CC BY</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V.</lido:appellationValue>
+                  </lido:legalBodyName>
+               </lido:rightsHolder>
+               <lido:creditLine>Thomas Voßbeck, 2020</lido:creditLine>
+            </lido:rightsResource>
+         </lido:resourceSet>
+      </lido:resourceWrap>
+   </lido:administrativeMetadata>
+</lido:lido>
+

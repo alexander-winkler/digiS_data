@@ -1,0 +1,514 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lido:lido xmlns:lido="http://www.lido-schema.org"
+           xmlns:xalan="http://xml.apache.org/xalan">
+   <lido:lidoRecID lido:source="https://berlin.museum-digital.de/index.php?t=institution&amp;instnr=32"
+                   lido:type="local">DE-B185/66906</lido:lidoRecID>
+   <lido:category/>
+   <lido:descriptiveMetadata xml:lang="de">
+      <lido:objectClassificationWrap>
+         <lido:objectWorkTypeWrap>
+            <lido:objectWorkType>
+               <lido:conceptID lido:source="gnd" lido:type="uri">http://d-nb.info/gnd/4021845-4</lido:conceptID>
+               <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/13314</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Druckgraphik</lido:term>
+            </lido:objectWorkType>
+         </lido:objectWorkTypeWrap>
+         <lido:classificationWrap>
+            <lido:classification lido:type="Sammlung">
+               <lido:conceptID lido:source="local" lido:type="collection_id">725</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Sachen und Ereignisse</lido:term>
+            </lido:classification>
+            <lido:classification lido:type="Sammlung">
+               <lido:conceptID lido:source="local" lido:type="collection_id">727</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Einzelblätter</lido:term>
+            </lido:classification>
+            <lido:classification lido:type="Sammlung">
+               <lido:conceptID lido:source="local" lido:type="collection_id">705</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Handzeichnungen, Druckgraphik, Gemälde</lido:term>
+            </lido:classification>
+         </lido:classificationWrap>
+      </lido:objectClassificationWrap>
+      <lido:objectIdentificationWrap>
+         <lido:titleWrap>
+            <lido:titleSet>
+               <lido:appellationValue lido:pref="preferred">Kalender für das Jahr 1544 (Fragment)</lido:appellationValue>
+            </lido:titleSet>
+         </lido:titleWrap>
+         <lido:repositoryWrap>
+            <lido:repositorySet lido:type="current">
+               <lido:repositoryName>
+                  <lido:legalBodyID lido:type="isil">DE-B185</lido:legalBodyID>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+                  </lido:legalBodyName>
+                  <lido:legalBodyWeblink>http://geschichte-brandenburg.de/</lido:legalBodyWeblink>
+               </lido:repositoryName>
+               <lido:workID lido:type="inventory number">LGV-Archiv, C 12 G-2-024</lido:workID>
+               <lido:repositoryLocation>
+                  <lido:namePlaceSet>
+                     <lido:appellationValue>Berlin</lido:appellationValue>
+                  </lido:namePlaceSet>
+                  <lido:gml>
+                     <gml:Point xmlns:gml="http://www.opengis.net/gml" srsName="EPSG:4326">
+                        <gml:pos>52.51533127 13.40440559</gml:pos>
+                     </gml:Point>
+                  </lido:gml>
+               </lido:repositoryLocation>
+            </lido:repositorySet>
+         </lido:repositoryWrap>
+         <lido:objectDescriptionWrap>
+            <lido:objectDescriptionSet>
+               <lido:descriptiveNoteValue>Der tabellarisch aufgebaute Dreispalten-Kalender enthält neben den Tagesdaten u.a. die Heiligennamen nach dem kirchlichen Kalender, Sternbilder, wöchentliche Angaben zum Wetter und für jeden Sonntag eine bildliche biblische Darstellung. Oben am Schluss des Einleitungstextes heißt es: "Durch Petrum Apianu(m) Astronomum […] Ingolstat Practicirt".&#xD;
+Peter Apian (eigtl. Bennewitz oder Bienewitz, latinisiert Petrus Apianus) (1495-1552) stammte aus Leisnig in Sachsen und war ab 1527 Professor der Mathemaik in Ingolstadt. Er betätigte sich auch als Astronom, Kosmograph und Kartograph. Vgl. sein "Astronomicum Caesareum" (Ingolstadt 1540).&#xD;
+Das Blatt ist ein Fragment. Neben zahlreichen starken, aber weitgehend textverlustlosen Einrissen an allen Rändern fehlt vor allem am unteren Rand rund ein Fünftel des Kalendertextes mit den kompletten Angaben für die Monate April, August und Dezember. Die letzten zwei bis vier Tage der drei jeweiligen Vormonate fehlen ebenfalls. Dieser Gesamtzustand bestand schon zum (wohl im 19. Jh. liegenden) Zeitpunkt des Aufziehens auf ein starkes Trägerblatt, als wohl auch die rückseitige Sammler-Aufschrift (li. o.) "Zeichnungen No. 6." hinzukam. Die li. obere Ecke des Trägerblattes ist mit einem geraden Schnitt abgetrennt. Möglicherweise befand sich hier rückseitig ein Besitzerstempel.&#xD;
+Altbestand des Archivs.</lido:descriptiveNoteValue>
+               <lido:sourceDescriptiveNote>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:sourceDescriptiveNote>
+            </lido:objectDescriptionSet>
+         </lido:objectDescriptionWrap>
+         <lido:objectMeasurementsWrap>
+            <lido:objectMeasurementsSet>
+               <lido:displayObjectMeasurements>Blattgröße (doubliert auf Bütten) Höhe 55,6 cm, Breite 34 cm</lido:displayObjectMeasurements>
+               <lido:objectMeasurements/>
+            </lido:objectMeasurementsSet>
+         </lido:objectMeasurementsWrap>
+      </lido:objectIdentificationWrap>
+      <lido:eventWrap>
+         <lido:eventSet>
+            <lido:event>
+               <lido:eventType>
+                  <lido:conceptID lido:type="uri">https://event-types.museum-digital.org/1</lido:conceptID>
+                  <lido:term lido:addedSearchTerm="no">Hergestellt</lido:term>
+               </lido:eventType>
+               <lido:eventActor>
+                  <lido:displayActorInRole>Petrus Apianus (1495-1552)</lido:displayActorInRole>
+                  <lido:actorInRole>
+                     <lido:actor>
+                        <lido:actorID lido:source="NDB/ADB" lido:type="uri">https://www.deutsche-biographie.de/pnd118645455.html#ndbcontent</lido:actorID>
+                        <lido:actorID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Peter_Apian</lido:actorID>
+                        <lido:actorID lido:source="bne" lido:type="uri">http://datos.bne.es/persona/XX1307530</lido:actorID>
+                        <lido:actorID lido:source="bnf" lido:type="uri">https://catalogue.bnf.fr/ark:/12148/cb12515640m</lido:actorID>
+                        <lido:actorID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/118645455</lido:actorID>
+                        <lido:actorID lido:source="loc" lido:type="uri">http://id.loc.gov/authorities/names/n84064114</lido:actorID>
+                        <lido:actorID lido:source="viaf" lido:type="uri">https://viaf.org/viaf/88640422</lido:actorID>
+                        <lido:actorID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q58662</lido:actorID>
+                        <lido:actorID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/persinst/39505</lido:actorID>
+                        <lido:nameActorSet>
+                           <lido:appellationValue>Apianus, Petrus</lido:appellationValue>
+                           <lido:appellationValue xml:lang="cs">Petr Apian</lido:appellationValue>
+                           <lido:appellationValue xml:lang="da">Peter Apian</lido:appellationValue>
+                           <lido:appellationValue xml:lang="de">Petrus Apianus</lido:appellationValue>
+                           <lido:appellationValue xml:lang="el">Πέτρος Απιανός</lido:appellationValue>
+                           <lido:appellationValue xml:lang="en">Petrus Apianus</lido:appellationValue>
+                           <lido:appellationValue xml:lang="es">Petrus Apianus</lido:appellationValue>
+                           <lido:appellationValue xml:lang="fa">پتروس آپیانوس</lido:appellationValue>
+                           <lido:appellationValue xml:lang="fr">Petrus Apianus</lido:appellationValue>
+                           <lido:appellationValue xml:lang="hu">Petrus Apianus</lido:appellationValue>
+                           <lido:appellationValue xml:lang="id">Petrus Apianus</lido:appellationValue>
+                           <lido:appellationValue xml:lang="it">Pietro Apiano</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ja">ペトルス・アピアヌス</lido:appellationValue>
+                           <lido:appellationValue xml:lang="nl">Petrus Apianus</lido:appellationValue>
+                           <lido:appellationValue xml:lang="pl">Peter Apianus</lido:appellationValue>
+                           <lido:appellationValue xml:lang="pt">Petrus Apianus</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ru">Петер Апиан</lido:appellationValue>
+                           <lido:appellationValue xml:lang="sv">Petrus Apianus</lido:appellationValue>
+                           <lido:appellationValue xml:lang="zh">彼得鲁斯·阿皮亚努斯</lido:appellationValue>
+                        </lido:nameActorSet>
+                        <lido:vitalDatesActor>
+                           <lido:earliestDate>1495</lido:earliestDate>
+                           <lido:latestDate>1552</lido:latestDate>
+                        </lido:vitalDatesActor>
+                     </lido:actor>
+                  </lido:actorInRole>
+               </lido:eventActor>
+               <lido:eventDate>
+                  <lido:displayDate>1543</lido:displayDate>
+                  <lido:displayDate xml:lang="ar">1543</lido:displayDate>
+                  <lido:displayDate xml:lang="de">1543</lido:displayDate>
+                  <lido:displayDate xml:lang="en">1543</lido:displayDate>
+                  <lido:displayDate xml:lang="es">1543</lido:displayDate>
+                  <lido:displayDate xml:lang="fa">1543</lido:displayDate>
+                  <lido:displayDate xml:lang="fr">1543</lido:displayDate>
+                  <lido:displayDate xml:lang="hu">1543</lido:displayDate>
+                  <lido:displayDate xml:lang="id">1543</lido:displayDate>
+                  <lido:displayDate xml:lang="it">1543</lido:displayDate>
+                  <lido:displayDate xml:lang="ja">1543年</lido:displayDate>
+                  <lido:displayDate xml:lang="ka">1543</lido:displayDate>
+                  <lido:displayDate xml:lang="ko">1543년</lido:displayDate>
+                  <lido:displayDate xml:lang="pl">1543</lido:displayDate>
+                  <lido:displayDate xml:lang="pt">1543</lido:displayDate>
+                  <lido:displayDate xml:lang="ro">1543</lido:displayDate>
+                  <lido:displayDate xml:lang="ru">1543</lido:displayDate>
+                  <lido:displayDate xml:lang="ta">1543</lido:displayDate>
+                  <lido:displayDate xml:lang="tl">1543</lido:displayDate>
+                  <lido:displayDate xml:lang="tr">1543</lido:displayDate>
+                  <lido:displayDate xml:lang="zh">1543年</lido:displayDate>
+                  <lido:date>
+                     <lido:earliestDate>1543</lido:earliestDate>
+                     <lido:latestDate>1543</lido:latestDate>
+                  </lido:date>
+               </lido:eventDate>
+               <lido:eventPlace>
+                  <lido:displayPlace>Ingolstadt</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ar">إنغولشتات</lido:displayPlace>
+                  <lido:displayPlace xml:lang="bn">ইঙ্গলসস্ট্যাড</lido:displayPlace>
+                  <lido:displayPlace xml:lang="cs">Ingolstadt</lido:displayPlace>
+                  <lido:displayPlace xml:lang="da">Ingolstadt</lido:displayPlace>
+                  <lido:displayPlace xml:lang="de">Ingolstadt</lido:displayPlace>
+                  <lido:displayPlace xml:lang="el">Ίνγκολστατ</lido:displayPlace>
+                  <lido:displayPlace xml:lang="en">Ingolstadt</lido:displayPlace>
+                  <lido:displayPlace xml:lang="es">Ingolstadt</lido:displayPlace>
+                  <lido:displayPlace xml:lang="fa">اینگولشتات</lido:displayPlace>
+                  <lido:displayPlace xml:lang="fi">Ingolstadt</lido:displayPlace>
+                  <lido:displayPlace xml:lang="fr">Ingolstadt</lido:displayPlace>
+                  <lido:displayPlace xml:lang="he">אינגולשטאדט</lido:displayPlace>
+                  <lido:displayPlace xml:lang="hu">Ingolstadt</lido:displayPlace>
+                  <lido:displayPlace xml:lang="id">Ingolstadt</lido:displayPlace>
+                  <lido:displayPlace xml:lang="it">Ingolstadt</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ja">インゴルシュタット</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ka">ინგოლშტადტი</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ko">잉골슈타트</lido:displayPlace>
+                  <lido:displayPlace xml:lang="nl">Ingolstadt</lido:displayPlace>
+                  <lido:displayPlace xml:lang="pl">Ingolstadt</lido:displayPlace>
+                  <lido:displayPlace xml:lang="pt">Ingolstadt</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ru">Ингольштадт</lido:displayPlace>
+                  <lido:displayPlace xml:lang="sv">Ingolstadt</lido:displayPlace>
+                  <lido:displayPlace xml:lang="sw">Ingolstadt</lido:displayPlace>
+                  <lido:displayPlace xml:lang="th">อิงก็อลชตัท</lido:displayPlace>
+                  <lido:displayPlace xml:lang="tr">Ingolstadt</lido:displayPlace>
+                  <lido:displayPlace xml:lang="vi">Ingolstadt</lido:displayPlace>
+                  <lido:displayPlace xml:lang="zh">因戈尔施塔特</lido:displayPlace>
+                  <lido:place>
+                     <lido:placeID lido:source="geonames" lido:type="uri">https://sws.geonames.org/3220833</lido:placeID>
+                     <lido:placeID lido:source="TGN" lido:type="uri">http://vocab.getty.edu/tgn/7017035</lido:placeID>
+                     <lido:placeID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4026991-7</lido:placeID>
+                     <lido:placeID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q3004</lido:placeID>
+                     <lido:placeID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/place/5309</lido:placeID>
+                     <lido:namePlaceSet>
+                        <lido:appellationValue>Ingolstadt</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ar">إنغولشتات</lido:appellationValue>
+                        <lido:appellationValue xml:lang="bn">ইঙ্গলসস্ট্যাড</lido:appellationValue>
+                        <lido:appellationValue xml:lang="cs">Ingolstadt</lido:appellationValue>
+                        <lido:appellationValue xml:lang="da">Ingolstadt</lido:appellationValue>
+                        <lido:appellationValue xml:lang="de">Ingolstadt</lido:appellationValue>
+                        <lido:appellationValue xml:lang="el">Ίνγκολστατ</lido:appellationValue>
+                        <lido:appellationValue xml:lang="en">Ingolstadt</lido:appellationValue>
+                        <lido:appellationValue xml:lang="es">Ingolstadt</lido:appellationValue>
+                        <lido:appellationValue xml:lang="fa">اینگولشتات</lido:appellationValue>
+                        <lido:appellationValue xml:lang="fi">Ingolstadt</lido:appellationValue>
+                        <lido:appellationValue xml:lang="fr">Ingolstadt</lido:appellationValue>
+                        <lido:appellationValue xml:lang="he">אינגולשטאדט</lido:appellationValue>
+                        <lido:appellationValue xml:lang="hu">Ingolstadt</lido:appellationValue>
+                        <lido:appellationValue xml:lang="id">Ingolstadt</lido:appellationValue>
+                        <lido:appellationValue xml:lang="it">Ingolstadt</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ja">インゴルシュタット</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ka">ინგოლშტადტი</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ko">잉골슈타트</lido:appellationValue>
+                        <lido:appellationValue xml:lang="nl">Ingolstadt</lido:appellationValue>
+                        <lido:appellationValue xml:lang="pl">Ingolstadt</lido:appellationValue>
+                        <lido:appellationValue xml:lang="pt">Ingolstadt</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ru">Ингольштадт</lido:appellationValue>
+                        <lido:appellationValue xml:lang="sv">Ingolstadt</lido:appellationValue>
+                        <lido:appellationValue xml:lang="sw">Ingolstadt</lido:appellationValue>
+                        <lido:appellationValue xml:lang="th">อิงก็อลชตัท</lido:appellationValue>
+                        <lido:appellationValue xml:lang="tr">Ingolstadt</lido:appellationValue>
+                        <lido:appellationValue xml:lang="vi">Ingolstadt</lido:appellationValue>
+                        <lido:appellationValue xml:lang="zh">因戈尔施塔特</lido:appellationValue>
+                     </lido:namePlaceSet>
+                     <lido:gml>
+                        <gml:Point xmlns:gml="http://www.opengis.net/gml" srsName="EPSG:4326">
+                           <gml:pos>48.763610839844 11.426111221313</gml:pos>
+                        </gml:Point>
+                     </lido:gml>
+                  </lido:place>
+               </lido:eventPlace>
+            </lido:event>
+         </lido:eventSet>
+         <lido:eventSet>
+            <lido:event>
+               <lido:eventType>
+                  <lido:conceptID lido:type="uri">http://terminology.lido-schema.org/lido00003</lido:conceptID>
+                  <lido:term>Event (non-specified)</lido:term>
+               </lido:eventType>
+               <lido:eventMaterialsTech>
+                  <lido:displayMaterialsTech>Holzschnitt, koloriert auf Papier, alt doubliert (mit Fehlstellen)</lido:displayMaterialsTech>
+               </lido:eventMaterialsTech>
+            </lido:event>
+         </lido:eventSet>
+      </lido:eventWrap>
+      <lido:objectRelationWrap>
+         <lido:subjectWrap>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="aat" lido:type="uri">http://vocab.getty.edu/aat/300312031</lido:conceptID>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4025736-8</lido:conceptID>
+                     <lido:conceptID lido:source="grobsystematik" lido:type="uri">https://term.museum-digital.de/grobsystematik/tag/5274</lido:conceptID>
+                     <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh85147844</lido:conceptID>
+                     <lido:conceptID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q173242</lido:conceptID>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Holzschnitt</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/958</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Holzschnitt</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ar">خشيب</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="cs">Dřevořez</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="da">Træsnit</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="de">Holzschnitt</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="el">Ξυλογραφία</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="en">Woodcut technique</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="es">Xilografía</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fa">چوب‌تراشی</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fi">Puupiirros</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fr">Xylographie</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="he">חיתוך-עץ</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hu">fametszet</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="id">Cukil kayu</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="it">Xilografia</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ja">木版画術</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ko">목판화</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="nl">houtsnedetechniek</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pl">Drzeworytnictwo</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pt">Xilogravura</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ro">xilogravură</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ru">Ксилография</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sv">Träsnitt</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="th">ภาพพิมพ์แกะไม้</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tr">Ksilografi</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="vi">Khắc gỗ</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="zh">木刻版畫</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="aat" lido:type="uri">http://vocab.getty.edu/aat/300073711</lido:conceptID>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4010074-1</lido:conceptID>
+                     <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh85025219</lido:conceptID>
+                     <lido:conceptID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q5043</lido:conceptID>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Christentum</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/2272</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Christentum</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ar">مسيحية</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="bn">খ্রিস্ট ধর্ম</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="cs">Křesťanství</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="da">Kristendom</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="de">Christentum</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="el">Χριστιανισμός</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="en">Christianity</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="es">Cristianismo</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fa">مسیحیت</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fi">Kristinusko</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fr">Christianisme</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ha">Kiristanci</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="he">נצרות</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hi">ईसाई धर्म</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hu">kereszténység</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="id">Kristen</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="it">Cristianesimo</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ja">キリスト教</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ka">ქრისტიანობა</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ko">기독교</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="nl">Christendom</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pl">Chrześcijaństwo</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pt">Cristianismo</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ru">христианство</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sv">Kristendom</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sw">Ukristo</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ta">கிறித்தவம்</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="th">ศาสนาคริสต์</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tl">Kristiyanismo</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tr">Hristiyanlık</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ur">مسیحیت</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="vi">Kitô giáo</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="zh">基督教</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="aat" lido:type="uri">http://vocab.getty.edu/aat/300054589</lido:conceptID>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4003305-3</lido:conceptID>
+                     <lido:conceptID lido:source="iconclass" lido:type="uri">http://iconclass.org/rkd/14/</lido:conceptID>
+                     <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh85008893</lido:conceptID>
+                     <lido:conceptID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q34362</lido:conceptID>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Astrologie</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/2790</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Astrologie</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ar">علم التنجيم</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="bn">জ্যোতিষশাস্ত্র</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="cs">Astrologie</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="da">Astrologi</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="de">Astrologie</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="el">αστρολογία</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="en">Astrology</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="es">Astrología</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fa">ستاره‌بینی</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fi">Astrologia</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fr">Astrologie</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="he">אסטרולוגיה</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hi">फलित ज्योतिष</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hu">asztrológia</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="id">Astrologi</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="it">Astrologia</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ja">占星術</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ka">ასტროლოგია</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ko">점성술</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="nl">Astrologie</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pl">Astrologia</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pt">Astrologia</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ro">astrologie</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ru">астрология</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sv">Astrologi</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sw">unajimu</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ta">சோதிடம்</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="th">โหราศาสตร์</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tl">Astrolohiya</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tr">Astroloji</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ur">نجوم</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="vi">Chiêm tinh học</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="zh">占星术</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="aat" lido:type="uri">http://vocab.getty.edu/aat/300026741</lido:conceptID>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4029290-3</lido:conceptID>
+                     <lido:conceptID lido:source="grobsystematik" lido:type="uri">https://term.museum-digital.de/grobsystematik/tag/5642</lido:conceptID>
+                     <lido:conceptID lido:source="iconclass" lido:type="uri">http://iconclass.org/rkd/23U1/</lido:conceptID>
+                     <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh85018823</lido:conceptID>
+                     <lido:conceptID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q12132</lido:conceptID>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Kalender</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/3295</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Kalender</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ar">تقويم</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="bn">বর্ষপঞ্জী</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="cs">Kalendář</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="da">Kalender</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="de">Kalender</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="el">Ημερολόγιο</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="en">Calendar</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="es">Calendario</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fa">گاه‌شماری</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fi">Kalenteri</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fr">Calendrier</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="he">לוח שנה</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hi">कालदर्शक</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hu">naptár</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="id">Kalender</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="it">Calendario</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ja">暦</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ka">კალენდარი</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ko">역법</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="nl">Kalender</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pl">Kalendarz</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pt">Calendário</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ro">Calendar</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ru">календарь</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sv">Kalender</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sw">Kalenda</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ta">நாட்காட்டி</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="th">ปฏิทิน</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tl">Kalendaryo</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tr">Takvim</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ur">تقویم</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="vi">lịch</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="zh">历法</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+         </lido:subjectWrap>
+         <lido:relatedWorksWrap/>
+      </lido:objectRelationWrap>
+   </lido:descriptiveMetadata>
+   <lido:administrativeMetadata xml:lang="de">
+      <lido:rightsWorkWrap>
+         <lido:rightsWorkSet>
+            <lido:rightsHolder>
+               <lido:legalBodyName>
+                  <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:rightsHolder>
+         </lido:rightsWorkSet>
+      </lido:rightsWorkWrap>
+      <lido:recordWrap>
+         <lido:recordID lido:type="museum-digital">66906</lido:recordID>
+         <lido:recordType>
+            <lido:term lido:addedSearchTerm="no">item</lido:term>
+         </lido:recordType>
+         <lido:recordSource lido:type="dataProvider">
+            <lido:legalBodyName>
+               <lido:appellationValue>museum-digital</lido:appellationValue>
+            </lido:legalBodyName>
+            <lido:legalBodyWeblink>https://berlin.museum-digital.de/</lido:legalBodyWeblink>
+         </lido:recordSource>
+         <lido:recordSource>
+            <lido:legalBodyID lido:type="isil">DE-B185</lido:legalBodyID>
+            <lido:legalBodyName>
+               <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+            </lido:legalBodyName>
+         </lido:recordSource>
+         <lido:recordRights>
+            <lido:rightsType>
+               <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no">CC BY</lido:term>
+            </lido:rightsType>
+            <lido:rightsHolder>
+               <lido:legalBodyID lido:type="isil">DE-B185</lido:legalBodyID>
+               <lido:legalBodyName>
+                  <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+               </lido:legalBodyName>
+               <lido:legalBodyWeblink>http://geschichte-brandenburg.de/</lido:legalBodyWeblink>
+            </lido:rightsHolder>
+            <lido:creditLine>Förderprogramm zur Digitalisierung von Objekten des kulturellen Erbes des Landes Berlin</lido:creditLine>
+         </lido:recordRights>
+         <lido:recordInfoSet>
+            <lido:recordInfoLink>https://berlin.museum-digital.de/index.php?t=objekt&amp;oges=66906</lido:recordInfoLink>
+            <lido:recordMetadataDate>2021-04-27 07:59:55</lido:recordMetadataDate>
+         </lido:recordInfoSet>
+      </lido:recordWrap>
+      <lido:resourceWrap>
+         <lido:resourceSet lido:sortorder="1">
+            <lido:resourceID lido:source="image" lido:type="local">48492</lido:resourceID>
+            <lido:resourceRepresentation lido:type="masterfile">
+               <lido:linkResource lido:formatResource="image/tiff"/>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_thumb">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/202007/100h_kalender-fuer-das-jahr-1544-fragment-66906.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_preview">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/202007/200w_kalender-fuer-das-jahr-1544-fragment-66906.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/202007/kalender-fuer-das-jahr-1544-fragment-66906.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceType>
+               <lido:term lido:addedSearchTerm="no">image</lido:term>
+            </lido:resourceType>
+            <lido:resourceRelType>
+               <lido:term lido:addedSearchTerm="no">Hauptansicht</lido:term>
+            </lido:resourceRelType>
+            <lido:resourceDescription>Kalender für das Jahr 1544 (Fragment)</lido:resourceDescription>
+            <lido:resourceSource lido:type="creator">
+               <lido:legalBodyName>
+                  <lido:appellationValue>Thomas Voßbeck, 2020</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:resourceSource>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+                  <lido:term lido:addedSearchTerm="no">CC BY</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V.</lido:appellationValue>
+                  </lido:legalBodyName>
+               </lido:rightsHolder>
+               <lido:creditLine>Thomas Voßbeck, 2020</lido:creditLine>
+            </lido:rightsResource>
+         </lido:resourceSet>
+      </lido:resourceWrap>
+   </lido:administrativeMetadata>
+</lido:lido>
+

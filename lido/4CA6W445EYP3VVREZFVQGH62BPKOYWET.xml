@@ -1,0 +1,426 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lido:lido xmlns:lido="http://www.lido-schema.org"
+           xmlns:xalan="http://xml.apache.org/xalan">
+   <lido:lidoRecID lido:source="https://berlin.museum-digital.de/index.php?t=institution&amp;instnr=32"
+                   lido:type="local">DE-B185/67174</lido:lidoRecID>
+   <lido:category/>
+   <lido:descriptiveMetadata xml:lang="de">
+      <lido:objectClassificationWrap>
+         <lido:objectWorkTypeWrap>
+            <lido:objectWorkType>
+               <lido:conceptID lido:source="gnd" lido:type="uri">http://d-nb.info/gnd/4021845-4</lido:conceptID>
+               <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/13314</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Druckgraphik</lido:term>
+            </lido:objectWorkType>
+         </lido:objectWorkTypeWrap>
+         <lido:classificationWrap>
+            <lido:classification lido:type="Sammlung">
+               <lido:conceptID lido:source="local" lido:type="collection_id">705</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Handzeichnungen, Druckgraphik, Gemälde</lido:term>
+            </lido:classification>
+            <lido:classification lido:type="Sammlung">
+               <lido:conceptID lido:source="local" lido:type="collection_id">706</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Ansichten</lido:term>
+            </lido:classification>
+            <lido:classification lido:type="Sammlung">
+               <lido:conceptID lido:source="local" lido:type="collection_id">708</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Brandenburg</lido:term>
+            </lido:classification>
+         </lido:classificationWrap>
+      </lido:objectClassificationWrap>
+      <lido:objectIdentificationWrap>
+         <lido:titleWrap>
+            <lido:titleSet>
+               <lido:appellationValue lido:pref="preferred">Königsberg/Neumark (Kr. Königsberg): Gesamtansicht der Rathauses (Brandenburgisches Album, Blatt 23)</lido:appellationValue>
+            </lido:titleSet>
+         </lido:titleWrap>
+         <lido:repositoryWrap>
+            <lido:repositorySet lido:type="current">
+               <lido:repositoryName>
+                  <lido:legalBodyID lido:type="isil">DE-B185</lido:legalBodyID>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+                  </lido:legalBodyName>
+                  <lido:legalBodyWeblink>http://geschichte-brandenburg.de/</lido:legalBodyWeblink>
+               </lido:repositoryName>
+               <lido:workID lido:type="inventory number">LGV-Archiv, C 12 G-4-095</lido:workID>
+               <lido:repositoryLocation>
+                  <lido:namePlaceSet>
+                     <lido:appellationValue>Berlin</lido:appellationValue>
+                  </lido:namePlaceSet>
+                  <lido:gml>
+                     <gml:Point xmlns:gml="http://www.opengis.net/gml" srsName="EPSG:4326">
+                        <gml:pos>52.51533127 13.40440559</gml:pos>
+                     </gml:Point>
+                  </lido:gml>
+               </lido:repositoryLocation>
+            </lido:repositorySet>
+         </lido:repositoryWrap>
+         <lido:objectDescriptionWrap>
+            <lido:objectDescriptionSet>
+               <lido:descriptiveNoteValue>Es handelt sich um Blatt "23" des Brandenburgischen Album, das in 20 Lieferungen je 3 Blätter erschien und ab 1856 erschien. Die Darstellung des Königsberger Rathauses, errichtet um 1400, ist ebenso wie andere mittelalterliche Bauten der märkischen Backsteingotik ein Schwerpunkt in den Darstellungen des Brandenburgischen Albums. Von den 60 Blättern der Folge sind an die 20 diesen schon damals als identitätsstiftend empfundenen Bauten gewidmet. Nach großen Zerstörungen im Zweiten Weltkrieg im Februar 1945 wurde das zerstörte Rathaus bis 1986 schrittweise wieder aufgebaut. Es dient heute als Kulturzentrum und kann besichtigt werden. Die hier dargestellte städtebauliche Situation am Marktplatz der Stadt ist allerdings verloren, heute umgibt Leere und eine Parkanlage das Gebäude.
+Bez. li. u. "J. Gottheil del.", re. u. "Poppel u. Kurz sc.", mi. u. "Das Rathaus zu Königsberg i/N.", darunter "Verlag u. Eigenthum v. B. S. Berendsohn in Hamburg."
+Altbestand des Archivs.
+
+Literatur: Iris Berndt: Märkische Ansichten. Die Provinz Brandenburg im Bild der Druckgraphik 1550-1850. Berlin 2007, Nr. 1013.</lido:descriptiveNoteValue>
+               <lido:sourceDescriptiveNote>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:sourceDescriptiveNote>
+            </lido:objectDescriptionSet>
+         </lido:objectDescriptionWrap>
+         <lido:objectMeasurementsWrap>
+            <lido:objectMeasurementsSet>
+               <lido:displayObjectMeasurements>Blattgröße: Höhe 25, 2 cm, Breite 18,5 cm, Bildgröße: Höhe 19 cm, Breite 13,8 cm</lido:displayObjectMeasurements>
+               <lido:objectMeasurements/>
+            </lido:objectMeasurementsSet>
+         </lido:objectMeasurementsWrap>
+      </lido:objectIdentificationWrap>
+      <lido:eventWrap>
+         <lido:eventSet>
+            <lido:event>
+               <lido:eventType>
+                  <lido:conceptID lido:type="uri">https://event-types.museum-digital.org/1</lido:conceptID>
+                  <lido:term lido:addedSearchTerm="no">Hergestellt</lido:term>
+               </lido:eventType>
+               <lido:eventActor>
+                  <lido:displayActorInRole>B. S. Berendsohn (Hamburg)</lido:displayActorInRole>
+                  <lido:actorInRole>
+                     <lido:actor>
+                        <lido:actorID lido:source="gnd" lido:type="uri">http://d-nb.info/gnd/107293793X</lido:actorID>
+                        <lido:actorID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/persinst/22656</lido:actorID>
+                        <lido:nameActorSet>
+                           <lido:appellationValue>B. S. Berendsohn (Hamburg)</lido:appellationValue>
+                           <lido:appellationValue xml:lang="de">B. S. Berendsohn (Hamburg)</lido:appellationValue>
+                        </lido:nameActorSet>
+                        <lido:vitalDatesActor>
+                           <lido:earliestDate/>
+                           <lido:latestDate/>
+                        </lido:vitalDatesActor>
+                     </lido:actor>
+                  </lido:actorInRole>
+               </lido:eventActor>
+               <lido:eventDate>
+                  <lido:displayDate>Nach 1856</lido:displayDate>
+                  <lido:displayDate xml:lang="ar">1856-</lido:displayDate>
+                  <lido:displayDate xml:lang="de">Nach 1856</lido:displayDate>
+                  <lido:displayDate xml:lang="en">After 1856</lido:displayDate>
+                  <lido:displayDate xml:lang="es">Despues de 1856</lido:displayDate>
+                  <lido:displayDate xml:lang="fa">1856-</lido:displayDate>
+                  <lido:displayDate xml:lang="fr">Après 1856</lido:displayDate>
+                  <lido:displayDate xml:lang="hu">1856-után</lido:displayDate>
+                  <lido:displayDate xml:lang="id">Setelah 1856</lido:displayDate>
+                  <lido:displayDate xml:lang="it">Dopo il 1856</lido:displayDate>
+                  <lido:displayDate xml:lang="ja">1856年以降</lido:displayDate>
+                  <lido:displayDate xml:lang="ka">1856 წლის შემდეგ</lido:displayDate>
+                  <lido:displayDate xml:lang="ko">1856년 년 이후</lido:displayDate>
+                  <lido:displayDate xml:lang="pl">Po 1856 r.</lido:displayDate>
+                  <lido:displayDate xml:lang="pt">Depois de 1856</lido:displayDate>
+                  <lido:displayDate xml:lang="ro">După 1856</lido:displayDate>
+                  <lido:displayDate xml:lang="ru">после 1856 г.</lido:displayDate>
+                  <lido:displayDate xml:lang="ta">1856  க்குப் பிறகு</lido:displayDate>
+                  <lido:displayDate xml:lang="tl">Pagkaraan ng 1856</lido:displayDate>
+                  <lido:displayDate xml:lang="tr">1856-</lido:displayDate>
+                  <lido:displayDate xml:lang="zh">1856年以后</lido:displayDate>
+                  <lido:date>
+                     <lido:earliestDate>1857</lido:earliestDate>
+                     <lido:latestDate>?</lido:latestDate>
+                  </lido:date>
+               </lido:eventDate>
+               <lido:eventPlace>
+                  <lido:displayPlace>Hamburg</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ar">هامبورغ</lido:displayPlace>
+                  <lido:displayPlace xml:lang="bn">হামবুর্গ</lido:displayPlace>
+                  <lido:displayPlace xml:lang="cs">Hamburk</lido:displayPlace>
+                  <lido:displayPlace xml:lang="da">Hamborg</lido:displayPlace>
+                  <lido:displayPlace xml:lang="de">Hamburg</lido:displayPlace>
+                  <lido:displayPlace xml:lang="el">Αμβούργο</lido:displayPlace>
+                  <lido:displayPlace xml:lang="en">Hamburg</lido:displayPlace>
+                  <lido:displayPlace xml:lang="es">Hamburgo</lido:displayPlace>
+                  <lido:displayPlace xml:lang="fa">هامبورگ</lido:displayPlace>
+                  <lido:displayPlace xml:lang="fi">Hampuri</lido:displayPlace>
+                  <lido:displayPlace xml:lang="fr">Hambourg</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ha">Hamburg</lido:displayPlace>
+                  <lido:displayPlace xml:lang="he">המבורג</lido:displayPlace>
+                  <lido:displayPlace xml:lang="hi">हैम्बर्ग</lido:displayPlace>
+                  <lido:displayPlace xml:lang="hu">Hamburg</lido:displayPlace>
+                  <lido:displayPlace xml:lang="id">Hamburg</lido:displayPlace>
+                  <lido:displayPlace xml:lang="it">Amburgo</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ja">ハンブルク</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ka">ჰამბურგი</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ko">함부르크</lido:displayPlace>
+                  <lido:displayPlace xml:lang="nl">Hamburg</lido:displayPlace>
+                  <lido:displayPlace xml:lang="pl">Hamburg</lido:displayPlace>
+                  <lido:displayPlace xml:lang="pt">Hamburgo</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ro">Hamburg</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ru">Гамбург</lido:displayPlace>
+                  <lido:displayPlace xml:lang="sv">Hamburg</lido:displayPlace>
+                  <lido:displayPlace xml:lang="sw">Hamburg</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ta">ஆம்பர்கு</lido:displayPlace>
+                  <lido:displayPlace xml:lang="th">ฮัมบวร์ค</lido:displayPlace>
+                  <lido:displayPlace xml:lang="tl">Hamburg</lido:displayPlace>
+                  <lido:displayPlace xml:lang="tr">Hamburg</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ur">ہم برک</lido:displayPlace>
+                  <lido:displayPlace xml:lang="vi">Hamburg</lido:displayPlace>
+                  <lido:displayPlace xml:lang="zh">汉堡</lido:displayPlace>
+                  <lido:place>
+                     <lido:placeID lido:source="geonames" lido:type="uri">https://sws.geonames.org/2911297</lido:placeID>
+                     <lido:placeID lido:source="TGN" lido:type="uri">http://vocab.getty.edu/tgn/7003673</lido:placeID>
+                     <lido:placeID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4023118-5</lido:placeID>
+                     <lido:placeID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q1055</lido:placeID>
+                     <lido:placeID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/place/202</lido:placeID>
+                     <lido:namePlaceSet>
+                        <lido:appellationValue>Hamburg</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ar">هامبورغ</lido:appellationValue>
+                        <lido:appellationValue xml:lang="bn">হামবুর্গ</lido:appellationValue>
+                        <lido:appellationValue xml:lang="cs">Hamburk</lido:appellationValue>
+                        <lido:appellationValue xml:lang="da">Hamborg</lido:appellationValue>
+                        <lido:appellationValue xml:lang="de">Hamburg</lido:appellationValue>
+                        <lido:appellationValue xml:lang="el">Αμβούργο</lido:appellationValue>
+                        <lido:appellationValue xml:lang="en">Hamburg</lido:appellationValue>
+                        <lido:appellationValue xml:lang="es">Hamburgo</lido:appellationValue>
+                        <lido:appellationValue xml:lang="fa">هامبورگ</lido:appellationValue>
+                        <lido:appellationValue xml:lang="fi">Hampuri</lido:appellationValue>
+                        <lido:appellationValue xml:lang="fr">Hambourg</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ha">Hamburg</lido:appellationValue>
+                        <lido:appellationValue xml:lang="he">המבורג</lido:appellationValue>
+                        <lido:appellationValue xml:lang="hi">हैम्बर्ग</lido:appellationValue>
+                        <lido:appellationValue xml:lang="hu">Hamburg</lido:appellationValue>
+                        <lido:appellationValue xml:lang="id">Hamburg</lido:appellationValue>
+                        <lido:appellationValue xml:lang="it">Amburgo</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ja">ハンブルク</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ka">ჰამბურგი</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ko">함부르크</lido:appellationValue>
+                        <lido:appellationValue xml:lang="nl">Hamburg</lido:appellationValue>
+                        <lido:appellationValue xml:lang="pl">Hamburg</lido:appellationValue>
+                        <lido:appellationValue xml:lang="pt">Hamburgo</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ro">Hamburg</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ru">Гамбург</lido:appellationValue>
+                        <lido:appellationValue xml:lang="sv">Hamburg</lido:appellationValue>
+                        <lido:appellationValue xml:lang="sw">Hamburg</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ta">ஆம்பர்கு</lido:appellationValue>
+                        <lido:appellationValue xml:lang="th">ฮัมบวร์ค</lido:appellationValue>
+                        <lido:appellationValue xml:lang="tl">Hamburg</lido:appellationValue>
+                        <lido:appellationValue xml:lang="tr">Hamburg</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ur">ہم برک</lido:appellationValue>
+                        <lido:appellationValue xml:lang="vi">Hamburg</lido:appellationValue>
+                        <lido:appellationValue xml:lang="zh">汉堡</lido:appellationValue>
+                     </lido:namePlaceSet>
+                     <lido:gml>
+                        <gml:Point xmlns:gml="http://www.opengis.net/gml" srsName="EPSG:4326">
+                           <gml:pos>53.549999237061 10</gml:pos>
+                        </gml:Point>
+                     </lido:gml>
+                  </lido:place>
+               </lido:eventPlace>
+            </lido:event>
+         </lido:eventSet>
+         <lido:eventSet>
+            <lido:event>
+               <lido:eventType>
+                  <lido:conceptID lido:type="uri">http://terminology.lido-schema.org/lido00003</lido:conceptID>
+                  <lido:term>Event (non-specified)</lido:term>
+               </lido:eventType>
+               <lido:eventMaterialsTech>
+                  <lido:displayMaterialsTech>Stahlstich auf gebräuntem Papier, Knickfalte geglättet</lido:displayMaterialsTech>
+               </lido:eventMaterialsTech>
+            </lido:event>
+         </lido:eventSet>
+      </lido:eventWrap>
+      <lido:objectRelationWrap>
+         <lido:subjectWrap>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectPlace>
+                     <lido:displayPlace>Königsberg in der Neumark</lido:displayPlace>
+                     <lido:displayPlace xml:lang="ar">خوينا</lido:displayPlace>
+                     <lido:displayPlace xml:lang="cs">Chojna</lido:displayPlace>
+                     <lido:displayPlace xml:lang="da">Chojna</lido:displayPlace>
+                     <lido:displayPlace xml:lang="de">Königsberg in der Neumark</lido:displayPlace>
+                     <lido:displayPlace xml:lang="en">Chojna</lido:displayPlace>
+                     <lido:displayPlace xml:lang="fa">چوجنا</lido:displayPlace>
+                     <lido:displayPlace xml:lang="fr">Chojna</lido:displayPlace>
+                     <lido:displayPlace xml:lang="hu">Chojna</lido:displayPlace>
+                     <lido:displayPlace xml:lang="id">Chojna</lido:displayPlace>
+                     <lido:displayPlace xml:lang="it">Chojna</lido:displayPlace>
+                     <lido:displayPlace xml:lang="ko">호이나</lido:displayPlace>
+                     <lido:displayPlace xml:lang="nl">Chojna</lido:displayPlace>
+                     <lido:displayPlace xml:lang="pl">Chojna</lido:displayPlace>
+                     <lido:displayPlace xml:lang="pt">Chojna</lido:displayPlace>
+                     <lido:displayPlace xml:lang="ro">Chojna</lido:displayPlace>
+                     <lido:displayPlace xml:lang="ru">Хойна</lido:displayPlace>
+                     <lido:displayPlace xml:lang="sv">Chojna</lido:displayPlace>
+                     <lido:displayPlace xml:lang="vi">Chojna</lido:displayPlace>
+                     <lido:displayPlace xml:lang="zh">霍伊納</lido:displayPlace>
+                     <lido:place>
+                        <lido:placeID lido:source="geonames" lido:type="uri">https://sws.geonames.org/3101675</lido:placeID>
+                        <lido:placeID lido:source="TGN" lido:type="uri">http://vocab.getty.edu/tgn/1048974</lido:placeID>
+                        <lido:placeID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/5057047-X</lido:placeID>
+                        <lido:placeID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q954157</lido:placeID>
+                        <lido:placeID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/place/9610</lido:placeID>
+                        <lido:namePlaceSet>
+                           <lido:appellationValue>Königsberg in der Neumark</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ar">خوينا</lido:appellationValue>
+                           <lido:appellationValue xml:lang="cs">Chojna</lido:appellationValue>
+                           <lido:appellationValue xml:lang="da">Chojna</lido:appellationValue>
+                           <lido:appellationValue xml:lang="de">Königsberg in der Neumark</lido:appellationValue>
+                           <lido:appellationValue xml:lang="en">Chojna</lido:appellationValue>
+                           <lido:appellationValue xml:lang="fa">چوجنا</lido:appellationValue>
+                           <lido:appellationValue xml:lang="fr">Chojna</lido:appellationValue>
+                           <lido:appellationValue xml:lang="hu">Chojna</lido:appellationValue>
+                           <lido:appellationValue xml:lang="id">Chojna</lido:appellationValue>
+                           <lido:appellationValue xml:lang="it">Chojna</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ko">호이나</lido:appellationValue>
+                           <lido:appellationValue xml:lang="nl">Chojna</lido:appellationValue>
+                           <lido:appellationValue xml:lang="pl">Chojna</lido:appellationValue>
+                           <lido:appellationValue xml:lang="pt">Chojna</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ro">Chojna</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ru">Хойна</lido:appellationValue>
+                           <lido:appellationValue xml:lang="sv">Chojna</lido:appellationValue>
+                           <lido:appellationValue xml:lang="vi">Chojna</lido:appellationValue>
+                           <lido:appellationValue xml:lang="zh">霍伊納</lido:appellationValue>
+                        </lido:namePlaceSet>
+                        <lido:gml>
+                           <gml:Point xmlns:gml="http://www.opengis.net/gml" srsName="EPSG:4326">
+                              <gml:pos>52.963890075684 14.427969932556</gml:pos>
+                           </gml:Point>
+                        </lido:gml>
+                     </lido:place>
+                  </lido:subjectPlace>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="aat" lido:type="uri">http://vocab.getty.edu/aat/300015571</lido:conceptID>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">http://d-nb.info/gnd/4126697-3</lido:conceptID>
+                     <lido:conceptID lido:source="iconclass" lido:type="uri">http://iconclass.org/rkd/25II1/</lido:conceptID>
+                     <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/vocabulary/graphicMaterials/tgm002111</lido:conceptID>
+                     <lido:conceptID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q1935974</lido:conceptID>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Stadtlandschaft_(Malerei)</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/66</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Stadtansicht</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="da">Bylandskabsbillede</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="de">Stadtansicht</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="en">Cityscape</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="es">Paisaje urbano</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fr">Paysage urbain</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="id">Cityscape (seni)</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="nl">Stadsgezicht</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ru">городской пейзаж</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sv">Stadsbild</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">http://d-nb.info/gnd/4176999-5</lido:conceptID>
+                     <lido:conceptID lido:source="iconclass" lido:type="uri">http://iconclass.org/rkd/61F(RATHAUS)/</lido:conceptID>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">http://de.wikipedia.org/wiki/Rathaus</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/1780</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Rathaus</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">http://d-nb.info/gnd/4122869-8</lido:conceptID>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Backsteingotik</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/21422</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Backsteingotik</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+         </lido:subjectWrap>
+         <lido:relatedWorksWrap/>
+      </lido:objectRelationWrap>
+   </lido:descriptiveMetadata>
+   <lido:administrativeMetadata xml:lang="de">
+      <lido:rightsWorkWrap>
+         <lido:rightsWorkSet>
+            <lido:rightsHolder>
+               <lido:legalBodyName>
+                  <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:rightsHolder>
+         </lido:rightsWorkSet>
+      </lido:rightsWorkWrap>
+      <lido:recordWrap>
+         <lido:recordID lido:type="museum-digital">67174</lido:recordID>
+         <lido:recordType>
+            <lido:term lido:addedSearchTerm="no">item</lido:term>
+         </lido:recordType>
+         <lido:recordSource lido:type="dataProvider">
+            <lido:legalBodyName>
+               <lido:appellationValue>museum-digital</lido:appellationValue>
+            </lido:legalBodyName>
+            <lido:legalBodyWeblink>https://berlin.museum-digital.de/</lido:legalBodyWeblink>
+         </lido:recordSource>
+         <lido:recordSource>
+            <lido:legalBodyID lido:type="isil">DE-B185</lido:legalBodyID>
+            <lido:legalBodyName>
+               <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+            </lido:legalBodyName>
+         </lido:recordSource>
+         <lido:recordRights>
+            <lido:rightsType>
+               <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no">CC BY</lido:term>
+            </lido:rightsType>
+            <lido:rightsHolder>
+               <lido:legalBodyID lido:type="isil">DE-B185</lido:legalBodyID>
+               <lido:legalBodyName>
+                  <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+               </lido:legalBodyName>
+               <lido:legalBodyWeblink>http://geschichte-brandenburg.de/</lido:legalBodyWeblink>
+            </lido:rightsHolder>
+            <lido:creditLine>Förderprogramm zur Digitalisierung von Objekten des kulturellen Erbes des Landes Berlin</lido:creditLine>
+         </lido:recordRights>
+         <lido:recordInfoSet>
+            <lido:recordInfoLink>https://berlin.museum-digital.de/index.php?t=objekt&amp;oges=67174</lido:recordInfoLink>
+            <lido:recordMetadataDate>2021-04-27 07:59:53</lido:recordMetadataDate>
+         </lido:recordInfoSet>
+      </lido:recordWrap>
+      <lido:resourceWrap>
+         <lido:resourceSet lido:sortorder="1">
+            <lido:resourceID lido:source="image" lido:type="local">48757</lido:resourceID>
+            <lido:resourceRepresentation lido:type="masterfile">
+               <lido:linkResource lido:formatResource="image/tiff"/>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_thumb">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/202007/100h_koenigsbergneumark-kr-koenigsberg-gesamtansicht-der-rathauses-brandenburgisches-album-blat.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_preview">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/202007/200w_koenigsbergneumark-kr-koenigsberg-gesamtansicht-der-rathauses-brandenburgisches-album-blat.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/202007/koenigsbergneumark-kr-koenigsberg-gesamtansicht-der-rathauses-brandenburgisches-album-blat.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceType>
+               <lido:term lido:addedSearchTerm="no">image</lido:term>
+            </lido:resourceType>
+            <lido:resourceRelType>
+               <lido:term lido:addedSearchTerm="no">Hauptansicht</lido:term>
+            </lido:resourceRelType>
+            <lido:resourceDescription>Königsberg/Neumark (Kr. Königsberg): Gesamtansicht der Rathauses (Brandenburgisches Album, Blatt 23)</lido:resourceDescription>
+            <lido:resourceSource lido:type="creator">
+               <lido:legalBodyName>
+                  <lido:appellationValue>Thomas Voßbeck, 2020</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:resourceSource>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+                  <lido:term lido:addedSearchTerm="no">CC BY</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V.</lido:appellationValue>
+                  </lido:legalBodyName>
+               </lido:rightsHolder>
+               <lido:creditLine>Thomas Voßbeck, 2020</lido:creditLine>
+            </lido:rightsResource>
+         </lido:resourceSet>
+      </lido:resourceWrap>
+   </lido:administrativeMetadata>
+</lido:lido>
+

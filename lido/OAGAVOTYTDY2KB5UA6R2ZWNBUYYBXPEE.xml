@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lido:lido xmlns:lido="http://www.lido-schema.org"
+           xmlns:xalan="http://xml.apache.org/xalan">
+   <lido:lidoRecID lido:source="https://berlin.museum-digital.de/index.php?t=institution&amp;instnr=32"
+                   lido:type="local">DE-B185/67064</lido:lidoRecID>
+   <lido:category/>
+   <lido:descriptiveMetadata xml:lang="de">
+      <lido:objectClassificationWrap>
+         <lido:objectWorkTypeWrap>
+            <lido:objectWorkType>
+               <lido:conceptID lido:source="gnd" lido:type="uri">http://d-nb.info/gnd/4021845-4</lido:conceptID>
+               <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/13314</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Druckgraphik</lido:term>
+            </lido:objectWorkType>
+         </lido:objectWorkTypeWrap>
+         <lido:classificationWrap>
+            <lido:classification lido:type="Sammlung">
+               <lido:conceptID lido:source="local" lido:type="collection_id">705</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Handzeichnungen, Druckgraphik, Gemälde</lido:term>
+            </lido:classification>
+            <lido:classification lido:type="Sammlung">
+               <lido:conceptID lido:source="local" lido:type="collection_id">710</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Porträts</lido:term>
+            </lido:classification>
+         </lido:classificationWrap>
+      </lido:objectClassificationWrap>
+      <lido:objectIdentificationWrap>
+         <lido:titleWrap>
+            <lido:titleSet>
+               <lido:appellationValue lido:pref="preferred">Schuberth, Gottlieb Heinrich von (1778-1866), Schuldirektor in St. Petersburg</lido:appellationValue>
+            </lido:titleSet>
+         </lido:titleWrap>
+         <lido:repositoryWrap>
+            <lido:repositorySet lido:type="current">
+               <lido:repositoryName>
+                  <lido:legalBodyID lido:type="isil">DE-B185</lido:legalBodyID>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+                  </lido:legalBodyName>
+                  <lido:legalBodyWeblink>http://geschichte-brandenburg.de/</lido:legalBodyWeblink>
+               </lido:repositoryName>
+               <lido:workID lido:type="inventory number">LGV-Archiv, C 12 G-3-128</lido:workID>
+               <lido:repositoryLocation>
+                  <lido:namePlaceSet>
+                     <lido:appellationValue>Berlin</lido:appellationValue>
+                  </lido:namePlaceSet>
+                  <lido:gml>
+                     <gml:Point xmlns:gml="http://www.opengis.net/gml" srsName="EPSG:4326">
+                        <gml:pos>52.51533127 13.40440559</gml:pos>
+                     </gml:Point>
+                  </lido:gml>
+               </lido:repositoryLocation>
+            </lido:repositorySet>
+         </lido:repositoryWrap>
+         <lido:objectDescriptionWrap>
+            <lido:objectDescriptionSet>
+               <lido:descriptiveNoteValue>Brustbild mit dahinter stehendem Kruzifix.&#xD;
+Dr. phil. Gottlieb Heinrich Schuberth war Kaiserlich russischer Staatsrat und Direktor der deutschen Hauptschule St. Petri in St. Petersburg und wurde gemäß seines Ranges in den erblichen russischen Adelsstand erhoben. Nach seinem krankheitsbedingten Rückszug lebte er (und starb) in Oranienbaum (Lomonossow) bei St. Petersburg. Schuberth stammte aus dem niederlausitzischen Guben (heute Gubin/Polen) und hing nach eigenem Zeugnis sehr an seiner Heimatstadt, wie er in seinem Testament auch ausdrückte: "O! sei ewig gesegnet, Du geliebtes Guben". Von 1841 bis 1852 errichtete er in seiner neuen russischen Heimat in mehreren Schritten mit Kapitalerweiterungen zugunsten seiner in Guben lebenden Verwandten die Schuberthsche Familien-Stiftung. Eine zeitgenössische Abschrift der Stiftungsurkunden wurde für das Archiv 1999 im Handel erworben. Darin befand sich neben dem Testament und Daten zu Schuberths Verwandtschaft in Guben als Beilage auch das hier vorgestellte Porträt, das aus konservatorischen Gründen in die Bildersammlung übernommen wurde. Es spricht einiges dafür, dass es aus Anlass der Familien-Stiftung gefertigt wurde, um den Verwandten im heimatlichen Guben ein Abbild des im fernen Russland lebenden Stifters zu vermitteln. Das Porträt betont die Religiosität, Schuberth war evangelisch-lutherischen Bekenntnisses, damit korrespondiert ein Hinweis auf den Römer-Brief ("Röm. 14") auf dem gedruckten Textblatt.&#xD;
+Die deutsche Hauptschule St. Petri, kurz Petrischule genannt (russ. Петришуле) wurde 1709 begründet und ist eine traditionsreiche deutsch-russische Schule mit verstärktem Deutschunterricht. Sie existiert noch heute und befindet sich am Newski-Prospekt, gegenüber der Kasaner Kathedrale.&#xD;
+&#xD;
+Das Porträtblatt ist bez. unter der Darstellung "Lith. Bergmann", doch konnte dieser Lithograph oder die Lithographische Werkstatt bisher nicht ermittelt werden, ist aber wohl in deutschsprachigen Kreisen von St. Petersburg zu suchen. Die gedruckte russische Beschriftung "Сmаmскiй Советьникь / Докторь Андрей Богдановичь / Шуберть / Директорь Главнаго немескаго Училища Сватаго Петра." wurde in handschriftlicher Ergänzung in brauner Tinte hinzugefügt: "Staatsrath Doctor Heinrich Gottlieb v. Schuberth / Director der deutschen Hauptschule St. Petri."&#xD;
+Erworben 1999 im Antiquariatshandel (Jeschke, Meinke &amp; Hauff, Berlin, Auktion 19, Kat.-Nr. 240).&#xD;
+&#xD;
+Literatur zum Porträtierten: Peter Bahl: Die Familie Schuberth in Guben und die Schuberthsche Familienstiftung des russischen Staatsrats Heinrich v. Schuberth. In: Archiv ostdeutscher Familienforscher, Bd. 17, 2009, S. 385-388. - Erik Amburger: Die Lehrer der deutschen evangelischen Kirchenschulen in St. Petersburg und Moskau. In: Ostdeutsche Familienkunde 12 (1964), S. 298-301, hier S. 299. - Sämtliche Briefe an Johann Heinrich Pestalozzi. Kritische Ausgabe. Bd. 5. Zürich 2013, S. 267f.</lido:descriptiveNoteValue>
+               <lido:sourceDescriptiveNote>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:sourceDescriptiveNote>
+            </lido:objectDescriptionSet>
+         </lido:objectDescriptionWrap>
+         <lido:objectMeasurementsWrap>
+            <lido:objectMeasurementsSet>
+               <lido:displayObjectMeasurements>Blattgröße: 33,8 cm, Breite 24 cm</lido:displayObjectMeasurements>
+               <lido:objectMeasurements/>
+            </lido:objectMeasurementsSet>
+         </lido:objectMeasurementsWrap>
+      </lido:objectIdentificationWrap>
+      <lido:eventWrap>
+         <lido:eventSet>
+            <lido:event>
+               <lido:eventType>
+                  <lido:conceptID lido:type="uri">https://event-types.museum-digital.org/1</lido:conceptID>
+                  <lido:term lido:addedSearchTerm="no">Hergestellt</lido:term>
+               </lido:eventType>
+               <lido:eventDate>
+                  <lido:displayDate>1841 (wahrscheinlich)</lido:displayDate>
+                  <lido:displayDate xml:lang="ar">1841</lido:displayDate>
+                  <lido:displayDate xml:lang="de">1841</lido:displayDate>
+                  <lido:displayDate xml:lang="en">1841</lido:displayDate>
+                  <lido:displayDate xml:lang="es">1841</lido:displayDate>
+                  <lido:displayDate xml:lang="fa">1841</lido:displayDate>
+                  <lido:displayDate xml:lang="fr">1841</lido:displayDate>
+                  <lido:displayDate xml:lang="hu">1841</lido:displayDate>
+                  <lido:displayDate xml:lang="id">1841</lido:displayDate>
+                  <lido:displayDate xml:lang="it">1841</lido:displayDate>
+                  <lido:displayDate xml:lang="ja">1841年</lido:displayDate>
+                  <lido:displayDate xml:lang="ka">1841</lido:displayDate>
+                  <lido:displayDate xml:lang="ko">1841년</lido:displayDate>
+                  <lido:displayDate xml:lang="pl">1841</lido:displayDate>
+                  <lido:displayDate xml:lang="pt">1841</lido:displayDate>
+                  <lido:displayDate xml:lang="ro">1841</lido:displayDate>
+                  <lido:displayDate xml:lang="ru">1841</lido:displayDate>
+                  <lido:displayDate xml:lang="ta">1841</lido:displayDate>
+                  <lido:displayDate xml:lang="tl">1841</lido:displayDate>
+                  <lido:displayDate xml:lang="tr">1841</lido:displayDate>
+                  <lido:displayDate xml:lang="zh">1841年</lido:displayDate>
+                  <lido:date>
+                     <lido:earliestDate>1841</lido:earliestDate>
+                     <lido:latestDate>1841</lido:latestDate>
+                  </lido:date>
+               </lido:eventDate>
+               <lido:eventPlace>
+                  <lido:displayPlace>Sankt Petersburg</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ar">سانت بطرسبرغ</lido:displayPlace>
+                  <lido:displayPlace xml:lang="bn">সেন্ট পিটার্সবার্গ</lido:displayPlace>
+                  <lido:displayPlace xml:lang="cs">Petrohrad</lido:displayPlace>
+                  <lido:displayPlace xml:lang="da">Sankt Petersborg</lido:displayPlace>
+                  <lido:displayPlace xml:lang="de">Sankt Petersburg</lido:displayPlace>
+                  <lido:displayPlace xml:lang="el">Αγία Πετρούπολη</lido:displayPlace>
+                  <lido:displayPlace xml:lang="en">Saint Petersburg</lido:displayPlace>
+                  <lido:displayPlace xml:lang="es">San Petersburgo</lido:displayPlace>
+                  <lido:displayPlace xml:lang="fa">سن پترزبورگ</lido:displayPlace>
+                  <lido:displayPlace xml:lang="fi">Pietari (kaupunki)</lido:displayPlace>
+                  <lido:displayPlace xml:lang="fr">Saint-Pétersbourg</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ha">Saint-Petersburg</lido:displayPlace>
+                  <lido:displayPlace xml:lang="he">סנקט פטרבורג</lido:displayPlace>
+                  <lido:displayPlace xml:lang="hi">सेंट पीटर्सबर्ग</lido:displayPlace>
+                  <lido:displayPlace xml:lang="hu">Szentpétervár</lido:displayPlace>
+                  <lido:displayPlace xml:lang="id">Sankt-Peterburg</lido:displayPlace>
+                  <lido:displayPlace xml:lang="it">San Pietroburgo</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ja">サンクトペテルブルク</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ka">სანქტ-პეტერბურგი</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ko">상트페테르부르크</lido:displayPlace>
+                  <lido:displayPlace xml:lang="nl">Sint-Petersburg</lido:displayPlace>
+                  <lido:displayPlace xml:lang="pl">Petersburg</lido:displayPlace>
+                  <lido:displayPlace xml:lang="pt">São Petersburgo</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ro">Sankt Petersburg</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ru">Санкт-Петербург</lido:displayPlace>
+                  <lido:displayPlace xml:lang="sv">Sankt Petersburg</lido:displayPlace>
+                  <lido:displayPlace xml:lang="sw">Sankt Peterburg</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ta">சென் பீட்டர்சுபெர்கு</lido:displayPlace>
+                  <lido:displayPlace xml:lang="th">เซนต์ปีเตอร์สเบิร์ก</lido:displayPlace>
+                  <lido:displayPlace xml:lang="tl">San Petersburgo</lido:displayPlace>
+                  <lido:displayPlace xml:lang="tr">Sankt-Peterburg</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ur">سینٹ پیٹرز برگ</lido:displayPlace>
+                  <lido:displayPlace xml:lang="vi">Sankt-Peterburg</lido:displayPlace>
+                  <lido:displayPlace xml:lang="zh">圣彼得堡</lido:displayPlace>
+                  <lido:place>
+                     <lido:placeID lido:source="geonames" lido:type="uri">https://sws.geonames.org/498817</lido:placeID>
+                     <lido:placeID lido:source="TGN" lido:type="uri">http://vocab.getty.edu/tgn/7010273</lido:placeID>
+                     <lido:placeID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4267026-3</lido:placeID>
+                     <lido:placeID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q656</lido:placeID>
+                     <lido:placeID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/place/2716</lido:placeID>
+                     <lido:namePlaceSet>
+                        <lido:appellationValue>Sankt Petersburg</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ar">سانت بطرسبرغ</lido:appellationValue>
+                        <lido:appellationValue xml:lang="bn">সেন্ট পিটার্সবার্গ</lido:appellationValue>
+                        <lido:appellationValue xml:lang="cs">Petrohrad</lido:appellationValue>
+                        <lido:appellationValue xml:lang="da">Sankt Petersborg</lido:appellationValue>
+                        <lido:appellationValue xml:lang="de">Sankt Petersburg</lido:appellationValue>
+                        <lido:appellationValue xml:lang="el">Αγία Πετρούπολη</lido:appellationValue>
+                        <lido:appellationValue xml:lang="en">Saint Petersburg</lido:appellationValue>
+                        <lido:appellationValue xml:lang="es">San Petersburgo</lido:appellationValue>
+                        <lido:appellationValue xml:lang="fa">سن پترزبورگ</lido:appellationValue>
+                        <lido:appellationValue xml:lang="fi">Pietari (kaupunki)</lido:appellationValue>
+                        <lido:appellationValue xml:lang="fr">Saint-Pétersbourg</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ha">Saint-Petersburg</lido:appellationValue>
+                        <lido:appellationValue xml:lang="he">סנקט פטרבורג</lido:appellationValue>
+                        <lido:appellationValue xml:lang="hi">सेंट पीटर्सबर्ग</lido:appellationValue>
+                        <lido:appellationValue xml:lang="hu">Szentpétervár</lido:appellationValue>
+                        <lido:appellationValue xml:lang="id">Sankt-Peterburg</lido:appellationValue>
+                        <lido:appellationValue xml:lang="it">San Pietroburgo</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ja">サンクトペテルブルク</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ka">სანქტ-პეტერბურგი</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ko">상트페테르부르크</lido:appellationValue>
+                        <lido:appellationValue xml:lang="nl">Sint-Petersburg</lido:appellationValue>
+                        <lido:appellationValue xml:lang="pl">Petersburg</lido:appellationValue>
+                        <lido:appellationValue xml:lang="pt">São Petersburgo</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ro">Sankt Petersburg</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ru">Санкт-Петербург</lido:appellationValue>
+                        <lido:appellationValue xml:lang="sv">Sankt Petersburg</lido:appellationValue>
+                        <lido:appellationValue xml:lang="sw">Sankt Peterburg</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ta">சென் பீட்டர்சுபெர்கு</lido:appellationValue>
+                        <lido:appellationValue xml:lang="th">เซนต์ปีเตอร์สเบิร์ก</lido:appellationValue>
+                        <lido:appellationValue xml:lang="tl">San Petersburgo</lido:appellationValue>
+                        <lido:appellationValue xml:lang="tr">Sankt-Peterburg</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ur">سینٹ پیٹرز برگ</lido:appellationValue>
+                        <lido:appellationValue xml:lang="vi">Sankt-Peterburg</lido:appellationValue>
+                        <lido:appellationValue xml:lang="zh">圣彼得堡</lido:appellationValue>
+                     </lido:namePlaceSet>
+                     <lido:gml>
+                        <gml:Point xmlns:gml="http://www.opengis.net/gml" srsName="EPSG:4326">
+                           <gml:pos>59.950000762939 30.316667556763</gml:pos>
+                        </gml:Point>
+                     </lido:gml>
+                  </lido:place>
+               </lido:eventPlace>
+            </lido:event>
+         </lido:eventSet>
+         <lido:eventSet>
+            <lido:event>
+               <lido:eventType>
+                  <lido:conceptID lido:type="uri">http://terminology.lido-schema.org/lido00003</lido:conceptID>
+                  <lido:term>Event (non-specified)</lido:term>
+               </lido:eventType>
+               <lido:eventMaterialsTech>
+                  <lido:displayMaterialsTech>Lithographie auf Seidenpapier, auf dünnem Papier und dieses noch einmal auf Karton aufgezogen (stark gebräunt, wasserfleckig mit kleineren Einrissen)</lido:displayMaterialsTech>
+               </lido:eventMaterialsTech>
+            </lido:event>
+         </lido:eventSet>
+      </lido:eventWrap>
+      <lido:objectRelationWrap>
+         <lido:subjectWrap>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="aat" lido:type="uri">http://vocab.getty.edu/aat/300015637</lido:conceptID>
+                     <lido:conceptID lido:source="iconclass" lido:type="uri">http://iconclass.org/rkd/61B11/</lido:conceptID>
+                     <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh99001681</lido:conceptID>
+                     <lido:conceptID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q134307</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/22</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Porträt</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ar">بورتريه</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="cs">Portrét</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="da">Portræt</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="de">Porträt</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="el">προσωπογραφία</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="en">Portrait</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="es">Retrato</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fa">چهره‌نگاری</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fi">Muotokuva</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fr">Portrait</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="he">דיוקן</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hi">चित्र</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hu">arckép</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="id">Potret</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="it">Ritratto</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ja">肖像</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ka">პორტრეტი</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ko">초상</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="nl">Portret</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pl">Portret</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pt">Retrato</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ro">portret</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ru">портрет</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sv">Porträtt</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="th">ภาพเหมือน</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tr">Portre</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="zh">肖像</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">http://d-nb.info/gnd/4006650-2</lido:conceptID>
+                     <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh85040989</lido:conceptID>
+                     <lido:conceptID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q2653450</lido:conceptID>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Bildung</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/2080</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Bildung</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ar">بيلدنج</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="da">Dannelse</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="de">Bildung</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="en">Bildung</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="es">Bildung</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fi">Sivistys</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="he">בילדונג</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ja">ビルドゥング</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ko">빌둥</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="nl">Bildung</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pt">Bildung</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sv">Bildning</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/9395</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Herrenporträt</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="de">Herrenporträt</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hu">ferfi portre</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/75733</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Staatsrat</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+         </lido:subjectWrap>
+         <lido:relatedWorksWrap/>
+      </lido:objectRelationWrap>
+   </lido:descriptiveMetadata>
+   <lido:administrativeMetadata xml:lang="de">
+      <lido:rightsWorkWrap>
+         <lido:rightsWorkSet>
+            <lido:rightsHolder>
+               <lido:legalBodyName>
+                  <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:rightsHolder>
+         </lido:rightsWorkSet>
+      </lido:rightsWorkWrap>
+      <lido:recordWrap>
+         <lido:recordID lido:type="museum-digital">67064</lido:recordID>
+         <lido:recordType>
+            <lido:term lido:addedSearchTerm="no">item</lido:term>
+         </lido:recordType>
+         <lido:recordSource lido:type="dataProvider">
+            <lido:legalBodyName>
+               <lido:appellationValue>museum-digital</lido:appellationValue>
+            </lido:legalBodyName>
+            <lido:legalBodyWeblink>https://berlin.museum-digital.de/</lido:legalBodyWeblink>
+         </lido:recordSource>
+         <lido:recordSource>
+            <lido:legalBodyID lido:type="isil">DE-B185</lido:legalBodyID>
+            <lido:legalBodyName>
+               <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+            </lido:legalBodyName>
+         </lido:recordSource>
+         <lido:recordRights>
+            <lido:rightsType>
+               <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no">CC BY</lido:term>
+            </lido:rightsType>
+            <lido:rightsHolder>
+               <lido:legalBodyID lido:type="isil">DE-B185</lido:legalBodyID>
+               <lido:legalBodyName>
+                  <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+               </lido:legalBodyName>
+               <lido:legalBodyWeblink>http://geschichte-brandenburg.de/</lido:legalBodyWeblink>
+            </lido:rightsHolder>
+            <lido:creditLine>Förderprogramm zur Digitalisierung von Objekten des kulturellen Erbes des Landes Berlin</lido:creditLine>
+         </lido:recordRights>
+         <lido:recordInfoSet>
+            <lido:recordInfoLink>https://berlin.museum-digital.de/index.php?t=objekt&amp;oges=67064</lido:recordInfoLink>
+            <lido:recordMetadataDate>2021-04-27 07:59:54</lido:recordMetadataDate>
+         </lido:recordInfoSet>
+      </lido:recordWrap>
+      <lido:resourceWrap>
+         <lido:resourceSet lido:sortorder="1">
+            <lido:resourceID lido:source="image" lido:type="local">48648</lido:resourceID>
+            <lido:resourceRepresentation lido:type="masterfile">
+               <lido:linkResource lido:formatResource="image/tiff"/>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_thumb">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/202007/100h_schuberth-gottlieb-heinrich-von-1778-1866-schuldirektor-in-st-petersburg-67064.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_preview">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/202007/200w_schuberth-gottlieb-heinrich-von-1778-1866-schuldirektor-in-st-petersburg-67064.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/202007/schuberth-gottlieb-heinrich-von-1778-1866-schuldirektor-in-st-petersburg-67064.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceType>
+               <lido:term lido:addedSearchTerm="no">image</lido:term>
+            </lido:resourceType>
+            <lido:resourceRelType>
+               <lido:term lido:addedSearchTerm="no">Hauptansicht</lido:term>
+            </lido:resourceRelType>
+            <lido:resourceDescription>Schuberth, Gottlieb Heinrich von (1778-1866), Schuldirektor in St. Petersburg</lido:resourceDescription>
+            <lido:resourceSource lido:type="creator">
+               <lido:legalBodyName>
+                  <lido:appellationValue>Thomas Voßbeck, 2020</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:resourceSource>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+                  <lido:term lido:addedSearchTerm="no">CC BY</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V.</lido:appellationValue>
+                  </lido:legalBodyName>
+               </lido:rightsHolder>
+               <lido:creditLine>Thomas Voßbeck, 2020</lido:creditLine>
+            </lido:rightsResource>
+         </lido:resourceSet>
+      </lido:resourceWrap>
+   </lido:administrativeMetadata>
+</lido:lido>
+

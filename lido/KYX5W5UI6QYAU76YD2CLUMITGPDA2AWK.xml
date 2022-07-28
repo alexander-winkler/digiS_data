@@ -1,0 +1,505 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lido:lido xmlns:gml="http://www.opengis.net/gml"
+           xmlns:lido="http://www.lido-schema.org"
+           xmlns:schemaLocation="http://schemas.opengis.net/gml/3.1.1/base/feature.xsd"
+           xmlns:xalan="http://xml.apache.org/xalan"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <lido:lidoRecID lido:source="https://berlin.museum-digital.de/index.php?t=institution&amp;instnr=10"
+                   lido:type="local">DE-MUS-232415/92322</lido:lidoRecID>
+   <lido:category/>
+   <lido:descriptiveMetadata xml:lang="de">
+      <lido:objectClassificationWrap>
+         <lido:objectWorkTypeWrap>
+            <lido:objectWorkType>
+               <lido:conceptID lido:source="gnd" lido:type="uri">http://d-nb.info/gnd/4184660-6</lido:conceptID>
+               <lido:conceptID lido:source="grobsystematik" lido:type="uri">https://term.museum-digital.de/grobsystematik/tag/12682</lido:conceptID>
+               <lido:conceptID lido:source="oberbegriffsdatei" lido:type="uri">https://term.museum-digital.de/oberbegriffsdatei/tag/6980</lido:conceptID>
+               <lido:conceptID lido:source="aat" lido:type="uri">http://vocab.getty.edu/aat/300042991</lido:conceptID>
+               <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh85103298</lido:conceptID>
+               <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/1853</lido:conceptID>
+               <lido:term xml:lang="de">Teller</lido:term>
+            </lido:objectWorkType>
+         </lido:objectWorkTypeWrap>
+         <lido:classificationWrap>
+            <lido:classification lido:type="Sammlung">
+               <lido:conceptID lido:source="local" lido:type="collection_id">19</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Porzellan, Keramik</lido:term>
+            </lido:classification>
+         </lido:classificationWrap>
+      </lido:objectClassificationWrap>
+      <lido:objectIdentificationWrap>
+         <lido:titleWrap>
+            <lido:titleSet>
+               <lido:appellationValue lido:pref="preferred">Flacher Teller "Moabiter baroque Form"</lido:appellationValue>
+            </lido:titleSet>
+         </lido:titleWrap>
+         <lido:repositoryWrap>
+            <lido:repositorySet lido:type="current">
+               <lido:repositoryName>
+                  <lido:legalBodyID lido:type="isil">DE-MUS-232415</lido:legalBodyID>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Mitte Museum/Bezirksamt Mitte von Berlin</lido:appellationValue>
+                  </lido:legalBodyName>
+                  <lido:legalBodyWeblink>https://www.mittemuseum.de/</lido:legalBodyWeblink>
+               </lido:repositoryName>
+               <lido:workID lido:type="inventory number">K-Schum 13/4c</lido:workID>
+               <lido:repositoryLocation>
+                  <lido:namePlaceSet>
+                     <lido:appellationValue>Berlin</lido:appellationValue>
+                  </lido:namePlaceSet>
+                  <lido:gml>
+                     <gml:Point srsName="EPSG:4326">
+                        <gml:pos>52.52658081 13.34020329</gml:pos>
+                     </gml:Point>
+                  </lido:gml>
+               </lido:repositoryLocation>
+            </lido:repositorySet>
+         </lido:repositoryWrap>
+         <lido:objectDescriptionWrap>
+            <lido:objectDescriptionSet>
+               <lido:descriptiveNoteValue>Flacher Teller mit konischem Standring und flachem Spiegel, in einen fünfpassig geschweiften, kurz gekehlten Anstieg übergehend. Ansteigende Fahne in fünffachem Rapport mit reliefiertem Ornamentstab aus liegenden S-Schwüngen belegt, im Wechsel mit Rocaille- und Wellenform verbunden. Das Randrelief ist hellgrün- und goldstaffiert. Stark ausgeprägte "Moabiter baroque Kante".&lt;br/&gt;
+Zustand: Starker Goldabrieb; teilweise Farbabrieb; Kratzer am Anstieg; gelbliche Verunreinigungen vor allem auf der Unterseite.&lt;br/&gt;
+&lt;br/&gt;
+Auf der Unterseite eine Unterglasurmarke: Adlermarke in Blau, darunter die Großbuchstaben "FAS" (Markentafel Nr. 5 nach Ponert 1993) und eine sehr schwache Bezifferung in Gold "H.". Datierung: 1861-1863&lt;br/&gt;
+&lt;br/&gt;
+Preisverzeichnisse 1852 und 1861, F. A. Schumann: "Weisses Tafel-Geschirr, Moabiter baroque Form, Teller, a) flach, Drchm. 9 Zoll", Preis: 7 Sgr. (Silbergroschen).&lt;br/&gt;
+&lt;br/&gt;
+Inventarnummer: K-Schum 13/4c</lido:descriptiveNoteValue>
+               <lido:sourceDescriptiveNote>Mitte Museum/Bezirksamt Mitte von Berlin</lido:sourceDescriptiveNote>
+            </lido:objectDescriptionSet>
+         </lido:objectDescriptionWrap>
+         <lido:objectMeasurementsWrap>
+            <lido:objectMeasurementsSet>
+               <lido:displayObjectMeasurements>Höhe: 2,9 cm; Durchmesser: 24 cm</lido:displayObjectMeasurements>
+               <lido:objectMeasurements/>
+            </lido:objectMeasurementsSet>
+         </lido:objectMeasurementsWrap>
+      </lido:objectIdentificationWrap>
+      <lido:eventWrap>
+         <lido:eventSet>
+            <lido:displayEvent>Hergestellt</lido:displayEvent>
+            <lido:event>
+               <lido:eventID lido:type="local">407145</lido:eventID>
+               <lido:eventType>
+                  <lido:conceptID lido:type="uri">https://event-types.museum-digital.org/1</lido:conceptID>
+                  <lido:term lido:addedSearchTerm="no">Hergestellt</lido:term>
+               </lido:eventType>
+               <lido:eventName>
+                  <lido:appellationValue>Hergestellt - Obj. 92322</lido:appellationValue>
+               </lido:eventName>
+               <lido:eventActor>
+                  <lido:displayActorInRole>Porzellanmanufaktur F. A. Schumann</lido:displayActorInRole>
+                  <lido:actorInRole>
+                     <lido:actor>
+                        <lido:actorID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/persinst/156528</lido:actorID>
+                        <lido:nameActorSet>
+                           <lido:appellationValue>Porzellanmanufaktur F. A. Schumann</lido:appellationValue>
+                        </lido:nameActorSet>
+                        <lido:vitalDatesActor>
+                           <lido:earliestDate/>
+                           <lido:latestDate/>
+                        </lido:vitalDatesActor>
+                     </lido:actor>
+                  </lido:actorInRole>
+               </lido:eventActor>
+               <lido:eventDate>
+                  <lido:displayDate>1861-1863</lido:displayDate>
+                  <lido:date>
+                     <lido:earliestDate>1861</lido:earliestDate>
+                     <lido:latestDate>1863</lido:latestDate>
+                  </lido:date>
+               </lido:eventDate>
+               <lido:eventPlace>
+                  <lido:displayPlace>Berlin-Moabit</lido:displayPlace>
+                  <lido:displayPlace xml:lang="da">Moabit</lido:displayPlace>
+                  <lido:displayPlace xml:lang="de">Berlin-Moabit</lido:displayPlace>
+                  <lido:displayPlace xml:lang="en">Moabit</lido:displayPlace>
+                  <lido:displayPlace xml:lang="es">Berlin-Moabit</lido:displayPlace>
+                  <lido:displayPlace xml:lang="fa">موابیت</lido:displayPlace>
+                  <lido:displayPlace xml:lang="fi">Moabit</lido:displayPlace>
+                  <lido:displayPlace xml:lang="fr">Berlin-Moabit</lido:displayPlace>
+                  <lido:displayPlace xml:lang="it">Moabit</lido:displayPlace>
+                  <lido:displayPlace xml:lang="nl">Berlin-Moabit</lido:displayPlace>
+                  <lido:displayPlace xml:lang="pl">Moabit</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ro">Berlin-Moabit</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ru">Моабит</lido:displayPlace>
+                  <lido:displayPlace xml:lang="sv">Moabit</lido:displayPlace>
+                  <lido:displayPlace xml:lang="zh">莫阿比特</lido:displayPlace>
+                  <lido:place>
+                     <lido:placeID lido:source="geonames" lido:type="uri">https://sws.geonames.org/2870310</lido:placeID>
+                     <lido:placeID lido:source="TGN" lido:type="uri">http://vocab.getty.edu/tgn/4012566</lido:placeID>
+                     <lido:placeID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4087332-8</lido:placeID>
+                     <lido:placeID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q699800</lido:placeID>
+                     <lido:placeID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/place/737</lido:placeID>
+                     <lido:namePlaceSet>
+                        <lido:appellationValue>Berlin-Moabit</lido:appellationValue>
+                        <lido:appellationValue xml:lang="da">Moabit</lido:appellationValue>
+                        <lido:appellationValue xml:lang="de">Berlin-Moabit</lido:appellationValue>
+                        <lido:appellationValue xml:lang="en">Moabit</lido:appellationValue>
+                        <lido:appellationValue xml:lang="es">Berlin-Moabit</lido:appellationValue>
+                        <lido:appellationValue xml:lang="fa">موابیت</lido:appellationValue>
+                        <lido:appellationValue xml:lang="fi">Moabit</lido:appellationValue>
+                        <lido:appellationValue xml:lang="fr">Berlin-Moabit</lido:appellationValue>
+                        <lido:appellationValue xml:lang="it">Moabit</lido:appellationValue>
+                        <lido:appellationValue xml:lang="nl">Berlin-Moabit</lido:appellationValue>
+                        <lido:appellationValue xml:lang="pl">Moabit</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ro">Berlin-Moabit</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ru">Моабит</lido:appellationValue>
+                        <lido:appellationValue xml:lang="sv">Moabit</lido:appellationValue>
+                        <lido:appellationValue xml:lang="zh">莫阿比特</lido:appellationValue>
+                     </lido:namePlaceSet>
+                     <lido:gml>
+                        <gml:Point srsName="EPSG:4326">
+                           <gml:pos>52.533298492432 13.333299636841</gml:pos>
+                        </gml:Point>
+                     </lido:gml>
+                  </lido:place>
+               </lido:eventPlace>
+            </lido:event>
+         </lido:eventSet>
+         <lido:eventSet>
+            <lido:event>
+               <lido:eventType>
+                  <lido:conceptID lido:type="uri">http://terminology.lido-schema.org/lido00003</lido:conceptID>
+                  <lido:term>Event (non-specified)</lido:term>
+               </lido:eventType>
+               <lido:eventMaterialsTech>
+                  <lido:displayMaterialsTech>Porzellan/glasiert; bemalt; vergoldet</lido:displayMaterialsTech>
+               </lido:eventMaterialsTech>
+            </lido:event>
+         </lido:eventSet>
+      </lido:eventWrap>
+      <lido:objectRelationWrap>
+         <lido:subjectWrap>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectActor>
+                     <lido:displayActor>Porzellanmanufaktur F. A. Schumann</lido:displayActor>
+                     <lido:actor>
+                        <lido:actorID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/persinst/156528</lido:actorID>
+                        <lido:nameActorSet>
+                           <lido:appellationValue>Porzellanmanufaktur F. A. Schumann</lido:appellationValue>
+                        </lido:nameActorSet>
+                        <lido:vitalDatesActor>
+                           <lido:earliestDate/>
+                           <lido:latestDate/>
+                        </lido:vitalDatesActor>
+                     </lido:actor>
+                  </lido:subjectActor>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="aat" lido:type="uri">http://vocab.getty.edu/aat/300010662</lido:conceptID>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4046851-3</lido:conceptID>
+                     <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh85104937</lido:conceptID>
+                     <lido:conceptID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/w/index.php?search=&amp;search=Q130693</lido:conceptID>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Porzellan</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/118</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Porzellan</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ar">بورسلان</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="cs">Porcelán</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="da">Porcelæn</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="de">Porzellan</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="el">πορσελάνη</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="en">Porcelain</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="es">Porcelana</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fa">پرسلان</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fi">Posliini</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fr">Porcelaine</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="he">חרסינה</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hi">पॉर्सिलेन</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hu">porcelán</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="id">Porselen</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="it">Porcellana</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ja">磁器</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ka">ფაიფური</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ko">도자기</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="nl">Porselein</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pl">Porcelana</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pt">Porcelana</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ru">Фарфор</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sv">Porslin</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="th">เครื่องถ้วยเปลือกไข่</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tr">Porselen</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ur">چینی مٹی</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="vi">Sứ</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="zh">瓷器</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="aat" lido:type="uri">http://vocab.getty.edu/aat/300042991</lido:conceptID>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4184660-6</lido:conceptID>
+                     <lido:conceptID lido:source="grobsystematik" lido:type="uri">https://term.museum-digital.de/grobsystematik/tag/12682</lido:conceptID>
+                     <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh85103298</lido:conceptID>
+                     <lido:conceptID lido:source="oberbegriffsdatei" lido:type="uri">https://term.museum-digital.de/oberbegriffsdatei/tag/6980</lido:conceptID>
+                     <lido:conceptID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q57216</lido:conceptID>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Teller</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/1853</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Teller</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ar">صحن</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="bn">থালা</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="cs">Talíř</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="da">Tallerken</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="de">Teller</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="el">Πιάτο</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="en">Plate</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="es">Plato</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fa">بشقاب</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fi">Lautanen</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fr">Assiette</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="he">צלחת</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hi">प्लेट</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hu">tányér</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="id">Piring</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="it">Piatto</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ja">プレート</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ko">접시</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="nl">Bord</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pl">Talerz</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pt">Prato</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ro">Farfurie</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ru">тарелка</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sv">Tallrik</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sw">Sahani</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ta">தட்டு</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="th">จาน</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tl">Pinggan</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tr">Tabak</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ur">رکابی</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="vi">Mảng</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="zh">碟</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="aat" lido:type="uri">http://vocab.getty.edu/aat/300132707</lido:conceptID>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4284779-5</lido:conceptID>
+                     <lido:conceptID lido:source="iconclass" lido:type="uri">http://iconclass.org/rkd/48A9863/</lido:conceptID>
+                     <lido:conceptID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q1249622</lido:conceptID>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Rocaille</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/6579</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Rocaille</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="cs">Rokaj</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="da">Rocaille</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="de">Rocaille</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="en">Rocaille</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="es">Rocaille</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fr">Rocaille</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hu">Rocaille</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="nl">Rocaille</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pl">Rocaille</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ro">Rocaille</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ru">Рокайль</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sv">Rocaille</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="aat" lido:type="uri">http://vocab.getty.edu/aat/300043196</lido:conceptID>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4124863-6</lido:conceptID>
+                     <lido:conceptID lido:source="grobsystematik" lido:type="uri">https://term.museum-digital.de/grobsystematik/tag/2690</lido:conceptID>
+                     <lido:conceptID lido:source="iconclass" lido:type="uri">http://iconclass.org/rkd/41C31/</lido:conceptID>
+                     <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh85131816</lido:conceptID>
+                     <lido:conceptID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q851782</lido:conceptID>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Essgeschirr</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/29111</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Essgeschirr</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ar">آنية</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="cs">Nádobí</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="da">Service</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="de">Essgeschirr</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="en">Tableware</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="es">Vajilla</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fi">Astia</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fr">Vaisselle</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="it">Stoviglia</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ja">テーブルウェア</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="nl">Vaatwerk</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ru">посуда</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q17575021</lido:conceptID>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Glanzgold</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/91390</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Glanzgold</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="de">Glanzgold</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/91391</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">"Moabiter baroque Form"</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/94684</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">"Moabiter baroque Kante"</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+         </lido:subjectWrap>
+         <lido:relatedWorksWrap>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:displayObject/>
+               </lido:relatedWork>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:displayObject>Ponert, Dietmar Jürgen/Webers-Tschiskale, Marion, 1993: Die Porzellanmanufaktur F. A. Schumann in Moabit bei Berlin, Berlin, S. 369, 460.</lido:displayObject>
+               </lido:relatedWork>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:displayObject>Webers-Tschiskale, Marion, 1997: Die Preisverzeichnisse und Fabrikationsmarken der Porzellanmanufaktur F. A. Schumann in Moabit bei Berlin, Berlin, S. 31 ff., 57 ff.</lido:displayObject>
+               </lido:relatedWork>
+            </lido:relatedWorkSet>
+         </lido:relatedWorksWrap>
+      </lido:objectRelationWrap>
+   </lido:descriptiveMetadata>
+   <lido:administrativeMetadata xml:lang="de">
+      <lido:rightsWorkWrap>
+         <lido:rightsWorkSet>
+            <lido:rightsHolder>
+               <lido:legalBodyName>
+                  <lido:appellationValue>Mitte Museum/Bezirksamt Mitte von Berlin</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:rightsHolder>
+         </lido:rightsWorkSet>
+      </lido:rightsWorkWrap>
+      <lido:recordWrap>
+         <lido:recordID lido:type="museum-digital">92322</lido:recordID>
+         <lido:recordType>
+            <lido:term lido:addedSearchTerm="no">item</lido:term>
+         </lido:recordType>
+         <lido:recordSource lido:type="dataProvider">
+            <lido:legalBodyName>
+               <lido:appellationValue>museum-digital</lido:appellationValue>
+            </lido:legalBodyName>
+            <lido:legalBodyWeblink>https://berlin.museum-digital.de/</lido:legalBodyWeblink>
+         </lido:recordSource>
+         <lido:recordSource>
+            <lido:legalBodyID lido:type="isil">DE-MUS-232415</lido:legalBodyID>
+            <lido:legalBodyName>
+               <lido:appellationValue>Mitte Museum/Bezirksamt Mitte von Berlin</lido:appellationValue>
+            </lido:legalBodyName>
+         </lido:recordSource>
+         <lido:recordRights>
+            <lido:rightsType>
+               <lido:conceptID lido:type="uri">https://creativecommons.org/publicdomain/zero/1.0/</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no">CC 0</lido:term>
+            </lido:rightsType>
+            <lido:rightsHolder>
+               <lido:legalBodyID lido:type="isil">DE-MUS-232415</lido:legalBodyID>
+               <lido:legalBodyName>
+                  <lido:appellationValue>Mitte Museum/Bezirksamt Mitte von Berlin</lido:appellationValue>
+               </lido:legalBodyName>
+               <lido:legalBodyWeblink>https://www.mittemuseum.de/</lido:legalBodyWeblink>
+            </lido:rightsHolder>
+            <lido:creditLine>Förderprogramm zur Digitalisierung von Objekten des kulturellen Erbes des Landes Berlin</lido:creditLine>
+         </lido:recordRights>
+         <lido:recordInfoSet>
+            <lido:recordInfoLink>https://berlin.museum-digital.de/index.php?t=objekt&amp;oges=92322</lido:recordInfoLink>
+            <lido:recordMetadataDate>2021-05-26 12:11:27</lido:recordMetadataDate>
+         </lido:recordInfoSet>
+      </lido:recordWrap>
+      <lido:resourceWrap>
+         <lido:resourceSet lido:sortorder="1">
+            <lido:resourceID lido:source="image" lido:type="local">67855</lido:resourceID>
+            <lido:resourceRepresentation lido:type="masterfile">
+               <lido:linkResource lido:formatResource="image/tiff"/>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_thumb">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/10/202102/92322/100h_flacher-teller-moabiter-baroque-form-92322.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_preview">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/10/202102/92322/200w_flacher-teller-moabiter-baroque-form-92322.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="provided_image">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/10/202102/92322/flacher-teller-moabiter-baroque-form-92322.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceType>
+               <lido:term>image</lido:term>
+            </lido:resourceType>
+            <lido:resourceRelType>
+               <lido:term>Hauptansicht</lido:term>
+            </lido:resourceRelType>
+            <lido:resourceDescription>Mitte Museum / Friedhelm Hoffmann, Berlin (CC BY-SA)
+Foto: K-Schum 13/4a</lido:resourceDescription>
+            <lido:resourceSource lido:type="creator">
+               <lido:legalBodyName>
+                  <lido:appellationValue>Friedhelm Hoffmann</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:resourceSource>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by-sa/4.0/</lido:conceptID>
+                  <lido:term>CC BY-SA</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Mitte Museum/Bezirksamt Mitte von Berlin</lido:appellationValue>
+                  </lido:legalBodyName>
+               </lido:rightsHolder>
+               <lido:creditLine>Friedhelm Hoffmann</lido:creditLine>
+            </lido:rightsResource>
+         </lido:resourceSet>
+         <lido:resourceSet lido:sortorder="2">
+            <lido:resourceID lido:source="image" lido:type="local">67856</lido:resourceID>
+            <lido:resourceRepresentation lido:type="masterfile">
+               <lido:linkResource lido:formatResource="image/tiff"/>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_thumb">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/10/202102/92322/100h_flacher-teller-moabiter-baroque-form-92322-2.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_preview">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/10/202102/92322/200w_flacher-teller-moabiter-baroque-form-92322-2.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="provided_image">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/10/202102/92322/flacher-teller-moabiter-baroque-form-92322-2.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceType>
+               <lido:term>image</lido:term>
+            </lido:resourceType>
+            <lido:resourceDescription>Mitte Museum / Friedhelm Hoffmann, Berlin (CC BY-SA)
+Foto: K-Schum 13/4a</lido:resourceDescription>
+            <lido:resourceSource lido:type="creator">
+               <lido:legalBodyName>
+                  <lido:appellationValue>Friedhelm Hoffmann</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:resourceSource>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by-sa/4.0/</lido:conceptID>
+                  <lido:term>CC BY-SA</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Mitte Museum/Bezirksamt Mitte von Berlin</lido:appellationValue>
+                  </lido:legalBodyName>
+               </lido:rightsHolder>
+               <lido:creditLine>Friedhelm Hoffmann</lido:creditLine>
+            </lido:rightsResource>
+         </lido:resourceSet>
+      </lido:resourceWrap>
+   </lido:administrativeMetadata>
+</lido:lido>
+

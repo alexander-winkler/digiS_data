@@ -1,0 +1,379 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lido:lido xmlns:gml="http://www.opengis.net/gml"
+           xmlns:lido="http://www.lido-schema.org"
+           xmlns:schemaLocation="http://schemas.opengis.net/gml/3.1.1/base/feature.xsd"
+           xmlns:xalan="http://xml.apache.org/xalan"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <lido:lidoRecID lido:source="https://berlin.museum-digital.de/index.php?t=institution&amp;instnr=10"
+                   lido:type="local">DE-MUS-232415/95185</lido:lidoRecID>
+   <lido:category/>
+   <lido:descriptiveMetadata xml:lang="de">
+      <lido:objectClassificationWrap>
+         <lido:objectWorkTypeWrap>
+            <lido:objectWorkType>
+               <lido:conceptID lido:source="grobsystematik" lido:type="uri">https://term.museum-digital.de/grobsystematik/tag/9389</lido:conceptID>
+               <lido:conceptID lido:source="oberbegriffsdatei" lido:type="uri">https://term.museum-digital.de/oberbegriffsdatei/tag/7056</lido:conceptID>
+               <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/4775</lido:conceptID>
+               <lido:term xml:lang="de">Rahmen</lido:term>
+            </lido:objectWorkType>
+         </lido:objectWorkTypeWrap>
+         <lido:classificationWrap>
+            <lido:classification lido:type="Sammlung">
+               <lido:conceptID lido:source="local" lido:type="collection_id">19</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Porzellan, Keramik</lido:term>
+            </lido:classification>
+         </lido:classificationWrap>
+      </lido:objectClassificationWrap>
+      <lido:objectIdentificationWrap>
+         <lido:titleWrap>
+            <lido:titleSet>
+               <lido:appellationValue lido:pref="preferred">Bruchstücke eines Rahmens</lido:appellationValue>
+            </lido:titleSet>
+         </lido:titleWrap>
+         <lido:repositoryWrap>
+            <lido:repositorySet lido:type="current">
+               <lido:repositoryName>
+                  <lido:legalBodyID lido:type="isil">DE-MUS-232415</lido:legalBodyID>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Mitte Museum/Bezirksamt Mitte von Berlin</lido:appellationValue>
+                  </lido:legalBodyName>
+                  <lido:legalBodyWeblink>https://www.mittemuseum.de/</lido:legalBodyWeblink>
+               </lido:repositoryName>
+               <lido:workID lido:type="inventory number">K-Schum 11/5</lido:workID>
+               <lido:repositoryLocation>
+                  <lido:namePlaceSet>
+                     <lido:appellationValue>Berlin</lido:appellationValue>
+                  </lido:namePlaceSet>
+                  <lido:gml>
+                     <gml:Point srsName="EPSG:4326">
+                        <gml:pos>52.52658081 13.34020329</gml:pos>
+                     </gml:Point>
+                  </lido:gml>
+               </lido:repositoryLocation>
+            </lido:repositorySet>
+         </lido:repositoryWrap>
+         <lido:objectDescriptionWrap>
+            <lido:objectDescriptionSet>
+               <lido:descriptiveNoteValue>Drei Bruchstücke eines Terrakottarahmens, die in den Jahren 1992 bis 1994 auf dem Areal der ehemaligen Porzellanmanufaktur F. A. Schumann, Berlin, in Alt-Moabit gefunden wurden. Das Gelände wurde derzeit umgestaltet. &lt;br/&gt;
+Das Objekt ist 2004 aus dem Bestand des Heimatmuseums Tiergarten, einer Vorgängerinstitution des Mitte Museums, in die Sammlung übergegangen. &lt;br/&gt;
+&lt;br/&gt;
+Es ist davon auszugehen, dass die Objekte Überbleibsel der Produktion der Porzellanmanufaktur F. A. Schumann sind. Die Datierung könnte somit in den gesamten Herstellungszeitraum der Manufaktur fallen. Datierung: 1835-1880&lt;br/&gt;
+&lt;br/&gt;
+Inventarnummer: K-Schum 11/5</lido:descriptiveNoteValue>
+               <lido:sourceDescriptiveNote>Mitte Museum/Bezirksamt Mitte von Berlin</lido:sourceDescriptiveNote>
+            </lido:objectDescriptionSet>
+         </lido:objectDescriptionWrap>
+         <lido:objectMeasurementsWrap/>
+      </lido:objectIdentificationWrap>
+      <lido:eventWrap>
+         <lido:eventSet>
+            <lido:displayEvent>Hergestellt</lido:displayEvent>
+            <lido:event>
+               <lido:eventID lido:type="local">416310</lido:eventID>
+               <lido:eventType>
+                  <lido:conceptID lido:type="uri">https://event-types.museum-digital.org/1</lido:conceptID>
+                  <lido:term lido:addedSearchTerm="no">Hergestellt</lido:term>
+               </lido:eventType>
+               <lido:eventName>
+                  <lido:appellationValue>Hergestellt --- Objekt 95185</lido:appellationValue>
+               </lido:eventName>
+               <lido:eventDate>
+                  <lido:displayDate>1835-1880</lido:displayDate>
+                  <lido:displayDate xml:lang="ar">1835-1880</lido:displayDate>
+                  <lido:displayDate xml:lang="de">1835-1880</lido:displayDate>
+                  <lido:displayDate xml:lang="en">1835-1880</lido:displayDate>
+                  <lido:displayDate xml:lang="es">1835-1880</lido:displayDate>
+                  <lido:displayDate xml:lang="fa">1835-1880</lido:displayDate>
+                  <lido:displayDate xml:lang="fr">1835-1880</lido:displayDate>
+                  <lido:displayDate xml:lang="hu">1835-1880</lido:displayDate>
+                  <lido:displayDate xml:lang="id">1835-1880</lido:displayDate>
+                  <lido:displayDate xml:lang="it">1835-1880</lido:displayDate>
+                  <lido:displayDate xml:lang="ja">1835年から1880年</lido:displayDate>
+                  <lido:displayDate xml:lang="ka">1835-1880</lido:displayDate>
+                  <lido:displayDate xml:lang="ko">1835년-1880년</lido:displayDate>
+                  <lido:displayDate xml:lang="pl">1835-1880</lido:displayDate>
+                  <lido:displayDate xml:lang="pt">1835-1880</lido:displayDate>
+                  <lido:displayDate xml:lang="ro">1835-1880</lido:displayDate>
+                  <lido:displayDate xml:lang="ru">1835-1880</lido:displayDate>
+                  <lido:displayDate xml:lang="ta">1835-1880</lido:displayDate>
+                  <lido:displayDate xml:lang="tl">1835-1880</lido:displayDate>
+                  <lido:displayDate xml:lang="tr">1835-1880</lido:displayDate>
+                  <lido:displayDate xml:lang="zh">1835年至1880年</lido:displayDate>
+                  <lido:date>
+                     <lido:earliestDate>1835</lido:earliestDate>
+                     <lido:latestDate>1880</lido:latestDate>
+                  </lido:date>
+               </lido:eventDate>
+            </lido:event>
+         </lido:eventSet>
+         <lido:eventSet>
+            <lido:displayEvent>Gefunden</lido:displayEvent>
+            <lido:event>
+               <lido:eventID lido:type="local">416384</lido:eventID>
+               <lido:eventType>
+                  <lido:conceptID lido:type="uri">https://event-types.museum-digital.org/2</lido:conceptID>
+                  <lido:term lido:addedSearchTerm="no">Gefunden</lido:term>
+               </lido:eventType>
+               <lido:eventName>
+                  <lido:appellationValue>Gefunden - Obj. 95185</lido:appellationValue>
+               </lido:eventName>
+               <lido:eventActor>
+                  <lido:displayActorInRole>Heimatmuseum Tiergarten</lido:displayActorInRole>
+                  <lido:actorInRole>
+                     <lido:actor>
+                        <lido:actorID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/persinst/171608</lido:actorID>
+                        <lido:nameActorSet>
+                           <lido:appellationValue>Heimatmuseum Tiergarten</lido:appellationValue>
+                           <lido:appellationValue xml:lang="de">Heimatmuseum Tiergarten</lido:appellationValue>
+                        </lido:nameActorSet>
+                        <lido:vitalDatesActor>
+                           <lido:earliestDate/>
+                           <lido:latestDate/>
+                        </lido:vitalDatesActor>
+                     </lido:actor>
+                  </lido:actorInRole>
+               </lido:eventActor>
+               <lido:eventDate>
+                  <lido:displayDate>1992-1994</lido:displayDate>
+                  <lido:date>
+                     <lido:earliestDate>1992</lido:earliestDate>
+                     <lido:latestDate>1994</lido:latestDate>
+                  </lido:date>
+               </lido:eventDate>
+               <lido:eventPlace>
+                  <lido:displayPlace>Berlin-Moabit</lido:displayPlace>
+                  <lido:displayPlace xml:lang="da">Moabit</lido:displayPlace>
+                  <lido:displayPlace xml:lang="de">Berlin-Moabit</lido:displayPlace>
+                  <lido:displayPlace xml:lang="en">Moabit</lido:displayPlace>
+                  <lido:displayPlace xml:lang="es">Berlin-Moabit</lido:displayPlace>
+                  <lido:displayPlace xml:lang="fa">موابیت</lido:displayPlace>
+                  <lido:displayPlace xml:lang="fi">Moabit</lido:displayPlace>
+                  <lido:displayPlace xml:lang="fr">Berlin-Moabit</lido:displayPlace>
+                  <lido:displayPlace xml:lang="it">Moabit</lido:displayPlace>
+                  <lido:displayPlace xml:lang="nl">Berlin-Moabit</lido:displayPlace>
+                  <lido:displayPlace xml:lang="pl">Moabit</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ro">Berlin-Moabit</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ru">Моабит</lido:displayPlace>
+                  <lido:displayPlace xml:lang="sv">Moabit</lido:displayPlace>
+                  <lido:displayPlace xml:lang="zh">莫阿比特</lido:displayPlace>
+                  <lido:place>
+                     <lido:placeID lido:source="geonames" lido:type="uri">https://sws.geonames.org/2870310</lido:placeID>
+                     <lido:placeID lido:source="TGN" lido:type="uri">http://vocab.getty.edu/tgn/4012566</lido:placeID>
+                     <lido:placeID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4087332-8</lido:placeID>
+                     <lido:placeID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q699800</lido:placeID>
+                     <lido:placeID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/place/737</lido:placeID>
+                     <lido:namePlaceSet>
+                        <lido:appellationValue>Berlin-Moabit</lido:appellationValue>
+                        <lido:appellationValue xml:lang="da">Moabit</lido:appellationValue>
+                        <lido:appellationValue xml:lang="de">Berlin-Moabit</lido:appellationValue>
+                        <lido:appellationValue xml:lang="en">Moabit</lido:appellationValue>
+                        <lido:appellationValue xml:lang="es">Berlin-Moabit</lido:appellationValue>
+                        <lido:appellationValue xml:lang="fa">موابیت</lido:appellationValue>
+                        <lido:appellationValue xml:lang="fi">Moabit</lido:appellationValue>
+                        <lido:appellationValue xml:lang="fr">Berlin-Moabit</lido:appellationValue>
+                        <lido:appellationValue xml:lang="it">Moabit</lido:appellationValue>
+                        <lido:appellationValue xml:lang="nl">Berlin-Moabit</lido:appellationValue>
+                        <lido:appellationValue xml:lang="pl">Moabit</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ro">Berlin-Moabit</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ru">Моабит</lido:appellationValue>
+                        <lido:appellationValue xml:lang="sv">Moabit</lido:appellationValue>
+                        <lido:appellationValue xml:lang="zh">莫阿比特</lido:appellationValue>
+                     </lido:namePlaceSet>
+                     <lido:gml>
+                        <gml:Point srsName="EPSG:4326">
+                           <gml:pos>52.533298492432 13.333299636841</gml:pos>
+                        </gml:Point>
+                     </lido:gml>
+                  </lido:place>
+               </lido:eventPlace>
+            </lido:event>
+         </lido:eventSet>
+         <lido:eventSet>
+            <lido:event>
+               <lido:eventType>
+                  <lido:conceptID lido:type="uri">http://terminology.lido-schema.org/lido00003</lido:conceptID>
+                  <lido:term>Event (non-specified)</lido:term>
+               </lido:eventType>
+               <lido:eventMaterialsTech>
+                  <lido:displayMaterialsTech>Terrakotta/gebrannt</lido:displayMaterialsTech>
+               </lido:eventMaterialsTech>
+            </lido:event>
+         </lido:eventSet>
+      </lido:eventWrap>
+      <lido:objectRelationWrap>
+         <lido:subjectWrap>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectActor>
+                     <lido:displayActor>Porzellanmanufaktur F. A. Schumann</lido:displayActor>
+                     <lido:actor>
+                        <lido:actorID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/persinst/156528</lido:actorID>
+                        <lido:nameActorSet>
+                           <lido:appellationValue>Porzellanmanufaktur F. A. Schumann</lido:appellationValue>
+                        </lido:nameActorSet>
+                        <lido:vitalDatesActor>
+                           <lido:earliestDate/>
+                           <lido:latestDate/>
+                        </lido:vitalDatesActor>
+                     </lido:actor>
+                  </lido:subjectActor>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="aat" lido:type="uri">http://vocab.getty.edu/aat/300010669</lido:conceptID>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">http://d-nb.info/gnd/4184790-8</lido:conceptID>
+                     <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh85134051</lido:conceptID>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">http://de.wikipedia.org/wiki/Terrakotta</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/115</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Terrakotta</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="grobsystematik" lido:type="uri">https://term.museum-digital.de/grobsystematik/tag/9389</lido:conceptID>
+                     <lido:conceptID lido:source="oberbegriffsdatei" lido:type="uri">https://term.museum-digital.de/oberbegriffsdatei/tag/7056</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/4775</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Rahmen</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+         </lido:subjectWrap>
+         <lido:relatedWorksWrap>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:displayObject>Heimatmuseum Tiergarten (Hg.), 1996: Kennen Sie Schomburg? Elektrokeramiker aus Moabit, Berlin, S. 11.</lido:displayObject>
+               </lido:relatedWork>
+            </lido:relatedWorkSet>
+         </lido:relatedWorksWrap>
+      </lido:objectRelationWrap>
+   </lido:descriptiveMetadata>
+   <lido:administrativeMetadata xml:lang="de">
+      <lido:rightsWorkWrap>
+         <lido:rightsWorkSet>
+            <lido:rightsHolder>
+               <lido:legalBodyName>
+                  <lido:appellationValue>Mitte Museum/Bezirksamt Mitte von Berlin</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:rightsHolder>
+         </lido:rightsWorkSet>
+      </lido:rightsWorkWrap>
+      <lido:recordWrap>
+         <lido:recordID lido:type="museum-digital">95185</lido:recordID>
+         <lido:recordType>
+            <lido:term lido:addedSearchTerm="no">item</lido:term>
+         </lido:recordType>
+         <lido:recordSource lido:type="dataProvider">
+            <lido:legalBodyName>
+               <lido:appellationValue>museum-digital</lido:appellationValue>
+            </lido:legalBodyName>
+            <lido:legalBodyWeblink>https://berlin.museum-digital.de/</lido:legalBodyWeblink>
+         </lido:recordSource>
+         <lido:recordSource>
+            <lido:legalBodyID lido:type="isil">DE-MUS-232415</lido:legalBodyID>
+            <lido:legalBodyName>
+               <lido:appellationValue>Mitte Museum/Bezirksamt Mitte von Berlin</lido:appellationValue>
+            </lido:legalBodyName>
+         </lido:recordSource>
+         <lido:recordRights>
+            <lido:rightsType>
+               <lido:conceptID lido:type="uri">https://creativecommons.org/publicdomain/zero/1.0/</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no">CC 0</lido:term>
+            </lido:rightsType>
+            <lido:rightsHolder>
+               <lido:legalBodyID lido:type="isil">DE-MUS-232415</lido:legalBodyID>
+               <lido:legalBodyName>
+                  <lido:appellationValue>Mitte Museum/Bezirksamt Mitte von Berlin</lido:appellationValue>
+               </lido:legalBodyName>
+               <lido:legalBodyWeblink>https://www.mittemuseum.de/</lido:legalBodyWeblink>
+            </lido:rightsHolder>
+            <lido:creditLine>Förderprogramm zur Digitalisierung von Objekten des kulturellen Erbes des Landes Berlin</lido:creditLine>
+         </lido:recordRights>
+         <lido:recordInfoSet>
+            <lido:recordInfoLink>https://berlin.museum-digital.de/index.php?t=objekt&amp;oges=95185</lido:recordInfoLink>
+            <lido:recordMetadataDate>2021-05-26 12:11:26</lido:recordMetadataDate>
+         </lido:recordInfoSet>
+      </lido:recordWrap>
+      <lido:resourceWrap>
+         <lido:resourceSet lido:sortorder="1">
+            <lido:resourceID lido:source="image" lido:type="local">73499</lido:resourceID>
+            <lido:resourceRepresentation lido:type="masterfile">
+               <lido:linkResource lido:formatResource="image/tiff"/>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_thumb">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/10/202105/95185/100h_bruchstuecke-eines-rahmens-95185.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_preview">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/10/202105/95185/200w_bruchstuecke-eines-rahmens-95185.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="provided_image">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/10/202105/95185/bruchstuecke-eines-rahmens-95185.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceType>
+               <lido:term>image</lido:term>
+            </lido:resourceType>
+            <lido:resourceRelType>
+               <lido:term>Hauptansicht</lido:term>
+            </lido:resourceRelType>
+            <lido:resourceDescription>Mitte Museum/Bezirksamt Mitte von Berlin / Friedhelm Hoffmann (CC BY-SA)</lido:resourceDescription>
+            <lido:resourceSource lido:type="creator">
+               <lido:legalBodyName>
+                  <lido:appellationValue>Friedhelm Hoffmann</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:resourceSource>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by-sa/4.0/</lido:conceptID>
+                  <lido:term>CC BY-SA</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Mitte Museum/Bezirksamt Mitte von Berlin</lido:appellationValue>
+                  </lido:legalBodyName>
+               </lido:rightsHolder>
+               <lido:creditLine>Friedhelm Hoffmann</lido:creditLine>
+            </lido:rightsResource>
+         </lido:resourceSet>
+         <lido:resourceSet lido:sortorder="2">
+            <lido:resourceID lido:source="image" lido:type="local">74295</lido:resourceID>
+            <lido:resourceRepresentation lido:type="masterfile">
+               <lido:linkResource lido:formatResource="image/tiff"/>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_thumb">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/10/95185-k-schum_115/bruchstuecke_eines_rahmen/100h_bruchstuecke-eines-rahmens-95185.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_preview">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/10/95185-k-schum_115/bruchstuecke_eines_rahmen/200w_bruchstuecke-eines-rahmens-95185.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="provided_image">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/10/95185-k-schum_115/bruchstuecke_eines_rahmen/bruchstuecke-eines-rahmens-95185.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceType>
+               <lido:term>image</lido:term>
+            </lido:resourceType>
+            <lido:resourceDescription>Mitte Museum/Bezirksamt Mitte von Berlin / Friedhelm Hoffmann (CC BY-SA)</lido:resourceDescription>
+            <lido:resourceSource lido:type="creator">
+               <lido:legalBodyName>
+                  <lido:appellationValue>Friedhelm Hoffmann</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:resourceSource>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by-sa/4.0/</lido:conceptID>
+                  <lido:term>CC BY-SA</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Mitte Museum/Bezirksamt Mitte von Berlin</lido:appellationValue>
+                  </lido:legalBodyName>
+               </lido:rightsHolder>
+               <lido:creditLine>Friedhelm Hoffmann</lido:creditLine>
+            </lido:rightsResource>
+         </lido:resourceSet>
+      </lido:resourceWrap>
+   </lido:administrativeMetadata>
+</lido:lido>
+

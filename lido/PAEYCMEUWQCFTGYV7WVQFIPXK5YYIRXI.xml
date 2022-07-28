@@ -1,0 +1,414 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lido:lido xmlns:lido="http://www.lido-schema.org"
+           xmlns:xalan="http://xml.apache.org/xalan">
+   <lido:lidoRecID lido:source="https://berlin.museum-digital.de/index.php?t=institution&amp;instnr=32"
+                   lido:type="local">DE-B185/66842</lido:lidoRecID>
+   <lido:category/>
+   <lido:descriptiveMetadata xml:lang="de">
+      <lido:objectClassificationWrap>
+         <lido:objectWorkTypeWrap>
+            <lido:objectWorkType>
+               <lido:conceptID lido:source="gnd" lido:type="uri">http://d-nb.info/gnd/4067453-8</lido:conceptID>
+               <lido:conceptID lido:source="grobsystematik" lido:type="uri">https://term.museum-digital.de/grobsystematik/tag/14445</lido:conceptID>
+               <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh85039408</lido:conceptID>
+               <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/945</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Handzeichnung</lido:term>
+            </lido:objectWorkType>
+         </lido:objectWorkTypeWrap>
+         <lido:classificationWrap>
+            <lido:classification lido:type="Sammlung">
+               <lido:conceptID lido:source="local" lido:type="collection_id">705</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Handzeichnungen, Druckgraphik, Gemälde</lido:term>
+            </lido:classification>
+            <lido:classification lido:type="Sammlung">
+               <lido:conceptID lido:source="local" lido:type="collection_id">728</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Sammelwerke</lido:term>
+            </lido:classification>
+            <lido:classification lido:type="Sammlung">
+               <lido:conceptID lido:source="local" lido:type="collection_id">729</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Erinnerungsalbum Franz Jordan</lido:term>
+            </lido:classification>
+         </lido:classificationWrap>
+      </lido:objectClassificationWrap>
+      <lido:objectIdentificationWrap>
+         <lido:titleWrap>
+            <lido:titleSet>
+               <lido:appellationValue lido:pref="preferred">Florale Wand- oder Deckengestaltung</lido:appellationValue>
+            </lido:titleSet>
+         </lido:titleWrap>
+         <lido:repositoryWrap>
+            <lido:repositorySet lido:type="current">
+               <lido:repositoryName>
+                  <lido:legalBodyID lido:type="isil">DE-B185</lido:legalBodyID>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+                  </lido:legalBodyName>
+                  <lido:legalBodyWeblink>http://geschichte-brandenburg.de/</lido:legalBodyWeblink>
+               </lido:repositoryName>
+               <lido:workID lido:type="inventory number">LGV-Archiv, C 12 E-60-GF, Bl. 16</lido:workID>
+               <lido:repositoryLocation>
+                  <lido:namePlaceSet>
+                     <lido:appellationValue>Berlin</lido:appellationValue>
+                  </lido:namePlaceSet>
+                  <lido:gml>
+                     <gml:Point xmlns:gml="http://www.opengis.net/gml" srsName="EPSG:4326">
+                        <gml:pos>52.51533127 13.40440559</gml:pos>
+                     </gml:Point>
+                  </lido:gml>
+               </lido:repositoryLocation>
+            </lido:repositorySet>
+         </lido:repositoryWrap>
+         <lido:objectDescriptionWrap>
+            <lido:objectDescriptionSet>
+               <lido:descriptiveNoteValue>Schülerzeichnung mi einem Entwurf für eine florale Wand- oder Deckengestaltung. Eingeklebt in das Album. &#xD;
+&#xD;
+Bez. re. u. "abgegeben 21. 12. 1900.", daneben Signatur "FJ."</lido:descriptiveNoteValue>
+               <lido:sourceDescriptiveNote>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:sourceDescriptiveNote>
+            </lido:objectDescriptionSet>
+         </lido:objectDescriptionWrap>
+         <lido:objectMeasurementsWrap>
+            <lido:objectMeasurementsSet>
+               <lido:displayObjectMeasurements>Blattgröße: Höhe 28 cm,, Breite 22 cm (eingeklebt)</lido:displayObjectMeasurements>
+               <lido:objectMeasurements/>
+            </lido:objectMeasurementsSet>
+         </lido:objectMeasurementsWrap>
+      </lido:objectIdentificationWrap>
+      <lido:eventWrap>
+         <lido:eventSet>
+            <lido:event>
+               <lido:eventType>
+                  <lido:conceptID lido:type="uri">https://event-types.museum-digital.org/1</lido:conceptID>
+                  <lido:term lido:addedSearchTerm="no">Hergestellt</lido:term>
+               </lido:eventType>
+               <lido:eventActor>
+                  <lido:displayActorInRole>Franz Jordan (Potsdam)</lido:displayActorInRole>
+                  <lido:actorInRole>
+                     <lido:actor>
+                        <lido:actorID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/persinst/124925</lido:actorID>
+                        <lido:nameActorSet>
+                           <lido:appellationValue>Jordan, Franz (Potsdam)</lido:appellationValue>
+                           <lido:appellationValue xml:lang="de">Franz Jordan (Potsdam)</lido:appellationValue>
+                        </lido:nameActorSet>
+                        <lido:vitalDatesActor>
+                           <lido:earliestDate/>
+                           <lido:latestDate/>
+                        </lido:vitalDatesActor>
+                     </lido:actor>
+                  </lido:actorInRole>
+               </lido:eventActor>
+               <lido:eventDate>
+                  <lido:displayDate>21.12.1900</lido:displayDate>
+                  <lido:displayDate xml:lang="ar">21/12/1900</lido:displayDate>
+                  <lido:displayDate xml:lang="de">21.12.1900</lido:displayDate>
+                  <lido:displayDate xml:lang="en">December 21, 1900</lido:displayDate>
+                  <lido:displayDate xml:lang="es">21/12/1900</lido:displayDate>
+                  <lido:displayDate xml:lang="fa">21/12/1900</lido:displayDate>
+                  <lido:displayDate xml:lang="fr">21/12/1900</lido:displayDate>
+                  <lido:displayDate xml:lang="hu">1900. december 21.</lido:displayDate>
+                  <lido:displayDate xml:lang="id">21 Desember 1900</lido:displayDate>
+                  <lido:displayDate xml:lang="it">21/12/1900</lido:displayDate>
+                  <lido:displayDate xml:lang="ja">1900年12月21日</lido:displayDate>
+                  <lido:displayDate xml:lang="ka">21.12.1900</lido:displayDate>
+                  <lido:displayDate xml:lang="ko">1900년 12월 21일</lido:displayDate>
+                  <lido:displayDate xml:lang="pl">21.12.1900</lido:displayDate>
+                  <lido:displayDate xml:lang="pt">21/12/1900</lido:displayDate>
+                  <lido:displayDate xml:lang="ro">21.12.1900</lido:displayDate>
+                  <lido:displayDate xml:lang="ru">21.12.1900</lido:displayDate>
+                  <lido:displayDate xml:lang="ta">21-12-1900</lido:displayDate>
+                  <lido:displayDate xml:lang="tl">Disyembre 21, 1900</lido:displayDate>
+                  <lido:displayDate xml:lang="tr">21.12.1900</lido:displayDate>
+                  <lido:displayDate xml:lang="zh">1900年12月21日</lido:displayDate>
+                  <lido:date>
+                     <lido:earliestDate>1900</lido:earliestDate>
+                     <lido:latestDate>1900</lido:latestDate>
+                  </lido:date>
+               </lido:eventDate>
+               <lido:eventPlace>
+                  <lido:displayPlace>Potsdam-Babelsberg</lido:displayPlace>
+                  <lido:displayPlace xml:lang="da">Babelsberg</lido:displayPlace>
+                  <lido:displayPlace xml:lang="de">Potsdam-Babelsberg</lido:displayPlace>
+                  <lido:displayPlace xml:lang="en">Babelsberg</lido:displayPlace>
+                  <lido:displayPlace xml:lang="es">Babelsberg</lido:displayPlace>
+                  <lido:displayPlace xml:lang="fa">بابلسبرگ</lido:displayPlace>
+                  <lido:displayPlace xml:lang="fr">Babelsberg</lido:displayPlace>
+                  <lido:displayPlace xml:lang="it">Babelsberg</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ja">バーベルスベルク</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ko">바벨스베르크</lido:displayPlace>
+                  <lido:displayPlace xml:lang="nl">Babelsberg</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ro">Babelsberg</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ru">Бабельсберг</lido:displayPlace>
+                  <lido:displayPlace xml:lang="sv">Potsdam-Babelsberg</lido:displayPlace>
+                  <lido:place>
+                     <lido:placeID lido:source="geonames" lido:type="uri">https://sws.geonames.org/2953775</lido:placeID>
+                     <lido:placeID lido:source="TGN" lido:type="uri">http://vocab.getty.edu/tgn/7012794</lido:placeID>
+                     <lido:placeID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4256237-5</lido:placeID>
+                     <lido:placeID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q797635</lido:placeID>
+                     <lido:placeID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/place/1702</lido:placeID>
+                     <lido:namePlaceSet>
+                        <lido:appellationValue>Potsdam-Babelsberg</lido:appellationValue>
+                        <lido:appellationValue xml:lang="da">Babelsberg</lido:appellationValue>
+                        <lido:appellationValue xml:lang="de">Potsdam-Babelsberg</lido:appellationValue>
+                        <lido:appellationValue xml:lang="en">Babelsberg</lido:appellationValue>
+                        <lido:appellationValue xml:lang="es">Babelsberg</lido:appellationValue>
+                        <lido:appellationValue xml:lang="fa">بابلسبرگ</lido:appellationValue>
+                        <lido:appellationValue xml:lang="fr">Babelsberg</lido:appellationValue>
+                        <lido:appellationValue xml:lang="it">Babelsberg</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ja">バーベルスベルク</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ko">바벨스베르크</lido:appellationValue>
+                        <lido:appellationValue xml:lang="nl">Babelsberg</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ro">Babelsberg</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ru">Бабельсберг</lido:appellationValue>
+                        <lido:appellationValue xml:lang="sv">Potsdam-Babelsberg</lido:appellationValue>
+                     </lido:namePlaceSet>
+                     <lido:gml>
+                        <gml:Point xmlns:gml="http://www.opengis.net/gml" srsName="EPSG:4326">
+                           <gml:pos>52.400001525879 13.10000038147</gml:pos>
+                        </gml:Point>
+                     </lido:gml>
+                  </lido:place>
+               </lido:eventPlace>
+            </lido:event>
+         </lido:eventSet>
+         <lido:eventSet>
+            <lido:event>
+               <lido:eventType>
+                  <lido:conceptID lido:type="uri">http://terminology.lido-schema.org/lido00003</lido:conceptID>
+                  <lido:term>Event (non-specified)</lido:term>
+               </lido:eventType>
+               <lido:eventMaterialsTech>
+                  <lido:displayMaterialsTech>Bleistift auf Velin, stark gewischt</lido:displayMaterialsTech>
+               </lido:eventMaterialsTech>
+            </lido:event>
+         </lido:eventSet>
+      </lido:eventWrap>
+      <lido:objectRelationWrap>
+         <lido:subjectWrap>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="aat" lido:type="uri">http://vocab.getty.edu/aat/300266108</lido:conceptID>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4053474-1</lido:conceptID>
+                     <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh85118451</lido:conceptID>
+                     <lido:conceptID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q3914</lido:conceptID>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Schule</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/13</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Schule</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ar">مدرسة</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="bn">বিদ্যালয়</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="cs">škola</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="da">Skole</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="de">Schule</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="el">σχολείο</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="en">School</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="es">Escuela</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fa">مدرسه</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fi">Koulu</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fr">école</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="he">בית ספר</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hi">विद्यालय</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hu">iskola</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="id">Sekolah</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="it">Scuola</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ja">学校</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ka">სკოლა</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ko">학교</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="nl">School</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pl">Szkoła</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pt">Escola</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ro">școală</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ru">школа</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sv">Skola</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sw">Shule</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ta">பள்ளிக்கூடம்</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="th">โรงเรียน</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tl">Paaralan</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tr">Okul</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ur">اسکول</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="vi">trường học</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="zh">学校</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">http://d-nb.info/gnd/4067453-8</lido:conceptID>
+                     <lido:conceptID lido:source="grobsystematik" lido:type="uri">https://term.museum-digital.de/grobsystematik/tag/14445</lido:conceptID>
+                     <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh85039408</lido:conceptID>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">http://de.wikipedia.org/wiki/Zeichnung_(Kunst)</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/945</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Handzeichnung</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="aat" lido:type="uri">http://vocab.getty.edu/aat/300054360</lido:conceptID>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4006650-2</lido:conceptID>
+                     <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh85040989</lido:conceptID>
+                     <lido:conceptID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q8434</lido:conceptID>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Ausbildung</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/3187</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Ausbildung</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ar">تعليم</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="bn">শিক্ষা</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="cs">Vzdělávání</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="da">Uddannelse</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="de">Ausbildung</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="el">εκπαίδευση</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="en">Education</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="es">Educación</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fa">آموزش و پرورش</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fi">Koulutus</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fr">éducation</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ha">Ilimi</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="he">חינוך</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hi">शिक्षा</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hu">oktatás</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="id">Pendidikan</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="it">Educazione</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ja">教育</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ka">განათლება</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ko">교육</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="nl">Onderwijs</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pl">Edukacja</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pt">Educação</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ro">educație</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ru">образование</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sv">Utbildning</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sw">elimu</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ta">கல்வி</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="th">การศึกษา</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tl">Edukasyon</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tr">Eğitim</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ur">تعلیم</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="vi">giáo dục</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="zh">教育</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">http://d-nb.info/gnd/4011345-0</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/5742</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Dekor</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="aat" lido:type="uri">http://vocab.getty.edu/aat/300026690</lido:conceptID>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4543648-4</lido:conceptID>
+                     <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh85003250</lido:conceptID>
+                     <lido:conceptID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q1173065</lido:conceptID>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Album</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/6847</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Album</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="de">Album</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="en">Album</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="es">álbum</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fr">Album</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hu">Album</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="nl">Album</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pl">Album</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ru">альбом</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+         </lido:subjectWrap>
+         <lido:relatedWorksWrap/>
+      </lido:objectRelationWrap>
+   </lido:descriptiveMetadata>
+   <lido:administrativeMetadata xml:lang="de">
+      <lido:rightsWorkWrap>
+         <lido:rightsWorkSet>
+            <lido:rightsHolder>
+               <lido:legalBodyName>
+                  <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:rightsHolder>
+         </lido:rightsWorkSet>
+      </lido:rightsWorkWrap>
+      <lido:recordWrap>
+         <lido:recordID lido:type="museum-digital">66842</lido:recordID>
+         <lido:recordType>
+            <lido:term lido:addedSearchTerm="no">item</lido:term>
+         </lido:recordType>
+         <lido:recordSource lido:type="dataProvider">
+            <lido:legalBodyName>
+               <lido:appellationValue>museum-digital</lido:appellationValue>
+            </lido:legalBodyName>
+            <lido:legalBodyWeblink>https://berlin.museum-digital.de/</lido:legalBodyWeblink>
+         </lido:recordSource>
+         <lido:recordSource>
+            <lido:legalBodyID lido:type="isil">DE-B185</lido:legalBodyID>
+            <lido:legalBodyName>
+               <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+            </lido:legalBodyName>
+         </lido:recordSource>
+         <lido:recordRights>
+            <lido:rightsType>
+               <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no">CC BY</lido:term>
+            </lido:rightsType>
+            <lido:rightsHolder>
+               <lido:legalBodyID lido:type="isil">DE-B185</lido:legalBodyID>
+               <lido:legalBodyName>
+                  <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+               </lido:legalBodyName>
+               <lido:legalBodyWeblink>http://geschichte-brandenburg.de/</lido:legalBodyWeblink>
+            </lido:rightsHolder>
+            <lido:creditLine>Förderprogramm zur Digitalisierung von Objekten des kulturellen Erbes des Landes Berlin</lido:creditLine>
+         </lido:recordRights>
+         <lido:recordInfoSet>
+            <lido:recordInfoLink>https://berlin.museum-digital.de/index.php?t=objekt&amp;oges=66842</lido:recordInfoLink>
+            <lido:recordMetadataDate>2021-04-27 07:59:56</lido:recordMetadataDate>
+         </lido:recordInfoSet>
+      </lido:recordWrap>
+      <lido:resourceWrap>
+         <lido:resourceSet lido:sortorder="1">
+            <lido:resourceID lido:source="image" lido:type="local">48429</lido:resourceID>
+            <lido:resourceRepresentation lido:type="masterfile">
+               <lido:linkResource lido:formatResource="image/tiff"/>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_thumb">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/202007/100h_florale-wand-oder-deckengestaltung-66842.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_preview">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/202007/200w_florale-wand-oder-deckengestaltung-66842.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/202007/florale-wand-oder-deckengestaltung-66842.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceType>
+               <lido:term lido:addedSearchTerm="no">image</lido:term>
+            </lido:resourceType>
+            <lido:resourceRelType>
+               <lido:term lido:addedSearchTerm="no">Hauptansicht</lido:term>
+            </lido:resourceRelType>
+            <lido:resourceDescription>Florale Wand- oder Deckengestaltung</lido:resourceDescription>
+            <lido:resourceSource lido:type="creator">
+               <lido:legalBodyName>
+                  <lido:appellationValue>Thomas Voßbeck, 2020</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:resourceSource>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+                  <lido:term lido:addedSearchTerm="no">CC BY</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V.</lido:appellationValue>
+                  </lido:legalBodyName>
+               </lido:rightsHolder>
+               <lido:creditLine>Thomas Voßbeck, 2020</lido:creditLine>
+            </lido:rightsResource>
+         </lido:resourceSet>
+      </lido:resourceWrap>
+   </lido:administrativeMetadata>
+</lido:lido>
+

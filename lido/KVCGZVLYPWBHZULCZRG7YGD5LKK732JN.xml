@@ -1,0 +1,433 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lido:lido xmlns:lido="http://www.lido-schema.org"
+           xmlns:xalan="http://xml.apache.org/xalan">
+   <lido:lidoRecID lido:source="https://berlin.museum-digital.de/index.php?t=institution&amp;instnr=32"
+                   lido:type="local">DE-B185/67382</lido:lidoRecID>
+   <lido:category/>
+   <lido:descriptiveMetadata xml:lang="de">
+      <lido:objectClassificationWrap>
+         <lido:objectWorkTypeWrap>
+            <lido:objectWorkType>
+               <lido:conceptID lido:source="gnd" lido:type="uri">http://d-nb.info/gnd/4021845-4</lido:conceptID>
+               <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/13314</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Druckgraphik</lido:term>
+            </lido:objectWorkType>
+         </lido:objectWorkTypeWrap>
+         <lido:classificationWrap>
+            <lido:classification lido:type="Sammlung">
+               <lido:conceptID lido:source="local" lido:type="collection_id">705</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Handzeichnungen, Druckgraphik, Gemälde</lido:term>
+            </lido:classification>
+            <lido:classification lido:type="Sammlung">
+               <lido:conceptID lido:source="local" lido:type="collection_id">706</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Ansichten</lido:term>
+            </lido:classification>
+            <lido:classification lido:type="Sammlung">
+               <lido:conceptID lido:source="local" lido:type="collection_id">707</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Berlin</lido:term>
+            </lido:classification>
+         </lido:classificationWrap>
+      </lido:objectClassificationWrap>
+      <lido:objectIdentificationWrap>
+         <lido:titleWrap>
+            <lido:titleSet>
+               <lido:appellationValue lido:pref="preferred">Berlin-Charlottenburg: Mausoleum im Schlosspark</lido:appellationValue>
+            </lido:titleSet>
+         </lido:titleWrap>
+         <lido:repositoryWrap>
+            <lido:repositorySet lido:type="current">
+               <lido:repositoryName>
+                  <lido:legalBodyID lido:type="isil">DE-B185</lido:legalBodyID>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+                  </lido:legalBodyName>
+                  <lido:legalBodyWeblink>http://geschichte-brandenburg.de/</lido:legalBodyWeblink>
+               </lido:repositoryName>
+               <lido:workID lido:type="inventory number">LGV-Archiv, B 132-01, Bl. 38</lido:workID>
+               <lido:repositoryLocation>
+                  <lido:namePlaceSet>
+                     <lido:appellationValue>Berlin</lido:appellationValue>
+                  </lido:namePlaceSet>
+                  <lido:gml>
+                     <gml:Point xmlns:gml="http://www.opengis.net/gml" srsName="EPSG:4326">
+                        <gml:pos>52.51533127 13.40440559</gml:pos>
+                     </gml:Point>
+                  </lido:gml>
+               </lido:repositoryLocation>
+            </lido:repositorySet>
+         </lido:repositoryWrap>
+         <lido:objectDescriptionWrap>
+            <lido:objectDescriptionSet>
+               <lido:descriptiveNoteValue>Darstellung des bekannten, von Karl Friedrich Schinkel (1781-1841) entworfenen Mausoleums für die 1810 verstorbene Königin Luise (1776-1810), Ehefrau König Friedrich Wilhelms III. von Preußen.
+
+Bez. li. u. "gez. v. C. Würbs.", re. u. "Stahlst. v. Joh. Poppel", mi. u. "Das Mausoleum in Charlottenburg."
+Erworben 2020 (Nachlass Dr. Hella Reelfs).
+
+Literatur: Gernot Ernst: Die Stadt Berlin in der Druckgrafik 1570-1870. Berlin 2009, S. 851 (Würbs-13) m. Abb. auf der beiliegenden DVD.</lido:descriptiveNoteValue>
+               <lido:sourceDescriptiveNote>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:sourceDescriptiveNote>
+            </lido:objectDescriptionSet>
+         </lido:objectDescriptionWrap>
+         <lido:objectMeasurementsWrap>
+            <lido:objectMeasurementsSet>
+               <lido:displayObjectMeasurements>Blattgröße: Höhe 11,2 cm, Breite 15,7 cm (an den Ecken abgerundet beschnitten)</lido:displayObjectMeasurements>
+               <lido:objectMeasurements/>
+            </lido:objectMeasurementsSet>
+         </lido:objectMeasurementsWrap>
+      </lido:objectIdentificationWrap>
+      <lido:eventWrap>
+         <lido:eventSet>
+            <lido:displayEvent>Herstellung</lido:displayEvent>
+            <lido:event>
+               <lido:eventType>
+                  <lido:conceptID lido:type="uri">https://event-types.museum-digital.org/12</lido:conceptID>
+                  <lido:term lido:addedSearchTerm="no">Druckplatte hergestellt</lido:term>
+               </lido:eventType>
+               <lido:eventActor>
+                  <lido:displayActorInRole>Johann Poppel (1807-1882)</lido:displayActorInRole>
+                  <lido:actorInRole>
+                     <lido:actor>
+                        <lido:actorID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Johann_Poppel</lido:actorID>
+                        <lido:actorID lido:source="edition humboldt digital" lido:type="uri">https://edition-humboldt.de/register/personen/detail.xql?normid=http://d-nb.info/gnd/119209071</lido:actorID>
+                        <lido:actorID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/119209071</lido:actorID>
+                        <lido:actorID lido:source="loc" lido:type="uri">http://id.loc.gov/authorities/names/n79119456</lido:actorID>
+                        <lido:actorID lido:source="rkd" lido:type="uri">https://rkd.nl/explore/artists/243762</lido:actorID>
+                        <lido:actorID lido:source="viaf" lido:type="uri">https://viaf.org/viaf/18026629</lido:actorID>
+                        <lido:actorID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q570435</lido:actorID>
+                        <lido:actorID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/persinst/6368</lido:actorID>
+                        <lido:nameActorSet>
+                           <lido:appellationValue>Poppel, Johann</lido:appellationValue>
+                           <lido:appellationValue xml:lang="cs">Johann Friedrich Gabriel Poppel</lido:appellationValue>
+                           <lido:appellationValue xml:lang="de">Johann Poppel</lido:appellationValue>
+                           <lido:appellationValue xml:lang="en">Johann Poppel</lido:appellationValue>
+                           <lido:appellationValue xml:lang="hu">Johann Friedrich Gabriel Poppel</lido:appellationValue>
+                           <lido:appellationValue xml:lang="nl">Johann Gabriel Friedrich Poppel</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ru">Поппель, Иоганн-Габриэль</lido:appellationValue>
+                        </lido:nameActorSet>
+                        <lido:vitalDatesActor>
+                           <lido:earliestDate>1807</lido:earliestDate>
+                           <lido:latestDate>1882</lido:latestDate>
+                        </lido:vitalDatesActor>
+                     </lido:actor>
+                  </lido:actorInRole>
+               </lido:eventActor>
+               <lido:eventDate>
+                  <lido:displayDate>1850 (wahrscheinlich)</lido:displayDate>
+                  <lido:displayDate xml:lang="ar">1850</lido:displayDate>
+                  <lido:displayDate xml:lang="de">1850</lido:displayDate>
+                  <lido:displayDate xml:lang="en">1850</lido:displayDate>
+                  <lido:displayDate xml:lang="es">1850</lido:displayDate>
+                  <lido:displayDate xml:lang="fa">1850</lido:displayDate>
+                  <lido:displayDate xml:lang="fr">1850</lido:displayDate>
+                  <lido:displayDate xml:lang="hu">1850</lido:displayDate>
+                  <lido:displayDate xml:lang="id">1850</lido:displayDate>
+                  <lido:displayDate xml:lang="it">1850</lido:displayDate>
+                  <lido:displayDate xml:lang="ja">1850年</lido:displayDate>
+                  <lido:displayDate xml:lang="ka">1850</lido:displayDate>
+                  <lido:displayDate xml:lang="ko">1850년</lido:displayDate>
+                  <lido:displayDate xml:lang="pl">1850</lido:displayDate>
+                  <lido:displayDate xml:lang="pt">1850</lido:displayDate>
+                  <lido:displayDate xml:lang="ro">1850</lido:displayDate>
+                  <lido:displayDate xml:lang="ru">1850</lido:displayDate>
+                  <lido:displayDate xml:lang="ta">1850</lido:displayDate>
+                  <lido:displayDate xml:lang="tl">1850</lido:displayDate>
+                  <lido:displayDate xml:lang="tr">1850</lido:displayDate>
+                  <lido:displayDate xml:lang="zh">1850年</lido:displayDate>
+                  <lido:date>
+                     <lido:earliestDate>1850</lido:earliestDate>
+                     <lido:latestDate>1850</lido:latestDate>
+                  </lido:date>
+               </lido:eventDate>
+            </lido:event>
+         </lido:eventSet>
+         <lido:eventSet>
+            <lido:event>
+               <lido:eventType>
+                  <lido:conceptID lido:type="uri">https://event-types.museum-digital.org/19</lido:conceptID>
+                  <lido:term lido:addedSearchTerm="no">Gezeichnet</lido:term>
+               </lido:eventType>
+               <lido:eventActor>
+                  <lido:displayActorInRole>Carl Würbs (1807-1876)</lido:displayActorInRole>
+                  <lido:actorInRole>
+                     <lido:actor>
+                        <lido:actorID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Karl_W%C3%BCrbs</lido:actorID>
+                        <lido:actorID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/121143953</lido:actorID>
+                        <lido:actorID lido:source="rkd" lido:type="uri">https://rkd.nl/explore/artists/432144</lido:actorID>
+                        <lido:actorID lido:source="ulan" lido:type="uri">http://vocab.getty.edu/ulan/500075638</lido:actorID>
+                        <lido:actorID lido:source="viaf" lido:type="uri">https://viaf.org/viaf/10694837</lido:actorID>
+                        <lido:actorID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q13389662</lido:actorID>
+                        <lido:actorID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/persinst/6367</lido:actorID>
+                        <lido:nameActorSet>
+                           <lido:appellationValue>Würbs, Carl</lido:appellationValue>
+                           <lido:appellationValue xml:lang="cs">Karel Würbs</lido:appellationValue>
+                           <lido:appellationValue xml:lang="de">Carl Würbs</lido:appellationValue>
+                           <lido:appellationValue xml:lang="en">Karl Wurbs</lido:appellationValue>
+                           <lido:appellationValue xml:lang="es">Karl Würbs</lido:appellationValue>
+                           <lido:appellationValue xml:lang="fr">Karl Würbs</lido:appellationValue>
+                           <lido:appellationValue xml:lang="nl">Karl Würbs</lido:appellationValue>
+                        </lido:nameActorSet>
+                        <lido:vitalDatesActor>
+                           <lido:earliestDate>1807</lido:earliestDate>
+                           <lido:latestDate>1876</lido:latestDate>
+                        </lido:vitalDatesActor>
+                     </lido:actor>
+                  </lido:actorInRole>
+               </lido:eventActor>
+            </lido:event>
+         </lido:eventSet>
+         <lido:eventSet>
+            <lido:event>
+               <lido:eventType>
+                  <lido:conceptID lido:type="uri">http://terminology.lido-schema.org/lido00003</lido:conceptID>
+                  <lido:term>Event (non-specified)</lido:term>
+               </lido:eventType>
+               <lido:eventMaterialsTech>
+                  <lido:displayMaterialsTech>Stahlstich auf gebräuntem Papier (rückseitig Klebespuren)</lido:displayMaterialsTech>
+               </lido:eventMaterialsTech>
+            </lido:event>
+         </lido:eventSet>
+      </lido:eventWrap>
+      <lido:objectRelationWrap>
+         <lido:subjectWrap>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectPlace>
+                     <lido:displayPlace>Berlin-Charlottenburg</lido:displayPlace>
+                     <lido:displayPlace xml:lang="ar">تشارلوتنبرغ</lido:displayPlace>
+                     <lido:displayPlace xml:lang="cs">Charlottenburg</lido:displayPlace>
+                     <lido:displayPlace xml:lang="da">Charlottenburg</lido:displayPlace>
+                     <lido:displayPlace xml:lang="de">Berlin-Charlottenburg</lido:displayPlace>
+                     <lido:displayPlace xml:lang="el">Σαρλότενμπουργκ</lido:displayPlace>
+                     <lido:displayPlace xml:lang="en">Charlottenburg</lido:displayPlace>
+                     <lido:displayPlace xml:lang="es">Charlottenburg</lido:displayPlace>
+                     <lido:displayPlace xml:lang="fa">شارلوتنبورگ</lido:displayPlace>
+                     <lido:displayPlace xml:lang="fi">Charlottenburg</lido:displayPlace>
+                     <lido:displayPlace xml:lang="fr">Berlin-Charlottenbourg</lido:displayPlace>
+                     <lido:displayPlace xml:lang="he">שרלוטנבורג</lido:displayPlace>
+                     <lido:displayPlace xml:lang="id">Berlin-Charlottenbourg</lido:displayPlace>
+                     <lido:displayPlace xml:lang="it">Charlottenburg</lido:displayPlace>
+                     <lido:displayPlace xml:lang="nl">Berlin-Charlottenburg</lido:displayPlace>
+                     <lido:displayPlace xml:lang="pl">Charlottenburg (dzielnica Berlina)</lido:displayPlace>
+                     <lido:displayPlace xml:lang="pt">Charlottenburg</lido:displayPlace>
+                     <lido:displayPlace xml:lang="ru">Шарлоттенбург (район Берлина)</lido:displayPlace>
+                     <lido:displayPlace xml:lang="sv">Charlottenburg</lido:displayPlace>
+                     <lido:displayPlace xml:lang="tr">Charlottenburg</lido:displayPlace>
+                     <lido:displayPlace xml:lang="ur">شارلوتنبورگ</lido:displayPlace>
+                     <lido:displayPlace xml:lang="zh">夏洛滕堡</lido:displayPlace>
+                     <lido:place>
+                        <lido:placeID lido:source="geonames" lido:type="uri">https://sws.geonames.org/2940187</lido:placeID>
+                        <lido:placeID lido:source="TGN" lido:type="uri">http://vocab.getty.edu/tgn/1004256</lido:placeID>
+                        <lido:placeID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4087306-7</lido:placeID>
+                        <lido:placeID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q162049</lido:placeID>
+                        <lido:placeID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/place/755</lido:placeID>
+                        <lido:namePlaceSet>
+                           <lido:appellationValue>Berlin-Charlottenburg</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ar">تشارلوتنبرغ</lido:appellationValue>
+                           <lido:appellationValue xml:lang="cs">Charlottenburg</lido:appellationValue>
+                           <lido:appellationValue xml:lang="da">Charlottenburg</lido:appellationValue>
+                           <lido:appellationValue xml:lang="de">Berlin-Charlottenburg</lido:appellationValue>
+                           <lido:appellationValue xml:lang="el">Σαρλότενμπουργκ</lido:appellationValue>
+                           <lido:appellationValue xml:lang="en">Charlottenburg</lido:appellationValue>
+                           <lido:appellationValue xml:lang="es">Charlottenburg</lido:appellationValue>
+                           <lido:appellationValue xml:lang="fa">شارلوتنبورگ</lido:appellationValue>
+                           <lido:appellationValue xml:lang="fi">Charlottenburg</lido:appellationValue>
+                           <lido:appellationValue xml:lang="fr">Berlin-Charlottenbourg</lido:appellationValue>
+                           <lido:appellationValue xml:lang="he">שרלוטנבורג</lido:appellationValue>
+                           <lido:appellationValue xml:lang="id">Berlin-Charlottenbourg</lido:appellationValue>
+                           <lido:appellationValue xml:lang="it">Charlottenburg</lido:appellationValue>
+                           <lido:appellationValue xml:lang="nl">Berlin-Charlottenburg</lido:appellationValue>
+                           <lido:appellationValue xml:lang="pl">Charlottenburg (dzielnica Berlina)</lido:appellationValue>
+                           <lido:appellationValue xml:lang="pt">Charlottenburg</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ru">Шарлоттенбург (район Берлина)</lido:appellationValue>
+                           <lido:appellationValue xml:lang="sv">Charlottenburg</lido:appellationValue>
+                           <lido:appellationValue xml:lang="tr">Charlottenburg</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ur">شارلوتنبورگ</lido:appellationValue>
+                           <lido:appellationValue xml:lang="zh">夏洛滕堡</lido:appellationValue>
+                        </lido:namePlaceSet>
+                        <lido:gml>
+                           <gml:Point xmlns:gml="http://www.opengis.net/gml" srsName="EPSG:4326">
+                              <gml:pos>52.516666412354 13.300000190735</gml:pos>
+                           </gml:Point>
+                        </lido:gml>
+                     </lido:place>
+                  </lido:subjectPlace>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="aat" lido:type="uri">http://vocab.getty.edu/aat/300151836</lido:conceptID>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4060294-1</lido:conceptID>
+                     <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh85036085</lido:conceptID>
+                     <lido:conceptID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q4</lido:conceptID>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Tod</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/1180</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Tod</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ar">موت</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="bn">মৃত্যু</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="cs">Smrt</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="da">Død</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="de">Tod</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="el">Θάνατος</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="en">Death</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="es">Muerte</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fa">مرگ</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fi">Kuolema</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fr">Mort</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="he">מוות</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hi">मृत्यु</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hu">halál</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="id">Kematian</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="it">Morte</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ja">死</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ka">სიკვდილი</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ko">죽음</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="nl">Dood</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pl">śmierć</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pt">Morte</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ro">moarte</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ru">смерть</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sv">Döden</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sw">Mauti</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ta">இறப்பு</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="th">ความตาย</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tl">Kamatayan</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tr">ölüm</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ur">موت</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="vi">chết</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="zh">死亡</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="aat" lido:type="uri">http://vocab.getty.edu/aat/300025483</lido:conceptID>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4164379-3</lido:conceptID>
+                     <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh85109802</lido:conceptID>
+                     <lido:conceptID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q16511993</lido:conceptID>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">https://fr.wikipedia.org/wiki/Reine</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/4791</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Königin</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ar">ملكة</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="da">Dronning</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="de">Königin</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="el">βασίλισσα</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="en">Queen</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fi">Kuningatar</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fr">Reine</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="id">Ratu</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="nl">Koningin</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pl">Królowa</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pt">Rainha</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ro">Regină</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ru">королева</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sv">Drottning</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ur">ملکہ</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">http://d-nb.info/gnd/4169153-2</lido:conceptID>
+                     <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh85082332</lido:conceptID>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">http://de.wikipedia.org/wiki/Mausoleum</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/20291</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Mausoleum</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+         </lido:subjectWrap>
+         <lido:relatedWorksWrap/>
+      </lido:objectRelationWrap>
+   </lido:descriptiveMetadata>
+   <lido:administrativeMetadata xml:lang="de">
+      <lido:rightsWorkWrap>
+         <lido:rightsWorkSet>
+            <lido:rightsHolder>
+               <lido:legalBodyName>
+                  <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:rightsHolder>
+         </lido:rightsWorkSet>
+      </lido:rightsWorkWrap>
+      <lido:recordWrap>
+         <lido:recordID lido:type="museum-digital">67382</lido:recordID>
+         <lido:recordType>
+            <lido:term lido:addedSearchTerm="no">item</lido:term>
+         </lido:recordType>
+         <lido:recordSource lido:type="dataProvider">
+            <lido:legalBodyName>
+               <lido:appellationValue>museum-digital</lido:appellationValue>
+            </lido:legalBodyName>
+            <lido:legalBodyWeblink>https://berlin.museum-digital.de/</lido:legalBodyWeblink>
+         </lido:recordSource>
+         <lido:recordSource>
+            <lido:legalBodyID lido:type="isil">DE-B185</lido:legalBodyID>
+            <lido:legalBodyName>
+               <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+            </lido:legalBodyName>
+         </lido:recordSource>
+         <lido:recordRights>
+            <lido:rightsType>
+               <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no">CC BY</lido:term>
+            </lido:rightsType>
+            <lido:rightsHolder>
+               <lido:legalBodyID lido:type="isil">DE-B185</lido:legalBodyID>
+               <lido:legalBodyName>
+                  <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+               </lido:legalBodyName>
+               <lido:legalBodyWeblink>http://geschichte-brandenburg.de/</lido:legalBodyWeblink>
+            </lido:rightsHolder>
+            <lido:creditLine>Förderprogramm zur Digitalisierung von Objekten des kulturellen Erbes des Landes Berlin</lido:creditLine>
+         </lido:recordRights>
+         <lido:recordInfoSet>
+            <lido:recordInfoLink>https://berlin.museum-digital.de/index.php?t=objekt&amp;oges=67382</lido:recordInfoLink>
+            <lido:recordMetadataDate>2021-04-27 07:59:52</lido:recordMetadataDate>
+         </lido:recordInfoSet>
+      </lido:recordWrap>
+      <lido:resourceWrap>
+         <lido:resourceSet lido:sortorder="1">
+            <lido:resourceID lido:source="image" lido:type="local">48925</lido:resourceID>
+            <lido:resourceRepresentation lido:type="masterfile">
+               <lido:linkResource lido:formatResource="image/tiff"/>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_thumb">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/202007/100h_berlin-charlottenburg-mausoleum-im-schlosspark-67382.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_preview">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/202007/200w_berlin-charlottenburg-mausoleum-im-schlosspark-67382.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/202007/berlin-charlottenburg-mausoleum-im-schlosspark-67382.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceType>
+               <lido:term lido:addedSearchTerm="no">image</lido:term>
+            </lido:resourceType>
+            <lido:resourceRelType>
+               <lido:term lido:addedSearchTerm="no">Hauptansicht</lido:term>
+            </lido:resourceRelType>
+            <lido:resourceDescription>Berlin-Charlottenburg: Mausoleum im Schlosspark</lido:resourceDescription>
+            <lido:resourceSource lido:type="creator">
+               <lido:legalBodyName>
+                  <lido:appellationValue>Thomas Voßbeck, 2020</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:resourceSource>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+                  <lido:term lido:addedSearchTerm="no">CC BY</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V.</lido:appellationValue>
+                  </lido:legalBodyName>
+               </lido:rightsHolder>
+               <lido:creditLine>Thomas Voßbeck, 2020</lido:creditLine>
+            </lido:rightsResource>
+         </lido:resourceSet>
+      </lido:resourceWrap>
+   </lido:administrativeMetadata>
+</lido:lido>
+

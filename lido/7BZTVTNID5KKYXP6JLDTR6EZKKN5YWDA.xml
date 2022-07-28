@@ -1,0 +1,464 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lido:lido xmlns:lido="http://www.lido-schema.org"
+           xmlns:xalan="http://xml.apache.org/xalan">
+   <lido:lidoRecID lido:source="https://berlin.museum-digital.de/index.php?t=institution&amp;instnr=32"
+                   lido:type="local">DE-B185/67016</lido:lidoRecID>
+   <lido:category/>
+   <lido:descriptiveMetadata xml:lang="de">
+      <lido:objectClassificationWrap>
+         <lido:objectWorkTypeWrap>
+            <lido:objectWorkType>
+               <lido:conceptID lido:source="gnd" lido:type="uri">http://d-nb.info/gnd/4021845-4</lido:conceptID>
+               <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/13314</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Druckgraphik</lido:term>
+            </lido:objectWorkType>
+         </lido:objectWorkTypeWrap>
+         <lido:classificationWrap>
+            <lido:classification lido:type="Sammlung">
+               <lido:conceptID lido:source="local" lido:type="collection_id">705</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Handzeichnungen, Druckgraphik, Gemälde</lido:term>
+            </lido:classification>
+            <lido:classification lido:type="Sammlung">
+               <lido:conceptID lido:source="local" lido:type="collection_id">725</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Sachen und Ereignisse</lido:term>
+            </lido:classification>
+            <lido:classification lido:type="Sammlung">
+               <lido:conceptID lido:source="local" lido:type="collection_id">726</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Neuruppiner Bilderbogen</lido:term>
+            </lido:classification>
+         </lido:classificationWrap>
+      </lido:objectClassificationWrap>
+      <lido:objectIdentificationWrap>
+         <lido:titleWrap>
+            <lido:titleSet>
+               <lido:appellationValue lido:pref="preferred">Neuruppiner Bilderbogen (Nr. 10119)</lido:appellationValue>
+            </lido:titleSet>
+         </lido:titleWrap>
+         <lido:repositoryWrap>
+            <lido:repositorySet lido:type="current">
+               <lido:repositoryName>
+                  <lido:legalBodyID lido:type="isil">DE-B185</lido:legalBodyID>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+                  </lido:legalBodyName>
+                  <lido:legalBodyWeblink>http://geschichte-brandenburg.de/</lido:legalBodyWeblink>
+               </lido:repositoryName>
+               <lido:workID lido:type="inventory number">LGV-Archiv, C 12 G-3-099</lido:workID>
+               <lido:repositoryLocation>
+                  <lido:namePlaceSet>
+                     <lido:appellationValue>Berlin</lido:appellationValue>
+                  </lido:namePlaceSet>
+                  <lido:gml>
+                     <gml:Point xmlns:gml="http://www.opengis.net/gml" srsName="EPSG:4326">
+                        <gml:pos>52.51533127 13.40440559</gml:pos>
+                     </gml:Point>
+                  </lido:gml>
+               </lido:repositoryLocation>
+            </lido:repositorySet>
+         </lido:repositoryWrap>
+         <lido:objectDescriptionWrap>
+            <lido:objectDescriptionSet>
+               <lido:descriptiveNoteValue>Der Ausschneidebogen versammelt Tätigkeiten auf dem Bauernhof und einige Haustiere, die sich vor allem mit Wiesen- und Weidearbeit in Verbindung bringen lassen, zum Beispiel die Heuernte, Gänse, Hühner, Katzen und Ziegen. 
+
+Bez. li. u. "Nr. 10119", re. u. "Druck und Verlag von Gustav Kühn in Neuruppin.", mi. o. "Neue Aufstellbilder. Bauernhof."
+Altbestand des Archivs.</lido:descriptiveNoteValue>
+               <lido:sourceDescriptiveNote>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:sourceDescriptiveNote>
+            </lido:objectDescriptionSet>
+         </lido:objectDescriptionWrap>
+         <lido:objectMeasurementsWrap>
+            <lido:objectMeasurementsSet>
+               <lido:displayObjectMeasurements>Blattgröße: Höhe 34 cm, Breite 42 cm</lido:displayObjectMeasurements>
+               <lido:objectMeasurements/>
+            </lido:objectMeasurementsSet>
+         </lido:objectMeasurementsWrap>
+      </lido:objectIdentificationWrap>
+      <lido:eventWrap>
+         <lido:eventSet>
+            <lido:event>
+               <lido:eventType>
+                  <lido:conceptID lido:type="uri">https://event-types.museum-digital.org/1</lido:conceptID>
+                  <lido:term lido:addedSearchTerm="no">Hergestellt</lido:term>
+               </lido:eventType>
+               <lido:eventActor>
+                  <lido:displayActorInRole>Gustav Kühn (Druckerei und Verlag)</lido:displayActorInRole>
+                  <lido:actorInRole>
+                     <lido:actor>
+                        <lido:actorID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Gustav_K%C3%BChn_(Buchdrucker)</lido:actorID>
+                        <lido:actorID lido:source="gnd" lido:type="uri">http://d-nb.info/gnd/2074602-7</lido:actorID>
+                        <lido:actorID lido:source="loc" lido:type="uri">http://id.loc.gov/authorities/names/nr95006294</lido:actorID>
+                        <lido:actorID lido:source="viaf" lido:type="uri">http://viaf.org/viaf/144915612</lido:actorID>
+                        <lido:actorID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q1532935</lido:actorID>
+                        <lido:actorID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/persinst/52682</lido:actorID>
+                        <lido:nameActorSet>
+                           <lido:appellationValue>Gustav Kühn (Druckerei und Verlag)</lido:appellationValue>
+                           <lido:appellationValue xml:lang="de">Gustav Kühn (Druckerei und Verlag)</lido:appellationValue>
+                           <lido:appellationValue xml:lang="en">Gustav Kühn</lido:appellationValue>
+                           <lido:appellationValue xml:lang="es">Gustav Kühn</lido:appellationValue>
+                           <lido:appellationValue xml:lang="fr">Gustav Kühn</lido:appellationValue>
+                           <lido:appellationValue xml:lang="nl">Gustav Kühn</lido:appellationValue>
+                        </lido:nameActorSet>
+                        <lido:vitalDatesActor>
+                           <lido:earliestDate/>
+                           <lido:latestDate/>
+                        </lido:vitalDatesActor>
+                     </lido:actor>
+                  </lido:actorInRole>
+               </lido:eventActor>
+               <lido:eventDate>
+                  <lido:displayDate>1900 (wahrscheinlich)</lido:displayDate>
+                  <lido:displayDate xml:lang="ar">1900</lido:displayDate>
+                  <lido:displayDate xml:lang="de">1900</lido:displayDate>
+                  <lido:displayDate xml:lang="en">1900</lido:displayDate>
+                  <lido:displayDate xml:lang="es">1900</lido:displayDate>
+                  <lido:displayDate xml:lang="fa">1900</lido:displayDate>
+                  <lido:displayDate xml:lang="fr">1900</lido:displayDate>
+                  <lido:displayDate xml:lang="hu">1900</lido:displayDate>
+                  <lido:displayDate xml:lang="id">1900</lido:displayDate>
+                  <lido:displayDate xml:lang="it">1900</lido:displayDate>
+                  <lido:displayDate xml:lang="ja">1900年</lido:displayDate>
+                  <lido:displayDate xml:lang="ka">1900</lido:displayDate>
+                  <lido:displayDate xml:lang="ko">1900년</lido:displayDate>
+                  <lido:displayDate xml:lang="pl">1900</lido:displayDate>
+                  <lido:displayDate xml:lang="pt">1900</lido:displayDate>
+                  <lido:displayDate xml:lang="ro">1900</lido:displayDate>
+                  <lido:displayDate xml:lang="ru">1900</lido:displayDate>
+                  <lido:displayDate xml:lang="ta">1900</lido:displayDate>
+                  <lido:displayDate xml:lang="tl">1900</lido:displayDate>
+                  <lido:displayDate xml:lang="tr">1900</lido:displayDate>
+                  <lido:displayDate xml:lang="zh">1900年</lido:displayDate>
+                  <lido:date>
+                     <lido:earliestDate>1900</lido:earliestDate>
+                     <lido:latestDate>1900</lido:latestDate>
+                  </lido:date>
+               </lido:eventDate>
+               <lido:eventPlace>
+                  <lido:displayPlace>Neuruppin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ar">نويروبين</lido:displayPlace>
+                  <lido:displayPlace xml:lang="cs">Neuruppin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="da">Neuruppin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="de">Neuruppin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="el">Νόυρουππιν</lido:displayPlace>
+                  <lido:displayPlace xml:lang="en">Neuruppin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="es">Neuruppin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="fa">نویروپین</lido:displayPlace>
+                  <lido:displayPlace xml:lang="fi">Neuruppin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="fr">Neuruppin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="hu">Neuruppin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="it">Neuruppin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ja">ノイルピーン</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ka">ნოირუპინი</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ko">노이루핀</lido:displayPlace>
+                  <lido:displayPlace xml:lang="nl">Neuruppin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="pl">Neuruppin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="pt">Neuruppin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ro">Neuruppin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ru">Нойруппин</lido:displayPlace>
+                  <lido:displayPlace xml:lang="sv">Neuruppin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="tr">Neuruppin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="vi">Neuruppin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="zh">诺伊鲁平</lido:displayPlace>
+                  <lido:place>
+                     <lido:placeID lido:source="geonames" lido:type="uri">https://sws.geonames.org/2864276</lido:placeID>
+                     <lido:placeID lido:source="TGN" lido:type="uri">http://vocab.getty.edu/tgn/7012848</lido:placeID>
+                     <lido:placeID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4041908-3</lido:placeID>
+                     <lido:placeID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q16085</lido:placeID>
+                     <lido:placeID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/place/920</lido:placeID>
+                     <lido:namePlaceSet>
+                        <lido:appellationValue>Neuruppin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ar">نويروبين</lido:appellationValue>
+                        <lido:appellationValue xml:lang="cs">Neuruppin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="da">Neuruppin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="de">Neuruppin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="el">Νόυρουππιν</lido:appellationValue>
+                        <lido:appellationValue xml:lang="en">Neuruppin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="es">Neuruppin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="fa">نویروپین</lido:appellationValue>
+                        <lido:appellationValue xml:lang="fi">Neuruppin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="fr">Neuruppin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="hu">Neuruppin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="it">Neuruppin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ja">ノイルピーン</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ka">ნოირუპინი</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ko">노이루핀</lido:appellationValue>
+                        <lido:appellationValue xml:lang="nl">Neuruppin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="pl">Neuruppin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="pt">Neuruppin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ro">Neuruppin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ru">Нойруппин</lido:appellationValue>
+                        <lido:appellationValue xml:lang="sv">Neuruppin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="tr">Neuruppin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="vi">Neuruppin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="zh">诺伊鲁平</lido:appellationValue>
+                     </lido:namePlaceSet>
+                     <lido:gml>
+                        <gml:Point xmlns:gml="http://www.opengis.net/gml" srsName="EPSG:4326">
+                           <gml:pos>52.922222137451 12.800000190735</gml:pos>
+                        </gml:Point>
+                     </lido:gml>
+                  </lido:place>
+               </lido:eventPlace>
+            </lido:event>
+         </lido:eventSet>
+         <lido:eventSet>
+            <lido:event>
+               <lido:eventType>
+                  <lido:conceptID lido:type="uri">http://terminology.lido-schema.org/lido00003</lido:conceptID>
+                  <lido:term>Event (non-specified)</lido:term>
+               </lido:eventType>
+               <lido:eventMaterialsTech>
+                  <lido:displayMaterialsTech>Farblithographie auf dünnem Maschinenpapier, gebräunt</lido:displayMaterialsTech>
+               </lido:eventMaterialsTech>
+            </lido:event>
+         </lido:eventSet>
+      </lido:eventWrap>
+      <lido:objectRelationWrap>
+         <lido:subjectWrap>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="aat" lido:type="uri">http://vocab.getty.edu/aat/300211037</lido:conceptID>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4056248-7</lido:conceptID>
+                     <lido:conceptID lido:source="grobsystematik" lido:type="uri">https://term.museum-digital.de/grobsystematik/tag/11530</lido:conceptID>
+                     <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh85136372</lido:conceptID>
+                     <lido:conceptID lido:source="oberbegriffsdatei" lido:type="uri">https://term.museum-digital.de/oberbegriffsdatei/tag/7382</lido:conceptID>
+                     <lido:conceptID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/w/index.php?search=&amp;search=Q11422</lido:conceptID>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Spielzeug</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/27</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Spielzeug</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ar">لعبة</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="bn">খেলনা</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="cs">hračka</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="da">legetøj</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="de">Spielzeug</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="el">παιχνίδι</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="en">toy</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="es">juguete</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fa">اسباب‌بازی</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fi">lelu</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fr">jouet</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="he">צעצוע</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hi">खिलौना</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hu">játékszer</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="id">Mainan</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="it">giocattolo</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ja">玩具</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ka">სათამაშო</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ko">장난감</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="nl">speelgoed</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pl">zabawka</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pt">brinquedo</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ru">игрушка</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sv">leksak</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sw">Kichezeo</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ta">பொம்மை</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="th">ของเล่น</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tl">Laruan</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tr">Oyuncak</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ur">کھلونا</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="vi">đồ chơi</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="zh">玩具</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">http://d-nb.info/gnd/4023819-2</lido:conceptID>
+                     <lido:conceptID lido:source="iconclass" lido:type="uri">http://iconclass.org/rkd/34B/</lido:conceptID>
+                     <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh85100482.html</lido:conceptID>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">http://de.wikipedia.org/wiki/Haustier</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/3604</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Haustier</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="de">Haustiere (innerhalb und außerhalb des Hauses)</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="en">Domestic animals, kept in and outside the house</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fi">Domestic animals, kept in and outside the house</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fr">Animaux domestiques gardés à l'intérieur et à l'extérieur de la maison</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="it">Animali domestici, tenuti dentro e fuori casa</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">http://d-nb.info/gnd/4145402-9</lido:conceptID>
+                     <lido:conceptID lido:source="grobsystematik" lido:type="uri">https://term.museum-digital.de/grobsystematik/tag/1011</lido:conceptID>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Bilderbogen</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/4998</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Bilderbogen</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="aat" lido:type="uri">http://vocab.getty.edu/aat/300000206</lido:conceptID>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4004770-2</lido:conceptID>
+                     <lido:conceptID lido:source="iconclass" lido:type="uri">http://iconclass.org/rkd/25I3/</lido:conceptID>
+                     <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh85047299</lido:conceptID>
+                     <lido:conceptID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q131596</lido:conceptID>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Bauernhof</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/7506</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Bauernhof</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ar">مزرعة</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="bn">খামার</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="cs">Statek</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="da">Gård</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="de">Bauernhof</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="en">Farm</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="es">Granja</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fa">کشتزار</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fi">Maatila</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fr">Ferme</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="he">חווה חקלאית</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hi">खेत</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="id">Lahan usaha tani</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="it">Fattoria</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ja">農場</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ka">ფერმა</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ko">농장</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="nl">Boerenbedrijf</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pl">Farma</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pt">Quinta</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ro">Fermă</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ru">ферма</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sv">Gård</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sw">Shamba</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ta">பண்ணை</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="th">ฟาร์ม</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tl">Bukid</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tr">Çiftlik</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="vi">trang trại</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="zh">农场</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4021845-4</lido:conceptID>
+                     <lido:conceptID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q1027879</lido:conceptID>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">https://en.wikipedia.org/wiki/Graphics</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/13314</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Druckgraphik</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ar">رسوميات</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="bn">গ্রাফিক্স</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="cs">Grafika</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="de">Druckgraphik</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="el">Γραφικά</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="en">Graphics</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="es">gráficos</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fa">ارتباط تصویری</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fr">Graphique</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="he">גרפיקה</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hi">चित्रालेख</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hu">Grafika</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="id">Grafika</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ja">グラフィック</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ka">გრაფიკა</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ko">그래픽</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="nl">Grafiek</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pl">Grafika</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pt">Gráfico</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ro">grafică</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ru">графика</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ta">வரைகலை</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tr">Grafik</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ur">تخطیط</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="zh">图形</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+         </lido:subjectWrap>
+         <lido:relatedWorksWrap/>
+      </lido:objectRelationWrap>
+   </lido:descriptiveMetadata>
+   <lido:administrativeMetadata xml:lang="de">
+      <lido:rightsWorkWrap>
+         <lido:rightsWorkSet>
+            <lido:rightsHolder>
+               <lido:legalBodyName>
+                  <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:rightsHolder>
+         </lido:rightsWorkSet>
+      </lido:rightsWorkWrap>
+      <lido:recordWrap>
+         <lido:recordID lido:type="museum-digital">67016</lido:recordID>
+         <lido:recordType>
+            <lido:term lido:addedSearchTerm="no">item</lido:term>
+         </lido:recordType>
+         <lido:recordSource lido:type="dataProvider">
+            <lido:legalBodyName>
+               <lido:appellationValue>museum-digital</lido:appellationValue>
+            </lido:legalBodyName>
+            <lido:legalBodyWeblink>https://berlin.museum-digital.de/</lido:legalBodyWeblink>
+         </lido:recordSource>
+         <lido:recordSource>
+            <lido:legalBodyID lido:type="isil">DE-B185</lido:legalBodyID>
+            <lido:legalBodyName>
+               <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+            </lido:legalBodyName>
+         </lido:recordSource>
+         <lido:recordRights>
+            <lido:rightsType>
+               <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no">CC BY</lido:term>
+            </lido:rightsType>
+            <lido:rightsHolder>
+               <lido:legalBodyID lido:type="isil">DE-B185</lido:legalBodyID>
+               <lido:legalBodyName>
+                  <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+               </lido:legalBodyName>
+               <lido:legalBodyWeblink>http://geschichte-brandenburg.de/</lido:legalBodyWeblink>
+            </lido:rightsHolder>
+            <lido:creditLine>Förderprogramm zur Digitalisierung von Objekten des kulturellen Erbes des Landes Berlin</lido:creditLine>
+         </lido:recordRights>
+         <lido:recordInfoSet>
+            <lido:recordInfoLink>https://berlin.museum-digital.de/index.php?t=objekt&amp;oges=67016</lido:recordInfoLink>
+            <lido:recordMetadataDate>2021-04-27 07:59:55</lido:recordMetadataDate>
+         </lido:recordInfoSet>
+      </lido:recordWrap>
+      <lido:resourceWrap>
+         <lido:resourceSet lido:sortorder="1">
+            <lido:resourceID lido:source="image" lido:type="local">48602</lido:resourceID>
+            <lido:resourceRepresentation lido:type="masterfile">
+               <lido:linkResource lido:formatResource="image/tiff"/>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_thumb">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/202007/100h_neuruppiner-bilderbogen-nr-10119-67016.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_preview">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/202007/200w_neuruppiner-bilderbogen-nr-10119-67016.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/202007/neuruppiner-bilderbogen-nr-10119-67016.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceType>
+               <lido:term lido:addedSearchTerm="no">image</lido:term>
+            </lido:resourceType>
+            <lido:resourceRelType>
+               <lido:term lido:addedSearchTerm="no">Hauptansicht</lido:term>
+            </lido:resourceRelType>
+            <lido:resourceDescription>Neuruppiner Bilderbogen (Nr. 10119)</lido:resourceDescription>
+            <lido:resourceSource lido:type="creator">
+               <lido:legalBodyName>
+                  <lido:appellationValue>Thomas Voßbeck, 2020</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:resourceSource>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+                  <lido:term lido:addedSearchTerm="no">CC BY</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V.</lido:appellationValue>
+                  </lido:legalBodyName>
+               </lido:rightsHolder>
+               <lido:creditLine>Thomas Voßbeck, 2020</lido:creditLine>
+            </lido:rightsResource>
+         </lido:resourceSet>
+      </lido:resourceWrap>
+   </lido:administrativeMetadata>
+</lido:lido>
+

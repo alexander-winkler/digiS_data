@@ -1,0 +1,421 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lido:lido xmlns:lido="http://www.lido-schema.org"
+           xmlns:xalan="http://xml.apache.org/xalan">
+   <lido:lidoRecID lido:source="https://berlin.museum-digital.de/index.php?t=institution&amp;instnr=32"
+                   lido:type="local">DE-B185/67408</lido:lidoRecID>
+   <lido:category/>
+   <lido:descriptiveMetadata xml:lang="de">
+      <lido:objectClassificationWrap>
+         <lido:objectWorkTypeWrap>
+            <lido:objectWorkType>
+               <lido:conceptID lido:source="gnd" lido:type="uri">http://d-nb.info/gnd/4139167-6</lido:conceptID>
+               <lido:conceptID lido:source="aat" lido:type="uri">http://vocab.getty.edu/aat/300034569</lido:conceptID>
+               <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh85129196</lido:conceptID>
+               <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/11970</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Bauzeichnung</lido:term>
+            </lido:objectWorkType>
+         </lido:objectWorkTypeWrap>
+         <lido:classificationWrap>
+            <lido:classification lido:type="Sammlung">
+               <lido:conceptID lido:source="local" lido:type="collection_id">705</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Handzeichnungen, Druckgraphik, Gemälde</lido:term>
+            </lido:classification>
+            <lido:classification lido:type="Sammlung">
+               <lido:conceptID lido:source="local" lido:type="collection_id">706</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Ansichten</lido:term>
+            </lido:classification>
+            <lido:classification lido:type="Sammlung">
+               <lido:conceptID lido:source="local" lido:type="collection_id">707</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Berlin</lido:term>
+            </lido:classification>
+            <lido:classification>
+               <lido:conceptID lido:source="local" lido:type="series_id">142</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no">Haus Barth</lido:term>
+            </lido:classification>
+         </lido:classificationWrap>
+      </lido:objectClassificationWrap>
+      <lido:objectIdentificationWrap>
+         <lido:titleWrap>
+            <lido:titleSet>
+               <lido:appellationValue lido:pref="preferred">Berlin-Steglitz: Brentanostraße 68, Haus Barth. Obergeschoss-Grundriss und Schnitt im Maßstab 1.100; Lageplan 1:500</lido:appellationValue>
+            </lido:titleSet>
+         </lido:titleWrap>
+         <lido:repositoryWrap>
+            <lido:repositorySet lido:type="current">
+               <lido:repositoryName>
+                  <lido:legalBodyID lido:type="isil">DE-B185</lido:legalBodyID>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+                  </lido:legalBodyName>
+                  <lido:legalBodyWeblink>http://geschichte-brandenburg.de/</lido:legalBodyWeblink>
+               </lido:repositoryName>
+               <lido:workID lido:type="inventory number">LGV-Archiv, C 11 D-004-4</lido:workID>
+               <lido:repositoryLocation>
+                  <lido:namePlaceSet>
+                     <lido:appellationValue>Berlin</lido:appellationValue>
+                  </lido:namePlaceSet>
+                  <lido:gml>
+                     <gml:Point xmlns:gml="http://www.opengis.net/gml" srsName="EPSG:4326">
+                        <gml:pos>52.51533127 13.40440559</gml:pos>
+                     </gml:Point>
+                  </lido:gml>
+               </lido:repositoryLocation>
+            </lido:repositorySet>
+         </lido:repositoryWrap>
+         <lido:objectDescriptionWrap>
+            <lido:objectDescriptionSet>
+               <lido:descriptiveNoteValue>Es handelt sich bei dem Gebäude in der Steglitzer Kleiststraße (seit 9. 6. 1933 Brentanostraße) 68 um das von dem bekannten Berliner Gartenarchitekten Prof. Erwin Barth (1880-1933) in der Nähe seines Büros (in der Lehr- und Forschungsanstalt für Gartenbau in Berlin-Dahlem) kurz vor seinem (Frei-)Tod (10. 7. 1933) geplante Wohnhaus. "In den 1970er Jahren ist es verkauft, abgerissen und durch einen Neubau ersetzt worden. Auch der Garten ist vollständig überformt." (ebd., S. 481).&#xD;
+Überliefert sind im Archiv vier Lichtpausen, offenbar aus der Zeit kurz vor oder nach Baubeginn. &#xD;
+Gartenpläne befinden sich im Architekturmuseum der TU Berlin.&#xD;
+&#xD;
+Bez. re. u. "Berlin, den 24. Dezember 1932 / Bauherr u. Architekt: Prof. Erwin Barth / Mitarbeiter: Architekt Peter Thimister".&#xD;
+Erworben 2000 im Berlin-Steglitzer Antiquitätenhandel.&#xD;
+&#xD;
+Literatur: Dietmar Land, Jürgen Wenzel: Heimat, Natur und Weltstadt. Leben und Werk des Gartenarchitekten Erwin Barth. Leipzig 2005, S. 477-481.</lido:descriptiveNoteValue>
+               <lido:sourceDescriptiveNote>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:sourceDescriptiveNote>
+            </lido:objectDescriptionSet>
+         </lido:objectDescriptionWrap>
+         <lido:objectMeasurementsWrap>
+            <lido:objectMeasurementsSet>
+               <lido:displayObjectMeasurements>Blattgröße: Höhe 30,8 cm, Breite 45,3 cm</lido:displayObjectMeasurements>
+               <lido:objectMeasurements/>
+            </lido:objectMeasurementsSet>
+         </lido:objectMeasurementsWrap>
+      </lido:objectIdentificationWrap>
+      <lido:eventWrap>
+         <lido:eventSet>
+            <lido:event>
+               <lido:eventType>
+                  <lido:conceptID lido:type="uri">https://event-types.museum-digital.org/1</lido:conceptID>
+                  <lido:term lido:addedSearchTerm="no">Hergestellt</lido:term>
+               </lido:eventType>
+               <lido:eventActor>
+                  <lido:displayActorInRole>Erwin Barth (1880-1933)</lido:displayActorInRole>
+                  <lido:actorInRole>
+                     <lido:actor>
+                        <lido:actorID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Erwin_Barth</lido:actorID>
+                        <lido:actorID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/130094412</lido:actorID>
+                        <lido:actorID lido:source="loc" lido:type="uri">http://id.loc.gov/authorities/names/n82134689</lido:actorID>
+                        <lido:actorID lido:source="ulan" lido:type="uri">http://vocab.getty.edu/ulan/500230861</lido:actorID>
+                        <lido:actorID lido:source="viaf" lido:type="uri">https://viaf.org/viaf/52786280</lido:actorID>
+                        <lido:actorID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q100653</lido:actorID>
+                        <lido:actorID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/persinst/125053</lido:actorID>
+                        <lido:nameActorSet>
+                           <lido:appellationValue>Barth, Erwin</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ar">اروين بارث</lido:appellationValue>
+                           <lido:appellationValue xml:lang="da">Erwin Barth</lido:appellationValue>
+                           <lido:appellationValue xml:lang="de">Erwin Barth</lido:appellationValue>
+                           <lido:appellationValue xml:lang="en">Erwin Barth</lido:appellationValue>
+                           <lido:appellationValue xml:lang="es">Erwin Barth</lido:appellationValue>
+                           <lido:appellationValue xml:lang="fr">Erwin Barth</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ja">エルヴィン・バルト</lido:appellationValue>
+                           <lido:appellationValue xml:lang="nl">Erwin Barth</lido:appellationValue>
+                           <lido:appellationValue xml:lang="pt">Erwin Barth</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ru">Эрвин Барт</lido:appellationValue>
+                           <lido:appellationValue xml:lang="sv">Erwin Barth</lido:appellationValue>
+                        </lido:nameActorSet>
+                        <lido:vitalDatesActor>
+                           <lido:earliestDate>1880</lido:earliestDate>
+                           <lido:latestDate>1933</lido:latestDate>
+                        </lido:vitalDatesActor>
+                     </lido:actor>
+                  </lido:actorInRole>
+               </lido:eventActor>
+               <lido:eventDate>
+                  <lido:displayDate>24.12.1932</lido:displayDate>
+                  <lido:displayDate xml:lang="ar">24/12/1932</lido:displayDate>
+                  <lido:displayDate xml:lang="de">24.12.1932</lido:displayDate>
+                  <lido:displayDate xml:lang="en">December 24, 1932</lido:displayDate>
+                  <lido:displayDate xml:lang="es">24/12/1932</lido:displayDate>
+                  <lido:displayDate xml:lang="fa">24/12/1932</lido:displayDate>
+                  <lido:displayDate xml:lang="fr">24/12/1932</lido:displayDate>
+                  <lido:displayDate xml:lang="hu">1932. december 24.</lido:displayDate>
+                  <lido:displayDate xml:lang="id">24 Desember 1932</lido:displayDate>
+                  <lido:displayDate xml:lang="it">24/12/1932</lido:displayDate>
+                  <lido:displayDate xml:lang="ja">1932年12月24日</lido:displayDate>
+                  <lido:displayDate xml:lang="ka">24.12.1932</lido:displayDate>
+                  <lido:displayDate xml:lang="ko">1932년 12월 24일</lido:displayDate>
+                  <lido:displayDate xml:lang="pl">24.12.1932</lido:displayDate>
+                  <lido:displayDate xml:lang="pt">24/12/1932</lido:displayDate>
+                  <lido:displayDate xml:lang="ro">24.12.1932</lido:displayDate>
+                  <lido:displayDate xml:lang="ru">24.12.1932</lido:displayDate>
+                  <lido:displayDate xml:lang="ta">24-12-1932</lido:displayDate>
+                  <lido:displayDate xml:lang="tl">Disyembre 24, 1932</lido:displayDate>
+                  <lido:displayDate xml:lang="tr">24.12.1932</lido:displayDate>
+                  <lido:displayDate xml:lang="zh">1932年12月24日</lido:displayDate>
+                  <lido:date>
+                     <lido:earliestDate>1932</lido:earliestDate>
+                     <lido:latestDate>1932</lido:latestDate>
+                  </lido:date>
+               </lido:eventDate>
+               <lido:eventPlace>
+                  <lido:displayPlace>Berlin-Steglitz</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ar">برلين شتجليتز</lido:displayPlace>
+                  <lido:displayPlace xml:lang="da">Steglitz</lido:displayPlace>
+                  <lido:displayPlace xml:lang="de">Berlin-Steglitz</lido:displayPlace>
+                  <lido:displayPlace xml:lang="el">Στέγκλιτζ</lido:displayPlace>
+                  <lido:displayPlace xml:lang="en">Steglitz</lido:displayPlace>
+                  <lido:displayPlace xml:lang="es">Steglitz</lido:displayPlace>
+                  <lido:displayPlace xml:lang="fa">شتگلیتس</lido:displayPlace>
+                  <lido:displayPlace xml:lang="fr">Berlin-Steglitz</lido:displayPlace>
+                  <lido:displayPlace xml:lang="it">Steglitz</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ka">შტეგლიცი</lido:displayPlace>
+                  <lido:displayPlace xml:lang="nl">Berlin-Steglitz</lido:displayPlace>
+                  <lido:displayPlace xml:lang="pl">Steglitz (dzielnica Berlina)</lido:displayPlace>
+                  <lido:displayPlace xml:lang="pt">Steglitz</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ru">Штеглиц</lido:displayPlace>
+                  <lido:displayPlace xml:lang="sv">Steglitz</lido:displayPlace>
+                  <lido:displayPlace xml:lang="zh">施泰格利茨</lido:displayPlace>
+                  <lido:place>
+                     <lido:placeID lido:source="geonames" lido:type="uri">https://sws.geonames.org/2829109</lido:placeID>
+                     <lido:placeID lido:source="TGN" lido:type="uri">http://vocab.getty.edu/tgn/1005659</lido:placeID>
+                     <lido:placeID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4112721-3</lido:placeID>
+                     <lido:placeID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q700211</lido:placeID>
+                     <lido:placeID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/place/769</lido:placeID>
+                     <lido:namePlaceSet>
+                        <lido:appellationValue>Berlin-Steglitz</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ar">برلين شتجليتز</lido:appellationValue>
+                        <lido:appellationValue xml:lang="da">Steglitz</lido:appellationValue>
+                        <lido:appellationValue xml:lang="de">Berlin-Steglitz</lido:appellationValue>
+                        <lido:appellationValue xml:lang="el">Στέγκλιτζ</lido:appellationValue>
+                        <lido:appellationValue xml:lang="en">Steglitz</lido:appellationValue>
+                        <lido:appellationValue xml:lang="es">Steglitz</lido:appellationValue>
+                        <lido:appellationValue xml:lang="fa">شتگلیتس</lido:appellationValue>
+                        <lido:appellationValue xml:lang="fr">Berlin-Steglitz</lido:appellationValue>
+                        <lido:appellationValue xml:lang="it">Steglitz</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ka">შტეგლიცი</lido:appellationValue>
+                        <lido:appellationValue xml:lang="nl">Berlin-Steglitz</lido:appellationValue>
+                        <lido:appellationValue xml:lang="pl">Steglitz (dzielnica Berlina)</lido:appellationValue>
+                        <lido:appellationValue xml:lang="pt">Steglitz</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ru">Штеглиц</lido:appellationValue>
+                        <lido:appellationValue xml:lang="sv">Steglitz</lido:appellationValue>
+                        <lido:appellationValue xml:lang="zh">施泰格利茨</lido:appellationValue>
+                     </lido:namePlaceSet>
+                     <lido:gml>
+                        <gml:Point xmlns:gml="http://www.opengis.net/gml" srsName="EPSG:4326">
+                           <gml:pos>52.466667175293 13.333333015442</gml:pos>
+                        </gml:Point>
+                     </lido:gml>
+                  </lido:place>
+               </lido:eventPlace>
+            </lido:event>
+         </lido:eventSet>
+         <lido:eventSet>
+            <lido:event>
+               <lido:eventType>
+                  <lido:conceptID lido:type="uri">http://terminology.lido-schema.org/lido00003</lido:conceptID>
+                  <lido:term>Event (non-specified)</lido:term>
+               </lido:eventType>
+               <lido:eventMaterialsTech>
+                  <lido:displayMaterialsTech>Lichtpause auf gebräuntem Papier</lido:displayMaterialsTech>
+               </lido:eventMaterialsTech>
+            </lido:event>
+         </lido:eventSet>
+      </lido:eventWrap>
+      <lido:objectRelationWrap>
+         <lido:subjectWrap>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectPlace>
+                     <lido:displayPlace>Berlin-Steglitz</lido:displayPlace>
+                     <lido:displayPlace xml:lang="ar">برلين شتجليتز</lido:displayPlace>
+                     <lido:displayPlace xml:lang="da">Steglitz</lido:displayPlace>
+                     <lido:displayPlace xml:lang="de">Berlin-Steglitz</lido:displayPlace>
+                     <lido:displayPlace xml:lang="el">Στέγκλιτζ</lido:displayPlace>
+                     <lido:displayPlace xml:lang="en">Steglitz</lido:displayPlace>
+                     <lido:displayPlace xml:lang="es">Steglitz</lido:displayPlace>
+                     <lido:displayPlace xml:lang="fa">شتگلیتس</lido:displayPlace>
+                     <lido:displayPlace xml:lang="fr">Berlin-Steglitz</lido:displayPlace>
+                     <lido:displayPlace xml:lang="it">Steglitz</lido:displayPlace>
+                     <lido:displayPlace xml:lang="ka">შტეგლიცი</lido:displayPlace>
+                     <lido:displayPlace xml:lang="nl">Berlin-Steglitz</lido:displayPlace>
+                     <lido:displayPlace xml:lang="pl">Steglitz (dzielnica Berlina)</lido:displayPlace>
+                     <lido:displayPlace xml:lang="pt">Steglitz</lido:displayPlace>
+                     <lido:displayPlace xml:lang="ru">Штеглиц</lido:displayPlace>
+                     <lido:displayPlace xml:lang="sv">Steglitz</lido:displayPlace>
+                     <lido:displayPlace xml:lang="zh">施泰格利茨</lido:displayPlace>
+                     <lido:place>
+                        <lido:placeID lido:source="geonames" lido:type="uri">https://sws.geonames.org/2829109</lido:placeID>
+                        <lido:placeID lido:source="TGN" lido:type="uri">http://vocab.getty.edu/tgn/1005659</lido:placeID>
+                        <lido:placeID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4112721-3</lido:placeID>
+                        <lido:placeID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q700211</lido:placeID>
+                        <lido:placeID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/place/769</lido:placeID>
+                        <lido:namePlaceSet>
+                           <lido:appellationValue>Berlin-Steglitz</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ar">برلين شتجليتز</lido:appellationValue>
+                           <lido:appellationValue xml:lang="da">Steglitz</lido:appellationValue>
+                           <lido:appellationValue xml:lang="de">Berlin-Steglitz</lido:appellationValue>
+                           <lido:appellationValue xml:lang="el">Στέγκλιτζ</lido:appellationValue>
+                           <lido:appellationValue xml:lang="en">Steglitz</lido:appellationValue>
+                           <lido:appellationValue xml:lang="es">Steglitz</lido:appellationValue>
+                           <lido:appellationValue xml:lang="fa">شتگلیتس</lido:appellationValue>
+                           <lido:appellationValue xml:lang="fr">Berlin-Steglitz</lido:appellationValue>
+                           <lido:appellationValue xml:lang="it">Steglitz</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ka">შტეგლიცი</lido:appellationValue>
+                           <lido:appellationValue xml:lang="nl">Berlin-Steglitz</lido:appellationValue>
+                           <lido:appellationValue xml:lang="pl">Steglitz (dzielnica Berlina)</lido:appellationValue>
+                           <lido:appellationValue xml:lang="pt">Steglitz</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ru">Штеглиц</lido:appellationValue>
+                           <lido:appellationValue xml:lang="sv">Steglitz</lido:appellationValue>
+                           <lido:appellationValue xml:lang="zh">施泰格利茨</lido:appellationValue>
+                        </lido:namePlaceSet>
+                        <lido:gml>
+                           <gml:Point xmlns:gml="http://www.opengis.net/gml" srsName="EPSG:4326">
+                              <gml:pos>52.466667175293 13.333333015442</gml:pos>
+                           </gml:Point>
+                        </lido:gml>
+                     </lido:place>
+                  </lido:subjectPlace>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">http://d-nb.info/gnd/4019294-5</lido:conceptID>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">http://de.wikipedia.org/wiki/Gartenbau</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/5963</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Gartenbau</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="aat" lido:type="uri">http://vocab.getty.edu/aat/300024987</lido:conceptID>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">http://d-nb.info/gnd/4002844-6</lido:conceptID>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">http://de.wikipedia.org/wiki/Architekt</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/10124</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Architekt</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="aat" lido:type="uri">https://vocab.getty.edu/page/aat/300005425</lido:conceptID>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">http://d-nb.info/gnd/4023693-6</lido:conceptID>
+                     <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh85062603</lido:conceptID>
+                     <lido:conceptID lido:source="oberbegriffsdatei" lido:type="uri">https://term.museum-digital.de/oberbegriffsdatei/tag/tag/90</lido:conceptID>
+                     <lido:conceptID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q11755880</lido:conceptID>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Wohngeb%C3%A4ude</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/11153</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Wohnhaus</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="de">Wohnhaus</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="en">Residential building</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="es">Vivienda</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fr">Bâtiment d'habitation</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="it">Edificio abitativo</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ja">居住建築物</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="nl">Woongebouw</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ru">жилое здание</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sv">Bostadshus</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tr">Konut binası</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="aat" lido:type="uri">http://vocab.getty.edu/aat/300034569</lido:conceptID>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">http://d-nb.info/gnd/4139167-6</lido:conceptID>
+                     <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh85129196</lido:conceptID>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">http://de.wikipedia.org/wiki/Bauzeichnung</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/11970</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Bauzeichnung</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+         </lido:subjectWrap>
+         <lido:relatedWorksWrap/>
+      </lido:objectRelationWrap>
+   </lido:descriptiveMetadata>
+   <lido:administrativeMetadata xml:lang="de">
+      <lido:rightsWorkWrap>
+         <lido:rightsWorkSet>
+            <lido:rightsHolder>
+               <lido:legalBodyName>
+                  <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:rightsHolder>
+         </lido:rightsWorkSet>
+      </lido:rightsWorkWrap>
+      <lido:recordWrap>
+         <lido:recordID lido:type="museum-digital">67408</lido:recordID>
+         <lido:recordType>
+            <lido:term lido:addedSearchTerm="no">item</lido:term>
+         </lido:recordType>
+         <lido:recordSource lido:type="dataProvider">
+            <lido:legalBodyName>
+               <lido:appellationValue>museum-digital</lido:appellationValue>
+            </lido:legalBodyName>
+            <lido:legalBodyWeblink>https://berlin.museum-digital.de/</lido:legalBodyWeblink>
+         </lido:recordSource>
+         <lido:recordSource>
+            <lido:legalBodyID lido:type="isil">DE-B185</lido:legalBodyID>
+            <lido:legalBodyName>
+               <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+            </lido:legalBodyName>
+         </lido:recordSource>
+         <lido:recordRights>
+            <lido:rightsType>
+               <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no">CC BY</lido:term>
+            </lido:rightsType>
+            <lido:rightsHolder>
+               <lido:legalBodyID lido:type="isil">DE-B185</lido:legalBodyID>
+               <lido:legalBodyName>
+                  <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+               </lido:legalBodyName>
+               <lido:legalBodyWeblink>http://geschichte-brandenburg.de/</lido:legalBodyWeblink>
+            </lido:rightsHolder>
+            <lido:creditLine>Förderprogramm zur Digitalisierung von Objekten des kulturellen Erbes des Landes Berlin</lido:creditLine>
+         </lido:recordRights>
+         <lido:recordInfoSet>
+            <lido:recordInfoLink>https://berlin.museum-digital.de/index.php?t=objekt&amp;oges=67408</lido:recordInfoLink>
+            <lido:recordMetadataDate>2021-04-27 07:59:51</lido:recordMetadataDate>
+         </lido:recordInfoSet>
+      </lido:recordWrap>
+      <lido:resourceWrap>
+         <lido:resourceSet lido:sortorder="1">
+            <lido:resourceID lido:source="image" lido:type="local">48952</lido:resourceID>
+            <lido:resourceRepresentation lido:type="masterfile">
+               <lido:linkResource lido:formatResource="image/tiff"/>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_thumb">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/202007/100h_berlin-steglitz-brentanostraSse-68-haus-barth-obergeschoss-grundriss-und-schnitt-im-maSsst.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_preview">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/202007/200w_berlin-steglitz-brentanostraSse-68-haus-barth-obergeschoss-grundriss-und-schnitt-im-maSsst.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/202007/berlin-steglitz-brentanostraSse-68-haus-barth-obergeschoss-grundriss-und-schnitt-im-maSsst.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceType>
+               <lido:term lido:addedSearchTerm="no">image</lido:term>
+            </lido:resourceType>
+            <lido:resourceRelType>
+               <lido:term lido:addedSearchTerm="no">Hauptansicht</lido:term>
+            </lido:resourceRelType>
+            <lido:resourceDescription>Berlin-Steglitz: Brentanostraße 68, Haus Barth. Obergeschoss-Grundriss und Schnitt im Maßstab 1.100; Lageplan 1:500</lido:resourceDescription>
+            <lido:resourceSource lido:type="creator">
+               <lido:legalBodyName>
+                  <lido:appellationValue>Thomas Voßbeck, 2020</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:resourceSource>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+                  <lido:term lido:addedSearchTerm="no">CC BY</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V.</lido:appellationValue>
+                  </lido:legalBodyName>
+               </lido:rightsHolder>
+               <lido:creditLine>Thomas Voßbeck, 2020</lido:creditLine>
+            </lido:rightsResource>
+         </lido:resourceSet>
+      </lido:resourceWrap>
+   </lido:administrativeMetadata>
+</lido:lido>
+

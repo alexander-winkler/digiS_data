@@ -1,0 +1,988 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lido:lido xmlns:gml="http://www.opengis.net/gml"
+           xmlns:lido="http://www.lido-schema.org"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <lido:lidoRecID lido:source="https://berlin.museum-digital.de/index.php?t=institution&amp;instnr=21"
+                   lido:type="local">DE-MUS-061525/86348</lido:lidoRecID>
+   <lido:descriptiveMetadata xml:lang="de">
+      <lido:objectClassificationWrap>
+         <lido:objectWorkTypeWrap>
+            <lido:objectWorkType>
+               <lido:conceptID lido:source="gnd" lido:type="uri">http://d-nb.info/gnd/4164176-0</lido:conceptID>
+               <lido:conceptID lido:source="grobsystematik" lido:type="uri">https://term.museum-digital.de/grobsystematik/tag/13321</lido:conceptID>
+               <lido:conceptID lido:source="oberbegriffsdatei" lido:type="uri">https://term.museum-digital.de/oberbegriffsdatei/tag/2036</lido:conceptID>
+               <lido:conceptID lido:source="aat" lido:type="uri">http://vocab.getty.edu/aat/300041575</lido:conceptID>
+               <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh85027100</lido:conceptID>
+               <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/1331</lido:conceptID>
+               <lido:term>Uhr</lido:term>
+            </lido:objectWorkType>
+         </lido:objectWorkTypeWrap>
+         <lido:classificationWrap>
+            <lido:classification lido:type="Sammlung">
+               <lido:conceptID lido:source="local" lido:type="collection_id">623</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no">Uhrensammlung</lido:term>
+            </lido:classification>
+         </lido:classificationWrap>
+      </lido:objectClassificationWrap>
+      <lido:objectIdentificationWrap>
+         <lido:titleWrap>
+            <lido:titleSet>
+               <lido:appellationValue lido:pref="preferred">Johann Wollenweber, Horizontale Tischuhr, um 1750, Inv. Nr. II 92/238 i</lido:appellationValue>
+            </lido:titleSet>
+         </lido:titleWrap>
+         <lido:inscriptionsWrap>
+            <lido:inscriptions>
+               <lido:inscriptionDescription>
+                  <lido:descriptiveNoteValue>auf dem Zifferblatt: J= Wollenweber a Potsdam; auf dem Uhrwerk: Johan Wollenweber A Potsdam</lido:descriptiveNoteValue>
+               </lido:inscriptionDescription>
+            </lido:inscriptions>
+         </lido:inscriptionsWrap>
+         <lido:repositoryWrap>
+            <lido:repositorySet lido:type="current">
+               <lido:repositoryName>
+                  <lido:legalBodyID lido:type="isil">DE-MUS-061525</lido:legalBodyID>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Stiftung Stadtmuseum Berlin</lido:appellationValue>
+                  </lido:legalBodyName>
+                  <lido:legalBodyWeblink>https://www.stadtmuseum.de</lido:legalBodyWeblink>
+               </lido:repositoryName>
+               <lido:workID lido:type="inventory number">II 92/238 i</lido:workID>
+               <lido:repositoryLocation>
+                  <lido:namePlaceSet>
+                     <lido:appellationValue>Berlin</lido:appellationValue>
+                  </lido:namePlaceSet>
+                  <lido:gml>
+                     <gml:Point srsName="EPSG:4326">
+                        <gml:pos>52.51618576 13.40692997</gml:pos>
+                     </gml:Point>
+                  </lido:gml>
+               </lido:repositoryLocation>
+            </lido:repositorySet>
+         </lido:repositoryWrap>
+         <lido:objectDescriptionWrap>
+            <lido:objectDescriptionSet>
+               <lido:descriptiveNoteValue>Solche vier-, sechs- oder achteckigen horizontalen Tischuhren, meist in vergoldeten Messinggehäusen, kamen schon im 16. Jahrhundert besonders in Süddeutschland auf. Vor allem im nordostdeutschen Raum behaupteten sie sich fast 100 Jahre lang. Unter anderem in Danzig, Thorn und auch Berlin wurden sie noch in den 1770er Jahren in größerer Anzahl hergestellt. Mit ihrer kompakten Bauweise – anfangs nur mit einem Zeiger und häufig mit Wecker ausgestattet – eigneten sie sich gut als Reiseuhren. Meist besaßen sie ein schützendes, lederbezogenes Etui, das an der Oberseite verglast war, um unterwegs die Zeit ablesen zu können. Die Zifferblätter der älteren Uhren bestanden häufig aus versilberten Zinnreifen, vergoldeten und gravierten Messingplatten oder waren in Champlevé-Technik verziert. Die sechseckige Tischuhr ist mit ihrem Emailzifferblatt eher ungewöhnlich für diese Art Uhren. Eine Demontage des Werkes sowie des Zifferblattes zeigten, dass Wollenweber vermutlich ein altes Uhrwerk mit seiner Signatur und auch mit einem neuen Zifferblatt versehen hat, worauf wiederum seine Signatur zu sehen ist. Die Grundplatte für das Zifferblatt war definitiv für ein anderes bestimmt. Das Uhrwerk ist um 1700 zu datieren. Es besitzt neben dem Vierviertelschlagwerk noch ein Weckwerk, das mit dem Einbringen des Emailzifferblattes nicht in Funktion treten konnte, da hier keine Weckscheibe vorhanden ist. Das Uhrwerk mit seinen floral gravierten Federhäusern, Windfängen und den Hämmern, die als Delphin geformt und graviert sind, passen gut zu Uhrwerken, die viel früher datiert werden, als Wollenweber tätig war. Lediglich das Gehäuse könnte nach 1750 entstanden sein. Das recht gut mit ausgewogenem Schriftzug gearbeitete Emailzifferblatt und auch dessen Größe verweisen auf eine Herstellung um 1770. Wollenweber hat also um 1770 ein altes Uhrwerk mit einem zeitgemäßen Gehäuse und nach seinem Geschmack mit einem Emailzifferblatt kombiniert.&lt;br&gt;
+Johann Wollenweber wurde 1714 in der Grafschaft Homburg in der Nähe von Köln als Sohn eines Tischlers geboren. Er erlernte zwischen 1729 und 1734 das Handwerk des Klein-und Großuhrmachers bei Christian Schaepe in Nassau-Siegen. Dort soll er auch an Flöten- und Harfenuhren gearbeitet haben. Er behauptete, der Berliner Kaufmann Dam hätte ihm schon mehrere Uhren abgekauft und nach Polen und Russland verkauft. Sein Sohn lernte 1769 das Uhrmacherhandwerk bei Martinet in Berlin. Als 19-jähriger soll er 1734 von Werbern gewaltsam in die preußische Armee gedrängt worden sein. Er diente dort als Musketier im Regiment des 1758 verstorbenen Prinzen August Wilhelm von Preußen. Von seinem väterlichen Erbteil von 2.000 Talern konnte er sich in Spandau ein eigenes Haus kaufen. 1772 wird er als Ausrangierter und Uhrmacher im 5. Viertel der Potsdamer Neustadt, Mieter beim Brauer Eichborn/Eichebaum in der Waisenstraße, Haus Nr. 736, mit Frau und Tochter und einer weiblichen Bediensteten und 1775 nur noch mit Frau und einer weiblichen Bediensteten erwähnt. Sein Gesuch vom 7. Februar 1768 an den König mit der Bitte um Verleihung eines Privilegs, seine erlernte Uhrmacherprofession auch mit der Haltung von Gesellen und Lehrjungen ausüben zu dürfen, wurde am 25. Januar 1769 durch den König abgelehnt, da er weder einen Lehrbrief nachweisen konnte, noch ein Meisterstück anfertigen wollte. Stattdessen sollte er als Geselle arbeiten. Bestätigt wurde dies am 26. Januar durch die königlich-kurfürstliche Kriegs- und Domänenkammer. Wollenweber musste demnach bereits vor 1768 als Uhrmacher gearbeitet haben, vermutlich also auch während seines preußischen Militärdienstes. &lt;br&gt;
+Das Märkische Provinzialmuseum (heute: Stiftung Stadtmuseum Berlin) kaufte diese Uhr 1918 auf einer Auktion bei Lepke (Graf Potocki-Neumann) Kat. 1798, Nr. 827. (Marina de Fümel, Silke Kiesant)&lt;br&gt;</lido:descriptiveNoteValue>
+               <lido:sourceDescriptiveNote>Stiftung Stadtmuseum Berlin</lido:sourceDescriptiveNote>
+            </lido:objectDescriptionSet>
+            <lido:objectDescriptionSet lido:type="Detailbeschreibung">
+               <lido:descriptiveNoteValue>Die sechseckige Tischuhr wird an den Ecken von Füßen getragen, die als Akanthusblätter in Messing gegossen und versilbert wurden. Eine hohlkehlige Leiste trägt den Mittelkorpus mit sechs ovalen Fenstern, die einen Blick auf das Werk erlauben. Oben eine Viertelleiste nimmt die in den Ecken gravierte Grundplatte des Zifferblattes auf. Das Gehäuse zeigt Reste einer Feuervergoldung. Das Uhrwerk (D: 12 cm) besitzt Spindelhemmung mit einer dreischenkligen Radunruh (D: 3,8 cm), Vierviertelschlagwerk mit feststehenden Federhäusern und Rechen, das Gehwerk mit Schnecke und Kette, wobei die Kette fehlt, einem Weckwerk, das nicht in Funktion ist, auch der Hammer hierfür ist nicht vorhanden, und Balusterpfeilern, die bauchig mit Stegen unterbrochen und mit Ansätzen zu den Platinen (H: 0,15 cm) gearbeitet wurden. Die Federhäuser für das Vollstunden- und das Vierviertelschlagwerk sowie das Weckwerk wurden mit Blattwerk, die Windfänge für das Vollstunden- und Vierviertelschlagwerk mit einer Blume graviert. Der Kloben für die Radunruh nebst Grundplatte mit Regulierscheibe (D: 2,7 cm) wurden mit Blattranken, die an den Enden Blüten zeigen, in A-jour gearbeitet. Der Aufzug erfolgt von unten an vier Aufzugsvierkanten, wobei das Weckwerk nicht in Funktion genommen werden kann. Die Tür unten mit Scharnier und Schließriegel, der ebenfalls graviert ist, trägt zwei ineinander liegende Bronzeglocken, die auf einen Bügel montiert sind. Nur die untere Platine mit dem Unruhkloben und die Hammerköpfe sind feuervergoldet. Die Signatur „Johan Wollenweber A Potsdam“ auf dem Uhrwerk ist über der Regulierscheibe gestochen.&lt;br&gt;
+Das Emailzifferblatt mit der Signatur „J= Wollenweber a Potsdam.“ ist mit römischen Zahlen für die Stunden, einer Minuterie in Strichform und über den Stundenzahlen mit arabischen Zahlen ausgestattet. Auf der Rückseite befindet sich eine handschriftliche Nachricht, die nicht ganz entziffert werden konnte, da sie teilweise verwischt ist, „Loch in die (den) Stiften konnte nicht gereinigt (?) werden man braucht die Stiften blos umbiegen.“ An der Zahl „25“ für die Minuten, genau an einer Ecke, durchbricht der Abstellhebel für das Schlagwerk die Zifferblattgrundplatte.  (Marina de Fümel)</lido:descriptiveNoteValue>
+               <lido:sourceDescriptiveNote>Stiftung Stadtmuseum Berlin</lido:sourceDescriptiveNote>
+            </lido:objectDescriptionSet>
+         </lido:objectDescriptionWrap>
+         <lido:objectMeasurementsWrap>
+            <lido:objectMeasurementsSet>
+               <lido:displayObjectMeasurements>Höhe 9 cm, Durchmesser 14,5 cm; Zifferblatt: Durchmesser 10,5 cm</lido:displayObjectMeasurements>
+            </lido:objectMeasurementsSet>
+         </lido:objectMeasurementsWrap>
+      </lido:objectIdentificationWrap>
+      <lido:eventWrap>
+         <lido:eventSet>
+            <lido:displayEvent>Hergestellt</lido:displayEvent>
+            <lido:event>
+               <lido:eventType>
+                  <lido:conceptID lido:type="uri">http://terminology.lido-schema.org/lido00007</lido:conceptID>
+                  <lido:term lido:addedSearchTerm="no">Hergestellt</lido:term>
+               </lido:eventType>
+               <lido:eventActor>
+                  <lido:displayActorInRole>Johann Wollenweber (1714-)</lido:displayActorInRole>
+                  <lido:actorInRole>
+                     <lido:actor>
+                        <lido:actorID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/persinst/152316</lido:actorID>
+                        <lido:nameActorSet>
+                           <lido:appellationValue>Wollenweber, Johann</lido:appellationValue>
+                        </lido:nameActorSet>
+                        <lido:vitalDatesActor>
+                           <lido:earliestDate>1714</lido:earliestDate>
+                        </lido:vitalDatesActor>
+                     </lido:actor>
+                  </lido:actorInRole>
+               </lido:eventActor>
+               <lido:eventDate>
+                  <lido:displayDate>1750 (wahrscheinlich)</lido:displayDate>
+                  <lido:displayDate xml:lang="ar">1750</lido:displayDate>
+                  <lido:displayDate xml:lang="en">1750</lido:displayDate>
+                  <lido:displayDate xml:lang="es">1750</lido:displayDate>
+                  <lido:displayDate xml:lang="fa">1750</lido:displayDate>
+                  <lido:displayDate xml:lang="fr">1750</lido:displayDate>
+                  <lido:displayDate xml:lang="hu">1750</lido:displayDate>
+                  <lido:displayDate xml:lang="id">1750</lido:displayDate>
+                  <lido:displayDate xml:lang="it">1750</lido:displayDate>
+                  <lido:displayDate xml:lang="ja">1750年</lido:displayDate>
+                  <lido:displayDate xml:lang="ka">1750</lido:displayDate>
+                  <lido:displayDate xml:lang="ko">1750년</lido:displayDate>
+                  <lido:displayDate xml:lang="pl">1750</lido:displayDate>
+                  <lido:displayDate xml:lang="pt">1750</lido:displayDate>
+                  <lido:displayDate xml:lang="ro">1750</lido:displayDate>
+                  <lido:displayDate xml:lang="ru">1750</lido:displayDate>
+                  <lido:displayDate xml:lang="ta">1750</lido:displayDate>
+                  <lido:displayDate xml:lang="tl">1750</lido:displayDate>
+                  <lido:displayDate xml:lang="tr">1750</lido:displayDate>
+                  <lido:displayDate xml:lang="zh">1750年</lido:displayDate>
+                  <lido:date>
+                     <lido:earliestDate>1750</lido:earliestDate>
+                     <lido:latestDate>1750</lido:latestDate>
+                  </lido:date>
+               </lido:eventDate>
+               <lido:eventPlace>
+                  <lido:displayPlace>Potsdam</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ar">بوتسدام</lido:displayPlace>
+                  <lido:displayPlace xml:lang="cs">Postupim</lido:displayPlace>
+                  <lido:displayPlace xml:lang="da">Potsdam</lido:displayPlace>
+                  <lido:displayPlace xml:lang="el">Πότσδαμ</lido:displayPlace>
+                  <lido:displayPlace xml:lang="en">Potsdam</lido:displayPlace>
+                  <lido:displayPlace xml:lang="es">Potsdam</lido:displayPlace>
+                  <lido:displayPlace xml:lang="fa">پوتسدام</lido:displayPlace>
+                  <lido:displayPlace xml:lang="fi">Potsdam</lido:displayPlace>
+                  <lido:displayPlace xml:lang="fr">Potsdam</lido:displayPlace>
+                  <lido:displayPlace xml:lang="he">פוטסדאם</lido:displayPlace>
+                  <lido:displayPlace xml:lang="hi">पॉट्सडैम</lido:displayPlace>
+                  <lido:displayPlace xml:lang="hu">Potsdam</lido:displayPlace>
+                  <lido:displayPlace xml:lang="id">Potsdam</lido:displayPlace>
+                  <lido:displayPlace xml:lang="it">Potsdam</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ja">ポツダム</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ka">პოტსდამი</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ko">포츠담</lido:displayPlace>
+                  <lido:displayPlace xml:lang="nl">Potsdam</lido:displayPlace>
+                  <lido:displayPlace xml:lang="pl">Poczdam</lido:displayPlace>
+                  <lido:displayPlace xml:lang="pt">Potsdam</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ru">Потсдам</lido:displayPlace>
+                  <lido:displayPlace xml:lang="sv">Potsdam</lido:displayPlace>
+                  <lido:displayPlace xml:lang="sw">Potsdam</lido:displayPlace>
+                  <lido:displayPlace xml:lang="th">พ็อทซ์ดัม</lido:displayPlace>
+                  <lido:displayPlace xml:lang="tr">Potsdam</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ur">پاٹسڈیم</lido:displayPlace>
+                  <lido:displayPlace xml:lang="vi">Potsdam</lido:displayPlace>
+                  <lido:displayPlace xml:lang="zh">波茨坦</lido:displayPlace>
+                  <lido:place>
+                     <lido:placeID lido:source="geonames" lido:type="uri">https://sws.geonames.org/2852458</lido:placeID>
+                     <lido:placeID lido:source="TGN" lido:type="uri">http://vocab.getty.edu/tgn/7004463</lido:placeID>
+                     <lido:placeID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4046948-7</lido:placeID>
+                     <lido:placeID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q1711</lido:placeID>
+                     <lido:placeID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/place/113</lido:placeID>
+                     <lido:namePlaceSet>
+                        <lido:appellationValue>Potsdam</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ar">بوتسدام</lido:appellationValue>
+                        <lido:appellationValue xml:lang="cs">Postupim</lido:appellationValue>
+                        <lido:appellationValue xml:lang="da">Potsdam</lido:appellationValue>
+                        <lido:appellationValue xml:lang="el">Πότσδαμ</lido:appellationValue>
+                        <lido:appellationValue xml:lang="en">Potsdam</lido:appellationValue>
+                        <lido:appellationValue xml:lang="es">Potsdam</lido:appellationValue>
+                        <lido:appellationValue xml:lang="fa">پوتسدام</lido:appellationValue>
+                        <lido:appellationValue xml:lang="fi">Potsdam</lido:appellationValue>
+                        <lido:appellationValue xml:lang="fr">Potsdam</lido:appellationValue>
+                        <lido:appellationValue xml:lang="he">פוטסדאם</lido:appellationValue>
+                        <lido:appellationValue xml:lang="hi">पॉट्सडैम</lido:appellationValue>
+                        <lido:appellationValue xml:lang="hu">Potsdam</lido:appellationValue>
+                        <lido:appellationValue xml:lang="id">Potsdam</lido:appellationValue>
+                        <lido:appellationValue xml:lang="it">Potsdam</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ja">ポツダム</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ka">პოტსდამი</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ko">포츠담</lido:appellationValue>
+                        <lido:appellationValue xml:lang="nl">Potsdam</lido:appellationValue>
+                        <lido:appellationValue xml:lang="pl">Poczdam</lido:appellationValue>
+                        <lido:appellationValue xml:lang="pt">Potsdam</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ru">Потсдам</lido:appellationValue>
+                        <lido:appellationValue xml:lang="sv">Potsdam</lido:appellationValue>
+                        <lido:appellationValue xml:lang="sw">Potsdam</lido:appellationValue>
+                        <lido:appellationValue xml:lang="th">พ็อทซ์ดัม</lido:appellationValue>
+                        <lido:appellationValue xml:lang="tr">Potsdam</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ur">پاٹسڈیم</lido:appellationValue>
+                        <lido:appellationValue xml:lang="vi">Potsdam</lido:appellationValue>
+                        <lido:appellationValue xml:lang="zh">波茨坦</lido:appellationValue>
+                     </lido:namePlaceSet>
+                     <lido:gml>
+                        <gml:Point srsName="EPSG:4326">
+                           <gml:pos>52.400001525879 13.066666603088</gml:pos>
+                        </gml:Point>
+                     </lido:gml>
+                  </lido:place>
+               </lido:eventPlace>
+               <lido:eventMaterialsTech>
+                  <lido:displayMaterialsTech>Messing, Stahl, Emaille, Glas; Feuervergoldung, Feuerversilberung</lido:displayMaterialsTech>
+               </lido:eventMaterialsTech>
+            </lido:event>
+         </lido:eventSet>
+         <lido:eventSet>
+            <lido:displayEvent>Versteigert</lido:displayEvent>
+            <lido:event>
+               <lido:eventType>
+                  <lido:conceptID lido:type="uri">http://terminology.lido-schema.org/lido00005</lido:conceptID>
+                  <lido:term lido:addedSearchTerm="no">Versteigert</lido:term>
+               </lido:eventType>
+               <lido:eventActor>
+                  <lido:displayActorInRole>Rudolph Lepke’s Kunst-Auctions-Haus</lido:displayActorInRole>
+                  <lido:actorInRole>
+                     <lido:actor>
+                        <lido:actorID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Rudolph_Lepke%E2%80%99s_Kunst-Auctions-Haus</lido:actorID>
+                        <lido:actorID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/5051643-7</lido:actorID>
+                        <lido:actorID lido:source="viaf" lido:type="uri">https://viaf.org/viaf/141084969</lido:actorID>
+                        <lido:actorID lido:source="bnf" lido:type="uri">https://catalogue.bnf.fr/ark:/12148/cb150080959</lido:actorID>
+                        <lido:actorID lido:source="loc" lido:type="uri">http://id.loc.gov/authorities/names/no90022486</lido:actorID>
+                        <lido:actorID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q20054452</lido:actorID>
+                        <lido:actorID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/persinst/32985</lido:actorID>
+                        <lido:nameActorSet>
+                           <lido:appellationValue>Rudolph Lepke’s Kunst-Auctions-Haus</lido:appellationValue>
+                           <lido:appellationValue xml:lang="en">Rudolph Lepke’s Kunst-Auctions-Haus</lido:appellationValue>
+                        </lido:nameActorSet>
+                     </lido:actor>
+                  </lido:actorInRole>
+               </lido:eventActor>
+               <lido:eventDate>
+                  <lido:displayDate>1918</lido:displayDate>
+                  <lido:displayDate xml:lang="ar">1918</lido:displayDate>
+                  <lido:displayDate xml:lang="en">1918</lido:displayDate>
+                  <lido:displayDate xml:lang="es">1918</lido:displayDate>
+                  <lido:displayDate xml:lang="fa">1918</lido:displayDate>
+                  <lido:displayDate xml:lang="fr">1918</lido:displayDate>
+                  <lido:displayDate xml:lang="hu">1918</lido:displayDate>
+                  <lido:displayDate xml:lang="id">1918</lido:displayDate>
+                  <lido:displayDate xml:lang="it">1918</lido:displayDate>
+                  <lido:displayDate xml:lang="ja">1918年</lido:displayDate>
+                  <lido:displayDate xml:lang="ka">1918</lido:displayDate>
+                  <lido:displayDate xml:lang="ko">1918년</lido:displayDate>
+                  <lido:displayDate xml:lang="pl">1918</lido:displayDate>
+                  <lido:displayDate xml:lang="pt">1918</lido:displayDate>
+                  <lido:displayDate xml:lang="ro">1918</lido:displayDate>
+                  <lido:displayDate xml:lang="ru">1918</lido:displayDate>
+                  <lido:displayDate xml:lang="ta">1918</lido:displayDate>
+                  <lido:displayDate xml:lang="tl">1918</lido:displayDate>
+                  <lido:displayDate xml:lang="tr">1918</lido:displayDate>
+                  <lido:displayDate xml:lang="zh">1918年</lido:displayDate>
+                  <lido:date>
+                     <lido:earliestDate>1918</lido:earliestDate>
+                     <lido:latestDate>1918</lido:latestDate>
+                  </lido:date>
+               </lido:eventDate>
+               <lido:eventPlace>
+                  <lido:displayPlace>Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ar">برلين</lido:displayPlace>
+                  <lido:displayPlace xml:lang="bn">বার্লিন</lido:displayPlace>
+                  <lido:displayPlace xml:lang="cs">Berlín</lido:displayPlace>
+                  <lido:displayPlace xml:lang="da">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="el">Βερολίνο</lido:displayPlace>
+                  <lido:displayPlace xml:lang="en">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="es">Berlín</lido:displayPlace>
+                  <lido:displayPlace xml:lang="fa">برلین</lido:displayPlace>
+                  <lido:displayPlace xml:lang="fi">Berliini</lido:displayPlace>
+                  <lido:displayPlace xml:lang="fr">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ha">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="he">ברלין</lido:displayPlace>
+                  <lido:displayPlace xml:lang="hi">बर्लिन</lido:displayPlace>
+                  <lido:displayPlace xml:lang="hu">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="id">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="it">Berlino</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ja">ベルリン</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ka">ბერლინი</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ko">베를린</lido:displayPlace>
+                  <lido:displayPlace xml:lang="nl">Berlijn</lido:displayPlace>
+                  <lido:displayPlace xml:lang="pl">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="pt">Berlim</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ro">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ru">Берлин</lido:displayPlace>
+                  <lido:displayPlace xml:lang="sv">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="sw">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ta">பெர்லின்</lido:displayPlace>
+                  <lido:displayPlace xml:lang="th">เบอร์ลิน</lido:displayPlace>
+                  <lido:displayPlace xml:lang="tl">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="tr">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ur">برلن</lido:displayPlace>
+                  <lido:displayPlace xml:lang="vi">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="zh">柏林</lido:displayPlace>
+                  <lido:place>
+                     <lido:placeID lido:source="geonames" lido:type="uri">https://sws.geonames.org/2950159</lido:placeID>
+                     <lido:placeID lido:source="TGN" lido:type="uri">http://vocab.getty.edu/tgn/7209904</lido:placeID>
+                     <lido:placeID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4005728-8</lido:placeID>
+                     <lido:placeID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q64</lido:placeID>
+                     <lido:placeID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/place/61</lido:placeID>
+                     <lido:namePlaceSet>
+                        <lido:appellationValue>Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ar">برلين</lido:appellationValue>
+                        <lido:appellationValue xml:lang="bn">বার্লিন</lido:appellationValue>
+                        <lido:appellationValue xml:lang="cs">Berlín</lido:appellationValue>
+                        <lido:appellationValue xml:lang="da">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="el">Βερολίνο</lido:appellationValue>
+                        <lido:appellationValue xml:lang="en">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="es">Berlín</lido:appellationValue>
+                        <lido:appellationValue xml:lang="fa">برلین</lido:appellationValue>
+                        <lido:appellationValue xml:lang="fi">Berliini</lido:appellationValue>
+                        <lido:appellationValue xml:lang="fr">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ha">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="he">ברלין</lido:appellationValue>
+                        <lido:appellationValue xml:lang="hi">बर्लिन</lido:appellationValue>
+                        <lido:appellationValue xml:lang="hu">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="id">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="it">Berlino</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ja">ベルリン</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ka">ბერლინი</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ko">베를린</lido:appellationValue>
+                        <lido:appellationValue xml:lang="nl">Berlijn</lido:appellationValue>
+                        <lido:appellationValue xml:lang="pl">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="pt">Berlim</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ro">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ru">Берлин</lido:appellationValue>
+                        <lido:appellationValue xml:lang="sv">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="sw">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ta">பெர்லின்</lido:appellationValue>
+                        <lido:appellationValue xml:lang="th">เบอร์ลิน</lido:appellationValue>
+                        <lido:appellationValue xml:lang="tl">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="tr">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ur">برلن</lido:appellationValue>
+                        <lido:appellationValue xml:lang="vi">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="zh">柏林</lido:appellationValue>
+                     </lido:namePlaceSet>
+                     <lido:gml>
+                        <gml:Point srsName="EPSG:4326">
+                           <gml:pos>52.516666412354 13.383333206177</gml:pos>
+                        </gml:Point>
+                     </lido:gml>
+                  </lido:place>
+               </lido:eventPlace>
+            </lido:event>
+         </lido:eventSet>
+      </lido:eventWrap>
+      <lido:objectRelationWrap>
+         <lido:subjectWrap>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Uhr</lido:conceptID>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4164176-0</lido:conceptID>
+                     <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh85027100</lido:conceptID>
+                     <lido:conceptID lido:source="aat" lido:type="uri">http://vocab.getty.edu/aat/300041575</lido:conceptID>
+                     <lido:conceptID lido:source="grobsystematik" lido:type="uri">https://term.museum-digital.de/grobsystematik/tag/13321</lido:conceptID>
+                     <lido:conceptID lido:source="oberbegriffsdatei" lido:type="uri">https://term.museum-digital.de/Oberbegriffsdatei/tag/2036</lido:conceptID>
+                     <lido:conceptID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q376</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/1331</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Uhr</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ar">ساعة</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="bn">ঘড়ি</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="cs">Hodiny</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="da">Ur</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="el">Ρολόι</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="en">Clock</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="es">Reloj</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fa">ساعت</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fi">Kello</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fr">Horloge</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ha">agogo</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="he">שעון</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hi">घडी</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hu">óra</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="id">Jam</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="it">Orologio</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ja">時計</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ka">საათი</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ko">시계</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="nl">Klok</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pl">Zegar</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pt">Relógio</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ro">ceas</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ru">часы</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sv">Klocka</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sw">saa</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ta">கடிகாரம்</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="th">นาฬิกา</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tl">Orasan</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tr">Saat</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ur">گھنٹا</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="vi">Đồng hồ</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="zh">時鐘</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">http://d-nb.info/gnd/4127004-6</lido:conceptID>
+                     <lido:conceptID lido:source="grobsystematik" lido:type="uri">https://term.museum-digital.de/grobsystematik/tag/12840</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/10272</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Tischuhr</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="en">Table clock</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/46103</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Reiseuhr</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+         </lido:subjectWrap>
+         <lido:relatedWorksWrap>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:displayObject>Stiftung Stadtmuseum Berlin, Inv. Nr. VI 18480, David Nicolaus Albrecht, Horizontale Tischuhr im Lederetui, um 1690</lido:displayObject>
+               </lido:relatedWork>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:displayObject>Stiftung Stadtmuseum Berlin, Inv. Nr. VI 18480, David Nicolaus Albrecht, Horizontale Tischuhr im Lederetui, um 1690</lido:displayObject>
+                  <lido:object>
+                     <lido:objectWebResource>https://berlin.museum-digital.de/index.php?t=objekt&amp;oges=86355</lido:objectWebResource>
+                     <lido:objectID lido:type="local">DE-MUS-061525/86355</lido:objectID>
+                  </lido:object>
+               </lido:relatedWork>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:displayObject>Wollenweber, Johann, 1768: Acta des Musquetier Wollenweber vom Regt: Prinz von Preußen, Gesuch einer Concession, zur Treibung seiner erlernten Uhrmacher Profession betrf. de 1768, In: BLHA Potsdam, Pr. Br. Rep. 19 Potsdam (Steuerrat), Nr. 2926</lido:displayObject>
+               </lido:relatedWork>
+            </lido:relatedWorkSet>
+         </lido:relatedWorksWrap>
+      </lido:objectRelationWrap>
+   </lido:descriptiveMetadata>
+   <lido:administrativeMetadata xml:lang="de">
+      <lido:rightsWorkWrap>
+         <lido:rightsWorkSet>
+            <lido:rightsHolder>
+               <lido:legalBodyName>
+                  <lido:appellationValue>Stiftung Stadtmuseum Berlin</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:rightsHolder>
+         </lido:rightsWorkSet>
+      </lido:rightsWorkWrap>
+      <lido:recordWrap>
+         <lido:recordID lido:type="museum-digital">86348</lido:recordID>
+         <lido:recordType>
+            <lido:term lido:addedSearchTerm="no">item</lido:term>
+         </lido:recordType>
+         <lido:recordSource lido:type="dataProvider">
+            <lido:legalBodyName>
+               <lido:appellationValue>museum-digital</lido:appellationValue>
+            </lido:legalBodyName>
+            <lido:legalBodyWeblink>https://berlin.museum-digital.de/</lido:legalBodyWeblink>
+         </lido:recordSource>
+         <lido:recordSource>
+            <lido:legalBodyID lido:type="isil">DE-MUS-061525</lido:legalBodyID>
+            <lido:legalBodyName>
+               <lido:appellationValue>Stiftung Stadtmuseum Berlin</lido:appellationValue>
+            </lido:legalBodyName>
+         </lido:recordSource>
+         <lido:recordRights>
+            <lido:rightsType>
+               <lido:conceptID lido:type="uri">https://creativecommons.org/publicdomain/zero/1.0/</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no">CC 0</lido:term>
+            </lido:rightsType>
+            <lido:rightsHolder>
+               <lido:legalBodyID lido:type="isil">DE-MUS-061525</lido:legalBodyID>
+               <lido:legalBodyName>
+                  <lido:appellationValue>Stiftung Stadtmuseum Berlin</lido:appellationValue>
+               </lido:legalBodyName>
+               <lido:legalBodyWeblink>https://www.stadtmuseum.de</lido:legalBodyWeblink>
+            </lido:rightsHolder>
+            <lido:creditLine>Förderprogramm zur Digitalisierung von Objekten des kulturellen Erbes des Landes Berlin</lido:creditLine>
+         </lido:recordRights>
+         <lido:recordInfoSet>
+            <lido:recordInfoLink>https://berlin.museum-digital.de/index.php?t=objekt&amp;oges=86348</lido:recordInfoLink>
+            <lido:recordMetadataDate>2021-02-23 13:46:01</lido:recordMetadataDate>
+         </lido:recordInfoSet>
+      </lido:recordWrap>
+      <lido:resourceWrap>
+         <lido:resourceSet lido:sortorder="1">
+            <lido:resourceID lido:source="image" lido:type="local">59847</lido:resourceID>
+            <lido:resourceRepresentation lido:type="image_thumb">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/86348-ii_92238_i/johann_wollenweber_horizo/100h_johann-wollenweber-horizontale-tischuhr-um-1750-inv-nr-ii-92238-i-86348.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_preview">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/86348-ii_92238_i/johann_wollenweber_horizo/200w_johann-wollenweber-horizontale-tischuhr-um-1750-inv-nr-ii-92238-i-86348.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/86348-ii_92238_i/johann_wollenweber_horizo/johann-wollenweber-horizontale-tischuhr-um-1750-inv-nr-ii-92238-i-86348.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceType>
+               <lido:term>image</lido:term>
+            </lido:resourceType>
+            <lido:resourceRelType>
+               <lido:term>Hauptansicht</lido:term>
+            </lido:resourceRelType>
+            <lido:resourceSource lido:type="creator">
+               <lido:legalBodyName>
+                  <lido:appellationValue>Oliver Ziebe, Berlin (2020)</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:resourceSource>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+                  <lido:term>CC BY 4.0</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Stiftung Stadtmuseum Berlin</lido:appellationValue>
+                  </lido:legalBodyName>
+               </lido:rightsHolder>
+            </lido:rightsResource>
+         </lido:resourceSet>
+         <lido:resourceSet lido:sortorder="2">
+            <lido:resourceID lido:source="image" lido:type="local">59848</lido:resourceID>
+            <lido:resourceRepresentation lido:type="image_thumb">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/86348-ii_92238_i/johann_wollenweber_horizo/100h_johann-wollenweber-horizontale-tischuhr-um-1750-inv-nr-ii-92238-i-86348-2.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_preview">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/86348-ii_92238_i/johann_wollenweber_horizo/200w_johann-wollenweber-horizontale-tischuhr-um-1750-inv-nr-ii-92238-i-86348-2.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/86348-ii_92238_i/johann_wollenweber_horizo/johann-wollenweber-horizontale-tischuhr-um-1750-inv-nr-ii-92238-i-86348-2.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceType>
+               <lido:term>image</lido:term>
+            </lido:resourceType>
+            <lido:resourceSource lido:type="creator">
+               <lido:legalBodyName>
+                  <lido:appellationValue>Oliver Ziebe, Berlin (2020)</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:resourceSource>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+                  <lido:term>CC BY 4.0</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Stiftung Stadtmuseum Berlin</lido:appellationValue>
+                  </lido:legalBodyName>
+               </lido:rightsHolder>
+            </lido:rightsResource>
+         </lido:resourceSet>
+         <lido:resourceSet lido:sortorder="3">
+            <lido:resourceID lido:source="image" lido:type="local">59849</lido:resourceID>
+            <lido:resourceRepresentation lido:type="image_thumb">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/86348-ii_92238_i/johann_wollenweber_horizo/100h_johann-wollenweber-horizontale-tischuhr-um-1750-inv-nr-ii-92238-i-86348-3.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_preview">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/86348-ii_92238_i/johann_wollenweber_horizo/200w_johann-wollenweber-horizontale-tischuhr-um-1750-inv-nr-ii-92238-i-86348-3.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/86348-ii_92238_i/johann_wollenweber_horizo/johann-wollenweber-horizontale-tischuhr-um-1750-inv-nr-ii-92238-i-86348-3.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceType>
+               <lido:term>image</lido:term>
+            </lido:resourceType>
+            <lido:resourceSource lido:type="creator">
+               <lido:legalBodyName>
+                  <lido:appellationValue>Oliver Ziebe, Berlin (2020)</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:resourceSource>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+                  <lido:term>CC BY 4.0</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Stiftung Stadtmuseum Berlin</lido:appellationValue>
+                  </lido:legalBodyName>
+               </lido:rightsHolder>
+            </lido:rightsResource>
+         </lido:resourceSet>
+         <lido:resourceSet lido:sortorder="4">
+            <lido:resourceID lido:source="image" lido:type="local">59850</lido:resourceID>
+            <lido:resourceRepresentation lido:type="image_thumb">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/86348-ii_92238_i/johann_wollenweber_horizo/100h_johann-wollenweber-horizontale-tischuhr-um-1750-inv-nr-ii-92238-i-86348-4.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_preview">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/86348-ii_92238_i/johann_wollenweber_horizo/200w_johann-wollenweber-horizontale-tischuhr-um-1750-inv-nr-ii-92238-i-86348-4.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/86348-ii_92238_i/johann_wollenweber_horizo/johann-wollenweber-horizontale-tischuhr-um-1750-inv-nr-ii-92238-i-86348-4.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceType>
+               <lido:term>image</lido:term>
+            </lido:resourceType>
+            <lido:resourceSource lido:type="creator">
+               <lido:legalBodyName>
+                  <lido:appellationValue>Oliver Ziebe, Berlin (2020)</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:resourceSource>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+                  <lido:term>CC BY 4.0</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Stiftung Stadtmuseum Berlin</lido:appellationValue>
+                  </lido:legalBodyName>
+               </lido:rightsHolder>
+            </lido:rightsResource>
+         </lido:resourceSet>
+         <lido:resourceSet lido:sortorder="5">
+            <lido:resourceID lido:source="image" lido:type="local">59851</lido:resourceID>
+            <lido:resourceRepresentation lido:type="image_thumb">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/86348-ii_92238_i/johann_wollenweber_horizo/100h_johann-wollenweber-horizontale-tischuhr-um-1750-inv-nr-ii-92238-i-86348-5.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_preview">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/86348-ii_92238_i/johann_wollenweber_horizo/200w_johann-wollenweber-horizontale-tischuhr-um-1750-inv-nr-ii-92238-i-86348-5.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/86348-ii_92238_i/johann_wollenweber_horizo/johann-wollenweber-horizontale-tischuhr-um-1750-inv-nr-ii-92238-i-86348-5.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceType>
+               <lido:term>image</lido:term>
+            </lido:resourceType>
+            <lido:resourceSource lido:type="creator">
+               <lido:legalBodyName>
+                  <lido:appellationValue>Oliver Ziebe, Berlin (2020)</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:resourceSource>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+                  <lido:term>CC BY 4.0</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Stiftung Stadtmuseum Berlin</lido:appellationValue>
+                  </lido:legalBodyName>
+               </lido:rightsHolder>
+            </lido:rightsResource>
+         </lido:resourceSet>
+         <lido:resourceSet lido:sortorder="6">
+            <lido:resourceID lido:source="image" lido:type="local">59852</lido:resourceID>
+            <lido:resourceRepresentation lido:type="image_thumb">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/86348-ii_92238_i/johann_wollenweber_horizo/100h_johann-wollenweber-horizontale-tischuhr-um-1750-inv-nr-ii-92238-i-86348-6.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_preview">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/86348-ii_92238_i/johann_wollenweber_horizo/200w_johann-wollenweber-horizontale-tischuhr-um-1750-inv-nr-ii-92238-i-86348-6.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/86348-ii_92238_i/johann_wollenweber_horizo/johann-wollenweber-horizontale-tischuhr-um-1750-inv-nr-ii-92238-i-86348-6.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceType>
+               <lido:term>image</lido:term>
+            </lido:resourceType>
+            <lido:resourceSource lido:type="creator">
+               <lido:legalBodyName>
+                  <lido:appellationValue>Oliver Ziebe, Berlin (2020)</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:resourceSource>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+                  <lido:term>CC BY 4.0</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Stiftung Stadtmuseum Berlin</lido:appellationValue>
+                  </lido:legalBodyName>
+               </lido:rightsHolder>
+            </lido:rightsResource>
+         </lido:resourceSet>
+         <lido:resourceSet lido:sortorder="7">
+            <lido:resourceID lido:source="image" lido:type="local">59853</lido:resourceID>
+            <lido:resourceRepresentation lido:type="image_thumb">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/86348-ii_92238_i/johann_wollenweber_horizo/100h_johann-wollenweber-horizontale-tischuhr-um-1750-inv-nr-ii-92238-i-86348-7.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_preview">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/86348-ii_92238_i/johann_wollenweber_horizo/200w_johann-wollenweber-horizontale-tischuhr-um-1750-inv-nr-ii-92238-i-86348-7.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/86348-ii_92238_i/johann_wollenweber_horizo/johann-wollenweber-horizontale-tischuhr-um-1750-inv-nr-ii-92238-i-86348-7.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceType>
+               <lido:term>image</lido:term>
+            </lido:resourceType>
+            <lido:resourceSource lido:type="creator">
+               <lido:legalBodyName>
+                  <lido:appellationValue>Oliver Ziebe, Berlin (2020)</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:resourceSource>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+                  <lido:term>CC BY 4.0</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Stiftung Stadtmuseum Berlin</lido:appellationValue>
+                  </lido:legalBodyName>
+               </lido:rightsHolder>
+            </lido:rightsResource>
+         </lido:resourceSet>
+         <lido:resourceSet lido:sortorder="8">
+            <lido:resourceID lido:source="image" lido:type="local">59854</lido:resourceID>
+            <lido:resourceRepresentation lido:type="image_thumb">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/86348-ii_92238_i/johann_wollenweber_horizo/100h_johann-wollenweber-horizontale-tischuhr-um-1750-inv-nr-ii-92238-i-86348-8.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_preview">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/86348-ii_92238_i/johann_wollenweber_horizo/200w_johann-wollenweber-horizontale-tischuhr-um-1750-inv-nr-ii-92238-i-86348-8.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/86348-ii_92238_i/johann_wollenweber_horizo/johann-wollenweber-horizontale-tischuhr-um-1750-inv-nr-ii-92238-i-86348-8.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceType>
+               <lido:term>image</lido:term>
+            </lido:resourceType>
+            <lido:resourceSource lido:type="creator">
+               <lido:legalBodyName>
+                  <lido:appellationValue>Oliver Ziebe, Berlin (2020)</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:resourceSource>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+                  <lido:term>CC BY 4.0</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Stiftung Stadtmuseum Berlin</lido:appellationValue>
+                  </lido:legalBodyName>
+               </lido:rightsHolder>
+            </lido:rightsResource>
+         </lido:resourceSet>
+         <lido:resourceSet lido:sortorder="9">
+            <lido:resourceID lido:source="image" lido:type="local">65338</lido:resourceID>
+            <lido:resourceRepresentation lido:type="image_thumb">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/86348-ii_92238_i/johann_wollenweber_horizo/100h_johann-wollenweber-horizontale-tischuhr-um-1750-inv-nr-ii-92238-i-86348-9.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_preview">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/86348-ii_92238_i/johann_wollenweber_horizo/200w_johann-wollenweber-horizontale-tischuhr-um-1750-inv-nr-ii-92238-i-86348-9.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/86348-ii_92238_i/johann_wollenweber_horizo/johann-wollenweber-horizontale-tischuhr-um-1750-inv-nr-ii-92238-i-86348-9.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceType>
+               <lido:term>image</lido:term>
+            </lido:resourceType>
+            <lido:resourceSource lido:type="creator">
+               <lido:legalBodyName>
+                  <lido:appellationValue>Marina de Fümel, Berlin</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:resourceSource>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+                  <lido:term>CC BY 4.0</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Stiftung Stadtmuseum Berlin</lido:appellationValue>
+                  </lido:legalBodyName>
+               </lido:rightsHolder>
+            </lido:rightsResource>
+         </lido:resourceSet>
+         <lido:resourceSet lido:sortorder="10">
+            <lido:resourceID lido:source="image" lido:type="local">65339</lido:resourceID>
+            <lido:resourceRepresentation lido:type="image_thumb">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/86348-ii_92238_i/johann_wollenweber_horizo/100h_johann-wollenweber-horizontale-tischuhr-um-1750-inv-nr-ii-92238-i-86348-10.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_preview">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/86348-ii_92238_i/johann_wollenweber_horizo/200w_johann-wollenweber-horizontale-tischuhr-um-1750-inv-nr-ii-92238-i-86348-10.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/86348-ii_92238_i/johann_wollenweber_horizo/johann-wollenweber-horizontale-tischuhr-um-1750-inv-nr-ii-92238-i-86348-10.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceType>
+               <lido:term>image</lido:term>
+            </lido:resourceType>
+            <lido:resourceSource lido:type="creator">
+               <lido:legalBodyName>
+                  <lido:appellationValue>Marina de Fümel, Berlin</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:resourceSource>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+                  <lido:term>CC BY 4.0</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Stiftung Stadtmuseum Berlin</lido:appellationValue>
+                  </lido:legalBodyName>
+               </lido:rightsHolder>
+            </lido:rightsResource>
+         </lido:resourceSet>
+         <lido:resourceSet lido:sortorder="11">
+            <lido:resourceID lido:source="image" lido:type="local">65340</lido:resourceID>
+            <lido:resourceRepresentation lido:type="image_thumb">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/86348-ii_92238_i/johann_wollenweber_horizo/100h_johann-wollenweber-horizontale-tischuhr-um-1750-inv-nr-ii-92238-i-86348-11.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_preview">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/86348-ii_92238_i/johann_wollenweber_horizo/200w_johann-wollenweber-horizontale-tischuhr-um-1750-inv-nr-ii-92238-i-86348-11.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/86348-ii_92238_i/johann_wollenweber_horizo/johann-wollenweber-horizontale-tischuhr-um-1750-inv-nr-ii-92238-i-86348-11.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceType>
+               <lido:term>image</lido:term>
+            </lido:resourceType>
+            <lido:resourceSource lido:type="creator">
+               <lido:legalBodyName>
+                  <lido:appellationValue>Marina de Fümel, Berlin</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:resourceSource>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+                  <lido:term>CC BY 4.0</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Stiftung Stadtmuseum Berlin</lido:appellationValue>
+                  </lido:legalBodyName>
+               </lido:rightsHolder>
+            </lido:rightsResource>
+         </lido:resourceSet>
+         <lido:resourceSet lido:sortorder="12">
+            <lido:resourceID lido:source="image" lido:type="local">65341</lido:resourceID>
+            <lido:resourceRepresentation lido:type="image_thumb">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/86348-ii_92238_i/johann_wollenweber_horizo/100h_johann-wollenweber-horizontale-tischuhr-um-1750-inv-nr-ii-92238-i-86348-12.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_preview">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/86348-ii_92238_i/johann_wollenweber_horizo/200w_johann-wollenweber-horizontale-tischuhr-um-1750-inv-nr-ii-92238-i-86348-12.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/86348-ii_92238_i/johann_wollenweber_horizo/johann-wollenweber-horizontale-tischuhr-um-1750-inv-nr-ii-92238-i-86348-12.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceType>
+               <lido:term>image</lido:term>
+            </lido:resourceType>
+            <lido:resourceSource lido:type="creator">
+               <lido:legalBodyName>
+                  <lido:appellationValue>Marina de Fümel, Berlin</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:resourceSource>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+                  <lido:term>CC BY 4.0</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Stiftung Stadtmuseum Berlin</lido:appellationValue>
+                  </lido:legalBodyName>
+               </lido:rightsHolder>
+            </lido:rightsResource>
+         </lido:resourceSet>
+         <lido:resourceSet lido:sortorder="13">
+            <lido:resourceID lido:source="image" lido:type="local">65342</lido:resourceID>
+            <lido:resourceRepresentation lido:type="image_thumb">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/86348-ii_92238_i/johann_wollenweber_horizo/100h_johann-wollenweber-horizontale-tischuhr-um-1750-inv-nr-ii-92238-i-86348-13.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_preview">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/86348-ii_92238_i/johann_wollenweber_horizo/200w_johann-wollenweber-horizontale-tischuhr-um-1750-inv-nr-ii-92238-i-86348-13.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/86348-ii_92238_i/johann_wollenweber_horizo/johann-wollenweber-horizontale-tischuhr-um-1750-inv-nr-ii-92238-i-86348-13.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceType>
+               <lido:term>image</lido:term>
+            </lido:resourceType>
+            <lido:resourceSource lido:type="creator">
+               <lido:legalBodyName>
+                  <lido:appellationValue>Marina de Fümel, Berlin</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:resourceSource>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+                  <lido:term>CC BY 4.0</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Stiftung Stadtmuseum Berlin</lido:appellationValue>
+                  </lido:legalBodyName>
+               </lido:rightsHolder>
+            </lido:rightsResource>
+         </lido:resourceSet>
+         <lido:resourceSet lido:sortorder="14">
+            <lido:resourceID lido:source="image" lido:type="local">65343</lido:resourceID>
+            <lido:resourceRepresentation lido:type="image_thumb">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/86348-ii_92238_i/johann_wollenweber_horizo/100h_johann-wollenweber-horizontale-tischuhr-um-1750-inv-nr-ii-92238-i-86348-14.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_preview">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/86348-ii_92238_i/johann_wollenweber_horizo/200w_johann-wollenweber-horizontale-tischuhr-um-1750-inv-nr-ii-92238-i-86348-14.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/86348-ii_92238_i/johann_wollenweber_horizo/johann-wollenweber-horizontale-tischuhr-um-1750-inv-nr-ii-92238-i-86348-14.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceType>
+               <lido:term>image</lido:term>
+            </lido:resourceType>
+            <lido:resourceSource lido:type="creator">
+               <lido:legalBodyName>
+                  <lido:appellationValue>Marina de Fümel, Berlin</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:resourceSource>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+                  <lido:term>CC BY 4.0</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Stiftung Stadtmuseum Berlin</lido:appellationValue>
+                  </lido:legalBodyName>
+               </lido:rightsHolder>
+            </lido:rightsResource>
+         </lido:resourceSet>
+         <lido:resourceSet lido:sortorder="15">
+            <lido:resourceID lido:source="image" lido:type="local">65344</lido:resourceID>
+            <lido:resourceRepresentation lido:type="image_thumb">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/86348-ii_92238_i/johann_wollenweber_horizo/100h_johann-wollenweber-horizontale-tischuhr-um-1750-inv-nr-ii-92238-i-86348-15.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_preview">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/86348-ii_92238_i/johann_wollenweber_horizo/200w_johann-wollenweber-horizontale-tischuhr-um-1750-inv-nr-ii-92238-i-86348-15.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/86348-ii_92238_i/johann_wollenweber_horizo/johann-wollenweber-horizontale-tischuhr-um-1750-inv-nr-ii-92238-i-86348-15.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceType>
+               <lido:term>image</lido:term>
+            </lido:resourceType>
+            <lido:resourceSource lido:type="creator">
+               <lido:legalBodyName>
+                  <lido:appellationValue>Marina de Fümel, Berlin</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:resourceSource>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+                  <lido:term>CC BY 4.0</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Stiftung Stadtmuseum Berlin</lido:appellationValue>
+                  </lido:legalBodyName>
+               </lido:rightsHolder>
+            </lido:rightsResource>
+         </lido:resourceSet>
+         <lido:resourceSet lido:sortorder="16">
+            <lido:resourceID lido:source="image" lido:type="local">65345</lido:resourceID>
+            <lido:resourceRepresentation lido:type="image_thumb">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/86348-ii_92238_i/johann_wollenweber_horizo/100h_johann-wollenweber-horizontale-tischuhr-um-1750-inv-nr-ii-92238-i-86348-16.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_preview">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/86348-ii_92238_i/johann_wollenweber_horizo/200w_johann-wollenweber-horizontale-tischuhr-um-1750-inv-nr-ii-92238-i-86348-16.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/86348-ii_92238_i/johann_wollenweber_horizo/johann-wollenweber-horizontale-tischuhr-um-1750-inv-nr-ii-92238-i-86348-16.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceType>
+               <lido:term>image</lido:term>
+            </lido:resourceType>
+            <lido:resourceSource lido:type="creator">
+               <lido:legalBodyName>
+                  <lido:appellationValue>Marina de Fümel, Berlin</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:resourceSource>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+                  <lido:term>CC BY 4.0</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Stiftung Stadtmuseum Berlin</lido:appellationValue>
+                  </lido:legalBodyName>
+               </lido:rightsHolder>
+            </lido:rightsResource>
+         </lido:resourceSet>
+      </lido:resourceWrap>
+   </lido:administrativeMetadata>
+</lido:lido>
+

@@ -1,0 +1,483 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lido:lido xmlns:lido="http://www.lido-schema.org"
+           xmlns:xalan="http://xml.apache.org/xalan">
+   <lido:lidoRecID lido:source="https://berlin.museum-digital.de/index.php?t=institution&amp;instnr=26"
+                   lido:type="local">ddb_oid1612959125221_66737</lido:lidoRecID>
+   <lido:descriptiveMetadata xml:lang="de">
+      <lido:objectClassificationWrap>
+         <lido:objectWorkTypeWrap>
+            <lido:objectWorkType>
+               <lido:term lido:addedSearchTerm="no">Planfilm-Negativ</lido:term>
+            </lido:objectWorkType>
+         </lido:objectWorkTypeWrap>
+         <lido:classificationWrap>
+            <lido:classification lido:type="Sammlung">
+               <lido:conceptID lido:source="local" lido:type="collection_id">605</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no">Die Wohnung der Fotografin G. Schimpf</lido:term>
+            </lido:classification>
+         </lido:classificationWrap>
+      </lido:objectClassificationWrap>
+      <lido:objectIdentificationWrap>
+         <lido:titleWrap>
+            <lido:titleSet>
+               <lido:appellationValue lido:pref="preferred">Fotografie Zimmer von Gerda Schimpf (1913-2014) (2)</lido:appellationValue>
+            </lido:titleSet>
+         </lido:titleWrap>
+         <lido:repositoryWrap>
+            <lido:repositorySet lido:type="current">
+               <lido:repositoryName>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Gerda Schimpf Fotoarchiv</lido:appellationValue>
+                  </lido:legalBodyName>
+                  <lido:legalBodyWeblink>https://gerda-schimpf-fotoarchiv.com</lido:legalBodyWeblink>
+               </lido:repositoryName>
+               <lido:workID lido:type="inventory number">1_053</lido:workID>
+               <lido:repositoryLocation>
+                  <lido:namePlaceSet>
+                     <lido:appellationValue>Berlin</lido:appellationValue>
+                  </lido:namePlaceSet>
+                  <lido:gml/>
+               </lido:repositoryLocation>
+            </lido:repositorySet>
+         </lido:repositoryWrap>
+         <lido:objectDescriptionWrap>
+            <lido:objectDescriptionSet>
+               <lido:descriptiveNoteValue>Schwarzweißfotografie, Innenaufnahme, 1950er Jahre&lt;br&gt;
+&lt;br&gt;
+Sitzecke eines Zimmers mit Balkonfenster. Rechts entlang der Wand steht eine, mit schwarzem Stoff bezogene Sitzcouch mit Rückenlehne. Davor steht ein kleiner heller Tisch mit zwei leichten Sesseln (schwarzes Rohr, heller Stoffbezug), rechts mit hoher Lehne, Kissen, Armlehnen. Auf dem Tisch eine kleine Schale. Im Vordergrund steht rechts, quer vor dem Sofa ein kleines schwarzes Regal mit Büchern. Auf dem Regal steht links ein Gummibaum, eine kleine Lampe mit rundem weißen Papierschirm, daneben ein schwarzes Telefon mit Wählscheibe. Davor ein heller Papierkorb aus gedrehtem Bast. &lt;br&gt;
+&lt;br&gt;
+Links steht an der Wand ein hoher Bücherschrank mit offenem Regal aus dunklem Holz, ganz links ein Regal mit Vorhang. Links daneben liegt ein großer Stapel Zeitschriften. Davor ein Tischchen mit Kacheloberfläche und Vase. Links neben dem Zeitungsstapel eine kleine schwarze Fußbank, auf der eine Kamera im Futteral liegt.&lt;br&gt;
+&lt;br&gt;
+Im Hintergrund befindet sich eine Balkontüre, Gardinen, rechts und links, schwarze Stores, bis zum Boden reichend. Vor der Balkontüre steht ein kleines Tischchen mit Vase mit Zweigen und einer Glasschale. Links gibt es eine Stehlampe mit weißem Schirm. Rechts neben der Balkontüre hängt ein Röhrenheizkörper an der Wand. Darüber befindet sich auf Stoff, ein historisches Pergament in lateinischer Sprache. Rechts hängt ein kleines Gemälde von Karl Hofer. Über dem Sofa hängt mittig, ein aufgezogenes Ausstellungsplakat mit einer Grafik von Braque, von 1953. &lt;br&gt;
+&lt;br&gt;
+Auf dem hellen Parkettboden liegt unter dem Tisch ein mittelgroßer, schlicht wirkender Teppich.&lt;br&gt;
+&lt;br&gt;
+Bes. Merkmal: Die Aufnahme ist nicht signiert, sicher stammt sie von der Fotografin Gerda Schimpf selbst.&lt;br&gt;
+&lt;br&gt;
+Ch. K.</lido:descriptiveNoteValue>
+               <lido:sourceDescriptiveNote>Gerda Schimpf Fotoarchiv</lido:sourceDescriptiveNote>
+            </lido:objectDescriptionSet>
+         </lido:objectDescriptionWrap>
+         <lido:objectMeasurementsWrap>
+            <lido:objectMeasurementsSet>
+               <lido:displayObjectMeasurements>Höhe: 13 cm, Breite: 18 cm</lido:displayObjectMeasurements>
+               <lido:objectMeasurements>
+                  <lido:measurementsSet>
+                     <lido:measurementType>width</lido:measurementType>
+                     <lido:measurementUnit>cm</lido:measurementUnit>
+                     <lido:measurementValue>18</lido:measurementValue>
+                  </lido:measurementsSet>
+                  <lido:measurementsSet>
+                     <lido:measurementType>height</lido:measurementType>
+                     <lido:measurementUnit>cm</lido:measurementUnit>
+                     <lido:measurementValue>13</lido:measurementValue>
+                  </lido:measurementsSet>
+               </lido:objectMeasurements>
+            </lido:objectMeasurementsSet>
+         </lido:objectMeasurementsWrap>
+      </lido:objectIdentificationWrap>
+      <lido:eventWrap>
+         <lido:eventSet>
+            <lido:displayEvent>Aufgenommen</lido:displayEvent>
+            <lido:event>
+               <lido:eventID lido:type="local">408206</lido:eventID>
+               <lido:eventType>
+                  <lido:conceptID lido:type="uri">https://event-types.museum-digital.org/10</lido:conceptID>
+                  <lido:term lido:addedSearchTerm="no">Aufgenommen</lido:term>
+               </lido:eventType>
+               <lido:eventName>
+                  <lido:appellationValue>Aufgenommen --- Objekt 66737</lido:appellationValue>
+               </lido:eventName>
+               <lido:eventActor>
+                  <lido:displayActorInRole>Gerda Schimpf (1913-2014)</lido:displayActorInRole>
+                  <lido:actorInRole>
+                     <lido:actor>
+                        <lido:actorID lido:source="gnd" lido:type="uri">http://d-nb.info/gnd/1131575903</lido:actorID>
+                        <lido:actorID lido:source="viaf" lido:type="uri">https://viaf.org/viaf/2653149489090493810007</lido:actorID>
+                        <lido:actorID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/persinst/42576</lido:actorID>
+                        <lido:nameActorSet>
+                           <lido:appellationValue>Schimpf, Gerda</lido:appellationValue>
+                        </lido:nameActorSet>
+                        <lido:vitalDatesActor>
+                           <lido:earliestDate>1913</lido:earliestDate>
+                           <lido:latestDate>2014</lido:latestDate>
+                        </lido:vitalDatesActor>
+                     </lido:actor>
+                  </lido:actorInRole>
+               </lido:eventActor>
+               <lido:eventDate>
+                  <lido:displayDate>1950-1959</lido:displayDate>
+                  <lido:displayDate xml:lang="ar">1950-1959</lido:displayDate>
+                  <lido:displayDate xml:lang="en">1950s</lido:displayDate>
+                  <lido:displayDate xml:lang="es">1950-1959</lido:displayDate>
+                  <lido:displayDate xml:lang="fa">دهه 1950</lido:displayDate>
+                  <lido:displayDate xml:lang="fr">Années 1950</lido:displayDate>
+                  <lido:displayDate xml:lang="hu">1950-es évek</lido:displayDate>
+                  <lido:displayDate xml:lang="id">Tahun 1950-an</lido:displayDate>
+                  <lido:displayDate xml:lang="it">1950s</lido:displayDate>
+                  <lido:displayDate xml:lang="ja">1950年代</lido:displayDate>
+                  <lido:displayDate xml:lang="ka">1950-იანი წლები</lido:displayDate>
+                  <lido:displayDate xml:lang="ko">1950 년대</lido:displayDate>
+                  <lido:displayDate xml:lang="pl">1950 roku</lido:displayDate>
+                  <lido:displayDate xml:lang="pt">Década de 1950</lido:displayDate>
+                  <lido:displayDate xml:lang="ro">Anii 1950</lido:displayDate>
+                  <lido:displayDate xml:lang="ru">1950-е годы</lido:displayDate>
+                  <lido:displayDate xml:lang="ta">1950 கள்</lido:displayDate>
+                  <lido:displayDate xml:lang="tl">1950s</lido:displayDate>
+                  <lido:displayDate xml:lang="tr">1950'ler</lido:displayDate>
+                  <lido:displayDate xml:lang="zh">1950年代</lido:displayDate>
+                  <lido:date>
+                     <lido:earliestDate>1950</lido:earliestDate>
+                     <lido:latestDate>1959</lido:latestDate>
+                  </lido:date>
+               </lido:eventDate>
+               <lido:eventPlace>
+                  <lido:displayPlace>Berlin-Charlottenburg</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ar">تشارلوتنبرغ</lido:displayPlace>
+                  <lido:displayPlace xml:lang="cs">Charlottenburg</lido:displayPlace>
+                  <lido:displayPlace xml:lang="da">Charlottenburg</lido:displayPlace>
+                  <lido:displayPlace xml:lang="el">Σαρλότενμπουργκ</lido:displayPlace>
+                  <lido:displayPlace xml:lang="en">Charlottenburg</lido:displayPlace>
+                  <lido:displayPlace xml:lang="es">Charlottenburg</lido:displayPlace>
+                  <lido:displayPlace xml:lang="fa">شارلوتنبورگ</lido:displayPlace>
+                  <lido:displayPlace xml:lang="fi">Charlottenburg</lido:displayPlace>
+                  <lido:displayPlace xml:lang="fr">Berlin-Charlottenbourg</lido:displayPlace>
+                  <lido:displayPlace xml:lang="he">שרלוטנבורג</lido:displayPlace>
+                  <lido:displayPlace xml:lang="id">Berlin-Charlottenbourg</lido:displayPlace>
+                  <lido:displayPlace xml:lang="it">Charlottenburg</lido:displayPlace>
+                  <lido:displayPlace xml:lang="nl">Berlin-Charlottenburg</lido:displayPlace>
+                  <lido:displayPlace xml:lang="pl">Charlottenburg (dzielnica Berlina)</lido:displayPlace>
+                  <lido:displayPlace xml:lang="pt">Charlottenburg</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ru">Шарлоттенбург (район Берлина)</lido:displayPlace>
+                  <lido:displayPlace xml:lang="sv">Charlottenburg</lido:displayPlace>
+                  <lido:displayPlace xml:lang="tr">Charlottenburg</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ur">شارلوتنبورگ</lido:displayPlace>
+                  <lido:displayPlace xml:lang="zh">夏洛滕堡</lido:displayPlace>
+                  <lido:place>
+                     <lido:placeID lido:source="geonames" lido:type="uri">https://sws.geonames.org/2940187</lido:placeID>
+                     <lido:placeID lido:source="TGN" lido:type="uri">http://vocab.getty.edu/tgn/1004256</lido:placeID>
+                     <lido:placeID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4087306-7</lido:placeID>
+                     <lido:placeID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q162049</lido:placeID>
+                     <lido:placeID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/place/755</lido:placeID>
+                     <lido:namePlaceSet>
+                        <lido:appellationValue>Berlin-Charlottenburg</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ar">تشارلوتنبرغ</lido:appellationValue>
+                        <lido:appellationValue xml:lang="cs">Charlottenburg</lido:appellationValue>
+                        <lido:appellationValue xml:lang="da">Charlottenburg</lido:appellationValue>
+                        <lido:appellationValue xml:lang="el">Σαρλότενμπουργκ</lido:appellationValue>
+                        <lido:appellationValue xml:lang="en">Charlottenburg</lido:appellationValue>
+                        <lido:appellationValue xml:lang="es">Charlottenburg</lido:appellationValue>
+                        <lido:appellationValue xml:lang="fa">شارلوتنبورگ</lido:appellationValue>
+                        <lido:appellationValue xml:lang="fi">Charlottenburg</lido:appellationValue>
+                        <lido:appellationValue xml:lang="fr">Berlin-Charlottenbourg</lido:appellationValue>
+                        <lido:appellationValue xml:lang="he">שרלוטנבורג</lido:appellationValue>
+                        <lido:appellationValue xml:lang="id">Berlin-Charlottenbourg</lido:appellationValue>
+                        <lido:appellationValue xml:lang="it">Charlottenburg</lido:appellationValue>
+                        <lido:appellationValue xml:lang="nl">Berlin-Charlottenburg</lido:appellationValue>
+                        <lido:appellationValue xml:lang="pl">Charlottenburg (dzielnica Berlina)</lido:appellationValue>
+                        <lido:appellationValue xml:lang="pt">Charlottenburg</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ru">Шарлоттенбург (район Берлина)</lido:appellationValue>
+                        <lido:appellationValue xml:lang="sv">Charlottenburg</lido:appellationValue>
+                        <lido:appellationValue xml:lang="tr">Charlottenburg</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ur">شارلوتنبورگ</lido:appellationValue>
+                        <lido:appellationValue xml:lang="zh">夏洛滕堡</lido:appellationValue>
+                     </lido:namePlaceSet>
+                     <lido:gml/>
+                  </lido:place>
+               </lido:eventPlace>
+            </lido:event>
+         </lido:eventSet>
+         <lido:eventSet>
+            <lido:event>
+               <lido:eventType>
+                  <lido:conceptID lido:type="uri">http://terminology.lido-schema.org/lido00003</lido:conceptID>
+                  <lido:term>Event (non-specified)</lido:term>
+               </lido:eventType>
+               <lido:eventMaterialsTech>
+                  <lido:displayMaterialsTech>Negativfilm Zelluloseacetat</lido:displayMaterialsTech>
+               </lido:eventMaterialsTech>
+            </lido:event>
+         </lido:eventSet>
+      </lido:eventWrap>
+      <lido:objectRelationWrap>
+         <lido:subjectWrap>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="aat" lido:type="uri">http://vocab.getty.edu/aat/300054225</lido:conceptID>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4045895-7</lido:conceptID>
+                     <lido:conceptID lido:source="grobsystematik" lido:type="uri">https://term.museum-digital.de/grobsystematik/tag/3385</lido:conceptID>
+                     <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh00006943</lido:conceptID>
+                     <lido:conceptID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q11633</lido:conceptID>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Fotografie</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/132</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Fotografie (Methode)</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ar">تصوير</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="bn">আলোকচিত্রশিল্প</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="cs">fotografie</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="da">fotografi</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="el">φωτογραφία</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="en">Photography</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="es">fotografía</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fa">عکاسی</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fi">valokuvaus</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fr">photographie</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="he">צילום</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hi">छायाचित्र</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hu">fényképezés</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="id">fotografi</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="it">fotografia</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ja">写真術</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ka">ფოტოგრაფია</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ko">사진술</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="nl">fotografie</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pl">fotografia</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pt">fotografia</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ru">фотография</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sv">fotografi</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sw">Upigaji picha</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ta">ஒளிப்படவியல்</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="th">การถ่ายภาพ</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tl">Potograpiya</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tr">footoğrafçılık</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ur">عکاسی</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="vi">nhiếp ảnh</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="zh">摄影</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4016854-2</lido:conceptID>
+                     <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh85133365.html</lido:conceptID>
+                     <lido:conceptID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q11035</lido:conceptID>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Telefon</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/3185</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Fernsprecher</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ar">هاتف</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="bn">টেলিফোন</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="cs">Telefon</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="da">Telefon</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="el">Τηλέφωνο</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="en">Telephone</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="es">Teléfono</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fa">تلفن</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fi">Puhelin</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fr">Téléphone</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="he">טלפון</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hi">दूरभाष</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hu">telefonkészülék</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="id">Telepon</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="it">Telefono</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ja">電話機</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ka">ტელეფონი</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ko">전화</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="nl">Telefoon</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pl">Telefon</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pt">Telefone</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ru">телефон</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sv">Telefon</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sw">Simu</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ta">தொலைபேசி</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="th">เครื่องโทรศัพท์</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tl">Telepono</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tr">Telefon</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ur">ہاتف</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="vi">điện thoại</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="zh">电话</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="aat" lido:type="uri">http://vocab.getty.edu/aat/300165847</lido:conceptID>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">http://d-nb.info/gnd/4125571-9</lido:conceptID>
+                     <lido:conceptID lido:source="grobsystematik" lido:type="uri">https://term.museum-digital.de/grobsystematik/tag/9507</lido:conceptID>
+                     <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh85121324.html</lido:conceptID>
+                     <lido:conceptID lido:source="moebeltypologie" lido:type="uri">https://term.museum-digital.de/moebel/tag/25</lido:conceptID>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">http://de.wikipedia.org/wiki/Regal_(Möbelstück)</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/3556</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Regal</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="aat" lido:type="uri">http://vocab.getty.edu/aat/300004044</lido:conceptID>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4190829-6</lido:conceptID>
+                     <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh90000997</lido:conceptID>
+                     <lido:conceptID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q180516</lido:conceptID>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Zimmer</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/8812</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Zimmer</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ar">غرفة</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="cs">Místnost</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="da">Rum</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="en">Room</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="es">Habitación</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fa">غرفه</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fi">Huone</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fr">Salle</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ha">Daki</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="he">חדר</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hi">कमरा</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hu">szoba</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="id">Ruang</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="it">Stanza</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ja">部屋</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ka">ოთახი</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ko">방</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="nl">Kamer</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pl">Pokój</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pt">Quarto</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ro">cameră</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ru">комната</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sv">Sal</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ta">அறை</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="th">ห้อง</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tl">Silid</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tr">Oda</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ur">کمرہ</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="vi">phòng</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="zh">房間</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="aat" lido:type="uri">http://vocab.getty.edu/aat/300038634</lido:conceptID>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4181725-4</lido:conceptID>
+                     <lido:conceptID lido:source="grobsystematik" lido:type="uri">https://term.museum-digital.de/grobsystematik/tag/11367</lido:conceptID>
+                     <lido:conceptID lido:source="iconclass" lido:type="uri">http://iconclass.org/rkd/41A722/</lido:conceptID>
+                     <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh94004016</lido:conceptID>
+                     <lido:conceptID lido:source="moebeltypologie" lido:type="uri">https://term.museum-digital.de/moebel/tag/243</lido:conceptID>
+                     <lido:conceptID lido:source="oberbegriffsdatei" lido:type="uri">https://term.museum-digital.de/oberbegriffsdatei/tag/363</lido:conceptID>
+                     <lido:conceptID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q131514</lido:conceptID>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Sofa</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/9896</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Sofa</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ar">أريكة</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="cs">Gauč</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="da">Sofa</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="el">Καναπές</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="en">Couch</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="es">Sofá</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fa">کاناپه</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fi">Sohva</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fr">Canapé</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="he">ספה</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hi">सोफा</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="id">Sofa</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="it">Divano</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ja">ソファ</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ko">소파</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="nl">Bankstel</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pl">Sofa</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pt">Sofá</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ro">Canapea</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ru">диван</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sv">Soffa</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sw">Sofa</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ta">சாய்வு இருக்கை</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="th">โซฟา</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tl">Sopa</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tr">Kanepe</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ur">صوفہ</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="vi">Ghế sofa</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="zh">沙發</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/89527</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Sitzecke</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+         </lido:subjectWrap>
+      </lido:objectRelationWrap>
+   </lido:descriptiveMetadata>
+   <lido:administrativeMetadata xml:lang="de">
+      <lido:rightsWorkWrap>
+         <lido:rightsWorkSet>
+            <lido:rightsHolder>
+               <lido:legalBodyName>
+                  <lido:appellationValue>Gerda Schimpf Fotoarchiv</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:rightsHolder>
+         </lido:rightsWorkSet>
+      </lido:rightsWorkWrap>
+      <lido:recordWrap>
+         <lido:recordID lido:type="museum-digital">66737</lido:recordID>
+         <lido:recordType>
+            <lido:term lido:addedSearchTerm="no">item</lido:term>
+         </lido:recordType>
+         <lido:recordSource lido:type="dataProvider">
+            <lido:legalBodyName>
+               <lido:appellationValue>museum-digital</lido:appellationValue>
+            </lido:legalBodyName>
+            <lido:legalBodyWeblink>https://berlin.museum-digital.de/</lido:legalBodyWeblink>
+         </lido:recordSource>
+         <lido:recordSource>
+            <lido:legalBodyName>
+               <lido:appellationValue>Gerda Schimpf Fotoarchiv</lido:appellationValue>
+            </lido:legalBodyName>
+         </lido:recordSource>
+         <lido:recordRights>
+            <lido:rightsType>
+               <lido:conceptID lido:type="uri">https://creativecommons.org/publicdomain/zero/1.0/</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no">CC 0</lido:term>
+            </lido:rightsType>
+            <lido:rightsHolder>
+               <lido:legalBodyName>
+                  <lido:appellationValue>Gerda Schimpf Fotoarchiv</lido:appellationValue>
+               </lido:legalBodyName>
+               <lido:legalBodyWeblink>https://gerda-schimpf-fotoarchiv.com</lido:legalBodyWeblink>
+            </lido:rightsHolder>
+            <lido:creditLine>Förderprogramm zur Digitalisierung von Objekten des kulturellen Erbes des Landes Berlin</lido:creditLine>
+         </lido:recordRights>
+         <lido:recordInfoSet>
+            <lido:recordInfoLink>https://berlin.museum-digital.de/index.php?t=objekt&amp;oges=66737</lido:recordInfoLink>
+            <lido:recordMetadataDate>2021-05-10 13:20:52</lido:recordMetadataDate>
+         </lido:recordInfoSet>
+      </lido:recordWrap>
+      <lido:resourceWrap>
+         <lido:resourceSet lido:sortorder="1">
+            <lido:resourceID lido:source="image" lido:type="local">49278</lido:resourceID>
+            <lido:resourceRepresentation lido:type="image_thumb">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/26/66737-1_053/fotografie_schimpf_gerda/100h_fotografie-schimpf-gerda-66737.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_preview">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/26/66737-1_053/fotografie_schimpf_gerda/200w_fotografie-schimpf-gerda-66737.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="Provided image">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/26/66737-1_053/fotografie_schimpf_gerda/fotografie-schimpf-gerda-66737.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceType>
+               <lido:term lido:addedSearchTerm="no">image</lido:term>
+            </lido:resourceType>
+            <lido:resourceRelType>
+               <lido:term lido:addedSearchTerm="no">Hauptansicht</lido:term>
+            </lido:resourceRelType>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+                  <lido:term lido:addedSearchTerm="no">CC BY</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Gerda Schimpf Fotoarchiv</lido:appellationValue>
+                  </lido:legalBodyName>
+               </lido:rightsHolder>
+            </lido:rightsResource>
+         </lido:resourceSet>
+      </lido:resourceWrap>
+   </lido:administrativeMetadata>
+</lido:lido>
+

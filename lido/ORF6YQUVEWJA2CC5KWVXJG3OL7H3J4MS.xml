@@ -1,0 +1,1618 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lido:lido xmlns:gml="http://www.opengis.net/gml"
+           xmlns:lido="http://www.lido-schema.org"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <lido:lidoRecID lido:source="https://berlin.museum-digital.de/index.php?t=institution&amp;instnr=21"
+                   lido:type="local">DE-MUS-061525/86337</lido:lidoRecID>
+   <lido:descriptiveMetadata xml:lang="de">
+      <lido:objectClassificationWrap>
+         <lido:objectWorkTypeWrap>
+            <lido:objectWorkType>
+               <lido:conceptID lido:source="gnd" lido:type="uri">http://d-nb.info/gnd/4164176-0</lido:conceptID>
+               <lido:conceptID lido:source="grobsystematik" lido:type="uri">https://term.museum-digital.de/grobsystematik/tag/13321</lido:conceptID>
+               <lido:conceptID lido:source="oberbegriffsdatei" lido:type="uri">https://term.museum-digital.de/oberbegriffsdatei/tag/2036</lido:conceptID>
+               <lido:conceptID lido:source="aat" lido:type="uri">http://vocab.getty.edu/aat/300041575</lido:conceptID>
+               <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh85027100</lido:conceptID>
+               <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/1331</lido:conceptID>
+               <lido:term>Uhr</lido:term>
+            </lido:objectWorkType>
+         </lido:objectWorkTypeWrap>
+         <lido:classificationWrap>
+            <lido:classification lido:type="Sammlung">
+               <lido:conceptID lido:source="local" lido:type="collection_id">624</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no">Musikaliensammlung</lido:term>
+            </lido:classification>
+         </lido:classificationWrap>
+      </lido:objectClassificationWrap>
+      <lido:objectIdentificationWrap>
+         <lido:titleWrap>
+            <lido:titleSet>
+               <lido:appellationValue lido:pref="preferred">Friedrich Wilhelm Lieder, Astronomische Bodenstanduhr mit Flötenwerk, 1806, Inv. Nr. II 61/160 J</lido:appellationValue>
+            </lido:titleSet>
+         </lido:titleWrap>
+         <lido:inscriptionsWrap>
+            <lido:inscriptions>
+               <lido:inscriptionDescription>
+                  <lido:descriptiveNoteValue>Signatur auf dem Zifferblatt „W. Lieder a. BERLIN“, Beschriftung auf der Walze: „Ouvertüre aus Iphigenia von Gluck“</lido:descriptiveNoteValue>
+               </lido:inscriptionDescription>
+            </lido:inscriptions>
+         </lido:inscriptionsWrap>
+         <lido:repositoryWrap>
+            <lido:repositorySet lido:type="current">
+               <lido:repositoryName>
+                  <lido:legalBodyID lido:type="isil">DE-MUS-061525</lido:legalBodyID>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Stiftung Stadtmuseum Berlin</lido:appellationValue>
+                  </lido:legalBodyName>
+                  <lido:legalBodyWeblink>https://www.stadtmuseum.de</lido:legalBodyWeblink>
+               </lido:repositoryName>
+               <lido:workID lido:type="inventory number">II 61/160 J</lido:workID>
+               <lido:repositoryLocation>
+                  <lido:namePlaceSet>
+                     <lido:appellationValue>Berlin</lido:appellationValue>
+                  </lido:namePlaceSet>
+                  <lido:gml>
+                     <gml:Point srsName="EPSG:4326">
+                        <gml:pos>52.51618576 13.40692997</gml:pos>
+                     </gml:Point>
+                  </lido:gml>
+               </lido:repositoryLocation>
+            </lido:repositorySet>
+         </lido:repositoryWrap>
+         <lido:objectDescriptionWrap>
+            <lido:objectDescriptionSet>
+               <lido:descriptiveNoteValue>Das Gehäuse in streng klassizistischem Stil ist dreiteilig aufgebaut mit einem hohen, einfach gegliederten Unterkasten, dem architektonisch lebendig gestalteten Mittelgeschoss und einem würfelförmigen Uhrenaufsatz. Nur sparsam wurden feuervergoldete Dekor-Elemente aus Messing, wie Rosetten und Ranken verwendet. Die wenigen, ausgesuchten Gestaltungselemente betonen eher das vielfältige Potential dieses außergewöhnlichen Möbelstückes, das neben dem Uhrwerk ein Flötenwerk und eine reichhaltige astronomische Anzeige enthält. Die Seitenfüllungen im Unterkasten sind herausnehmbar, auf der rechten Seite ist diese verglast und zeigt das Spielwerk (siehe unten). Die Schauseite ziert eine vergoldete Gelbguss-Ranke vor schwarzem, textilem Hintergrund auf einem querrechteckigen Feld. Ein hohes Gesims trennt Unter- und Mittelkasten, das halbkreisförmig mit Ebenholz ausgefacht ist und eine Lyra aus vergoldetem Messing mit umlaufendem Sternenbogen zeigt, ein Hinweis auf das Musikwerk im Unterkasten. Darüber befindet sich das astronomische Werk, das auf einem Sockel, in einer Nische zurückgesetzt und von zwei Säulen aus Ebenholz mit vergoldeten Kapitellen eingerahmt ist. Der Aufsatz mit der Uhr bekrönt das Gehäuse.&lt;br&gt;
+Jüngere Forschungen von Frank C. Möller schreiben den Gehäuse-Entwurf dem Umkreis des Architekten Karl Friedrich Schinkel und die Ausführung dem Tischler Claus Willing zu, während die vergoldeten Gelbgussbeschläge in der Berliner Bronzewarenfabrik Werner &amp; Mieth entstanden sein könnten. Vermutlich wird auch das Flötenwerk keine Arbeit des Uhrmachers Friedrich Wilhelm Lieder gewesen sein, obwohl er in der Werkstatt des Oberhofuhrmachers Christian Möllinger ausgebildet wurde und die handwerklichen Fähigkeiten dazu erworben haben dürfte. Vielmehr hatte sich Lieder auf die astronomischen Werke spezialisiert, wie Ausstellungen mit seinen Automaten in der Berliner Akademie noch 1826 und 1842 belegen.&lt;br&gt;
+Im September 1806 zeigte er seinen „Automat[en] der Erde in Verbindung mit dem Monde“, zusammen mit zwei weiteren astronomischen Apparaturen auf der Ausstellung der Königlichen Akademie der bildenden Künste und mechanischen Wissenschaften im Königlichen Marstall auf der Neustadt (Unter den Linden). Diese kunstvolle, feinmechanische Meisterleistung, die viele Gewerke beanspruchte, konnte gewiss nur aus dem Kreis des Adels oder des vermögenden Bürgertums beauftragt worden sein. Doch nachdem napoleonische Truppen Berlin am 27. Oktober 1806 besetzt hatten und materielle Not den Alltag bestimmte, war der unbekannte Auftraggeber vermutlich nicht mehr zahlungskräftig, womöglich hatte er die Stadt sogar fluchtartig verlassen. Ein Verkauf kam nicht zu Stande. Nachdem auch eine zweite Präsentation im Mai 1808 in der Berliner Akademie, mit einer Beschreibung in französischer Sprache, keinen Käufer fand, entschloss sich Lieder seine Uhr in einer Lotterie auszuspielen. Im November 1810 vermeldete die Zeitschrift „Berlinische Nachrichten von Staats- und gelehrten Sachen“, dass die Astronomische Uhr und ein Planetarium, bei der Ziehung erster Klasse der Ausspielungslotterie am 8. November ausgespielt worden sind. Doch im April 1811 gab das „Journal für Kunst und Kunstsachen, Künsteleien und Mode“ bekannt, dass „eine sehr bedeutende Anzahl von Loosen übrig geblieben war“. So fielen der Automat und die Uhr wieder auf ihn zurück, und er bot die Uhr schließlich zu einem Preis von 1.100 Reichstalern zum Kauf an.&lt;br&gt;
+Erst 1927 tauchte die Uhr wieder auf. Der damalige Direktor des Märkischen Museums Walter Stengel entdeckte diese bei dem Berliner Antiquitätenhändler Adolf Boelenheim in der Lützowstraße 75 und erwarb die Uhr für 1.100 Mark. Allerdings war das Pfeifenwerk komplett verloren gegangen. Nur eine Walze war vorhanden, wonach das Spielwerk rekonstruiert werden konnte. (Anne Franzkowiak)&lt;br&gt;</lido:descriptiveNoteValue>
+               <lido:sourceDescriptiveNote>Stiftung Stadtmuseum Berlin</lido:sourceDescriptiveNote>
+            </lido:objectDescriptionSet>
+            <lido:objectDescriptionSet lido:type="Detailbeschreibung">
+               <lido:descriptiveNoteValue>Die Uhr besitzt ein Gehwerk, ein astronomisches Werk und ein Flötenwerk.&lt;br&gt;
+1. Das Gehwerk: Das Gehwerk ist mit einer ruhenden Ankerhemmung (Graham-Hemmung) ausgestattet und besitzt ein Kompensationspendel. Auf die Verwendung eines Schlagwerkes wurde verzichtet. Das rechteckige Vollplatinenwerk mit Gewichtsaufzug (Platinenhöhe: 18, 5 cm; Platinenbreite: 14 cm, Werkpfeilerhöhe: 6,45 cm, Platinenstärke: 0,25 cm) mit Werkpfeilern, mittig mit Wulst, zu den Platinen verjüngt, mit Ansätzen an den Platinen, ist im Uhrenkopf untergebracht. Der Werkstuhl besteht aus Holz (vermutlich Eiche, H: 2,5 cm; B: 26,8 cm; T: 16,5 cm). Von der Seiltrommel wird das Stahlseil über drei Umlenkrollen auf die linke Seite bis zur Rückwand des Uhrengehäuses geleitet, wo das Gewicht auf loser Rolle gelagert ist. Auf dem weiß emaillierten, gewölbten Zifferblatt (D: 21 cm) sind die Minuterie mit Strichen, die Fünfminuten mit stärkeren Punkten sowie arabische Viertelstundenziffern und römische Stundenanzeige angegeben. Das Uhrglas ist nicht mehr vorhanden. Die Messingzeiger für Sekunden, Minuten und Stunden waren ursprünglich vergoldet, erhalten hat sich diese Vergoldung nur auf dem Auge in der Mitte. Die Minuten- und Stundenzeiger besitzen glatte Schäfte und aufgelötete kranzförmige Spitzen.&lt;br&gt;
+2. Das astronomische Werk: Der Mechanismus zeigt die Drehung der Erde innerhalb von 24 Stunden, den jeweiligen Sonnenstand, die Punkte der Sonnenwenden und Nachtgleichen, die Mondphasen sowie das Datum mit Monatsnamen an. Die Auslösung des astronomischen Werkes erfolgt über das Uhrwerk. Das Antriebsrad des Uhrwerks greift mit seinen Zähnen in ein horizontal gelagertes Kronrad ein, welches die Drehbewegung auf das astronomische Werk weiterleitet. Das Messingplatinenwerk (H: 33,5 cm; B: 15,8 cm; Platinenstärke: 0,3 cm) mit schlichten Werkpfeilern (H: 2,4 cm) befindet sich unterhalb des Gehwerkes in Stabwerksaufbau: Die Vorderplatine hat die Form eines umgedrehten „Y“ im Vergleich zur spiegelbildlich ausgeführten Rückplatine. Der obere Teil des Räderwerkes steuert die Datumsanzeige, der mittlere die Mondphasenanzeige und der untere Teil den Sonnenstand. Die auf einem vergoldeten Säulenstumpf befestigte Erdkugel aus Metall bewegt sich innerhalb von 24 Stunden einmal um die eigene Achse. Die verschiedenen Anzeigen werden über einzelne Ringe aus Metall, die um die Erdkugel laufen, gesteuert. Am umlaufenden Mondring, mit einer kleinen Mondkugel, ist ein Zeiger befestigt, der auf einem Ziffernring am Gehäuse täglich „das Alter des Mondes“ angibt. Auf einem breiten, beweglichen Ring, der einen dunklen Wolkenhimmel zeigt, konnten Mond- und Sonnenstand wiedergegeben werden. Im „Journal für Kunst und Kunstsachen, Künsteleien und Mode“ erschien im Januar 1810 ein Beitrag, der ausdrücklich auf die Vorzüge dieses mechanischen Werkes hinwies: „Man übersieht mit einem Blick die jedesmalige Tages- und Nachtseite der Erdkugel, den Auf- und Untergang der Sonne an allen Oertern, sowie die Höhe der Sonne über den Horizont zu Mittage, ihre Abweichung oder Entfernung vom Äquator, die Jahreszeiten auf dem ganzen Erdboden, sowie die verschiedenen Zeiten des Tages […] und überhaupt ergeben sich vermittelst des angebrachten Mechanismus beinahe alle geographischen und astronomischen Probleme von selbst, so daß diese sinnliche Darstellung gewiß allen Liebhabern, deren Berufsgeschäfte das eigendliche Studium der Astronomie nicht erlauben, ein unterhaltsames Vergnügen gewähren muß.“&lt;br&gt;
+3. Das Flötenwerk: Das Spielwerk befindet sich im Unterkasten. Die symmetrisch angeordneten Pfeifen sind vor der Walze, an der Vorderseite des Gehäuses, gelagert, auf der rechten Seite die gedeckten, links die offenen Pfeifen. Die Pfeifen des Flötenwerkes waren nicht mehr vorhanden. Der Orgelbauer Alfred Lenk und der Kunstuhrmacher Oswald Schulz, der auch die fehlenden Teile des astronomischen Werkes ersetzt hat, rekonstruierten das Laufwerk. Anhand der 74 Pfeifenbohrungen auf der originalen Windlade, errechneten sie die Mensur der Pfeifen, die aus Tannen- und Zedernholz angefertigt wurden. Die ursprüngliche Tonfolge der Pfeifen wurde anhand der Notation auf der einzig erhaltenen Walze ermittelt. Den 52 Claves entsprechend enthält das Grundregister ebenso viele Pfeifen (32 gedackt, 20 ungedackt) und ein Register mit 25 Pfeifen (gedackt und ungedackt). Die Registerschaltung erfolgte über die Walze. Auf der linken Seite befinden sich zwei Schleifen der Windlade, die ursprünglich automatisch ausgelöst wurden, für den Einsatz des forte- oder piano-Registers. Der Mechanismus ist heute nicht mehr in Funktion, beide Register spielen beständig. Das Flötenwerk hat einen Tonumfang von g bis e‘‘‘ (ohne gis, gis‘, b‘ und gis‘‘‘). Der Antrieb befindet sich auf der linken Seite. Die Platine aus Messing und Stahl (H: 24,5 cm; vordere Platine B: 33,0 cm, hintere Halbplatine B: 12, cm; Platinenstärke: 0,48 cm) mit sich zur mittleren Wulst hin verjüngenden Werkpfeilern zeigt die für Berliner Fabrikate typische Bauweise mit der verkürzten Rückplatine und der daran anschließenden, außerhalb der Platinen liegenden Seiltrommel für den Aufzug des etwa 80 kg schweren Bleigewichtes. Die hölzerne Walze (D: 19,5 cm; L: 50,2 cm) ist schraubenförmig mit Messingstiften und -brücken bestiftet und auf einer runden Achse aus Stahl gelagert. Diese dreht sich sechseinhalb Mal, die seitliche Verschiebung bewirkt ein Schneckenrad. Für die gleichmäßige, niedrige Drehzahl sorgt der mit quadratischen Windflügeln ausgestattete Windfang. Das Flötenwerk ist auf ein hölzernes Basisbrett montiert, unter dem sich die Balganlage befindet. Das ursprünglich vom Uhrwerk ausgelöste Spielwerk wird gegenwärtig durch Handbetrieb, mit einem Hebel an der linken Seite in Gang gesetzt. Die Mechanik für die stündliche Auslösung ist nicht mehr vorhanden.&lt;br&gt;
+Die einzige erhaltene Walze spielt die Ouvertüre der Oper „Iphigenie in Aulis“ von Christoph Willibald Gluck (Vgl. Tonaufnahme 2020). Die Oper erlebte ihre erste Aufführung bereits am 19. April 1774 in Paris, eine zweite Fassung folgte 1775. In Deutschland erobert das Werk erst um 1800 die Bühnen nach der Weimarer Aufführung von 1800/1801. Welch große Begeisterung Glucks Musik über Jahre auslöste, belegt auch die noch 1810 von Franz Schubert vorgenommene Bearbeitung dieser Ouvertüre. Die Beliebtheit dieser Melodien zeigt sich auch anhand des erhaltenen Repertoires von Wiener Flötenuhren. Gluck hatte zudem eigens für die Flötenuhr komponiert, acht Musikstücke für die Bodenstanduhr aus der Roentgen-Werkstatt in Neuwied lieferte er an den Auftraggeber, Graf Mercy Argenteau. (Anne Franzkowiak, Franka Görike)</lido:descriptiveNoteValue>
+               <lido:sourceDescriptiveNote>Stiftung Stadtmuseum Berlin</lido:sourceDescriptiveNote>
+            </lido:objectDescriptionSet>
+         </lido:objectDescriptionWrap>
+         <lido:objectMeasurementsWrap>
+            <lido:objectMeasurementsSet>
+               <lido:displayObjectMeasurements>Gehäuse: Höhe 217,5 cm, Breite 76 cm, Tiefe 62,5 cm</lido:displayObjectMeasurements>
+            </lido:objectMeasurementsSet>
+         </lido:objectMeasurementsWrap>
+      </lido:objectIdentificationWrap>
+      <lido:eventWrap>
+         <lido:eventSet>
+            <lido:displayEvent>Hergestellt</lido:displayEvent>
+            <lido:event>
+               <lido:eventType>
+                  <lido:conceptID lido:type="uri">http://terminology.lido-schema.org/lido00007</lido:conceptID>
+                  <lido:term lido:addedSearchTerm="no">Hergestellt</lido:term>
+               </lido:eventType>
+               <lido:eventActor>
+                  <lido:displayActorInRole>Friedrich Wilhelm Lieder</lido:displayActorInRole>
+                  <lido:actorInRole>
+                     <lido:actor>
+                        <lido:actorID lido:source="edition humboldt digital" lido:type="uri">https://edition-humboldt.de/v6/H0004532</lido:actorID>
+                        <lido:actorID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/persinst/150598</lido:actorID>
+                        <lido:nameActorSet>
+                           <lido:appellationValue>Lieder, Friedrich Wilhelm</lido:appellationValue>
+                        </lido:nameActorSet>
+                     </lido:actor>
+                  </lido:actorInRole>
+               </lido:eventActor>
+               <lido:eventActor>
+                  <lido:displayActorInRole>Claus Willing (wahrscheinlich)</lido:displayActorInRole>
+                  <lido:actorInRole>
+                     <lido:actor>
+                        <lido:actorID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/persinst/164744</lido:actorID>
+                        <lido:nameActorSet>
+                           <lido:appellationValue>Willing, Claus</lido:appellationValue>
+                        </lido:nameActorSet>
+                     </lido:actor>
+                  </lido:actorInRole>
+               </lido:eventActor>
+               <lido:eventActor>
+                  <lido:displayActorInRole>Werner &amp; Mieth (wahrscheinlich)</lido:displayActorInRole>
+                  <lido:actorInRole>
+                     <lido:actor>
+                        <lido:actorID lido:source="allgemein" lido:type="uri">https://www.lightandglass.eu/2013/berichte-articles/die-bronzefabrikanten-werner-mieth-bzw-werner-und-neffen-kronleuchter-und-bronzen-im-zeitalter-schinkels/</lido:actorID>
+                        <lido:actorID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/persinst/68964</lido:actorID>
+                        <lido:nameActorSet>
+                           <lido:appellationValue>Werner &amp; Mieth</lido:appellationValue>
+                        </lido:nameActorSet>
+                     </lido:actor>
+                  </lido:actorInRole>
+               </lido:eventActor>
+               <lido:eventDate>
+                  <lido:displayDate>1806</lido:displayDate>
+                  <lido:displayDate xml:lang="ar">1806</lido:displayDate>
+                  <lido:displayDate xml:lang="en">1806</lido:displayDate>
+                  <lido:displayDate xml:lang="es">1806</lido:displayDate>
+                  <lido:displayDate xml:lang="fa">1806</lido:displayDate>
+                  <lido:displayDate xml:lang="fr">1806</lido:displayDate>
+                  <lido:displayDate xml:lang="hu">1806</lido:displayDate>
+                  <lido:displayDate xml:lang="id">1806</lido:displayDate>
+                  <lido:displayDate xml:lang="it">1806</lido:displayDate>
+                  <lido:displayDate xml:lang="ja">1806年</lido:displayDate>
+                  <lido:displayDate xml:lang="ka">1806</lido:displayDate>
+                  <lido:displayDate xml:lang="ko">1806년</lido:displayDate>
+                  <lido:displayDate xml:lang="pl">1806</lido:displayDate>
+                  <lido:displayDate xml:lang="pt">1806</lido:displayDate>
+                  <lido:displayDate xml:lang="ro">1806</lido:displayDate>
+                  <lido:displayDate xml:lang="ru">1806</lido:displayDate>
+                  <lido:displayDate xml:lang="ta">1806</lido:displayDate>
+                  <lido:displayDate xml:lang="tl">1806</lido:displayDate>
+                  <lido:displayDate xml:lang="tr">1806</lido:displayDate>
+                  <lido:displayDate xml:lang="zh">1806年</lido:displayDate>
+                  <lido:date>
+                     <lido:earliestDate>1806</lido:earliestDate>
+                     <lido:latestDate>1806</lido:latestDate>
+                  </lido:date>
+               </lido:eventDate>
+               <lido:eventPlace>
+                  <lido:displayPlace>Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ar">برلين</lido:displayPlace>
+                  <lido:displayPlace xml:lang="bn">বার্লিন</lido:displayPlace>
+                  <lido:displayPlace xml:lang="cs">Berlín</lido:displayPlace>
+                  <lido:displayPlace xml:lang="da">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="el">Βερολίνο</lido:displayPlace>
+                  <lido:displayPlace xml:lang="en">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="es">Berlín</lido:displayPlace>
+                  <lido:displayPlace xml:lang="fa">برلین</lido:displayPlace>
+                  <lido:displayPlace xml:lang="fi">Berliini</lido:displayPlace>
+                  <lido:displayPlace xml:lang="fr">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ha">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="he">ברלין</lido:displayPlace>
+                  <lido:displayPlace xml:lang="hi">बर्लिन</lido:displayPlace>
+                  <lido:displayPlace xml:lang="hu">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="id">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="it">Berlino</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ja">ベルリン</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ka">ბერლინი</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ko">베를린</lido:displayPlace>
+                  <lido:displayPlace xml:lang="nl">Berlijn</lido:displayPlace>
+                  <lido:displayPlace xml:lang="pl">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="pt">Berlim</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ro">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ru">Берлин</lido:displayPlace>
+                  <lido:displayPlace xml:lang="sv">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="sw">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ta">பெர்லின்</lido:displayPlace>
+                  <lido:displayPlace xml:lang="th">เบอร์ลิน</lido:displayPlace>
+                  <lido:displayPlace xml:lang="tl">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="tr">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ur">برلن</lido:displayPlace>
+                  <lido:displayPlace xml:lang="vi">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="zh">柏林</lido:displayPlace>
+                  <lido:place>
+                     <lido:placeID lido:source="geonames" lido:type="uri">https://sws.geonames.org/2950159</lido:placeID>
+                     <lido:placeID lido:source="TGN" lido:type="uri">http://vocab.getty.edu/tgn/7209904</lido:placeID>
+                     <lido:placeID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4005728-8</lido:placeID>
+                     <lido:placeID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q64</lido:placeID>
+                     <lido:placeID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/place/61</lido:placeID>
+                     <lido:namePlaceSet>
+                        <lido:appellationValue>Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ar">برلين</lido:appellationValue>
+                        <lido:appellationValue xml:lang="bn">বার্লিন</lido:appellationValue>
+                        <lido:appellationValue xml:lang="cs">Berlín</lido:appellationValue>
+                        <lido:appellationValue xml:lang="da">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="el">Βερολίνο</lido:appellationValue>
+                        <lido:appellationValue xml:lang="en">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="es">Berlín</lido:appellationValue>
+                        <lido:appellationValue xml:lang="fa">برلین</lido:appellationValue>
+                        <lido:appellationValue xml:lang="fi">Berliini</lido:appellationValue>
+                        <lido:appellationValue xml:lang="fr">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ha">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="he">ברלין</lido:appellationValue>
+                        <lido:appellationValue xml:lang="hi">बर्लिन</lido:appellationValue>
+                        <lido:appellationValue xml:lang="hu">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="id">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="it">Berlino</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ja">ベルリン</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ka">ბერლინი</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ko">베를린</lido:appellationValue>
+                        <lido:appellationValue xml:lang="nl">Berlijn</lido:appellationValue>
+                        <lido:appellationValue xml:lang="pl">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="pt">Berlim</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ro">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ru">Берлин</lido:appellationValue>
+                        <lido:appellationValue xml:lang="sv">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="sw">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ta">பெர்லின்</lido:appellationValue>
+                        <lido:appellationValue xml:lang="th">เบอร์ลิน</lido:appellationValue>
+                        <lido:appellationValue xml:lang="tl">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="tr">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ur">برلن</lido:appellationValue>
+                        <lido:appellationValue xml:lang="vi">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="zh">柏林</lido:appellationValue>
+                     </lido:namePlaceSet>
+                     <lido:gml>
+                        <gml:Point srsName="EPSG:4326">
+                           <gml:pos>52.516666412354 13.383333206177</gml:pos>
+                        </gml:Point>
+                     </lido:gml>
+                  </lido:place>
+               </lido:eventPlace>
+               <lido:eventMaterialsTech>
+                  <lido:displayMaterialsTech>Gehäuse: Pyramiden-Mahagoni, furniert auf Fichtenholz, Glas, Messing, Gelbguss-Dekor, feuervergoldet; Gehwerk, astronomisches Werk und Flötenwerk: Stahl, Messing, Holz, Leder, Email, erneuerte Pfeifen: Tanne, Zeder</lido:displayMaterialsTech>
+               </lido:eventMaterialsTech>
+            </lido:event>
+         </lido:eventSet>
+         <lido:eventSet>
+            <lido:displayEvent>Gekauft</lido:displayEvent>
+            <lido:event>
+               <lido:eventType>
+                  <lido:conceptID lido:type="uri">http://terminology.lido-schema.org/lido00001</lido:conceptID>
+                  <lido:term lido:addedSearchTerm="no">Gekauft</lido:term>
+               </lido:eventType>
+               <lido:eventActor>
+                  <lido:displayActorInRole>Walter Stengel (1882-1960)</lido:displayActorInRole>
+                  <lido:actorInRole>
+                     <lido:actor>
+                        <lido:actorID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Walter_Stengel</lido:actorID>
+                        <lido:actorID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/117271365</lido:actorID>
+                        <lido:actorID lido:source="viaf" lido:type="uri">https://viaf.org/viaf/89376372</lido:actorID>
+                        <lido:actorID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q2546408</lido:actorID>
+                        <lido:actorID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/persinst/150599</lido:actorID>
+                        <lido:nameActorSet>
+                           <lido:appellationValue>Stengel, Walter</lido:appellationValue>
+                           <lido:appellationValue xml:lang="en">Walter Stengel</lido:appellationValue>
+                           <lido:appellationValue xml:lang="nl">Walter Stengel</lido:appellationValue>
+                        </lido:nameActorSet>
+                        <lido:vitalDatesActor>
+                           <lido:earliestDate>1882</lido:earliestDate>
+                           <lido:latestDate>1960</lido:latestDate>
+                        </lido:vitalDatesActor>
+                     </lido:actor>
+                  </lido:actorInRole>
+               </lido:eventActor>
+               <lido:eventDate>
+                  <lido:displayDate>1927</lido:displayDate>
+                  <lido:displayDate xml:lang="ar">1927</lido:displayDate>
+                  <lido:displayDate xml:lang="en">1927</lido:displayDate>
+                  <lido:displayDate xml:lang="es">1927</lido:displayDate>
+                  <lido:displayDate xml:lang="fa">1927</lido:displayDate>
+                  <lido:displayDate xml:lang="fr">1927</lido:displayDate>
+                  <lido:displayDate xml:lang="hu">1927</lido:displayDate>
+                  <lido:displayDate xml:lang="id">1927</lido:displayDate>
+                  <lido:displayDate xml:lang="it">1927</lido:displayDate>
+                  <lido:displayDate xml:lang="ja">1927年</lido:displayDate>
+                  <lido:displayDate xml:lang="ka">1927</lido:displayDate>
+                  <lido:displayDate xml:lang="ko">1927년</lido:displayDate>
+                  <lido:displayDate xml:lang="pl">1927</lido:displayDate>
+                  <lido:displayDate xml:lang="pt">1927</lido:displayDate>
+                  <lido:displayDate xml:lang="ro">1927</lido:displayDate>
+                  <lido:displayDate xml:lang="ru">1927</lido:displayDate>
+                  <lido:displayDate xml:lang="ta">1927</lido:displayDate>
+                  <lido:displayDate xml:lang="tl">1927</lido:displayDate>
+                  <lido:displayDate xml:lang="tr">1927</lido:displayDate>
+                  <lido:displayDate xml:lang="zh">1927年</lido:displayDate>
+                  <lido:date>
+                     <lido:earliestDate>1927</lido:earliestDate>
+                     <lido:latestDate>1927</lido:latestDate>
+                  </lido:date>
+               </lido:eventDate>
+               <lido:eventPlace>
+                  <lido:displayPlace>Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ar">برلين</lido:displayPlace>
+                  <lido:displayPlace xml:lang="bn">বার্লিন</lido:displayPlace>
+                  <lido:displayPlace xml:lang="cs">Berlín</lido:displayPlace>
+                  <lido:displayPlace xml:lang="da">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="el">Βερολίνο</lido:displayPlace>
+                  <lido:displayPlace xml:lang="en">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="es">Berlín</lido:displayPlace>
+                  <lido:displayPlace xml:lang="fa">برلین</lido:displayPlace>
+                  <lido:displayPlace xml:lang="fi">Berliini</lido:displayPlace>
+                  <lido:displayPlace xml:lang="fr">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ha">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="he">ברלין</lido:displayPlace>
+                  <lido:displayPlace xml:lang="hi">बर्लिन</lido:displayPlace>
+                  <lido:displayPlace xml:lang="hu">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="id">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="it">Berlino</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ja">ベルリン</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ka">ბერლინი</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ko">베를린</lido:displayPlace>
+                  <lido:displayPlace xml:lang="nl">Berlijn</lido:displayPlace>
+                  <lido:displayPlace xml:lang="pl">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="pt">Berlim</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ro">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ru">Берлин</lido:displayPlace>
+                  <lido:displayPlace xml:lang="sv">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="sw">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ta">பெர்லின்</lido:displayPlace>
+                  <lido:displayPlace xml:lang="th">เบอร์ลิน</lido:displayPlace>
+                  <lido:displayPlace xml:lang="tl">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="tr">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ur">برلن</lido:displayPlace>
+                  <lido:displayPlace xml:lang="vi">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="zh">柏林</lido:displayPlace>
+                  <lido:place>
+                     <lido:placeID lido:source="geonames" lido:type="uri">https://sws.geonames.org/2950159</lido:placeID>
+                     <lido:placeID lido:source="TGN" lido:type="uri">http://vocab.getty.edu/tgn/7209904</lido:placeID>
+                     <lido:placeID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4005728-8</lido:placeID>
+                     <lido:placeID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q64</lido:placeID>
+                     <lido:placeID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/place/61</lido:placeID>
+                     <lido:namePlaceSet>
+                        <lido:appellationValue>Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ar">برلين</lido:appellationValue>
+                        <lido:appellationValue xml:lang="bn">বার্লিন</lido:appellationValue>
+                        <lido:appellationValue xml:lang="cs">Berlín</lido:appellationValue>
+                        <lido:appellationValue xml:lang="da">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="el">Βερολίνο</lido:appellationValue>
+                        <lido:appellationValue xml:lang="en">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="es">Berlín</lido:appellationValue>
+                        <lido:appellationValue xml:lang="fa">برلین</lido:appellationValue>
+                        <lido:appellationValue xml:lang="fi">Berliini</lido:appellationValue>
+                        <lido:appellationValue xml:lang="fr">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ha">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="he">ברלין</lido:appellationValue>
+                        <lido:appellationValue xml:lang="hi">बर्लिन</lido:appellationValue>
+                        <lido:appellationValue xml:lang="hu">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="id">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="it">Berlino</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ja">ベルリン</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ka">ბერლინი</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ko">베를린</lido:appellationValue>
+                        <lido:appellationValue xml:lang="nl">Berlijn</lido:appellationValue>
+                        <lido:appellationValue xml:lang="pl">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="pt">Berlim</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ro">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ru">Берлин</lido:appellationValue>
+                        <lido:appellationValue xml:lang="sv">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="sw">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ta">பெர்லின்</lido:appellationValue>
+                        <lido:appellationValue xml:lang="th">เบอร์ลิน</lido:appellationValue>
+                        <lido:appellationValue xml:lang="tl">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="tr">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ur">برلن</lido:appellationValue>
+                        <lido:appellationValue xml:lang="vi">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="zh">柏林</lido:appellationValue>
+                     </lido:namePlaceSet>
+                     <lido:gml>
+                        <gml:Point srsName="EPSG:4326">
+                           <gml:pos>52.516666412354 13.383333206177</gml:pos>
+                        </gml:Point>
+                     </lido:gml>
+                  </lido:place>
+               </lido:eventPlace>
+            </lido:event>
+         </lido:eventSet>
+         <lido:eventSet>
+            <lido:displayEvent>Verkauft</lido:displayEvent>
+            <lido:event>
+               <lido:eventType>
+                  <lido:conceptID lido:type="uri">http://terminology.lido-schema.org/lido00005</lido:conceptID>
+                  <lido:term lido:addedSearchTerm="no">Verkauft</lido:term>
+               </lido:eventType>
+               <lido:eventActor>
+                  <lido:displayActorInRole>Adolf Boelenheim</lido:displayActorInRole>
+                  <lido:actorInRole>
+                     <lido:actor>
+                        <lido:actorID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/persinst/150600</lido:actorID>
+                        <lido:nameActorSet>
+                           <lido:appellationValue>Boelenheim, Adolf</lido:appellationValue>
+                        </lido:nameActorSet>
+                     </lido:actor>
+                  </lido:actorInRole>
+               </lido:eventActor>
+               <lido:eventDate>
+                  <lido:displayDate>1927</lido:displayDate>
+                  <lido:displayDate xml:lang="ar">1927</lido:displayDate>
+                  <lido:displayDate xml:lang="en">1927</lido:displayDate>
+                  <lido:displayDate xml:lang="es">1927</lido:displayDate>
+                  <lido:displayDate xml:lang="fa">1927</lido:displayDate>
+                  <lido:displayDate xml:lang="fr">1927</lido:displayDate>
+                  <lido:displayDate xml:lang="hu">1927</lido:displayDate>
+                  <lido:displayDate xml:lang="id">1927</lido:displayDate>
+                  <lido:displayDate xml:lang="it">1927</lido:displayDate>
+                  <lido:displayDate xml:lang="ja">1927年</lido:displayDate>
+                  <lido:displayDate xml:lang="ka">1927</lido:displayDate>
+                  <lido:displayDate xml:lang="ko">1927년</lido:displayDate>
+                  <lido:displayDate xml:lang="pl">1927</lido:displayDate>
+                  <lido:displayDate xml:lang="pt">1927</lido:displayDate>
+                  <lido:displayDate xml:lang="ro">1927</lido:displayDate>
+                  <lido:displayDate xml:lang="ru">1927</lido:displayDate>
+                  <lido:displayDate xml:lang="ta">1927</lido:displayDate>
+                  <lido:displayDate xml:lang="tl">1927</lido:displayDate>
+                  <lido:displayDate xml:lang="tr">1927</lido:displayDate>
+                  <lido:displayDate xml:lang="zh">1927年</lido:displayDate>
+                  <lido:date>
+                     <lido:earliestDate>1927</lido:earliestDate>
+                     <lido:latestDate>1927</lido:latestDate>
+                  </lido:date>
+               </lido:eventDate>
+               <lido:eventPlace>
+                  <lido:displayPlace>Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ar">برلين</lido:displayPlace>
+                  <lido:displayPlace xml:lang="bn">বার্লিন</lido:displayPlace>
+                  <lido:displayPlace xml:lang="cs">Berlín</lido:displayPlace>
+                  <lido:displayPlace xml:lang="da">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="el">Βερολίνο</lido:displayPlace>
+                  <lido:displayPlace xml:lang="en">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="es">Berlín</lido:displayPlace>
+                  <lido:displayPlace xml:lang="fa">برلین</lido:displayPlace>
+                  <lido:displayPlace xml:lang="fi">Berliini</lido:displayPlace>
+                  <lido:displayPlace xml:lang="fr">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ha">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="he">ברלין</lido:displayPlace>
+                  <lido:displayPlace xml:lang="hi">बर्लिन</lido:displayPlace>
+                  <lido:displayPlace xml:lang="hu">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="id">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="it">Berlino</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ja">ベルリン</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ka">ბერლინი</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ko">베를린</lido:displayPlace>
+                  <lido:displayPlace xml:lang="nl">Berlijn</lido:displayPlace>
+                  <lido:displayPlace xml:lang="pl">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="pt">Berlim</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ro">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ru">Берлин</lido:displayPlace>
+                  <lido:displayPlace xml:lang="sv">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="sw">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ta">பெர்லின்</lido:displayPlace>
+                  <lido:displayPlace xml:lang="th">เบอร์ลิน</lido:displayPlace>
+                  <lido:displayPlace xml:lang="tl">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="tr">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ur">برلن</lido:displayPlace>
+                  <lido:displayPlace xml:lang="vi">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="zh">柏林</lido:displayPlace>
+                  <lido:place>
+                     <lido:placeID lido:source="geonames" lido:type="uri">https://sws.geonames.org/2950159</lido:placeID>
+                     <lido:placeID lido:source="TGN" lido:type="uri">http://vocab.getty.edu/tgn/7209904</lido:placeID>
+                     <lido:placeID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4005728-8</lido:placeID>
+                     <lido:placeID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q64</lido:placeID>
+                     <lido:placeID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/place/61</lido:placeID>
+                     <lido:namePlaceSet>
+                        <lido:appellationValue>Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ar">برلين</lido:appellationValue>
+                        <lido:appellationValue xml:lang="bn">বার্লিন</lido:appellationValue>
+                        <lido:appellationValue xml:lang="cs">Berlín</lido:appellationValue>
+                        <lido:appellationValue xml:lang="da">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="el">Βερολίνο</lido:appellationValue>
+                        <lido:appellationValue xml:lang="en">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="es">Berlín</lido:appellationValue>
+                        <lido:appellationValue xml:lang="fa">برلین</lido:appellationValue>
+                        <lido:appellationValue xml:lang="fi">Berliini</lido:appellationValue>
+                        <lido:appellationValue xml:lang="fr">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ha">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="he">ברלין</lido:appellationValue>
+                        <lido:appellationValue xml:lang="hi">बर्लिन</lido:appellationValue>
+                        <lido:appellationValue xml:lang="hu">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="id">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="it">Berlino</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ja">ベルリン</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ka">ბერლინი</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ko">베를린</lido:appellationValue>
+                        <lido:appellationValue xml:lang="nl">Berlijn</lido:appellationValue>
+                        <lido:appellationValue xml:lang="pl">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="pt">Berlim</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ro">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ru">Берлин</lido:appellationValue>
+                        <lido:appellationValue xml:lang="sv">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="sw">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ta">பெர்லின்</lido:appellationValue>
+                        <lido:appellationValue xml:lang="th">เบอร์ลิน</lido:appellationValue>
+                        <lido:appellationValue xml:lang="tl">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="tr">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ur">برلن</lido:appellationValue>
+                        <lido:appellationValue xml:lang="vi">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="zh">柏林</lido:appellationValue>
+                     </lido:namePlaceSet>
+                     <lido:gml>
+                        <gml:Point srsName="EPSG:4326">
+                           <gml:pos>52.516666412354 13.383333206177</gml:pos>
+                        </gml:Point>
+                     </lido:gml>
+                  </lido:place>
+               </lido:eventPlace>
+            </lido:event>
+         </lido:eventSet>
+         <lido:eventSet>
+            <lido:displayEvent>Geistige Schöpfung</lido:displayEvent>
+            <lido:event>
+               <lido:eventType>
+                  <lido:conceptID lido:type="uri">http://terminology.lido-schema.org/lido00012</lido:conceptID>
+                  <lido:term lido:addedSearchTerm="no">Geistige Schöpfung</lido:term>
+               </lido:eventType>
+               <lido:eventActor>
+                  <lido:displayActorInRole>Christoph Willibald Gluck (1714-1787)</lido:displayActorInRole>
+                  <lido:actorInRole>
+                     <lido:actor>
+                        <lido:actorID lido:source="Wikipedia" lido:type="uri">https://sv.wikipedia.org/wiki/Christoph_Willibald_Gluck</lido:actorID>
+                        <lido:actorID lido:source="NDB/ADB" lido:type="uri">https://www.deutsche-biographie.de/sfz21241.html#adbcontent</lido:actorID>
+                        <lido:actorID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/118539841</lido:actorID>
+                        <lido:actorID lido:source="viaf" lido:type="uri">https://viaf.org/viaf/37101876</lido:actorID>
+                        <lido:actorID lido:source="bnf" lido:type="uri">https://catalogue.bnf.fr/ark:/12148/cb13894547t</lido:actorID>
+                        <lido:actorID lido:source="ndl" lido:type="uri">https://id.ndl.go.jp/auth/ndlna/00620740</lido:actorID>
+                        <lido:actorID lido:source="npg" lido:type="uri">https://www.npg.org.uk/collections/search/person/mp64331</lido:actorID>
+                        <lido:actorID lido:source="loc" lido:type="uri">http://id.loc.gov/authorities/names/n79135399</lido:actorID>
+                        <lido:actorID lido:source="bne" lido:type="uri">http://datos.bne.es/persona/XX1723569</lido:actorID>
+                        <lido:actorID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q130759</lido:actorID>
+                        <lido:actorID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/persinst/35527</lido:actorID>
+                        <lido:nameActorSet>
+                           <lido:appellationValue>Gluck, Christoph Willibald</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ar">كريستوف فيليبالد غلوك</lido:appellationValue>
+                           <lido:appellationValue xml:lang="cs">Christoph Willibald Gluck</lido:appellationValue>
+                           <lido:appellationValue xml:lang="da">Christoph Willibald Gluck</lido:appellationValue>
+                           <lido:appellationValue xml:lang="el">Κρίστοφ Βίλιμπαλντ Γκλουκ</lido:appellationValue>
+                           <lido:appellationValue xml:lang="en">Christoph Willibald von Gluck</lido:appellationValue>
+                           <lido:appellationValue xml:lang="es">Christoph Willibald Gluck</lido:appellationValue>
+                           <lido:appellationValue xml:lang="fa">کریستف ویلیبالد گلوک</lido:appellationValue>
+                           <lido:appellationValue xml:lang="fi">Christoph Willibald Gluck</lido:appellationValue>
+                           <lido:appellationValue xml:lang="fr">Christoph Willibald Gluck</lido:appellationValue>
+                           <lido:appellationValue xml:lang="he">כריסטוף ויליבלד גלוק</lido:appellationValue>
+                           <lido:appellationValue xml:lang="hu">Christoph Willibald Gluck</lido:appellationValue>
+                           <lido:appellationValue xml:lang="id">Christoph Willibald Gluck</lido:appellationValue>
+                           <lido:appellationValue xml:lang="it">Christoph Willibald Gluck</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ja">クリストフ・ヴィリバルト・グルック</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ka">კრისტოფ ვილიბალდ გლუკი</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ko">크리스토프 빌리발트 글루크</lido:appellationValue>
+                           <lido:appellationValue xml:lang="nl">Christoph Willibald von Gluck</lido:appellationValue>
+                           <lido:appellationValue xml:lang="pl">Christoph Willibald Gluck</lido:appellationValue>
+                           <lido:appellationValue xml:lang="pt">Christoph Willibald Gluck</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ro">Christoph Willibald Gluck</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ru">Кристоф Виллибальд Глюк</lido:appellationValue>
+                           <lido:appellationValue xml:lang="sv">Christoph Willibald Gluck</lido:appellationValue>
+                           <lido:appellationValue xml:lang="th">คริสท็อฟ วิลลีบัลท์ กลุค</lido:appellationValue>
+                           <lido:appellationValue xml:lang="tr">Christoph Willibald Gluck</lido:appellationValue>
+                           <lido:appellationValue xml:lang="vi">Christoph Willibald Gluck</lido:appellationValue>
+                           <lido:appellationValue xml:lang="zh">克里斯托夫·维利巴尔德·格鲁克</lido:appellationValue>
+                        </lido:nameActorSet>
+                        <lido:vitalDatesActor>
+                           <lido:earliestDate>1714</lido:earliestDate>
+                           <lido:latestDate>1787</lido:latestDate>
+                        </lido:vitalDatesActor>
+                     </lido:actor>
+                  </lido:actorInRole>
+               </lido:eventActor>
+               <lido:eventDate>
+                  <lido:displayDate>1774-1775</lido:displayDate>
+                  <lido:date>
+                     <lido:earliestDate>1774</lido:earliestDate>
+                     <lido:latestDate>1775</lido:latestDate>
+                  </lido:date>
+               </lido:eventDate>
+            </lido:event>
+         </lido:eventSet>
+         <lido:eventSet>
+            <lido:displayEvent>Restauriert</lido:displayEvent>
+            <lido:event>
+               <lido:eventType>
+                  <lido:conceptID lido:type="uri">http://terminology.lido-schema.org/lido00034</lido:conceptID>
+                  <lido:term lido:addedSearchTerm="no">Restauriert</lido:term>
+               </lido:eventType>
+               <lido:eventActor>
+                  <lido:displayActorInRole>Alfred Lenk (Orgelbauanstalt)</lido:displayActorInRole>
+                  <lido:actorInRole>
+                     <lido:actor>
+                        <lido:actorID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/persinst/150602</lido:actorID>
+                        <lido:nameActorSet>
+                           <lido:appellationValue>Alfred Lenk (Orgelbauanstalt)</lido:appellationValue>
+                        </lido:nameActorSet>
+                     </lido:actor>
+                  </lido:actorInRole>
+               </lido:eventActor>
+               <lido:eventPlace>
+                  <lido:displayPlace>Berlin (wahrscheinlich)</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ar">برلين</lido:displayPlace>
+                  <lido:displayPlace xml:lang="bn">বার্লিন</lido:displayPlace>
+                  <lido:displayPlace xml:lang="cs">Berlín</lido:displayPlace>
+                  <lido:displayPlace xml:lang="da">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="el">Βερολίνο</lido:displayPlace>
+                  <lido:displayPlace xml:lang="en">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="es">Berlín</lido:displayPlace>
+                  <lido:displayPlace xml:lang="fa">برلین</lido:displayPlace>
+                  <lido:displayPlace xml:lang="fi">Berliini</lido:displayPlace>
+                  <lido:displayPlace xml:lang="fr">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ha">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="he">ברלין</lido:displayPlace>
+                  <lido:displayPlace xml:lang="hi">बर्लिन</lido:displayPlace>
+                  <lido:displayPlace xml:lang="hu">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="id">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="it">Berlino</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ja">ベルリン</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ka">ბერლინი</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ko">베를린</lido:displayPlace>
+                  <lido:displayPlace xml:lang="nl">Berlijn</lido:displayPlace>
+                  <lido:displayPlace xml:lang="pl">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="pt">Berlim</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ro">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ru">Берлин</lido:displayPlace>
+                  <lido:displayPlace xml:lang="sv">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="sw">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ta">பெர்லின்</lido:displayPlace>
+                  <lido:displayPlace xml:lang="th">เบอร์ลิน</lido:displayPlace>
+                  <lido:displayPlace xml:lang="tl">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="tr">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ur">برلن</lido:displayPlace>
+                  <lido:displayPlace xml:lang="vi">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="zh">柏林</lido:displayPlace>
+                  <lido:place>
+                     <lido:placeID lido:source="geonames" lido:type="uri">https://sws.geonames.org/2950159</lido:placeID>
+                     <lido:placeID lido:source="TGN" lido:type="uri">http://vocab.getty.edu/tgn/7209904</lido:placeID>
+                     <lido:placeID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4005728-8</lido:placeID>
+                     <lido:placeID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q64</lido:placeID>
+                     <lido:placeID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/place/61</lido:placeID>
+                     <lido:namePlaceSet>
+                        <lido:appellationValue>Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ar">برلين</lido:appellationValue>
+                        <lido:appellationValue xml:lang="bn">বার্লিন</lido:appellationValue>
+                        <lido:appellationValue xml:lang="cs">Berlín</lido:appellationValue>
+                        <lido:appellationValue xml:lang="da">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="el">Βερολίνο</lido:appellationValue>
+                        <lido:appellationValue xml:lang="en">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="es">Berlín</lido:appellationValue>
+                        <lido:appellationValue xml:lang="fa">برلین</lido:appellationValue>
+                        <lido:appellationValue xml:lang="fi">Berliini</lido:appellationValue>
+                        <lido:appellationValue xml:lang="fr">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ha">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="he">ברלין</lido:appellationValue>
+                        <lido:appellationValue xml:lang="hi">बर्लिन</lido:appellationValue>
+                        <lido:appellationValue xml:lang="hu">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="id">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="it">Berlino</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ja">ベルリン</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ka">ბერლინი</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ko">베를린</lido:appellationValue>
+                        <lido:appellationValue xml:lang="nl">Berlijn</lido:appellationValue>
+                        <lido:appellationValue xml:lang="pl">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="pt">Berlim</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ro">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ru">Берлин</lido:appellationValue>
+                        <lido:appellationValue xml:lang="sv">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="sw">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ta">பெர்லின்</lido:appellationValue>
+                        <lido:appellationValue xml:lang="th">เบอร์ลิน</lido:appellationValue>
+                        <lido:appellationValue xml:lang="tl">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="tr">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ur">برلن</lido:appellationValue>
+                        <lido:appellationValue xml:lang="vi">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="zh">柏林</lido:appellationValue>
+                     </lido:namePlaceSet>
+                     <lido:gml>
+                        <gml:Point srsName="EPSG:4326">
+                           <gml:pos>52.516666412354 13.383333206177</gml:pos>
+                        </gml:Point>
+                     </lido:gml>
+                  </lido:place>
+               </lido:eventPlace>
+            </lido:event>
+         </lido:eventSet>
+         <lido:eventSet>
+            <lido:displayEvent>Restauriert</lido:displayEvent>
+            <lido:event>
+               <lido:eventType>
+                  <lido:conceptID lido:type="uri">http://terminology.lido-schema.org/lido00034</lido:conceptID>
+                  <lido:term lido:addedSearchTerm="no">Restauriert</lido:term>
+               </lido:eventType>
+               <lido:eventActor>
+                  <lido:displayActorInRole>Oswald Schulz (Uhrmacher)</lido:displayActorInRole>
+                  <lido:actorInRole>
+                     <lido:actor>
+                        <lido:actorID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/persinst/150604</lido:actorID>
+                        <lido:nameActorSet>
+                           <lido:appellationValue>Schulz, Oswald (Uhrmacher)</lido:appellationValue>
+                        </lido:nameActorSet>
+                     </lido:actor>
+                  </lido:actorInRole>
+               </lido:eventActor>
+               <lido:eventPlace>
+                  <lido:displayPlace>Berlin (wahrscheinlich)</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ar">برلين</lido:displayPlace>
+                  <lido:displayPlace xml:lang="bn">বার্লিন</lido:displayPlace>
+                  <lido:displayPlace xml:lang="cs">Berlín</lido:displayPlace>
+                  <lido:displayPlace xml:lang="da">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="el">Βερολίνο</lido:displayPlace>
+                  <lido:displayPlace xml:lang="en">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="es">Berlín</lido:displayPlace>
+                  <lido:displayPlace xml:lang="fa">برلین</lido:displayPlace>
+                  <lido:displayPlace xml:lang="fi">Berliini</lido:displayPlace>
+                  <lido:displayPlace xml:lang="fr">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ha">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="he">ברלין</lido:displayPlace>
+                  <lido:displayPlace xml:lang="hi">बर्लिन</lido:displayPlace>
+                  <lido:displayPlace xml:lang="hu">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="id">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="it">Berlino</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ja">ベルリン</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ka">ბერლინი</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ko">베를린</lido:displayPlace>
+                  <lido:displayPlace xml:lang="nl">Berlijn</lido:displayPlace>
+                  <lido:displayPlace xml:lang="pl">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="pt">Berlim</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ro">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ru">Берлин</lido:displayPlace>
+                  <lido:displayPlace xml:lang="sv">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="sw">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ta">பெர்லின்</lido:displayPlace>
+                  <lido:displayPlace xml:lang="th">เบอร์ลิน</lido:displayPlace>
+                  <lido:displayPlace xml:lang="tl">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="tr">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ur">برلن</lido:displayPlace>
+                  <lido:displayPlace xml:lang="vi">Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="zh">柏林</lido:displayPlace>
+                  <lido:place>
+                     <lido:placeID lido:source="geonames" lido:type="uri">https://sws.geonames.org/2950159</lido:placeID>
+                     <lido:placeID lido:source="TGN" lido:type="uri">http://vocab.getty.edu/tgn/7209904</lido:placeID>
+                     <lido:placeID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4005728-8</lido:placeID>
+                     <lido:placeID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q64</lido:placeID>
+                     <lido:placeID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/place/61</lido:placeID>
+                     <lido:namePlaceSet>
+                        <lido:appellationValue>Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ar">برلين</lido:appellationValue>
+                        <lido:appellationValue xml:lang="bn">বার্লিন</lido:appellationValue>
+                        <lido:appellationValue xml:lang="cs">Berlín</lido:appellationValue>
+                        <lido:appellationValue xml:lang="da">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="el">Βερολίνο</lido:appellationValue>
+                        <lido:appellationValue xml:lang="en">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="es">Berlín</lido:appellationValue>
+                        <lido:appellationValue xml:lang="fa">برلین</lido:appellationValue>
+                        <lido:appellationValue xml:lang="fi">Berliini</lido:appellationValue>
+                        <lido:appellationValue xml:lang="fr">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ha">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="he">ברלין</lido:appellationValue>
+                        <lido:appellationValue xml:lang="hi">बर्लिन</lido:appellationValue>
+                        <lido:appellationValue xml:lang="hu">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="id">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="it">Berlino</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ja">ベルリン</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ka">ბერლინი</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ko">베를린</lido:appellationValue>
+                        <lido:appellationValue xml:lang="nl">Berlijn</lido:appellationValue>
+                        <lido:appellationValue xml:lang="pl">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="pt">Berlim</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ro">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ru">Берлин</lido:appellationValue>
+                        <lido:appellationValue xml:lang="sv">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="sw">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ta">பெர்லின்</lido:appellationValue>
+                        <lido:appellationValue xml:lang="th">เบอร์ลิน</lido:appellationValue>
+                        <lido:appellationValue xml:lang="tl">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="tr">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ur">برلن</lido:appellationValue>
+                        <lido:appellationValue xml:lang="vi">Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="zh">柏林</lido:appellationValue>
+                     </lido:namePlaceSet>
+                     <lido:gml>
+                        <gml:Point srsName="EPSG:4326">
+                           <gml:pos>52.516666412354 13.383333206177</gml:pos>
+                        </gml:Point>
+                     </lido:gml>
+                  </lido:place>
+               </lido:eventPlace>
+            </lido:event>
+         </lido:eventSet>
+         <lido:eventSet>
+            <lido:displayEvent>Geistige Schöpfung</lido:displayEvent>
+            <lido:event>
+               <lido:eventType>
+                  <lido:conceptID lido:type="uri">http://terminology.lido-schema.org/lido00012</lido:conceptID>
+                  <lido:term lido:addedSearchTerm="no">Geistige Schöpfung</lido:term>
+               </lido:eventType>
+               <lido:eventActor>
+                  <lido:displayActorInRole>Karl Friedrich Schinkel (1781-1841) (wahrscheinlich)</lido:displayActorInRole>
+                  <lido:actorInRole>
+                     <lido:actor>
+                        <lido:actorID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Karl_Friedrich_Schinkel</lido:actorID>
+                        <lido:actorID lido:source="NDB/ADB" lido:type="uri">https://www.deutsche-biographie.de/pnd118607782.html#ndbcontent</lido:actorID>
+                        <lido:actorID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/118607782</lido:actorID>
+                        <lido:actorID lido:source="viaf" lido:type="uri">https://viaf.org/viaf/17298593</lido:actorID>
+                        <lido:actorID lido:source="ulan" lido:type="uri">http://vocab.getty.edu/ulan/500028174</lido:actorID>
+                        <lido:actorID lido:source="rkd" lido:type="uri">https://rkd.nl/explore/artists/70548</lido:actorID>
+                        <lido:actorID lido:source="bnf" lido:type="uri">https://catalogue.bnf.fr/ark:/12148/cb12352169q</lido:actorID>
+                        <lido:actorID lido:source="ndl" lido:type="uri">https://id.ndl.go.jp/auth/ndlna/00621445</lido:actorID>
+                        <lido:actorID lido:source="loc" lido:type="uri">http://id.loc.gov/authorities/names/n81068088</lido:actorID>
+                        <lido:actorID lido:source="bne" lido:type="uri">http://datos.bne.es/persona/XX864651</lido:actorID>
+                        <lido:actorID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q151759</lido:actorID>
+                        <lido:actorID lido:source="edition humboldt digital" lido:type="uri">https://edition-humboldt.de/register/personen/detail.xql?normid=http://d-nb.info/gnd/118607782</lido:actorID>
+                        <lido:actorID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/persinst/7588</lido:actorID>
+                        <lido:nameActorSet>
+                           <lido:appellationValue>Schinkel, Karl Friedrich</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ar">كارل شينكل</lido:appellationValue>
+                           <lido:appellationValue xml:lang="cs">Karl Friedrich Schinkel</lido:appellationValue>
+                           <lido:appellationValue xml:lang="da">Karl Friedrich Schinkel</lido:appellationValue>
+                           <lido:appellationValue xml:lang="el">Καρλ Φρίντριχ Σίνκελ</lido:appellationValue>
+                           <lido:appellationValue xml:lang="en">Karl Friedrich Schinkel</lido:appellationValue>
+                           <lido:appellationValue xml:lang="es">Karl Friedrich Schinkel</lido:appellationValue>
+                           <lido:appellationValue xml:lang="fa">کارل فردریش شینکل</lido:appellationValue>
+                           <lido:appellationValue xml:lang="fi">Karl Friedrich Schinkel</lido:appellationValue>
+                           <lido:appellationValue xml:lang="fr">Karl Friedrich Schinkel</lido:appellationValue>
+                           <lido:appellationValue xml:lang="he">קארל פרידריך שינקל</lido:appellationValue>
+                           <lido:appellationValue xml:lang="hu">Karl Friedrich Schinkel</lido:appellationValue>
+                           <lido:appellationValue xml:lang="it">Karl Friedrich Schinkel</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ja">カルル・フリードリッヒ・シンケル</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ka">კარლ შინკელი</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ko">카를 프리드리히 싱켈</lido:appellationValue>
+                           <lido:appellationValue xml:lang="nl">Karl Friedrich Schinkel</lido:appellationValue>
+                           <lido:appellationValue xml:lang="pl">Karl Friedrich Schinkel</lido:appellationValue>
+                           <lido:appellationValue xml:lang="pt">Karl Friedrich Schinkel</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ru">Карл Фридрих Шинкель</lido:appellationValue>
+                           <lido:appellationValue xml:lang="sv">Karl Friedrich Schinkel</lido:appellationValue>
+                           <lido:appellationValue xml:lang="vi">Karl Friedrich Schinkel</lido:appellationValue>
+                           <lido:appellationValue xml:lang="zh">卡爾·弗里德里希·申克爾</lido:appellationValue>
+                        </lido:nameActorSet>
+                        <lido:vitalDatesActor>
+                           <lido:earliestDate>1781</lido:earliestDate>
+                           <lido:latestDate>1841</lido:latestDate>
+                        </lido:vitalDatesActor>
+                     </lido:actor>
+                  </lido:actorInRole>
+               </lido:eventActor>
+               <lido:eventDate>
+                  <lido:displayDate>1806 (wahrscheinlich)</lido:displayDate>
+                  <lido:displayDate xml:lang="ar">1806</lido:displayDate>
+                  <lido:displayDate xml:lang="en">1806</lido:displayDate>
+                  <lido:displayDate xml:lang="es">1806</lido:displayDate>
+                  <lido:displayDate xml:lang="fa">1806</lido:displayDate>
+                  <lido:displayDate xml:lang="fr">1806</lido:displayDate>
+                  <lido:displayDate xml:lang="hu">1806</lido:displayDate>
+                  <lido:displayDate xml:lang="id">1806</lido:displayDate>
+                  <lido:displayDate xml:lang="it">1806</lido:displayDate>
+                  <lido:displayDate xml:lang="ja">1806年</lido:displayDate>
+                  <lido:displayDate xml:lang="ka">1806</lido:displayDate>
+                  <lido:displayDate xml:lang="ko">1806년</lido:displayDate>
+                  <lido:displayDate xml:lang="pl">1806</lido:displayDate>
+                  <lido:displayDate xml:lang="pt">1806</lido:displayDate>
+                  <lido:displayDate xml:lang="ro">1806</lido:displayDate>
+                  <lido:displayDate xml:lang="ru">1806</lido:displayDate>
+                  <lido:displayDate xml:lang="ta">1806</lido:displayDate>
+                  <lido:displayDate xml:lang="tl">1806</lido:displayDate>
+                  <lido:displayDate xml:lang="tr">1806</lido:displayDate>
+                  <lido:displayDate xml:lang="zh">1806年</lido:displayDate>
+                  <lido:date>
+                     <lido:earliestDate>1806</lido:earliestDate>
+                     <lido:latestDate>1806</lido:latestDate>
+                  </lido:date>
+               </lido:eventDate>
+            </lido:event>
+         </lido:eventSet>
+      </lido:eventWrap>
+      <lido:objectRelationWrap>
+         <lido:subjectWrap>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Uhr</lido:conceptID>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4164176-0</lido:conceptID>
+                     <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh85027100</lido:conceptID>
+                     <lido:conceptID lido:source="aat" lido:type="uri">http://vocab.getty.edu/aat/300041575</lido:conceptID>
+                     <lido:conceptID lido:source="grobsystematik" lido:type="uri">https://term.museum-digital.de/grobsystematik/tag/13321</lido:conceptID>
+                     <lido:conceptID lido:source="oberbegriffsdatei" lido:type="uri">https://term.museum-digital.de/Oberbegriffsdatei/tag/2036</lido:conceptID>
+                     <lido:conceptID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q376</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/1331</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Uhr</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ar">ساعة</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="bn">ঘড়ি</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="cs">Hodiny</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="da">Ur</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="el">Ρολόι</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="en">Clock</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="es">Reloj</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fa">ساعت</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fi">Kello</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fr">Horloge</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ha">agogo</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="he">שעון</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hi">घडी</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hu">óra</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="id">Jam</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="it">Orologio</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ja">時計</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ka">საათი</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ko">시계</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="nl">Klok</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pl">Zegar</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pt">Relógio</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ro">ceas</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ru">часы</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sv">Klocka</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sw">saa</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ta">கடிகாரம்</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="th">นาฬิกา</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tl">Orasan</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tr">Saat</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ur">گھنٹا</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="vi">Đồng hồ</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="zh">時鐘</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Astronomie</lido:conceptID>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4003311-9</lido:conceptID>
+                     <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh85009003</lido:conceptID>
+                     <lido:conceptID lido:source="aat" lido:type="uri">http://vocab.getty.edu/aat/300054534</lido:conceptID>
+                     <lido:conceptID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q333</lido:conceptID>
+                     <lido:conceptID lido:source="iconclass" lido:type="uri">http://iconclass.org/rkd/49E1/</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/4097</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Astronomie</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ar">علم الفلك</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="bn">জ্যোতির্বিজ্ঞান</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="cs">Astronomie</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="da">Astronomi</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="el">αστρονομία</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="en">Astronomy</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="es">Astronomía</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fa">اخترشناسی</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fi">Tähtitiede</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fr">Astronomie</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="he">אסטרונומיה</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hi">खगोल शास्त्र</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hu">csillagászat</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="id">Astronomi</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="it">Astronomia</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ja">天文学</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ka">ასტრონომია</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ko">천문학</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="nl">Astronomie</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pl">Astronomia</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pt">Astronomia</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ro">astronomie</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ru">астрономия</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sv">Astronomi</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sw">astronomia</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ta">வானியல்</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="th">ดาราศาสตร์</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tl">Astronomiya</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tr">Astronomi</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ur">فلکیات</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="vi">thiên văn học</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="zh">天文學</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">http://de.wikipedia.org/wiki/Bodenstanduhr</lido:conceptID>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">http://d-nb.info/gnd/4056929-9</lido:conceptID>
+                     <lido:conceptID lido:source="grobsystematik" lido:type="uri">https://term.museum-digital.de/grobsystematik/tag/1214</lido:conceptID>
+                     <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh85078282</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/5856</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Bodenstanduhr</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Fl%C3%B6tenuhr</lido:conceptID>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4265445-2</lido:conceptID>
+                     <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh86004919</lido:conceptID>
+                     <lido:conceptID lido:source="aat" lido:type="uri">http://vocab.getty.edu/aat/300198997</lido:conceptID>
+                     <lido:conceptID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q1434775</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/10224</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Flötenuhr</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="en">Musical clock</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fr">Horloge musicale</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="it">Organo meccanico</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="nl">Speelklok</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">http://de.wikipedia.org/wiki/Mechanischer Musikautomat</lido:conceptID>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">http://d-nb.info/gnd/4129391-5</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/19304</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Mechanisches Musikinstrument</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+         </lido:subjectWrap>
+         <lido:relatedWorksWrap>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:displayObject>Stiftung Stadtmuseum Berlin, Inv. Nr. II 61/151 J, Christian Möllinger, Bodenstanduhr mit Flötenwerk, Anfang 19. Jahrhundert&lt;br&gt;
+Stiftung Stadtmuseum Berlin, Inv. Nr. SM 2011-0798, Christian Möllinger, Bodenstanduhr mit Flötenwerk, 1797</lido:displayObject>
+               </lido:relatedWork>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:displayObject>Stiftung Stadtmuseum Berlin, Inv. Nr. II 61/151 J, Christian Möllinger, Bodenstanduhr mit Flötenwerk, Anfang 19. Jahrhundert</lido:displayObject>
+                  <lido:object>
+                     <lido:objectWebResource>https://berlin.museum-digital.de/index.php?t=objekt&amp;oges=66203</lido:objectWebResource>
+                     <lido:objectID lido:type="local">DE-MUS-061525/66203</lido:objectID>
+                  </lido:object>
+               </lido:relatedWork>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:displayObject>Stiftung Stadtmuseum Berlin, Inv. Nr. SM 2011-0798, Christian Möllinger, Bodenstanduhr mit Flötenwerk, 1797</lido:displayObject>
+                  <lido:object>
+                     <lido:objectWebResource>https://berlin.museum-digital.de/index.php?t=objekt&amp;oges=86342</lido:objectWebResource>
+                     <lido:objectID lido:type="local">DE-MUS-061525/86342</lido:objectID>
+                  </lido:object>
+               </lido:relatedWork>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:displayObject>Lieder, Friedrich Wilhelm, 1810-1811: Automat der Erde in Verbindung mit dem Monde, In: Journal für Kunst- und Kunstsachen, Künsteleien und Mode, hrsg. von Karl Rockstroh, 1 (1810), Januar, S. 41-48; März, S. 186: Ausspielung zweier Kunstwerke; April, S. 216; 2 (1811), März, S. 177: Verkauf zweier Kunstwerke</lido:displayObject>
+               </lido:relatedWork>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:displayObject>Anonymus, 1810: Inserat der Königl. Preuß. General-Lotterie-Direktion Scherzer - Bornemann - Brink, In: Berlinische Nachrichten von Staats- und gelehrten Sachen, 10.11.1810</lido:displayObject>
+               </lido:relatedWork>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:displayObject>Börsch-Supan, Helmut, 1971: Die Kataloge der Berliner Akademie-Ausstellungen 1786-1850, 3 Bde, Berlin, Bd. 2, S. 91, 132</lido:displayObject>
+               </lido:relatedWork>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:displayObject>Lenk, Alfred, 1933/1934: Spieluhren, In: Zeitschrift für Instrumentenbau, Jg. 54, S. 36–38</lido:displayObject>
+               </lido:relatedWork>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:displayObject>Franzkowiak, Anne, 2011: Mechanische Musikinstrumente: Vom Salon in die Kneipe (= Museum in der Tasche), Berlin, S. 8–12</lido:displayObject>
+               </lido:relatedWork>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:displayObject>Stiegel, Achim, 2003: Berliner Möbelkunst vom Ende des 18. bis zur Mitte des 19. Jahrhunderts, Berlin, München, S. 183</lido:displayObject>
+               </lido:relatedWork>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:displayObject>Mende, Jan, 2014: Mein Kunst-Stück: Erde, Mond und Sonne, In: Weltkunst. Das Kunstmagazin der Zeit, Juni 2014, S. 136f.</lido:displayObject>
+               </lido:relatedWork>
+            </lido:relatedWorkSet>
+         </lido:relatedWorksWrap>
+      </lido:objectRelationWrap>
+   </lido:descriptiveMetadata>
+   <lido:administrativeMetadata xml:lang="de">
+      <lido:rightsWorkWrap>
+         <lido:rightsWorkSet>
+            <lido:rightsHolder>
+               <lido:legalBodyName>
+                  <lido:appellationValue>Stiftung Stadtmuseum Berlin</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:rightsHolder>
+         </lido:rightsWorkSet>
+      </lido:rightsWorkWrap>
+      <lido:recordWrap>
+         <lido:recordID lido:type="museum-digital">86337</lido:recordID>
+         <lido:recordType>
+            <lido:term lido:addedSearchTerm="no">item</lido:term>
+         </lido:recordType>
+         <lido:recordSource lido:type="dataProvider">
+            <lido:legalBodyName>
+               <lido:appellationValue>museum-digital</lido:appellationValue>
+            </lido:legalBodyName>
+            <lido:legalBodyWeblink>https://berlin.museum-digital.de/</lido:legalBodyWeblink>
+         </lido:recordSource>
+         <lido:recordSource>
+            <lido:legalBodyID lido:type="isil">DE-MUS-061525</lido:legalBodyID>
+            <lido:legalBodyName>
+               <lido:appellationValue>Stiftung Stadtmuseum Berlin</lido:appellationValue>
+            </lido:legalBodyName>
+         </lido:recordSource>
+         <lido:recordRights>
+            <lido:rightsType>
+               <lido:conceptID lido:type="uri">https://creativecommons.org/publicdomain/zero/1.0/</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no">CC 0</lido:term>
+            </lido:rightsType>
+            <lido:rightsHolder>
+               <lido:legalBodyID lido:type="isil">DE-MUS-061525</lido:legalBodyID>
+               <lido:legalBodyName>
+                  <lido:appellationValue>Stiftung Stadtmuseum Berlin</lido:appellationValue>
+               </lido:legalBodyName>
+               <lido:legalBodyWeblink>https://www.stadtmuseum.de</lido:legalBodyWeblink>
+            </lido:rightsHolder>
+            <lido:creditLine>Förderprogramm zur Digitalisierung von Objekten des kulturellen Erbes des Landes Berlin</lido:creditLine>
+         </lido:recordRights>
+         <lido:recordInfoSet>
+            <lido:recordInfoLink>https://berlin.museum-digital.de/index.php?t=objekt&amp;oges=86337</lido:recordInfoLink>
+            <lido:recordMetadataDate>2021-02-23 13:42:18</lido:recordMetadataDate>
+         </lido:recordInfoSet>
+      </lido:recordWrap>
+      <lido:resourceWrap>
+         <lido:resourceSet lido:sortorder="1">
+            <lido:resourceID lido:source="image" lido:type="local">59529</lido:resourceID>
+            <lido:resourceRepresentation lido:type="image_thumb">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/86337-ii_61160_j/astronomische_bodenstandu/100h_astronomische-bodenstanduhr-mit-floetenwerk-86337.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_preview">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/86337-ii_61160_j/astronomische_bodenstandu/200w_astronomische-bodenstanduhr-mit-floetenwerk-86337.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/86337-ii_61160_j/astronomische_bodenstandu/astronomische-bodenstanduhr-mit-floetenwerk-86337.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceType>
+               <lido:term>image</lido:term>
+            </lido:resourceType>
+            <lido:resourceSource lido:type="creator">
+               <lido:legalBodyName>
+                  <lido:appellationValue>Oliver Ziebe, Berlin (2020)</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:resourceSource>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+                  <lido:term>CC BY 4.0</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Stiftung Stadtmuseum Berlin</lido:appellationValue>
+                  </lido:legalBodyName>
+               </lido:rightsHolder>
+            </lido:rightsResource>
+         </lido:resourceSet>
+         <lido:resourceSet lido:sortorder="2">
+            <lido:resourceID lido:source="image" lido:type="local">59530</lido:resourceID>
+            <lido:resourceRepresentation lido:type="image_thumb">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/86337-ii_61160_j/astronomische_bodenstandu/100h_astronomische-bodenstanduhr-mit-floetenwerk-86337-2.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_preview">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/86337-ii_61160_j/astronomische_bodenstandu/200w_astronomische-bodenstanduhr-mit-floetenwerk-86337-2.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/86337-ii_61160_j/astronomische_bodenstandu/astronomische-bodenstanduhr-mit-floetenwerk-86337-2.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceType>
+               <lido:term>image</lido:term>
+            </lido:resourceType>
+            <lido:resourceRelType>
+               <lido:term>Hauptansicht</lido:term>
+            </lido:resourceRelType>
+            <lido:resourceSource lido:type="creator">
+               <lido:legalBodyName>
+                  <lido:appellationValue>Oliver Ziebe, Berlin (2020)</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:resourceSource>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+                  <lido:term>CC BY 4.0</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Stiftung Stadtmuseum Berlin</lido:appellationValue>
+                  </lido:legalBodyName>
+               </lido:rightsHolder>
+            </lido:rightsResource>
+         </lido:resourceSet>
+         <lido:resourceSet lido:sortorder="3">
+            <lido:resourceID lido:source="image" lido:type="local">60734</lido:resourceID>
+            <lido:resourceRepresentation lido:type="image_thumb">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/86337-ii_61160_j/friedrich_wilhelm_lieder_/100h_friedrich-wilhelm-lieder-astronomische-bodenstanduhr-mit-floetenwerk-1806-inv-nr-ii-61160.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_preview">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/86337-ii_61160_j/friedrich_wilhelm_lieder_/200w_friedrich-wilhelm-lieder-astronomische-bodenstanduhr-mit-floetenwerk-1806-inv-nr-ii-61160.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/86337-ii_61160_j/friedrich_wilhelm_lieder_/friedrich-wilhelm-lieder-astronomische-bodenstanduhr-mit-floetenwerk-1806-inv-nr-ii-61160.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceType>
+               <lido:term>image</lido:term>
+            </lido:resourceType>
+            <lido:resourceSource lido:type="creator">
+               <lido:legalBodyName>
+                  <lido:appellationValue>Oliver Ziebe, Berlin (2020)</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:resourceSource>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+                  <lido:term>CC BY 4.0</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Stiftung Stadtmuseum Berlin</lido:appellationValue>
+                  </lido:legalBodyName>
+               </lido:rightsHolder>
+            </lido:rightsResource>
+         </lido:resourceSet>
+         <lido:resourceSet lido:sortorder="4">
+            <lido:resourceID lido:source="image" lido:type="local">59532</lido:resourceID>
+            <lido:resourceRepresentation lido:type="image_thumb">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/86337-ii_61160_j/astronomische_bodenstandu/100h_astronomische-bodenstanduhr-mit-floetenwerk-86337-4.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_preview">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/86337-ii_61160_j/astronomische_bodenstandu/200w_astronomische-bodenstanduhr-mit-floetenwerk-86337-4.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/86337-ii_61160_j/astronomische_bodenstandu/astronomische-bodenstanduhr-mit-floetenwerk-86337-4.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceType>
+               <lido:term>image</lido:term>
+            </lido:resourceType>
+            <lido:resourceSource lido:type="creator">
+               <lido:legalBodyName>
+                  <lido:appellationValue>Oliver Ziebe, Berlin (2020)</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:resourceSource>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+                  <lido:term>CC BY 4.0</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Stiftung Stadtmuseum Berlin</lido:appellationValue>
+                  </lido:legalBodyName>
+               </lido:rightsHolder>
+            </lido:rightsResource>
+         </lido:resourceSet>
+         <lido:resourceSet lido:sortorder="5">
+            <lido:resourceID lido:source="image" lido:type="local">59533</lido:resourceID>
+            <lido:resourceRepresentation lido:type="image_thumb">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/86337-ii_61160_j/astronomische_bodenstandu/100h_astronomische-bodenstanduhr-mit-floetenwerk-86337-5.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_preview">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/86337-ii_61160_j/astronomische_bodenstandu/200w_astronomische-bodenstanduhr-mit-floetenwerk-86337-5.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/86337-ii_61160_j/astronomische_bodenstandu/astronomische-bodenstanduhr-mit-floetenwerk-86337-5.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceType>
+               <lido:term>image</lido:term>
+            </lido:resourceType>
+            <lido:resourceSource lido:type="creator">
+               <lido:legalBodyName>
+                  <lido:appellationValue>Oliver Ziebe, Berlin (2020)</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:resourceSource>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+                  <lido:term>CC BY 4.0</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Stiftung Stadtmuseum Berlin</lido:appellationValue>
+                  </lido:legalBodyName>
+               </lido:rightsHolder>
+            </lido:rightsResource>
+         </lido:resourceSet>
+         <lido:resourceSet lido:sortorder="6">
+            <lido:resourceID lido:source="image" lido:type="local">59534</lido:resourceID>
+            <lido:resourceRepresentation lido:type="image_thumb">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/86337-ii_61160_j/astronomische_bodenstandu/100h_astronomische-bodenstanduhr-mit-floetenwerk-86337-6.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_preview">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/86337-ii_61160_j/astronomische_bodenstandu/200w_astronomische-bodenstanduhr-mit-floetenwerk-86337-6.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/86337-ii_61160_j/astronomische_bodenstandu/astronomische-bodenstanduhr-mit-floetenwerk-86337-6.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceType>
+               <lido:term>image</lido:term>
+            </lido:resourceType>
+            <lido:resourceSource lido:type="creator">
+               <lido:legalBodyName>
+                  <lido:appellationValue>Oliver Ziebe, Berlin (2020)</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:resourceSource>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+                  <lido:term>CC BY 4.0</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Stiftung Stadtmuseum Berlin</lido:appellationValue>
+                  </lido:legalBodyName>
+               </lido:rightsHolder>
+            </lido:rightsResource>
+         </lido:resourceSet>
+         <lido:resourceSet lido:sortorder="7">
+            <lido:resourceID lido:source="image" lido:type="local">59535</lido:resourceID>
+            <lido:resourceRepresentation lido:type="image_thumb">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/86337-ii_61160_j/astronomische_bodenstandu/100h_astronomische-bodenstanduhr-mit-floetenwerk-86337-7.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_preview">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/86337-ii_61160_j/astronomische_bodenstandu/200w_astronomische-bodenstanduhr-mit-floetenwerk-86337-7.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/86337-ii_61160_j/astronomische_bodenstandu/astronomische-bodenstanduhr-mit-floetenwerk-86337-7.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceType>
+               <lido:term>image</lido:term>
+            </lido:resourceType>
+            <lido:resourceSource lido:type="creator">
+               <lido:legalBodyName>
+                  <lido:appellationValue>Oliver Ziebe, Berlin (2020)</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:resourceSource>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+                  <lido:term>CC BY 4.0</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Stiftung Stadtmuseum Berlin</lido:appellationValue>
+                  </lido:legalBodyName>
+               </lido:rightsHolder>
+            </lido:rightsResource>
+         </lido:resourceSet>
+         <lido:resourceSet lido:sortorder="8">
+            <lido:resourceID lido:source="image" lido:type="local">59536</lido:resourceID>
+            <lido:resourceRepresentation lido:type="image_thumb">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/86337-ii_61160_j/astronomische_bodenstandu/100h_astronomische-bodenstanduhr-mit-floetenwerk-86337-8.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_preview">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/86337-ii_61160_j/astronomische_bodenstandu/200w_astronomische-bodenstanduhr-mit-floetenwerk-86337-8.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/86337-ii_61160_j/astronomische_bodenstandu/astronomische-bodenstanduhr-mit-floetenwerk-86337-8.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceType>
+               <lido:term>image</lido:term>
+            </lido:resourceType>
+            <lido:resourceSource lido:type="creator">
+               <lido:legalBodyName>
+                  <lido:appellationValue>Oliver Ziebe, Berlin (2020)</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:resourceSource>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+                  <lido:term>CC BY 4.0</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Stiftung Stadtmuseum Berlin</lido:appellationValue>
+                  </lido:legalBodyName>
+               </lido:rightsHolder>
+            </lido:rightsResource>
+         </lido:resourceSet>
+         <lido:resourceSet lido:sortorder="9">
+            <lido:resourceID lido:source="image" lido:type="local">59543</lido:resourceID>
+            <lido:resourceRepresentation lido:type="image_thumb">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/86337-ii_61160_j/astronomische_bodenstandu/100h_astronomische-bodenstanduhr-mit-floetenwerk-86337-15.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_preview">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/86337-ii_61160_j/astronomische_bodenstandu/200w_astronomische-bodenstanduhr-mit-floetenwerk-86337-15.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/86337-ii_61160_j/astronomische_bodenstandu/astronomische-bodenstanduhr-mit-floetenwerk-86337-15.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceType>
+               <lido:term>image</lido:term>
+            </lido:resourceType>
+            <lido:resourceSource lido:type="creator">
+               <lido:legalBodyName>
+                  <lido:appellationValue>Oliver Ziebe, Berlin (2020)</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:resourceSource>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+                  <lido:term>CC BY 4.0</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Stiftung Stadtmuseum Berlin</lido:appellationValue>
+                  </lido:legalBodyName>
+               </lido:rightsHolder>
+            </lido:rightsResource>
+         </lido:resourceSet>
+         <lido:resourceSet lido:sortorder="10">
+            <lido:resourceID lido:source="image" lido:type="local">59537</lido:resourceID>
+            <lido:resourceRepresentation lido:type="image_thumb">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/86337-ii_61160_j/astronomische_bodenstandu/100h_astronomische-bodenstanduhr-mit-floetenwerk-86337-9.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_preview">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/86337-ii_61160_j/astronomische_bodenstandu/200w_astronomische-bodenstanduhr-mit-floetenwerk-86337-9.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/86337-ii_61160_j/astronomische_bodenstandu/astronomische-bodenstanduhr-mit-floetenwerk-86337-9.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceType>
+               <lido:term>image</lido:term>
+            </lido:resourceType>
+            <lido:resourceSource lido:type="creator">
+               <lido:legalBodyName>
+                  <lido:appellationValue>Oliver Ziebe, Berlin (2020)</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:resourceSource>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+                  <lido:term>CC BY 4.0</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Stiftung Stadtmuseum Berlin</lido:appellationValue>
+                  </lido:legalBodyName>
+               </lido:rightsHolder>
+            </lido:rightsResource>
+         </lido:resourceSet>
+         <lido:resourceSet lido:sortorder="11">
+            <lido:resourceID lido:source="image" lido:type="local">59542</lido:resourceID>
+            <lido:resourceRepresentation lido:type="image_thumb">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/86337-ii_61160_j/astronomische_bodenstandu/100h_astronomische-bodenstanduhr-mit-floetenwerk-86337-14.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_preview">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/86337-ii_61160_j/astronomische_bodenstandu/200w_astronomische-bodenstanduhr-mit-floetenwerk-86337-14.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/86337-ii_61160_j/astronomische_bodenstandu/astronomische-bodenstanduhr-mit-floetenwerk-86337-14.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceType>
+               <lido:term>image</lido:term>
+            </lido:resourceType>
+            <lido:resourceSource lido:type="creator">
+               <lido:legalBodyName>
+                  <lido:appellationValue>Oliver Ziebe, Berlin (2020)</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:resourceSource>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+                  <lido:term>CC BY 4.0</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Stiftung Stadtmuseum Berlin</lido:appellationValue>
+                  </lido:legalBodyName>
+               </lido:rightsHolder>
+            </lido:rightsResource>
+         </lido:resourceSet>
+         <lido:resourceSet lido:sortorder="12">
+            <lido:resourceID lido:source="image" lido:type="local">59538</lido:resourceID>
+            <lido:resourceRepresentation lido:type="image_thumb">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/86337-ii_61160_j/astronomische_bodenstandu/100h_astronomische-bodenstanduhr-mit-floetenwerk-86337-10.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_preview">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/86337-ii_61160_j/astronomische_bodenstandu/200w_astronomische-bodenstanduhr-mit-floetenwerk-86337-10.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/86337-ii_61160_j/astronomische_bodenstandu/astronomische-bodenstanduhr-mit-floetenwerk-86337-10.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceType>
+               <lido:term>image</lido:term>
+            </lido:resourceType>
+            <lido:resourceSource lido:type="creator">
+               <lido:legalBodyName>
+                  <lido:appellationValue>Oliver Ziebe, Berlin (2020)</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:resourceSource>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+                  <lido:term>CC BY 4.0</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Stiftung Stadtmuseum Berlin</lido:appellationValue>
+                  </lido:legalBodyName>
+               </lido:rightsHolder>
+            </lido:rightsResource>
+         </lido:resourceSet>
+         <lido:resourceSet lido:sortorder="13">
+            <lido:resourceID lido:source="image" lido:type="local">59540</lido:resourceID>
+            <lido:resourceRepresentation lido:type="image_thumb">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/86337-ii_61160_j/astronomische_bodenstandu/100h_astronomische-bodenstanduhr-mit-floetenwerk-86337-12.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_preview">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/86337-ii_61160_j/astronomische_bodenstandu/200w_astronomische-bodenstanduhr-mit-floetenwerk-86337-12.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/86337-ii_61160_j/astronomische_bodenstandu/astronomische-bodenstanduhr-mit-floetenwerk-86337-12.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceType>
+               <lido:term>image</lido:term>
+            </lido:resourceType>
+            <lido:resourceSource lido:type="creator">
+               <lido:legalBodyName>
+                  <lido:appellationValue>Oliver Ziebe, Berlin (2020)</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:resourceSource>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+                  <lido:term>CC BY 4.0</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Stiftung Stadtmuseum Berlin</lido:appellationValue>
+                  </lido:legalBodyName>
+               </lido:rightsHolder>
+            </lido:rightsResource>
+         </lido:resourceSet>
+         <lido:resourceSet lido:sortorder="14">
+            <lido:resourceID lido:source="image" lido:type="local">59541</lido:resourceID>
+            <lido:resourceRepresentation lido:type="image_thumb">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/86337-ii_61160_j/astronomische_bodenstandu/100h_astronomische-bodenstanduhr-mit-floetenwerk-86337-13.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_preview">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/86337-ii_61160_j/astronomische_bodenstandu/200w_astronomische-bodenstanduhr-mit-floetenwerk-86337-13.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/86337-ii_61160_j/astronomische_bodenstandu/astronomische-bodenstanduhr-mit-floetenwerk-86337-13.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceType>
+               <lido:term>image</lido:term>
+            </lido:resourceType>
+            <lido:resourceSource lido:type="creator">
+               <lido:legalBodyName>
+                  <lido:appellationValue>Oliver Ziebe, Berlin (2020)</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:resourceSource>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+                  <lido:term>CC BY 4.0</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Stiftung Stadtmuseum Berlin</lido:appellationValue>
+                  </lido:legalBodyName>
+               </lido:rightsHolder>
+            </lido:rightsResource>
+         </lido:resourceSet>
+         <lido:resourceSet lido:sortorder="15">
+            <lido:resourceID lido:source="image" lido:type="local">59539</lido:resourceID>
+            <lido:resourceRepresentation lido:type="image_thumb">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/86337-ii_61160_j/astronomische_bodenstandu/100h_astronomische-bodenstanduhr-mit-floetenwerk-86337-11.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_preview">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/86337-ii_61160_j/astronomische_bodenstandu/200w_astronomische-bodenstanduhr-mit-floetenwerk-86337-11.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/21/86337-ii_61160_j/astronomische_bodenstandu/astronomische-bodenstanduhr-mit-floetenwerk-86337-11.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceType>
+               <lido:term>image</lido:term>
+            </lido:resourceType>
+            <lido:resourceSource lido:type="creator">
+               <lido:legalBodyName>
+                  <lido:appellationValue>Oliver Ziebe, Berlin (2020)</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:resourceSource>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+                  <lido:term>CC BY 4.0</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Stiftung Stadtmuseum Berlin</lido:appellationValue>
+                  </lido:legalBodyName>
+               </lido:rightsHolder>
+            </lido:rightsResource>
+         </lido:resourceSet>
+         <lido:resourceSet lido:sortorder="16">
+            <lido:resourceID lido:source="resource" lido:type="local">102303</lido:resourceID>
+            <lido:resourceRepresentation lido:type="Preview image">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/resources/audio/200w_placeholder_audio.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="provided_audio">
+               <lido:linkResource lido:formatResource="audio/mpeg">https://www.museum-digital.de/data/berlin/resources/audio/202010/14100241433.mp3</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceType>
+               <lido:term>audio</lido:term>
+            </lido:resourceType>
+            <lido:resourceSource lido:type="creator">
+               <lido:legalBodyName>
+                  <lido:appellationValue>Sven Serfling-Krannich, Berlin (2020)</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:resourceSource>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+                  <lido:term>CC BY 4.0</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Stiftung Stadtmuseum Berlin</lido:appellationValue>
+                  </lido:legalBodyName>
+               </lido:rightsHolder>
+            </lido:rightsResource>
+         </lido:resourceSet>
+      </lido:resourceWrap>
+   </lido:administrativeMetadata>
+</lido:lido>
+

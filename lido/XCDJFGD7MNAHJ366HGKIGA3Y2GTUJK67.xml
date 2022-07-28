@@ -1,0 +1,427 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lido:lido xmlns:lido="http://www.lido-schema.org"
+           xmlns:xalan="http://xml.apache.org/xalan">
+   <lido:lidoRecID lido:source="https://berlin.museum-digital.de/index.php?t=institution&amp;instnr=26"
+                   lido:type="local">ddb_oid1612959125221_66502</lido:lidoRecID>
+   <lido:descriptiveMetadata xml:lang="de">
+      <lido:objectClassificationWrap>
+         <lido:objectWorkTypeWrap>
+            <lido:objectWorkType>
+               <lido:term lido:addedSearchTerm="no">Planfilm-Negativ</lido:term>
+            </lido:objectWorkType>
+         </lido:objectWorkTypeWrap>
+         <lido:classificationWrap>
+            <lido:classification lido:type="Sammlung">
+               <lido:conceptID lido:source="local" lido:type="collection_id">746</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no">Firmen und Geschäfte Berlin (West)</lido:term>
+            </lido:classification>
+         </lido:classificationWrap>
+      </lido:objectClassificationWrap>
+      <lido:objectIdentificationWrap>
+         <lido:titleWrap>
+            <lido:titleSet>
+               <lido:appellationValue lido:pref="preferred">Fotografie Gartenrestaurant Rosenau (1)</lido:appellationValue>
+            </lido:titleSet>
+         </lido:titleWrap>
+         <lido:repositoryWrap>
+            <lido:repositorySet lido:type="current">
+               <lido:repositoryName>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Gerda Schimpf Fotoarchiv</lido:appellationValue>
+                  </lido:legalBodyName>
+                  <lido:legalBodyWeblink>https://gerda-schimpf-fotoarchiv.com</lido:legalBodyWeblink>
+               </lido:repositoryName>
+               <lido:workID lido:type="inventory number">5558</lido:workID>
+               <lido:repositoryLocation>
+                  <lido:namePlaceSet>
+                     <lido:appellationValue>Berlin</lido:appellationValue>
+                  </lido:namePlaceSet>
+                  <lido:gml/>
+               </lido:repositoryLocation>
+            </lido:repositorySet>
+         </lido:repositoryWrap>
+         <lido:objectDescriptionWrap>
+            <lido:objectDescriptionSet>
+               <lido:descriptiveNoteValue>Schwarzweißfotografie, Außenaufnahme, Eichenallee 42, 1948&lt;br&gt;
+&lt;br&gt;
+Schräger Blick über einen Teich hinweg, in einen Garten mit einem Haus, von dem der Teil zu sehen ist, der zum Garten hin liegt.&lt;br&gt;
+Bei dem Haus handelt es sich um ein einstöckiges Gebäude mit spitzem Ziegeldach und einer Veranda. Die Veranda ist unterteilt durch mindestens zwei viereckigen Säulen, es gibt im hinteren Teil eine ausgezogene Markise. Die Vorderseite ist verglast, dahinter sind mehrere gedeckte Tische und Stühle auf der Veranda zu sehen. Überall stehen Vasen mit Blumen. Hinter dem Fenster steht eine Reihe Blumentöpfe. Vom Dach herunter und an den Säulen ranken etliche Pflanzen, darunter auch Rosen. &lt;br&gt;
+&lt;br&gt;
+Zwischen Teich und Haus stehen ebenfalls mehrere weiß gedeckte Gartentische mit Gartenstühlen und Sesseln. Auf den Tischen stehen kleine Vasen mit Blumen. Es ist Sommer, die Sonne scheint. Es sind keine Gäste zu sehen.&lt;br&gt;
+&lt;br&gt;
+Im Vordergrund befindet sich ein viereckiger, angelegter Teich mit Seerosen und Gräsern. Der Rand des Teiches ist gemauert und mit Platten versehen. Auf der dem Betrachter zugewandten Seite, oberhalb des Teichrandes verläuft quer ein Rundholz, an dem ein Draht entlang läuft (vermutlich elektrische Leitung).&lt;br&gt;
+&lt;br&gt;
+Ch. Kahlau</lido:descriptiveNoteValue>
+               <lido:sourceDescriptiveNote>Gerda Schimpf Fotoarchiv</lido:sourceDescriptiveNote>
+            </lido:objectDescriptionSet>
+         </lido:objectDescriptionWrap>
+         <lido:objectMeasurementsWrap>
+            <lido:objectMeasurementsSet>
+               <lido:displayObjectMeasurements>Höhe: 6 cm, Breite: 6 cm</lido:displayObjectMeasurements>
+               <lido:objectMeasurements>
+                  <lido:measurementsSet>
+                     <lido:measurementType>width</lido:measurementType>
+                     <lido:measurementUnit>cm</lido:measurementUnit>
+                     <lido:measurementValue>6</lido:measurementValue>
+                  </lido:measurementsSet>
+                  <lido:measurementsSet>
+                     <lido:measurementType>height</lido:measurementType>
+                     <lido:measurementUnit>cm</lido:measurementUnit>
+                     <lido:measurementValue>6</lido:measurementValue>
+                  </lido:measurementsSet>
+               </lido:objectMeasurements>
+            </lido:objectMeasurementsSet>
+         </lido:objectMeasurementsWrap>
+      </lido:objectIdentificationWrap>
+      <lido:eventWrap>
+         <lido:eventSet>
+            <lido:displayEvent>Aufgenommen</lido:displayEvent>
+            <lido:event>
+               <lido:eventID lido:type="local">165166</lido:eventID>
+               <lido:eventType>
+                  <lido:conceptID lido:type="uri">https://event-types.museum-digital.org/10</lido:conceptID>
+                  <lido:term lido:addedSearchTerm="no">Aufgenommen</lido:term>
+               </lido:eventType>
+               <lido:eventName>
+                  <lido:appellationValue>Aufgenommen - Obj. 66502</lido:appellationValue>
+               </lido:eventName>
+               <lido:eventActor>
+                  <lido:displayActorInRole>Gerda Schimpf (1913-2014)</lido:displayActorInRole>
+                  <lido:actorInRole>
+                     <lido:actor>
+                        <lido:actorID lido:source="gnd" lido:type="uri">http://d-nb.info/gnd/1131575903</lido:actorID>
+                        <lido:actorID lido:source="viaf" lido:type="uri">https://viaf.org/viaf/2653149489090493810007</lido:actorID>
+                        <lido:actorID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/persinst/42576</lido:actorID>
+                        <lido:nameActorSet>
+                           <lido:appellationValue>Schimpf, Gerda</lido:appellationValue>
+                        </lido:nameActorSet>
+                        <lido:vitalDatesActor>
+                           <lido:earliestDate>1913</lido:earliestDate>
+                           <lido:latestDate>2014</lido:latestDate>
+                        </lido:vitalDatesActor>
+                     </lido:actor>
+                  </lido:actorInRole>
+               </lido:eventActor>
+               <lido:eventDate>
+                  <lido:displayDate>1948</lido:displayDate>
+                  <lido:displayDate xml:lang="ar">1948</lido:displayDate>
+                  <lido:displayDate xml:lang="en">1948</lido:displayDate>
+                  <lido:displayDate xml:lang="es">1948</lido:displayDate>
+                  <lido:displayDate xml:lang="fa">1948</lido:displayDate>
+                  <lido:displayDate xml:lang="fr">1948</lido:displayDate>
+                  <lido:displayDate xml:lang="hu">1948</lido:displayDate>
+                  <lido:displayDate xml:lang="id">1948</lido:displayDate>
+                  <lido:displayDate xml:lang="it">1948</lido:displayDate>
+                  <lido:displayDate xml:lang="ja">1948年</lido:displayDate>
+                  <lido:displayDate xml:lang="ka">1948</lido:displayDate>
+                  <lido:displayDate xml:lang="ko">1948년</lido:displayDate>
+                  <lido:displayDate xml:lang="pl">1948</lido:displayDate>
+                  <lido:displayDate xml:lang="pt">1948</lido:displayDate>
+                  <lido:displayDate xml:lang="ro">1948</lido:displayDate>
+                  <lido:displayDate xml:lang="ru">1948</lido:displayDate>
+                  <lido:displayDate xml:lang="ta">1948</lido:displayDate>
+                  <lido:displayDate xml:lang="tl">1948</lido:displayDate>
+                  <lido:displayDate xml:lang="tr">1948</lido:displayDate>
+                  <lido:displayDate xml:lang="zh">1948年</lido:displayDate>
+                  <lido:date>
+                     <lido:earliestDate>1948</lido:earliestDate>
+                     <lido:latestDate>1948</lido:latestDate>
+                  </lido:date>
+               </lido:eventDate>
+               <lido:eventPlace>
+                  <lido:displayPlace>Berlin-Westend</lido:displayPlace>
+                  <lido:displayPlace xml:lang="da">Berlin-Westend</lido:displayPlace>
+                  <lido:displayPlace xml:lang="en">Berlin-Westend</lido:displayPlace>
+                  <lido:displayPlace xml:lang="fa">وشتند (برلین)</lido:displayPlace>
+                  <lido:displayPlace xml:lang="fi">Westend</lido:displayPlace>
+                  <lido:displayPlace xml:lang="fr">Berlin-Westend</lido:displayPlace>
+                  <lido:displayPlace xml:lang="he">וסטנד</lido:displayPlace>
+                  <lido:displayPlace xml:lang="it">Berlin-Westend</lido:displayPlace>
+                  <lido:displayPlace xml:lang="nl">Berlin-Westend</lido:displayPlace>
+                  <lido:displayPlace xml:lang="pl">Westend</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ru">Вестэнд</lido:displayPlace>
+                  <lido:displayPlace xml:lang="sv">Westend, Berlin</lido:displayPlace>
+                  <lido:displayPlace xml:lang="tr">Westend</lido:displayPlace>
+                  <lido:place>
+                     <lido:placeID lido:source="geonames" lido:type="uri">https://sws.geonames.org/2810538</lido:placeID>
+                     <lido:placeID lido:source="TGN" lido:type="uri">http://vocab.getty.edu/tgn/7032551</lido:placeID>
+                     <lido:placeID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/7558313-6</lido:placeID>
+                     <lido:placeID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q649947</lido:placeID>
+                     <lido:placeID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/place/759</lido:placeID>
+                     <lido:namePlaceSet>
+                        <lido:appellationValue>Berlin-Westend</lido:appellationValue>
+                        <lido:appellationValue xml:lang="da">Berlin-Westend</lido:appellationValue>
+                        <lido:appellationValue xml:lang="en">Berlin-Westend</lido:appellationValue>
+                        <lido:appellationValue xml:lang="fa">وشتند (برلین)</lido:appellationValue>
+                        <lido:appellationValue xml:lang="fi">Westend</lido:appellationValue>
+                        <lido:appellationValue xml:lang="fr">Berlin-Westend</lido:appellationValue>
+                        <lido:appellationValue xml:lang="he">וסטנד</lido:appellationValue>
+                        <lido:appellationValue xml:lang="it">Berlin-Westend</lido:appellationValue>
+                        <lido:appellationValue xml:lang="nl">Berlin-Westend</lido:appellationValue>
+                        <lido:appellationValue xml:lang="pl">Westend</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ru">Вестэнд</lido:appellationValue>
+                        <lido:appellationValue xml:lang="sv">Westend, Berlin</lido:appellationValue>
+                        <lido:appellationValue xml:lang="tr">Westend</lido:appellationValue>
+                     </lido:namePlaceSet>
+                     <lido:gml/>
+                  </lido:place>
+               </lido:eventPlace>
+            </lido:event>
+         </lido:eventSet>
+         <lido:eventSet>
+            <lido:event>
+               <lido:eventType>
+                  <lido:conceptID lido:type="uri">http://terminology.lido-schema.org/lido00003</lido:conceptID>
+                  <lido:term>Event (non-specified)</lido:term>
+               </lido:eventType>
+               <lido:eventMaterialsTech>
+                  <lido:displayMaterialsTech>Negativfilm Zelluloseacetat</lido:displayMaterialsTech>
+               </lido:eventMaterialsTech>
+            </lido:event>
+         </lido:eventSet>
+      </lido:eventWrap>
+      <lido:objectRelationWrap>
+         <lido:subjectWrap>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q3947</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/75</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Haus</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ar">منزل</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="bn">বাড়ি</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="cs">Dům</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="da">Hus</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="el">οικία</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="en">House</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="es">Casa</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fa">خانه</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fi">Asuintalo</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fr">Maison</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ha">gida</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="he">בית מגורים</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hi">घर</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hu">ház</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="id">Rumah</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="it">Casa</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ja">住宅</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ka">სახლი</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ko">집</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="nl">Woonhuis</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pl">Dom</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pt">Casa</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ru">дом</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sv">Hus</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sw">Nyumba</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ta">வீடு</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="th">บ้าน</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tl">Tahanan</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tr">Ev</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ur">مکان</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="vi">Nhà</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="zh">住宅</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="aat" lido:type="uri">http://vocab.getty.edu/aat/300133099</lido:conceptID>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4136980-4</lido:conceptID>
+                     <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh85130432</lido:conceptID>
+                     <lido:conceptID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q1313</lido:conceptID>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Sommer</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/6530</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Sommer</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ar">صيف</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="bn">গ্রীষ্ম</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="cs">Léto</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="da">Sommer</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="el">καλοκαίρι</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="en">Summer</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="es">Verano</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fa">تابستان</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fi">Kesä</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fr">été</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="he">קיץ</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hi">ग्रीष्म ऋतु</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hu">nyár</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="id">Musim panas</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="it">Estate</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ja">夏</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ka">ზაფხული</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ko">여름</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="nl">Zomer</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pl">Lato</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pt">Verão</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ro">vară</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ru">лето</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sv">Sommar</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sw">kipindi cha kiangazi</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ta">கோடைகாலம்</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="th">ฤดูร้อน</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tl">Tag-init</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tr">Yaz</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ur">موسم گرما</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="vi">mùa hạ</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="zh">夏季</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">http://d-nb.info/gnd/4134177-6</lido:conceptID>
+                     <lido:conceptID lido:source="iconclass" lido:type="uri">http://iconclass.org/rkd/25H2143/</lido:conceptID>
+                     <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh85104792</lido:conceptID>
+                     <lido:conceptID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q85842470</lido:conceptID>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Teich</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/7528</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Teich</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="aat" lido:type="uri">http://vocab.getty.edu/aat/300266246</lido:conceptID>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4050536-4</lido:conceptID>
+                     <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh85115443</lido:conceptID>
+                     <lido:conceptID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q34687</lido:conceptID>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Rosen</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/10762</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Rose</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ar">ورد</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="bn">গোলাপ</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="cs">Růže</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="da">Rose</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="el">Τριανταφυλλιά</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="en">Rosa</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="es">Rosa</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fa">رز</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fi">Ruusut</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fr">Rose</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="he">ורד</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hi">गुलाब</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hu">rózsa</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="id">Mawar</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="it">Rosa</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ja">バラ</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ka">ვარდი</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ko">장미</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="nl">Rozen</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pl">Róża</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pt">Rosa</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ru">Шиповник</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sv">Rossläktet</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sw">Mwaridi</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ta">உரோசா</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="th">กุหลาบ</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tl">Rosas</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tr">Gül</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ur">گلاب</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="vi">hoa hồng</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="zh">蔷薇属</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="aat" lido:type="uri">https://vocab.getty.edu/page/aat/300004132</lido:conceptID>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">http://d-nb.info/gnd/4769937-1</lido:conceptID>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Veranda</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/27997</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Veranda</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/76167</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Sommergarten</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+         </lido:subjectWrap>
+      </lido:objectRelationWrap>
+   </lido:descriptiveMetadata>
+   <lido:administrativeMetadata xml:lang="de">
+      <lido:rightsWorkWrap>
+         <lido:rightsWorkSet>
+            <lido:rightsHolder>
+               <lido:legalBodyName>
+                  <lido:appellationValue>Gerda Schimpf Fotoarchiv</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:rightsHolder>
+         </lido:rightsWorkSet>
+      </lido:rightsWorkWrap>
+      <lido:recordWrap>
+         <lido:recordID lido:type="museum-digital">66502</lido:recordID>
+         <lido:recordType>
+            <lido:term lido:addedSearchTerm="no">item</lido:term>
+         </lido:recordType>
+         <lido:recordSource lido:type="dataProvider">
+            <lido:legalBodyName>
+               <lido:appellationValue>museum-digital</lido:appellationValue>
+            </lido:legalBodyName>
+            <lido:legalBodyWeblink>https://berlin.museum-digital.de/</lido:legalBodyWeblink>
+         </lido:recordSource>
+         <lido:recordSource>
+            <lido:legalBodyName>
+               <lido:appellationValue>Gerda Schimpf Fotoarchiv</lido:appellationValue>
+            </lido:legalBodyName>
+         </lido:recordSource>
+         <lido:recordRights>
+            <lido:rightsType>
+               <lido:conceptID lido:type="uri">https://creativecommons.org/publicdomain/zero/1.0/</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no">CC 0</lido:term>
+            </lido:rightsType>
+            <lido:rightsHolder>
+               <lido:legalBodyName>
+                  <lido:appellationValue>Gerda Schimpf Fotoarchiv</lido:appellationValue>
+               </lido:legalBodyName>
+               <lido:legalBodyWeblink>https://gerda-schimpf-fotoarchiv.com</lido:legalBodyWeblink>
+            </lido:rightsHolder>
+            <lido:creditLine>Förderprogramm zur Digitalisierung von Objekten des kulturellen Erbes des Landes Berlin</lido:creditLine>
+         </lido:recordRights>
+         <lido:recordInfoSet>
+            <lido:recordInfoLink>https://berlin.museum-digital.de/index.php?t=objekt&amp;oges=66502</lido:recordInfoLink>
+            <lido:recordMetadataDate>2021-05-10 13:20:50</lido:recordMetadataDate>
+         </lido:recordInfoSet>
+      </lido:recordWrap>
+      <lido:resourceWrap>
+         <lido:resourceSet lido:sortorder="1">
+            <lido:resourceID lido:source="image" lido:type="local">49208</lido:resourceID>
+            <lido:resourceRepresentation lido:type="image_thumb">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/26/66502-5558/gartenrestaurant_rosenau_/100h_gartenrestaurant-rosenau-1-66502.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_preview">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/26/66502-5558/gartenrestaurant_rosenau_/200w_gartenrestaurant-rosenau-1-66502.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="Provided image">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/26/66502-5558/gartenrestaurant_rosenau_/gartenrestaurant-rosenau-1-66502.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceType>
+               <lido:term lido:addedSearchTerm="no">image</lido:term>
+            </lido:resourceType>
+            <lido:resourceRelType>
+               <lido:term lido:addedSearchTerm="no">Hauptansicht</lido:term>
+            </lido:resourceRelType>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+                  <lido:term lido:addedSearchTerm="no">CC BY</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Gerda Schimpf Fotoarchiv</lido:appellationValue>
+                  </lido:legalBodyName>
+               </lido:rightsHolder>
+            </lido:rightsResource>
+         </lido:resourceSet>
+      </lido:resourceWrap>
+   </lido:administrativeMetadata>
+</lido:lido>
+

@@ -1,0 +1,473 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lido:lido xmlns:lido="http://www.lido-schema.org"
+           xmlns:xalan="http://xml.apache.org/xalan">
+   <lido:lidoRecID lido:source="https://berlin.museum-digital.de/index.php?t=institution&amp;instnr=32"
+                   lido:type="local">DE-B185/66926</lido:lidoRecID>
+   <lido:category/>
+   <lido:descriptiveMetadata xml:lang="de">
+      <lido:objectClassificationWrap>
+         <lido:objectWorkTypeWrap>
+            <lido:objectWorkType>
+               <lido:conceptID lido:source="gnd" lido:type="uri">http://d-nb.info/gnd/4021845-4</lido:conceptID>
+               <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/13314</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Druckgraphik</lido:term>
+            </lido:objectWorkType>
+         </lido:objectWorkTypeWrap>
+         <lido:classificationWrap>
+            <lido:classification lido:type="Sammlung">
+               <lido:conceptID lido:source="local" lido:type="collection_id">705</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Handzeichnungen, Druckgraphik, Gemälde</lido:term>
+            </lido:classification>
+            <lido:classification lido:type="Sammlung">
+               <lido:conceptID lido:source="local" lido:type="collection_id">710</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Porträts</lido:term>
+            </lido:classification>
+         </lido:classificationWrap>
+      </lido:objectClassificationWrap>
+      <lido:objectIdentificationWrap>
+         <lido:titleWrap>
+            <lido:titleSet>
+               <lido:appellationValue lido:pref="preferred">Wilhelmine Luise, Prinzessin von Preußen, geb. Prinzessin von Anhalt-Bernburg (1799-1882)</lido:appellationValue>
+            </lido:titleSet>
+         </lido:titleWrap>
+         <lido:repositoryWrap>
+            <lido:repositorySet lido:type="current">
+               <lido:repositoryName>
+                  <lido:legalBodyID lido:type="isil">DE-B185</lido:legalBodyID>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+                  </lido:legalBodyName>
+                  <lido:legalBodyWeblink>http://geschichte-brandenburg.de/</lido:legalBodyWeblink>
+               </lido:repositoryName>
+               <lido:workID lido:type="inventory number">LGV-Archiv, C 12 G-3-018</lido:workID>
+               <lido:repositoryLocation>
+                  <lido:namePlaceSet>
+                     <lido:appellationValue>Berlin</lido:appellationValue>
+                  </lido:namePlaceSet>
+                  <lido:gml>
+                     <gml:Point xmlns:gml="http://www.opengis.net/gml" srsName="EPSG:4326">
+                        <gml:pos>52.51533127 13.40440559</gml:pos>
+                     </gml:Point>
+                  </lido:gml>
+               </lido:repositoryLocation>
+            </lido:repositorySet>
+         </lido:repositoryWrap>
+         <lido:objectDescriptionWrap>
+            <lido:objectDescriptionSet>
+               <lido:descriptiveNoteValue>Dargestellt ist Wilhelmine Luise, geb. Prinzessin von Anhalt-Bernburg, Gemahlin des Prinzen Friedrich von Preußen (1794-1863), in einem Hüftbildnis nach halbrechts, sich auf eine Konsole stützend. Der Fensterausblick zeigt Schloss Jägerhof im Düsseldorfer Stadtteil Pempelfort, der seit 1821 beliebteste Aufenthalt des Paares. Der Maler Carl Thelott (1792-1830) war 1821/23 für den Prinzen Friedrich in Düsseldorf tätig, wo das Gemälde entstanden ist. Sein Vater Ernst Carl Gottlieb Thelott (1760-1834) reproduzierte es ebenso wie als Gegenstück auch das Porträt ihres Ehemannes Prinz Friedrich. &#xD;
+&#xD;
+Bez. li. u. "Gemalt von Carl Thelott.", re.u. "Gest. von Ernst Thelott in Düsseldorf".&#xD;
+Altbestand des Archivs.&#xD;
+&#xD;
+Literatur: Georg Kaspar Nagler: Neues allgemeines Künstler-Lexicon. Bd. 12. München 1848, S. 301 (Nr. 4: "Die Bildnisse des Prinzen Friedrich und seiner Gemahlin, in Grabstichelmanier 1822, kl. fol.").</lido:descriptiveNoteValue>
+               <lido:sourceDescriptiveNote>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:sourceDescriptiveNote>
+            </lido:objectDescriptionSet>
+         </lido:objectDescriptionWrap>
+         <lido:objectMeasurementsWrap>
+            <lido:objectMeasurementsSet>
+               <lido:displayObjectMeasurements>Plattengröße: Höhe 28,5 cm, Breite 21,8 cm (Gegenstück zu vorigem), leicht fasserfleckig amRand</lido:displayObjectMeasurements>
+               <lido:objectMeasurements/>
+            </lido:objectMeasurementsSet>
+         </lido:objectMeasurementsWrap>
+      </lido:objectIdentificationWrap>
+      <lido:eventWrap>
+         <lido:eventSet>
+            <lido:event>
+               <lido:eventType>
+                  <lido:conceptID lido:type="uri">https://event-types.museum-digital.org/1</lido:conceptID>
+                  <lido:term lido:addedSearchTerm="no">Hergestellt</lido:term>
+               </lido:eventType>
+               <lido:eventActor>
+                  <lido:displayActorInRole>Ernst Carl Thelott (1760-1834)</lido:displayActorInRole>
+                  <lido:actorInRole>
+                     <lido:actor>
+                        <lido:actorID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Ernst_Carl_Thelott</lido:actorID>
+                        <lido:actorID lido:source="bne" lido:type="uri">http://datos.bne.es/persona/XX4748974</lido:actorID>
+                        <lido:actorID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/12636723X</lido:actorID>
+                        <lido:actorID lido:source="viaf" lido:type="uri">https://viaf.org/viaf/13299239</lido:actorID>
+                        <lido:actorID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q1357737</lido:actorID>
+                        <lido:actorID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/persinst/10082</lido:actorID>
+                        <lido:nameActorSet>
+                           <lido:appellationValue>Thelott, Ernst Carl</lido:appellationValue>
+                           <lido:appellationValue xml:lang="da">Ernst Carl Thelott</lido:appellationValue>
+                           <lido:appellationValue xml:lang="de">Ernst Carl Thelott</lido:appellationValue>
+                           <lido:appellationValue xml:lang="en">Ernst Karl Gottlieb Thelott</lido:appellationValue>
+                           <lido:appellationValue xml:lang="nl">Ernst Karl Gottlieb Thelott</lido:appellationValue>
+                           <lido:appellationValue xml:lang="pt">Ernst Carl Thelott</lido:appellationValue>
+                        </lido:nameActorSet>
+                        <lido:vitalDatesActor>
+                           <lido:earliestDate>1760</lido:earliestDate>
+                           <lido:latestDate>1834</lido:latestDate>
+                        </lido:vitalDatesActor>
+                     </lido:actor>
+                  </lido:actorInRole>
+               </lido:eventActor>
+               <lido:eventDate>
+                  <lido:displayDate>1822</lido:displayDate>
+                  <lido:displayDate xml:lang="ar">1822</lido:displayDate>
+                  <lido:displayDate xml:lang="de">1822</lido:displayDate>
+                  <lido:displayDate xml:lang="en">1822</lido:displayDate>
+                  <lido:displayDate xml:lang="es">1822</lido:displayDate>
+                  <lido:displayDate xml:lang="fa">1822</lido:displayDate>
+                  <lido:displayDate xml:lang="fr">1822</lido:displayDate>
+                  <lido:displayDate xml:lang="hu">1822</lido:displayDate>
+                  <lido:displayDate xml:lang="id">1822</lido:displayDate>
+                  <lido:displayDate xml:lang="it">1822</lido:displayDate>
+                  <lido:displayDate xml:lang="ja">1822年</lido:displayDate>
+                  <lido:displayDate xml:lang="ka">1822</lido:displayDate>
+                  <lido:displayDate xml:lang="ko">1822년</lido:displayDate>
+                  <lido:displayDate xml:lang="pl">1822</lido:displayDate>
+                  <lido:displayDate xml:lang="pt">1822</lido:displayDate>
+                  <lido:displayDate xml:lang="ro">1822</lido:displayDate>
+                  <lido:displayDate xml:lang="ru">1822</lido:displayDate>
+                  <lido:displayDate xml:lang="ta">1822</lido:displayDate>
+                  <lido:displayDate xml:lang="tl">1822</lido:displayDate>
+                  <lido:displayDate xml:lang="tr">1822</lido:displayDate>
+                  <lido:displayDate xml:lang="zh">1822年</lido:displayDate>
+                  <lido:date>
+                     <lido:earliestDate>1822</lido:earliestDate>
+                     <lido:latestDate>1822</lido:latestDate>
+                  </lido:date>
+               </lido:eventDate>
+               <lido:eventPlace>
+                  <lido:displayPlace>Düsseldorf</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ar">دوسلدورف</lido:displayPlace>
+                  <lido:displayPlace xml:lang="cs">Düsseldorf</lido:displayPlace>
+                  <lido:displayPlace xml:lang="da">Düsseldorf</lido:displayPlace>
+                  <lido:displayPlace xml:lang="de">Düsseldorf</lido:displayPlace>
+                  <lido:displayPlace xml:lang="el">Ντίσελντορφ</lido:displayPlace>
+                  <lido:displayPlace xml:lang="en">Düsseldorf</lido:displayPlace>
+                  <lido:displayPlace xml:lang="es">Düsseldorf</lido:displayPlace>
+                  <lido:displayPlace xml:lang="fa">دوسلدورف</lido:displayPlace>
+                  <lido:displayPlace xml:lang="fi">Düsseldorf</lido:displayPlace>
+                  <lido:displayPlace xml:lang="fr">Düsseldorf</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ha">Düsseldorf</lido:displayPlace>
+                  <lido:displayPlace xml:lang="he">דיסלדורף</lido:displayPlace>
+                  <lido:displayPlace xml:lang="hi">डसेलडॉर्फ़</lido:displayPlace>
+                  <lido:displayPlace xml:lang="hu">Düsseldorf</lido:displayPlace>
+                  <lido:displayPlace xml:lang="id">Düsseldorf</lido:displayPlace>
+                  <lido:displayPlace xml:lang="it">Düsseldorf</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ja">デュッセルドルフ</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ka">დიუსელდორფი</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ko">뒤셀도르프</lido:displayPlace>
+                  <lido:displayPlace xml:lang="nl">Düsseldorf</lido:displayPlace>
+                  <lido:displayPlace xml:lang="pl">Düsseldorf</lido:displayPlace>
+                  <lido:displayPlace xml:lang="pt">Düsseldorf</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ro">Düsseldorf</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ru">Дюссельдорф</lido:displayPlace>
+                  <lido:displayPlace xml:lang="sv">Düsseldorf</lido:displayPlace>
+                  <lido:displayPlace xml:lang="sw">Düsseldorf</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ta">டுசல்டோர்ஃப்</lido:displayPlace>
+                  <lido:displayPlace xml:lang="th">ดึสเซิลดอร์ฟ</lido:displayPlace>
+                  <lido:displayPlace xml:lang="tl">Düsseldorf</lido:displayPlace>
+                  <lido:displayPlace xml:lang="tr">Düsseldorf</lido:displayPlace>
+                  <lido:displayPlace xml:lang="ur">ڈسلڈورف</lido:displayPlace>
+                  <lido:displayPlace xml:lang="vi">Düsseldorf</lido:displayPlace>
+                  <lido:displayPlace xml:lang="zh">杜塞尔多夫</lido:displayPlace>
+                  <lido:place>
+                     <lido:placeID lido:source="geonames" lido:type="uri">https://sws.geonames.org/2934246</lido:placeID>
+                     <lido:placeID lido:source="TGN" lido:type="uri">http://vocab.getty.edu/tgn/7004443</lido:placeID>
+                     <lido:placeID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4013255-9</lido:placeID>
+                     <lido:placeID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q1718</lido:placeID>
+                     <lido:placeID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/place/204</lido:placeID>
+                     <lido:namePlaceSet>
+                        <lido:appellationValue>Düsseldorf</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ar">دوسلدورف</lido:appellationValue>
+                        <lido:appellationValue xml:lang="cs">Düsseldorf</lido:appellationValue>
+                        <lido:appellationValue xml:lang="da">Düsseldorf</lido:appellationValue>
+                        <lido:appellationValue xml:lang="de">Düsseldorf</lido:appellationValue>
+                        <lido:appellationValue xml:lang="el">Ντίσελντορφ</lido:appellationValue>
+                        <lido:appellationValue xml:lang="en">Düsseldorf</lido:appellationValue>
+                        <lido:appellationValue xml:lang="es">Düsseldorf</lido:appellationValue>
+                        <lido:appellationValue xml:lang="fa">دوسلدورف</lido:appellationValue>
+                        <lido:appellationValue xml:lang="fi">Düsseldorf</lido:appellationValue>
+                        <lido:appellationValue xml:lang="fr">Düsseldorf</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ha">Düsseldorf</lido:appellationValue>
+                        <lido:appellationValue xml:lang="he">דיסלדורף</lido:appellationValue>
+                        <lido:appellationValue xml:lang="hi">डसेलडॉर्फ़</lido:appellationValue>
+                        <lido:appellationValue xml:lang="hu">Düsseldorf</lido:appellationValue>
+                        <lido:appellationValue xml:lang="id">Düsseldorf</lido:appellationValue>
+                        <lido:appellationValue xml:lang="it">Düsseldorf</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ja">デュッセルドルフ</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ka">დიუსელდორფი</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ko">뒤셀도르프</lido:appellationValue>
+                        <lido:appellationValue xml:lang="nl">Düsseldorf</lido:appellationValue>
+                        <lido:appellationValue xml:lang="pl">Düsseldorf</lido:appellationValue>
+                        <lido:appellationValue xml:lang="pt">Düsseldorf</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ro">Düsseldorf</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ru">Дюссельдорф</lido:appellationValue>
+                        <lido:appellationValue xml:lang="sv">Düsseldorf</lido:appellationValue>
+                        <lido:appellationValue xml:lang="sw">Düsseldorf</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ta">டுசல்டோர்ஃப்</lido:appellationValue>
+                        <lido:appellationValue xml:lang="th">ดึสเซิลดอร์ฟ</lido:appellationValue>
+                        <lido:appellationValue xml:lang="tl">Düsseldorf</lido:appellationValue>
+                        <lido:appellationValue xml:lang="tr">Düsseldorf</lido:appellationValue>
+                        <lido:appellationValue xml:lang="ur">ڈسلڈورف</lido:appellationValue>
+                        <lido:appellationValue xml:lang="vi">Düsseldorf</lido:appellationValue>
+                        <lido:appellationValue xml:lang="zh">杜塞尔多夫</lido:appellationValue>
+                     </lido:namePlaceSet>
+                     <lido:gml>
+                        <gml:Point xmlns:gml="http://www.opengis.net/gml" srsName="EPSG:4326">
+                           <gml:pos>51.231143951416 6.7723803520203</gml:pos>
+                        </gml:Point>
+                     </lido:gml>
+                  </lido:place>
+               </lido:eventPlace>
+            </lido:event>
+         </lido:eventSet>
+         <lido:eventSet>
+            <lido:displayEvent>Geistige Schöpfung</lido:displayEvent>
+            <lido:event>
+               <lido:eventType>
+                  <lido:conceptID lido:type="uri">https://event-types.museum-digital.org/4</lido:conceptID>
+                  <lido:term lido:addedSearchTerm="no">Geistige Schöpfung</lido:term>
+               </lido:eventType>
+               <lido:eventActor>
+                  <lido:displayActorInRole>Karl Franz Joseph Thelott (1792-1830)</lido:displayActorInRole>
+                  <lido:actorInRole>
+                     <lido:actor>
+                        <lido:actorID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Karl_Franz_Joseph_Thelott</lido:actorID>
+                        <lido:actorID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/1162282355</lido:actorID>
+                        <lido:actorID lido:source="viaf" lido:type="uri">https://viaf.org/viaf/137112156</lido:actorID>
+                        <lido:actorID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q88387910</lido:actorID>
+                        <lido:actorID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/persinst/125421</lido:actorID>
+                        <lido:nameActorSet>
+                           <lido:appellationValue>Thelott, Karl Franz Joseph</lido:appellationValue>
+                           <lido:appellationValue xml:lang="de">Karl Franz Joseph Thelott</lido:appellationValue>
+                        </lido:nameActorSet>
+                        <lido:vitalDatesActor>
+                           <lido:earliestDate>1792</lido:earliestDate>
+                           <lido:latestDate>1830</lido:latestDate>
+                        </lido:vitalDatesActor>
+                     </lido:actor>
+                  </lido:actorInRole>
+               </lido:eventActor>
+            </lido:event>
+         </lido:eventSet>
+         <lido:eventSet>
+            <lido:event>
+               <lido:eventType>
+                  <lido:conceptID lido:type="uri">http://terminology.lido-schema.org/lido00003</lido:conceptID>
+                  <lido:term>Event (non-specified)</lido:term>
+               </lido:eventType>
+               <lido:eventMaterialsTech>
+                  <lido:displayMaterialsTech>Kupferstich, Stichel</lido:displayMaterialsTech>
+               </lido:eventMaterialsTech>
+            </lido:event>
+         </lido:eventSet>
+      </lido:eventWrap>
+      <lido:objectRelationWrap>
+         <lido:subjectWrap>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectPlace>
+                     <lido:displayPlace>Preußen</lido:displayPlace>
+                     <lido:displayPlace xml:lang="ar">بروسيا</lido:displayPlace>
+                     <lido:displayPlace xml:lang="bn">প্রুশিয়া</lido:displayPlace>
+                     <lido:displayPlace xml:lang="cs">Prusko</lido:displayPlace>
+                     <lido:displayPlace xml:lang="da">Preussen</lido:displayPlace>
+                     <lido:displayPlace xml:lang="de">Preußen</lido:displayPlace>
+                     <lido:displayPlace xml:lang="el">Πρωσία</lido:displayPlace>
+                     <lido:displayPlace xml:lang="en">Prussia</lido:displayPlace>
+                     <lido:displayPlace xml:lang="es">Prusia</lido:displayPlace>
+                     <lido:displayPlace xml:lang="fa">پروس</lido:displayPlace>
+                     <lido:displayPlace xml:lang="fi">Preussi</lido:displayPlace>
+                     <lido:displayPlace xml:lang="fr">Prusse</lido:displayPlace>
+                     <lido:displayPlace xml:lang="he">פרוסיה</lido:displayPlace>
+                     <lido:displayPlace xml:lang="hi">प्रुशिया</lido:displayPlace>
+                     <lido:displayPlace xml:lang="hu">Poroszország</lido:displayPlace>
+                     <lido:displayPlace xml:lang="id">Prusia</lido:displayPlace>
+                     <lido:displayPlace xml:lang="it">Prussia</lido:displayPlace>
+                     <lido:displayPlace xml:lang="ja">プロイセン</lido:displayPlace>
+                     <lido:displayPlace xml:lang="ka">პრუსია</lido:displayPlace>
+                     <lido:displayPlace xml:lang="ko">프로이센</lido:displayPlace>
+                     <lido:displayPlace xml:lang="nl">Pruisen</lido:displayPlace>
+                     <lido:displayPlace xml:lang="pl">Prusy</lido:displayPlace>
+                     <lido:displayPlace xml:lang="pt">Prússia</lido:displayPlace>
+                     <lido:displayPlace xml:lang="ru">Пруссия</lido:displayPlace>
+                     <lido:displayPlace xml:lang="sv">Preussen</lido:displayPlace>
+                     <lido:displayPlace xml:lang="sw">Prussia</lido:displayPlace>
+                     <lido:displayPlace xml:lang="ta">புருசியா</lido:displayPlace>
+                     <lido:displayPlace xml:lang="th">ปรัสเซีย</lido:displayPlace>
+                     <lido:displayPlace xml:lang="tl">Prusya</lido:displayPlace>
+                     <lido:displayPlace xml:lang="tr">Prusya</lido:displayPlace>
+                     <lido:displayPlace xml:lang="ur">پروشیا</lido:displayPlace>
+                     <lido:displayPlace xml:lang="vi">Phổ</lido:displayPlace>
+                     <lido:displayPlace xml:lang="zh">普魯士</lido:displayPlace>
+                     <lido:place>
+                        <lido:placeID lido:source="geonames" lido:type="uri">https://sws.geonames.org/</lido:placeID>
+                        <lido:placeID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4047194-9</lido:placeID>
+                        <lido:placeID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q38872</lido:placeID>
+                        <lido:placeID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/place/3122</lido:placeID>
+                        <lido:namePlaceSet>
+                           <lido:appellationValue>Preußen</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ar">بروسيا</lido:appellationValue>
+                           <lido:appellationValue xml:lang="bn">প্রুশিয়া</lido:appellationValue>
+                           <lido:appellationValue xml:lang="cs">Prusko</lido:appellationValue>
+                           <lido:appellationValue xml:lang="da">Preussen</lido:appellationValue>
+                           <lido:appellationValue xml:lang="de">Preußen</lido:appellationValue>
+                           <lido:appellationValue xml:lang="el">Πρωσία</lido:appellationValue>
+                           <lido:appellationValue xml:lang="en">Prussia</lido:appellationValue>
+                           <lido:appellationValue xml:lang="es">Prusia</lido:appellationValue>
+                           <lido:appellationValue xml:lang="fa">پروس</lido:appellationValue>
+                           <lido:appellationValue xml:lang="fi">Preussi</lido:appellationValue>
+                           <lido:appellationValue xml:lang="fr">Prusse</lido:appellationValue>
+                           <lido:appellationValue xml:lang="he">פרוסיה</lido:appellationValue>
+                           <lido:appellationValue xml:lang="hi">प्रुशिया</lido:appellationValue>
+                           <lido:appellationValue xml:lang="hu">Poroszország</lido:appellationValue>
+                           <lido:appellationValue xml:lang="id">Prusia</lido:appellationValue>
+                           <lido:appellationValue xml:lang="it">Prussia</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ja">プロイセン</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ka">პრუსია</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ko">프로이센</lido:appellationValue>
+                           <lido:appellationValue xml:lang="nl">Pruisen</lido:appellationValue>
+                           <lido:appellationValue xml:lang="pl">Prusy</lido:appellationValue>
+                           <lido:appellationValue xml:lang="pt">Prússia</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ru">Пруссия</lido:appellationValue>
+                           <lido:appellationValue xml:lang="sv">Preussen</lido:appellationValue>
+                           <lido:appellationValue xml:lang="sw">Prussia</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ta">புருசியா</lido:appellationValue>
+                           <lido:appellationValue xml:lang="th">ปรัสเซีย</lido:appellationValue>
+                           <lido:appellationValue xml:lang="tl">Prusya</lido:appellationValue>
+                           <lido:appellationValue xml:lang="tr">Prusya</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ur">پروشیا</lido:appellationValue>
+                           <lido:appellationValue xml:lang="vi">Phổ</lido:appellationValue>
+                           <lido:appellationValue xml:lang="zh">普魯士</lido:appellationValue>
+                        </lido:namePlaceSet>
+                        <lido:gml>
+                           <gml:Point xmlns:gml="http://www.opengis.net/gml" srsName="EPSG:4326">
+                              <gml:pos>52.519172668457 13.406090736389</gml:pos>
+                           </gml:Point>
+                        </lido:gml>
+                     </lido:place>
+                  </lido:subjectPlace>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/29139</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Damenporträt</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="de">Damenporträt</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/75699</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Schloss Jägerhof (heute Goethe-Museum Düsseldorf)</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+         </lido:subjectWrap>
+         <lido:relatedWorksWrap>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:displayObject>Mehr über die Dargestellte:</lido:displayObject>
+                  <lido:object>
+                     <lido:objectWebResource>https://de.wikipedia.org/wiki/Luise_von_Anhalt-Bernburg</lido:objectWebResource>
+                  </lido:object>
+               </lido:relatedWork>
+            </lido:relatedWorkSet>
+            <lido:relatedWorkSet>
+               <lido:relatedWork>
+                  <lido:displayObject>Gegenstück</lido:displayObject>
+                  <lido:object>
+                     <lido:objectWebResource>https://berlin.museum-digital.de/index.php?t=objekt&amp;oges=66924</lido:objectWebResource>
+                  </lido:object>
+               </lido:relatedWork>
+            </lido:relatedWorkSet>
+         </lido:relatedWorksWrap>
+      </lido:objectRelationWrap>
+   </lido:descriptiveMetadata>
+   <lido:administrativeMetadata xml:lang="de">
+      <lido:rightsWorkWrap>
+         <lido:rightsWorkSet>
+            <lido:rightsHolder>
+               <lido:legalBodyName>
+                  <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:rightsHolder>
+         </lido:rightsWorkSet>
+      </lido:rightsWorkWrap>
+      <lido:recordWrap>
+         <lido:recordID lido:type="museum-digital">66926</lido:recordID>
+         <lido:recordType>
+            <lido:term lido:addedSearchTerm="no">item</lido:term>
+         </lido:recordType>
+         <lido:recordSource lido:type="dataProvider">
+            <lido:legalBodyName>
+               <lido:appellationValue>museum-digital</lido:appellationValue>
+            </lido:legalBodyName>
+            <lido:legalBodyWeblink>https://berlin.museum-digital.de/</lido:legalBodyWeblink>
+         </lido:recordSource>
+         <lido:recordSource>
+            <lido:legalBodyID lido:type="isil">DE-B185</lido:legalBodyID>
+            <lido:legalBodyName>
+               <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+            </lido:legalBodyName>
+         </lido:recordSource>
+         <lido:recordRights>
+            <lido:rightsType>
+               <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no">CC BY</lido:term>
+            </lido:rightsType>
+            <lido:rightsHolder>
+               <lido:legalBodyID lido:type="isil">DE-B185</lido:legalBodyID>
+               <lido:legalBodyName>
+                  <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+               </lido:legalBodyName>
+               <lido:legalBodyWeblink>http://geschichte-brandenburg.de/</lido:legalBodyWeblink>
+            </lido:rightsHolder>
+            <lido:creditLine>Förderprogramm zur Digitalisierung von Objekten des kulturellen Erbes des Landes Berlin</lido:creditLine>
+         </lido:recordRights>
+         <lido:recordInfoSet>
+            <lido:recordInfoLink>https://berlin.museum-digital.de/index.php?t=objekt&amp;oges=66926</lido:recordInfoLink>
+            <lido:recordMetadataDate>2021-04-27 07:59:55</lido:recordMetadataDate>
+         </lido:recordInfoSet>
+      </lido:recordWrap>
+      <lido:resourceWrap>
+         <lido:resourceSet lido:sortorder="1">
+            <lido:resourceID lido:source="image" lido:type="local">48512</lido:resourceID>
+            <lido:resourceRepresentation lido:type="masterfile">
+               <lido:linkResource lido:formatResource="image/tiff"/>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_thumb">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/202007/100h_wilhelmine-luise-prinzessin-von-preuSsen-geb-prinzessin-von-anhalt-bernburg-1799-1882-6692.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_preview">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/202007/200w_wilhelmine-luise-prinzessin-von-preuSsen-geb-prinzessin-von-anhalt-bernburg-1799-1882-6692.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/202007/wilhelmine-luise-prinzessin-von-preuSsen-geb-prinzessin-von-anhalt-bernburg-1799-1882-6692.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceType>
+               <lido:term lido:addedSearchTerm="no">image</lido:term>
+            </lido:resourceType>
+            <lido:resourceRelType>
+               <lido:term lido:addedSearchTerm="no">Hauptansicht</lido:term>
+            </lido:resourceRelType>
+            <lido:resourceDescription>Wilhelm I., Deutscher Kaiser, König von Preußen (1797-1888)</lido:resourceDescription>
+            <lido:resourceSource lido:type="creator">
+               <lido:legalBodyName>
+                  <lido:appellationValue>Thomas Voßbeck, 2020</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:resourceSource>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+                  <lido:term lido:addedSearchTerm="no">CC BY</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V.</lido:appellationValue>
+                  </lido:legalBodyName>
+               </lido:rightsHolder>
+               <lido:creditLine>Thomas Voßbeck, 2020</lido:creditLine>
+            </lido:rightsResource>
+         </lido:resourceSet>
+      </lido:resourceWrap>
+   </lido:administrativeMetadata>
+</lido:lido>
+

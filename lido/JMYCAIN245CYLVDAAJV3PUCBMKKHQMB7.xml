@@ -1,0 +1,367 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lido:lido xmlns:lido="http://www.lido-schema.org"
+           xmlns:xalan="http://xml.apache.org/xalan">
+   <lido:lidoRecID lido:source="https://berlin.museum-digital.de/index.php?t=institution&amp;instnr=32"
+                   lido:type="local">DE-B185/67041</lido:lidoRecID>
+   <lido:category/>
+   <lido:descriptiveMetadata xml:lang="de">
+      <lido:objectClassificationWrap>
+         <lido:objectWorkTypeWrap>
+            <lido:objectWorkType>
+               <lido:conceptID lido:source="gnd" lido:type="uri">http://d-nb.info/gnd/4123412-1</lido:conceptID>
+               <lido:conceptID lido:source="aat" lido:type="uri">http://vocab.getty.edu/aat/300015578</lido:conceptID>
+               <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/8011</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Illustration</lido:term>
+            </lido:objectWorkType>
+         </lido:objectWorkTypeWrap>
+         <lido:classificationWrap>
+            <lido:classification lido:type="Sammlung">
+               <lido:conceptID lido:source="local" lido:type="collection_id">705</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Handzeichnungen, Druckgraphik, Gemälde</lido:term>
+            </lido:classification>
+            <lido:classification lido:type="Sammlung">
+               <lido:conceptID lido:source="local" lido:type="collection_id">725</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Sachen und Ereignisse</lido:term>
+            </lido:classification>
+            <lido:classification lido:type="Sammlung">
+               <lido:conceptID lido:source="local" lido:type="collection_id">727</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Einzelblätter</lido:term>
+            </lido:classification>
+         </lido:classificationWrap>
+      </lido:objectClassificationWrap>
+      <lido:objectIdentificationWrap>
+         <lido:titleWrap>
+            <lido:titleSet>
+               <lido:appellationValue lido:pref="preferred">Spreewald: Sonntagmorgen vor der Kirche</lido:appellationValue>
+            </lido:titleSet>
+         </lido:titleWrap>
+         <lido:repositoryWrap>
+            <lido:repositorySet lido:type="current">
+               <lido:repositoryName>
+                  <lido:legalBodyID lido:type="isil">DE-B185</lido:legalBodyID>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+                  </lido:legalBodyName>
+                  <lido:legalBodyWeblink>http://geschichte-brandenburg.de/</lido:legalBodyWeblink>
+               </lido:repositoryName>
+               <lido:workID lido:type="inventory number">LGV-Archiv, C 12 G-3-122</lido:workID>
+               <lido:repositoryLocation>
+                  <lido:namePlaceSet>
+                     <lido:appellationValue>Berlin</lido:appellationValue>
+                  </lido:namePlaceSet>
+                  <lido:gml>
+                     <gml:Point xmlns:gml="http://www.opengis.net/gml" srsName="EPSG:4326">
+                        <gml:pos>52.51533127 13.40440559</gml:pos>
+                     </gml:Point>
+                  </lido:gml>
+               </lido:repositoryLocation>
+            </lido:repositorySet>
+         </lido:repositoryWrap>
+         <lido:objectDescriptionWrap>
+            <lido:objectDescriptionSet>
+               <lido:descriptiveNoteValue>Das Blatt ist unter der Darstellung bez. "Aus dem Spreewald. Ein Sonntagmorgen vor der Kirche. Originalzeichnung von A. Schaal (S. 6.)" Sie stammt aus: Über Land und Meer. Deutsche illustrierte Zeitung (Stuttgart) 1872, No. 32, S. 5. Auf der Rückseite (S. 6) findet sich ein Begleittext von Karl Seifart (1821-1885).
+Solche Darstellungen spiegeln das Klischee über den Spreewald, der bis zum Ende des 19. Jahrhunderts zumindest auf dem Lande mehrheitlich von einer wendischen (sorbischen) Bevölkerung bewohnt war. Weder der schwere Arbeitsalltag unter einer deutschen Oberschicht und Verwaltung, der Rückgang von traditioneller sorbischer Kultur noch die minderen Rechte der wendischen Bevölkerung werden in solchen Bilderzählungen thematisiert, die sich auch meist nicht auf bestimmte Orte im Spreewald beziehen. Der Schwerpunkt liegt auf Trachten, Kirchgang und Festen oder auch dem häufigen Besuch des Wirtshauses, eine Folge auch von Perspektivlosigkeit.
+Erworben 2019 (Nachlass Hans-Werner Klünner).</lido:descriptiveNoteValue>
+               <lido:sourceDescriptiveNote>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:sourceDescriptiveNote>
+            </lido:objectDescriptionSet>
+         </lido:objectDescriptionWrap>
+         <lido:objectMeasurementsWrap>
+            <lido:objectMeasurementsSet>
+               <lido:displayObjectMeasurements>Blattgröße: Höhe 26 cm, Breite 35 cm</lido:displayObjectMeasurements>
+               <lido:objectMeasurements/>
+            </lido:objectMeasurementsSet>
+         </lido:objectMeasurementsWrap>
+      </lido:objectIdentificationWrap>
+      <lido:eventWrap>
+         <lido:eventSet>
+            <lido:event>
+               <lido:eventType>
+                  <lido:conceptID lido:type="uri">https://event-types.museum-digital.org/1</lido:conceptID>
+                  <lido:term lido:addedSearchTerm="no">Hergestellt</lido:term>
+               </lido:eventType>
+               <lido:eventDate>
+                  <lido:displayDate>1872</lido:displayDate>
+                  <lido:displayDate xml:lang="ar">1872</lido:displayDate>
+                  <lido:displayDate xml:lang="de">1872</lido:displayDate>
+                  <lido:displayDate xml:lang="en">1872</lido:displayDate>
+                  <lido:displayDate xml:lang="es">1872</lido:displayDate>
+                  <lido:displayDate xml:lang="fa">1872</lido:displayDate>
+                  <lido:displayDate xml:lang="fr">1872</lido:displayDate>
+                  <lido:displayDate xml:lang="hu">1872</lido:displayDate>
+                  <lido:displayDate xml:lang="id">1872</lido:displayDate>
+                  <lido:displayDate xml:lang="it">1872</lido:displayDate>
+                  <lido:displayDate xml:lang="ja">1872年</lido:displayDate>
+                  <lido:displayDate xml:lang="ka">1872</lido:displayDate>
+                  <lido:displayDate xml:lang="ko">1872년</lido:displayDate>
+                  <lido:displayDate xml:lang="pl">1872</lido:displayDate>
+                  <lido:displayDate xml:lang="pt">1872</lido:displayDate>
+                  <lido:displayDate xml:lang="ro">1872</lido:displayDate>
+                  <lido:displayDate xml:lang="ru">1872</lido:displayDate>
+                  <lido:displayDate xml:lang="ta">1872</lido:displayDate>
+                  <lido:displayDate xml:lang="tl">1872</lido:displayDate>
+                  <lido:displayDate xml:lang="tr">1872</lido:displayDate>
+                  <lido:displayDate xml:lang="zh">1872年</lido:displayDate>
+                  <lido:date>
+                     <lido:earliestDate>1872</lido:earliestDate>
+                     <lido:latestDate>1872</lido:latestDate>
+                  </lido:date>
+               </lido:eventDate>
+            </lido:event>
+         </lido:eventSet>
+         <lido:eventSet>
+            <lido:event>
+               <lido:eventType>
+                  <lido:conceptID lido:type="uri">http://terminology.lido-schema.org/lido00003</lido:conceptID>
+                  <lido:term>Event (non-specified)</lido:term>
+               </lido:eventType>
+               <lido:eventMaterialsTech>
+                  <lido:displayMaterialsTech>Druck auf dünnem Papier, beidseitig bedruckt</lido:displayMaterialsTech>
+               </lido:eventMaterialsTech>
+            </lido:event>
+         </lido:eventSet>
+      </lido:eventWrap>
+      <lido:objectRelationWrap>
+         <lido:subjectWrap>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectPlace>
+                     <lido:displayPlace>Spreewald</lido:displayPlace>
+                     <lido:displayPlace xml:lang="cs">Spreewald</lido:displayPlace>
+                     <lido:displayPlace xml:lang="da">Spreewald</lido:displayPlace>
+                     <lido:displayPlace xml:lang="de">Spreewald</lido:displayPlace>
+                     <lido:displayPlace xml:lang="en">Spreewald</lido:displayPlace>
+                     <lido:displayPlace xml:lang="es">Bosque del Spree</lido:displayPlace>
+                     <lido:displayPlace xml:lang="fi">Spreewald</lido:displayPlace>
+                     <lido:displayPlace xml:lang="fr">Forêt de la Sprée</lido:displayPlace>
+                     <lido:displayPlace xml:lang="he">שפרוולד</lido:displayPlace>
+                     <lido:displayPlace xml:lang="it">Foresta della Sprea</lido:displayPlace>
+                     <lido:displayPlace xml:lang="ja">シュプレーヴァルト</lido:displayPlace>
+                     <lido:displayPlace xml:lang="ko">슈프레발트</lido:displayPlace>
+                     <lido:displayPlace xml:lang="nl">Spreewald</lido:displayPlace>
+                     <lido:displayPlace xml:lang="pl">Spreewald</lido:displayPlace>
+                     <lido:displayPlace xml:lang="ru">Шпревальд</lido:displayPlace>
+                     <lido:displayPlace xml:lang="sv">Spreewald</lido:displayPlace>
+                     <lido:displayPlace xml:lang="th">ชเปรวัลท์</lido:displayPlace>
+                     <lido:place>
+                        <lido:placeID lido:source="geonames" lido:type="uri">https://sws.geonames.org/2830098</lido:placeID>
+                        <lido:placeID lido:source="TGN" lido:type="uri">http://vocab.getty.edu/tgn/1112159</lido:placeID>
+                        <lido:placeID lido:source="gnd" lido:type="uri">http://d-nb.info/gnd/4056531-2</lido:placeID>
+                        <lido:placeID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q148859</lido:placeID>
+                        <lido:placeID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/place/4844</lido:placeID>
+                        <lido:namePlaceSet>
+                           <lido:appellationValue>Spreewald</lido:appellationValue>
+                           <lido:appellationValue xml:lang="cs">Spreewald</lido:appellationValue>
+                           <lido:appellationValue xml:lang="da">Spreewald</lido:appellationValue>
+                           <lido:appellationValue xml:lang="de">Spreewald</lido:appellationValue>
+                           <lido:appellationValue xml:lang="en">Spreewald</lido:appellationValue>
+                           <lido:appellationValue xml:lang="es">Bosque del Spree</lido:appellationValue>
+                           <lido:appellationValue xml:lang="fi">Spreewald</lido:appellationValue>
+                           <lido:appellationValue xml:lang="fr">Forêt de la Sprée</lido:appellationValue>
+                           <lido:appellationValue xml:lang="he">שפרוולד</lido:appellationValue>
+                           <lido:appellationValue xml:lang="it">Foresta della Sprea</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ja">シュプレーヴァルト</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ko">슈프레발트</lido:appellationValue>
+                           <lido:appellationValue xml:lang="nl">Spreewald</lido:appellationValue>
+                           <lido:appellationValue xml:lang="pl">Spreewald</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ru">Шпревальд</lido:appellationValue>
+                           <lido:appellationValue xml:lang="sv">Spreewald</lido:appellationValue>
+                           <lido:appellationValue xml:lang="th">ชเปรวัลท์</lido:appellationValue>
+                        </lido:namePlaceSet>
+                        <lido:gml>
+                           <gml:Point xmlns:gml="http://www.opengis.net/gml" srsName="EPSG:4326">
+                              <gml:pos>51.880001068115 13.810000419617</gml:pos>
+                           </gml:Point>
+                        </lido:gml>
+                     </lido:place>
+                  </lido:subjectPlace>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="aat" lido:type="uri">http://vocab.getty.edu/aat/300026656</lido:conceptID>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4067510-5</lido:conceptID>
+                     <lido:conceptID lido:source="grobsystematik" lido:type="uri">https://term.museum-digital.de/grobsystematik/tag/14453</lido:conceptID>
+                     <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh99001641</lido:conceptID>
+                     <lido:conceptID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q11032</lido:conceptID>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Zeitung</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/1695</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Zeitung</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ar">صحيفة</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="bn">সংবাদপত্র</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="cs">Noviny</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="da">Avis</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="de">Zeitung</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="el">εφημερίδα</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="en">Newspaper</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="es">Periódico</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fa">روزنامه</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fi">Sanomalehti</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fr">Journal</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="he">עיתון</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hi">समाचार पत्र</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hu">újság</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="id">Surat kabar</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="it">Giornale</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ja">新聞</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ka">გაზეთი</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ko">신문</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="nl">Krant</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pl">Gazeta</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pt">Jornal</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ro">ziar</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ru">газета</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sv">Tidning</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sw">Gazeti</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ta">நாளிதழ்</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="th">หนังสือพิมพ์</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tl">Pahayagan</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tr">Gazete</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ur">اخبار</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="vi">báo viết</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="zh">報紙</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="aat" lido:type="uri">http://vocab.getty.edu/aat/300015578</lido:conceptID>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4123412-1</lido:conceptID>
+                     <lido:conceptID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/w/index.php?search=&amp;search=Q178659</lido:conceptID>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Illustration</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/8011</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Illustration</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ar">رسم توضيحي</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="cs">ilustrace</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="da">illustration</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="de">Illustration</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="el">απεικόνιση</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="en">illustration</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="es">ilustración</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fa">تصویرسازی</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fi">kuvitus</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fr">illustration</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="he">איור</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hi">चित्रण</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hu">illusztráció</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="id">Ilustrasi</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="it">illustrazione</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ja">イラストレーション</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ka">ილუსტრაცია</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ko">삽화</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="nl">illustratie</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pl">ilustracja</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pt">ilustração</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ru">иллюстрация</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sv">illustration</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="th">ภาพประกอบ</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tr">İllüstrasyon</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="vi">Sự minh họa</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="zh">插畫</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">http://d-nb.info/gnd/4163909-1</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/18891</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Kirchgang</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+         </lido:subjectWrap>
+         <lido:relatedWorksWrap/>
+      </lido:objectRelationWrap>
+   </lido:descriptiveMetadata>
+   <lido:administrativeMetadata xml:lang="de">
+      <lido:rightsWorkWrap>
+         <lido:rightsWorkSet>
+            <lido:rightsHolder>
+               <lido:legalBodyName>
+                  <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:rightsHolder>
+         </lido:rightsWorkSet>
+      </lido:rightsWorkWrap>
+      <lido:recordWrap>
+         <lido:recordID lido:type="museum-digital">67041</lido:recordID>
+         <lido:recordType>
+            <lido:term lido:addedSearchTerm="no">item</lido:term>
+         </lido:recordType>
+         <lido:recordSource lido:type="dataProvider">
+            <lido:legalBodyName>
+               <lido:appellationValue>museum-digital</lido:appellationValue>
+            </lido:legalBodyName>
+            <lido:legalBodyWeblink>https://berlin.museum-digital.de/</lido:legalBodyWeblink>
+         </lido:recordSource>
+         <lido:recordSource>
+            <lido:legalBodyID lido:type="isil">DE-B185</lido:legalBodyID>
+            <lido:legalBodyName>
+               <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+            </lido:legalBodyName>
+         </lido:recordSource>
+         <lido:recordRights>
+            <lido:rightsType>
+               <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no">CC BY</lido:term>
+            </lido:rightsType>
+            <lido:rightsHolder>
+               <lido:legalBodyID lido:type="isil">DE-B185</lido:legalBodyID>
+               <lido:legalBodyName>
+                  <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+               </lido:legalBodyName>
+               <lido:legalBodyWeblink>http://geschichte-brandenburg.de/</lido:legalBodyWeblink>
+            </lido:rightsHolder>
+            <lido:creditLine>Förderprogramm zur Digitalisierung von Objekten des kulturellen Erbes des Landes Berlin</lido:creditLine>
+         </lido:recordRights>
+         <lido:recordInfoSet>
+            <lido:recordInfoLink>https://berlin.museum-digital.de/index.php?t=objekt&amp;oges=67041</lido:recordInfoLink>
+            <lido:recordMetadataDate>2021-04-27 07:59:54</lido:recordMetadataDate>
+         </lido:recordInfoSet>
+      </lido:recordWrap>
+      <lido:resourceWrap>
+         <lido:resourceSet lido:sortorder="1">
+            <lido:resourceID lido:source="image" lido:type="local">48626</lido:resourceID>
+            <lido:resourceRepresentation lido:type="masterfile">
+               <lido:linkResource lido:formatResource="image/tiff"/>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_thumb">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/202007/100h_spreewald-sonntagmorgen-vor-der-kirche-67041.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_preview">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/202007/200w_spreewald-sonntagmorgen-vor-der-kirche-67041.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/202007/spreewald-sonntagmorgen-vor-der-kirche-67041.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceType>
+               <lido:term lido:addedSearchTerm="no">image</lido:term>
+            </lido:resourceType>
+            <lido:resourceRelType>
+               <lido:term lido:addedSearchTerm="no">Hauptansicht</lido:term>
+            </lido:resourceRelType>
+            <lido:resourceDescription>Spreewald: Sonntagmorgen vor der Kirche</lido:resourceDescription>
+            <lido:resourceSource lido:type="creator">
+               <lido:legalBodyName>
+                  <lido:appellationValue>Thomas Voßbeck, 2020</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:resourceSource>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+                  <lido:term lido:addedSearchTerm="no">CC BY</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V.</lido:appellationValue>
+                  </lido:legalBodyName>
+               </lido:rightsHolder>
+               <lido:creditLine>Thomas Voßbeck, 2020</lido:creditLine>
+            </lido:rightsResource>
+         </lido:resourceSet>
+      </lido:resourceWrap>
+   </lido:administrativeMetadata>
+</lido:lido>
+

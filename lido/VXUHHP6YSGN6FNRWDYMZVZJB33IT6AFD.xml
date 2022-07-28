@@ -1,0 +1,420 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lido:lido xmlns:lido="http://www.lido-schema.org"
+           xmlns:xalan="http://xml.apache.org/xalan">
+   <lido:lidoRecID lido:source="https://berlin.museum-digital.de/index.php?t=institution&amp;instnr=32"
+                   lido:type="local">DE-B185/67031</lido:lidoRecID>
+   <lido:category/>
+   <lido:descriptiveMetadata xml:lang="de">
+      <lido:objectClassificationWrap>
+         <lido:objectWorkTypeWrap>
+            <lido:objectWorkType>
+               <lido:conceptID lido:source="gnd" lido:type="uri">http://d-nb.info/gnd/4123412-1</lido:conceptID>
+               <lido:conceptID lido:source="aat" lido:type="uri">http://vocab.getty.edu/aat/300015578</lido:conceptID>
+               <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/8011</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Illustration</lido:term>
+            </lido:objectWorkType>
+         </lido:objectWorkTypeWrap>
+         <lido:classificationWrap>
+            <lido:classification lido:type="Sammlung">
+               <lido:conceptID lido:source="local" lido:type="collection_id">705</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Handzeichnungen, Druckgraphik, Gemälde</lido:term>
+            </lido:classification>
+            <lido:classification lido:type="Sammlung">
+               <lido:conceptID lido:source="local" lido:type="collection_id">725</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Sachen und Ereignisse</lido:term>
+            </lido:classification>
+            <lido:classification lido:type="Sammlung">
+               <lido:conceptID lido:source="local" lido:type="collection_id">727</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Einzelblätter</lido:term>
+            </lido:classification>
+         </lido:classificationWrap>
+      </lido:objectClassificationWrap>
+      <lido:objectIdentificationWrap>
+         <lido:titleWrap>
+            <lido:titleSet>
+               <lido:appellationValue lido:pref="preferred">Preußisches Schulhaus auf der Pariser Weltausstellung 1867</lido:appellationValue>
+            </lido:titleSet>
+         </lido:titleWrap>
+         <lido:repositoryWrap>
+            <lido:repositorySet lido:type="current">
+               <lido:repositoryName>
+                  <lido:legalBodyID lido:type="isil">DE-B185</lido:legalBodyID>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+                  </lido:legalBodyName>
+                  <lido:legalBodyWeblink>http://geschichte-brandenburg.de/</lido:legalBodyWeblink>
+               </lido:repositoryName>
+               <lido:workID lido:type="inventory number">LGV-Archiv, C 12 G-3-113</lido:workID>
+               <lido:repositoryLocation>
+                  <lido:namePlaceSet>
+                     <lido:appellationValue>Berlin</lido:appellationValue>
+                  </lido:namePlaceSet>
+                  <lido:gml>
+                     <gml:Point xmlns:gml="http://www.opengis.net/gml" srsName="EPSG:4326">
+                        <gml:pos>52.51533127 13.40440559</gml:pos>
+                     </gml:Point>
+                  </lido:gml>
+               </lido:repositoryLocation>
+            </lido:repositorySet>
+         </lido:repositoryWrap>
+         <lido:objectDescriptionWrap>
+            <lido:objectDescriptionSet>
+               <lido:descriptiveNoteValue>Es handelt sich offenbar um den Typenbau eines preußischen Schulhauses, der auf der Pariser Weltausstellung 1867 präsentiert wurde.
+Das Blatt stammt aus: Ueber Land und Meer. Deutsche Illustrirte Zeitung. Stuttgart 1867, Nr. 39, S. 620. Bez. unter der Darstellung: "Paris: Weltausstellung 1867: Das preußische Schulhaus Nach einer Originalskizze von Th. Weber, von G. Kolb. (S. 618)". Die angegebene Textseite befindet sich auf einem anderen Blatt, das in der Sammlung nicht vorhanden ist.
+Erworben 1978 (Nachlass Werner Köhler).</lido:descriptiveNoteValue>
+               <lido:sourceDescriptiveNote>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:sourceDescriptiveNote>
+            </lido:objectDescriptionSet>
+         </lido:objectDescriptionWrap>
+         <lido:objectMeasurementsWrap>
+            <lido:objectMeasurementsSet>
+               <lido:displayObjectMeasurements>Blattgröße: Höhe 37,6 cm, Breite 27,5 cm</lido:displayObjectMeasurements>
+               <lido:objectMeasurements/>
+            </lido:objectMeasurementsSet>
+         </lido:objectMeasurementsWrap>
+      </lido:objectIdentificationWrap>
+      <lido:eventWrap>
+         <lido:eventSet>
+            <lido:event>
+               <lido:eventType>
+                  <lido:conceptID lido:type="uri">https://event-types.museum-digital.org/1</lido:conceptID>
+                  <lido:term lido:addedSearchTerm="no">Hergestellt</lido:term>
+               </lido:eventType>
+               <lido:eventActor>
+                  <lido:displayActorInRole>Theodor Weber (1838-1907)</lido:displayActorInRole>
+                  <lido:actorInRole>
+                     <lido:actor>
+                        <lido:actorID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Theodor_Weber_(Maler)</lido:actorID>
+                        <lido:actorID lido:source="bne" lido:type="uri">http://datos.bne.es/persona/XX1580616</lido:actorID>
+                        <lido:actorID lido:source="bnf" lido:type="uri">https://catalogue.bnf.fr/ark:/12148/cb13336921m</lido:actorID>
+                        <lido:actorID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/117570591</lido:actorID>
+                        <lido:actorID lido:source="loc" lido:type="uri">http://id.loc.gov/authorities/names/nr98041068</lido:actorID>
+                        <lido:actorID lido:source="rkd" lido:type="uri">https://rkd.nl/explore/artists/83182</lido:actorID>
+                        <lido:actorID lido:source="ulan" lido:type="uri">http://vocab.getty.edu/ulan/500026144</lido:actorID>
+                        <lido:actorID lido:source="viaf" lido:type="uri">https://viaf.org/viaf/9761861</lido:actorID>
+                        <lido:actorID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q2418454</lido:actorID>
+                        <lido:actorID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/persinst/124968</lido:actorID>
+                        <lido:nameActorSet>
+                           <lido:appellationValue>Weber, Theodor</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ar">ثيودور ويبر</lido:appellationValue>
+                           <lido:appellationValue xml:lang="de">Theodor Weber</lido:appellationValue>
+                           <lido:appellationValue xml:lang="en">Theodor Alexander Weber</lido:appellationValue>
+                           <lido:appellationValue xml:lang="es">Theodor Alexander Weber</lido:appellationValue>
+                           <lido:appellationValue xml:lang="fr">Theodor Alexander Weber</lido:appellationValue>
+                           <lido:appellationValue xml:lang="it">Theodor Alexander Weber</lido:appellationValue>
+                           <lido:appellationValue xml:lang="nl">Théodore Weber</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ru">Теодор Александр Вебер</lido:appellationValue>
+                        </lido:nameActorSet>
+                        <lido:vitalDatesActor>
+                           <lido:earliestDate>1838</lido:earliestDate>
+                           <lido:latestDate>1907</lido:latestDate>
+                        </lido:vitalDatesActor>
+                     </lido:actor>
+                  </lido:actorInRole>
+               </lido:eventActor>
+               <lido:eventDate>
+                  <lido:displayDate>1867</lido:displayDate>
+                  <lido:displayDate xml:lang="ar">1867</lido:displayDate>
+                  <lido:displayDate xml:lang="de">1867</lido:displayDate>
+                  <lido:displayDate xml:lang="en">1867</lido:displayDate>
+                  <lido:displayDate xml:lang="es">1867</lido:displayDate>
+                  <lido:displayDate xml:lang="fa">1867</lido:displayDate>
+                  <lido:displayDate xml:lang="fr">1867</lido:displayDate>
+                  <lido:displayDate xml:lang="hu">1867</lido:displayDate>
+                  <lido:displayDate xml:lang="id">1867</lido:displayDate>
+                  <lido:displayDate xml:lang="it">1867</lido:displayDate>
+                  <lido:displayDate xml:lang="ja">1867年</lido:displayDate>
+                  <lido:displayDate xml:lang="ka">1867</lido:displayDate>
+                  <lido:displayDate xml:lang="ko">1867년</lido:displayDate>
+                  <lido:displayDate xml:lang="pl">1867</lido:displayDate>
+                  <lido:displayDate xml:lang="pt">1867</lido:displayDate>
+                  <lido:displayDate xml:lang="ro">1867</lido:displayDate>
+                  <lido:displayDate xml:lang="ru">1867</lido:displayDate>
+                  <lido:displayDate xml:lang="ta">1867</lido:displayDate>
+                  <lido:displayDate xml:lang="tl">1867</lido:displayDate>
+                  <lido:displayDate xml:lang="tr">1867</lido:displayDate>
+                  <lido:displayDate xml:lang="zh">1867年</lido:displayDate>
+                  <lido:date>
+                     <lido:earliestDate>1867</lido:earliestDate>
+                     <lido:latestDate>1867</lido:latestDate>
+                  </lido:date>
+               </lido:eventDate>
+            </lido:event>
+         </lido:eventSet>
+         <lido:eventSet>
+            <lido:event>
+               <lido:eventType>
+                  <lido:conceptID lido:type="uri">http://terminology.lido-schema.org/lido00003</lido:conceptID>
+                  <lido:term>Event (non-specified)</lido:term>
+               </lido:eventType>
+               <lido:eventMaterialsTech>
+                  <lido:displayMaterialsTech>Druck auf dünnem Papier, leicht gebräunt mit Einrissen</lido:displayMaterialsTech>
+               </lido:eventMaterialsTech>
+            </lido:event>
+         </lido:eventSet>
+      </lido:eventWrap>
+      <lido:objectRelationWrap>
+         <lido:subjectWrap>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectPlace>
+                     <lido:displayPlace>Paris</lido:displayPlace>
+                     <lido:displayPlace xml:lang="ar">باريس</lido:displayPlace>
+                     <lido:displayPlace xml:lang="bn">প্যারিস</lido:displayPlace>
+                     <lido:displayPlace xml:lang="cs">Paříž</lido:displayPlace>
+                     <lido:displayPlace xml:lang="da">Paris</lido:displayPlace>
+                     <lido:displayPlace xml:lang="de">Paris</lido:displayPlace>
+                     <lido:displayPlace xml:lang="el">Παρίσι</lido:displayPlace>
+                     <lido:displayPlace xml:lang="en">Paris</lido:displayPlace>
+                     <lido:displayPlace xml:lang="es">París</lido:displayPlace>
+                     <lido:displayPlace xml:lang="fa">پاریس</lido:displayPlace>
+                     <lido:displayPlace xml:lang="fi">Pariisi</lido:displayPlace>
+                     <lido:displayPlace xml:lang="fr">Paris</lido:displayPlace>
+                     <lido:displayPlace xml:lang="ha">Faris</lido:displayPlace>
+                     <lido:displayPlace xml:lang="he">פריז</lido:displayPlace>
+                     <lido:displayPlace xml:lang="hi">पैरिस</lido:displayPlace>
+                     <lido:displayPlace xml:lang="hu">Párizs</lido:displayPlace>
+                     <lido:displayPlace xml:lang="id">Paris</lido:displayPlace>
+                     <lido:displayPlace xml:lang="it">Parigi</lido:displayPlace>
+                     <lido:displayPlace xml:lang="ja">パリ</lido:displayPlace>
+                     <lido:displayPlace xml:lang="ka">პარიზი</lido:displayPlace>
+                     <lido:displayPlace xml:lang="ko">파리</lido:displayPlace>
+                     <lido:displayPlace xml:lang="nl">Parijs</lido:displayPlace>
+                     <lido:displayPlace xml:lang="pl">Paryż</lido:displayPlace>
+                     <lido:displayPlace xml:lang="pt">Paris</lido:displayPlace>
+                     <lido:displayPlace xml:lang="ru">Париж</lido:displayPlace>
+                     <lido:displayPlace xml:lang="sv">Paris</lido:displayPlace>
+                     <lido:displayPlace xml:lang="sw">Paris</lido:displayPlace>
+                     <lido:displayPlace xml:lang="ta">பாரிஸ்</lido:displayPlace>
+                     <lido:displayPlace xml:lang="th">ปารีส</lido:displayPlace>
+                     <lido:displayPlace xml:lang="tl">Paris</lido:displayPlace>
+                     <lido:displayPlace xml:lang="tr">Paris</lido:displayPlace>
+                     <lido:displayPlace xml:lang="ur">پیرس</lido:displayPlace>
+                     <lido:displayPlace xml:lang="vi">Paris</lido:displayPlace>
+                     <lido:displayPlace xml:lang="zh">巴黎</lido:displayPlace>
+                     <lido:place>
+                        <lido:placeID lido:source="geonames" lido:type="uri">https://sws.geonames.org/2968815</lido:placeID>
+                        <lido:placeID lido:source="TGN" lido:type="uri">http://vocab.getty.edu/tgn/7008038</lido:placeID>
+                        <lido:placeID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4044660-8</lido:placeID>
+                        <lido:placeID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q90</lido:placeID>
+                        <lido:placeID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/place/199</lido:placeID>
+                        <lido:namePlaceSet>
+                           <lido:appellationValue>Paris</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ar">باريس</lido:appellationValue>
+                           <lido:appellationValue xml:lang="bn">প্যারিস</lido:appellationValue>
+                           <lido:appellationValue xml:lang="cs">Paříž</lido:appellationValue>
+                           <lido:appellationValue xml:lang="da">Paris</lido:appellationValue>
+                           <lido:appellationValue xml:lang="de">Paris</lido:appellationValue>
+                           <lido:appellationValue xml:lang="el">Παρίσι</lido:appellationValue>
+                           <lido:appellationValue xml:lang="en">Paris</lido:appellationValue>
+                           <lido:appellationValue xml:lang="es">París</lido:appellationValue>
+                           <lido:appellationValue xml:lang="fa">پاریس</lido:appellationValue>
+                           <lido:appellationValue xml:lang="fi">Pariisi</lido:appellationValue>
+                           <lido:appellationValue xml:lang="fr">Paris</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ha">Faris</lido:appellationValue>
+                           <lido:appellationValue xml:lang="he">פריז</lido:appellationValue>
+                           <lido:appellationValue xml:lang="hi">पैरिस</lido:appellationValue>
+                           <lido:appellationValue xml:lang="hu">Párizs</lido:appellationValue>
+                           <lido:appellationValue xml:lang="id">Paris</lido:appellationValue>
+                           <lido:appellationValue xml:lang="it">Parigi</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ja">パリ</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ka">პარიზი</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ko">파리</lido:appellationValue>
+                           <lido:appellationValue xml:lang="nl">Parijs</lido:appellationValue>
+                           <lido:appellationValue xml:lang="pl">Paryż</lido:appellationValue>
+                           <lido:appellationValue xml:lang="pt">Paris</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ru">Париж</lido:appellationValue>
+                           <lido:appellationValue xml:lang="sv">Paris</lido:appellationValue>
+                           <lido:appellationValue xml:lang="sw">Paris</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ta">பாரிஸ்</lido:appellationValue>
+                           <lido:appellationValue xml:lang="th">ปารีส</lido:appellationValue>
+                           <lido:appellationValue xml:lang="tl">Paris</lido:appellationValue>
+                           <lido:appellationValue xml:lang="tr">Paris</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ur">پیرس</lido:appellationValue>
+                           <lido:appellationValue xml:lang="vi">Paris</lido:appellationValue>
+                           <lido:appellationValue xml:lang="zh">巴黎</lido:appellationValue>
+                        </lido:namePlaceSet>
+                        <lido:gml>
+                           <gml:Point xmlns:gml="http://www.opengis.net/gml" srsName="EPSG:4326">
+                              <gml:pos>48.856945037842 2.3513889312744</gml:pos>
+                           </gml:Point>
+                        </lido:gml>
+                     </lido:place>
+                  </lido:subjectPlace>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">http://d-nb.info/gnd/4015482-8</lido:conceptID>
+                     <lido:conceptID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q47130304</lido:conceptID>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">http://de.wikipedia.org/wiki/Erziehung</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/185</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Erziehung</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="de">Erziehung</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fi">Kasvatus</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">http://d-nb.info/gnd/7637671-0</lido:conceptID>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">http://de.wikipedia.org/wiki/Weltausstellung</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/466</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Weltausstellung</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="aat" lido:type="uri">http://vocab.getty.edu/aat/300026656</lido:conceptID>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4067510-5</lido:conceptID>
+                     <lido:conceptID lido:source="grobsystematik" lido:type="uri">https://term.museum-digital.de/grobsystematik/tag/14453</lido:conceptID>
+                     <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh99001641</lido:conceptID>
+                     <lido:conceptID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q11032</lido:conceptID>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Zeitung</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/1695</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Zeitung</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ar">صحيفة</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="bn">সংবাদপত্র</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="cs">Noviny</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="da">Avis</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="de">Zeitung</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="el">εφημερίδα</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="en">Newspaper</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="es">Periódico</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fa">روزنامه</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fi">Sanomalehti</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fr">Journal</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="he">עיתון</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hi">समाचार पत्र</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hu">újság</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="id">Surat kabar</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="it">Giornale</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ja">新聞</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ka">გაზეთი</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ko">신문</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="nl">Krant</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pl">Gazeta</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pt">Jornal</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ro">ziar</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ru">газета</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sv">Tidning</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sw">Gazeti</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ta">நாளிதழ்</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="th">หนังสือพิมพ์</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tl">Pahayagan</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tr">Gazete</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ur">اخبار</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="vi">báo viết</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="zh">報紙</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="aat" lido:type="uri">http://vocab.getty.edu/aat/300266732</lido:conceptID>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">http://d-nb.info/gnd/4216380-8</lido:conceptID>
+                     <lido:conceptID lido:source="lcsh" lido:type="uri">https://id.loc.gov/authorities/subjects/sh85118278</lido:conceptID>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Schulgebäude</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/29078</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Schulhaus</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+         </lido:subjectWrap>
+         <lido:relatedWorksWrap/>
+      </lido:objectRelationWrap>
+   </lido:descriptiveMetadata>
+   <lido:administrativeMetadata xml:lang="de">
+      <lido:rightsWorkWrap>
+         <lido:rightsWorkSet>
+            <lido:rightsHolder>
+               <lido:legalBodyName>
+                  <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:rightsHolder>
+         </lido:rightsWorkSet>
+      </lido:rightsWorkWrap>
+      <lido:recordWrap>
+         <lido:recordID lido:type="museum-digital">67031</lido:recordID>
+         <lido:recordType>
+            <lido:term lido:addedSearchTerm="no">item</lido:term>
+         </lido:recordType>
+         <lido:recordSource lido:type="dataProvider">
+            <lido:legalBodyName>
+               <lido:appellationValue>museum-digital</lido:appellationValue>
+            </lido:legalBodyName>
+            <lido:legalBodyWeblink>https://berlin.museum-digital.de/</lido:legalBodyWeblink>
+         </lido:recordSource>
+         <lido:recordSource>
+            <lido:legalBodyID lido:type="isil">DE-B185</lido:legalBodyID>
+            <lido:legalBodyName>
+               <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+            </lido:legalBodyName>
+         </lido:recordSource>
+         <lido:recordRights>
+            <lido:rightsType>
+               <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no">CC BY</lido:term>
+            </lido:rightsType>
+            <lido:rightsHolder>
+               <lido:legalBodyID lido:type="isil">DE-B185</lido:legalBodyID>
+               <lido:legalBodyName>
+                  <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+               </lido:legalBodyName>
+               <lido:legalBodyWeblink>http://geschichte-brandenburg.de/</lido:legalBodyWeblink>
+            </lido:rightsHolder>
+            <lido:creditLine>Förderprogramm zur Digitalisierung von Objekten des kulturellen Erbes des Landes Berlin</lido:creditLine>
+         </lido:recordRights>
+         <lido:recordInfoSet>
+            <lido:recordInfoLink>https://berlin.museum-digital.de/index.php?t=objekt&amp;oges=67031</lido:recordInfoLink>
+            <lido:recordMetadataDate>2021-04-27 07:59:54</lido:recordMetadataDate>
+         </lido:recordInfoSet>
+      </lido:recordWrap>
+      <lido:resourceWrap>
+         <lido:resourceSet lido:sortorder="1">
+            <lido:resourceID lido:source="image" lido:type="local">48617</lido:resourceID>
+            <lido:resourceRepresentation lido:type="masterfile">
+               <lido:linkResource lido:formatResource="image/tiff"/>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_thumb">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/202007/100h_preuSsisches-schulhaus-auf-der-pariser-weltausstellung-1867-67031.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_preview">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/202007/200w_preuSsisches-schulhaus-auf-der-pariser-weltausstellung-1867-67031.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/202007/preuSsisches-schulhaus-auf-der-pariser-weltausstellung-1867-67031.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceType>
+               <lido:term lido:addedSearchTerm="no">image</lido:term>
+            </lido:resourceType>
+            <lido:resourceRelType>
+               <lido:term lido:addedSearchTerm="no">Hauptansicht</lido:term>
+            </lido:resourceRelType>
+            <lido:resourceDescription>Preußisches Schulhaus auf der Pariser Weltausstellung 1867</lido:resourceDescription>
+            <lido:resourceSource lido:type="creator">
+               <lido:legalBodyName>
+                  <lido:appellationValue>Thomas Voßbeck, 2020</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:resourceSource>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+                  <lido:term lido:addedSearchTerm="no">CC BY</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V.</lido:appellationValue>
+                  </lido:legalBodyName>
+               </lido:rightsHolder>
+               <lido:creditLine>Thomas Voßbeck, 2020</lido:creditLine>
+            </lido:rightsResource>
+         </lido:resourceSet>
+      </lido:resourceWrap>
+   </lido:administrativeMetadata>
+</lido:lido>
+

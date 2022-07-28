@@ -1,0 +1,487 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lido:lido xmlns:lido="http://www.lido-schema.org"
+           xmlns:xalan="http://xml.apache.org/xalan">
+   <lido:lidoRecID lido:source="https://berlin.museum-digital.de/index.php?t=institution&amp;instnr=32"
+                   lido:type="local">DE-B185/67381</lido:lidoRecID>
+   <lido:category/>
+   <lido:descriptiveMetadata xml:lang="de">
+      <lido:objectClassificationWrap>
+         <lido:objectWorkTypeWrap>
+            <lido:objectWorkType>
+               <lido:conceptID lido:source="gnd" lido:type="uri">http://d-nb.info/gnd/4123412-1</lido:conceptID>
+               <lido:conceptID lido:source="aat" lido:type="uri">http://vocab.getty.edu/aat/300015578</lido:conceptID>
+               <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/8011</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Illustration</lido:term>
+            </lido:objectWorkType>
+         </lido:objectWorkTypeWrap>
+         <lido:classificationWrap>
+            <lido:classification lido:type="Sammlung">
+               <lido:conceptID lido:source="local" lido:type="collection_id">705</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Handzeichnungen, Druckgraphik, Gemälde</lido:term>
+            </lido:classification>
+            <lido:classification lido:type="Sammlung">
+               <lido:conceptID lido:source="local" lido:type="collection_id">725</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Sachen und Ereignisse</lido:term>
+            </lido:classification>
+            <lido:classification lido:type="Sammlung">
+               <lido:conceptID lido:source="local" lido:type="collection_id">727</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Einzelblätter</lido:term>
+            </lido:classification>
+         </lido:classificationWrap>
+      </lido:objectClassificationWrap>
+      <lido:objectIdentificationWrap>
+         <lido:titleWrap>
+            <lido:titleSet>
+               <lido:appellationValue lido:pref="preferred">Buchillustration</lido:appellationValue>
+            </lido:titleSet>
+         </lido:titleWrap>
+         <lido:repositoryWrap>
+            <lido:repositorySet lido:type="current">
+               <lido:repositoryName>
+                  <lido:legalBodyID lido:type="isil">DE-B185</lido:legalBodyID>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+                  </lido:legalBodyName>
+                  <lido:legalBodyWeblink>http://geschichte-brandenburg.de/</lido:legalBodyWeblink>
+               </lido:repositoryName>
+               <lido:workID lido:type="inventory number">LGV-Archiv, B 132-01, Bl. 27</lido:workID>
+               <lido:repositoryLocation>
+                  <lido:namePlaceSet>
+                     <lido:appellationValue>Berlin</lido:appellationValue>
+                  </lido:namePlaceSet>
+                  <lido:gml>
+                     <gml:Point xmlns:gml="http://www.opengis.net/gml" srsName="EPSG:4326">
+                        <gml:pos>52.51533127 13.40440559</gml:pos>
+                     </gml:Point>
+                  </lido:gml>
+               </lido:repositoryLocation>
+            </lido:repositorySet>
+         </lido:repositoryWrap>
+         <lido:objectDescriptionWrap>
+            <lido:objectDescriptionSet>
+               <lido:descriptiveNoteValue>Illustration aus einer Erzählung der Argonautensage. Mit Textblatt. Dargestellt sind oben in einem Oval quer zwei Rossebändiger in symmetrischer Anordnung sich anblickend, unten ebenfalls in einem Oval quer zwei Porträtreliefs antiker Heroen in ähnlicher Anordnung.
+
+Bez. unter den Darstellungen "39." und "40.", re. o. "Taf. 13 pag. 188."
+Auf der Rückseite des Textblattes mit Bleistift hinzugefügt, wohl von der Kunsthistorikerin Hella Reelfs (1928-2006): "Kupfer neu gezeichnet von W. Herbig, gest. von L. Meyer. 7. Orig.-Ausg. Berlin 1832".
+Erworben 2020 (Nachlass Dr. Hella Reelfs).</lido:descriptiveNoteValue>
+               <lido:sourceDescriptiveNote>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:sourceDescriptiveNote>
+            </lido:objectDescriptionSet>
+         </lido:objectDescriptionWrap>
+         <lido:objectMeasurementsWrap>
+            <lido:objectMeasurementsSet>
+               <lido:displayObjectMeasurements>Blattgröße: Höhe 16,7 cm, Breite 10,4 cm (links Spuren der Heftung)</lido:displayObjectMeasurements>
+               <lido:objectMeasurements/>
+            </lido:objectMeasurementsSet>
+         </lido:objectMeasurementsWrap>
+      </lido:objectIdentificationWrap>
+      <lido:eventWrap>
+         <lido:eventSet>
+            <lido:displayEvent>Herstellung</lido:displayEvent>
+            <lido:event>
+               <lido:eventType>
+                  <lido:conceptID lido:type="uri">https://event-types.museum-digital.org/12</lido:conceptID>
+                  <lido:term lido:addedSearchTerm="no">Druckplatte hergestellt</lido:term>
+               </lido:eventType>
+               <lido:eventActor>
+                  <lido:displayActorInRole>Ludwig Meyer (Stecher)</lido:displayActorInRole>
+                  <lido:actorInRole>
+                     <lido:actor>
+                        <lido:actorID lido:source="gnd" lido:type="uri">http://d-nb.info/gnd/1043393366</lido:actorID>
+                        <lido:actorID lido:source="viaf" lido:type="uri">https://viaf.org/viaf/305328334</lido:actorID>
+                        <lido:actorID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/persinst/35059</lido:actorID>
+                        <lido:nameActorSet>
+                           <lido:appellationValue>Meyer, Ludwig (Stecher)</lido:appellationValue>
+                           <lido:appellationValue xml:lang="de">Ludwig Meyer (Stecher)</lido:appellationValue>
+                        </lido:nameActorSet>
+                        <lido:vitalDatesActor>
+                           <lido:earliestDate/>
+                           <lido:latestDate/>
+                        </lido:vitalDatesActor>
+                     </lido:actor>
+                  </lido:actorInRole>
+               </lido:eventActor>
+               <lido:eventDate>
+                  <lido:displayDate>1832</lido:displayDate>
+                  <lido:displayDate xml:lang="ar">1832</lido:displayDate>
+                  <lido:displayDate xml:lang="de">1832</lido:displayDate>
+                  <lido:displayDate xml:lang="en">1832</lido:displayDate>
+                  <lido:displayDate xml:lang="es">1832</lido:displayDate>
+                  <lido:displayDate xml:lang="fa">1832</lido:displayDate>
+                  <lido:displayDate xml:lang="fr">1832</lido:displayDate>
+                  <lido:displayDate xml:lang="hu">1832</lido:displayDate>
+                  <lido:displayDate xml:lang="id">1832</lido:displayDate>
+                  <lido:displayDate xml:lang="it">1832</lido:displayDate>
+                  <lido:displayDate xml:lang="ja">1832年</lido:displayDate>
+                  <lido:displayDate xml:lang="ka">1832</lido:displayDate>
+                  <lido:displayDate xml:lang="ko">1832년</lido:displayDate>
+                  <lido:displayDate xml:lang="pl">1832</lido:displayDate>
+                  <lido:displayDate xml:lang="pt">1832</lido:displayDate>
+                  <lido:displayDate xml:lang="ro">1832</lido:displayDate>
+                  <lido:displayDate xml:lang="ru">1832</lido:displayDate>
+                  <lido:displayDate xml:lang="ta">1832</lido:displayDate>
+                  <lido:displayDate xml:lang="tl">1832</lido:displayDate>
+                  <lido:displayDate xml:lang="tr">1832</lido:displayDate>
+                  <lido:displayDate xml:lang="zh">1832年</lido:displayDate>
+                  <lido:date>
+                     <lido:earliestDate>1832</lido:earliestDate>
+                     <lido:latestDate>1832</lido:latestDate>
+                  </lido:date>
+               </lido:eventDate>
+            </lido:event>
+         </lido:eventSet>
+         <lido:eventSet>
+            <lido:event>
+               <lido:eventType>
+                  <lido:conceptID lido:type="uri">https://event-types.museum-digital.org/19</lido:conceptID>
+                  <lido:term lido:addedSearchTerm="no">Gezeichnet</lido:term>
+               </lido:eventType>
+               <lido:eventActor>
+                  <lido:displayActorInRole>Friedrich Wilhelm Heinrich Herbig (1788-1861)</lido:displayActorInRole>
+                  <lido:actorInRole>
+                     <lido:actor>
+                        <lido:actorID lido:source="Wikipedia" lido:type="uri">https://fr.wikipedia.org/wiki/Wilhelm_Herbig</lido:actorID>
+                        <lido:actorID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/117519510</lido:actorID>
+                        <lido:actorID lido:source="rkd" lido:type="uri">https://rkd.nl/explore/artists/37714</lido:actorID>
+                        <lido:actorID lido:source="ULAN" lido:type="uri">http://vocab.getty.edu/ulan/500069761</lido:actorID>
+                        <lido:actorID lido:source="viaf" lido:type="uri">https://viaf.org/viaf/57394488</lido:actorID>
+                        <lido:actorID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q2573203</lido:actorID>
+                        <lido:actorID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/persinst/17731</lido:actorID>
+                        <lido:nameActorSet>
+                           <lido:appellationValue>Herbig, Friedrich Wilhelm Heinrich</lido:appellationValue>
+                           <lido:appellationValue xml:lang="de">Friedrich Wilhelm Heinrich Herbig</lido:appellationValue>
+                           <lido:appellationValue xml:lang="en">Wilhelm Herbig</lido:appellationValue>
+                           <lido:appellationValue xml:lang="es">Friedrich Wilhelm Herbig</lido:appellationValue>
+                           <lido:appellationValue xml:lang="fr">Wilhelm Herbig</lido:appellationValue>
+                           <lido:appellationValue xml:lang="it">Friedrich Wilhelm Herbig</lido:appellationValue>
+                           <lido:appellationValue xml:lang="nl">Wilhelm Herbig</lido:appellationValue>
+                           <lido:appellationValue xml:lang="pt">Friedrich Wilhelm Herbig</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ru">Хербиг, Вильгельм</lido:appellationValue>
+                        </lido:nameActorSet>
+                        <lido:vitalDatesActor>
+                           <lido:earliestDate>1788</lido:earliestDate>
+                           <lido:latestDate>1861</lido:latestDate>
+                        </lido:vitalDatesActor>
+                     </lido:actor>
+                  </lido:actorInRole>
+               </lido:eventActor>
+            </lido:event>
+         </lido:eventSet>
+         <lido:eventSet>
+            <lido:event>
+               <lido:eventType>
+                  <lido:conceptID lido:type="uri">http://terminology.lido-schema.org/lido00003</lido:conceptID>
+                  <lido:term>Event (non-specified)</lido:term>
+               </lido:eventType>
+               <lido:eventMaterialsTech>
+                  <lido:displayMaterialsTech>Kupferstich auf dünnem Papier, oben leicht wasserfleckig</lido:displayMaterialsTech>
+               </lido:eventMaterialsTech>
+            </lido:event>
+         </lido:eventSet>
+      </lido:eventWrap>
+      <lido:objectRelationWrap>
+         <lido:subjectWrap>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectPlace>
+                     <lido:displayPlace>Griechenland</lido:displayPlace>
+                     <lido:displayPlace xml:lang="ar">اليونان</lido:displayPlace>
+                     <lido:displayPlace xml:lang="bn">গ্রিস</lido:displayPlace>
+                     <lido:displayPlace xml:lang="cs">Řecko</lido:displayPlace>
+                     <lido:displayPlace xml:lang="da">Grækenland</lido:displayPlace>
+                     <lido:displayPlace xml:lang="de">Griechenland</lido:displayPlace>
+                     <lido:displayPlace xml:lang="el">Ελλάδα</lido:displayPlace>
+                     <lido:displayPlace xml:lang="en">Greece</lido:displayPlace>
+                     <lido:displayPlace xml:lang="es">Grecia</lido:displayPlace>
+                     <lido:displayPlace xml:lang="fa">یونان</lido:displayPlace>
+                     <lido:displayPlace xml:lang="fi">Kreikka</lido:displayPlace>
+                     <lido:displayPlace xml:lang="fr">Grèce</lido:displayPlace>
+                     <lido:displayPlace xml:lang="ha">Greek</lido:displayPlace>
+                     <lido:displayPlace xml:lang="he">יוון</lido:displayPlace>
+                     <lido:displayPlace xml:lang="hi">यूनान</lido:displayPlace>
+                     <lido:displayPlace xml:lang="hu">Görögország</lido:displayPlace>
+                     <lido:displayPlace xml:lang="id">Yunani</lido:displayPlace>
+                     <lido:displayPlace xml:lang="it">Grecia</lido:displayPlace>
+                     <lido:displayPlace xml:lang="ja">ギリシャ</lido:displayPlace>
+                     <lido:displayPlace xml:lang="ka">საბერძნეთი</lido:displayPlace>
+                     <lido:displayPlace xml:lang="ko">그리스</lido:displayPlace>
+                     <lido:displayPlace xml:lang="nl">Griekenland</lido:displayPlace>
+                     <lido:displayPlace xml:lang="pl">Grecja</lido:displayPlace>
+                     <lido:displayPlace xml:lang="pt">Grécia</lido:displayPlace>
+                     <lido:displayPlace xml:lang="ru">Греция</lido:displayPlace>
+                     <lido:displayPlace xml:lang="sv">Grekland</lido:displayPlace>
+                     <lido:displayPlace xml:lang="sw">Ugiriki</lido:displayPlace>
+                     <lido:displayPlace xml:lang="ta">கிரேக்கம்</lido:displayPlace>
+                     <lido:displayPlace xml:lang="th">ประเทศกรีซ</lido:displayPlace>
+                     <lido:displayPlace xml:lang="tl">Gresya</lido:displayPlace>
+                     <lido:displayPlace xml:lang="tr">Yunanistan</lido:displayPlace>
+                     <lido:displayPlace xml:lang="ur">یونان</lido:displayPlace>
+                     <lido:displayPlace xml:lang="vi">Hy Lạp</lido:displayPlace>
+                     <lido:displayPlace xml:lang="zh">希腊</lido:displayPlace>
+                     <lido:place>
+                        <lido:placeID lido:source="geonames" lido:type="uri">https://sws.geonames.org/390903</lido:placeID>
+                        <lido:placeID lido:source="TGN" lido:type="uri">http://vocab.getty.edu/tgn/1000074</lido:placeID>
+                        <lido:placeID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4022047-3</lido:placeID>
+                        <lido:placeID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q41</lido:placeID>
+                        <lido:placeID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/place/1959</lido:placeID>
+                        <lido:namePlaceSet>
+                           <lido:appellationValue>Griechenland</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ar">اليونان</lido:appellationValue>
+                           <lido:appellationValue xml:lang="bn">গ্রিস</lido:appellationValue>
+                           <lido:appellationValue xml:lang="cs">Řecko</lido:appellationValue>
+                           <lido:appellationValue xml:lang="da">Grækenland</lido:appellationValue>
+                           <lido:appellationValue xml:lang="de">Griechenland</lido:appellationValue>
+                           <lido:appellationValue xml:lang="el">Ελλάδα</lido:appellationValue>
+                           <lido:appellationValue xml:lang="en">Greece</lido:appellationValue>
+                           <lido:appellationValue xml:lang="es">Grecia</lido:appellationValue>
+                           <lido:appellationValue xml:lang="fa">یونان</lido:appellationValue>
+                           <lido:appellationValue xml:lang="fi">Kreikka</lido:appellationValue>
+                           <lido:appellationValue xml:lang="fr">Grèce</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ha">Greek</lido:appellationValue>
+                           <lido:appellationValue xml:lang="he">יוון</lido:appellationValue>
+                           <lido:appellationValue xml:lang="hi">यूनान</lido:appellationValue>
+                           <lido:appellationValue xml:lang="hu">Görögország</lido:appellationValue>
+                           <lido:appellationValue xml:lang="id">Yunani</lido:appellationValue>
+                           <lido:appellationValue xml:lang="it">Grecia</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ja">ギリシャ</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ka">საბერძნეთი</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ko">그리스</lido:appellationValue>
+                           <lido:appellationValue xml:lang="nl">Griekenland</lido:appellationValue>
+                           <lido:appellationValue xml:lang="pl">Grecja</lido:appellationValue>
+                           <lido:appellationValue xml:lang="pt">Grécia</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ru">Греция</lido:appellationValue>
+                           <lido:appellationValue xml:lang="sv">Grekland</lido:appellationValue>
+                           <lido:appellationValue xml:lang="sw">Ugiriki</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ta">கிரேக்கம்</lido:appellationValue>
+                           <lido:appellationValue xml:lang="th">ประเทศกรีซ</lido:appellationValue>
+                           <lido:appellationValue xml:lang="tl">Gresya</lido:appellationValue>
+                           <lido:appellationValue xml:lang="tr">Yunanistan</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ur">یونان</lido:appellationValue>
+                           <lido:appellationValue xml:lang="vi">Hy Lạp</lido:appellationValue>
+                           <lido:appellationValue xml:lang="zh">希腊</lido:appellationValue>
+                        </lido:namePlaceSet>
+                        <lido:gml>
+                           <gml:Point xmlns:gml="http://www.opengis.net/gml" srsName="EPSG:4326">
+                              <gml:pos>38.5 23</gml:pos>
+                           </gml:Point>
+                        </lido:gml>
+                     </lido:place>
+                  </lido:subjectPlace>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="aat" lido:type="uri">http://vocab.getty.edu/aat/300055985</lido:conceptID>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4041005-5</lido:conceptID>
+                     <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh85089371</lido:conceptID>
+                     <lido:conceptID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q9134</lido:conceptID>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Mythologie</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/3835</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Mythologie</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ar">علم الأساطير</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="bn">পুরাণিক বিদ্যা</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="cs">Mytologie</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="da">Mytologi</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="de">Mythologie</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="el">Μυθολογία</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="en">Mythology</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="es">Mitología</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fa">اسطوره‌شناسی</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fi">Mytologia</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fr">Mythologie</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="he">מיתולוגיה</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hi">पौराणिक कथाएं</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hu">mitológia</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="id">Mitologi</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="it">Mitologia</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ja">神話</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ka">მითოლოგია</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ko">신화</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="nl">Mythologie</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pl">Mitologia</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pt">Mitologia</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ru">мифология</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sv">Mytologi</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sw">Elimu ya visasili</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ta">தொன்மவியல்</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="th">ปรัมปราวิทยา</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tl">Mitolohiya</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tr">Mitoloji</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ur">علم الاساطیر</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="vi">thần thoại</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="zh">神话</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="aat" lido:type="uri">http://vocab.getty.edu/aat/300015578</lido:conceptID>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4123412-1</lido:conceptID>
+                     <lido:conceptID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/w/index.php?search=&amp;search=Q178659</lido:conceptID>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Illustration</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/8011</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Illustration</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ar">رسم توضيحي</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="cs">ilustrace</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="da">illustration</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="de">Illustration</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="el">απεικόνιση</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="en">illustration</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="es">ilustración</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fa">تصویرسازی</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fi">kuvitus</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fr">illustration</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="he">איור</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hi">चित्रण</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hu">illusztráció</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="id">Ilustrasi</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="it">illustrazione</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ja">イラストレーション</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ka">ილუსტრაცია</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ko">삽화</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="nl">illustratie</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pl">ilustracja</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pt">ilustração</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ru">иллюстрация</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sv">illustration</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="th">ภาพประกอบ</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tr">İllüstrasyon</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="vi">Sự minh họa</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="zh">插畫</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh85007113</lido:conceptID>
+                     <lido:conceptID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q165510</lido:conceptID>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Argonautensage</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/18387</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Argonauten</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ar">بحارو الأرجو</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="cs">Argonauti</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="da">Argonaut</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="de">Argonauten</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="el">Αργοναύτες</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="en">Argonauts</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="es">Argonautas</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fa">آرگونوت‌ها</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fi">Argonautit</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fr">Argonautes</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="he">ארגונאוטים</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hu">Argonauták</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="id">Argonaut</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="it">Argonauti</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ja">アルゴナウタイ</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ka">არგონავტები</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ko">아르고나우타이</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="nl">Argonauten</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pl">Argonauci</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pt">Argonautas</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ro">Argonauți</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ru">Аргонавты</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sv">Argonaut</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tl">Argonota</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tr">Argonotlar</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ur">آرگوناٹ</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="vi">Argonauts</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="zh">阿爾戈英雄</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+         </lido:subjectWrap>
+         <lido:relatedWorksWrap/>
+      </lido:objectRelationWrap>
+   </lido:descriptiveMetadata>
+   <lido:administrativeMetadata xml:lang="de">
+      <lido:rightsWorkWrap>
+         <lido:rightsWorkSet>
+            <lido:rightsHolder>
+               <lido:legalBodyName>
+                  <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:rightsHolder>
+         </lido:rightsWorkSet>
+      </lido:rightsWorkWrap>
+      <lido:recordWrap>
+         <lido:recordID lido:type="museum-digital">67381</lido:recordID>
+         <lido:recordType>
+            <lido:term lido:addedSearchTerm="no">item</lido:term>
+         </lido:recordType>
+         <lido:recordSource lido:type="dataProvider">
+            <lido:legalBodyName>
+               <lido:appellationValue>museum-digital</lido:appellationValue>
+            </lido:legalBodyName>
+            <lido:legalBodyWeblink>https://berlin.museum-digital.de/</lido:legalBodyWeblink>
+         </lido:recordSource>
+         <lido:recordSource>
+            <lido:legalBodyID lido:type="isil">DE-B185</lido:legalBodyID>
+            <lido:legalBodyName>
+               <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+            </lido:legalBodyName>
+         </lido:recordSource>
+         <lido:recordRights>
+            <lido:rightsType>
+               <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no">CC BY</lido:term>
+            </lido:rightsType>
+            <lido:rightsHolder>
+               <lido:legalBodyID lido:type="isil">DE-B185</lido:legalBodyID>
+               <lido:legalBodyName>
+                  <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+               </lido:legalBodyName>
+               <lido:legalBodyWeblink>http://geschichte-brandenburg.de/</lido:legalBodyWeblink>
+            </lido:rightsHolder>
+            <lido:creditLine>Förderprogramm zur Digitalisierung von Objekten des kulturellen Erbes des Landes Berlin</lido:creditLine>
+         </lido:recordRights>
+         <lido:recordInfoSet>
+            <lido:recordInfoLink>https://berlin.museum-digital.de/index.php?t=objekt&amp;oges=67381</lido:recordInfoLink>
+            <lido:recordMetadataDate>2021-04-27 07:59:52</lido:recordMetadataDate>
+         </lido:recordInfoSet>
+      </lido:recordWrap>
+      <lido:resourceWrap>
+         <lido:resourceSet lido:sortorder="1">
+            <lido:resourceID lido:source="image" lido:type="local">48924</lido:resourceID>
+            <lido:resourceRepresentation lido:type="masterfile">
+               <lido:linkResource lido:formatResource="image/tiff"/>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_thumb">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/202007/100h_buchillustration-67381.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_preview">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/202007/200w_buchillustration-67381.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/202007/buchillustration-67381.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceType>
+               <lido:term lido:addedSearchTerm="no">image</lido:term>
+            </lido:resourceType>
+            <lido:resourceRelType>
+               <lido:term lido:addedSearchTerm="no">Hauptansicht</lido:term>
+            </lido:resourceRelType>
+            <lido:resourceDescription>Buchillustration</lido:resourceDescription>
+            <lido:resourceSource lido:type="creator">
+               <lido:legalBodyName>
+                  <lido:appellationValue>Thomas Voßbeck, 2020</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:resourceSource>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+                  <lido:term lido:addedSearchTerm="no">CC BY</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V.</lido:appellationValue>
+                  </lido:legalBodyName>
+               </lido:rightsHolder>
+               <lido:creditLine>Thomas Voßbeck, 2020</lido:creditLine>
+            </lido:rightsResource>
+         </lido:resourceSet>
+      </lido:resourceWrap>
+   </lido:administrativeMetadata>
+</lido:lido>
+

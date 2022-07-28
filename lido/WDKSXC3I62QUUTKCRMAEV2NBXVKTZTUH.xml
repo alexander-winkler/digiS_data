@@ -1,0 +1,478 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lido:lido xmlns:lido="http://www.lido-schema.org"
+           xmlns:xalan="http://xml.apache.org/xalan">
+   <lido:lidoRecID lido:source="https://berlin.museum-digital.de/index.php?t=institution&amp;instnr=32"
+                   lido:type="local">DE-B185/67123</lido:lidoRecID>
+   <lido:category/>
+   <lido:descriptiveMetadata xml:lang="de">
+      <lido:objectClassificationWrap>
+         <lido:objectWorkTypeWrap>
+            <lido:objectWorkType>
+               <lido:conceptID lido:source="gnd" lido:type="uri">http://d-nb.info/gnd/4021845-4</lido:conceptID>
+               <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/13314</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Druckgraphik</lido:term>
+            </lido:objectWorkType>
+         </lido:objectWorkTypeWrap>
+         <lido:classificationWrap>
+            <lido:classification lido:type="Sammlung">
+               <lido:conceptID lido:source="local" lido:type="collection_id">705</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Handzeichnungen, Druckgraphik, Gemälde</lido:term>
+            </lido:classification>
+            <lido:classification lido:type="Sammlung">
+               <lido:conceptID lido:source="local" lido:type="collection_id">706</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Ansichten</lido:term>
+            </lido:classification>
+            <lido:classification lido:type="Sammlung">
+               <lido:conceptID lido:source="local" lido:type="collection_id">708</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Brandenburg</lido:term>
+            </lido:classification>
+         </lido:classificationWrap>
+      </lido:objectClassificationWrap>
+      <lido:objectIdentificationWrap>
+         <lido:titleWrap>
+            <lido:titleSet>
+               <lido:appellationValue lido:pref="preferred">Landsberg/Warthe [Gorzów Wlkp.]: Vallentinsche Mühle</lido:appellationValue>
+            </lido:titleSet>
+         </lido:titleWrap>
+         <lido:repositoryWrap>
+            <lido:repositorySet lido:type="current">
+               <lido:repositoryName>
+                  <lido:legalBodyID lido:type="isil">DE-B185</lido:legalBodyID>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+                  </lido:legalBodyName>
+                  <lido:legalBodyWeblink>http://geschichte-brandenburg.de/</lido:legalBodyWeblink>
+               </lido:repositoryName>
+               <lido:workID lido:type="inventory number">LGV-Archiv, C 12 G-4-050</lido:workID>
+               <lido:repositoryLocation>
+                  <lido:namePlaceSet>
+                     <lido:appellationValue>Berlin</lido:appellationValue>
+                  </lido:namePlaceSet>
+                  <lido:gml>
+                     <gml:Point xmlns:gml="http://www.opengis.net/gml" srsName="EPSG:4326">
+                        <gml:pos>52.51533127 13.40440559</gml:pos>
+                     </gml:Point>
+                  </lido:gml>
+               </lido:repositoryLocation>
+            </lido:repositorySet>
+         </lido:repositoryWrap>
+         <lido:objectDescriptionWrap>
+            <lido:objectDescriptionSet>
+               <lido:descriptiveNoteValue>Firmenbriefkopf der "Kalkbrennerei, Dampf-, Gips- und Fournierschneide-Mühle von M. Vallentin." in Landsberg/Warthe mit einer Ansicht der Vallentinschen Mühle mit Schornstein und Nebengebäuden. Im Hintergrund ist durch ein Segel ein schiffbarer Fluss angedeutet. Nur in diesem Exemplar bisher bekannt.&#xD;
+&#xD;
+Bez. mi. u. "Kalkbrennerei, Dampf-Gyps &amp; Fournirschneide-Mühle von W. Vallentin. / Lith. Anst. von Manthey &amp; Co.", darunter "Landsberg a/W. den" und dann handschriftlich mit brauner Tinte hinzugefügt "14ten May 1851." Auf der Rückseite mit brauner Tinte Teile der beschnittenen und nicht mehr lesbaren Adresse und ein Postvermerk.&#xD;
+Erworben 1995 im Berliner Antiquitätenhandel.&#xD;
+&#xD;
+Literatur: Iris Berndt: Märkische Ansichten. Die Provinz Brandenburg im Bild der Druckgraphik 1550-1850. Berlin 2007, Nr. 1048 (mit Abb. der Ansicht)</lido:descriptiveNoteValue>
+               <lido:sourceDescriptiveNote>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:sourceDescriptiveNote>
+            </lido:objectDescriptionSet>
+         </lido:objectDescriptionWrap>
+         <lido:objectMeasurementsWrap>
+            <lido:objectMeasurementsSet>
+               <lido:displayObjectMeasurements>Blattgröße: 8,5 cm, Breite 21,6 cm (unten beschnitten)</lido:displayObjectMeasurements>
+               <lido:objectMeasurements/>
+            </lido:objectMeasurementsSet>
+         </lido:objectMeasurementsWrap>
+      </lido:objectIdentificationWrap>
+      <lido:eventWrap>
+         <lido:eventSet>
+            <lido:event>
+               <lido:eventType>
+                  <lido:conceptID lido:type="uri">https://event-types.museum-digital.org/1</lido:conceptID>
+                  <lido:term lido:addedSearchTerm="no">Hergestellt</lido:term>
+               </lido:eventType>
+               <lido:eventDate>
+                  <lido:displayDate>1851</lido:displayDate>
+                  <lido:displayDate xml:lang="ar">1851</lido:displayDate>
+                  <lido:displayDate xml:lang="de">1851</lido:displayDate>
+                  <lido:displayDate xml:lang="en">1851</lido:displayDate>
+                  <lido:displayDate xml:lang="es">1851</lido:displayDate>
+                  <lido:displayDate xml:lang="fa">1851</lido:displayDate>
+                  <lido:displayDate xml:lang="fr">1851</lido:displayDate>
+                  <lido:displayDate xml:lang="hu">1851</lido:displayDate>
+                  <lido:displayDate xml:lang="id">1851</lido:displayDate>
+                  <lido:displayDate xml:lang="it">1851</lido:displayDate>
+                  <lido:displayDate xml:lang="ja">1851年</lido:displayDate>
+                  <lido:displayDate xml:lang="ka">1851</lido:displayDate>
+                  <lido:displayDate xml:lang="ko">1851년</lido:displayDate>
+                  <lido:displayDate xml:lang="pl">1851</lido:displayDate>
+                  <lido:displayDate xml:lang="pt">1851</lido:displayDate>
+                  <lido:displayDate xml:lang="ro">1851</lido:displayDate>
+                  <lido:displayDate xml:lang="ru">1851</lido:displayDate>
+                  <lido:displayDate xml:lang="ta">1851</lido:displayDate>
+                  <lido:displayDate xml:lang="tl">1851</lido:displayDate>
+                  <lido:displayDate xml:lang="tr">1851</lido:displayDate>
+                  <lido:displayDate xml:lang="zh">1851年</lido:displayDate>
+                  <lido:date>
+                     <lido:earliestDate>1851</lido:earliestDate>
+                     <lido:latestDate>1851</lido:latestDate>
+                  </lido:date>
+               </lido:eventDate>
+            </lido:event>
+         </lido:eventSet>
+         <lido:eventSet>
+            <lido:event>
+               <lido:eventType>
+                  <lido:conceptID lido:type="uri">http://terminology.lido-schema.org/lido00003</lido:conceptID>
+                  <lido:term>Event (non-specified)</lido:term>
+               </lido:eventType>
+               <lido:eventMaterialsTech>
+                  <lido:displayMaterialsTech>Lithographie auf dünnem Papier, gefaltet</lido:displayMaterialsTech>
+               </lido:eventMaterialsTech>
+            </lido:event>
+         </lido:eventSet>
+      </lido:eventWrap>
+      <lido:objectRelationWrap>
+         <lido:subjectWrap>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectPlace>
+                     <lido:displayPlace>Landsberg (Warthe)</lido:displayPlace>
+                     <lido:displayPlace xml:lang="ar">غورجوف ويلكوبولسكي</lido:displayPlace>
+                     <lido:displayPlace xml:lang="cs">Gorzów Wielkopolski</lido:displayPlace>
+                     <lido:displayPlace xml:lang="da">Gorzów Wielkopolski</lido:displayPlace>
+                     <lido:displayPlace xml:lang="de">Gorzów Wielkopolski</lido:displayPlace>
+                     <lido:displayPlace xml:lang="en">Gorzów Wielkopolski</lido:displayPlace>
+                     <lido:displayPlace xml:lang="es">Gorzów Wielkopolski</lido:displayPlace>
+                     <lido:displayPlace xml:lang="fa">گورژوف ویلکوپولسکی</lido:displayPlace>
+                     <lido:displayPlace xml:lang="fi">Gorzów Wielkopolski</lido:displayPlace>
+                     <lido:displayPlace xml:lang="fr">Gorzów Wielkopolski</lido:displayPlace>
+                     <lido:displayPlace xml:lang="he">גוז'וב ויילקופולסקי</lido:displayPlace>
+                     <lido:displayPlace xml:lang="hu">Gorzów Wielkopolski</lido:displayPlace>
+                     <lido:displayPlace xml:lang="id">Gorzów Wielkopolski</lido:displayPlace>
+                     <lido:displayPlace xml:lang="it">Gorzów Wielkopolski</lido:displayPlace>
+                     <lido:displayPlace xml:lang="ja">ゴジュフ・ヴィエルコポルスキ</lido:displayPlace>
+                     <lido:displayPlace xml:lang="ko">고주프비엘코폴스키</lido:displayPlace>
+                     <lido:displayPlace xml:lang="nl">Gorzów Wielkopolski (stad)</lido:displayPlace>
+                     <lido:displayPlace xml:lang="pl">Gorzów Wielkopolski</lido:displayPlace>
+                     <lido:displayPlace xml:lang="pt">Gorzów Wielkopolski</lido:displayPlace>
+                     <lido:displayPlace xml:lang="ro">Gorzów Wielkopolski</lido:displayPlace>
+                     <lido:displayPlace xml:lang="ru">Гожув-Велькопольски</lido:displayPlace>
+                     <lido:displayPlace xml:lang="sv">Gorzów Wielkopolski</lido:displayPlace>
+                     <lido:displayPlace xml:lang="th">กอร์ซูฟเวียลคอปอลสกี</lido:displayPlace>
+                     <lido:displayPlace xml:lang="tr">Gorzów Wielkopolski</lido:displayPlace>
+                     <lido:displayPlace xml:lang="ur">گورژوو ویئلوپولسکی</lido:displayPlace>
+                     <lido:displayPlace xml:lang="vi">Gorzów Wielkopolski</lido:displayPlace>
+                     <lido:displayPlace xml:lang="zh">大波蘭地區戈茹夫</lido:displayPlace>
+                     <lido:place>
+                        <lido:placeID lido:source="geonames" lido:type="uri">https://sws.geonames.org/3098722</lido:placeID>
+                        <lido:placeID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4034340-6</lido:placeID>
+                        <lido:placeID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q104731</lido:placeID>
+                        <lido:placeID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/place/56942</lido:placeID>
+                        <lido:namePlaceSet>
+                           <lido:appellationValue>Landsberg (Warthe)</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ar">غورجوف ويلكوبولسكي</lido:appellationValue>
+                           <lido:appellationValue xml:lang="cs">Gorzów Wielkopolski</lido:appellationValue>
+                           <lido:appellationValue xml:lang="da">Gorzów Wielkopolski</lido:appellationValue>
+                           <lido:appellationValue xml:lang="de">Gorzów Wielkopolski</lido:appellationValue>
+                           <lido:appellationValue xml:lang="en">Gorzów Wielkopolski</lido:appellationValue>
+                           <lido:appellationValue xml:lang="es">Gorzów Wielkopolski</lido:appellationValue>
+                           <lido:appellationValue xml:lang="fa">گورژوف ویلکوپولسکی</lido:appellationValue>
+                           <lido:appellationValue xml:lang="fi">Gorzów Wielkopolski</lido:appellationValue>
+                           <lido:appellationValue xml:lang="fr">Gorzów Wielkopolski</lido:appellationValue>
+                           <lido:appellationValue xml:lang="he">גוז'וב ויילקופולסקי</lido:appellationValue>
+                           <lido:appellationValue xml:lang="hu">Gorzów Wielkopolski</lido:appellationValue>
+                           <lido:appellationValue xml:lang="id">Gorzów Wielkopolski</lido:appellationValue>
+                           <lido:appellationValue xml:lang="it">Gorzów Wielkopolski</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ja">ゴジュフ・ヴィエルコポルスキ</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ko">고주프비엘코폴스키</lido:appellationValue>
+                           <lido:appellationValue xml:lang="nl">Gorzów Wielkopolski (stad)</lido:appellationValue>
+                           <lido:appellationValue xml:lang="pl">Gorzów Wielkopolski</lido:appellationValue>
+                           <lido:appellationValue xml:lang="pt">Gorzów Wielkopolski</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ro">Gorzów Wielkopolski</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ru">Гожув-Велькопольски</lido:appellationValue>
+                           <lido:appellationValue xml:lang="sv">Gorzów Wielkopolski</lido:appellationValue>
+                           <lido:appellationValue xml:lang="th">กอร์ซูฟเวียลคอปอลสกี</lido:appellationValue>
+                           <lido:appellationValue xml:lang="tr">Gorzów Wielkopolski</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ur">گورژوو ویئلوپولسکی</lido:appellationValue>
+                           <lido:appellationValue xml:lang="vi">Gorzów Wielkopolski</lido:appellationValue>
+                           <lido:appellationValue xml:lang="zh">大波蘭地區戈茹夫</lido:appellationValue>
+                        </lido:namePlaceSet>
+                        <lido:gml>
+                           <gml:Point xmlns:gml="http://www.opengis.net/gml" srsName="EPSG:4326">
+                              <gml:pos>52.733333587646 15.25</gml:pos>
+                           </gml:Point>
+                        </lido:gml>
+                     </lido:place>
+                  </lido:subjectPlace>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">http://d-nb.info/gnd/4053211-2</lido:conceptID>
+                     <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh85023968</lido:conceptID>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">http://de.wikipedia.org/wiki/Schornstein</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/621</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Schornstein</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="aat" lido:type="uri">http://vocab.getty.edu/aat/300264626</lido:conceptID>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4040457-2</lido:conceptID>
+                     <lido:conceptID lido:source="grobsystematik" lido:type="uri">https://term.museum-digital.de/grobsystematik/tag/8027</lido:conceptID>
+                     <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh85085422</lido:conceptID>
+                     <lido:conceptID lido:source="oberbegriffsdatei" lido:type="uri">https://term.museum-digital.de/oberbegriffsdatei/tag/7125</lido:conceptID>
+                     <lido:conceptID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/w/index.php?search=&amp;search=Q44494</lido:conceptID>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/M%C3%BChle</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/626</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Mühle</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ar">طاحونة</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="cs">mlýn</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="da">mølle</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="de">Mühle</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="en">Mill</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="es">molino</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fa">دستگاه آسیاب</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fi">mylly</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fr">moulin</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="he">מטחנה</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hu">malom</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="id">penggilingan</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="it">mulino</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ja">粉砕機</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ka">წისქვილი</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ko">분쇄기</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="nl">molen</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pl">młyn zbożowy</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pt">moinho</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ru">мельница</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sv">kvarn</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tr">Değirmen</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="zh">研磨</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="aat" lido:type="uri">http://vocab.getty.edu/aat/300006232</lido:conceptID>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4250288-3</lido:conceptID>
+                     <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh85046823</lido:conceptID>
+                     <lido:conceptID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q83405</lido:conceptID>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Fabrik</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/724</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Fabrik</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ar">مصنع</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="bn">ফ্যাক্টরি</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="cs">Továrna</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="da">Fabrik</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="de">Fabrik</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="el">Εργοστάσιο</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="en">Factory</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="es">Fábrica</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fa">کارخانه</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fi">Tehdas</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fr">Usine</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="he">בית חרושת</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hi">कारखाना</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hu">gyár</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="id">Pabrik</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="it">Fabbrica</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ja">工場</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ko">공장</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="nl">Fabriek</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pl">Fabryka</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pt">Fábrica</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ru">фабрика</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sv">Fabrik</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sw">Kiwanda</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ta">தொழிற்சாலை</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="th">โรงงาน</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tl">Pabrika</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tr">Fabrika</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ur">کارخانہ</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="vi">Nhà máy</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="zh">工廠</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4021845-4</lido:conceptID>
+                     <lido:conceptID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q1027879</lido:conceptID>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">https://en.wikipedia.org/wiki/Graphics</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/13314</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Druckgraphik</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ar">رسوميات</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="bn">গ্রাফিক্স</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="cs">Grafika</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="de">Druckgraphik</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="el">Γραφικά</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="en">Graphics</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="es">gráficos</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fa">ارتباط تصویری</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fr">Graphique</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="he">גרפיקה</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hi">चित्रालेख</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hu">Grafika</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="id">Grafika</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ja">グラフィック</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ka">გრაფიკა</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ko">그래픽</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="nl">Grafiek</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pl">Grafika</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pt">Gráfico</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ro">grafică</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ru">графика</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ta">வரைகலை</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tr">Grafik</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ur">تخطیط</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="zh">图形</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="aat" lido:type="uri">http://vocab.getty.edu/aat/300193998</lido:conceptID>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">http://d-nb.info/gnd/4275751-4</lido:conceptID>
+                     <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh85076238</lido:conceptID>
+                     <lido:conceptID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q3180817</lido:conceptID>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Briefbogen</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/21597</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Briefbogen</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="de">Briefbogen</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="en">Headed paper</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="es">Hoja membretada</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fa">سربرگ</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fr">Papier à en-tête</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ja">レターヘッド</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ru">Фирменный бланк</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+         </lido:subjectWrap>
+         <lido:relatedWorksWrap/>
+      </lido:objectRelationWrap>
+   </lido:descriptiveMetadata>
+   <lido:administrativeMetadata xml:lang="de">
+      <lido:rightsWorkWrap>
+         <lido:rightsWorkSet>
+            <lido:rightsHolder>
+               <lido:legalBodyName>
+                  <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:rightsHolder>
+         </lido:rightsWorkSet>
+      </lido:rightsWorkWrap>
+      <lido:recordWrap>
+         <lido:recordID lido:type="museum-digital">67123</lido:recordID>
+         <lido:recordType>
+            <lido:term lido:addedSearchTerm="no">item</lido:term>
+         </lido:recordType>
+         <lido:recordSource lido:type="dataProvider">
+            <lido:legalBodyName>
+               <lido:appellationValue>museum-digital</lido:appellationValue>
+            </lido:legalBodyName>
+            <lido:legalBodyWeblink>https://berlin.museum-digital.de/</lido:legalBodyWeblink>
+         </lido:recordSource>
+         <lido:recordSource>
+            <lido:legalBodyID lido:type="isil">DE-B185</lido:legalBodyID>
+            <lido:legalBodyName>
+               <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+            </lido:legalBodyName>
+         </lido:recordSource>
+         <lido:recordRights>
+            <lido:rightsType>
+               <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no">CC BY</lido:term>
+            </lido:rightsType>
+            <lido:rightsHolder>
+               <lido:legalBodyID lido:type="isil">DE-B185</lido:legalBodyID>
+               <lido:legalBodyName>
+                  <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+               </lido:legalBodyName>
+               <lido:legalBodyWeblink>http://geschichte-brandenburg.de/</lido:legalBodyWeblink>
+            </lido:rightsHolder>
+            <lido:creditLine>Förderprogramm zur Digitalisierung von Objekten des kulturellen Erbes des Landes Berlin</lido:creditLine>
+         </lido:recordRights>
+         <lido:recordInfoSet>
+            <lido:recordInfoLink>https://berlin.museum-digital.de/index.php?t=objekt&amp;oges=67123</lido:recordInfoLink>
+            <lido:recordMetadataDate>2021-04-27 07:59:54</lido:recordMetadataDate>
+         </lido:recordInfoSet>
+      </lido:recordWrap>
+      <lido:resourceWrap>
+         <lido:resourceSet lido:sortorder="1">
+            <lido:resourceID lido:source="image" lido:type="local">48706</lido:resourceID>
+            <lido:resourceRepresentation lido:type="masterfile">
+               <lido:linkResource lido:formatResource="image/tiff"/>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_thumb">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/202007/100h_landsbergwarthe-gorzow-wlkp-vallentinsche-muehle-67123.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_preview">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/202007/200w_landsbergwarthe-gorzow-wlkp-vallentinsche-muehle-67123.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/202007/landsbergwarthe-gorzow-wlkp-vallentinsche-muehle-67123.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceType>
+               <lido:term lido:addedSearchTerm="no">image</lido:term>
+            </lido:resourceType>
+            <lido:resourceRelType>
+               <lido:term lido:addedSearchTerm="no">Hauptansicht</lido:term>
+            </lido:resourceRelType>
+            <lido:resourceDescription>Landsberg/Warthe: Vallentinsche Mühle</lido:resourceDescription>
+            <lido:resourceSource lido:type="creator">
+               <lido:legalBodyName>
+                  <lido:appellationValue>Thomas Voßbeck, 2020</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:resourceSource>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+                  <lido:term lido:addedSearchTerm="no">CC BY</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V.</lido:appellationValue>
+                  </lido:legalBodyName>
+               </lido:rightsHolder>
+               <lido:creditLine>Thomas Voßbeck, 2020</lido:creditLine>
+            </lido:rightsResource>
+         </lido:resourceSet>
+         <lido:resourceSet lido:sortorder="2">
+            <lido:resourceID lido:source="image" lido:type="local">49082</lido:resourceID>
+            <lido:resourceRepresentation lido:type="masterfile">
+               <lido:linkResource lido:formatResource="image/tiff"/>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_thumb">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/32/67123-lgv-archiv_c_12_g-4-050_rueckseite_haendisch_dazu/landsbergwarthe_gorzow_wl/100h_landsbergwarthe-gorzow-wlkp-vallentinsche-muehle-67123.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_preview">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/32/67123-lgv-archiv_c_12_g-4-050_rueckseite_haendisch_dazu/landsbergwarthe_gorzow_wl/200w_landsbergwarthe-gorzow-wlkp-vallentinsche-muehle-67123.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/32/67123-lgv-archiv_c_12_g-4-050_rueckseite_haendisch_dazu/landsbergwarthe_gorzow_wl/landsbergwarthe-gorzow-wlkp-vallentinsche-muehle-67123.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceType>
+               <lido:term lido:addedSearchTerm="no">image</lido:term>
+            </lido:resourceType>
+            <lido:resourceDescription/>
+            <lido:resourceSource lido:type="creator">
+               <lido:legalBodyName>
+                  <lido:appellationValue>Thomas Voßbeck, 2020</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:resourceSource>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+                  <lido:term lido:addedSearchTerm="no">CC BY</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V.</lido:appellationValue>
+                  </lido:legalBodyName>
+               </lido:rightsHolder>
+               <lido:creditLine>Thomas Voßbeck, 2020</lido:creditLine>
+            </lido:rightsResource>
+         </lido:resourceSet>
+      </lido:resourceWrap>
+   </lido:administrativeMetadata>
+</lido:lido>
+

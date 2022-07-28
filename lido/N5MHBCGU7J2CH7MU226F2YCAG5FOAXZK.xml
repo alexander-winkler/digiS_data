@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lido:lido xmlns:lido="http://www.lido-schema.org"
+           xmlns:xalan="http://xml.apache.org/xalan">
+   <lido:lidoRecID lido:source="https://berlin.museum-digital.de/index.php?t=institution&amp;instnr=32"
+                   lido:type="local">DE-B185/67380</lido:lidoRecID>
+   <lido:category/>
+   <lido:descriptiveMetadata xml:lang="de">
+      <lido:objectClassificationWrap>
+         <lido:objectWorkTypeWrap>
+            <lido:objectWorkType>
+               <lido:conceptID lido:source="gnd" lido:type="uri">http://d-nb.info/gnd/4021845-4</lido:conceptID>
+               <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/13314</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Druckgraphik</lido:term>
+            </lido:objectWorkType>
+         </lido:objectWorkTypeWrap>
+         <lido:classificationWrap>
+            <lido:classification lido:type="Sammlung">
+               <lido:conceptID lido:source="local" lido:type="collection_id">705</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Handzeichnungen, Druckgraphik, Gemälde</lido:term>
+            </lido:classification>
+            <lido:classification lido:type="Sammlung">
+               <lido:conceptID lido:source="local" lido:type="collection_id">706</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Ansichten</lido:term>
+            </lido:classification>
+            <lido:classification lido:type="Sammlung">
+               <lido:conceptID lido:source="local" lido:type="collection_id">709</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Sonstige Länder</lido:term>
+            </lido:classification>
+         </lido:classificationWrap>
+      </lido:objectClassificationWrap>
+      <lido:objectIdentificationWrap>
+         <lido:titleWrap>
+            <lido:titleSet>
+               <lido:appellationValue lido:pref="preferred">Ansbach: Schloss und Hofgarten (Orangerie)</lido:appellationValue>
+            </lido:titleSet>
+         </lido:titleWrap>
+         <lido:repositoryWrap>
+            <lido:repositorySet lido:type="current">
+               <lido:repositoryName>
+                  <lido:legalBodyID lido:type="isil">DE-B185</lido:legalBodyID>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+                  </lido:legalBodyName>
+                  <lido:legalBodyWeblink>http://geschichte-brandenburg.de/</lido:legalBodyWeblink>
+               </lido:repositoryName>
+               <lido:workID lido:type="inventory number">LGV-Archiv, B 132-01, Bl. 26</lido:workID>
+               <lido:repositoryLocation>
+                  <lido:namePlaceSet>
+                     <lido:appellationValue>Berlin</lido:appellationValue>
+                  </lido:namePlaceSet>
+                  <lido:gml>
+                     <gml:Point xmlns:gml="http://www.opengis.net/gml" srsName="EPSG:4326">
+                        <gml:pos>52.51533127 13.40440559</gml:pos>
+                     </gml:Point>
+                  </lido:gml>
+               </lido:repositoryLocation>
+            </lido:repositorySet>
+         </lido:repositoryWrap>
+         <lido:objectDescriptionWrap>
+            <lido:objectDescriptionSet>
+               <lido:descriptiveNoteValue>Dargestellt ist hier die Residenzstadt der Markgrafen von Ansbach-Bayreuth, die ebenso wie die neuzeitlichen Kurfürsten und Könige in Brandenburg-Preußen aus dem Geschlecht der Hohenzollern stammten. Das Blatt ist wohl Teil eines Briefbogens. Laut Hella Reelfs stammt es aus dem "Album Adelheid von Hedemann" [geb. von Humboldt (1800-1856)].
+
+Unbez.
+Erworben 2020 (Nachlass Dr. Hella Reelfs).</lido:descriptiveNoteValue>
+               <lido:sourceDescriptiveNote>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:sourceDescriptiveNote>
+            </lido:objectDescriptionSet>
+         </lido:objectDescriptionWrap>
+         <lido:objectMeasurementsWrap>
+            <lido:objectMeasurementsSet>
+               <lido:displayObjectMeasurements>Blattgröße: Höhe 9,6 cm, Breite 20,2 cm</lido:displayObjectMeasurements>
+               <lido:objectMeasurements/>
+            </lido:objectMeasurementsSet>
+         </lido:objectMeasurementsWrap>
+      </lido:objectIdentificationWrap>
+      <lido:eventWrap>
+         <lido:eventSet>
+            <lido:event>
+               <lido:eventType>
+                  <lido:conceptID lido:type="uri">https://event-types.museum-digital.org/1</lido:conceptID>
+                  <lido:term lido:addedSearchTerm="no">Hergestellt</lido:term>
+               </lido:eventType>
+               <lido:eventDate>
+                  <lido:displayDate>1850 (wahrscheinlich)</lido:displayDate>
+                  <lido:displayDate xml:lang="ar">1850</lido:displayDate>
+                  <lido:displayDate xml:lang="de">1850</lido:displayDate>
+                  <lido:displayDate xml:lang="en">1850</lido:displayDate>
+                  <lido:displayDate xml:lang="es">1850</lido:displayDate>
+                  <lido:displayDate xml:lang="fa">1850</lido:displayDate>
+                  <lido:displayDate xml:lang="fr">1850</lido:displayDate>
+                  <lido:displayDate xml:lang="hu">1850</lido:displayDate>
+                  <lido:displayDate xml:lang="id">1850</lido:displayDate>
+                  <lido:displayDate xml:lang="it">1850</lido:displayDate>
+                  <lido:displayDate xml:lang="ja">1850年</lido:displayDate>
+                  <lido:displayDate xml:lang="ka">1850</lido:displayDate>
+                  <lido:displayDate xml:lang="ko">1850년</lido:displayDate>
+                  <lido:displayDate xml:lang="pl">1850</lido:displayDate>
+                  <lido:displayDate xml:lang="pt">1850</lido:displayDate>
+                  <lido:displayDate xml:lang="ro">1850</lido:displayDate>
+                  <lido:displayDate xml:lang="ru">1850</lido:displayDate>
+                  <lido:displayDate xml:lang="ta">1850</lido:displayDate>
+                  <lido:displayDate xml:lang="tl">1850</lido:displayDate>
+                  <lido:displayDate xml:lang="tr">1850</lido:displayDate>
+                  <lido:displayDate xml:lang="zh">1850年</lido:displayDate>
+                  <lido:date>
+                     <lido:earliestDate>1850</lido:earliestDate>
+                     <lido:latestDate>1850</lido:latestDate>
+                  </lido:date>
+               </lido:eventDate>
+            </lido:event>
+         </lido:eventSet>
+         <lido:eventSet>
+            <lido:event>
+               <lido:eventType>
+                  <lido:conceptID lido:type="uri">http://terminology.lido-schema.org/lido00003</lido:conceptID>
+                  <lido:term>Event (non-specified)</lido:term>
+               </lido:eventType>
+               <lido:eventMaterialsTech>
+                  <lido:displayMaterialsTech>Lithographie auf dünnem Papier, mit Knickspuren</lido:displayMaterialsTech>
+               </lido:eventMaterialsTech>
+            </lido:event>
+         </lido:eventSet>
+      </lido:eventWrap>
+      <lido:objectRelationWrap>
+         <lido:subjectWrap>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectPlace>
+                     <lido:displayPlace>Ansbach</lido:displayPlace>
+                     <lido:displayPlace xml:lang="ar">آنسباخ</lido:displayPlace>
+                     <lido:displayPlace xml:lang="cs">Ansbach</lido:displayPlace>
+                     <lido:displayPlace xml:lang="da">Ansbach</lido:displayPlace>
+                     <lido:displayPlace xml:lang="de">Ansbach</lido:displayPlace>
+                     <lido:displayPlace xml:lang="el">Άνσμπαχ</lido:displayPlace>
+                     <lido:displayPlace xml:lang="en">Ansbach</lido:displayPlace>
+                     <lido:displayPlace xml:lang="es">Ansbach</lido:displayPlace>
+                     <lido:displayPlace xml:lang="fa">آنسباخ</lido:displayPlace>
+                     <lido:displayPlace xml:lang="fi">Ansbach</lido:displayPlace>
+                     <lido:displayPlace xml:lang="fr">Ansbach</lido:displayPlace>
+                     <lido:displayPlace xml:lang="he">אנסבאך</lido:displayPlace>
+                     <lido:displayPlace xml:lang="hu">Ansbach</lido:displayPlace>
+                     <lido:displayPlace xml:lang="id">Ansbach</lido:displayPlace>
+                     <lido:displayPlace xml:lang="it">Ansbach</lido:displayPlace>
+                     <lido:displayPlace xml:lang="ja">アンスバッハ</lido:displayPlace>
+                     <lido:displayPlace xml:lang="ka">ანსბახი</lido:displayPlace>
+                     <lido:displayPlace xml:lang="ko">안스바흐</lido:displayPlace>
+                     <lido:displayPlace xml:lang="nl">Ansbach</lido:displayPlace>
+                     <lido:displayPlace xml:lang="pl">Ansbach</lido:displayPlace>
+                     <lido:displayPlace xml:lang="pt">Ansbach</lido:displayPlace>
+                     <lido:displayPlace xml:lang="ro">Ansbach</lido:displayPlace>
+                     <lido:displayPlace xml:lang="ru">Ансбах</lido:displayPlace>
+                     <lido:displayPlace xml:lang="sv">Ansbach</lido:displayPlace>
+                     <lido:displayPlace xml:lang="th">อันส์บัค</lido:displayPlace>
+                     <lido:displayPlace xml:lang="tr">Ansbach</lido:displayPlace>
+                     <lido:displayPlace xml:lang="vi">Ansbach</lido:displayPlace>
+                     <lido:displayPlace xml:lang="zh">安斯巴赫</lido:displayPlace>
+                     <lido:place>
+                        <lido:placeID lido:source="geonames" lido:type="uri">https://sws.geonames.org/2955936</lido:placeID>
+                        <lido:placeID lido:source="TGN" lido:type="uri">http://vocab.getty.edu/tgn/7004459</lido:placeID>
+                        <lido:placeID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4002170-1</lido:placeID>
+                        <lido:placeID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q14859</lido:placeID>
+                        <lido:placeID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/place/824</lido:placeID>
+                        <lido:namePlaceSet>
+                           <lido:appellationValue>Ansbach</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ar">آنسباخ</lido:appellationValue>
+                           <lido:appellationValue xml:lang="cs">Ansbach</lido:appellationValue>
+                           <lido:appellationValue xml:lang="da">Ansbach</lido:appellationValue>
+                           <lido:appellationValue xml:lang="de">Ansbach</lido:appellationValue>
+                           <lido:appellationValue xml:lang="el">Άνσμπαχ</lido:appellationValue>
+                           <lido:appellationValue xml:lang="en">Ansbach</lido:appellationValue>
+                           <lido:appellationValue xml:lang="es">Ansbach</lido:appellationValue>
+                           <lido:appellationValue xml:lang="fa">آنسباخ</lido:appellationValue>
+                           <lido:appellationValue xml:lang="fi">Ansbach</lido:appellationValue>
+                           <lido:appellationValue xml:lang="fr">Ansbach</lido:appellationValue>
+                           <lido:appellationValue xml:lang="he">אנסבאך</lido:appellationValue>
+                           <lido:appellationValue xml:lang="hu">Ansbach</lido:appellationValue>
+                           <lido:appellationValue xml:lang="id">Ansbach</lido:appellationValue>
+                           <lido:appellationValue xml:lang="it">Ansbach</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ja">アンスバッハ</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ka">ანსბახი</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ko">안스바흐</lido:appellationValue>
+                           <lido:appellationValue xml:lang="nl">Ansbach</lido:appellationValue>
+                           <lido:appellationValue xml:lang="pl">Ansbach</lido:appellationValue>
+                           <lido:appellationValue xml:lang="pt">Ansbach</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ro">Ansbach</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ru">Ансбах</lido:appellationValue>
+                           <lido:appellationValue xml:lang="sv">Ansbach</lido:appellationValue>
+                           <lido:appellationValue xml:lang="th">อันส์บัค</lido:appellationValue>
+                           <lido:appellationValue xml:lang="tr">Ansbach</lido:appellationValue>
+                           <lido:appellationValue xml:lang="vi">Ansbach</lido:appellationValue>
+                           <lido:appellationValue xml:lang="zh">安斯巴赫</lido:appellationValue>
+                        </lido:namePlaceSet>
+                        <lido:gml>
+                           <gml:Point xmlns:gml="http://www.opengis.net/gml" srsName="EPSG:4326">
+                              <gml:pos>49.299999237061 10.583333015442</gml:pos>
+                           </gml:Point>
+                        </lido:gml>
+                     </lido:place>
+                  </lido:subjectPlace>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="aat" lido:type="uri">http://vocab.getty.edu/aat/300015571</lido:conceptID>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">http://d-nb.info/gnd/4126697-3</lido:conceptID>
+                     <lido:conceptID lido:source="iconclass" lido:type="uri">http://iconclass.org/rkd/25II1/</lido:conceptID>
+                     <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/vocabulary/graphicMaterials/tgm002111</lido:conceptID>
+                     <lido:conceptID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q1935974</lido:conceptID>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Stadtlandschaft_(Malerei)</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/66</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Stadtansicht</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="da">Bylandskabsbillede</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="de">Stadtansicht</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="en">Cityscape</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="es">Paisaje urbano</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fr">Paysage urbain</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="id">Cityscape (seni)</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="nl">Stadsgezicht</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ru">городской пейзаж</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sv">Stadsbild</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="aat" lido:type="uri">http://vocab.getty.edu/aat/300006804</lido:conceptID>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4246623-4</lido:conceptID>
+                     <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh85095283</lido:conceptID>
+                     <lido:conceptID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q952885</lido:conceptID>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Orangerie</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/4155</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Orangerie</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="cs">Oranžérie</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="da">Orangeri</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="de">Orangerie</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="en">Orangery</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="es">Orangerie</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fr">Orangerie</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="it">Giardino d´inverno</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ka">ორანჟერეა</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="nl">Oranjerie</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pl">Pomarańczarnia</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pt">Orangerie</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ru">Оранжерея</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sv">Orangeri</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ta">ஆரஞ்செரி</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="th">เรือนส้ม</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/72817</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Schloss</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+         </lido:subjectWrap>
+         <lido:relatedWorksWrap/>
+      </lido:objectRelationWrap>
+   </lido:descriptiveMetadata>
+   <lido:administrativeMetadata xml:lang="de">
+      <lido:rightsWorkWrap>
+         <lido:rightsWorkSet>
+            <lido:rightsHolder>
+               <lido:legalBodyName>
+                  <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:rightsHolder>
+         </lido:rightsWorkSet>
+      </lido:rightsWorkWrap>
+      <lido:recordWrap>
+         <lido:recordID lido:type="museum-digital">67380</lido:recordID>
+         <lido:recordType>
+            <lido:term lido:addedSearchTerm="no">item</lido:term>
+         </lido:recordType>
+         <lido:recordSource lido:type="dataProvider">
+            <lido:legalBodyName>
+               <lido:appellationValue>museum-digital</lido:appellationValue>
+            </lido:legalBodyName>
+            <lido:legalBodyWeblink>https://berlin.museum-digital.de/</lido:legalBodyWeblink>
+         </lido:recordSource>
+         <lido:recordSource>
+            <lido:legalBodyID lido:type="isil">DE-B185</lido:legalBodyID>
+            <lido:legalBodyName>
+               <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+            </lido:legalBodyName>
+         </lido:recordSource>
+         <lido:recordRights>
+            <lido:rightsType>
+               <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no">CC BY</lido:term>
+            </lido:rightsType>
+            <lido:rightsHolder>
+               <lido:legalBodyID lido:type="isil">DE-B185</lido:legalBodyID>
+               <lido:legalBodyName>
+                  <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+               </lido:legalBodyName>
+               <lido:legalBodyWeblink>http://geschichte-brandenburg.de/</lido:legalBodyWeblink>
+            </lido:rightsHolder>
+            <lido:creditLine>Förderprogramm zur Digitalisierung von Objekten des kulturellen Erbes des Landes Berlin</lido:creditLine>
+         </lido:recordRights>
+         <lido:recordInfoSet>
+            <lido:recordInfoLink>https://berlin.museum-digital.de/index.php?t=objekt&amp;oges=67380</lido:recordInfoLink>
+            <lido:recordMetadataDate>2021-04-27 07:59:52</lido:recordMetadataDate>
+         </lido:recordInfoSet>
+      </lido:recordWrap>
+      <lido:resourceWrap>
+         <lido:resourceSet lido:sortorder="1">
+            <lido:resourceID lido:source="image" lido:type="local">48923</lido:resourceID>
+            <lido:resourceRepresentation lido:type="masterfile">
+               <lido:linkResource lido:formatResource="image/tiff"/>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_thumb">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/202007/100h_ansbach-schloss-und-hofgarten-orangerie-67380.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_preview">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/202007/200w_ansbach-schloss-und-hofgarten-orangerie-67380.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/202007/ansbach-schloss-und-hofgarten-orangerie-67380.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceType>
+               <lido:term lido:addedSearchTerm="no">image</lido:term>
+            </lido:resourceType>
+            <lido:resourceRelType>
+               <lido:term lido:addedSearchTerm="no">Hauptansicht</lido:term>
+            </lido:resourceRelType>
+            <lido:resourceDescription>Ansbach: Schloss und Hofgarten (Orangerie)</lido:resourceDescription>
+            <lido:resourceSource lido:type="creator">
+               <lido:legalBodyName>
+                  <lido:appellationValue>Thomas Voßbeck, 2020</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:resourceSource>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+                  <lido:term lido:addedSearchTerm="no">CC BY</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V.</lido:appellationValue>
+                  </lido:legalBodyName>
+               </lido:rightsHolder>
+               <lido:creditLine>Thomas Voßbeck, 2020</lido:creditLine>
+            </lido:rightsResource>
+         </lido:resourceSet>
+      </lido:resourceWrap>
+   </lido:administrativeMetadata>
+</lido:lido>
+

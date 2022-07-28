@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lido:lido xmlns:lido="http://www.lido-schema.org"
+           xmlns:xalan="http://xml.apache.org/xalan">
+   <lido:lidoRecID lido:source="https://berlin.museum-digital.de/index.php?t=institution&amp;instnr=32"
+                   lido:type="local">DE-B185/67233</lido:lidoRecID>
+   <lido:category/>
+   <lido:descriptiveMetadata xml:lang="de">
+      <lido:objectClassificationWrap>
+         <lido:objectWorkTypeWrap>
+            <lido:objectWorkType>
+               <lido:conceptID lido:source="gnd" lido:type="uri">http://d-nb.info/gnd/4067453-8</lido:conceptID>
+               <lido:conceptID lido:source="grobsystematik" lido:type="uri">https://term.museum-digital.de/grobsystematik/tag/14445</lido:conceptID>
+               <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh85039408</lido:conceptID>
+               <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/945</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Handzeichnung</lido:term>
+            </lido:objectWorkType>
+         </lido:objectWorkTypeWrap>
+         <lido:classificationWrap>
+            <lido:classification lido:type="Sammlung">
+               <lido:conceptID lido:source="local" lido:type="collection_id">705</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Handzeichnungen, Druckgraphik, Gemälde</lido:term>
+            </lido:classification>
+            <lido:classification lido:type="Sammlung">
+               <lido:conceptID lido:source="local" lido:type="collection_id">706</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Ansichten</lido:term>
+            </lido:classification>
+            <lido:classification lido:type="Sammlung">
+               <lido:conceptID lido:source="local" lido:type="collection_id">708</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Brandenburg</lido:term>
+            </lido:classification>
+         </lido:classificationWrap>
+      </lido:objectClassificationWrap>
+      <lido:objectIdentificationWrap>
+         <lido:titleWrap>
+            <lido:titleSet>
+               <lido:appellationValue lido:pref="preferred">Finkenkrug (Kr. Osthavelland): Forsthaus</lido:appellationValue>
+            </lido:titleSet>
+         </lido:titleWrap>
+         <lido:repositoryWrap>
+            <lido:repositorySet lido:type="current">
+               <lido:repositoryName>
+                  <lido:legalBodyID lido:type="isil">DE-B185</lido:legalBodyID>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+                  </lido:legalBodyName>
+                  <lido:legalBodyWeblink>http://geschichte-brandenburg.de/</lido:legalBodyWeblink>
+               </lido:repositoryName>
+               <lido:workID lido:type="inventory number">LGV-Archiv, C 12 H-4-007</lido:workID>
+               <lido:repositoryLocation>
+                  <lido:namePlaceSet>
+                     <lido:appellationValue>Berlin</lido:appellationValue>
+                  </lido:namePlaceSet>
+                  <lido:gml>
+                     <gml:Point xmlns:gml="http://www.opengis.net/gml" srsName="EPSG:4326">
+                        <gml:pos>52.51533127 13.40440559</gml:pos>
+                     </gml:Point>
+                  </lido:gml>
+               </lido:repositoryLocation>
+            </lido:repositorySet>
+         </lido:repositoryWrap>
+         <lido:objectDescriptionWrap>
+            <lido:objectDescriptionSet>
+               <lido:descriptiveNoteValue>Dargestellt ist das Forsthaus Finkenkrug von der Straßenseite (nicht identisch mit der heutigen Revierförsterei Brieselang). Laut Auskunft des Museums Falkensee vom 13. 5. 2020 ist es "das Forsthaus Finkenkrug - heute Falkensee-Finkenkrug. Es wurde 1897 erbaut und befindet sich auch heute noch am Heideweg. Es ist nach wie vor bewohnt." Dieses "Forsthaus liegt unmittelbar am Wanderweg vom Bahnhof Finkenkrug zum 'Finkenkrug', dem späteren 'Alten Finkenkrug'. Der 'Finkenkrug' ist von Fontane in seinen Wanderungen durch die Mark Brandenburg (Havelland, Der Brieselang – 'Finkenkrug') beschrieben. Seit dem Fontane dort war, es publiziert hatte, gab es Massenwanderungen. Die Berliner fuhren mit Sonderzügen aus Berlin zum Finkenkrug um dann letztendlich den Heideweg entlang zu wandern." So mag auch die farbige Zeichnung des in Berlin-Lichterfelde ansässigen Studienrats Prof. Dr. Karl Pappenheim (1865-nach 1942) während einer Wanderung auf Fontanes Spuren entstanden sein.
+Unbez. - Auf Karton der Firma "A. Loewenthals Zeichenanstalt" (rückseitig deren Werbung für "Neuheiten in Zeichenblocks:" und Stempel des Zeichners).
+Schenkung aus Privatbesitz (Nachlass Dr. Hans E. Pappenheim, Berlin).</lido:descriptiveNoteValue>
+               <lido:sourceDescriptiveNote>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:sourceDescriptiveNote>
+            </lido:objectDescriptionSet>
+         </lido:objectDescriptionWrap>
+         <lido:objectMeasurementsWrap>
+            <lido:objectMeasurementsSet>
+               <lido:displayObjectMeasurements>Blattgröße: Höhe 10,4 cm, Breite 15,6 cm (= Bildgröße)</lido:displayObjectMeasurements>
+               <lido:objectMeasurements/>
+            </lido:objectMeasurementsSet>
+         </lido:objectMeasurementsWrap>
+      </lido:objectIdentificationWrap>
+      <lido:eventWrap>
+         <lido:eventSet>
+            <lido:event>
+               <lido:eventType>
+                  <lido:conceptID lido:type="uri">https://event-types.museum-digital.org/9</lido:conceptID>
+                  <lido:term lido:addedSearchTerm="no">Gemalt</lido:term>
+               </lido:eventType>
+               <lido:eventActor>
+                  <lido:displayActorInRole>Karl Pappenheim (1865-1947)</lido:displayActorInRole>
+                  <lido:actorInRole>
+                     <lido:actor>
+                        <lido:actorID lido:source="allgemein" lido:type="uri">http://steglitz-museum.de/wp-content/uploads/2019/03/Das-Dorf-Lichterfelde-eine-Spurensuche-Teil-I.pdf</lido:actorID>
+                        <lido:actorID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/persinst/125024</lido:actorID>
+                        <lido:nameActorSet>
+                           <lido:appellationValue>Pappenheim, Karl</lido:appellationValue>
+                           <lido:appellationValue xml:lang="de">Karl Pappenheim</lido:appellationValue>
+                        </lido:nameActorSet>
+                        <lido:vitalDatesActor>
+                           <lido:earliestDate>1865</lido:earliestDate>
+                           <lido:latestDate>1947</lido:latestDate>
+                        </lido:vitalDatesActor>
+                     </lido:actor>
+                  </lido:actorInRole>
+               </lido:eventActor>
+               <lido:eventDate>
+                  <lido:displayDate>1910-1920 (wahrscheinlich)</lido:displayDate>
+                  <lido:date>
+                     <lido:earliestDate>1910</lido:earliestDate>
+                     <lido:latestDate>1920</lido:latestDate>
+                  </lido:date>
+               </lido:eventDate>
+            </lido:event>
+         </lido:eventSet>
+         <lido:eventSet>
+            <lido:event>
+               <lido:eventType>
+                  <lido:conceptID lido:type="uri">http://terminology.lido-schema.org/lido00003</lido:conceptID>
+                  <lido:term>Event (non-specified)</lido:term>
+               </lido:eventType>
+               <lido:eventMaterialsTech>
+                  <lido:displayMaterialsTech>Aquarell auf rückseitig bedrucktes festes Papier (auf A4 Blatt aufgeklebt)</lido:displayMaterialsTech>
+               </lido:eventMaterialsTech>
+            </lido:event>
+         </lido:eventSet>
+      </lido:eventWrap>
+      <lido:objectRelationWrap>
+         <lido:subjectWrap>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectPlace>
+                     <lido:displayPlace>Finkenkrug</lido:displayPlace>
+                     <lido:displayPlace xml:lang="de">Finkenkrug</lido:displayPlace>
+                     <lido:displayPlace xml:lang="en">Finkenkrug</lido:displayPlace>
+                     <lido:displayPlace xml:lang="fa">فینکنکروگ</lido:displayPlace>
+                     <lido:displayPlace xml:lang="fr">Finkenkrug</lido:displayPlace>
+                     <lido:displayPlace xml:lang="nl">Finkenkrug</lido:displayPlace>
+                     <lido:place>
+                        <lido:placeID lido:source="geonames" lido:type="uri">https://sws.geonames.org/2926752</lido:placeID>
+                        <lido:placeID lido:source="TGN" lido:type="uri">http://vocab.getty.edu/tgn/7191185</lido:placeID>
+                        <lido:placeID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4393256-3</lido:placeID>
+                        <lido:placeID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q1417477</lido:placeID>
+                        <lido:placeID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/place/57265</lido:placeID>
+                        <lido:namePlaceSet>
+                           <lido:appellationValue>Finkenkrug</lido:appellationValue>
+                           <lido:appellationValue xml:lang="de">Finkenkrug</lido:appellationValue>
+                           <lido:appellationValue xml:lang="en">Finkenkrug</lido:appellationValue>
+                           <lido:appellationValue xml:lang="fa">فینکنکروگ</lido:appellationValue>
+                           <lido:appellationValue xml:lang="fr">Finkenkrug</lido:appellationValue>
+                           <lido:appellationValue xml:lang="nl">Finkenkrug</lido:appellationValue>
+                        </lido:namePlaceSet>
+                        <lido:gml>
+                           <gml:Point xmlns:gml="http://www.opengis.net/gml" srsName="EPSG:4326">
+                              <gml:pos>52.563400268555 13.042499542236</gml:pos>
+                           </gml:Point>
+                        </lido:gml>
+                     </lido:place>
+                  </lido:subjectPlace>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="aat" lido:type="uri">http://vocab.getty.edu/aat/300132466</lido:conceptID>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4018406-7</lido:conceptID>
+                     <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh85136255</lido:conceptID>
+                     <lido:conceptID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q49389</lido:conceptID>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Tourismus</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/549</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Tourismus</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ar">سياحة</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="bn">পর্যটন</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="cs">Turistika</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="da">Turisme</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="de">Tourismus</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="el">τουρισμός</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="en">Tourism</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="es">Turismo</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fa">گردشگری</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fi">Matkailu</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="fr">Tourisme</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="he">תיירות</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hi">पर्यटन</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="hu">turizmus</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="id">Pariwisata</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="it">Turismo</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ja">観光</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ka">ტურიზმი</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ko">관광</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="nl">Toerisme</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pl">Turystyka</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="pt">Turismo</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ro">Turism</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ru">туризм</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sv">Turism</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="sw">Utalii</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ta">சுற்றுலா</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="th">การท่องเที่ยว</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tl">Turismo</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="tr">Turizm</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="ur">سیاحت</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="vi">du lịch</lido:term>
+                     <lido:term lido:addedSearchTerm="no" xml:lang="zh">旅游</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">http://d-nb.info/gnd/4064532-0</lido:conceptID>
+                     <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh85060793.html</lido:conceptID>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">http://de.wikipedia.org/wiki/Wandern</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/4568</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Wandern</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">http://d-nb.info/gnd/4562994-8</lido:conceptID>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">https://de.wikipedia.org/wiki/Forsthaus</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/27172</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Forsthaus</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+         </lido:subjectWrap>
+         <lido:relatedWorksWrap/>
+      </lido:objectRelationWrap>
+   </lido:descriptiveMetadata>
+   <lido:administrativeMetadata xml:lang="de">
+      <lido:rightsWorkWrap>
+         <lido:rightsWorkSet>
+            <lido:rightsHolder>
+               <lido:legalBodyName>
+                  <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:rightsHolder>
+         </lido:rightsWorkSet>
+      </lido:rightsWorkWrap>
+      <lido:recordWrap>
+         <lido:recordID lido:type="museum-digital">67233</lido:recordID>
+         <lido:recordType>
+            <lido:term lido:addedSearchTerm="no">item</lido:term>
+         </lido:recordType>
+         <lido:recordSource lido:type="dataProvider">
+            <lido:legalBodyName>
+               <lido:appellationValue>museum-digital</lido:appellationValue>
+            </lido:legalBodyName>
+            <lido:legalBodyWeblink>https://berlin.museum-digital.de/</lido:legalBodyWeblink>
+         </lido:recordSource>
+         <lido:recordSource>
+            <lido:legalBodyID lido:type="isil">DE-B185</lido:legalBodyID>
+            <lido:legalBodyName>
+               <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+            </lido:legalBodyName>
+         </lido:recordSource>
+         <lido:recordRights>
+            <lido:rightsType>
+               <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no">CC BY</lido:term>
+            </lido:rightsType>
+            <lido:rightsHolder>
+               <lido:legalBodyID lido:type="isil">DE-B185</lido:legalBodyID>
+               <lido:legalBodyName>
+                  <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+               </lido:legalBodyName>
+               <lido:legalBodyWeblink>http://geschichte-brandenburg.de/</lido:legalBodyWeblink>
+            </lido:rightsHolder>
+            <lido:creditLine>Förderprogramm zur Digitalisierung von Objekten des kulturellen Erbes des Landes Berlin</lido:creditLine>
+         </lido:recordRights>
+         <lido:recordInfoSet>
+            <lido:recordInfoLink>https://berlin.museum-digital.de/index.php?t=objekt&amp;oges=67233</lido:recordInfoLink>
+            <lido:recordMetadataDate>2021-04-27 07:59:53</lido:recordMetadataDate>
+         </lido:recordInfoSet>
+      </lido:recordWrap>
+      <lido:resourceWrap>
+         <lido:resourceSet lido:sortorder="1">
+            <lido:resourceID lido:source="image" lido:type="local">48815</lido:resourceID>
+            <lido:resourceRepresentation lido:type="masterfile">
+               <lido:linkResource lido:formatResource="image/tiff"/>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_thumb">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/202007/100h_finkenkrug-kr-osthavelland-forsthaus-67233.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_preview">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/202007/200w_finkenkrug-kr-osthavelland-forsthaus-67233.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/202007/finkenkrug-kr-osthavelland-forsthaus-67233.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceType>
+               <lido:term lido:addedSearchTerm="no">image</lido:term>
+            </lido:resourceType>
+            <lido:resourceRelType>
+               <lido:term lido:addedSearchTerm="no">Hauptansicht</lido:term>
+            </lido:resourceRelType>
+            <lido:resourceDescription>Finkenkrug (Kr. Osthavelland): Forsthaus</lido:resourceDescription>
+            <lido:resourceSource lido:type="creator">
+               <lido:legalBodyName>
+                  <lido:appellationValue>Thomas Voßbeck, 2020</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:resourceSource>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+                  <lido:term lido:addedSearchTerm="no">CC BY</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V.</lido:appellationValue>
+                  </lido:legalBodyName>
+               </lido:rightsHolder>
+               <lido:creditLine>Thomas Voßbeck, 2020</lido:creditLine>
+            </lido:rightsResource>
+         </lido:resourceSet>
+      </lido:resourceWrap>
+   </lido:administrativeMetadata>
+</lido:lido>
+

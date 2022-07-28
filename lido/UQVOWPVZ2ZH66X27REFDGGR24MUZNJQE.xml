@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lido:lido xmlns:lido="http://www.lido-schema.org"
+           xmlns:xalan="http://xml.apache.org/xalan">
+   <lido:lidoRecID lido:source="https://berlin.museum-digital.de/index.php?t=institution&amp;instnr=32"
+                   lido:type="local">DE-B185/67190</lido:lidoRecID>
+   <lido:category/>
+   <lido:descriptiveMetadata xml:lang="de">
+      <lido:objectClassificationWrap>
+         <lido:objectWorkTypeWrap>
+            <lido:objectWorkType>
+               <lido:conceptID lido:source="gnd" lido:type="uri">http://d-nb.info/gnd/4067453-8</lido:conceptID>
+               <lido:conceptID lido:source="grobsystematik" lido:type="uri">https://term.museum-digital.de/grobsystematik/tag/14445</lido:conceptID>
+               <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh85039408</lido:conceptID>
+               <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/945</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Handzeichnung</lido:term>
+            </lido:objectWorkType>
+         </lido:objectWorkTypeWrap>
+         <lido:classificationWrap>
+            <lido:classification lido:type="Sammlung">
+               <lido:conceptID lido:source="local" lido:type="collection_id">705</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Handzeichnungen, Druckgraphik, Gemälde</lido:term>
+            </lido:classification>
+            <lido:classification lido:type="Sammlung">
+               <lido:conceptID lido:source="local" lido:type="collection_id">706</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Ansichten</lido:term>
+            </lido:classification>
+            <lido:classification lido:type="Sammlung">
+               <lido:conceptID lido:source="local" lido:type="collection_id">708</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no" xml:lang="de">Brandenburg</lido:term>
+            </lido:classification>
+         </lido:classificationWrap>
+      </lido:objectClassificationWrap>
+      <lido:objectIdentificationWrap>
+         <lido:titleWrap>
+            <lido:titleSet>
+               <lido:appellationValue lido:pref="preferred">Wilsnack (Kr. Westprignitz ): Wunderblutkirche von Südwesten</lido:appellationValue>
+            </lido:titleSet>
+         </lido:titleWrap>
+         <lido:repositoryWrap>
+            <lido:repositorySet lido:type="current">
+               <lido:repositoryName>
+                  <lido:legalBodyID lido:type="isil">DE-B185</lido:legalBodyID>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+                  </lido:legalBodyName>
+                  <lido:legalBodyWeblink>http://geschichte-brandenburg.de/</lido:legalBodyWeblink>
+               </lido:repositoryName>
+               <lido:workID lido:type="inventory number">LGV-Archiv, C 12 H-2-001</lido:workID>
+               <lido:repositoryLocation>
+                  <lido:namePlaceSet>
+                     <lido:appellationValue>Berlin</lido:appellationValue>
+                  </lido:namePlaceSet>
+                  <lido:gml>
+                     <gml:Point xmlns:gml="http://www.opengis.net/gml" srsName="EPSG:4326">
+                        <gml:pos>52.51533127 13.40440559</gml:pos>
+                     </gml:Point>
+                  </lido:gml>
+               </lido:repositoryLocation>
+            </lido:repositorySet>
+         </lido:repositoryWrap>
+         <lido:objectDescriptionWrap>
+            <lido:objectDescriptionSet>
+               <lido:descriptiveNoteValue>Das Aquarell zeigt die im Spätmittelalter aus ganz Europa besuchte Wallfahrtskirche, die nach einem angeblichen Hostienwunder 1386 errichtet wurde. Das zweigeschossige Wohnhaus unter hohem Walmdach westlich der Kirche ist nicht erhalten.
+
+Bez. li. u. "Die Wunderblutkirche in Wilsnack. / [später hinzugesetzt:] Zur frdl. Erinnerung an das Osterfest 1946 / und an Else und Richard Heideklang.", re. u. "Aufn. 4. 10. 24. Hg."
+Altbestand des Archivs (erworben vor 1988).</lido:descriptiveNoteValue>
+               <lido:sourceDescriptiveNote>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:sourceDescriptiveNote>
+            </lido:objectDescriptionSet>
+         </lido:objectDescriptionWrap>
+         <lido:objectMeasurementsWrap>
+            <lido:objectMeasurementsSet>
+               <lido:displayObjectMeasurements>Blattgröße: Höhe 33,8 cm, Breite 34,6 cm ; markierter Bildausschnitt Höhe 24,7 cm, Breite 26,3 cm</lido:displayObjectMeasurements>
+               <lido:objectMeasurements/>
+            </lido:objectMeasurementsSet>
+         </lido:objectMeasurementsWrap>
+      </lido:objectIdentificationWrap>
+      <lido:eventWrap>
+         <lido:eventSet>
+            <lido:event>
+               <lido:eventType>
+                  <lido:conceptID lido:type="uri">https://event-types.museum-digital.org/9</lido:conceptID>
+                  <lido:term lido:addedSearchTerm="no">Gemalt</lido:term>
+               </lido:eventType>
+               <lido:eventDate>
+                  <lido:displayDate>04.10.1924</lido:displayDate>
+                  <lido:displayDate xml:lang="ar">04/10/1924</lido:displayDate>
+                  <lido:displayDate xml:lang="de">04.10.1924</lido:displayDate>
+                  <lido:displayDate xml:lang="en">October 04, 1924</lido:displayDate>
+                  <lido:displayDate xml:lang="es">04/10/1924</lido:displayDate>
+                  <lido:displayDate xml:lang="fa">04/10/1924</lido:displayDate>
+                  <lido:displayDate xml:lang="fr">04/10/1924</lido:displayDate>
+                  <lido:displayDate xml:lang="hu">1924. október 04.</lido:displayDate>
+                  <lido:displayDate xml:lang="id">04 Oktober 1924</lido:displayDate>
+                  <lido:displayDate xml:lang="it">04/10/1924</lido:displayDate>
+                  <lido:displayDate xml:lang="ja">1924年10月04日</lido:displayDate>
+                  <lido:displayDate xml:lang="ka">04.10.1924</lido:displayDate>
+                  <lido:displayDate xml:lang="ko">1924년 10월 04일</lido:displayDate>
+                  <lido:displayDate xml:lang="pl">04.10.1924</lido:displayDate>
+                  <lido:displayDate xml:lang="pt">04/10/1924</lido:displayDate>
+                  <lido:displayDate xml:lang="ro">04.10.1924</lido:displayDate>
+                  <lido:displayDate xml:lang="ru">04.10.1924</lido:displayDate>
+                  <lido:displayDate xml:lang="ta">04-10-1924</lido:displayDate>
+                  <lido:displayDate xml:lang="tl">Oktubre 04, 1924</lido:displayDate>
+                  <lido:displayDate xml:lang="tr">04.10.1924</lido:displayDate>
+                  <lido:displayDate xml:lang="zh">1924年10月04日</lido:displayDate>
+                  <lido:date>
+                     <lido:earliestDate>1924</lido:earliestDate>
+                     <lido:latestDate>1924</lido:latestDate>
+                  </lido:date>
+               </lido:eventDate>
+            </lido:event>
+         </lido:eventSet>
+         <lido:eventSet>
+            <lido:event>
+               <lido:eventType>
+                  <lido:conceptID lido:type="uri">http://terminology.lido-schema.org/lido00003</lido:conceptID>
+                  <lido:term>Event (non-specified)</lido:term>
+               </lido:eventType>
+               <lido:eventMaterialsTech>
+                  <lido:displayMaterialsTech>Bleistift, Aquarell auf festem Zeichenkarton</lido:displayMaterialsTech>
+               </lido:eventMaterialsTech>
+            </lido:event>
+         </lido:eventSet>
+      </lido:eventWrap>
+      <lido:objectRelationWrap>
+         <lido:subjectWrap>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectPlace>
+                     <lido:displayPlace>Bad Wilsnack</lido:displayPlace>
+                     <lido:displayPlace xml:lang="ar">باد فيلسناك</lido:displayPlace>
+                     <lido:displayPlace xml:lang="cs">Bad Wilsnack</lido:displayPlace>
+                     <lido:displayPlace xml:lang="da">Bad Wilsnack</lido:displayPlace>
+                     <lido:displayPlace xml:lang="de">Bad Wilsnack</lido:displayPlace>
+                     <lido:displayPlace xml:lang="en">Bad Wilsnack</lido:displayPlace>
+                     <lido:displayPlace xml:lang="es">Bad Wilsnack</lido:displayPlace>
+                     <lido:displayPlace xml:lang="fa">باد ویلزناک</lido:displayPlace>
+                     <lido:displayPlace xml:lang="fr">Bad Wilsnack</lido:displayPlace>
+                     <lido:displayPlace xml:lang="hu">Bad Wilsnack</lido:displayPlace>
+                     <lido:displayPlace xml:lang="it">Bad Wilsnack</lido:displayPlace>
+                     <lido:displayPlace xml:lang="nl">Bad Wilsnack</lido:displayPlace>
+                     <lido:displayPlace xml:lang="pl">Bad Wilsnack</lido:displayPlace>
+                     <lido:displayPlace xml:lang="ro">Bad Wilsnack</lido:displayPlace>
+                     <lido:displayPlace xml:lang="ru">Бад-Вильснак</lido:displayPlace>
+                     <lido:displayPlace xml:lang="sv">Bad Wilsnack</lido:displayPlace>
+                     <lido:displayPlace xml:lang="tr">Bad Wilsnack</lido:displayPlace>
+                     <lido:displayPlace xml:lang="zh">巴特维尔斯纳克</lido:displayPlace>
+                     <lido:place>
+                        <lido:placeID lido:source="geonames" lido:type="uri">https://sws.geonames.org/2953316</lido:placeID>
+                        <lido:placeID lido:source="TGN" lido:type="uri">http://vocab.getty.edu/tgn/1036409</lido:placeID>
+                        <lido:placeID lido:source="gnd" lido:type="uri">https://d-nb.info/gnd/4066231-7</lido:placeID>
+                        <lido:placeID lido:source="wikidata" lido:type="uri">https://www.wikidata.org/wiki/Q570108</lido:placeID>
+                        <lido:placeID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/place/3586</lido:placeID>
+                        <lido:namePlaceSet>
+                           <lido:appellationValue>Bad Wilsnack</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ar">باد فيلسناك</lido:appellationValue>
+                           <lido:appellationValue xml:lang="cs">Bad Wilsnack</lido:appellationValue>
+                           <lido:appellationValue xml:lang="da">Bad Wilsnack</lido:appellationValue>
+                           <lido:appellationValue xml:lang="de">Bad Wilsnack</lido:appellationValue>
+                           <lido:appellationValue xml:lang="en">Bad Wilsnack</lido:appellationValue>
+                           <lido:appellationValue xml:lang="es">Bad Wilsnack</lido:appellationValue>
+                           <lido:appellationValue xml:lang="fa">باد ویلزناک</lido:appellationValue>
+                           <lido:appellationValue xml:lang="fr">Bad Wilsnack</lido:appellationValue>
+                           <lido:appellationValue xml:lang="hu">Bad Wilsnack</lido:appellationValue>
+                           <lido:appellationValue xml:lang="it">Bad Wilsnack</lido:appellationValue>
+                           <lido:appellationValue xml:lang="nl">Bad Wilsnack</lido:appellationValue>
+                           <lido:appellationValue xml:lang="pl">Bad Wilsnack</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ro">Bad Wilsnack</lido:appellationValue>
+                           <lido:appellationValue xml:lang="ru">Бад-Вильснак</lido:appellationValue>
+                           <lido:appellationValue xml:lang="sv">Bad Wilsnack</lido:appellationValue>
+                           <lido:appellationValue xml:lang="tr">Bad Wilsnack</lido:appellationValue>
+                           <lido:appellationValue xml:lang="zh">巴特维尔斯纳克</lido:appellationValue>
+                        </lido:namePlaceSet>
+                        <lido:gml>
+                           <gml:Point xmlns:gml="http://www.opengis.net/gml" srsName="EPSG:4326">
+                              <gml:pos>52.950000762939 11.949722290039</gml:pos>
+                           </gml:Point>
+                        </lido:gml>
+                     </lido:place>
+                  </lido:subjectPlace>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="aat" lido:type="uri">http://vocab.getty.edu/aat/300069279</lido:conceptID>
+                     <lido:conceptID lido:source="gnd" lido:type="uri">http://d-nb.info/gnd/4064460-1</lido:conceptID>
+                     <lido:conceptID lido:source="lcsh" lido:type="uri">http://id.loc.gov/authorities/subjects/sh85102131</lido:conceptID>
+                     <lido:conceptID lido:source="Wikipedia" lido:type="uri">http://de.wikipedia.org/wiki/Wallfahrt</lido:conceptID>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/10038</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Wallfahrt</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectConcept>
+                     <lido:conceptID lido:source="md:term" lido:type="uri">https://term.museum-digital.de/md-de/tag/45858</lido:conceptID>
+                     <lido:term lido:addedSearchTerm="no">Kirche</lido:term>
+                  </lido:subjectConcept>
+               </lido:subject>
+            </lido:subjectSet>
+         </lido:subjectWrap>
+         <lido:relatedWorksWrap/>
+      </lido:objectRelationWrap>
+   </lido:descriptiveMetadata>
+   <lido:administrativeMetadata xml:lang="de">
+      <lido:rightsWorkWrap>
+         <lido:rightsWorkSet>
+            <lido:rightsHolder>
+               <lido:legalBodyName>
+                  <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:rightsHolder>
+         </lido:rightsWorkSet>
+      </lido:rightsWorkWrap>
+      <lido:recordWrap>
+         <lido:recordID lido:type="museum-digital">67190</lido:recordID>
+         <lido:recordType>
+            <lido:term lido:addedSearchTerm="no">item</lido:term>
+         </lido:recordType>
+         <lido:recordSource lido:type="dataProvider">
+            <lido:legalBodyName>
+               <lido:appellationValue>museum-digital</lido:appellationValue>
+            </lido:legalBodyName>
+            <lido:legalBodyWeblink>https://berlin.museum-digital.de/</lido:legalBodyWeblink>
+         </lido:recordSource>
+         <lido:recordSource>
+            <lido:legalBodyID lido:type="isil">DE-B185</lido:legalBodyID>
+            <lido:legalBodyName>
+               <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+            </lido:legalBodyName>
+         </lido:recordSource>
+         <lido:recordRights>
+            <lido:rightsType>
+               <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+               <lido:term lido:addedSearchTerm="no">CC BY</lido:term>
+            </lido:rightsType>
+            <lido:rightsHolder>
+               <lido:legalBodyID lido:type="isil">DE-B185</lido:legalBodyID>
+               <lido:legalBodyName>
+                  <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V., Archiv</lido:appellationValue>
+               </lido:legalBodyName>
+               <lido:legalBodyWeblink>http://geschichte-brandenburg.de/</lido:legalBodyWeblink>
+            </lido:rightsHolder>
+            <lido:creditLine>Förderprogramm zur Digitalisierung von Objekten des kulturellen Erbes des Landes Berlin</lido:creditLine>
+         </lido:recordRights>
+         <lido:recordInfoSet>
+            <lido:recordInfoLink>https://berlin.museum-digital.de/index.php?t=objekt&amp;oges=67190</lido:recordInfoLink>
+            <lido:recordMetadataDate>2021-04-27 07:59:53</lido:recordMetadataDate>
+         </lido:recordInfoSet>
+      </lido:recordWrap>
+      <lido:resourceWrap>
+         <lido:resourceSet lido:sortorder="1">
+            <lido:resourceID lido:source="image" lido:type="local">48773</lido:resourceID>
+            <lido:resourceRepresentation lido:type="masterfile">
+               <lido:linkResource lido:formatResource="image/tiff"/>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_thumb">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/202007/100h_wilsnack-kr-westprignitz-wunderblutkirche-von-suedwesten-67190.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="image_preview">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/202007/200w_wilsnack-kr-westprignitz-wunderblutkirche-von-suedwesten-67190.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceRepresentation lido:type="http://terminology.lido-schema.org/lido00464">
+               <lido:linkResource lido:formatResource="image/jpeg">https://berlin.museum-digital.de/data/berlin/images/202007/wilsnack-kr-westprignitz-wunderblutkirche-von-suedwesten-67190.jpg</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceType>
+               <lido:term lido:addedSearchTerm="no">image</lido:term>
+            </lido:resourceType>
+            <lido:resourceRelType>
+               <lido:term lido:addedSearchTerm="no">Hauptansicht</lido:term>
+            </lido:resourceRelType>
+            <lido:resourceDescription>Wilsnack (Kr. Westprignitz ): Wunderblutkirche von Südwesten</lido:resourceDescription>
+            <lido:resourceSource lido:type="creator">
+               <lido:legalBodyName>
+                  <lido:appellationValue>Thomas Voßbeck, 2020</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:resourceSource>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="uri">https://creativecommons.org/licenses/by/4.0/</lido:conceptID>
+                  <lido:term lido:addedSearchTerm="no">CC BY</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Landesgeschichtliche Vereinigung für die Mark Brandenburg e.V.</lido:appellationValue>
+                  </lido:legalBodyName>
+               </lido:rightsHolder>
+               <lido:creditLine>Thomas Voßbeck, 2020</lido:creditLine>
+            </lido:rightsResource>
+         </lido:resourceSet>
+      </lido:resourceWrap>
+   </lido:administrativeMetadata>
+</lido:lido>
+

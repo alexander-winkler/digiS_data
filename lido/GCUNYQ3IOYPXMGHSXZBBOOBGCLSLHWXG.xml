@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lido:lido xmlns:lido="http://www.lido-schema.org"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <lido:lidoRecID lido:source="info:isil/DE-2380" lido:type="local">DE-2380/1942</lido:lidoRecID>
+    <lido:descriptiveMetadata xml:lang="de">
+      <lido:objectClassificationWrap>
+        <lido:objectWorkTypeWrap>
+            <lido:objectWorkType>
+               <lido:conceptID lido:type="URI">http://vocab.getty.edu/aat/300127104</lido:conceptID>
+               <lido:term>Fotografie</lido:term>
+            </lido:objectWorkType>
+        </lido:objectWorkTypeWrap>
+      </lido:objectClassificationWrap>
+      <lido:objectIdentificationWrap>
+        <lido:titleWrap>
+            <lido:titleSet>
+               <lido:appellationValue lido:pref="preferred" xml:lang="de">Wilhelm Adolf Lette</lido:appellationValue>
+            </lido:titleSet>
+        </lido:titleWrap>
+        <lido:repositoryWrap>
+            <lido:repositorySet lido:type="current">
+               <lido:repositoryName>
+                  <lido:legalBodyID lido:source="ISIL (ISO 15511)" lido:type="URI">info:isil/DE-2380</lido:legalBodyID>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Archiv des Lette-Vereins Stiftung des öffentlichen Rechts</lido:appellationValue>
+                  </lido:legalBodyName>
+                  <lido:legalBodyWeblink>http://www.letteverein.berlin/ueber-uns/lette-archiv/</lido:legalBodyWeblink>
+               </lido:repositoryName>
+               <lido:workID lido:type="Inventarnummer">Archiv_114_04</lido:workID>
+               <lido:repositoryLocation>
+                  <lido:namePlaceSet>
+                     <lido:appellationValue>Berlin</lido:appellationValue>
+                  </lido:namePlaceSet>
+               </lido:repositoryLocation>
+            </lido:repositorySet>
+        </lido:repositoryWrap>
+        <lido:objectDescriptionWrap>
+            <lido:objectDescriptionSet>
+               <lido:descriptiveNoteValue>Fotografie einer Porträtbüste, abgebildet Büste für Wilhelm Adolf Lette über dem Haupteingang des Lette-Vereins, Berlin Viktoria-Luise-Platz. - Foto: Doris Obschernitzki, 1984</lido:descriptiveNoteValue>
+            </lido:objectDescriptionSet>
+        </lido:objectDescriptionWrap>
+      </lido:objectIdentificationWrap>
+      <lido:eventWrap>
+        <lido:eventSet>
+            <lido:event>
+               <lido:eventType>
+                  <lido:conceptID lido:type="URI">http://terminology.lido-schema.org/lido00007</lido:conceptID>
+                  <lido:term>Herstellung</lido:term>
+               </lido:eventType>
+               <lido:eventActor>
+                  <lido:displayActorInRole>Alfred Messel (1853 - 1909) (Architekt)</lido:displayActorInRole>
+                  <lido:actorInRole>
+                     <lido:actor lido:type="Person">
+                        <lido:actorID lido:type="URI">http://d-nb.info/gnd/116914009</lido:actorID>
+                        <lido:nameActorSet>
+                           <lido:appellationValue>Messel, Alfred</lido:appellationValue>
+                        </lido:nameActorSet>
+                        <lido:vitalDatesActor>
+                           <lido:earliestDate>1853</lido:earliestDate>
+                           <lido:latestDate>1909</lido:latestDate>
+                        </lido:vitalDatesActor>
+                     </lido:actor>
+                     <lido:roleActor>
+                        <lido:conceptID lido:type="URI">http://vocab.getty.edu/aat/300024987</lido:conceptID>
+                        <lido:term>Architekt</lido:term>
+                     </lido:roleActor>
+                  </lido:actorInRole>
+               </lido:eventActor>
+               <lido:eventActor>
+                  <lido:displayActorInRole>Doris Obschernitzki (Fotografin)</lido:displayActorInRole>
+                  <lido:actorInRole>
+                     <lido:actor lido:type="Person">
+                        <lido:actorID lido:type="URI">http://d-nb.info/gnd/121339653</lido:actorID>
+                        <lido:nameActorSet>
+                           <lido:appellationValue>Obschernitzki, Doris</lido:appellationValue>
+                        </lido:nameActorSet>
+                     </lido:actor>
+                     <lido:roleActor>
+                        <lido:conceptID lido:type="URI">http://vocab.getty.edu/aat/300025687</lido:conceptID>
+                        <lido:term>Fotografin</lido:term>
+                     </lido:roleActor>
+                  </lido:actorInRole>
+               </lido:eventActor>
+               <lido:eventDate>
+                  <lido:displayDate>1984</lido:displayDate>
+                  <lido:date>
+                     <lido:earliestDate>1984</lido:earliestDate>
+                  </lido:date>
+               </lido:eventDate>
+               <lido:eventMaterialsTech>
+                  <lido:displayMaterialsTech>Fotopapier / Fotografie</lido:displayMaterialsTech>
+                  <lido:materialsTech>
+                     <lido:termMaterialsTech lido:type="Material">
+                        <lido:conceptID lido:type="URI">http://vocab.getty.edu/aat/300014190</lido:conceptID>
+                        <lido:term>Fotopapier</lido:term>
+                     </lido:termMaterialsTech>
+                     <lido:termMaterialsTech lido:type="Technik">
+                        <lido:conceptID lido:type="URI">http://vocab.getty.edu/aat/300053203</lido:conceptID>
+                        <lido:term>Fotografie</lido:term>
+                     </lido:termMaterialsTech>
+                  </lido:materialsTech>
+               </lido:eventMaterialsTech>
+            </lido:event>
+        </lido:eventSet>
+      </lido:eventWrap>
+      <lido:objectRelationWrap>
+        <lido:subjectWrap>
+            <lido:subjectSet>
+               <lido:displaySubject>Plastik</lido:displaySubject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:displaySubject>Büste</lido:displaySubject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:displaySubject>Messel-Bau</lido:displaySubject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectActor>
+                     <lido:displayActor>Wilhelm Adolf Lette (1799-1868)</lido:displayActor>
+                     <lido:actor lido:type="Person">
+                        <lido:actorID lido:type="URI">http://d-nb.info/gnd/116956178</lido:actorID>
+                        <lido:nameActorSet>
+                           <lido:appellationValue>Lette, Wilhelm Adolf</lido:appellationValue>
+                        </lido:nameActorSet>
+                        <lido:vitalDatesActor>
+                           <lido:earliestDate>1799</lido:earliestDate>
+                           <lido:latestDate>1868</lido:latestDate>
+                        </lido:vitalDatesActor>
+                     </lido:actor>
+                  </lido:subjectActor>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectPlace>
+                     <lido:displayPlace>Berlin; Viktoria-Luise-Platz 6</lido:displayPlace>
+                     <lido:place>
+                        <lido:namePlaceSet>
+                           <lido:appellationValue>Viktoria-Luise-Platz 6</lido:appellationValue>
+                        </lido:namePlaceSet>
+                        <lido:partOfPlace>
+                           <lido:namePlaceSet>
+                              <lido:appellationValue>Berlin</lido:appellationValue>
+                           </lido:namePlaceSet>
+                        </lido:partOfPlace>
+                     </lido:place>
+                  </lido:subjectPlace>
+               </lido:subject>
+            </lido:subjectSet>
+        </lido:subjectWrap>
+      </lido:objectRelationWrap>
+    </lido:descriptiveMetadata>
+    <lido:administrativeMetadata xml:lang="de">
+      <lido:rightsWorkWrap>
+        <lido:rightsWorkSet>
+            <lido:rightsType>
+               <lido:term>Nutzungsrechte</lido:term>
+            </lido:rightsType>
+            <lido:rightsHolder>
+               <lido:legalBodyName>
+                  <lido:appellationValue>Archiv des Lette-Vereins Stiftung des öffentlichen Rechts</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:rightsHolder>
+            <lido:creditLine>Senatskanzlei für Kulturelle Angelegenheiten des Landes Berlin (Förderprogramm Digitalisierung)</lido:creditLine>
+        </lido:rightsWorkSet>
+      </lido:rightsWorkWrap>
+      <lido:recordWrap>
+        <lido:recordID lido:type="local">1942</lido:recordID>
+        <lido:recordType>
+            <lido:term>Einzelobjekt</lido:term>
+        </lido:recordType>
+        <lido:recordSource>
+            <lido:legalBodyName>
+               <lido:appellationValue>Archiv des Lette-Vereins Stiftung des öffentlichen Rechts</lido:appellationValue>
+            </lido:legalBodyName>
+            <lido:legalBodyWeblink>http://www.letteverein.berlin/ueber-uns/lette-archiv/</lido:legalBodyWeblink>
+        </lido:recordSource>
+        <lido:recordRights>
+            <lido:rightsType>
+               <lido:conceptID lido:source="http://creativecommons.org" lido:type="URI">http://creativecommons.org/publicdomain/zero/1.0/</lido:conceptID>
+               <lido:term>CC0 1.0 Public Domain Dedication</lido:term>
+            </lido:rightsType>
+        </lido:recordRights>
+        <lido:recordInfoSet>
+            <lido:recordInfoLink lido:formatResource="html">https://easydb.lette-verein.de/detail/1942</lido:recordInfoLink>
+        </lido:recordInfoSet>
+      </lido:recordWrap>
+      <lido:resourceWrap>
+        <lido:resourceSet>
+            <lido:resourceID lido:type="local">Archiv_114_04_Büste_1984</lido:resourceID>
+            <lido:resourceRepresentation lido:type="image_master">
+               <lido:linkResource>https://easydb.lette-verein.de/eas/partitions/2/0/0/857/0fe3c9bfe940ab7e89b2087f163a579737705871/image/png/Archiv_114_04_B%c3%bcste_1984-preview.png</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceType>
+               <lido:term>Digitalfoto</lido:term>
+            </lido:resourceType>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="URI">https://creativecommons.org/licenses/by/3.0/de/</lido:conceptID>
+                  <lido:term>CC-BY - Namensnennung 3.0 Deutschland</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Archiv des Lette-Vereins Stiftung des öffentlichen Rechts</lido:appellationValue>
+                  </lido:legalBodyName>
+               </lido:rightsHolder>
+            </lido:rightsResource>
+        </lido:resourceSet>
+      </lido:resourceWrap>
+    </lido:administrativeMetadata>
+  </lido:lido>
+

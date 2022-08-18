@@ -1,0 +1,811 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lido:lido xmlns:lido="http://www.lido-schema.org"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <lido:lidoRecID lido:source="info:isil/DE-2380" lido:type="local">DE-2380/2824</lido:lidoRecID>
+    <lido:descriptiveMetadata xml:lang="de">
+      <lido:objectClassificationWrap>
+        <lido:objectWorkTypeWrap>
+            <lido:objectWorkType>
+               <lido:conceptID lido:type="URI">http://vocab.getty.edu/aat/300248280</lido:conceptID>
+               <lido:term>Broschüre</lido:term>
+            </lido:objectWorkType>
+        </lido:objectWorkTypeWrap>
+      </lido:objectClassificationWrap>
+      <lido:objectIdentificationWrap>
+        <lido:titleWrap>
+            <lido:titleSet>
+               <lido:appellationValue lido:pref="preferred" xml:lang="de">Die Photographische Lehranstalt des Lette-Vereins. Eine Erinnerungsschrift 1890-1900</lido:appellationValue>
+            </lido:titleSet>
+        </lido:titleWrap>
+        <lido:repositoryWrap>
+            <lido:repositorySet lido:type="current">
+               <lido:repositoryName>
+                  <lido:legalBodyID lido:source="ISIL (ISO 15511)" lido:type="URI">info:isil/DE-2380</lido:legalBodyID>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Archiv des Lette-Vereins Stiftung des öffentlichen Rechts</lido:appellationValue>
+                  </lido:legalBodyName>
+                  <lido:legalBodyWeblink>http://www.letteverein.berlin/ueber-uns/lette-archiv/</lido:legalBodyWeblink>
+               </lido:repositoryName>
+               <lido:workID lido:type="Inventarnummer">LV_Archiv_A_101_03_01</lido:workID>
+               <lido:repositoryLocation>
+                  <lido:namePlaceSet>
+                     <lido:appellationValue>Berlin</lido:appellationValue>
+                  </lido:namePlaceSet>
+               </lido:repositoryLocation>
+            </lido:repositorySet>
+        </lido:repositoryWrap>
+        <lido:objectDescriptionWrap>
+            <lido:objectDescriptionSet>
+               <lido:descriptiveNoteValue>Berlin: Lette-Verein, gedruckt von der Berliner Buchdruckerei-Actien-Gesellschaft Setzerinnen-Schule des Lette-Vereins, 1901. - 24 Seiten, 23 x 16 cm. - Enhält : Zur Vorgeschichte von Richard Stettiner; Die Entwicklung der Anstalt von Dankmar Schultz-Hencke; Der Klub der ehemligen Schülerinnen von Marie Kundt; Verzeichnis der Kommissionsmitglieder 1890-1900</lido:descriptiveNoteValue>
+            </lido:objectDescriptionSet>
+        </lido:objectDescriptionWrap>
+      </lido:objectIdentificationWrap>
+      <lido:eventWrap>
+        <lido:eventSet>
+            <lido:event>
+               <lido:eventType>
+                  <lido:conceptID lido:type="URI">http://terminology.lido-schema.org/lido00007</lido:conceptID>
+                  <lido:term>Herstellung</lido:term>
+               </lido:eventType>
+               <lido:eventActor>
+                  <lido:displayActorInRole>Richard Stettiner (1865-1927) (Verfasser)</lido:displayActorInRole>
+                  <lido:actorInRole>
+                     <lido:actor lido:type="Person">
+                        <lido:actorID lido:type="URI">http://d-nb.info/gnd/117236012</lido:actorID>
+                        <lido:nameActorSet>
+                           <lido:appellationValue>Stettiner, Richard</lido:appellationValue>
+                        </lido:nameActorSet>
+                        <lido:vitalDatesActor>
+                           <lido:earliestDate>1865</lido:earliestDate>
+                           <lido:latestDate>1927</lido:latestDate>
+                        </lido:vitalDatesActor>
+                     </lido:actor>
+                     <lido:roleActor>
+                        <lido:conceptID lido:type="URI">http://vocab.getty.edu/aat/300025492</lido:conceptID>
+                        <lido:term>Verfasser</lido:term>
+                     </lido:roleActor>
+                  </lido:actorInRole>
+               </lido:eventActor>
+               <lido:eventActor>
+                  <lido:displayActorInRole>Marie Kundt (1870-1932) (Verfasserin)</lido:displayActorInRole>
+                  <lido:actorInRole>
+                     <lido:actor lido:type="Person">
+                        <lido:actorID lido:type="URI">http://d-nb.info/gnd/102740143</lido:actorID>
+                        <lido:nameActorSet>
+                           <lido:appellationValue>Kundt, Marie</lido:appellationValue>
+                        </lido:nameActorSet>
+                        <lido:vitalDatesActor>
+                           <lido:earliestDate>1870</lido:earliestDate>
+                           <lido:latestDate>1932</lido:latestDate>
+                        </lido:vitalDatesActor>
+                     </lido:actor>
+                     <lido:roleActor>
+                        <lido:conceptID lido:type="URI">http://vocab.getty.edu/aat/300025492</lido:conceptID>
+                        <lido:term>Verfasserin</lido:term>
+                     </lido:roleActor>
+                  </lido:actorInRole>
+               </lido:eventActor>
+               <lido:eventActor>
+                  <lido:displayActorInRole>Dankmar Carl Sigbert Schultz-Hencke (1857-1913) (Verfasser)</lido:displayActorInRole>
+                  <lido:actorInRole>
+                     <lido:actor lido:type="Person">
+                        <lido:actorID lido:type="URI">http://d-nb.info/gnd/127969446</lido:actorID>
+                        <lido:nameActorSet>
+                           <lido:appellationValue>Schultz-Hencke, Dankmar Carl Sigbert</lido:appellationValue>
+                        </lido:nameActorSet>
+                        <lido:vitalDatesActor>
+                           <lido:earliestDate>1857</lido:earliestDate>
+                           <lido:latestDate>1913</lido:latestDate>
+                        </lido:vitalDatesActor>
+                     </lido:actor>
+                     <lido:roleActor>
+                        <lido:conceptID lido:type="URI">http://vocab.getty.edu/aat/300025492</lido:conceptID>
+                        <lido:term>Verfasser</lido:term>
+                     </lido:roleActor>
+                  </lido:actorInRole>
+               </lido:eventActor>
+               <lido:eventActor>
+                  <lido:displayActorInRole>Setzerinnenschule des Lette-Vereins, Berlin (Verlag)</lido:displayActorInRole>
+                  <lido:actorInRole>
+                     <lido:actor lido:type="Organisation">
+                        <lido:nameActorSet>
+                           <lido:appellationValue>Setzerinnenschule des Lette-Vereins, Berlin</lido:appellationValue>
+                        </lido:nameActorSet>
+                     </lido:actor>
+                     <lido:roleActor>
+                        <lido:conceptID lido:type="URI">http://vocab.getty.edu/aat/300025574</lido:conceptID>
+                        <lido:term>Verlag</lido:term>
+                     </lido:roleActor>
+                  </lido:actorInRole>
+               </lido:eventActor>
+               <lido:eventDate>
+                  <lido:displayDate>1901</lido:displayDate>
+                  <lido:date>
+                     <lido:earliestDate>1901</lido:earliestDate>
+                  </lido:date>
+               </lido:eventDate>
+               <lido:eventMaterialsTech>
+                  <lido:displayMaterialsTech>Papier / Druck</lido:displayMaterialsTech>
+                  <lido:materialsTech>
+                     <lido:termMaterialsTech lido:type="Material">
+                        <lido:conceptID lido:type="URI">http://vocab.getty.edu/aat/300014109</lido:conceptID>
+                        <lido:term>Papier</lido:term>
+                     </lido:termMaterialsTech>
+                     <lido:termMaterialsTech lido:type="Technik">
+                        <lido:conceptID lido:type="URI">http://vocab.getty.edu/aat/300199635</lido:conceptID>
+                        <lido:term>Druck</lido:term>
+                     </lido:termMaterialsTech>
+                  </lido:materialsTech>
+               </lido:eventMaterialsTech>
+            </lido:event>
+        </lido:eventSet>
+      </lido:eventWrap>
+      <lido:objectRelationWrap>
+        <lido:subjectWrap>
+            <lido:subjectSet>
+               <lido:displaySubject>Berufsausbildung</lido:displaySubject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:displaySubject>Photographiegeschichte</lido:displaySubject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:displaySubject>Photographische Lehranstalt</lido:displaySubject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:displaySubject>Fotografiegeschichte</lido:displaySubject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:displaySubject>Photographinnen-Ausbildung</lido:displaySubject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:displaySubject>Setzerinnen-Schule</lido:displaySubject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:displaySubject>Lette-Verein</lido:displaySubject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:displaySubject>Frauenbewegung</lido:displaySubject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectActor>
+                     <lido:displayActor>Adolf Meyer</lido:displayActor>
+                     <lido:actor lido:type="Person">
+                        <lido:nameActorSet>
+                           <lido:appellationValue>Meyer, Adolf</lido:appellationValue>
+                        </lido:nameActorSet>
+                     </lido:actor>
+                  </lido:subjectActor>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectActor>
+                     <lido:displayActor>Anna Köppen (1881-1965)</lido:displayActor>
+                     <lido:actor lido:type="Person">
+                        <lido:actorID lido:type="URI">http://d-nb.info/gnd/127261168</lido:actorID>
+                        <lido:nameActorSet>
+                           <lido:appellationValue>Köppen, Anna</lido:appellationValue>
+                        </lido:nameActorSet>
+                        <lido:vitalDatesActor>
+                           <lido:earliestDate>1881</lido:earliestDate>
+                           <lido:latestDate>1965</lido:latestDate>
+                        </lido:vitalDatesActor>
+                     </lido:actor>
+                  </lido:subjectActor>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectActor>
+                     <lido:displayActor>A. Poppe</lido:displayActor>
+                     <lido:actor lido:type="Person">
+                        <lido:nameActorSet>
+                           <lido:appellationValue>Poppe, A.</lido:appellationValue>
+                        </lido:nameActorSet>
+                     </lido:actor>
+                  </lido:subjectActor>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectActor>
+                     <lido:displayActor>Albert Frisch</lido:displayActor>
+                     <lido:actor lido:type="Person">
+                        <lido:actorID lido:type="URI">http://d-nb.info/gnd/1076839711</lido:actorID>
+                        <lido:nameActorSet>
+                           <lido:appellationValue>Frisch, Albert</lido:appellationValue>
+                        </lido:nameActorSet>
+                     </lido:actor>
+                  </lido:subjectActor>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectActor>
+                     <lido:displayActor>Annemarie Lorek (erwähnt 1901 - 1910)</lido:displayActor>
+                     <lido:actor lido:type="Person">
+                        <lido:nameActorSet>
+                           <lido:appellationValue>Lorek, Annemarie</lido:appellationValue>
+                        </lido:nameActorSet>
+                     </lido:actor>
+                  </lido:subjectActor>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectActor>
+                     <lido:displayActor>Helene Lenz</lido:displayActor>
+                     <lido:actor lido:type="Person">
+                        <lido:nameActorSet>
+                           <lido:appellationValue>Lenz, Helene</lido:appellationValue>
+                        </lido:nameActorSet>
+                     </lido:actor>
+                  </lido:subjectActor>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectActor>
+                     <lido:displayActor>Sophie Nagel</lido:displayActor>
+                     <lido:actor lido:type="Person">
+                        <lido:nameActorSet>
+                           <lido:appellationValue>Nagel, Sophie</lido:appellationValue>
+                        </lido:nameActorSet>
+                     </lido:actor>
+                  </lido:subjectActor>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectActor>
+                     <lido:displayActor>Lüders</lido:displayActor>
+                     <lido:actor lido:type="Person">
+                        <lido:nameActorSet>
+                           <lido:appellationValue>Lüders</lido:appellationValue>
+                        </lido:nameActorSet>
+                     </lido:actor>
+                  </lido:subjectActor>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectActor>
+                     <lido:displayActor>Meyerheim</lido:displayActor>
+                     <lido:actor lido:type="Person">
+                        <lido:nameActorSet>
+                           <lido:appellationValue>Meyerheim</lido:appellationValue>
+                        </lido:nameActorSet>
+                     </lido:actor>
+                  </lido:subjectActor>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectActor>
+                     <lido:displayActor>Anna Schepeler-Lette (1829-1897)</lido:displayActor>
+                     <lido:actor lido:type="Person">
+                        <lido:actorID lido:type="URI">http://d-nb.info/gnd/117230456</lido:actorID>
+                        <lido:nameActorSet>
+                           <lido:appellationValue>Schepeler-Lette, Anna</lido:appellationValue>
+                        </lido:nameActorSet>
+                        <lido:vitalDatesActor>
+                           <lido:earliestDate>1829</lido:earliestDate>
+                           <lido:latestDate>1897</lido:latestDate>
+                        </lido:vitalDatesActor>
+                     </lido:actor>
+                  </lido:subjectActor>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectActor>
+                     <lido:displayActor>Wilhelm Kopske</lido:displayActor>
+                     <lido:actor lido:type="Person">
+                        <lido:actorID lido:type="URI">http://d-nb.info/gnd/131004751</lido:actorID>
+                        <lido:nameActorSet>
+                           <lido:appellationValue>Kopske, Wilhelm</lido:appellationValue>
+                        </lido:nameActorSet>
+                     </lido:actor>
+                  </lido:subjectActor>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectActor>
+                     <lido:displayActor>Schneider</lido:displayActor>
+                     <lido:actor lido:type="Person">
+                        <lido:nameActorSet>
+                           <lido:appellationValue>Schneider</lido:appellationValue>
+                        </lido:nameActorSet>
+                     </lido:actor>
+                  </lido:subjectActor>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectActor>
+                     <lido:displayActor>Cäcilie Aaron</lido:displayActor>
+                     <lido:actor lido:type="Person">
+                        <lido:nameActorSet>
+                           <lido:appellationValue>Aaron, Cäcilie</lido:appellationValue>
+                        </lido:nameActorSet>
+                     </lido:actor>
+                  </lido:subjectActor>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectActor>
+                     <lido:displayActor>Louise Geifrig-Korodi</lido:displayActor>
+                     <lido:actor lido:type="Person">
+                        <lido:actorID lido:type="URI">http://d-nb.info/gnd/182458717</lido:actorID>
+                        <lido:nameActorSet>
+                           <lido:appellationValue>Geifrig-Korodi, Louise</lido:appellationValue>
+                        </lido:nameActorSet>
+                     </lido:actor>
+                  </lido:subjectActor>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectActor>
+                     <lido:displayActor>Luise Peters (erwähnt 1898 -1907)</lido:displayActor>
+                     <lido:actor lido:type="Person">
+                        <lido:nameActorSet>
+                           <lido:appellationValue>Peters, Luise</lido:appellationValue>
+                        </lido:nameActorSet>
+                     </lido:actor>
+                  </lido:subjectActor>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectActor>
+                     <lido:displayActor>Schwestern Vogelsang</lido:displayActor>
+                     <lido:actor lido:type="Person">
+                        <lido:nameActorSet>
+                           <lido:appellationValue>Vogelsang, Schwestern</lido:appellationValue>
+                        </lido:nameActorSet>
+                     </lido:actor>
+                  </lido:subjectActor>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectActor>
+                     <lido:displayActor>Gottfried Spemann</lido:displayActor>
+                     <lido:actor lido:type="Person">
+                        <lido:actorID lido:type="URI">http://d-nb.info/gnd/117491918</lido:actorID>
+                        <lido:nameActorSet>
+                           <lido:appellationValue>Spemann, Gottfried</lido:appellationValue>
+                        </lido:nameActorSet>
+                     </lido:actor>
+                  </lido:subjectActor>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectActor>
+                     <lido:displayActor>Anna Pfotenhauer</lido:displayActor>
+                     <lido:actor lido:type="Person">
+                        <lido:nameActorSet>
+                           <lido:appellationValue>Pfotenhauer, Anna</lido:appellationValue>
+                        </lido:nameActorSet>
+                     </lido:actor>
+                  </lido:subjectActor>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectActor>
+                     <lido:displayActor>Martin Stettiner</lido:displayActor>
+                     <lido:actor lido:type="Person">
+                        <lido:nameActorSet>
+                           <lido:appellationValue>Stettiner, Martin</lido:appellationValue>
+                        </lido:nameActorSet>
+                     </lido:actor>
+                  </lido:subjectActor>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectActor>
+                     <lido:displayActor>Ewald</lido:displayActor>
+                     <lido:actor lido:type="Person">
+                        <lido:nameActorSet>
+                           <lido:appellationValue>Ewald</lido:appellationValue>
+                        </lido:nameActorSet>
+                     </lido:actor>
+                  </lido:subjectActor>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectActor>
+                     <lido:displayActor>Anna Tondeur (vor 1873 - 1901)</lido:displayActor>
+                     <lido:actor lido:type="Person">
+                        <lido:nameActorSet>
+                           <lido:appellationValue>Tondeur, Anna</lido:appellationValue>
+                        </lido:nameActorSet>
+                     </lido:actor>
+                  </lido:subjectActor>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectActor>
+                     <lido:displayActor>Cäcilie Seler-Sachs (1855 - 1932)</lido:displayActor>
+                     <lido:actor lido:type="Person">
+                        <lido:actorID lido:type="URI">http://d-nb.info/gnd/117473898</lido:actorID>
+                        <lido:nameActorSet>
+                           <lido:appellationValue>Seler-Sachs, Cäcilie</lido:appellationValue>
+                        </lido:nameActorSet>
+                        <lido:vitalDatesActor>
+                           <lido:earliestDate>1855</lido:earliestDate>
+                           <lido:latestDate>1932</lido:latestDate>
+                        </lido:vitalDatesActor>
+                     </lido:actor>
+                  </lido:subjectActor>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectActor>
+                     <lido:displayActor>Helene Renelt (erwähnt 1898 - 1904)</lido:displayActor>
+                     <lido:actor lido:type="Person">
+                        <lido:nameActorSet>
+                           <lido:appellationValue>Renelt, Helene</lido:appellationValue>
+                        </lido:nameActorSet>
+                     </lido:actor>
+                  </lido:subjectActor>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectActor>
+                     <lido:displayActor>Arons</lido:displayActor>
+                     <lido:actor lido:type="Person">
+                        <lido:nameActorSet>
+                           <lido:appellationValue>Arons</lido:appellationValue>
+                        </lido:nameActorSet>
+                     </lido:actor>
+                  </lido:subjectActor>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectActor>
+                     <lido:displayActor>W. Rosenstein (erwähnt 1890 - 1919)</lido:displayActor>
+                     <lido:actor lido:type="Person">
+                        <lido:nameActorSet>
+                           <lido:appellationValue>Rosenstein, W.</lido:appellationValue>
+                        </lido:nameActorSet>
+                     </lido:actor>
+                  </lido:subjectActor>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectActor>
+                     <lido:displayActor>Lesser</lido:displayActor>
+                     <lido:actor lido:type="Person">
+                        <lido:nameActorSet>
+                           <lido:appellationValue>Lesser</lido:appellationValue>
+                        </lido:nameActorSet>
+                     </lido:actor>
+                  </lido:subjectActor>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectActor>
+                     <lido:displayActor>Charlotte König</lido:displayActor>
+                     <lido:actor lido:type="Person">
+                        <lido:nameActorSet>
+                           <lido:appellationValue>König, Charlotte</lido:appellationValue>
+                        </lido:nameActorSet>
+                     </lido:actor>
+                  </lido:subjectActor>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectActor>
+                     <lido:displayActor>Hirschwald</lido:displayActor>
+                     <lido:actor lido:type="Person">
+                        <lido:nameActorSet>
+                           <lido:appellationValue>Hirschwald</lido:appellationValue>
+                        </lido:nameActorSet>
+                     </lido:actor>
+                  </lido:subjectActor>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectActor>
+                     <lido:displayActor>Gabriele Kaiser (erwähnt 1901 - 1910)</lido:displayActor>
+                     <lido:actor lido:type="Person">
+                        <lido:nameActorSet>
+                           <lido:appellationValue>Kaiser, Gabriele</lido:appellationValue>
+                        </lido:nameActorSet>
+                     </lido:actor>
+                  </lido:subjectActor>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectActor>
+                     <lido:displayActor>Elisabeth Kaselowsky (1836-1918)</lido:displayActor>
+                     <lido:actor lido:type="Person">
+                        <lido:nameActorSet>
+                           <lido:appellationValue>Kaselowsky, Elisabeth</lido:appellationValue>
+                        </lido:nameActorSet>
+                        <lido:vitalDatesActor>
+                           <lido:earliestDate>1836</lido:earliestDate>
+                           <lido:latestDate>1918</lido:latestDate>
+                        </lido:vitalDatesActor>
+                     </lido:actor>
+                  </lido:subjectActor>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectActor>
+                     <lido:displayActor>Clara Schröder</lido:displayActor>
+                     <lido:actor lido:type="Person">
+                        <lido:nameActorSet>
+                           <lido:appellationValue>Schröder, Clara</lido:appellationValue>
+                        </lido:nameActorSet>
+                     </lido:actor>
+                  </lido:subjectActor>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectActor>
+                     <lido:displayActor>Gustav von Goßler (1838 - 1902)</lido:displayActor>
+                     <lido:actor lido:type="Person">
+                        <lido:actorID lido:type="URI">http://d-nb.info/gnd/116788070</lido:actorID>
+                        <lido:nameActorSet>
+                           <lido:appellationValue>Goßler, Gustav von</lido:appellationValue>
+                        </lido:nameActorSet>
+                        <lido:vitalDatesActor>
+                           <lido:earliestDate>1838</lido:earliestDate>
+                           <lido:latestDate>1902</lido:latestDate>
+                        </lido:vitalDatesActor>
+                     </lido:actor>
+                  </lido:subjectActor>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectActor>
+                     <lido:displayActor>Karl Merz</lido:displayActor>
+                     <lido:actor lido:type="Person">
+                        <lido:nameActorSet>
+                           <lido:appellationValue>Merz, Karl</lido:appellationValue>
+                        </lido:nameActorSet>
+                     </lido:actor>
+                  </lido:subjectActor>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectActor>
+                     <lido:displayActor>Martha Mueck</lido:displayActor>
+                     <lido:actor lido:type="Person">
+                        <lido:nameActorSet>
+                           <lido:appellationValue>Mueck, Martha</lido:appellationValue>
+                        </lido:nameActorSet>
+                     </lido:actor>
+                  </lido:subjectActor>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectActor>
+                     <lido:displayActor>Blankenburg</lido:displayActor>
+                     <lido:actor lido:type="Person">
+                        <lido:nameActorSet>
+                           <lido:appellationValue>Blankenburg</lido:appellationValue>
+                        </lido:nameActorSet>
+                     </lido:actor>
+                  </lido:subjectActor>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectActor>
+                     <lido:displayActor>Hermann Wilhelm Vogel (1834 - 1898)</lido:displayActor>
+                     <lido:actor lido:type="Person">
+                        <lido:actorID lido:type="URI">http://d-nb.info/gnd/117463191</lido:actorID>
+                        <lido:nameActorSet>
+                           <lido:appellationValue>Vogel, Hermann Wilhelm</lido:appellationValue>
+                        </lido:nameActorSet>
+                        <lido:vitalDatesActor>
+                           <lido:earliestDate>1834</lido:earliestDate>
+                           <lido:latestDate>1898</lido:latestDate>
+                        </lido:vitalDatesActor>
+                     </lido:actor>
+                  </lido:subjectActor>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectActor>
+                     <lido:displayActor>Louis Simon (erwähnt 1901 - 1919)</lido:displayActor>
+                     <lido:actor lido:type="Person">
+                        <lido:nameActorSet>
+                           <lido:appellationValue>Simon, Louis</lido:appellationValue>
+                        </lido:nameActorSet>
+                     </lido:actor>
+                  </lido:subjectActor>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectActor>
+                     <lido:displayActor>Karl Hoffacker (1856-1919)</lido:displayActor>
+                     <lido:actor lido:type="Person">
+                        <lido:actorID lido:type="URI">http://d-nb.info/gnd/116935626</lido:actorID>
+                        <lido:nameActorSet>
+                           <lido:appellationValue>Hoffacker, Karl</lido:appellationValue>
+                        </lido:nameActorSet>
+                        <lido:vitalDatesActor>
+                           <lido:earliestDate>1856</lido:earliestDate>
+                           <lido:latestDate>1919</lido:latestDate>
+                        </lido:vitalDatesActor>
+                     </lido:actor>
+                  </lido:subjectActor>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectActor>
+                     <lido:displayActor>Becher</lido:displayActor>
+                     <lido:actor lido:type="Person">
+                        <lido:nameActorSet>
+                           <lido:appellationValue>Becher</lido:appellationValue>
+                        </lido:nameActorSet>
+                     </lido:actor>
+                  </lido:subjectActor>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectActor>
+                     <lido:displayActor>Marie Breithaupt</lido:displayActor>
+                     <lido:actor lido:type="Person">
+                        <lido:nameActorSet>
+                           <lido:appellationValue>Breithaupt, Marie</lido:appellationValue>
+                        </lido:nameActorSet>
+                     </lido:actor>
+                  </lido:subjectActor>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectActor>
+                     <lido:displayActor>Mathilde Stettiner</lido:displayActor>
+                     <lido:actor lido:type="Person">
+                        <lido:nameActorSet>
+                           <lido:appellationValue>Stettiner, Mathilde</lido:appellationValue>
+                        </lido:nameActorSet>
+                     </lido:actor>
+                  </lido:subjectActor>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectActor>
+                     <lido:displayActor>Gustav Jähne (erwähnt 1898 - 1904)</lido:displayActor>
+                     <lido:actor lido:type="Person">
+                        <lido:actorID lido:type="URI">http://d-nb.info/gnd/127949992</lido:actorID>
+                        <lido:nameActorSet>
+                           <lido:appellationValue>Jähne, Gustav</lido:appellationValue>
+                        </lido:nameActorSet>
+                     </lido:actor>
+                  </lido:subjectActor>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectActor>
+                     <lido:displayActor>Marie Landsberg (erwähnt 1901 - 1910)</lido:displayActor>
+                     <lido:actor lido:type="Person">
+                        <lido:actorID lido:type="URI">http://d-nb.info/gnd/1091571651</lido:actorID>
+                        <lido:nameActorSet>
+                           <lido:appellationValue>Landsberg, Marie</lido:appellationValue>
+                        </lido:nameActorSet>
+                     </lido:actor>
+                  </lido:subjectActor>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectActor>
+                     <lido:displayActor>Weigert</lido:displayActor>
+                     <lido:actor lido:type="Person">
+                        <lido:nameActorSet>
+                           <lido:appellationValue>Weigert</lido:appellationValue>
+                        </lido:nameActorSet>
+                     </lido:actor>
+                  </lido:subjectActor>
+               </lido:subject>
+            </lido:subjectSet>
+            <lido:subjectSet>
+               <lido:subject>
+                  <lido:subjectActor>
+                     <lido:displayActor>Olga Blumberg (erwähnt 1901 - 1910)</lido:displayActor>
+                     <lido:actor lido:type="Person">
+                        <lido:nameActorSet>
+                           <lido:appellationValue>Blumberg, Olga</lido:appellationValue>
+                        </lido:nameActorSet>
+                     </lido:actor>
+                  </lido:subjectActor>
+               </lido:subject>
+            </lido:subjectSet>
+        </lido:subjectWrap>
+      </lido:objectRelationWrap>
+    </lido:descriptiveMetadata>
+    <lido:administrativeMetadata xml:lang="de">
+      <lido:rightsWorkWrap>
+        <lido:rightsWorkSet>
+            <lido:rightsType>
+               <lido:term>Nutzungsrechte</lido:term>
+            </lido:rightsType>
+            <lido:rightsHolder>
+               <lido:legalBodyName>
+                  <lido:appellationValue>Archiv des Lette-Vereins Stiftung des öffentlichen Rechts</lido:appellationValue>
+               </lido:legalBodyName>
+            </lido:rightsHolder>
+            <lido:creditLine>Senatskanzlei für Kulturelle Angelegenheiten des Landes Berlin (Förderprogramm Digitalisierung)</lido:creditLine>
+        </lido:rightsWorkSet>
+      </lido:rightsWorkWrap>
+      <lido:recordWrap>
+        <lido:recordID lido:type="local">2824</lido:recordID>
+        <lido:recordType>
+            <lido:term>Einzelobjekt</lido:term>
+        </lido:recordType>
+        <lido:recordSource>
+            <lido:legalBodyName>
+               <lido:appellationValue>Archiv des Lette-Vereins Stiftung des öffentlichen Rechts</lido:appellationValue>
+            </lido:legalBodyName>
+            <lido:legalBodyWeblink>http://www.letteverein.berlin/ueber-uns/lette-archiv/</lido:legalBodyWeblink>
+        </lido:recordSource>
+        <lido:recordRights>
+            <lido:rightsType>
+               <lido:conceptID lido:source="http://creativecommons.org" lido:type="URI">http://creativecommons.org/publicdomain/zero/1.0/</lido:conceptID>
+               <lido:term>CC0 1.0 Public Domain Dedication</lido:term>
+            </lido:rightsType>
+        </lido:recordRights>
+        <lido:recordInfoSet>
+            <lido:recordInfoLink lido:formatResource="html">https://easydb.lette-verein.de/detail/2824</lido:recordInfoLink>
+        </lido:recordInfoSet>
+      </lido:recordWrap>
+      <lido:resourceWrap>
+        <lido:resourceSet>
+            <lido:resourceID lido:type="local">126_LV_Archiv_A_101_03_01</lido:resourceID>
+            <lido:resourceRepresentation lido:type="image_master">
+               <lido:linkResource>https://easydb.lette-verein.de/eas/partitions/2/0/4000/4257/11def69569368eff678b3c19d8e20494bb27abff/image/png/126_LV_Archiv_A_101_03_01-preview.png</lido:linkResource>
+            </lido:resourceRepresentation>
+            <lido:resourceType>
+               <lido:term>Digitalfoto</lido:term>
+            </lido:resourceType>
+            <lido:rightsResource>
+               <lido:rightsType>
+                  <lido:conceptID lido:type="URI">https://creativecommons.org/publicdomain/mark/1.0/</lido:conceptID>
+                  <lido:term>Public Domain Mark 1.0</lido:term>
+               </lido:rightsType>
+               <lido:rightsHolder>
+                  <lido:legalBodyName>
+                     <lido:appellationValue>Archiv des Lette-Vereins Stiftung des öffentlichen Rechts</lido:appellationValue>
+                  </lido:legalBodyName>
+               </lido:rightsHolder>
+            </lido:rightsResource>
+        </lido:resourceSet>
+      </lido:resourceWrap>
+    </lido:administrativeMetadata>
+  </lido:lido>
+
